@@ -1,0 +1,81 @@
+Skill:
+  Name: Stuff in the kitchen
+  Id: 13
+
+New words:
+  - Word: nož
+    Translation: knife
+  - Word: vilica
+    Translation: fork
+  - Word: žlica
+    Translation: spoon
+  - Word: krožnik
+    Translation: plate
+  - Word: skodelica
+    Translation: cup
+  - Word: sol
+    Translation: salt
+  - Word: poper
+    Translation: pepper
+  - Word: sladkor
+    Translation: sugar
+  - Word: ponev
+    Translation: frying pan
+  - Word: vroče
+    Translation: hot
+  - Word: lonec
+    Translation: pot
+  - Word: kuhinja
+    Translation: kitchen
+  - Word: kuhati
+    Translation: to cook
+  - Word: palačinka
+    Translation: pancake
+  - Word: cmok
+    Translation: dumpling
+  - Word: skleda
+    Translation: bowl
+
+Phrases:
+  - Phrase: Nož leži na mizi.
+    Translation: The knife is lying on the table.
+  - Phrase: Vilica je srebrna.
+    Translation: The fork is silver.
+  - Phrase: Žlica je v soli.
+    Translation: The spoon is in the salt.
+  - Phrase: Krožnik je poln jedi.
+    Translation: The plate is full of food.
+  - Phrase: Skodelica je napolnjena z vodo.
+    Translation: The cup is filled with water.
+  - Phrase: Dam v čaj sladkor.
+    Translation: I will add sugar to the tea.
+  - Phrase: Veliko sladkorja je v skledi
+    Translation: There is a lot of sugar in the bowl.
+  - Phrase: Na ponvi se cvre moja palačinka.
+    Translation: My pancake is cooking on the frying pan.
+  - Phrase: Lonec je vroč.
+    Translation: The pot is hot
+  - Phrase: Lonec je na plamenu.
+    Translation: The pot is on the flame.
+  - Phrase: Kuhinja je čista.
+    Translation: The kitchen is clean.
+  - Phrase: On je z vilico.
+    Translation: He eats with a fork.
+  - Phrase: Ona pije iz skodelice.
+    Translation: She drinks from a cup.
+  - Phrase: Mi kuhamo v loncu.
+    Translation: We cook in a pot.
+  - Phrase: Na ponvi je meso.
+    Translation: There is meat in the frying pan.
+  - Phrase: Nož je oster.
+    Translation: The knife is sharp.
+  - Phrase: Vilice in noži so na mizi.
+    Translation: Forks and knives are on the table.
+  - Phrase: Žlica je polna popra.
+    Translation: The spoon is full of pepper.
+  - Phrase: Krožnik leži na tleh.
+    Translation: The plate is lying on the floor.
+  - Phrase: Konzerva je prazna.
+    Translation: The can is empty.
+  - Phrase: Kuhinja ima dober vonj zvečer.
+    Translation: The kitchen has a good smell in the evening.

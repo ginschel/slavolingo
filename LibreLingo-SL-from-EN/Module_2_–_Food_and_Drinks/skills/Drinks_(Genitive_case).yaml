@@ -1,0 +1,83 @@
+Skill:
+  Name: Drinks (Genitive case)
+  Id: 7
+
+New words:
+  - Word: voda
+    Translation: water
+  - Word: pivo
+    Translation: beer
+  - Word: piti
+    Translation: to drink
+  - Word: vino
+    Translation: wine
+  - Word: kava
+    Translation: coffee
+  - Word: sok
+    Translation: juice
+  - Word: hoteti (hoče)
+    Translation: to want (wants)
+  - Word: steklenica
+    Translation: bottle (flask)
+  - Word: poskusiti najti
+    Translation: to try to find
+  - Word: skodelica
+    Translation: glass
+  - Word: steklenica
+    Translation: bottle
+  - Word: čaj
+    Translation: tea
+  - Word: mleko
+    Translation: milk
+  - Word: brez
+    Translation: without
+  - Word: za
+    Translation: for
+  - Word: iz
+    Translation: from
+  - Word: pri
+    Translation: at/by
+
+Phrases:
+  - Phrase: Jaz nimam vode.
+    Translation: I do not have water.
+  - Phrase: Ona ne pije vina.
+    Translation: She does not drink wine.
+  - Phrase: Mi ne pijemo piva.
+    Translation: We do not drink beer.
+  - Phrase: Ti imaš steklenico soka?
+    Translation: Do you have a bottle of juice?
+  - Phrase: Oni ne kupujejo steklenic piva.
+    Translation: They are not buying bottles of beer.
+  - Phrase: On nima kave.
+    Translation: He does not have coffee.
+  - Phrase: Piješ brez mleka?
+    Translation: Do you drink without milk?
+  - Phrase: Ona ne pije čaja.
+    Translation: She does not drink tea.
+  - Phrase: Kozarec vina zame, prosim.
+    Translation: A glass of wine for me, please.
+  - Phrase: Steklenica vode leži na mizi.
+    Translation: A bottle of water is lying on the table.
+  - Phrase: Jaz ljubim sok brez sladkorja.
+    Translation: I like juice without sugar.
+  - Phrase: On nima rad kave brez mleka.
+    Translation: He does not like coffee without milk.
+  - Phrase: Si ti brez steklenice?
+    Translation: Are you without a bottle?
+  - Phrase: Ona poskuša najti skodelico brez vina.
+    Translation: She is trying to find a glass without wine.
+  - Phrase: On noče piti soka.
+    Translation: He does not want to drink juice.
+  - Phrase: Ti piješ vino?
+    Translation: Do you drink wine?
+  - Phrase: To vino je iz Poljske.
+    Translation: This wine is from Poland.
+  - Phrase: Pri Franku ni vodke.
+    Translation: Frank has no vodka.
+  - Phrase: Mi pijemo iz steklenice pivo.
+    Translation: We are drinking beer from the bottle.
+  - Phrase: Dajte mi kozarec vina, prosim.
+    Translation: Give me a glass of wine, please.
+  - Phrase: On pije za tebe
+    Translation: He is drinking for you

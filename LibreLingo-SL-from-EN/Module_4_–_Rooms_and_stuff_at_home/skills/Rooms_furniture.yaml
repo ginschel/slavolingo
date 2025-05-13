@@ -1,0 +1,77 @@
+Skill:
+  Name: Rooms/furniture
+  Id: 12
+
+New words:
+  - Word: soba
+    Translation: room
+  - Word: miza
+    Translation: table
+  - Word: stol
+    Translation: chair
+  - Word: blazina
+    Translation: pillow
+  - Word: postelja
+    Translation: bed
+  - Word: okno
+    Translation: window
+  - Word: vrata
+    Translation: doors
+  - Word: omara
+    Translation: wardrobe
+  - Word: skrinja
+    Translation: chest
+  - Word: polica
+    Translation: shelf
+  - Word: držati (drži)
+    Translation: to hold (holds)
+  - Word: viseti (visi)
+    Translation: to hang (hangs)
+  - Word: stena
+    Translation: wall
+  - Word: svetilka
+    Translation: lamp
+  - Word: dajati
+    Translation: to give
+
+Phrases:
+  - Phrase: Soba je topla in tiha.
+    Translation: The room is warm and quiet.
+  - Phrase: Miza stoji v sredini sobe.
+    Translation: The table stands in the middle of the room.
+  - Phrase: Stol je blizu mize.
+    Translation: The chair is near the table.
+  - Phrase: Postelja je mehka.
+    Translation: The bed is soft.
+  - Phrase: Okno je odprto.
+    Translation: The window is open.
+  - Phrase: Vrata so zaprta.
+    Translation: The doors are closed.
+  - Phrase: Omara ima veliko oblačil.
+    Translation: The wardrobe has many clothes.
+  - Phrase: Skrinja je pod posteljo.
+    Translation: The chest is under the bed.
+  - Phrase: Polica drži knjige.
+    Translation: The shelf holds books.
+  - Phrase: Svetilka sveti nad mizo.
+    Translation: The lamp shines above the table.
+  - Phrase: Soba ima dve okni.
+    Translation: The room has two windows.
+  - Phrase: Na mizi leži knjiga.
+    Translation: A book is lying on the table.
+  - Phrase: Stol je star, a udoben.
+    Translation: The chair is old, but comfortable.
+  - Phrase: Postelja je nova.
+    Translation: The bed is new.
+  - Phrase: Vrata vodijo do kuhinje.
+    Translation: The doors lead to the kitchen.
+  - Phrase: Omara je polna.
+    Translation: The wardrobe is full.
+  - Phrase: Skrinja je iz lesa.
+    Translation: The chest is made of wood.
+  - Phrase: Polica visi na steni.
+    Translation: The shelf hangs on the wall.
+  - Phrase: Svetilka daje svetlobo.
+    Translation: The lamp gives light.
+  - Phrase: V sobi je mirno.
+    Translation: It is quiet in the room.

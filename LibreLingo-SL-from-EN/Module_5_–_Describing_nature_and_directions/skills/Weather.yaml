@@ -1,0 +1,81 @@
+Skill:
+  Name: Weather
+  Id: 16
+
+New words:
+  - Word: vreme
+    Translation: weather
+  - Word: dež
+    Translation: rain
+  - Word: padati
+    Translation: to fall
+  - Word: sneg
+    Translation: snow
+  - Word: spreminjati se
+    Translation: to change
+  - Word: sonce
+    Translation: sun
+  - Word: svetiti
+    Translation: to shine
+  - Word: zrak
+    Translation: air
+  - Word: veter
+    Translation: wind
+  - Word: toplo
+    Translation: warm
+  - Word: hladno
+    Translation: cold
+  - Word: mraz
+    Translation: frost
+  - Word: oblak
+    Translation: cloud
+  - Word: greti (greje)
+    Translation: to heat (heats)
+  - Word: oblačno
+    Translation: cloudy
+  - Word: dišati
+    Translation: to smell
+  - Word: videti (vidi)
+    Translation: to see (sees)
+
+Phrases:
+  - Phrase: Vreme je dobro.
+    Translation: The weather is good.
+  - Phrase: Pada dež.
+    Translation: It is raining.
+  - Phrase: Sneg leži na zemlji.
+    Translation: Snow lies on the ground.
+  - Phrase: Sonce sveti.
+    Translation: The sun is shining.
+  - Phrase: Zrak je čist.
+    Translation: The air is clean.
+  - Phrase: Veter močno piha.
+    Translation: The wind is blowing strongly.
+  - Phrase: Danes je toplo.
+    Translation: It is warm today.
+  - Phrase: V Rusiji je hladno.
+    Translation: In Russia it is cold.
+  - Phrase: Mraz je močan.
+    Translation: The frost is strong.
+  - Phrase: Oblaki so temni.
+    Translation: The clouds are dark.
+  - Phrase: Pada sneg in dež.
+    Translation: Snow and rain are falling.
+  - Phrase: Vreme se spreminja.
+    Translation: The weather is changing.
+  - Phrase: Sonce nas greje.
+    Translation: The sun heats us.
+  - Phrase: Danes je toplo in suho.
+    Translation: It is warm and dry today.
+  - Phrase: Je veter močan?
+    Translation: Is the wind strong?
+  - Phrase: Mraz je zjutraj.
+    Translation: There is frost in the morning.
+  - Phrase: Danes je oblačno.
+    Translation: It is cloudy today.
+  - Phrase: Zrak diši po dežju.
+    Translation: The air smells of rain.
+  - Phrase: Danes ne vidim oblakov.
+    Translation: Today I do not see clouds.
+  - Phrase: Hladen veter piha s severa.
+    Translation: A cold wind is blowing from the north.
