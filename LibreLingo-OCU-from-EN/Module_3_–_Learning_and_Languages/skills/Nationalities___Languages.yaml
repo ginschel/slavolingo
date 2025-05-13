@@ -1,0 +1,67 @@
+Skill:
+  Name: Nationalities / Languages
+  Id: 11
+
+New words:
+  - Word: словѣнинъ
+    Translation: Slav
+  - Word: ѥзꙑкъ
+    Translation: language
+  - Word: дрьжава
+    Translation: country
+  - Word: народъ
+    Translation: nation
+  - Word: имѧ
+    Translation: name
+  - Word: Хръватка
+    Translation: Croat (f)
+  - Word: Рꙋсъ
+    Translation: Russian (m)
+  - Word: Полѭкъ
+    Translation: Pole (m)
+  - Word: Нѣмьць
+    Translation: German (m)
+  - Word: Аньгличанинъ
+    Translation: Englishman
+
+Phrases:
+  - Phrase: Онъ ѥстъ словѣниномъ.
+    Translation: He is a Slav.
+  - Phrase: Она глаголи на словѣньскомъ ѥзꙑцѣ.
+    Translation: She speaks the Slavic language.
+  - Phrase: Сь ѥстъ мои ѥзꙑкъ.
+    Translation: This is my language.
+  - Phrase: Дрьжаваѭ ѥстъ Полѥска.
+    Translation: The country is Poland.
+  - Phrase: Азъ ѥсмь Полѭкомъ.
+    Translation: I am a Pole.
+  - Phrase: Она ѥстъ Хръваткоѭ.
+    Translation: She is a Croat.
+  - Phrase: Онъ ѥстъ Рꙋсомъ.
+    Translation: He is a Russian.
+  - Phrase: Глаголиши ли на нѣмьчьскомъ ѥзꙑцѣ?
+    Translation: Do you speak the German language?
+  - Phrase: Аньгличанинъ глаголи на аньглийськомъ ѥзꙑцѣ.
+    Translation: An Englishman speaks the English language.
+  - Phrase: Мꙑ любимъ свои народъ.
+    Translation: We love our nation.
+  - Phrase: Сь ѥстъ имѧ моѥѩ дрьжавꙑ.
+    Translation: This is the name of my country.
+  - Phrase: Онъ знаѥтъ три ѩзꙑкꙑ.
+    Translation: He knows three languages.
+  - Phrase: Хръватъ глаголи на хръватьскомъ ѥзꙑцѣ.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Нѣмьць живєтъ въ Гєрмании.
+    Translation: A German lives in Germany.
+  - Phrase: Она знаѥтъ рꙋсьскꙑи и словѣньскꙑи.
+    Translation: She knows Russian and Slavic.
+  - Phrase: Сь ѥстъ народъ съ богатоѭ кꙋлтꙋроѭ.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Тꙑ ѥси Аньгличаниномъ?
+    Translation: Are you an Englishman?
+  - Phrase: Онъ глаголи каждъи ѩзꙑкъ добро.
+    Translation: He speaks every language well.
+  - Phrase: Мꙑ оучимъ сѧ рꙋсьскаѥго ѥзꙑка.
+    Translation: We are learning the Russian language.
+  - Phrase: Она знаѥтъ мьного народовъ.
+    Translation: She knows many nations.
