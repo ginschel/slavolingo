@@ -1,0 +1,89 @@
+Skill:
+  Name: Talking about Time (past tense)
+  Id: 31
+
+New words:
+  - Word: час
+    Translation: time
+  - Word: минута
+    Translation: minute
+  - Word: секунда
+    Translation: second
+  - Word: часина
+    Translation: hour
+  - Word: ту дањ
+    Translation: today
+  - Word: био
+    Translation: was (m)
+  - Word: била
+    Translation: was (f)
+  - Word: било
+    Translation: was (n)
+  - Word: били
+    Translation: were
+  - Word: шео
+    Translation: went/walked (m)
+  - Word: шла
+    Translation: went/walked (f)
+  - Word: шло
+    Translation: went/walked (n)
+  - Word: шли
+    Translation: went/walked (pl)
+  - Word: вчера
+    Translation: yesterday
+  - Word: завтра
+    Translation: tomorrow
+  - Word: вечер
+    Translation: evening
+  - Word: полноћ
+    Translation: midnight
+  - Word: колико
+    Translation: how much
+  - Word: спати (спи)
+    Translation: to sleep (sleeps)
+  - Word: трајати
+    Translation: to last
+
+Phrases:
+  - Phrase: Колико јест часа?
+    Translation: What time is it?
+  - Phrase: Он имал једну часину.
+    Translation: He had one hour.
+  - Phrase: Завтра јест за поздно.
+    Translation: Tomorrow is too late.
+  - Phrase: Вчера био понедељак.
+    Translation: Yesterday was Monday.
+  - Phrase: Вчера она била в дому о осмој часине.
+    Translation: Yesterday she was at home at the eighth hour.
+  - Phrase: Утром не било много тепло.
+    Translation: In the morning it was not very warm.
+  - Phrase: О трећем часине двадесет било хладно.
+    Translation: At twenty past the third hour it was cold.
+  - Phrase: Полноћ јест тиха.
+    Translation: Midnight is quiet.
+  - Phrase: Он шео до дома.
+    Translation: He went home.
+  - Phrase: Ви јесте шли до кина?
+    Translation: Have you gone to the cinema?
+  - Phrase: Они ничто не делали.
+    Translation: They did nothing.
+  - Phrase: Минута јест мала јединица часа.
+    Translation: A minute is a small unit of time.
+  - Phrase: Секунда јест кратка.
+    Translation: A second is short.
+  - Phrase: Ту дањ ти јеси не имал часине за то.
+    Translation: Today you did not have an hour for that.
+  - Phrase: Видимо се вечером о деветој часине.
+    Translation: We will see each other in the evening at the ninth hour.
+  - Phrase: Вчера о првом часине било лепје.
+    Translation: Yesterday at the first hour it was better.
+  - Phrase: Колико минут траја филм?
+    Translation: How many minutes does the film last?
+  - Phrase: Ја јесам био в дому утром.
+    Translation: I was at home in the morning.
+  - Phrase: Он спи до полноћи.
+    Translation: He sleeps until midnight.
+  - Phrase: Колико секунд има минута?
+    Translation: How many seconds are in a minute?
+  - Phrase: Вечером ми шли в ресторан.
+    Translation: In the evening we went to the restaurant.

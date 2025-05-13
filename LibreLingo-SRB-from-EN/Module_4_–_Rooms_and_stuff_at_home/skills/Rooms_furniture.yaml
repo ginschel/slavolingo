@@ -1,0 +1,77 @@
+Skill:
+  Name: Rooms/furniture
+  Id: 12
+
+New words:
+  - Word: покој
+    Translation: room
+  - Word: стол
+    Translation: table
+  - Word: стул
+    Translation: chair
+  - Word: подушка
+    Translation: pillow
+  - Word: постељ
+    Translation: bed
+  - Word: окно
+    Translation: window
+  - Word: двери
+    Translation: doors
+  - Word: шафа
+    Translation: wardrobe
+  - Word: скриња
+    Translation: chest
+  - Word: полица
+    Translation: shelf
+  - Word: држати (држи)
+    Translation: to hold (holds)
+  - Word: висети (виси)
+    Translation: to hang (hangs)
+  - Word: стена
+    Translation: wall
+  - Word: лампа
+    Translation: lamp
+  - Word: давати
+    Translation: to give
+
+Phrases:
+  - Phrase: Покој јест тепли и тихи.
+    Translation: The room is warm and quiet.
+  - Phrase: Стол стоји в средини покоја.
+    Translation: The table stands in the middle of the room.
+  - Phrase: Стул јест блиско стола.
+    Translation: The chair is near the table.
+  - Phrase: Постељ јест мека.
+    Translation: The bed is soft.
+  - Phrase: Окно јест откритo.
+    Translation: The window is open.
+  - Phrase: Двери сут закрите.
+    Translation: The doors are closed.
+  - Phrase: Шафа има много одежди.
+    Translation: The wardrobe has many clothes.
+  - Phrase: Скриња јест под постељу.
+    Translation: The chest is under the bed.
+  - Phrase: Полица држит књиги.
+    Translation: The shelf holds books.
+  - Phrase: Лампа свети над столом.
+    Translation: The lamp shines above the table.
+  - Phrase: Покој има две окна.
+    Translation: The room has two windows.
+  - Phrase: На столу лежи книга.
+    Translation: A book is lying on the table.
+  - Phrase: Столица јест стара, но комфортна.
+    Translation: The chair is old, but comfortable.
+  - Phrase: Постељ јест нова.
+    Translation: The bed is new.
+  - Phrase: Двери веду до кухиње.
+    Translation: The doors lead to the kitchen.
+  - Phrase: Шафа јест полна.
+    Translation: The wardrobe is full.
+  - Phrase: Скриња јест з древа.
+    Translation: The chest is made of wood.
+  - Phrase: Полица виси на стене.
+    Translation: The shelf hangs on the wall.
+  - Phrase: Лампа даје светло.
+    Translation: The lamp gives light.
+  - Phrase: В покоји јест спокојно.
+    Translation: It is quiet in the room.

@@ -1,0 +1,85 @@
+Skill:
+  Name: Nature
+  Id: 15
+
+New words:
+  - Word: река
+    Translation: river
+  - Word: чрез
+    Translation: through
+  - Word: гора
+    Translation: mountain
+  - Word: долина
+    Translation: valley
+  - Word: лес
+    Translation: forest
+  - Word: трава
+    Translation: grass
+  - Word: цвет
+    Translation: flower
+  - Word: роза
+    Translation: rose
+  - Word: расти (расте)
+    Translation: to grow (grows)
+  - Word: земја
+    Translation: earth
+  - Word: камени
+    Translation: stone
+  - Word: поље
+    Translation: field
+  - Word: дуб
+    Translation: oak
+  - Word: луна
+    Translation: moon
+  - Word: цвети (цвете)
+    Translation: to bloom (blooms)
+  - Word: древо
+    Translation: tree
+  - Word: лежати (лежи)
+    Translation: to lie (lies)
+  - Word: међу
+    Translation: between
+
+Phrases:
+  - Phrase: Река тече чрез долину.
+    Translation: The river flows through the valley.
+  - Phrase: Гора јест висока.
+    Translation: The mountain is high.
+  - Phrase: Ми идемо в лес.
+    Translation: We are going to the forest.
+  - Phrase: Трава јест зелена.
+    Translation: The grass is green.
+  - Phrase: Цвети красно цветут.
+    Translation: The flowers bloom beautifully.
+  - Phrase: Он стоји на каменију.
+    Translation: He is standing on the stone.
+  - Phrase: Земја јест мокра.
+    Translation: The earth is wet.
+  - Phrase: Роза расте на пољу.
+    Translation: The rose grows in the field.
+  - Phrase: Долина лежи међу горами.
+    Translation: The valley lies between the mountains.
+  - Phrase: Поље јест широко.
+    Translation: The field is wide.
+  - Phrase: Они иду чрез лес с много древами.
+    Translation: They are going through the forest with many trees.
+  - Phrase: Трава расте брзо.
+    Translation: The grass grows fast.
+  - Phrase: Камени сут тежке.
+    Translation: The stones are heavy.
+  - Phrase: Цвет расте из земје.
+    Translation: A flower grows from the earth.
+  - Phrase: Вода иде до реки.
+    Translation: Water goes to the river.
+  - Phrase: Поље јест за домом.
+    Translation: The field is behind the house.
+  - Phrase: Идемо к дубу.
+    Translation: We are going towards the oak.
+  - Phrase: Луна ту дањ красна
+    Translation: The moon today is beautiful
+  - Phrase: Ми стојимо на земји.
+    Translation: We are standing on the earth.
+  - Phrase: Они гледају в долину.
+    Translation: They are looking into the valley.
+  - Phrase: Река иде међу пољами.
+    Translation: The river goes between the fields.

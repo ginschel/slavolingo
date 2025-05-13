@@ -1,0 +1,77 @@
+Skill:
+  Name: Shapes
+  Id: 10
+
+New words:
+  - Word: круг
+    Translation: circle
+  - Word: квадрат
+    Translation: square
+  - Word: четире
+    Translation: four
+  - Word: долги
+    Translation: long
+  - Word: три
+    Translation: three
+  - Word: трикутник
+    Translation: triangle
+  - Word: стојати (стоји)
+    Translation: to stand (stands)
+  - Word: равни
+    Translation: straight
+  - Word: форма
+    Translation: shape
+  - Word: линија
+    Translation: line
+  - Word: точка
+    Translation: point
+  - Word: обрис
+    Translation: outline
+  - Word: страна
+    Translation: side
+  - Word: фигура
+    Translation: figure
+  - Word: облик
+    Translation: shape
+
+Phrases:
+  - Phrase: То јест круг.
+    Translation: This is a circle.
+  - Phrase: Квадрат има четире стран.
+    Translation: A square has four sides.
+  - Phrase: Трикутник има три стран.
+    Translation: A triangle has three sides.
+  - Phrase: Та линија јест долга.
+    Translation: This line is long.
+  - Phrase: То јест моја форма.
+    Translation: This is my shape.
+  - Phrase: Линија јест равна.
+    Translation: The line is straight.
+  - Phrase: Точка то мали пункт.
+    Translation: A point is a small dot.
+  - Phrase: Видимо обрис квадрата.
+    Translation: We see the outline of a square.
+  - Phrase: Фигура јест комплексна.
+    Translation: The figure is complex.
+  - Phrase: То јест прости облик.
+    Translation: This is a simple shape.
+  - Phrase: Ја малјујем велики круг.
+    Translation: I am drawing a big circle.
+  - Phrase: Квадрат и круг сут основне форми.
+    Translation: Square and circle are basic shapes.
+  - Phrase: Линија иде чрез страну.
+    Translation: The line goes through the side.
+  - Phrase: Точка лежи на линији.
+    Translation: The point lies on the line.
+  - Phrase: Она зна всяки обрис Англије.
+    Translation: She knows every outline of England.
+  - Phrase: То јест прости трикутник.
+    Translation: This is a simple triangle.
+  - Phrase: Он малјује фигури на папиру.
+    Translation: He is drawing figures on paper.
+  - Phrase: Форма јест интересна.
+    Translation: The shape is interesting.
+  - Phrase: Стол има облик квадрата.
+    Translation: The table has the shape of a square.
+  - Phrase: Красна фигура стоји на столу.
+    Translation: A beautiful figure is standing on the table.
