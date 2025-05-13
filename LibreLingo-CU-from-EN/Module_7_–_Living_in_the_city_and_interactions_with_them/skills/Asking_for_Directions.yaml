@@ -1,0 +1,67 @@
+Skill:
+  Name: Asking for Directions
+  Id: 25
+
+New words:
+  - Word: гдѣ
+    Translation: where
+  - Word: кꙋдꙑ
+    Translation: which way
+  - Word: направо
+    Translation: to the right
+  - Word: налѣво
+    Translation: to the left
+  - Word: прємо
+    Translation: straight
+  - Word: близъко
+    Translation: near
+  - Word: далєко
+    Translation: far
+  - Word: пꙑтати
+    Translation: to ask
+  - Word: показати
+    Translation: to show
+  - Word: пꙋть
+    Translation: path/way
+
+Phrases:
+  - Phrase: Гдѣ ѥстъ станициꙗ?
+    Translation: Where is the station?
+  - Phrase: Кꙋдꙑ идєтъ дорога?
+    Translation: Which way does the road go?
+  - Phrase: Идємъ направо.
+    Translation: We are going to the right.
+  - Phrase: Потомъ налѣво.
+    Translation: Then to the left.
+  - Phrase: Иди ровьно до моста.
+    Translation: Go straight to the bridge.
+  - Phrase: Проспєкъть ѥстъ близъко тръга.
+    Translation: The avenue is near the square.
+  - Phrase: Библиотека ѥстъ далєка.
+    Translation: The library is far away.
+  - Phrase: Пꙑтаѭ ихъ за дорогꙋ.
+    Translation: I ask them for the way.
+  - Phrase: Можєтє ли показати пꙋть?
+    Translation: Can you show me the way?
+  - Phrase: ылица идєтъ до цєнтра.
+    Translation: The street goes to the center.
+  - Phrase: Гдѣ ѥстъ близъкъи хотєлъ?
+    Translation: Where is the nearest hotel?
+  - Phrase: Кꙋдꙑ идєтє?
+    Translation: Which way are you going?
+  - Phrase: Идєтє прємо и потомъ направо.
+    Translation: Go straight and then to the right.
+  - Phrase: Станициꙗ ѥстъ налѣво.
+    Translation: The station is on the left.
+  - Phrase: Магазина ѥстъ близъко библиотекꙑ.
+    Translation: The shop is near the library.
+  - Phrase: Тръгъ ѥстъ далєко отъ хотєла.
+    Translation: The square is far from the hotel.
+  - Phrase: Пꙑтаѭ старꙋ женѫ.
+    Translation: I ask the old woman.
+  - Phrase: Онъ показоваѥтъ мьнѣ дорогꙋ.
+    Translation: He shows me the way.
+  - Phrase: ылица ѥстъ дълъга.
+    Translation: The street is long.
+  - Phrase: Кꙋдꙑ ѥдєтъ тъи поѥздъ?
+    Translation: Where is that train going?

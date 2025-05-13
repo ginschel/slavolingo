@@ -1,0 +1,81 @@
+Skill:
+  Name: Character (Conditional)
+  Id: 36
+
+New words:
+  - Word: добръ
+    Translation: good
+  - Word: зълъ
+    Translation: bad
+  - Word: силььнъ
+    Translation: strong
+  - Word: слабъ
+    Translation: weak
+  - Word: смѣлъ
+    Translation: brave
+  - Word: тихъ
+    Translation: quiet
+  - Word: мѫдръ
+    Translation: wise
+  - Word: глꙋпъ
+    Translation: stupid
+  - Word: искрєнъ
+    Translation: sincere
+  - Word: лѣнивъ
+    Translation: lazy
+  - Word: бꙑхъ
+    Translation: I would be
+  - Word: бꙑши
+    Translation: you would be
+  - Word: бꙑ
+    Translation: he/she/it would be
+  - Word: бꙑхомъ
+    Translation: we would be
+  - Word: бꙑстє
+    Translation: you would be
+  - Word: бꙑ
+    Translation: they would be
+  - Word: молъчати (молъчитъ)
+    Translation: to be silent (is silent)
+
+Phrases:
+  - Phrase: Онъ тъ добръ чловѣкъ.
+    Translation: He is a good person.
+  - Phrase: Она ѥстъ зла часомъ.
+    Translation: She is sometimes bad.
+  - Phrase: Силььнъи дꙋхъ ѥстъ важьнъ.
+    Translation: A strong spirit is important.
+  - Phrase: Онъ ѥстъ слабъ въ спортꙋ.
+    Translation: He is weak in sports.
+  - Phrase: Смѣлъ глаголи правилѫ.
+    Translation: Brave people speak the truth.
+  - Phrase: Какъ тꙑ бꙑхъ слꙑшалъ, тъ они бꙑ бꙑли тихи.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Мѫдръ знаѥтъ мьного.
+    Translation: A smart person knows much.
+  - Phrase: Какъ тꙑ бꙑши нє бꙑлъ глꙋпъ, тъ бꙑши нє дѣлалъ глꙋпостии.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Искрєнъи приꙗтєль ѥстъ драгоцѣньнъи.
+    Translation: A sincere friend is valuable.
+  - Phrase: ꙗко они бꙑ бꙑли нє лѣниви, тъ мꙑ бꙑхомъ имъ помагали.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Она ѥстъ добра и искрєна.
+    Translation: She is good and sincere.
+  - Phrase: Онъ ѥстъ силььнъ алє смѣлъ.
+    Translation: He is strong but brave.
+  - Phrase: Дѣтє сѫтъ мѫдрє за ихъ вѣкъ.
+    Translation: Children are wiser for their age.
+  - Phrase: Какъ вꙑ нє бꙑстє бꙑли слаби, тъ вꙑ бꙑстє работали.
+    Translation: If you were not weak, you would work.
+  - Phrase: Злє слова болѧтъ.
+    Translation: Bad words hurt.
+  - Phrase: Глꙋпъ нє оучитъ сѧ.
+    Translation: Stupid people do not learn.
+  - Phrase: Лѣнивъ нє хощєтъ ничєсого дѣлати.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Искрєнъи глаголи чьто мꙑслитъ.
+    Translation: A sincere person says what they think.
+  - Phrase: Мѫдръ молъчитъ къгда трѣба.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Какъ ꙗ бꙑ бꙑлъ смѣлъ, тъ ꙗ бꙑ нє боꙗлъ сѧ.
+    Translation: If I were brave, I would not be afraid.
