@@ -1,0 +1,79 @@
+Skill:
+  Name: Family (Instrumental case)
+  Id: 3
+
+New words:
+  - Word: brat
+    Translation: brother
+  - Word: dziadek
+    Translation: grandfather
+  - Word: babcia
+    Translation: grandmother
+  - Word: ciotka
+    Translation: aunt
+  - Word: wnuk
+    Translation: grandson
+  - Word: wnuczka
+    Translation: granddaughter
+  - Word: matka
+    Translation: mother
+  - Word: ojciec
+    Translation: father
+  - Word: rodzina
+    Translation: family
+  - Word: syn
+    Translation: son
+  - Word: córka
+    Translation: daughter
+  - Word: stryj
+    Translation: uncle (father's brother)
+  - Word: mówi
+    Translation: speaks
+  - Word: idzie
+    Translation: goes
+  - Word: idziemy
+    Translation: we go
+  - Word: żyje
+    Translation: lives
+
+Phrases:
+  - Phrase: On jest moim bratem.
+    Translation: He is my brother.
+  - Phrase: On jest twoim ojcem
+    Translation: He is your father
+  - Phrase: Ona idzie z matką.
+    Translation: She is going with her mother.
+  - Phrase: On mówi z dziadkiem.
+    Translation: He is talking with his grandfather.
+  - Phrase: My bawimy się z naszymi dziećmi.
+    Translation: We are playing with our children.
+  - Phrase: Oni jadą z ciotką.
+    Translation: They are going with their aunt.
+  - Phrase: Rozmawiam z twoją siostrą.
+    Translation: I am talking with your sister.
+  - Phrase: Idę do parku z rodziną.
+    Translation: We are going to the park with the family.
+  - Phrase: On jest z wnukiem.
+    Translation: He is with his grandson.
+  - Phrase: Ona bawi się z wnuczką.
+    Translation: She is playing with her granddaughter.
+  - Phrase: Picie herbaty z matką jest lepsze.
+    Translation: Drinking tea with mother is better.
+  - Phrase: Z kim idziesz?
+    Translation: Who are you going with?
+  - Phrase: Ona rozmawia z moją babcią.
+    Translation: She is talking with my grandmother.
+  - Phrase: To jest dom z rodziną.
+    Translation: This is a house with a family.
+  - Phrase: On żyje z synem.
+    Translation: He lives with his son.
+  - Phrase: Idziemy na spacer z braćmi.
+    Translation: We are going for a walk with brothers.
+  - Phrase: Idziemy z córką.
+    Translation: We are going with our daughter.
+  - Phrase: Oni tu są z dziadkiem.
+    Translation: They are here with their grandfather.
+  - Phrase: On żyje z ciotką i ze stryjem.
+    Translation: He lives with his aunt and uncle.
+  - Phrase: Ona rozmawia z wnukiem często.
+    Translation: She talks with her grandson often.

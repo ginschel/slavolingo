@@ -1,0 +1,93 @@
+Skill:
+  Name: Numbers 0-10
+  Id: 26
+
+New words:
+  - Word: zero
+    Translation: zero
+  - Word: jeden (m)
+    Translation: one (m)
+  - Word: jedna (ż)
+    Translation: one (f)
+  - Word: jedno (n)
+    Translation: one (n)
+  - Word: dwa (m/n)
+    Translation: two (m/n)
+  - Word: dwie (ż)
+    Translation: two (f)
+  - Word: trzy
+    Translation: three
+  - Word: cztery
+    Translation: four
+  - Word: pięć
+    Translation: five
+  - Word: sześć
+    Translation: six
+  - Word: siedem
+    Translation: seven
+  - Word: osiem
+    Translation: eight
+  - Word: dziewięć
+    Translation: nine
+  - Word: dziesięć
+    Translation: ten
+  - Word: zegarek
+    Translation: clock/watch
+  - Word: chłopiec
+    Translation: boy
+  - Word: komputer
+    Translation: computer
+  - Word: rower
+    Translation: bicycle
+  - Word: rubel
+    Translation: ruble
+  - Word: kobieta
+    Translation: woman
+  - Word: pole
+    Translation: field
+  - Word: kot
+    Translation: cat
+  - Word: dolar
+    Translation: dollar
+
+Phrases:
+  - Phrase: zero zegarków
+    Translation: zero clocks
+  - Phrase: jeden chłopiec
+    Translation: one boy
+  - Phrase: jedna kobieta
+    Translation: one woman
+  - Phrase: jedno pole
+    Translation: one field
+  - Phrase: dwóch chłopców
+    Translation: two boys
+  - Phrase: dwie kobiety
+    Translation: two women
+  - Phrase: trzy koty
+    Translation: three cats
+  - Phrase: cztery rowery
+    Translation: four bicycles
+  - Phrase: pięciu chłopców
+    Translation: five boys
+  - Phrase: sześć rowerów
+    Translation: six bicycles
+  - Phrase: siedem rubli
+    Translation: seven rubles
+  - Phrase: osiem dolarów
+    Translation: eight dollars
+  - Phrase: dziewięć komputerów
+    Translation: nine computers
+  - Phrase: dziesięć zegarków
+    Translation: ten clocks
+  - Phrase: dwie rzeczy
+    Translation: two things
+  - Phrase: jedno słońce
+    Translation: one sun
+  - Phrase: jeden rower
+    Translation: one bicycle
+  - Phrase: cztery dolary
+    Translation: four dollars
+  - Phrase: trzy koty
+    Translation: three cats
+  - Phrase: pięć kotów
+    Translation: five cats

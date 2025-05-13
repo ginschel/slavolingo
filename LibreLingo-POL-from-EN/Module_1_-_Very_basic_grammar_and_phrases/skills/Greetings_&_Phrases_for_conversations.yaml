@@ -1,0 +1,125 @@
+Skill:
+  Name: Greetings & Phrases for conversations
+  Id: 2
+
+New words:
+  - Word: pozdrowienie
+    Translation: greeting
+  - Word: zdrowy/cześć
+    Translation: healthy/hello
+  - Word: rozmowa
+    Translation: conversation
+  - Word: rano
+    Translation: morning
+  - Word: wieczór
+    Translation: evening
+  - Word: dzień
+    Translation: day
+  - Word: noc
+    Translation: night
+  - Word: dziękuję
+    Translation: thanks
+  - Word: przepraszam
+    Translation: pardon
+  - Word: wybacz
+    Translation: excuse me
+  - Word: dobry
+    Translation: good
+  - Word: lepiej
+    Translation: better
+  - Word: można
+    Translation: possible
+  - Word: szkoda
+    Translation: pity
+  - Word: tak
+    Translation: so
+  - Word: co
+    Translation: what
+  - Word: nie
+    Translation: no
+  - Word: tak (potwierdzenie)
+    Translation: yes
+  - Word: może
+    Translation: maybe/can
+  - Word: dawaj
+    Translation: let's go
+
+Phrases:
+  - Phrase: Dzień dobry (rano)!
+    Translation: Good morning!
+  - Phrase: Dobry wieczór!
+    Translation: Good evening!
+  - Phrase: Dobry dzień!
+    Translation: Good day!
+  - Phrase: Dobra noc!
+    Translation: Good night!
+  - Phrase: Jak się masz?
+    Translation: How are you?
+  - Phrase: Mam się dobrze, dziękuję!
+    Translation: I am well, thank you!
+  - Phrase: A ty?
+    Translation: And you?
+  - Phrase: Dziękuję ci bardzo.
+    Translation: Thank you very much.
+  - Phrase: Przepraszam, nie rozumiem.
+    Translation: Excuse me, I don't understand.
+  - Phrase: Cześć (na powitanie)!
+    Translation: Greetings!
+  - Phrase: Cześć (na powitanie)!
+    Translation: Hello!
+  - Phrase: Dzień dobry, jak się masz?
+    Translation: Good day, how are you?
+  - Phrase: Jesteś zdrowy/zdrowa?
+    Translation: Are you healthy?
+  - Phrase: Witaj/Witajcie!
+    Translation: Welcome!
+  - Phrase: Na zdrowie!
+    Translation: To your health!
+  - Phrase: Pozdrów twoją siostrę.
+    Translation: Greet your sister.
+  - Phrase: Jak się nazywasz?
+    Translation: What is your name?
+  - Phrase: Nazywam się Bartek.
+    Translation: My name is Bartek.
+  - Phrase: Dziękuję za rozmowę.
+    Translation: Thank you for the conversation.
+  - Phrase: Tak jest.
+    Translation: That is so.
+  - Phrase: Nie tak.
+    Translation: Not so.
+  - Phrase: Może być.
+    Translation: Maybe.
+  - Phrase: Nie można.
+    Translation: Not possible.
+  - Phrase: Szkoda!
+    Translation: What a pity!
+  - Phrase: Dobrze!
+    Translation: Good!
+  - Phrase: Niedobrze.
+    Translation: Not good.
+  - Phrase: To jest lepsze.
+    Translation: This is better.
+  - Phrase: To nie jest lepsze.
+    Translation: This is not better.
+  - Phrase: Tak, można.
+    Translation: Yes, it is possible.
+  - Phrase: Nie, nie można.
+    Translation: No, it is not possible.
+  - Phrase: Czy to możliwe?
+    Translation: Is this possible?
+  - Phrase: Co to znaczy?
+    Translation: What does this mean?
+  - Phrase: Ja też.
+    Translation: Me too.
+  - Phrase: Z Bogiem!
+    Translation: Go with God!
+  - Phrase: Nie wiem.
+    Translation: I don't know.
+  - Phrase: Może.
+    Translation: Perhaps.
+  - Phrase: Powtórz. Nie zrozumiałem.
+    Translation: Repeat. I didn't understand.
+  - Phrase: Jesteś gotowy/gotowa?
+    Translation: Are you ready?
+  - Phrase: Dawaj!/Chodź!
+    Translation: Let's go!

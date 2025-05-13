@@ -1,0 +1,77 @@
+Skill:
+  Name: Shapes
+  Id: 10
+
+New words:
+  - Word: koło
+    Translation: circle
+  - Word: kwadrat
+    Translation: square
+  - Word: cztery
+    Translation: four
+  - Word: długi
+    Translation: long
+  - Word: trzy
+    Translation: three
+  - Word: trójkąt
+    Translation: triangle
+  - Word: stać (stoi)
+    Translation: to stand (stands)
+  - Word: równy
+    Translation: straight
+  - Word: forma
+    Translation: shape
+  - Word: linia
+    Translation: line
+  - Word: punkt
+    Translation: point
+  - Word: obrys
+    Translation: outline
+  - Word: strona
+    Translation: side
+  - Word: figura
+    Translation: figure
+  - Word: kształt
+    Translation: shape
+
+Phrases:
+  - Phrase: To jest koło.
+    Translation: This is a circle.
+  - Phrase: Kwadrat ma cztery strony.
+    Translation: A square has four sides.
+  - Phrase: Trójkąt ma trzy strony.
+    Translation: A triangle has three sides.
+  - Phrase: Ta linia jest długa.
+    Translation: This line is long.
+  - Phrase: To jest moja forma.
+    Translation: This is my shape.
+  - Phrase: Linia jest równa.
+    Translation: The line is straight.
+  - Phrase: Punkt to mały punkt.
+    Translation: A point is a small dot.
+  - Phrase: Widzimy obrys kwadratu.
+    Translation: We see the outline of a square.
+  - Phrase: Figura jest skomplikowana.
+    Translation: The figure is complex.
+  - Phrase: To jest prosty kształt.
+    Translation: This is a simple shape.
+  - Phrase: Ja maluję duże koło.
+    Translation: I am drawing a big circle.
+  - Phrase: Kwadrat i koło są podstawowymi formami.
+    Translation: Square and circle are basic shapes.
+  - Phrase: Linia idzie przez stronę.
+    Translation: The line goes through the side.
+  - Phrase: Punkt leży na linii.
+    Translation: The point lies on the line.
+  - Phrase: Ona zna każdy obrys Anglii.
+    Translation: She knows every outline of England.
+  - Phrase: To jest prosty trójkąt.
+    Translation: This is a simple triangle.
+  - Phrase: On maluje figury na papierze.
+    Translation: He is drawing figures on paper.
+  - Phrase: Forma jest ciekawa.
+    Translation: The shape is interesting.
+  - Phrase: Stół ma kształt kwadratu.
+    Translation: The table has the shape of a square.
+  - Phrase: Piękna figura stoi na stole.
+    Translation: A beautiful figure is standing on the table.

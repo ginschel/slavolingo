@@ -1,0 +1,81 @@
+Skill:
+  Name: Character (Conditional)
+  Id: 36
+
+New words:
+  - Word: dobry
+    Translation: good
+  - Word: zły
+    Translation: bad
+  - Word: silny
+    Translation: strong
+  - Word: słaby
+    Translation: weak
+  - Word: śmiały
+    Translation: brave
+  - Word: cichy
+    Translation: quiet
+  - Word: mądry
+    Translation: wise
+  - Word: głupi
+    Translation: stupid
+  - Word: szczery
+    Translation: sincere
+  - Word: leniwy
+    Translation: lazy
+  - Word: byłbym
+    Translation: I would be
+  - Word: byłbyś
+    Translation: you would be
+  - Word: byłby
+    Translation: he/she/it would be
+  - Word: bylibyśmy
+    Translation: we would be
+  - Word: bylibyście
+    Translation: you would be
+  - Word: byliby
+    Translation: they would be
+  - Word: milczeć (milczy)
+    Translation: to be silent (is silent)
+
+Phrases:
+  - Phrase: On to dobry człowiek.
+    Translation: He is a good person.
+  - Phrase: Ona jest czasem zła.
+    Translation: She is sometimes bad.
+  - Phrase: Silny duch jest ważny.
+    Translation: A strong spirit is important.
+  - Phrase: On jest słaby w sporcie.
+    Translation: He is weak in sports.
+  - Phrase: Śmiały mówi prawdę.
+    Translation: Brave people speak the truth.
+  - Phrase: Jak byś usłyszał/usłyszała, to oni byliby cicho.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Mądry wie dużo.
+    Translation: A smart person knows much.
+  - Phrase: Jak byś nie był/była głupi/głupia, to byś nie robił/robiła głupstw.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Szczery przyjaciel jest cenny.
+    Translation: A sincere friend is valuable.
+  - Phrase: Jakby oni nie byli leniwi, to byśmy im pomagali.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Ona jest dobra i szczera.
+    Translation: She is good and sincere.
+  - Phrase: On jest silny, ale śmiały.
+    Translation: He is strong but brave.
+  - Phrase: Dzieci są mądre jak na swój wiek.
+    Translation: Children are wiser for their age.
+  - Phrase: Jakbyście nie byli słabi, to byście pracowali.
+    Translation: If you were not weak, you would work.
+  - Phrase: Złe słowa bolą.
+    Translation: Bad words hurt.
+  - Phrase: Głupi się nie uczy.
+    Translation: Stupid people do not learn.
+  - Phrase: Leniwy nie chce nic robić.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Szczery mówi co myśli.
+    Translation: A sincere person says what they think.
+  - Phrase: Mądry milczy, kiedy trzeba.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Gdybym był/była śmiały/śmiała, to bym się nie bał/bała.
+    Translation: If I were brave, I would not be afraid.

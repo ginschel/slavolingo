@@ -1,0 +1,75 @@
+Skill:
+  Name: Professions
+  Id: 22
+
+New words:
+  - Word: nauczyciel
+    Translation: teacher
+  - Word: doktor
+    Translation: doctor
+  - Word: inżynier
+    Translation: engineer
+  - Word: robotnik
+    Translation: worker
+  - Word: pisarz/urzędnik
+    Translation: writer
+  - Word: sprzedawca
+    Translation: seller
+  - Word: szofer/kierowca
+    Translation: driver
+  - Word: kucharz
+    Translation: cook
+  - Word: policjant
+    Translation: policeman
+  - Word: artysta
+    Translation: artist
+  - Word: pracować
+    Translation: to work
+  - Word: robić
+    Translation: to work
+  - Word: rysować
+    Translation: to draw
+  - Word: robić
+    Translation: to do/make
+
+Phrases:
+  - Phrase: Mój brat jest nauczycielem.
+    Translation: My brother is a teacher.
+  - Phrase: Ona jest doktorem.
+    Translation: She is a doctor.
+  - Phrase: On jest inżynierem w mieście.
+    Translation: He is an engineer in the city.
+  - Phrase: Robotnik pracuje na moście.
+    Translation: The worker is working on the bridge.
+  - Phrase: Pisarz/Urzędnik pisze w biurze.
+    Translation: The writer writes in the office.
+  - Phrase: Sprzedawca pracuje w sklepie.
+    Translation: The seller works in the shop.
+  - Phrase: Szofer/Kierowca prowadzi autobus.
+    Translation: The driver drives a bus.
+  - Phrase: Mój ojciec jest kucharzem.
+    Translation: My father is a cook.
+  - Phrase: Policjant stoi na ulicy.
+    Translation: The policeman is standing on the street.
+  - Phrase: Artysta rysuje portret.
+    Translation: The artist is drawing a portrait.
+  - Phrase: Nauczyciel każe uczniom pracować.
+    Translation: The teacher tells the students to do.
+  - Phrase: Doktor pomaga ludziom.
+    Translation: The doctor helps people.
+  - Phrase: Inżynier robi plan.
+    Translation: The engineer makes a plan.
+  - Phrase: Robotnik buduje dom.
+    Translation: The worker is building a house.
+  - Phrase: Pisarz/Urzędnik pisze dokumenty.
+    Translation: The writer writes documents.
+  - Phrase: Sprzedawca sprzedaje jedzenie.
+    Translation: The seller sells food.
+  - Phrase: Szofer/Kierowca wiezie ludzi.
+    Translation: The driver drives people.
+  - Phrase: Kucharz gotuje kolację.
+    Translation: The cook is preparing dinner.
+  - Phrase: Policjant kontroluje sytuację.
+    Translation: The policeman controls the situation.
+  - Phrase: Artysta pokazuje swoją twórczość.
+    Translation: The artist shows his work.

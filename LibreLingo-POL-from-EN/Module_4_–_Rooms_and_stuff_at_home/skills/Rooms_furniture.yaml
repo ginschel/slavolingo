@@ -1,0 +1,77 @@
+Skill:
+  Name: Rooms/furniture
+  Id: 12
+
+New words:
+  - Word: pokój
+    Translation: room
+  - Word: stół
+    Translation: table
+  - Word: krzesło
+    Translation: chair
+  - Word: poduszka
+    Translation: pillow
+  - Word: łóżko
+    Translation: bed
+  - Word: okno
+    Translation: window
+  - Word: drzwi
+    Translation: doors
+  - Word: szafa
+    Translation: wardrobe
+  - Word: skrzynia
+    Translation: chest
+  - Word: półka
+    Translation: shelf
+  - Word: trzymać (trzyma)
+    Translation: to hold (holds)
+  - Word: wisieć (wisi)
+    Translation: to hang (hangs)
+  - Word: ściana
+    Translation: wall
+  - Word: lampa
+    Translation: lamp
+  - Word: dawać
+    Translation: to give
+
+Phrases:
+  - Phrase: Pokój jest ciepły i cichy.
+    Translation: The room is warm and quiet.
+  - Phrase: Stół stoi w środku pokoju.
+    Translation: The table stands in the middle of the room.
+  - Phrase: Krzesło jest blisko stołu.
+    Translation: The chair is near the table.
+  - Phrase: Łóżko jest miękkie.
+    Translation: The bed is soft.
+  - Phrase: Okno jest otwarte.
+    Translation: The window is open.
+  - Phrase: Drzwi są zamknięte.
+    Translation: The doors are closed.
+  - Phrase: Szafa ma dużo odzieży.
+    Translation: The wardrobe has many clothes.
+  - Phrase: Skrzynia jest pod łóżkiem.
+    Translation: The chest is under the bed.
+  - Phrase: Półka trzyma książki.
+    Translation: The shelf holds books.
+  - Phrase: Lampa świeci nad stołem.
+    Translation: The lamp shines above the table.
+  - Phrase: Pokój ma dwa okna.
+    Translation: The room has two windows.
+  - Phrase: Na stole leży książka.
+    Translation: A book is lying on the table.
+  - Phrase: Krzesło jest stare, ale wygodne.
+    Translation: The chair is old, but comfortable.
+  - Phrase: Łóżko jest nowe.
+    Translation: The bed is new.
+  - Phrase: Drzwi prowadzą do kuchni.
+    Translation: The doors lead to the kitchen.
+  - Phrase: Szafa jest pełna.
+    Translation: The wardrobe is full.
+  - Phrase: Skrzynia jest z drewna.
+    Translation: The chest is made of wood.
+  - Phrase: Półka wisi na ścianie.
+    Translation: The shelf hangs on the wall.
+  - Phrase: Lampa daje światło.
+    Translation: The lamp gives light.
+  - Phrase: W pokoju jest spokojnie.
+    Translation: It is quiet in the room.
