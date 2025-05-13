@@ -1,0 +1,67 @@
+Skill:
+  Name: Colours
+  Id: 17
+
+New words:
+  - Word: crn
+    Translation: black
+  - Word: bijel
+    Translation: white
+  - Word: zelen
+    Translation: green
+  - Word: plav
+    Translation: blue
+  - Word: crven
+    Translation: red
+  - Word: žut
+    Translation: yellow
+  - Word: siv
+    Translation: grey
+  - Word: kestenjast
+    Translation: brown
+  - Word: narančast
+    Translation: orange
+  - Word: crven
+    Translation: red
+
+Phrases:
+  - Phrase: Moj pas je crn.
+    Translation: My dog is black.
+  - Phrase: Miš je bijela.
+    Translation: The mouse is white.
+  - Phrase: Trava je zelena.
+    Translation: The grass is green.
+  - Phrase: Nebo je plavo.
+    Translation: The sky is blue.
+  - Phrase: Cvijeće je crveno.
+    Translation: The flowers are red.
+  - Phrase: Sunce je žuto.
+    Translation: The sun is yellow.
+  - Phrase: Oblaci su sivi.
+    Translation: The clouds are grey.
+  - Phrase: On nosi kestenjasti kaput.
+    Translation: He wears a brown coat.
+  - Phrase: List je narančast.
+    Translation: The leaf is orange.
+  - Phrase: To je Crveno more.
+    Translation: This is the Red Sea.
+  - Phrase: Moje oči su plave.
+    Translation: My eyes are blue.
+  - Phrase: Ona ima zelenu travu.
+    Translation: She has green grass.
+  - Phrase: Ja volim crvenu boju.
+    Translation: I like the red color.
+  - Phrase: Njegov auto je crn.
+    Translation: His car is black.
+  - Phrase: Djevojka nosi bijelu haljinu.
+    Translation: The girl is wearing a white dress.
+  - Phrase: Je li to siva kosa?
+    Translation: Is that grey hair?
+  - Phrase: On ima narančastu torbu.
+    Translation: He has an orange bag.
+  - Phrase: Kestenjasti konj stoji u staji.
+    Translation: The brown horse stands in the stable.
+  - Phrase: Žuto sunce grije zemlju.
+    Translation: The yellow sun warms the earth.
+  - Phrase: Crvena ruža raste ovdje.
+    Translation: A red rose grows here.

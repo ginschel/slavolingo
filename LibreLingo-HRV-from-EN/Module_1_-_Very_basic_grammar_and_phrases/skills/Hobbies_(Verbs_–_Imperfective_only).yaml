@@ -1,0 +1,71 @@
+Skill:
+  Name: Hobbies (Verbs – Imperfective only)
+  Id: 4
+
+New words:
+  - Word: čitati
+    Translation: to read
+  - Word: pisati (piše)
+    Translation: to write (writes)
+  - Word: igrati
+    Translation: to play
+  - Word: gledati
+    Translation: to watch
+  - Word: slušati
+    Translation: to listen
+  - Word: slikati
+    Translation: to paint
+  - Word: pjevati
+    Translation: to sing
+  - Word: učiti se
+    Translation: to learn
+  - Word: sjediti (sjedi)
+    Translation: to sit (sits)
+  - Word: šivati (šije)
+    Translation: to sew (sews)
+  - Word: plesati
+    Translation: to dance
+
+Phrases:
+  - Phrase: Ja čitam knjigu.
+    Translation: I am reading a book.
+  - Phrase: Ona piše pisma.
+    Translation: She is writing letters.
+  - Phrase: On igra nogomet.
+    Translation: He is playing football.
+  - Phrase: Mi gledamo film.
+    Translation: We are watching a film.
+  - Phrase: Oni slušaju glazbu.
+    Translation: They are listening to music.
+  - Phrase: Ona sjedi i čita.
+    Translation: She is sitting and reading.
+  - Phrase: Ja slikam sliku.
+    Translation: I am painting a picture.
+  - Phrase: On pjeva pjesme.
+    Translation: He is singing songs.
+  - Phrase: Vi učite jezik.
+    Translation: You are learning a language.
+  - Phrase: Ja šivam odjeću.
+    Translation: I am sewing clothes.
+  - Phrase: Ti gledaš seriju?
+    Translation: Are you watching a series?
+  - Phrase: Mi igramo šah.
+    Translation: We are playing chess.
+  - Phrase: Oni slušaju radio.
+    Translation: They are listening to the radio.
+  - Phrase: Čitaš li ti romane?
+    Translation: Do you read novels?
+  - Phrase: On piše dnevnik.
+    Translation: He is writing a diary.
+  - Phrase: Učimo se ovdje.
+    Translation: We are learning here.
+  - Phrase: Slikamo s prijateljima slike.
+    Translation: We are painting pictures with friends.
+  - Phrase: Šivaš li?
+    Translation: Are you sewing?
+  - Phrase: Ja pjevam s grupom.
+    Translation: I am singing with a group.
+  - Phrase: Ja plešem mnogo
+    Translation: I dance a lot
+  - Phrase: Ona svira gitaru.
+    Translation: She is playing the guitar.

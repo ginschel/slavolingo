@@ -1,0 +1,85 @@
+Skill:
+  Name: Nature
+  Id: 15
+
+New words:
+  - Word: rijeka
+    Translation: river
+  - Word: kroz
+    Translation: through
+  - Word: gora
+    Translation: mountain
+  - Word: dolina
+    Translation: valley
+  - Word: šuma
+    Translation: forest
+  - Word: trava
+    Translation: grass
+  - Word: cvijet
+    Translation: flower
+  - Word: ruža
+    Translation: rose
+  - Word: rasti (raste)
+    Translation: to grow (grows)
+  - Word: zemlja
+    Translation: earth
+  - Word: kamen
+    Translation: stone
+  - Word: polje
+    Translation: field
+  - Word: hrast
+    Translation: oak
+  - Word: mjesec
+    Translation: moon
+  - Word: cvjetati (cvjeta)
+    Translation: to bloom (blooms)
+  - Word: drvo
+    Translation: tree
+  - Word: ležati (leži)
+    Translation: to lie (lies)
+  - Word: između
+    Translation: between
+
+Phrases:
+  - Phrase: Rijeka teče kroz dolinu.
+    Translation: The river flows through the valley.
+  - Phrase: Gora je visoka.
+    Translation: The mountain is high.
+  - Phrase: Mi idemo u šumu.
+    Translation: We are going to the forest.
+  - Phrase: Trava je zelena.
+    Translation: The grass is green.
+  - Phrase: Cvijeće lijepo cvjeta.
+    Translation: The flowers bloom beautifully.
+  - Phrase: On stoji na kamenu.
+    Translation: He is standing on the stone.
+  - Phrase: Zemlja je mokra.
+    Translation: The earth is wet.
+  - Phrase: Ruža raste na polju.
+    Translation: The rose grows in the field.
+  - Phrase: Dolina leži između gora.
+    Translation: The valley lies between the mountains.
+  - Phrase: Polje je široko.
+    Translation: The field is wide.
+  - Phrase: Oni idu kroz šumu s mnogo drveća.
+    Translation: They are going through the forest with many trees.
+  - Phrase: Trava raste brzo.
+    Translation: The grass grows fast.
+  - Phrase: Kamenje je teško.
+    Translation: The stones are heavy.
+  - Phrase: Cvijet raste iz zemlje.
+    Translation: A flower grows from the earth.
+  - Phrase: Voda ide do rijeke.
+    Translation: Water goes to the river.
+  - Phrase: Polje je iza kuće.
+    Translation: The field is behind the house.
+  - Phrase: Idemo do hrasta.
+    Translation: We are going towards the oak.
+  - Phrase: Mjesec je danas lijep
+    Translation: The moon today is beautiful
+  - Phrase: Mi stojimo na zemlji.
+    Translation: We are standing on the earth.
+  - Phrase: Oni gledaju u dolinu.
+    Translation: They are looking into the valley.
+  - Phrase: Rijeka ide između polja.
+    Translation: The river goes between the fields.

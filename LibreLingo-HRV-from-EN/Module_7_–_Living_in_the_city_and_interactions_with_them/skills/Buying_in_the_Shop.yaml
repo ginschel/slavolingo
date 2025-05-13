@@ -1,0 +1,69 @@
+Skill:
+  Name: Buying in the Shop
+  Id: 24
+
+New words:
+  - Word: kupiti
+    Translation: to buy
+  - Word: prodavati
+    Translation: to sell
+  - Word: cijena
+    Translation: price
+  - Word: odjeća
+    Translation: clothes
+  - Word: torba
+    Translation: bag
+  - Word: komad
+    Translation: piece
+  - Word: kupac
+    Translation: customer
+  - Word: povrat
+    Translation: return
+  - Word: račun
+    Translation: receipt
+  - Word: pitati
+    Translation: to ask
+  - Word: svjež
+    Translation: fresh
+
+Phrases:
+  - Phrase: Želim kupiti kruh.
+    Translation: I want to buy bread.
+  - Phrase: On prodaje meso.
+    Translation: He sells meat.
+  - Phrase: Cijena je visoka.
+    Translation: The price is high.
+  - Phrase: Odjeća je nova.
+    Translation: The clothes are new.
+  - Phrase: Prodavač je umoran danas.
+    Translation: The seller is tired today.
+  - Phrase: Torba je teška.
+    Translation: The bag is heavy.
+  - Phrase: Komad sira je dobar.
+    Translation: A piece of cheese is good.
+  - Phrase: Kupac pita za popust.
+    Translation: The customer asks for a discount.
+  - Phrase: Povrata nema. To je loša trgovina.
+    Translation: No returns. This is a bad shop.
+  - Phrase: Dat ću račun prodavaču.
+    Translation: I give the receipt to the seller.
+  - Phrase: Ona kupuje knjigu.
+    Translation: She is buying a book.
+  - Phrase: On prodaje mlijeko.
+    Translation: He sells milk.
+  - Phrase: Cijena maslaca je dobra.
+    Translation: The price of butter is good.
+  - Phrase: Kobasica je svježa.
+    Translation: The sausage is fresh.
+  - Phrase: Prodavač daje komad kobasice.
+    Translation: The seller gives a piece of sausage.
+  - Phrase: Torba stoji na podu.
+    Translation: The bag is on the floor.
+  - Phrase: Komad kruha je malen.
+    Translation: The piece of bread is small.
+  - Phrase: Kupac pita za cijenu.
+    Translation: The customer asks about the price.
+  - Phrase: Povrat je do sedam dana.
+    Translation: Return is within seven days.
+  - Phrase: Račun je potpisan.
+    Translation: The receipt is signed.

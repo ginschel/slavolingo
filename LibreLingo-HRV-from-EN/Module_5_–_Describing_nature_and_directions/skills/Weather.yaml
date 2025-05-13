@@ -1,0 +1,81 @@
+Skill:
+  Name: Weather
+  Id: 16
+
+New words:
+  - Word: vrijeme
+    Translation: weather
+  - Word: kiša
+    Translation: rain
+  - Word: padati
+    Translation: to fall
+  - Word: snijeg
+    Translation: snow
+  - Word: mijenjati se
+    Translation: to change
+  - Word: sunce
+    Translation: sun
+  - Word: svijetliti
+    Translation: to shine
+  - Word: zrak
+    Translation: air
+  - Word: vjetar
+    Translation: wind
+  - Word: toplo
+    Translation: warm
+  - Word: hladno
+    Translation: cold
+  - Word: mraz
+    Translation: frost
+  - Word: oblak
+    Translation: cloud
+  - Word: grijati (grije)
+    Translation: to heat (heats)
+  - Word: oblačno
+    Translation: cloudy
+  - Word: mirisati (miriše)
+    Translation: to smell
+  - Word: vidjeti (vidi)
+    Translation: to see (sees)
+
+Phrases:
+  - Phrase: Vrijeme je dobro.
+    Translation: The weather is good.
+  - Phrase: Pada kiša.
+    Translation: It is raining.
+  - Phrase: Snijeg leži na zemlji.
+    Translation: Snow lies on the ground.
+  - Phrase: Sunce svijetli.
+    Translation: The sun is shining.
+  - Phrase: Zrak je čist.
+    Translation: The air is clean.
+  - Phrase: Vjetar puše jako.
+    Translation: The wind is blowing strongly.
+  - Phrase: Danas je toplo.
+    Translation: It is warm today.
+  - Phrase: U Rusiji je hladno.
+    Translation: In Russia it is cold.
+  - Phrase: Mraz je jak.
+    Translation: The frost is strong.
+  - Phrase: Oblaci su tamni.
+    Translation: The clouds are dark.
+  - Phrase: Pada snijeg i kiša.
+    Translation: Snow and rain are falling.
+  - Phrase: Vrijeme se mijenja.
+    Translation: The weather is changing.
+  - Phrase: Sunce grije nas.
+    Translation: The sun heats us.
+  - Phrase: Danas je toplo i suho.
+    Translation: It is warm and dry today.
+  - Phrase: Je li vjetar jak?
+    Translation: Is the wind strong?
+  - Phrase: Mraz je ujutro.
+    Translation: There is frost in the morning.
+  - Phrase: Oblačno je danas.
+    Translation: It is cloudy today.
+  - Phrase: Zrak miriše na kišu.
+    Translation: The air smells of rain.
+  - Phrase: Danas ne vidimo oblake.
+    Translation: Today I do not see clouds.
+  - Phrase: Puše hladan vjetar sa sjevera.
+    Translation: A cold wind is blowing from the north.

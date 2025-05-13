@@ -1,0 +1,67 @@
+Skill:
+  Name: Asking for Directions
+  Id: 25
+
+New words:
+  - Word: gdje
+    Translation: where
+  - Word: kamo
+    Translation: which way
+  - Word: desno
+    Translation: to the right
+  - Word: lijevo
+    Translation: to the left
+  - Word: ravno
+    Translation: straight
+  - Word: blizu
+    Translation: near
+  - Word: daleko
+    Translation: far
+  - Word: pitati
+    Translation: to ask
+  - Word: pokazati
+    Translation: to show
+  - Word: put
+    Translation: path/way
+
+Phrases:
+  - Phrase: Gdje je stanica?
+    Translation: Where is the station?
+  - Phrase: Kamo ide cesta?
+    Translation: Which way does the road go?
+  - Phrase: Idemo desno.
+    Translation: We are going to the right.
+  - Phrase: Zatim lijevo.
+    Translation: Then to the left.
+  - Phrase: Idi ravno do mosta.
+    Translation: Go straight to the bridge.
+  - Phrase: Prospekt je blizu trga.
+    Translation: The avenue is near the square.
+  - Phrase: Biblioteka je daleko.
+    Translation: The library is far away.
+  - Phrase: Pitam ih za put.
+    Translation: I ask them for the way.
+  - Phrase: Možete li pokazati put?
+    Translation: Can you show me the way?
+  - Phrase: Ulica ide do centra.
+    Translation: The street goes to the center.
+  - Phrase: Gdje je obližnji hotel?
+    Translation: Where is the nearest hotel?
+  - Phrase: Kamo idete?
+    Translation: Which way are you going?
+  - Phrase: Idite ravno i zatim desno.
+    Translation: Go straight and then to the right.
+  - Phrase: Stanica je lijevo.
+    Translation: The station is on the left.
+  - Phrase: Trgovina je blizu biblioteke.
+    Translation: The shop is near the library.
+  - Phrase: Trg je daleko od hotela.
+    Translation: The square is far from the hotel.
+  - Phrase: Pitam staru ženu.
+    Translation: I ask the old woman.
+  - Phrase: On mi pokazuje put.
+    Translation: He shows me the way.
+  - Phrase: Ulica je duga.
+    Translation: The street is long.
+  - Phrase: Kamo ide taj vlak?
+    Translation: Where is that train going?

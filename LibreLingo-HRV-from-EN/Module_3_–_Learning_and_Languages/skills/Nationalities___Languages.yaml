@@ -1,0 +1,67 @@
+Skill:
+  Name: Nationalities / Languages
+  Id: 11
+
+New words:
+  - Word: Slaven
+    Translation: Slav
+  - Word: jezik
+    Translation: language
+  - Word: država
+    Translation: country
+  - Word: narod
+    Translation: nation
+  - Word: ime
+    Translation: name
+  - Word: Hrvatica
+    Translation: Croat (f)
+  - Word: Rus
+    Translation: Russian (m)
+  - Word: Poljak
+    Translation: Pole (m)
+  - Word: Nijemac
+    Translation: German (m)
+  - Word: Englez
+    Translation: Englishman
+
+Phrases:
+  - Phrase: On je Slaven.
+    Translation: He is a Slav.
+  - Phrase: Ona govori slavenskim jezikom.
+    Translation: She speaks the Slavic language.
+  - Phrase: To je moj jezik.
+    Translation: This is my language.
+  - Phrase: Država je Poljska.
+    Translation: The country is Poland.
+  - Phrase: Ja sam Poljak.
+    Translation: I am a Pole.
+  - Phrase: Ona je Hrvatica.
+    Translation: She is a Croat.
+  - Phrase: On je Rus.
+    Translation: He is a Russian.
+  - Phrase: Govoriš li njemačkim jezikom?
+    Translation: Do you speak the German language?
+  - Phrase: Englez govori engleskim jezikom.
+    Translation: An Englishman speaks the English language.
+  - Phrase: Mi volimo svoj narod.
+    Translation: We love our nation.
+  - Phrase: To je ime moje države.
+    Translation: This is the name of my country.
+  - Phrase: On zna tri jezika.
+    Translation: He knows three languages.
+  - Phrase: Hrvat govori hrvatskim jezikom.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Nijemac živi u Njemačkoj.
+    Translation: A German lives in Germany.
+  - Phrase: Ona zna ruski i slavenski.
+    Translation: She knows Russian and Slavic.
+  - Phrase: To je narod s bogatom kulturom.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Jesi li ti Englez?
+    Translation: Are you an Englishman?
+  - Phrase: On govori svaki jezik dobro.
+    Translation: He speaks every language well.
+  - Phrase: Mi učimo ruski jezik.
+    Translation: We are learning the Russian language.
+  - Phrase: Ona zna mnogo naroda.
+    Translation: She knows many nations.

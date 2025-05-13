@@ -1,0 +1,121 @@
+Skill:
+  Name: Conjugation of to be and the Nominative Case
+  Id: 1
+
+New words:
+  - Word: ovo (srednji rod)
+    Translation: this
+  - Word: ova (ženski rod)
+    Translation: this
+  - Word: ovaj (muški rod)
+    Translation: that
+  - Word: onaj (muški rod)
+    Translation: that over there
+  - Word: ona (ženski rod)
+    Translation: that over there
+  - Word: ja sam
+    Translation: am
+  - Word: ti si
+    Translation: are
+  - Word: on/ona/ono je
+    Translation: is
+  - Word: mi smo
+    Translation: are
+  - Word: vi ste
+    Translation: are
+  - Word: oni/one/ona su
+    Translation: are
+  - Word: ja
+    Translation: I
+  - Word: ti
+    Translation: you
+  - Word: on
+    Translation: he
+  - Word: ona
+    Translation: she
+  - Word: ono
+    Translation: it
+  - Word: mi
+    Translation: we
+  - Word: vi
+    Translation: you
+  - Word: oni (muš.)
+    Translation: they (m/mixed)
+  - Word: one (žen.)
+    Translation: they (f/n)
+  - Word: čovjek
+    Translation: person
+  - Word: žena
+    Translation: woman
+  - Word: muž
+    Translation: man
+  - Word: dijete
+    Translation: child
+  - Word: prijatelj
+    Translation: friend
+  - Word: sestra
+    Translation: sister
+  - Word: roditelj
+    Translation: parent
+  - Word: dom/kuća
+    Translation: house
+  - Word: grad
+    Translation: city
+  - Word: dan
+    Translation: day
+  - Word: također
+    Translation: also
+  - Word: tko
+    Translation: who
+
+Phrases:
+  - Phrase: Ja sam mudar.
+    Translation: I am wise.
+  - Phrase: To je moja sestra.
+    Translation: This is my sister.
+  - Phrase: Ona je mnogo mudra
+    Translation: She is very wise
+  - Phrase: Mi smo mnogo mudri
+    Translation: We are very wise
+  - Phrase: Jeste li i vi mudri?
+    Translation: Are you also wise?
+  - Phrase: To je dobar čovjek.
+    Translation: This is a good person.
+  - Phrase: Ta žena je dobra.
+    Translation: This woman is good.
+  - Phrase: To je moj dom.
+    Translation: This is my house.
+  - Phrase: On je također dobar prijatelj
+    Translation: He is a good friend
+  - Phrase: Vi ste dobri.
+    Translation: You are good.
+  - Phrase: To su prijatelji.
+    Translation: These are friends.
+  - Phrase: Tko si ti?
+    Translation: Who are you?
+  - Phrase: Onaj muž je mio.
+    Translation: That man is kind.
+  - Phrase: To je ugodan grad.
+    Translation: This is a pleasant city.
+  - Phrase: Ta žena je visoka.
+    Translation: That woman is tall.
+  - Phrase: Onaj dan je hladan.
+    Translation: That day is cold.
+  - Phrase: Onaj dom tamo je lijep.
+    Translation: That house over there is beautiful.
+  - Phrase: To je moje dijete.
+    Translation: This is my child.
+  - Phrase: Ono jutro tamo je hladno.
+    Translation: That morning over there is cold.
+  - Phrase: To nije moja sestra.
+    Translation: This is not my sister.
+  - Phrase: To nije tvoj dom.
+    Translation: This is not your house.
+  - Phrase: Je li to dobar auto?
+    Translation: Is this a good car?
+  - Phrase: Jesu li to dobri prijatelji?
+    Translation: Are these good friends?
+  - Phrase: One su mnogo mile.
+    Translation: They are very kind.
+  - Phrase: Oni su mnogo mili
+    Translation: They are very kind

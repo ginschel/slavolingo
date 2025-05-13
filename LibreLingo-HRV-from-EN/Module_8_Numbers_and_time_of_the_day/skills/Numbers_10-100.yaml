@@ -1,0 +1,67 @@
+Skill:
+  Name: Numbers 10-100
+  Id: 28
+
+New words:
+  - Word: deset
+    Translation: ten
+  - Word: dvadeset
+    Translation: twenty
+  - Word: trideset
+    Translation: thirty
+  - Word: četrdeset
+    Translation: forty
+  - Word: pedeset
+    Translation: fifty
+  - Word: šezdeset
+    Translation: sixty
+  - Word: sedamdeset
+    Translation: seventy
+  - Word: osamdeset
+    Translation: eighty
+  - Word: devedeset
+    Translation: ninety
+  - Word: sto
+    Translation: one hundred
+
+Phrases:
+  - Phrase: sto satova
+    Translation: one hundred clocks
+  - Phrase: deset dječaka
+    Translation: ten boys
+  - Phrase: dvadeset žena
+    Translation: twenty women
+  - Phrase: trideset polja
+    Translation: thirty fields
+  - Phrase: četrdeset muškaraca
+    Translation: forty men
+  - Phrase: pedeset žena
+    Translation: fifty women
+  - Phrase: šezdeset mačaka
+    Translation: sixty cats
+  - Phrase: sto jedan bicikl
+    Translation: one hundred one bicycles
+  - Phrase: osamdeset dječaka
+    Translation: eighty boys
+  - Phrase: devedeset bicikala
+    Translation: ninety bicycles
+  - Phrase: sedamdeset osam rubalja
+    Translation: seventy eight rubles
+  - Phrase: osamdeset sedam dolara
+    Translation: eighty seven dollars
+  - Phrase: devedeset tri računala
+    Translation: ninety three computers
+  - Phrase: pedeset jedan sat
+    Translation: fifty one clocks
+  - Phrase: dvadeset četiri stvari
+    Translation: twenty four things
+  - Phrase: sto dva sunca
+    Translation: one hundred two suns
+  - Phrase: šezdeset bicikala
+    Translation: sixty bicycles
+  - Phrase: četrdeset dolara
+    Translation: forty dollars
+  - Phrase: trideset pasa
+    Translation: thirty dogs
+  - Phrase: dvadeset mačaka
+    Translation: twenty cats
