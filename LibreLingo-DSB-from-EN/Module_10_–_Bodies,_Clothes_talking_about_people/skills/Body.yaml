@@ -1,0 +1,81 @@
+Skill:
+  Name: Body
+  Id: 35
+
+New words:
+  - Word: ruka
+    Translation: hand
+  - Word: noga
+    Translation: leg
+  - Word: głowa
+    Translation: head
+  - Word: woko
+    Translation: eye
+  - Word: mózg
+    Translation: brain
+  - Word: stopa
+    Translation: foot
+  - Word: wucho
+    Translation: ear
+  - Word: nos
+    Translation: nose
+  - Word: wóbliče
+    Translation: face
+  - Word: wutšoba
+    Translation: heart
+  - Word: palc
+    Translation: finger
+  - Word: žołdk
+    Translation: stomach
+  - Word: śěło
+    Translation: body
+  - Word: bolaś (boli)
+    Translation: to hurt (hurts)
+  - Word: włosy
+    Translation: hair
+  - Word: pódobny
+    Translation: similar
+  - Word: słyšaś (słyšo)
+    Translation: to hear (hears)
+
+Phrases:
+  - Phrase: Mója ruka boli.
+    Translation: My hand hurts.
+  - Phrase: Wóna ma dłujku nogu.
+    Translation: She has a long leg.
+  - Phrase: Głowa jo na śěle.
+    Translation: The head is on the body.
+  - Phrase: Wón ma módre krasne wocy.
+    Translation: He has beautiful blue eyes.
+  - Phrase: Jej wucho nje słyšo derje.
+    Translation: Her ear does not hear well.
+  - Phrase: Nos jo cerwjeny wót mroza.
+    Translation: The nose is red from the cold.
+  - Phrase: Wóbliče jo pódobne.
+    Translation: The face is similar.
+  - Phrase: Jej wutšoba bije snadnje.
+    Translation: Her heart beats fast.
+  - Phrase: Žołdk śi boli.
+    Translation: My stomach hurts.
+  - Phrase: Śěło pśi mje zdrowe.
+    Translation: My body is healthy.
+  - Phrase: Ja mam dwě ruce a dwě noze a teke dwě stopje.
+    Translation: I have two hands and two legs, and also two feet.
+  - Phrase: Wocy glědaju we knigłu.
+    Translation: The eyes are looking at the book.
+  - Phrase: Wucho słyšo muziku.
+    Translation: The ear hears music.
+  - Phrase: Jej mózg jo snadny.
+    Translation: His brain is quick.
+  - Phrase: Jej wóbliče jo krasne.
+    Translation: Her face is beautiful.
+  - Phrase: Wutšoba jo symbol lubosći.
+    Translation: The heart is a symbol of love.
+  - Phrase: Mój žołdk jo jano pełny pó wjacorim.
+    Translation: My stomach is just full after dinner.
+  - Phrase: Śěłu musy wótpocowaś.
+    Translation: The body needs rest.
+  - Phrase: Wón ma kastanowe włosy na głowje.
+    Translation: He has chestnut-colored hair on his head.
+  - Phrase: Wóna słyšo śi jano jadenym wuchom.
+    Translation: She hears you only with one ear.

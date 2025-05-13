@@ -1,0 +1,77 @@
+Skill:
+  Name: Shapes
+  Id: 10
+
+New words:
+  - Word: krug
+    Translation: circle
+  - Word: kwadrat
+    Translation: square
+  - Word: styrjo
+    Translation: four
+  - Word: dłujki
+    Translation: long
+  - Word: tśi
+    Translation: three
+  - Word: tśirožk
+    Translation: triangle
+  - Word: stojaś (stoja)
+    Translation: to stand (stands)
+  - Word: rowny
+    Translation: straight
+  - Word: forma
+    Translation: shape
+  - Word: linija
+    Translation: line
+  - Word: dypk
+    Translation: point
+  - Word: wobrys
+    Translation: outline
+  - Word: bok
+    Translation: side
+  - Word: figura
+    Translation: figure
+  - Word: forma
+    Translation: shape
+
+Phrases:
+  - Phrase: To jo krug.
+    Translation: This is a circle.
+  - Phrase: Kwadrat ma styrjo boki.
+    Translation: A square has four sides.
+  - Phrase: Tśirožk ma tśi boki.
+    Translation: A triangle has three sides.
+  - Phrase: Ta linija jo dłujka.
+    Translation: This line is long.
+  - Phrase: To jo mója forma.
+    Translation: This is my shape.
+  - Phrase: Linija jo rowna.
+    Translation: The line is straight.
+  - Phrase: Dypk to mały punkt.
+    Translation: A point is a small dot.
+  - Phrase: Wiźimy wobrys kwadrata.
+    Translation: We see the outline of a square.
+  - Phrase: Figura jo kompleksna.
+    Translation: The figure is complex.
+  - Phrase: To jo prosty forma.
+    Translation: This is a simple shape.
+  - Phrase: Ja mólojom wjeliki krug.
+    Translation: I am drawing a big circle.
+  - Phrase: Kwadrat a krug su zakładne formy.
+    Translation: Square and circle are basic shapes.
+  - Phrase: Linija źe pśez bok.
+    Translation: The line goes through the side.
+  - Phrase: Dypk ležy na liniji.
+    Translation: The point lies on the line.
+  - Phrase: Wóna zna kuždy wobrys Engelskeje.
+    Translation: She knows every outline of England.
+  - Phrase: To jo prosty tśirožk.
+    Translation: This is a simple triangle.
+  - Phrase: Wón mólojo figury na papjerje.
+    Translation: He is drawing figures on paper.
+  - Phrase: Forma jo zajmna.
+    Translation: The shape is interesting.
+  - Phrase: Blido ma formu kwadrata.
+    Translation: The table has the shape of a square.
+  - Phrase: Krasna figura stoja na blidźe.
+    Translation: A beautiful figure is standing on the table.

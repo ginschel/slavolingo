@@ -1,0 +1,79 @@
+Skill:
+  Name: Studying & Writing (Locative case)
+  Id: 9
+
+New words:
+  - Word: šula
+    Translation: school
+  - Word: wucabnica
+    Translation: female teacher
+  - Word: wucabnik
+    Translation: male teacher
+  - Word: zapisk
+    Translation: note
+  - Word: wuknik
+    Translation: student
+  - Word: knigła
+    Translation: book
+  - Word: nadawk
+    Translation: assignment
+  - Word: blido
+    Translation: table
+  - Word: tuš
+    Translation: ink
+  - Word: papjer
+    Translation: paper
+  - Word: pśedmjat
+    Translation: subject
+  - Word: metoda
+    Translation: method
+  - Word: pjero
+    Translation: pen
+  - Word: zapiskowy zmušk
+    Translation: notebook
+  - Word: na
+    Translation: on
+
+Phrases:
+  - Phrase: To mója šula.
+    Translation: This is my school.
+  - Phrase: Wóna jo wucabnicu.
+    Translation: She is a teacher.
+  - Phrase: Wón jo wuknikom.
+    Translation: He is a student.
+  - Phrase: Knigła jo na blidźe.
+    Translation: The book is on the table.
+  - Phrase: Ja mam nadawk.
+    Translation: I have an assignment.
+  - Phrase: Tuš jo hyšći mokry.
+    Translation: The ink is still wet.
+  - Phrase: Papjer jo běły.
+    Translation: The paper is white.
+  - Phrase: Ten pśedmjat jo matematika.
+    Translation: This subject is mathematics.
+  - Phrase: Ta metoda jo dobra.
+    Translation: This method is good.
+  - Phrase: Wuknik ma knigłu.
+    Translation: The student has a book.
+  - Phrase: To jo mójo blido.
+    Translation: This is my desk.
+  - Phrase: Mój zapiskowy zmušk jo pełny zapiskow z pjerom
+    Translation: My notebook is full of notes with a pen
+  - Phrase: Pišom na papjerje z pjerom.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Šula jo we centrje.
+    Translation: The school is in the center.
+  - Phrase: My pišomy nadawk.
+    Translation: We are writing the assignment.
+  - Phrase: Wucabnik powěda z wuknikami.
+    Translation: The teacher is talking with students.
+  - Phrase: Wóna ma wjele nadawkow.
+    Translation: She has many assignments.
+  - Phrase: Ja snaźnje pišom z tym pjerom.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Pśedmjat jo kompleksny.
+    Translation: The subject is complex.
+  - Phrase: Knigła jo nowa.
+    Translation: The book is new.
+  - Phrase: Wón jo mójim wucabnikom.
+    Translation: He is my teacher.

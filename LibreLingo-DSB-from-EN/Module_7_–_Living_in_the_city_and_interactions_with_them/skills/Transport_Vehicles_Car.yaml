@@ -1,0 +1,77 @@
+Skill:
+  Name: Transport/Vehicles/Car
+  Id: 23
+
+New words:
+  - Word: awto
+    Translation: car
+  - Word: awtobus
+    Translation: bus
+  - Word: śug
+    Translation: train
+  - Word: kóło
+    Translation: bicycle
+  - Word: dwórnišćo
+    Translation: station
+  - Word: šofer
+    Translation: driver
+  - Word: droga
+    Translation: road
+  - Word: most
+    Translation: bridge
+  - Word: rěd
+    Translation: speed
+  - Word: drogowe swěśełko
+    Translation: traffic light
+  - Word: jěś (jěźo)
+    Translation: to go/drive (goes/drives)
+  - Word: sednuś (sednjo)
+    Translation: to sit (sits)
+  - Word: zwězaś (zwězajo)
+    Translation: to connect/tie (connects/ties)
+  - Word: rozbyty
+    Translation: broken
+  - Word: wóstražny
+    Translation: careful
+
+Phrases:
+  - Phrase: Awto stoja na droze.
+    Translation: The car is standing on the street.
+  - Phrase: Awtobus jěźo do centra.
+    Translation: The bus goes to the center.
+  - Phrase: Śug jěźo na dwórnišćo.
+    Translation: The train goes to the station.
+  - Phrase: How jo sedło. Móžno sednuś.
+    Translation: Tu jest sěděnje. Možna sěsti
+  - Phrase: Dwórnišćo jo wjelike.
+    Translation: The station is big.
+  - Phrase: Šofer jěźo snadnje.
+    Translation: The driver drives fast.
+  - Phrase: Droga źe pśez lěs.
+    Translation: The road goes through the forest.
+  - Phrase: Most zwězajo dwě měsće.
+    Translation: The bridge connects two cities.
+  - Phrase: Rěd jo ważny za wěstosć na droze.
+    Translation: Brzina jest važna za bezpečnosti na ulici.
+  - Phrase: Drogowe swěśełko pokazujo cerwjene.
+    Translation: The traffic light shows red.
+  - Phrase: Awto jo nowe a krasne.
+    Translation: The car is new and beautiful.
+  - Phrase: Awtobus wjeźo wjele luźi.
+    Translation: The bus carries many people.
+  - Phrase: Śug jěźo na nord.
+    Translation: The train goes to the north.
+  - Phrase: Kóło jo rozbyte.
+    Translation: The bicycle is broken.
+  - Phrase: Dwórnišćo jo wótwórjone.
+    Translation: The station is open.
+  - Phrase: Šofer jo wóstražny.
+    Translation: The driver is careful.
+  - Phrase: Droga jo šyroka.
+    Translation: The road is wide.
+  - Phrase: Most jo wusoki.
+    Translation: The bridge is high.
+  - Phrase: Rěd jo wobgranicowany.
+    Translation: The speed is limited.
+  - Phrase: Drogowe swěśełko pokazujo zelene.
+    Translation: The traffic light shows green.

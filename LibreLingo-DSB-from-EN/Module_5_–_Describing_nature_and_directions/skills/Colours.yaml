@@ -1,0 +1,67 @@
+Skill:
+  Name: Colours
+  Id: 17
+
+New words:
+  - Word: carny
+    Translation: black
+  - Word: běły
+    Translation: white
+  - Word: zeleny
+    Translation: green
+  - Word: módry
+    Translation: blue
+  - Word: cerwjeny
+    Translation: red
+  - Word: žołty
+    Translation: yellow
+  - Word: šery
+    Translation: grey
+  - Word: kastanowy
+    Translation: brown
+  - Word: oranžowy
+    Translation: orange
+  - Word: cerwjeny
+    Translation: red
+
+Phrases:
+  - Phrase: Mój pjas jo carny.
+    Translation: My dog is black.
+  - Phrase: Myš jo běła.
+    Translation: The mouse is white.
+  - Phrase: Tšawa jo zelena.
+    Translation: The grass is green.
+  - Phrase: Njebjo jo módre.
+    Translation: The sky is blue.
+  - Phrase: Kwěśeń su cerwjene.
+    Translation: The flowers are red.
+  - Phrase: Słyńco jo žołte.
+    Translation: The sun is yellow.
+  - Phrase: Mrokawy su šere.
+    Translation: The clouds are grey.
+  - Phrase: Wón nosy kastanowy płasć.
+    Translation: He wears a brown coat.
+  - Phrase: Łopjeno jo oranžowe.
+    Translation: The leaf is orange.
+  - Phrase: To jo Cerwjene móře.
+    Translation: This is the Red Sea.
+  - Phrase: Móje wocy su módre.
+    Translation: My eyes are blue.
+  - Phrase: Wóna ma zelenu tšawu.
+    Translation: She has green grass.
+  - Phrase: Ja lubijom cerwjeny kólor.
+    Translation: I like the red color.
+  - Phrase: Jej awto jo carne.
+    Translation: His car is black.
+  - Phrase: Źowćo njaso běłu sukńu.
+    Translation: The girl is wearing a white dress.
+  - Phrase: Jo lě to šery włos?
+    Translation: Is that grey hair?
+  - Phrase: Wón ma oranžowu tascynu.
+    Translation: He has an orange bag.
+  - Phrase: Kastanowy kóń stoja we staji.
+    Translation: The brown horse stands in the stable.
+  - Phrase: Žołte słyńco grějo zemju.
+    Translation: The yellow sun warms the earth.
+  - Phrase: Cerwjena róža rosćo how.
+    Translation: A red rose grows here.
