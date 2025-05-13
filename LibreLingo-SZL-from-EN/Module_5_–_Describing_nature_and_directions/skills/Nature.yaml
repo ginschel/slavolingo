@@ -1,0 +1,85 @@
+Skill:
+  Name: Nature
+  Id: 15
+
+New words:
+  - Word: rzeka
+    Translation: river
+  - Word: bez
+    Translation: through
+  - Word: gōra
+    Translation: mountain
+  - Word: dolina
+    Translation: valley
+  - Word: las
+    Translation: forest
+  - Word: trowa
+    Translation: grass
+  - Word: blum
+    Translation: flower
+  - Word: rōża
+    Translation: rose
+  - Word: rosnōńć (rośńe)
+    Translation: to grow (grows)
+  - Word: ziymia
+    Translation: earth
+  - Word: kamiyń
+    Translation: stone
+  - Word: pōle
+    Translation: field
+  - Word: dōmb
+    Translation: oak
+  - Word: miesiōnczek
+    Translation: moon
+  - Word: kwitnōńć (kwitnie)
+    Translation: to bloom (blooms)
+  - Word: bōk
+    Translation: tree
+  - Word: leżeć (leży)
+    Translation: to lie (lies)
+  - Word: miyndzy
+    Translation: between
+
+Phrases:
+  - Phrase: Rzyka cine bez dolina.
+    Translation: The river flows through the valley.
+  - Phrase: Gōra je wysokŏ.
+    Translation: The mountain is high.
+  - Phrase: My idymy do lasa.
+    Translation: We are going to the forest.
+  - Phrase: Trowa je zielōno.
+    Translation: The grass is green.
+  - Phrase: Blumy piyknie kwitnōm.
+    Translation: The flowers bloom beautifully.
+  - Phrase: Ôn stoji na kamieniu.
+    Translation: He is standing on the stone.
+  - Phrase: Ziymia je mokro.
+    Translation: The earth is wet.
+  - Phrase: Rōża rośńe na pōlu.
+    Translation: The rose grows in the field.
+  - Phrase: Dolina leży miyndzy gōrami.
+    Translation: The valley lies between the mountains.
+  - Phrase: Pōle je szyroke.
+    Translation: The field is wide.
+  - Phrase: Ôni idōm bez las z moc bōkami.
+    Translation: They are going through the forest with many trees.
+  - Phrase: Trowa rośńe wartko.
+    Translation: The grass grows fast.
+  - Phrase: Kamynie som ciynżke.
+    Translation: The stones are heavy.
+  - Phrase: Blum rośńe z ziymie.
+    Translation: A flower grows from the earth.
+  - Phrase: Woda idzie do rzyki.
+    Translation: Water goes to the river.
+  - Phrase: Pōle je za dōmym.
+    Translation: The field is behind the house.
+  - Phrase: Idymy ku dōmbowi.
+    Translation: We are going towards the oak.
+  - Phrase: Miesiōnczek dzisiŏj piykny
+    Translation: The moon today is beautiful
+  - Phrase: My stojymy na ziymi.
+    Translation: We are standing on the earth.
+  - Phrase: Ôni ôglōndajōm we dolina.
+    Translation: They are looking into the valley.
+  - Phrase: Rzyka idzie miyndzy pólami.
+    Translation: The river goes between the fields.

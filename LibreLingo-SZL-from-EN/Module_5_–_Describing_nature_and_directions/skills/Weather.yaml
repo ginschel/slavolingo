@@ -1,0 +1,81 @@
+Skill:
+  Name: Weather
+  Id: 16
+
+New words:
+  - Word: wjedro
+    Translation: weather
+  - Word: dyszcz
+    Translation: rain
+  - Word: padać
+    Translation: to fall
+  - Word: śniyg
+    Translation: snow
+  - Word: pomiynioć
+    Translation: to change
+  - Word: słōńce
+    Translation: sun
+  - Word: świycić
+    Translation: to shine
+  - Word: luft
+    Translation: air
+  - Word: wiater
+    Translation: wind
+  - Word: ciepło
+    Translation: warm
+  - Word: zimno
+    Translation: cold
+  - Word: mrōz
+    Translation: frost
+  - Word: chmura
+    Translation: cloud
+  - Word: grzoć (grzeje)
+    Translation: to heat (heats)
+  - Word: ôbłōczno
+    Translation: cloudy
+  - Word: wandzić (wandzi)
+    Translation: to smell
+  - Word: widzieć (widzi)
+    Translation: to see (sees)
+
+Phrases:
+  - Phrase: Wjedro je dobre.
+    Translation: The weather is good.
+  - Phrase: Pado dyszcz.
+    Translation: It is raining.
+  - Phrase: Śniyg leży na ziymi.
+    Translation: Snow lies on the ground.
+  - Phrase: Słōńce świyci.
+    Translation: The sun is shining.
+  - Phrase: Luft je czysty.
+    Translation: The air is clean.
+  - Phrase: Wiater dmie mocno.
+    Translation: The wind is blowing strongly.
+  - Phrase: Dzisiŏj je ciepło.
+    Translation: It is warm today.
+  - Phrase: We Rusyji je zimno.
+    Translation: In Russia it is cold.
+  - Phrase: Mrōz je srogi.
+    Translation: The frost is strong.
+  - Phrase: Chmury som ćmawe.
+    Translation: The clouds are dark.
+  - Phrase: Pado śniyg a dyszcz.
+    Translation: Snow and rain are falling.
+  - Phrase: Wjedro sie pomiynio.
+    Translation: The weather is changing.
+  - Phrase: Słōńce grzeje nas.
+    Translation: The sun heats us.
+  - Phrase: Dzisiŏj je ciepło a suche.
+    Translation: It is warm and dry today.
+  - Phrase: Je ly wiater srogi?
+    Translation: Is the wind strong?
+  - Phrase: Mrōz je rano.
+    Translation: There is frost in the morning.
+  - Phrase: Ôbłōczno je dzisiŏj.
+    Translation: It is cloudy today.
+  - Phrase: Luft wandzi po dyszczu.
+    Translation: The air smells of rain.
+  - Phrase: Dzisiŏj niy widzymy chmur.
+    Translation: Today I do not see clouds.
+  - Phrase: Zimny wiater dmie z pōłnocy.
+    Translation: A cold wind is blowing from the north.

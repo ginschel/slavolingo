@@ -1,0 +1,125 @@
+Skill:
+  Name: Greetings & Phrases for conversations
+  Id: 2
+
+New words:
+  - Word: powitać
+    Translation: greeting
+  - Word: zdrowy/jo
+    Translation: healthy/hello
+  - Word: godka
+    Translation: conversation
+  - Word: rano
+    Translation: morning
+  - Word: wieczōr
+    Translation: evening
+  - Word: dziyń
+    Translation: day
+  - Word: noc
+    Translation: night
+  - Word: dziynkuja
+    Translation: thanks
+  - Word: pardon
+    Translation: pardon
+  - Word: przeprōsz
+    Translation: excuse me
+  - Word: dobry
+    Translation: good
+  - Word: lepszy
+    Translation: better
+  - Word: idzie/możno
+    Translation: possible
+  - Word: szkoda
+    Translation: pity
+  - Word: tak
+    Translation: so
+  - Word: co
+    Translation: what
+  - Word: niy
+    Translation: no
+  - Word: ja
+    Translation: yes
+  - Word: snoc
+    Translation: maybe/can
+  - Word: dej
+    Translation: let's go
+
+Phrases:
+  - Phrase: Dobre rano!
+    Translation: Good morning!
+  - Phrase: Dobry wieczōr!
+    Translation: Good evening!
+  - Phrase: Dobry dziyń!
+    Translation: Good day!
+  - Phrase: Dobryj nocy!
+    Translation: Good night!
+  - Phrase: Jak żeś je?
+    Translation: How are you?
+  - Phrase: Żech je dobrze, dziynkuja!
+    Translation: I am well, thank you!
+  - Phrase: A ty?
+    Translation: And you?
+  - Phrase: Dziynkuja ci barzij.
+    Translation: Thank you very much.
+  - Phrase: Pardon, niy rozumia.
+    Translation: Excuse me, I don't understand.
+  - Phrase: Witoj!
+    Translation: Greetings!
+  - Phrase: Jo!
+    Translation: Hello!
+  - Phrase: Dobry dziyń, jak żeś je?
+    Translation: Good day, how are you?
+  - Phrase: Jesteś zdrowy?
+    Translation: Are you healthy?
+  - Phrase: Witejcie!
+    Translation: Welcome!
+  - Phrase: Na zdrowie!
+    Translation: To your health!
+  - Phrase: Pozdrōw twoja siostra.
+    Translation: Greet your sister.
+  - Phrase: Jak sie mianujesz?
+    Translation: What is your name?
+  - Phrase: Ja sie mianuja Bartek.
+    Translation: My name is Bartek.
+  - Phrase: Dziynkuja za godka.
+    Translation: Thank you for the conversation.
+  - Phrase: Tak je.
+    Translation: That is so.
+  - Phrase: Niy tak.
+    Translation: Not so.
+  - Phrase: Snoc może być.
+    Translation: Maybe.
+  - Phrase: Niy idzie.
+    Translation: Not possible.
+  - Phrase: Szkoda!
+    Translation: What a pity!
+  - Phrase: Dobrze!
+    Translation: Good!
+  - Phrase: Niy dobrze.
+    Translation: Not good.
+  - Phrase: To je lepszy.
+    Translation: This is better.
+  - Phrase: To niy je lepszy.
+    Translation: This is not better.
+  - Phrase: Ja, idzie.
+    Translation: Yes, it is possible.
+  - Phrase: Niy, niy idzie.
+    Translation: No, it is not possible.
+  - Phrase: Idzie to?
+    Translation: Is this possible?
+  - Phrase: Co to mianuje?
+    Translation: What does this mean?
+  - Phrase: Tyż jo.
+    Translation: Me too.
+  - Phrase: Z Bogiem!
+    Translation: Go with God!
+  - Phrase: Niy wia.
+    Translation: I don't know.
+  - Phrase: Snoc.
+    Translation: Perhaps.
+  - Phrase: Powtōrz. Niy zrozumiuł.
+    Translation: Repeat. I didn't understand.
+  - Phrase: Jesteś gotowy?
+    Translation: Are you ready?
+  - Phrase: Dej!
+    Translation: Let's go!

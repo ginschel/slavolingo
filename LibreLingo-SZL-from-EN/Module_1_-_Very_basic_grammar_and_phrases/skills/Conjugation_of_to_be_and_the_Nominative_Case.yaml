@@ -1,0 +1,121 @@
+Skill:
+  Name: Conjugation of to be and the Nominative Case
+  Id: 1
+
+New words:
+  - Word: to (nijaki rod)
+    Translation: this
+  - Word: ta (żeński rod)
+    Translation: this
+  - Word: tyn (muśki rod)
+    Translation: that
+  - Word: tamtyn (muśki rod)
+    Translation: that over there
+  - Word: tamto (żeński rod)
+    Translation: that over there
+  - Word: żech je
+    Translation: am
+  - Word: żeś je
+    Translation: are
+  - Word: je
+    Translation: is
+  - Word: żechmy som
+    Translation: are
+  - Word: żeście som
+    Translation: are
+  - Word: som
+    Translation: are
+  - Word: jo
+    Translation: I
+  - Word: ty
+    Translation: you
+  - Word: ôn
+    Translation: he
+  - Word: ôna
+    Translation: she
+  - Word: ôno
+    Translation: it
+  - Word: my
+    Translation: we
+  - Word: wy
+    Translation: you
+  - Word: ôni
+    Translation: they (m/mixed)
+  - Word: ône
+    Translation: they (f/n)
+  - Word: czowiek
+    Translation: person
+  - Word: baba
+    Translation: woman
+  - Word: chop
+    Translation: man
+  - Word: dziecie
+    Translation: child
+  - Word: kamrat
+    Translation: friend
+  - Word: siostra
+    Translation: sister
+  - Word: ôjc/stary
+    Translation: parent
+  - Word: dōm
+    Translation: house
+  - Word: miasto
+    Translation: city
+  - Word: dziyń
+    Translation: day
+  - Word: tyż
+    Translation: also
+  - Word: kto
+    Translation: who
+
+Phrases:
+  - Phrase: Jo żech je mondry.
+    Translation: I am wise.
+  - Phrase: To je moja siostra.
+    Translation: This is my sister.
+  - Phrase: Ôna je barzij mondro
+    Translation: She is very wise
+  - Phrase: My żechmy som barzij mondre
+    Translation: We are very wise
+  - Phrase: Wy żeście tyż mondre?
+    Translation: Are you also wise?
+  - Phrase: To je dobry czowiek.
+    Translation: This is a good person.
+  - Phrase: Ta baba je dobro.
+    Translation: This woman is good.
+  - Phrase: To je mój dōm.
+    Translation: This is my house.
+  - Phrase: Ôn tyż dobry kamrat
+    Translation: He is a good friend
+  - Phrase: Wy żeście som dobre.
+    Translation: You are good.
+  - Phrase: To som kamraty.
+    Translation: These are friends.
+  - Phrase: Kto ty żeś je?
+    Translation: Who are you?
+  - Phrase: Tyn chop miły.
+    Translation: That man is kind.
+  - Phrase: To je przijymne miasto.
+    Translation: This is a pleasant city.
+  - Phrase: Ta baba je wysoko.
+    Translation: That woman is tall.
+  - Phrase: Tyn dziyń je zimny.
+    Translation: That day is cold.
+  - Phrase: Tamtyn dōm je piykny.
+    Translation: That house over there is beautiful.
+  - Phrase: To moje dziecie.
+    Translation: This is my child.
+  - Phrase: Tamto rano je zimne.
+    Translation: That morning over there is cold.
+  - Phrase: To niy moja siostra.
+    Translation: This is not my sister.
+  - Phrase: To niy twój dōm.
+    Translation: This is not your house.
+  - Phrase: To dobre auto?
+    Translation: Is this a good car?
+  - Phrase: To dobre kamraty?
+    Translation: Are these good friends?
+  - Phrase: Ône som barzij miłe.
+    Translation: They are very kind.
+  - Phrase: Ôni som barzij mili
+    Translation: They are very kind

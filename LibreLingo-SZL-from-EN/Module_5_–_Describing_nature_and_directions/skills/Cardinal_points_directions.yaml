@@ -1,0 +1,85 @@
+Skill:
+  Name: Cardinal points/directions
+  Id: 18
+
+New words:
+  - Word: pōłnoc
+    Translation: north
+  - Word: połednie
+    Translation: south
+  - Word: zachōd
+    Translation: west
+  - Word: weschōd
+    Translation: east
+  - Word: pōłnocny
+    Translation: northern
+  - Word: połedniowy
+    Translation: southern
+  - Word: zachodni
+    Translation: western
+  - Word: weschodni
+    Translation: eastern
+  - Word: kōmpas
+    Translation: compass
+  - Word: strōna
+    Translation: side
+  - Word: kaj
+    Translation: where
+  - Word: wstoć (wstōwŏ)
+    Translation: to rise (rises)
+  - Word: pokozać
+    Translation: to show
+  - Word: karta
+    Translation: map
+  - Word: rajzować
+    Translation: to travel
+  - Word: prowo
+    Translation: right
+  - Word: lewo
+    Translation: left
+  - Word: prosto
+    Translation: straight
+
+Phrases:
+  - Phrase: Pōłnoc je zimnŏ.
+    Translation: The north is cold.
+  - Phrase: Połednie je ciepłe.
+    Translation: The south is warm.
+  - Phrase: Słōńce wstōwŏ na weschodzie.
+    Translation: The sun rises in the east.
+  - Phrase: Ôno zachodzi na zachodzie.
+    Translation: It sets in the west.
+  - Phrase: To je pōłnocno strōna.
+    Translation: This is the northern side.
+  - Phrase: Miyszkomy na połedniu.
+    Translation: We live in the south.
+  - Phrase: Kōmpas pokazuje pōłnoc.
+    Translation: The compass shows north.
+  - Phrase: Weschōd je tam.
+    Translation: The east is there.
+  - Phrase: Zachodni wiater dmie.
+    Translation: A western wind is blowing.
+  - Phrase: Idymy ku jugo-zachodowi.
+    Translation: We are going to the southwest.
+  - Phrase: To je pōłnocno-zachodni regiōn.
+    Translation: This is the northwestern region.
+  - Phrase: Strōna na karcie pokazuje zachōd.
+    Translation: The side on the map shows west.
+  - Phrase: Jugo-weschōd je tam, kaj grzeje słōńce.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Idymy do połedniowyj strōny.
+    Translation: We are going to the southern side.
+  - Phrase: Ôn rajzuje na weschōd.
+    Translation: He travels eastward.
+  - Phrase: Na pōłnocy je śniyg.
+    Translation: In the north there is snow.
+  - Phrase: Połedniowe kraje som ciepłe.
+    Translation: The southern regions are warm.
+  - Phrase: Zachōd je lewo na karcie.
+    Translation: West is left on the map.
+  - Phrase: Weschodnio muzyka je ciekawy.
+    Translation: Eastern music is interesting.
+  - Phrase: Ôglōndōmy ku pōłnocy.
+    Translation: We are looking to the north.
+  - Phrase: Idymy terŏz prowo a potym prosto.
+    Translation: We are going right now and then straight.

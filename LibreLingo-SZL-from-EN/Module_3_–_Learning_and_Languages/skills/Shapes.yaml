@@ -1,0 +1,77 @@
+Skill:
+  Name: Shapes
+  Id: 10
+
+New words:
+  - Word: koło
+    Translation: circle
+  - Word: kwadrat
+    Translation: square
+  - Word: sztyry
+    Translation: four
+  - Word: dugi
+    Translation: long
+  - Word: trzi
+    Translation: three
+  - Word: trziôkąt
+    Translation: triangle
+  - Word: stoć (stoji)
+    Translation: to stand (stands)
+  - Word: rōwny
+    Translation: straight
+  - Word: forma
+    Translation: shape
+  - Word: linijo
+    Translation: line
+  - Word: pōnkt
+    Translation: point
+  - Word: ôbryz
+    Translation: outline
+  - Word: strōna
+    Translation: side
+  - Word: figura
+    Translation: figure
+  - Word: kształt
+    Translation: shape
+
+Phrases:
+  - Phrase: To je koło.
+    Translation: This is a circle.
+  - Phrase: Kwadrat mo sztyry strōny.
+    Translation: A square has four sides.
+  - Phrase: Trziôkąt mo trzi strōny.
+    Translation: A triangle has three sides.
+  - Phrase: Ta linijo je dugo.
+    Translation: This line is long.
+  - Phrase: To je moja forma.
+    Translation: This is my shape.
+  - Phrase: Linijo je rōwno.
+    Translation: The line is straight.
+  - Phrase: Pōnkt to mały pōnkt.
+    Translation: A point is a small dot.
+  - Phrase: Widzymy ôbryz kwadrata.
+    Translation: We see the outline of a square.
+  - Phrase: Figura je kōmpleksno.
+    Translation: The figure is complex.
+  - Phrase: To je prosty kształt.
+    Translation: This is a simple shape.
+  - Phrase: Jo maluja wielge koło.
+    Translation: I am drawing a big circle.
+  - Phrase: Kwadrat a koło som podstawowe formy.
+    Translation: Square and circle are basic shapes.
+  - Phrase: Linijo idzie bez strōna.
+    Translation: The line goes through the side.
+  - Phrase: Pōnkt leży na liniji.
+    Translation: The point lies on the line.
+  - Phrase: Ôna wia kożdy ôbryz Anglije.
+    Translation: She knows every outline of England.
+  - Phrase: To je prosty trziôkąt.
+    Translation: This is a simple triangle.
+  - Phrase: Ôn maluje figury na papjōrze.
+    Translation: He is drawing figures on paper.
+  - Phrase: Forma je ciekawy.
+    Translation: The shape is interesting.
+  - Phrase: Stōł mo kształt kwadrata.
+    Translation: The table has the shape of a square.
+  - Phrase: Piykno figura stoji na stole.
+    Translation: A beautiful figure is standing on the table.

@@ -1,0 +1,77 @@
+Skill:
+  Name: Rooms/furniture
+  Id: 12
+
+New words:
+  - Word: izba
+    Translation: room
+  - Word: stōł
+    Translation: table
+  - Word: stołek
+    Translation: chair
+  - Word: poduszka
+    Translation: pillow
+  - Word: łóżko
+    Translation: bed
+  - Word: ôkno
+    Translation: window
+  - Word: dźwiyrze
+    Translation: doors
+  - Word: szrank
+    Translation: wardrobe
+  - Word: szuflada
+    Translation: chest
+  - Word: połka
+    Translation: shelf
+  - Word: trzymać (trzymie)
+    Translation: to hold (holds)
+  - Word: wisieć (wisi)
+    Translation: to hang (hangs)
+  - Word: ściana
+    Translation: wall
+  - Word: lampa
+    Translation: lamp
+  - Word: dować
+    Translation: to give
+
+Phrases:
+  - Phrase: Izba je ciepło a cicho.
+    Translation: The room is warm and quiet.
+  - Phrase: Stōł stoji we postrzodku izby.
+    Translation: The table stands in the middle of the room.
+  - Phrase: Stołek je blisko stōła.
+    Translation: The chair is near the table.
+  - Phrase: Łóżko je miynke.
+    Translation: The bed is soft.
+  - Phrase: Ôkno je ôdewrzōne.
+    Translation: The window is open.
+  - Phrase: Dźwiyrze som zawrzōne.
+    Translation: The doors are closed.
+  - Phrase: Szrank mo moc ôblyczyń.
+    Translation: The wardrobe has many clothes.
+  - Phrase: Szuflada je pod łóżkym.
+    Translation: The chest is under the bed.
+  - Phrase: Połka trzymie ksiónżki.
+    Translation: The shelf holds books.
+  - Phrase: Lampa świyci nad stōłym.
+    Translation: The lamp shines above the table.
+  - Phrase: Izba mo dwa ôkna.
+    Translation: The room has two windows.
+  - Phrase: Na stole leży ksiónżka.
+    Translation: A book is lying on the table.
+  - Phrase: Stołek je stary, nale wygodny.
+    Translation: The chair is old, but comfortable.
+  - Phrase: Łóżko je nowe.
+    Translation: The bed is new.
+  - Phrase: Dźwiyrze wiedzōm do kuchnie.
+    Translation: The doors lead to the kitchen.
+  - Phrase: Szrank je pełny.
+    Translation: The wardrobe is full.
+  - Phrase: Szuflada je z drzewa.
+    Translation: The chest is made of wood.
+  - Phrase: Połka wisi na ścianie.
+    Translation: The shelf hangs on the wall.
+  - Phrase: Lampa dowo światło.
+    Translation: The lamp gives light.
+  - Phrase: We izbie je cicho.
+    Translation: It is quiet in the room.

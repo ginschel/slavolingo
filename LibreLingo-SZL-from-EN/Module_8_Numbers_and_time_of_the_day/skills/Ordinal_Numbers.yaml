@@ -1,0 +1,75 @@
+Skill:
+  Name: Ordinal Numbers
+  Id: 30
+
+New words:
+  - Word: piyrwszy
+    Translation: first
+  - Word: drugi
+    Translation: second
+  - Word: trzeći
+    Translation: third
+  - Word: sztwŏrty
+    Translation: fourth
+  - Word: piōnty
+    Translation: fifth
+  - Word: szósty
+    Translation: sixth
+  - Word: siōdmy
+    Translation: seventh
+  - Word: ôsmy
+    Translation: eighth
+  - Word: dziewiōnty
+    Translation: ninth
+  - Word: tysiyczny
+    Translation: thousandth
+  - Word: sōty
+    Translation: hundredth
+  - Word: piyńć tysiyczny
+    Translation: five thousandth
+  - Word: siedym tysiyczny
+    Translation: seven thousandth
+  - Word: godzina
+    Translation: hour
+
+Phrases:
+  - Phrase: ô piyrwszyj godźinie dwadzieścia
+    Translation: at twenty past the first hour
+  - Phrase: ô drugij godźinie dziesiyńć piyńć
+    Translation: at fifteen past the second hour
+  - Phrase: ô trzećij godźinie dwa
+    Translation: at two past the third hour
+  - Phrase: ô sztwŏrtyj godźinie siedym
+    Translation: at seven past the fourth hour
+  - Phrase: ô piōntyj godźinie
+    Translation: at the fifth hour
+  - Phrase: ô szóstyj godźinie
+    Translation: at the sixth hour
+  - Phrase: ô ôsmyj godźinie piyńćdziesiōnt piyńć
+    Translation: at fifty five past the eighth hour
+  - Phrase: ô dziewiōntyj godźinie
+    Translation: at the ninth hour
+  - Phrase: ô dziesiątyj godźinie
+    Translation: at the tenth hour
+  - Phrase: ô dwanaściyj godźinie
+    Translation: at the twelfth hour
+  - Phrase: ô jedynaściyj godźinie trzidzieści trzi
+    Translation: at thirty three past the eleventh hour
+  - Phrase: sōty dolar
+    Translation: hundredth dollar
+  - Phrase: dwieście trzeći kōmputyr
+    Translation: two hundred third computer
+  - Phrase: dwasetny zegarek
+    Translation: two hundredth clock
+  - Phrase: trzidziesty chop
+    Translation: thirtieth man
+  - Phrase: dwieście piyrwszy brat
+    Translation: two hundred first brother
+  - Phrase: sześćsetny rajzrkōło
+    Translation: six hundredth bicycle
+  - Phrase: ôziymset drugi dolar
+    Translation: eight hundred second dollar
+  - Phrase: dziewiyńćsetny pies
+    Translation: nine hundredth dog
+  - Phrase: czterysta piōnto gōra
+    Translation: four hundred fifth mountain
