@@ -1,0 +1,81 @@
+Skill:
+  Name: Character (Conditional)
+  Id: 36
+
+New words:
+  - Word: dobrý
+    Translation: good
+  - Word: zlý
+    Translation: bad
+  - Word: silný
+    Translation: strong
+  - Word: slabý
+    Translation: weak
+  - Word: smělý
+    Translation: brave
+  - Word: tichý
+    Translation: quiet
+  - Word: moudrý
+    Translation: wise
+  - Word: hloupý
+    Translation: stupid
+  - Word: upřímný
+    Translation: sincere
+  - Word: líný
+    Translation: lazy
+  - Word: byl bych
+    Translation: I would be
+  - Word: byl bys
+    Translation: you would be
+  - Word: byl by
+    Translation: he/she/it would be
+  - Word: byli bychom
+    Translation: we would be
+  - Word: byli byste
+    Translation: you would be
+  - Word: byli by
+    Translation: they would be
+  - Word: mlčet (mlčí)
+    Translation: to be silent (is silent)
+
+Phrases:
+  - Phrase: On to dobrý člověk.
+    Translation: He is a good person.
+  - Phrase: Ona je zlá časem.
+    Translation: She is sometimes bad.
+  - Phrase: Silný duch je důležitý.
+    Translation: A strong spirit is important.
+  - Phrase: On je slabý ve sportu.
+    Translation: He is weak in sports.
+  - Phrase: Smělý mluví pravdu.
+    Translation: Brave people speak the truth.
+  - Phrase: Jak bys byl slyšel, tak oni by byli tiší.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Moudrý ví mnoho.
+    Translation: A smart person knows much.
+  - Phrase: Kdybys nebyl hloupý, tak bys nedělal hlouposti.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Upřímný přítel je drahocenný.
+    Translation: A sincere friend is valuable.
+  - Phrase: Kdyby oni nebyli líní, tak bychom jim pomáhali.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Ona je dobrá a upřímná.
+    Translation: She is good and sincere.
+  - Phrase: On je silný, ale smělý.
+    Translation: He is strong but brave.
+  - Phrase: Děti jsou moudré na jejich věk.
+    Translation: Children are wiser for their age.
+  - Phrase: Kdybyste nebyli slabí, tak byste pracovali.
+    Translation: If you were not weak, you would work.
+  - Phrase: Zlá slova bolí.
+    Translation: Bad words hurt.
+  - Phrase: Hloupý se neučí.
+    Translation: Stupid people do not learn.
+  - Phrase: Líný nechce nic dělat.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Upřímný mluví co si myslí.
+    Translation: A sincere person says what they think.
+  - Phrase: Moudrý mlčí, když je třeba.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Kdybych byl smělý, tak bych se nebál.
+    Translation: If I were brave, I would not be afraid.

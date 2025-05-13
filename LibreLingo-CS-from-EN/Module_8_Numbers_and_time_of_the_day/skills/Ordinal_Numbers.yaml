@@ -1,0 +1,75 @@
+Skill:
+  Name: Ordinal Numbers
+  Id: 30
+
+New words:
+  - Word: první
+    Translation: first
+  - Word: druhý
+    Translation: second
+  - Word: třetí
+    Translation: third
+  - Word: čtvrtý
+    Translation: fourth
+  - Word: pátý
+    Translation: fifth
+  - Word: šestý
+    Translation: sixth
+  - Word: sedmý
+    Translation: seventh
+  - Word: osmý
+    Translation: eighth
+  - Word: devátý
+    Translation: ninth
+  - Word: tisící
+    Translation: thousandth
+  - Word: stý
+    Translation: hundredth
+  - Word: pátý tisící
+    Translation: five thousandth
+  - Word: sedmý tisící
+    Translation: seven thousandth
+  - Word: hodina (jako v "v kolik hodin")
+    Translation: hour
+
+Phrases:
+  - Phrase: v první hodině dvacet
+    Translation: at twenty past the first hour
+  - Phrase: v druhé hodině deset pět
+    Translation: at fifteen past the second hour
+  - Phrase: v třetí hodině dva
+    Translation: at two past the third hour
+  - Phrase: v čtvrté hodině sedm
+    Translation: at seven past the fourth hour
+  - Phrase: v páté hodině
+    Translation: at the fifth hour
+  - Phrase: v šesté hodině
+    Translation: at the sixth hour
+  - Phrase: v osmé hodině padesát pět
+    Translation: at fifty five past the eighth hour
+  - Phrase: v deváté hodině
+    Translation: at the ninth hour
+  - Phrase: v desáté hodině
+    Translation: at the tenth hour
+  - Phrase: v dvanácté hodině
+    Translation: at the twelfth hour
+  - Phrase: v jedenácté hodině třicet tři
+    Translation: at thirty three past the eleventh hour
+  - Phrase: stý dolar
+    Translation: hundredth dollar
+  - Phrase: dvěstě třetí počítač
+    Translation: two hundred third computer
+  - Phrase: dvěstě hodinek
+    Translation: two hundredth clock
+  - Phrase: třicátý muž
+    Translation: thirtieth man
+  - Phrase: dvěstě první bratr
+    Translation: two hundred first brother
+  - Phrase: šestsetný jízdní kolo
+    Translation: six hundredth bicycle
+  - Phrase: osmset druhý dolar
+    Translation: eight hundred second dollar
+  - Phrase: devětsetný pes
+    Translation: nine hundredth dog
+  - Phrase: čtyřista pátá hora
+    Translation: four hundred fifth mountain

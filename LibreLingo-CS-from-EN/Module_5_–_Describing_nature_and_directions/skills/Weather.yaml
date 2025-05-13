@@ -1,0 +1,81 @@
+Skill:
+  Name: Weather
+  Id: 16
+
+New words:
+  - Word: počasí
+    Translation: weather
+  - Word: déšť
+    Translation: rain
+  - Word: padat
+    Translation: to fall
+  - Word: sníh
+    Translation: snow
+  - Word: měnit se
+    Translation: to change
+  - Word: slunce
+    Translation: sun
+  - Word: svítit
+    Translation: to shine
+  - Word: vzduch
+    Translation: air
+  - Word: vítr
+    Translation: wind
+  - Word: teplo
+    Translation: warm
+  - Word: chladno
+    Translation: cold
+  - Word: mráz
+    Translation: frost
+  - Word: oblak
+    Translation: cloud
+  - Word: hřát (hřeje)
+    Translation: to heat (heats)
+  - Word: oblačno
+    Translation: cloudy
+  - Word: vonět (voní)
+    Translation: to smell
+  - Word: vidět (vidí)
+    Translation: to see (sees)
+
+Phrases:
+  - Phrase: Počasí je dobré.
+    Translation: The weather is good.
+  - Phrase: Padá déšť.
+    Translation: It is raining.
+  - Phrase: Sníh leží na zemi.
+    Translation: Snow lies on the ground.
+  - Phrase: Slunce svítí.
+    Translation: The sun is shining.
+  - Phrase: Vzduch je čistý.
+    Translation: The air is clean.
+  - Phrase: Vítr fouká silně.
+    Translation: The wind is blowing strongly.
+  - Phrase: Dnes je teplo.
+    Translation: It is warm today.
+  - Phrase: V Rusku je chladno.
+    Translation: In Russia it is cold.
+  - Phrase: Mráz je silný.
+    Translation: The frost is strong.
+  - Phrase: Oblaky jsou temné.
+    Translation: The clouds are dark.
+  - Phrase: Padá sníh a déšť.
+    Translation: Snow and rain are falling.
+  - Phrase: Počasí se mění.
+    Translation: The weather is changing.
+  - Phrase: Slunce hřeje nás.
+    Translation: The sun heats us.
+  - Phrase: Dnes je teplo a sucho.
+    Translation: It is warm and dry today.
+  - Phrase: Je li vítr silný?
+    Translation: Is the wind strong?
+  - Phrase: Mráz je ráno.
+    Translation: There is frost in the morning.
+  - Phrase: Oblačno je dnes.
+    Translation: It is cloudy today.
+  - Phrase: Vzduch voní po dešti.
+    Translation: The air smells of rain.
+  - Phrase: Dnes nevidíme oblaků.
+    Translation: Today I do not see clouds.
+  - Phrase: Chladný vítr fouká ze severu.
+    Translation: A cold wind is blowing from the north.

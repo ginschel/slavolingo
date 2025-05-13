@@ -1,0 +1,93 @@
+Skill:
+  Name: Numbers 0-10
+  Id: 26
+
+New words:
+  - Word: nula
+    Translation: zero
+  - Word: jeden (m)
+    Translation: one (m)
+  - Word: jedna (ž)
+    Translation: one (f)
+  - Word: jedno (s)
+    Translation: one (n)
+  - Word: dva (m/s)
+    Translation: two (m/n)
+  - Word: dvě (ž)
+    Translation: two (f)
+  - Word: tři
+    Translation: three
+  - Word: čtyři
+    Translation: four
+  - Word: pět
+    Translation: five
+  - Word: šest
+    Translation: six
+  - Word: sedm
+    Translation: seven
+  - Word: osm
+    Translation: eight
+  - Word: devět
+    Translation: nine
+  - Word: deset
+    Translation: ten
+  - Word: hodinky
+    Translation: clock/watch
+  - Word: chlapec
+    Translation: boy
+  - Word: počítač
+    Translation: computer
+  - Word: jízdní kolo
+    Translation: bicycle
+  - Word: rubl
+    Translation: ruble
+  - Word: žena
+    Translation: woman
+  - Word: pole
+    Translation: field
+  - Word: kočka
+    Translation: cat
+  - Word: dolar
+    Translation: dollar
+
+Phrases:
+  - Phrase: nula hodinek
+    Translation: zero clocks
+  - Phrase: jeden chlapec
+    Translation: one boy
+  - Phrase: jedna žena
+    Translation: one woman
+  - Phrase: jedno pole
+    Translation: one field
+  - Phrase: dva chlapci
+    Translation: two boys
+  - Phrase: dvě ženy
+    Translation: two women
+  - Phrase: tři kočky
+    Translation: three cats
+  - Phrase: čtyři jízdní kola
+    Translation: four bicycles
+  - Phrase: pět chlapců
+    Translation: five boys
+  - Phrase: šest jízdních kol
+    Translation: six bicycles
+  - Phrase: sedm rublů
+    Translation: seven rubles
+  - Phrase: osm dolarů
+    Translation: eight dollars
+  - Phrase: devět počítačů
+    Translation: nine computers
+  - Phrase: deset hodinek
+    Translation: ten clocks
+  - Phrase: dvě věci
+    Translation: two things
+  - Phrase: jedno slunce
+    Translation: one sun
+  - Phrase: jeden jízdní kolo
+    Translation: one bicycle
+  - Phrase: čtyři dolary
+    Translation: four dollars
+  - Phrase: tři kočky
+    Translation: three cats
+  - Phrase: pět koček
+    Translation: five cats

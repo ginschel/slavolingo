@@ -1,0 +1,71 @@
+Skill:
+  Name: Hobbies (Verbs – Imperfective only)
+  Id: 4
+
+New words:
+  - Word: číst
+    Translation: to read
+  - Word: psát (píše)
+    Translation: to write (writes)
+  - Word: hrát
+    Translation: to play
+  - Word: hledět
+    Translation: to watch
+  - Word: poslouchat
+    Translation: to listen
+  - Word: malovat
+    Translation: to paint
+  - Word: zpívat
+    Translation: to sing
+  - Word: učit se
+    Translation: to learn
+  - Word: sedět (sedí)
+    Translation: to sit (sits)
+  - Word: šít (šije)
+    Translation: to sew (sews)
+  - Word: tančit
+    Translation: to dance
+
+Phrases:
+  - Phrase: Já čtu knihu.
+    Translation: I am reading a book.
+  - Phrase: Ona píše dopisy.
+    Translation: She is writing letters.
+  - Phrase: On hraje fotbal.
+    Translation: He is playing football.
+  - Phrase: My hledíme film.
+    Translation: We are watching a film.
+  - Phrase: Oni poslouchají hudbu.
+    Translation: They are listening to music.
+  - Phrase: Ona sedí a čte.
+    Translation: She is sitting and reading.
+  - Phrase: Já maluji obraz.
+    Translation: I am painting a picture.
+  - Phrase: On zpívá písně.
+    Translation: He is singing songs.
+  - Phrase: Vy učíte se jazyk.
+    Translation: You are learning a language.
+  - Phrase: Já šiji oděv.
+    Translation: I am sewing clothes.
+  - Phrase: Ty hledíš sérii?
+    Translation: Are you watching a series?
+  - Phrase: My hrajeme šach.
+    Translation: We are playing chess.
+  - Phrase: Oni poslouchají rádio.
+    Translation: They are listening to the radio.
+  - Phrase: Čteš ty romány?
+    Translation: Do you read novels?
+  - Phrase: On píše deník.
+    Translation: He is writing a diary.
+  - Phrase: Učíme se zde.
+    Translation: We are learning here.
+  - Phrase: Malujeme s přáteli obrazy.
+    Translation: We are painting pictures with friends.
+  - Phrase: Ty šiješ?
+    Translation: Are you sewing?
+  - Phrase: Já zpívám s skupinou.
+    Translation: I am singing with a group.
+  - Phrase: Já tančím mnoho
+    Translation: I dance a lot
+  - Phrase: Ona hraje na kytaru.
+    Translation: She is playing the guitar.

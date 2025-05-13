@@ -1,0 +1,83 @@
+Skill:
+  Name: Drinks (Genitive case)
+  Id: 7
+
+New words:
+  - Word: voda
+    Translation: water
+  - Word: pivo
+    Translation: beer
+  - Word: pít
+    Translation: to drink
+  - Word: víno
+    Translation: wine
+  - Word: káva
+    Translation: coffee
+  - Word: džus
+    Translation: juice
+  - Word: chtít (chce)
+    Translation: to want (wants)
+  - Word: láhev
+    Translation: bottle (flask)
+  - Word: zkusit najít
+    Translation: to try to find
+  - Word: šálek/hrnek
+    Translation: glass
+  - Word: láhev
+    Translation: bottle
+  - Word: čaj
+    Translation: tea
+  - Word: mléko
+    Translation: milk
+  - Word: bez
+    Translation: without
+  - Word: za
+    Translation: for
+  - Word: z (původ)
+    Translation: from
+  - Word: u
+    Translation: at/by
+
+Phrases:
+  - Phrase: Já nemám vody.
+    Translation: I do not have water.
+  - Phrase: Ona nepije vína.
+    Translation: She does not drink wine.
+  - Phrase: My nepijeme piva.
+    Translation: We do not drink beer.
+  - Phrase: Ty máš láhev džusu?
+    Translation: Do you have a bottle of juice?
+  - Phrase: Oni nekupují láhví piva.
+    Translation: They are not buying bottles of beer.
+  - Phrase: On nemá kávy.
+    Translation: He does not have coffee.
+  - Phrase: Piješ bez mléka?
+    Translation: Do you drink without milk?
+  - Phrase: Ona nepije čaje.
+    Translation: She does not drink tea.
+  - Phrase: Šálek vína pro mě, prosím.
+    Translation: A glass of wine for me, please.
+  - Phrase: Láhev vody leží na stole.
+    Translation: A bottle of water is lying on the table.
+  - Phrase: Já miluji džus bez cukru.
+    Translation: I like juice without sugar.
+  - Phrase: On nemá rád kávu bez mléka.
+    Translation: He does not like coffee without milk.
+  - Phrase: Jsi ty bez láhve?
+    Translation: Are you without a bottle?
+  - Phrase: Ona zkouší najít šálek bez vína.
+    Translation: She is trying to find a glass without wine.
+  - Phrase: On nechce pít džusu.
+    Translation: He does not want to drink juice.
+  - Phrase: Ty piješ víno?
+    Translation: Do you drink wine?
+  - Phrase: To víno je z Polska.
+    Translation: This wine is from Poland.
+  - Phrase: U Franka není vodky.
+    Translation: Frank has no vodka.
+  - Phrase: My pijeme z láhve pivo.
+    Translation: We are drinking beer from the bottle.
+  - Phrase: Dejte mi šálek vína, prosím.
+    Translation: Give me a glass of wine, please.
+  - Phrase: On pije za tebe
+    Translation: He is drinking for you
