@@ -1,0 +1,89 @@
+Skill:
+  Name: Physical Appearance (Easy comparisons)
+  Id: 38
+
+New words:
+  - Word: wysoki
+    Translation: tall
+  - Word: niski
+    Translation: short
+  - Word: tołsty
+    Translation: fat
+  - Word: chudy
+    Translation: thin
+  - Word: mały
+    Translation: small
+  - Word: rjany
+    Translation: beautiful
+  - Word: brudny
+    Translation: ugly
+  - Word: stary
+    Translation: old
+  - Word: młody
+    Translation: young
+  - Word: wóski
+    Translation: hair
+  - Word: woči
+    Translation: eyes
+  - Word: hačrunjež
+    Translation: than
+  - Word: wyše
+    Translation: taller/higher
+  - Word: koža
+    Translation: skin
+  - Word: mjenje
+    Translation: less
+  - Word: smějać so (směje so)
+    Translation: to laugh (laughs)
+  - Word: bliščeć
+    Translation: to shine
+  - Word: hwězda
+    Translation: star
+  - Word: swětły
+    Translation: light
+  - Word: ćěmny
+    Translation: dark
+
+Phrases:
+  - Phrase: Wón je wyše wysoki a sylny hačrunjež wón.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Wona je niska a chuda kaž wón.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Tołsty muž dźe po hasy.
+    Translation: The fat man is walking down the street.
+  - Phrase: Chudy ma mjenje ćělesneje masy hačrunjež tołsty.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: To je wyše rjany čłowjek hačrunjež tón.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Stari ludźi su wyše mudri hačrunjež my.
+    Translation: Old people are wiser than us.
+  - Phrase: Młody ma mnoho energije.
+    Translation: The young one has a lot of energy.
+  - Phrase: Jeho wóski su plawake.
+    Translation: His hair is blonde.
+  - Phrase: Woči su wyše zelene hačrunjež pola njeho.
+    Translation: Her eyes are greener than his.
+  - Phrase: Jeho koža je běła.
+    Translation: His skin is white.
+  - Phrase: Wón ma dołhe wóski.
+    Translation: He has long hair.
+  - Phrase: Wona ma zelene woči.
+    Translation: She has green eyes.
+  - Phrase: Koža je hładka.
+    Translation: Her skin is smooth.
+  - Phrase: Stara žona nosy čapku.
+    Translation: The old woman wears a hat.
+  - Phrase: Młodzi ludźi často sportuja.
+    Translation: Young people often play sports.
+  - Phrase: Tołsty muž směje so wyše hačrunjež tón brudny muž.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Niska dźowka dźe do doma.
+    Translation: The short girl is going home.
+  - Phrase: Rjane woči so bliščeja kaž hwězdy na njebju.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Chudy nosy wyše wulku košulu hačrunjež ja.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Jeje wóski su swětłe a dołhe.
+    Translation: Her hair is light and long.
+  - Phrase: A jeho rjane wóski su ćěmne kaž nóc.
+    Translation: And his beautiful hair is as dark as the night.

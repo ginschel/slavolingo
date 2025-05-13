@@ -1,0 +1,75 @@
+Skill:
+  Name: Professions
+  Id: 22
+
+New words:
+  - Word: wučer
+    Translation: teacher
+  - Word: lěkar
+    Translation: doctor
+  - Word: inženjer
+    Translation: engineer
+  - Word: dźěłaćer
+    Translation: worker
+  - Word: pisar
+    Translation: writer
+  - Word: předawaćel
+    Translation: seller
+  - Word: šofer
+    Translation: driver
+  - Word: kuchar
+    Translation: cook
+  - Word: policist
+    Translation: policeman
+  - Word: wuměłc
+    Translation: artist
+  - Word: dźěłać
+    Translation: to work
+  - Word: dźěłać
+    Translation: to work
+  - Word: rysować
+    Translation: to draw
+  - Word: činić
+    Translation: to do/make
+
+Phrases:
+  - Phrase: Mój bratr je wučer.
+    Translation: My brother is a teacher.
+  - Phrase: Wona je lěkar.
+    Translation: She is a doctor.
+  - Phrase: Wón je inženjer w měsće.
+    Translation: He is an engineer in the city.
+  - Phrase: Dźěłaćer dźěła na moście.
+    Translation: The worker is working on the bridge.
+  - Phrase: Pisar piše w běrowje.
+    Translation: The writer writes in the office.
+  - Phrase: Przedawaćel dźěła w wobchodźe.
+    Translation: The seller works in the shop.
+  - Phrase: Šofer jězdźi awtobus.
+    Translation: The driver drives a bus.
+  - Phrase: Mój nan je kuchar.
+    Translation: My father is a cook.
+  - Phrase: Policist stoji na hasy.
+    Translation: The policeman is standing on the street.
+  - Phrase: Wuměłc rysuje portret.
+    Translation: The artist is drawing a portrait.
+  - Phrase: Wučer rěči k šuleram, zo maja činić.
+    Translation: The teacher tells the students to do.
+  - Phrase: Lěkar pomha ludźom.
+    Translation: The doctor helps people.
+  - Phrase: Inženjer čini plan.
+    Translation: The engineer makes a plan.
+  - Phrase: Dźěłaćer twari dom.
+    Translation: The worker is building a house.
+  - Phrase: Pisar piše dokumenty.
+    Translation: The writer writes documents.
+  - Phrase: Przedawaćel předawa jědź.
+    Translation: The seller sells food.
+  - Phrase: Šofer jězdźi ludźi.
+    Translation: The driver drives people.
+  - Phrase: Kuchar wari wječerju.
+    Translation: The cook is preparing dinner.
+  - Phrase: Policist kontroluje situaciju.
+    Translation: The policeman controls the situation.
+  - Phrase: Wuměłc pokazuje swoju tworbu.
+    Translation: The artist shows his work.

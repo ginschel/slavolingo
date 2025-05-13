@@ -1,0 +1,67 @@
+Skill:
+  Name: Colours
+  Id: 17
+
+New words:
+  - Word: čorny
+    Translation: black
+  - Word: běły
+    Translation: white
+  - Word: zeleny
+    Translation: green
+  - Word: módry
+    Translation: blue
+  - Word: čerwjeny
+    Translation: red
+  - Word: žołty
+    Translation: yellow
+  - Word: šěry
+    Translation: grey
+  - Word: kastanowy
+    Translation: brown
+  - Word: oranžowy
+    Translation: orange
+  - Word: čerwjeny
+    Translation: red
+
+Phrases:
+  - Phrase: Mój pos je čorny.
+    Translation: My dog is black.
+  - Phrase: Myš je běła.
+    Translation: The mouse is white.
+  - Phrase: Trawa je zelena.
+    Translation: The grass is green.
+  - Phrase: Njebjo je módre.
+    Translation: The sky is blue.
+  - Phrase: Kwětki su čerwjene.
+    Translation: The flowers are red.
+  - Phrase: Słónco je žołte.
+    Translation: The sun is yellow.
+  - Phrase: Mróčki su šěre.
+    Translation: The clouds are grey.
+  - Phrase: Wón nosy kastanowy płasć.
+    Translation: He wears a brown coat.
+  - Phrase: List je oranžowy.
+    Translation: The leaf is orange.
+  - Phrase: To je Čerwjene morjo.
+    Translation: This is the Red Sea.
+  - Phrase: Moje woči su módre.
+    Translation: My eyes are blue.
+  - Phrase: Wona ma zelenu trawu.
+    Translation: She has green grass.
+  - Phrase: Ja lubju čerwjeny kolor.
+    Translation: I like the red color.
+  - Phrase: Jeho awto je čorne.
+    Translation: His car is black.
+  - Phrase: Dźowka njesy běłu sukńu.
+    Translation: The girl is wearing a white dress.
+  - Phrase: Je to šěry włos?
+    Translation: Is that grey hair?
+  - Phrase: Wón ma oranžowu torbu.
+    Translation: He has an orange bag.
+  - Phrase: Kastanowy kóń stoji w staji.
+    Translation: The brown horse stands in the stable.
+  - Phrase: Žołte słónco hrěje zemju.
+    Translation: The yellow sun warms the earth.
+  - Phrase: Čerwjena róža rosće tule.
+    Translation: A red rose grows here.

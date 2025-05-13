@@ -1,0 +1,85 @@
+Skill:
+  Name: Cardinal points/directions
+  Id: 18
+
+New words:
+  - Word: sewjer
+    Translation: north
+  - Word: juh
+    Translation: south
+  - Word: zapad
+    Translation: west
+  - Word: wuchod
+    Translation: east
+  - Word: sewjerny
+    Translation: northern
+  - Word: južny
+    Translation: southern
+  - Word: zapadny
+    Translation: western
+  - Word: wuchodny
+    Translation: eastern
+  - Word: kompas
+    Translation: compass
+  - Word: strona
+    Translation: side
+  - Word: hdźe
+    Translation: where
+  - Word: wstać (wostanje)
+    Translation: to rise (rises)
+  - Word: pokazać
+    Translation: to show
+  - Word: mapa
+    Translation: map
+  - Word: pućować
+    Translation: to travel
+  - Word: woprawdźe
+    Translation: right
+  - Word: nalěwo
+    Translation: left
+  - Word: runje
+    Translation: straight
+
+Phrases:
+  - Phrase: Sewjer je zymny.
+    Translation: The north is cold.
+  - Phrase: Juh je ćopły.
+    Translation: The south is warm.
+  - Phrase: Słónco wostanje na wuchodźe.
+    Translation: The sun rises in the east.
+  - Phrase: Wone zapada na zapadźe.
+    Translation: It sets in the west.
+  - Phrase: To je sewjerna strona.
+    Translation: This is the northern side.
+  - Phrase: Bydlimy na juhu.
+    Translation: We live in the south.
+  - Phrase: Kompas pokazuje sewjer.
+    Translation: The compass shows north.
+  - Phrase: Wuchod je tam.
+    Translation: The east is there.
+  - Phrase: Zapadny wětřik duje.
+    Translation: A western wind is blowing.
+  - Phrase: Dźemy k juhozapadej.
+    Translation: We are going to the southwest.
+  - Phrase: To je sewjerozapadny region.
+    Translation: This is the northwestern region.
+  - Phrase: Strona na mapje pokazuje zapad.
+    Translation: The side on the map shows west.
+  - Phrase: Juhowuchod je tam, hdźež słónco hrěje.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Dźemy k južnej stronje.
+    Translation: We are going to the southern side.
+  - Phrase: Wón pućuje wuchodnje.
+    Translation: He travels eastward.
+  - Phrase: Na sewjeru je sněh.
+    Translation: In the north there is snow.
+  - Phrase: Južne kraje su ćopłe.
+    Translation: The southern regions are warm.
+  - Phrase: Zapad je nalěwo na mapje.
+    Translation: West is left on the map.
+  - Phrase: Wuchodna muzika je zajimawa.
+    Translation: Eastern music is interesting.
+  - Phrase: Hladamy k sewjerej.
+    Translation: We are looking to the north.
+  - Phrase: Dźemy hnydom woprawdźe a potom runje'.
+    Translation: We are going right now and then straight.

@@ -1,0 +1,125 @@
+Skill:
+  Name: Greetings & Phrases for conversations
+  Id: 2
+
+New words:
+  - Word: pozdrow
+    Translation: greeting
+  - Word: strowy
+    Translation: healthy/hello
+  - Word: rozmołwa
+    Translation: conversation
+  - Word: ranjo
+    Translation: morning
+  - Word: wječor
+    Translation: evening
+  - Word: dźeń
+    Translation: day
+  - Word: nóc
+    Translation: night
+  - Word: dźak
+    Translation: thanks
+  - Word: pardon
+    Translation: pardon
+  - Word: woprašaj
+    Translation: excuse me
+  - Word: dobry
+    Translation: good
+  - Word: lěpši
+    Translation: better
+  - Word: móžno
+    Translation: possible
+  - Word: škoda
+    Translation: pity
+  - Word: taj
+    Translation: so
+  - Word: štož
+    Translation: what
+  - Word: nic
+    Translation: no
+  - Word: haj
+    Translation: yes
+  - Word: móže
+    Translation: maybe/can
+  - Word: daj
+    Translation: let's go
+
+Phrases:
+  - Phrase: Dobre ranjo!
+    Translation: Good morning!
+  - Phrase: Dobry wječor!
+    Translation: Good evening!
+  - Phrase: Dobry dźeń!
+    Translation: Good day!
+  - Phrase: Dobra nóc!
+    Translation: Good night!
+  - Phrase: Kak sy?
+    Translation: How are you?
+  - Phrase: Sym derje, dźak!
+    Translation: I am well, thank you!
+  - Phrase: A ty?
+    Translation: And you?
+  - Phrase: Wulke dźak tebi.
+    Translation: Thank you very much.
+  - Phrase: Pardon, nerozumjem.
+    Translation: Excuse me, I don't understand.
+  - Phrase: Pozdrow!
+    Translation: Greetings!
+  - Phrase: Strowy!
+    Translation: Hello!
+  - Phrase: Dobry dźeń, kak sy?
+    Translation: Good day, how are you?
+  - Phrase: Sy ty strowy?
+    Translation: Are you healthy?
+  - Phrase: Witajće!
+    Translation: Welcome!
+  - Phrase: Na strowosć!
+    Translation: To your health!
+  - Phrase: Pozdrow swoju sotru.
+    Translation: Greet your sister.
+  - Phrase: Kak so wołaš?
+    Translation: What is your name?
+  - Phrase: Ja so wołam Bartek.
+    Translation: My name is Bartek.
+  - Phrase: Dźakuju za rozmołwu.
+    Translation: Thank you for the conversation.
+  - Phrase: Taj je.
+    Translation: That is so.
+  - Phrase: Nic taj.
+    Translation: Not so.
+  - Phrase: Móže być.
+    Translation: Maybe.
+  - Phrase: Njeje móžno.
+    Translation: Not possible.
+  - Phrase: Škoda!
+    Translation: What a pity!
+  - Phrase: Derje!
+    Translation: Good!
+  - Phrase: Nic derje.
+    Translation: Not good.
+  - Phrase: To je lěpši.
+    Translation: This is better.
+  - Phrase: To njeje lěpši.
+    Translation: This is not better.
+  - Phrase: Haj, móže.
+    Translation: Yes, it is possible.
+  - Phrase: Nic, njeje móžno.
+    Translation: No, it is not possible.
+  - Phrase: Je to móžno?
+    Translation: Is this possible?
+  - Phrase: Štož to woznamjeni?
+    Translation: What does this mean?
+  - Phrase: Tež ja.
+    Translation: Me too.
+  - Phrase: Z Bohom!
+    Translation: Go with God!
+  - Phrase: Njewěm.
+    Translation: I don't know.
+  - Phrase: Móže.
+    Translation: Perhaps.
+  - Phrase: Powtórij. Njesym rozumjał.
+    Translation: Repeat. I didn't understand.
+  - Phrase: Sy hotowy?
+    Translation: Are you ready?
+  - Phrase: Daj!
+    Translation: Let's go!

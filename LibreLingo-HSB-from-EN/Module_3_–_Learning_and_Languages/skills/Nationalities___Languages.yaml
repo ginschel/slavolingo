@@ -1,0 +1,67 @@
+Skill:
+  Name: Nationalities / Languages
+  Id: 11
+
+New words:
+  - Word: Słowjan
+    Translation: Slav
+  - Word: rěč
+    Translation: language
+  - Word: stat
+    Translation: country
+  - Word: lud
+    Translation: nation
+  - Word: mjeno
+    Translation: name
+  - Word: Chorwatka
+    Translation: Croat (f)
+  - Word: Rus
+    Translation: Russian (m)
+  - Word: Pólak
+    Translation: Pole (m)
+  - Word: Němc
+    Translation: German (m)
+  - Word: Angličan
+    Translation: Englishman
+
+Phrases:
+  - Phrase: Wón je Słowjan.
+    Translation: He is a Slav.
+  - Phrase: Wona rěči w słowjanskej rěči.
+    Translation: She speaks the Slavic language.
+  - Phrase: To je moja rěč.
+    Translation: This is my language.
+  - Phrase: Stat je Pólska.
+    Translation: The country is Poland.
+  - Phrase: Ja sym Pólak.
+    Translation: I am a Pole.
+  - Phrase: Wona je Chorwatka.
+    Translation: She is a Croat.
+  - Phrase: Wón je Rus.
+    Translation: He is a Russian.
+  - Phrase: Rěčiš němsku rěč?
+    Translation: Do you speak the German language?
+  - Phrase: Angličan rěči jendźelsku rěč.
+    Translation: An Englishman speaks the English language.
+  - Phrase: My lubimy swój lud.
+    Translation: We love our nation.
+  - Phrase: To je mjeno mojeho stata.
+    Translation: This is the name of my country.
+  - Phrase: Wón wě tři rěče.
+    Translation: He knows three languages.
+  - Phrase: Chorwat rěči chorwatsku rěč.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Němc bydli w Němskej.
+    Translation: A German lives in Germany.
+  - Phrase: Wona znaje rusce a słowjansce.
+    Translation: She knows Russian and Slavic.
+  - Phrase: To je lud z bohatu kulturu.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Sy ty Angličan?
+    Translation: Are you an Englishman?
+  - Phrase: Wón rěči kóždu rěč derje.
+    Translation: He speaks every language well.
+  - Phrase: My so wuknjemy ruskeje rěče.
+    Translation: We are learning the Russian language.
+  - Phrase: Wona znaje mnoho ludow.
+    Translation: She knows many nations.

@@ -1,0 +1,121 @@
+Skill:
+  Name: Conjugation of to be and the Nominative Case
+  Id: 1
+
+New words:
+  - Word: to
+    Translation: this
+  - Word: ta
+    Translation: this
+  - Word: tón
+    Translation: that
+  - Word: tamtón
+    Translation: that over there
+  - Word: tamta
+    Translation: that over there
+  - Word: sym
+    Translation: am
+  - Word: sy
+    Translation: are
+  - Word: je
+    Translation: is
+  - Word: smy
+    Translation: are
+  - Word: sće
+    Translation: are
+  - Word: su
+    Translation: are
+  - Word: ja
+    Translation: I
+  - Word: ty
+    Translation: you
+  - Word: wón
+    Translation: he
+  - Word: wona
+    Translation: she
+  - Word: wone
+    Translation: it
+  - Word: my
+    Translation: we
+  - Word: wy
+    Translation: you
+  - Word: wone
+    Translation: they (m/mixed)
+  - Word: woni
+    Translation: they (f/n)
+  - Word: čłowjek
+    Translation: person
+  - Word: žona
+    Translation: woman
+  - Word: muž
+    Translation: man
+  - Word: dźěćo
+    Translation: child
+  - Word: přećel
+    Translation: friend
+  - Word: sotra
+    Translation: sister
+  - Word: staršej
+    Translation: parent
+  - Word: dom
+    Translation: house
+  - Word: město
+    Translation: city
+  - Word: dźeń
+    Translation: day
+  - Word: tež
+    Translation: also
+  - Word: štó
+    Translation: who
+
+Phrases:
+  - Phrase: Ja sym mudry.
+    Translation: I am wise.
+  - Phrase: To je moja sotra.
+    Translation: This is my sister.
+  - Phrase: Wona je wulkomudra
+    Translation: She is very wise
+  - Phrase: My smy wulkomudri
+    Translation: We are very wise
+  - Phrase: Sće wy tež mudri?
+    Translation: Are you also wise?
+  - Phrase: To je dobry čłowjek.
+    Translation: This is a good person.
+  - Phrase: Ta žona je dobra.
+    Translation: This woman is good.
+  - Phrase: To je mój dom.
+    Translation: This is my house.
+  - Phrase: Tón je dobry přećel
+    Translation: He is a good friend
+  - Phrase: Wy sće dobri.
+    Translation: You are good.
+  - Phrase: To su přećeljo.
+    Translation: These are friends.
+  - Phrase: Štó sy ty?
+    Translation: Who are you?
+  - Phrase: Tón muž je miły.
+    Translation: That man is kind.
+  - Phrase: To je přijomne město.
+    Translation: This is a pleasant city.
+  - Phrase: Ta žona je wysoka.
+    Translation: That woman is tall.
+  - Phrase: Tón dźeń je zymny.
+    Translation: That day is cold.
+  - Phrase: Tamtón dom je rjany.
+    Translation: That house over there is beautiful.
+  - Phrase: To moje dźěćo.
+    Translation: This is my child.
+  - Phrase: Tamto ranjo je zymne.
+    Translation: That morning over there is cold.
+  - Phrase: To njeje moja sotra.
+    Translation: This is not my sister.
+  - Phrase: To njeje twój dom.
+    Translation: This is not your house.
+  - Phrase: Je to dobre awto?
+    Translation: Is this a good car?
+  - Phrase: Su to dobri přećeljo?
+    Translation: Are these good friends?
+  - Phrase: Wone su wulkomiłe.
+    Translation: They are very kind.
+  - Phrase: Woni su wulkomili
+    Translation: They are very kind
