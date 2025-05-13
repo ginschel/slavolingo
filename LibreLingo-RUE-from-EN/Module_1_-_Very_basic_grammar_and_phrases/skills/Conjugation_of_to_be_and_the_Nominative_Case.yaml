@@ -1,0 +1,121 @@
+Skill:
+  Name: Conjugation of to be and the Nominative Case
+  Id: 1
+
+New words:
+  - Word: тото
+    Translation: this
+  - Word: тота
+    Translation: this
+  - Word: тотот
+    Translation: that
+  - Word: тамтотот
+    Translation: that over there
+  - Word: тамтота
+    Translation: that over there
+  - Word: єм
+    Translation: am
+  - Word: єс
+    Translation: are
+  - Word: є
+    Translation: is
+  - Word: сме
+    Translation: are
+  - Word: сьте
+    Translation: are
+  - Word: суть
+    Translation: are
+  - Word: я
+    Translation: I
+  - Word: ты
+    Translation: you
+  - Word: он
+    Translation: he
+  - Word: она
+    Translation: she
+  - Word: оно
+    Translation: it
+  - Word: мы
+    Translation: we
+  - Word: вы
+    Translation: you
+  - Word: они
+    Translation: they (m/mixed)
+  - Word: они
+    Translation: they (f/n)
+  - Word: чоловік
+    Translation: person
+  - Word: жена
+    Translation: woman
+  - Word: муж
+    Translation: man
+  - Word: дїтя
+    Translation: child
+  - Word: приятель
+    Translation: friend
+  - Word: сестра
+    Translation: sister
+  - Word: родитель
+    Translation: parent
+  - Word: дом
+    Translation: house
+  - Word: місто
+    Translation: city
+  - Word: дїнь
+    Translation: day
+  - Word: тоже
+    Translation: also
+  - Word: хто
+    Translation: who
+
+Phrases:
+  - Phrase: Я єм мудрый.
+    Translation: I am wise.
+  - Phrase: Тото моя сестра.
+    Translation: This is my sister.
+  - Phrase: Она много мудра
+    Translation: She is very wise
+  - Phrase: Мы много мудры
+    Translation: We are very wise
+  - Phrase: Вы тоже мудры?
+    Translation: Are you also wise?
+  - Phrase: Тото добрый чоловік.
+    Translation: This is a good person.
+  - Phrase: Тота жена є добра.
+    Translation: This woman is good.
+  - Phrase: Тото є мой дом.
+    Translation: This is my house.
+  - Phrase: Тотот є добрый приятель
+    Translation: He is a good friend
+  - Phrase: Вы єсьте добры.
+    Translation: You are good.
+  - Phrase: Тото суть приятелї.
+    Translation: These are friends.
+  - Phrase: Хто ты єси?
+    Translation: Who are you?
+  - Phrase: Тотот муж є милый.
+    Translation: That man is kind.
+  - Phrase: Тото є приємне місто.
+    Translation: This is a pleasant city.
+  - Phrase: Тота жена є высока.
+    Translation: That woman is tall.
+  - Phrase: Тотот дїнь є хладный.
+    Translation: That day is cold.
+  - Phrase: Тамтотот дом є красный.
+    Translation: That house over there is beautiful.
+  - Phrase: Тото моє дїтя.
+    Translation: This is my child.
+  - Phrase: Тамто утро є хладноє.
+    Translation: That morning over there is cold.
+  - Phrase: Тото не моя сестра.
+    Translation: This is not my sister.
+  - Phrase: Тото не твой дом.
+    Translation: This is not your house.
+  - Phrase: Тото добре авто?
+    Translation: Is this a good car?
+  - Phrase: Тото добры приятелї?
+    Translation: Are these good friends?
+  - Phrase: Они суть много милы.
+    Translation: They are very kind.
+  - Phrase: Они суть много милы
+    Translation: They are very kind

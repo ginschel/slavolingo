@@ -1,0 +1,79 @@
+Skill:
+  Name: Studying & Writing (Locative case)
+  Id: 9
+
+New words:
+  - Word: школа
+    Translation: school
+  - Word: учителька
+    Translation: female teacher
+  - Word: учитель
+    Translation: male teacher
+  - Word: запис
+    Translation: note
+  - Word: ученик
+    Translation: student
+  - Word: кнїга
+    Translation: book
+  - Word: заданя
+    Translation: assignment
+  - Word: стол
+    Translation: table
+  - Word: туш
+    Translation: ink
+  - Word: папір
+    Translation: paper
+  - Word: предмет
+    Translation: subject
+  - Word: метода
+    Translation: method
+  - Word: перо
+    Translation: pen
+  - Word: записник
+    Translation: notebook
+  - Word: на
+    Translation: on
+
+Phrases:
+  - Phrase: Тото моя школа.
+    Translation: This is my school.
+  - Phrase: Она є учительков.
+    Translation: She is a teacher.
+  - Phrase: Он є учеником.
+    Translation: He is a student.
+  - Phrase: Кнїга є на столї.
+    Translation: The book is on the table.
+  - Phrase: Я маю заданя.
+    Translation: I have an assignment.
+  - Phrase: Туш є єщi мокрый.
+    Translation: The ink is still wet.
+  - Phrase: Папір є бiлый.
+    Translation: The paper is white.
+  - Phrase: Тотот предмет є математика.
+    Translation: This subject is mathematics.
+  - Phrase: Тота метода є добра.
+    Translation: This method is good.
+  - Phrase: Ученик має кнїгу.
+    Translation: The student has a book.
+  - Phrase: Тото є мой стол.
+    Translation: This is my desk.
+  - Phrase: Мой записник є повный записов з пером
+    Translation: My notebook is full of notes with a pen
+  - Phrase: Пишу на папірї пером.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Школа є в центрї.
+    Translation: The school is in the center.
+  - Phrase: Мы пишеме заданя.
+    Translation: We are writing the assignment.
+  - Phrase: Учитель говорити з студентами.
+    Translation: The teacher is talking with students.
+  - Phrase: Она має много задань.
+    Translation: She has many assignments.
+  - Phrase: Я барже пишу з тым пером.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Предмет є складный.
+    Translation: The subject is complex.
+  - Phrase: Кнїга є нова.
+    Translation: The book is new.
+  - Phrase: Он є моїм учителем.
+    Translation: He is my teacher.

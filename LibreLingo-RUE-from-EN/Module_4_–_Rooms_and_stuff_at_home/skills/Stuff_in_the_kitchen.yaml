@@ -1,0 +1,81 @@
+Skill:
+  Name: Stuff in the kitchen
+  Id: 13
+
+New words:
+  - Word: нож
+    Translation: knife
+  - Word: вилка
+    Translation: fork
+  - Word: ложка
+    Translation: spoon
+  - Word: талїр
+    Translation: plate
+  - Word: шолїк
+    Translation: cup
+  - Word: сіль
+    Translation: salt
+  - Word: перець
+    Translation: pepper
+  - Word: цукор
+    Translation: sugar
+  - Word: сковородка
+    Translation: frying pan
+  - Word: горїчый
+    Translation: hot
+  - Word: горнець
+    Translation: pot
+  - Word: кухня
+    Translation: kitchen
+  - Word: варити
+    Translation: to cook
+  - Word: паланка
+    Translation: pancake
+  - Word: пиріг
+    Translation: dumpling
+  - Word: миска
+    Translation: bowl
+
+Phrases:
+  - Phrase: Нож лежить на столї.
+    Translation: The knife is lying on the table.
+  - Phrase: Виллка є серебряна.
+    Translation: The fork is silver.
+  - Phrase: Ложка є в соли.
+    Translation: The spoon is in the salt.
+  - Phrase: Талїр є повный їды.
+    Translation: The plate is full of food.
+  - Phrase: Шолїк є наполненый водов.
+    Translation: The cup is filled with water.
+  - Phrase: Дам до чаю цукор.
+    Translation: I will add sugar to the tea.
+  - Phrase: Много цукру є в мисці
+    Translation: There is a lot of sugar in the bowl.
+  - Phrase: На сковородці ся варить моя паланка.
+    Translation: My pancake is cooking on the frying pan.
+  - Phrase: Горнець є горїчый.
+    Translation: The pot is hot
+  - Phrase: Горнець є на огни.
+    Translation: The pot is on the flame.
+  - Phrase: Кухня є чіста.
+    Translation: The kitchen is clean.
+  - Phrase: Он є з вилков.
+    Translation: He eats with a fork.
+  - Phrase: Она пиє из шолїка.
+    Translation: She drinks from a cup.
+  - Phrase: Мы готовиме в горнці.
+    Translation: We cook in a pot.
+  - Phrase: На сковородці є мясо.
+    Translation: There is meat in the frying pan.
+  - Phrase: Нож є острый.
+    Translation: The knife is sharp.
+  - Phrase: Вилкы і ножы суть на столї.
+    Translation: Forks and knives are on the table.
+  - Phrase: Ложка є повна перцю.
+    Translation: The spoon is full of pepper.
+  - Phrase: Талїр лежить на подлозі.
+    Translation: The plate is lying on the floor.
+  - Phrase: Конзерва є пуста.
+    Translation: The can is empty.
+  - Phrase: Кухня має добрый запах вечером.
+    Translation: The kitchen has a good smell in the evening.

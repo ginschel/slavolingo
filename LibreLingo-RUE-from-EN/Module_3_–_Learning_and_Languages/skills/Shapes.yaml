@@ -1,0 +1,77 @@
+Skill:
+  Name: Shapes
+  Id: 10
+
+New words:
+  - Word: круг
+    Translation: circle
+  - Word: квадрат
+    Translation: square
+  - Word: штири
+    Translation: four
+  - Word: довгый
+    Translation: long
+  - Word: три
+    Translation: three
+  - Word: триуголник
+    Translation: triangle
+  - Word: стояти (стоїть)
+    Translation: to stand (stands)
+  - Word: равный
+    Translation: straight
+  - Word: форма
+    Translation: shape
+  - Word: лїнїя
+    Translation: line
+  - Word: точка
+    Translation: point
+  - Word: обрис
+    Translation: outline
+  - Word: сторона
+    Translation: side
+  - Word: фігура
+    Translation: figure
+  - Word: облик
+    Translation: shape
+
+Phrases:
+  - Phrase: Тото є круг.
+    Translation: This is a circle.
+  - Phrase: Квадрат має штири стороны.
+    Translation: A square has four sides.
+  - Phrase: Триуголник має три стороны.
+    Translation: A triangle has three sides.
+  - Phrase: Тота лїнїя є довга.
+    Translation: This line is long.
+  - Phrase: Тото є моя форма.
+    Translation: This is my shape.
+  - Phrase: Лїнїя є равна.
+    Translation: The line is straight.
+  - Phrase: Точка є малый пункт.
+    Translation: A point is a small dot.
+  - Phrase: Видиме обрис квадрата.
+    Translation: We see the outline of a square.
+  - Phrase: Фігура є комплексна.
+    Translation: The figure is complex.
+  - Phrase: Тото є простый облик.
+    Translation: This is a simple shape.
+  - Phrase: Я мальую великый круг.
+    Translation: I am drawing a big circle.
+  - Phrase: Квадрат і круг суть основны формы.
+    Translation: Square and circle are basic shapes.
+  - Phrase: Лїнїя іде через сторону.
+    Translation: The line goes through the side.
+  - Phrase: Точка лежить на лїнїї.
+    Translation: The point lies on the line.
+  - Phrase: Она знать всякый обрис Аглії.
+    Translation: She knows every outline of England.
+  - Phrase: Тото є простый триуголник.
+    Translation: This is a simple triangle.
+  - Phrase: Он мальує фігуры на папірї.
+    Translation: He is drawing figures on paper.
+  - Phrase: Форма є інтересна.
+    Translation: The shape is interesting.
+  - Phrase: Стол має облик квадрата.
+    Translation: The table has the shape of a square.
+  - Phrase: Красна фігура стоїть на столї.
+    Translation: A beautiful figure is standing on the table.

@@ -1,0 +1,67 @@
+Skill:
+  Name: Nationalities / Languages
+  Id: 11
+
+New words:
+  - Word: Слован
+    Translation: Slav
+  - Word: язык
+    Translation: language
+  - Word: держава
+    Translation: country
+  - Word: народ
+    Translation: nation
+  - Word: імня
+    Translation: name
+  - Word: Хорватка
+    Translation: Croat (f)
+  - Word: Рус
+    Translation: Russian (m)
+  - Word: Поляк
+    Translation: Pole (m)
+  - Word: Нїмець
+    Translation: German (m)
+  - Word: Англїчанин
+    Translation: Englishman
+
+Phrases:
+  - Phrase: Он є Слованом.
+    Translation: He is a Slav.
+  - Phrase: Она говорити по словяньскы.
+    Translation: She speaks the Slavic language.
+  - Phrase: Тото є мой язык.
+    Translation: This is my language.
+  - Phrase: Держава є Польща.
+    Translation: The country is Poland.
+  - Phrase: Я єм Поляком.
+    Translation: I am a Pole.
+  - Phrase: Она є Хорватков.
+    Translation: She is a Croat.
+  - Phrase: Он є Русом.
+    Translation: He is a Russian.
+  - Phrase: Говориш ты по нїмецькы?
+    Translation: Do you speak the German language?
+  - Phrase: Англїчанин говорити по англїйскы.
+    Translation: An Englishman speaks the English language.
+  - Phrase: Мы любиме свой народ.
+    Translation: We love our nation.
+  - Phrase: Тото є імня моєї державы.
+    Translation: This is the name of my country.
+  - Phrase: Он знає три языкы.
+    Translation: He knows three languages.
+  - Phrase: Хорват говорити по хорватьскы.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Нїмець жиє в Нїмецьку.
+    Translation: A German lives in Germany.
+  - Phrase: Она знає руськый і словяньскый.
+    Translation: She knows Russian and Slavic.
+  - Phrase: Тото є народ з богатов культуров.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Ты єси Англїчанином?
+    Translation: Are you an Englishman?
+  - Phrase: Он говорити кажный язык добре.
+    Translation: He speaks every language well.
+  - Phrase: Мы учиме ся руського языка.
+    Translation: We are learning the Russian language.
+  - Phrase: Она знає много народов.
+    Translation: She knows many nations.
