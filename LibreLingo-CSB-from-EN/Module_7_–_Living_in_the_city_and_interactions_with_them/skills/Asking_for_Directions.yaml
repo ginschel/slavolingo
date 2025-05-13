@@ -1,0 +1,67 @@
+Skill:
+  Name: Asking for Directions
+  Id: 25
+
+New words:
+  - Word: dze
+    Translation: where
+  - Word: kùdë
+    Translation: which way
+  - Word: wprôwò
+    Translation: to the right
+  - Word: wlewò
+    Translation: to the left
+  - Word: prosto
+    Translation: straight
+  - Word: bliskò
+    Translation: near
+  - Word: dalekò
+    Translation: far
+  - Word: pytac
+    Translation: to ask
+  - Word: pòkôzac
+    Translation: to show
+  - Word: dróg
+    Translation: path/way
+
+Phrases:
+  - Phrase: Dze je stacëjô?
+    Translation: Where is the station?
+  - Phrase: Kùdë jidze droga?
+    Translation: Which way does the road go?
+  - Phrase: Jidzemë wprôwò.
+    Translation: We are going to the right.
+  - Phrase: Pòtemù wlewò.
+    Translation: Then to the left.
+  - Phrase: Jidzë prosto do môsta.
+    Translation: Go straight to the bridge.
+  - Phrase: Prospekt je bliskò tôrgu.
+    Translation: The avenue is near the square.
+  - Phrase: Knéżnica je dalekò.
+    Translation: The library is far away.
+  - Phrase: Pitam jich za drogã.
+    Translation: I ask them for the way.
+  - Phrase: Mòżece pòkôzac dróg?
+    Translation: Can you show me the way?
+  - Phrase: Ùlica jidze do centra.
+    Translation: The street goes to the center.
+  - Phrase: Dze je bliski hotel?
+    Translation: Where is the nearest hotel?
+  - Phrase: Kùdë jidzece?
+    Translation: Which way are you going?
+  - Phrase: Jidzece prosto i pòtemù wprôwò.
+    Translation: Go straight and then to the right.
+  - Phrase: Stacëjô je wlewò.
+    Translation: The station is on the left.
+  - Phrase: Skłôd je bliskò knéżnicë.
+    Translation: The shop is near the library.
+  - Phrase: Tôrg je dalekò òd hotela.
+    Translation: The square is far from the hotel.
+  - Phrase: Pitam starą białkã.
+    Translation: I ask the old woman.
+  - Phrase: On mie pòkôzëje drogã.
+    Translation: He shows me the way.
+  - Phrase: Ùlica je długa.
+    Translation: The street is long.
+  - Phrase: Kùdë jidze ten ban?
+    Translation: Where is that train going?

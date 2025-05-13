@@ -1,0 +1,93 @@
+Skill:
+  Name: Numbers 0-10
+  Id: 26
+
+New words:
+  - Word: zérod
+    Translation: zero
+  - Word: jeden
+    Translation: one (m)
+  - Word: jednô
+    Translation: one (f)
+  - Word: jedné
+    Translation: one (n)
+  - Word: dwa
+    Translation: two (m/n)
+  - Word: dwie
+    Translation: two (f)
+  - Word: trzë
+    Translation: three
+  - Word: sztërë
+    Translation: four
+  - Word: piãc
+    Translation: five
+  - Word: szesc
+    Translation: six
+  - Word: sedem
+    Translation: seven
+  - Word: òsem
+    Translation: eight
+  - Word: dzevec
+    Translation: nine
+  - Word: dzesãc
+    Translation: ten
+  - Word: gòdzynk
+    Translation: clock/watch
+  - Word: chłôpczã
+    Translation: boy
+  - Word: kòmpùter
+    Translation: computer
+  - Word: kòło
+    Translation: bicycle
+  - Word: rubel
+    Translation: ruble
+  - Word: białka
+    Translation: woman
+  - Word: pòle
+    Translation: field
+  - Word: kòt
+    Translation: cat
+  - Word: dolar
+    Translation: dollar
+
+Phrases:
+  - Phrase: zérod gòdzënków
+    Translation: zero clocks
+  - Phrase: jeden chłôpczã
+    Translation: one boy
+  - Phrase: jednô białka
+    Translation: one woman
+  - Phrase: jedné pòle
+    Translation: one field
+  - Phrase: dwa chłôpce
+    Translation: two boys
+  - Phrase: dwie białczi
+    Translation: two women
+  - Phrase: trzë kòtë
+    Translation: three cats
+  - Phrase: sztërë kòła
+    Translation: four bicycles
+  - Phrase: piãc chłôpczów
+    Translation: five boys
+  - Phrase: szesc kółów
+    Translation: six bicycles
+  - Phrase: sedem rublów
+    Translation: seven rubles
+  - Phrase: òsem dolarów
+    Translation: eight dollars
+  - Phrase: dzevec kòmpùterów
+    Translation: nine computers
+  - Phrase: dzesãc gòdzënków
+    Translation: ten clocks
+  - Phrase: dwie wieszczë
+    Translation: two things
+  - Phrase: jedné słuncé
+    Translation: one sun
+  - Phrase: jeden kòło
+    Translation: one bicycle
+  - Phrase: sztërë dolary
+    Translation: four dollars
+  - Phrase: trzë kòtë
+    Translation: three cats
+  - Phrase: piãc kòtów
+    Translation: five cats
