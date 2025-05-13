@@ -1,0 +1,77 @@
+Skill:
+  Name: Transport/Vehicles/Car
+  Id: 23
+
+New words:
+  - Word: avto
+    Translation: car
+  - Word: avtobus
+    Translation: bus
+  - Word: pojezd
+    Translation: train
+  - Word: kolo
+    Translation: bicycle
+  - Word: stancija
+    Translation: station
+  - Word: šofer
+    Translation: driver
+  - Word: doroga
+    Translation: road
+  - Word: most
+    Translation: bridge
+  - Word: brzina
+    Translation: speed
+  - Word: svetofor
+    Translation: traffic light
+  - Word: jehati (jede)
+    Translation: to go/drive (goes/drives)
+  - Word: sěsti (sede)
+    Translation: to sit (sits)
+  - Word: svezati (sveže)
+    Translation: to connect/tie (connects/ties)
+  - Word: razbity
+    Translation: broken
+  - Word: ostražny
+    Translation: careful
+
+Phrases:
+  - Phrase: Avto stoji na ulici.
+    Translation: The car is standing on the street.
+  - Phrase: Autobus jede do centra.
+    Translation: The bus goes to the center.
+  - Phrase: Pojezd jede na stanciju.
+    Translation: The train goes to the station.
+  - Phrase: Tu jest sěděnje. Možna sěsti
+    Translation: Tu jest sěděnje. Možna sěsti
+  - Phrase: Stancija jest velika.
+    Translation: The station is big.
+  - Phrase: Šofer jede brzo.
+    Translation: The driver drives fast.
+  - Phrase: Doroga ide črěz lěs.
+    Translation: The road goes through the forest.
+  - Phrase: Most sveže dva grada.
+    Translation: The bridge connects two cities.
+  - Phrase: Brzina jest važna za bezpečnosti na ulici.
+    Translation: Brzina jest važna za bezpečnosti na ulici.
+  - Phrase: Svetofor pokazuje črveno.
+    Translation: The traffic light shows red.
+  - Phrase: Avto jest novo i krasno.
+    Translation: The car is new and beautiful.
+  - Phrase: Autobus vede mnogo ljudij.
+    Translation: The bus carries many people.
+  - Phrase: Pojezd jede na sěver.
+    Translation: The train goes to the north.
+  - Phrase: Kolo jest prazbito.
+    Translation: The bicycle is broken.
+  - Phrase: Stancija jest otvorena.
+    Translation: The station is open.
+  - Phrase: Šofer jest ostražny.
+    Translation: The driver is careful.
+  - Phrase: Doroga jest široka.
+    Translation: The road is wide.
+  - Phrase: Most jest vysoky.
+    Translation: The bridge is high.
+  - Phrase: Brzina jest ograničena.
+    Translation: The speed is limited.
+  - Phrase: Svetofor pokazuje zeleno.
+    Translation: The traffic light shows green.

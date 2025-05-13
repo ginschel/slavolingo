@@ -1,0 +1,75 @@
+Skill:
+  Name: Professions
+  Id: 22
+
+New words:
+  - Word: učitelj
+    Translation: teacher
+  - Word: doktor
+    Translation: doctor
+  - Word: inženjer
+    Translation: engineer
+  - Word: robotnik
+    Translation: worker
+  - Word: pisar
+    Translation: writer
+  - Word: prodavec
+    Translation: seller
+  - Word: šofer
+    Translation: driver
+  - Word: kuhar
+    Translation: cook
+  - Word: policijnik
+    Translation: policeman
+  - Word: artist
+    Translation: artist
+  - Word: pracovati
+    Translation: to work
+  - Word: rabotati
+    Translation: to work
+  - Word: rysovati
+    Translation: to draw
+  - Word: dělati
+    Translation: to do/make
+
+Phrases:
+  - Phrase: Moj brat jest učiteljem.
+    Translation: My brother is a teacher.
+  - Phrase: Ona jest doktorom.
+    Translation: She is a doctor.
+  - Phrase: On jest inžiněrem v městu.
+    Translation: He is an engineer in the city.
+  - Phrase: Robotnik pracuje na mostu.
+    Translation: The worker is working on the bridge.
+  - Phrase: Pisar piše v ofisu.
+    Translation: The writer writes in the office.
+  - Phrase: Prodavec rabota v magazinu.
+    Translation: The seller works in the shop.
+  - Phrase: Šofer vede autobus.
+    Translation: The driver drives a bus.
+  - Phrase: Moj otec jest kuharom.
+    Translation: My father is a cook.
+  - Phrase: Policijnik stoi na ulici.
+    Translation: The policeman is standing on the street.
+  - Phrase: Artist rysuje portret.
+    Translation: The artist is drawing a portrait.
+  - Phrase: Učitelj kaže učenikam dělati.
+    Translation: The teacher tells the students to do.
+  - Phrase: Doktor pomoga ljudam.
+    Translation: The doctor helps people.
+  - Phrase: Inženjer děla plan.
+    Translation: The engineer makes a plan.
+  - Phrase: Robotnik stroi dom.
+    Translation: The worker is building a house.
+  - Phrase: Pisar piše dokumenty.
+    Translation: The writer writes documents.
+  - Phrase: Prodavec prodaje jedu.
+    Translation: The seller sells food.
+  - Phrase: Šofer vede ljudy.
+    Translation: The driver drives people.
+  - Phrase: Kuhar gotovi večeru.
+    Translation: The cook is preparing dinner.
+  - Phrase: Policijnik kontroluje situaciju.
+    Translation: The policeman controls the situation.
+  - Phrase: Artist pokazuje svoju tvorbu.
+    Translation: The artist shows his work.

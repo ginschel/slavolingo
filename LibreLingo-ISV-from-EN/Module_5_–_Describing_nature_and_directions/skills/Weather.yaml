@@ -1,0 +1,81 @@
+Skill:
+  Name: Weather
+  Id: 16
+
+New words:
+  - Word: pogoda
+    Translation: weather
+  - Word: dožd
+    Translation: rain
+  - Word: padati
+    Translation: to fall
+  - Word: sněg
+    Translation: snow
+  - Word: izměnjati
+    Translation: to change
+  - Word: solnce
+    Translation: sun
+  - Word: světiti
+    Translation: to shine
+  - Word: vozduh
+    Translation: air
+  - Word: větr
+    Translation: wind
+  - Word: teplo
+    Translation: warm
+  - Word: hladno
+    Translation: cold
+  - Word: mraz
+    Translation: frost
+  - Word: oblak
+    Translation: cloud
+  - Word: grěti (grěje)
+    Translation: to heat (heats)
+  - Word: oblačno
+    Translation: cloudy
+  - Word: vonjati
+    Translation: to smell
+  - Word: viděti (vidi)
+    Translation: to see (sees)
+
+Phrases:
+  - Phrase: Pogoda jest dobra.
+    Translation: The weather is good.
+  - Phrase: Pada dožd.
+    Translation: It is raining.
+  - Phrase: Sněg leži na zemji.
+    Translation: Snow lies on the ground.
+  - Phrase: Solnce světi.
+    Translation: The sun is shining.
+  - Phrase: Vozduh jest čisty.
+    Translation: The air is clean.
+  - Phrase: Větr duje silno.
+    Translation: The wind is blowing strongly.
+  - Phrase: Tutdenj jest teplo.
+    Translation: It is warm today.
+  - Phrase: V Rosiji jest hladno.
+    Translation: In Russia it is cold.
+  - Phrase: Mraz jest silny.
+    Translation: The frost is strong.
+  - Phrase: Oblaki sut temni.
+    Translation: The clouds are dark.
+  - Phrase: Pada sněg i dožd.
+    Translation: Snow and rain are falling.
+  - Phrase: Pogoda se izměnja.
+    Translation: The weather is changing.
+  - Phrase: Solnce grěje nas.
+    Translation: The sun heats us.
+  - Phrase: Tutdenj jest teplo i suho.
+    Translation: It is warm and dry today.
+  - Phrase: Jest li větr silny?
+    Translation: Is the wind strong?
+  - Phrase: Mraz jest utrom.
+    Translation: There is frost in the morning.
+  - Phrase: Oblačno jest tutdenj.
+    Translation: It is cloudy today.
+  - Phrase: Vozduh vonja po dožďu.
+    Translation: The air smells of rain.
+  - Phrase: Tutdenj ne vidim oblakov.
+    Translation: Today I do not see clouds.
+  - Phrase: Hladny větr duje iz sěvera.
+    Translation: A cold wind is blowing from the north.

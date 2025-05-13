@@ -1,0 +1,77 @@
+Skill:
+  Name: Emotions (adverbs)
+  Id: 37
+
+New words:
+  - Word: radostny
+    Translation: joyful
+  - Word: žalostny
+    Translation: sad
+  - Word: gněvny
+    Translation: angry
+  - Word: ljubov
+    Translation: love
+  - Word: prěstrašeny
+    Translation: frightened
+  - Word: spokoj
+    Translation: peace
+  - Word: zavist
+    Translation: envy
+  - Word: sramny
+    Translation: ashamed
+  - Word: styd
+    Translation: shame
+  - Word: gordy
+    Translation: proud
+  - Word: vesely
+    Translation: cheerful
+  - Word: trěpet
+    Translation: tremor
+  - Word: čuti (čuje)
+    Translation: to feel (feels)
+  - Word: skryvati
+    Translation: to hide
+  - Word: uběgati
+    Translation: to run away
+
+Phrases:
+  - Phrase: Čujem se radostno tutdenj.
+    Translation: We feel joyful this week.
+  - Phrase: Žalostno on govoril.
+    Translation: He spoke sadly.
+  - Phrase: On gněvno jemu kaže rabotati.
+    Translation: He angrily tells him to work.
+  - Phrase: Ljubov to silna emocija.
+    Translation: Love is a strong emotion.
+  - Phrase: Strah to naturalna reakcija.
+    Translation: Fear is a natural reaction.
+  - Phrase: Spokoj jest važny za duše.
+    Translation: Peace is important for the soul.
+  - Phrase: Zavist to črna emocija.
+    Translation: Envy is a dark emotion.
+  - Phrase: Stydno on čuje sram.
+    Translation: He feels ashamed.
+  - Phrase: Veselo jemu se napolnilo srdce.
+    Translation: His heart was filled with joy.
+  - Phrase: Zavisno on glěda na njego.
+    Translation: He is jealous of him.
+  - Phrase: Ja imam žalost v srci.
+    Translation: I have sadness in my heart.
+  - Phrase: Ona pokazuje im svoju rabotu veselo.
+    Translation: She shows them her work joyfully.
+  - Phrase: On skryva gordo svoj gněv.
+    Translation: He hides his anger proudly.
+  - Phrase: My čujemo spokoj.
+    Translation: We feel peaceful.
+  - Phrase: Strah jest v nas.
+    Translation: Fear is inside us.
+  - Phrase: Prěstrašeno on uběgal.
+    Translation: He was frightened and ran away.
+  - Phrase: Styd jest mnogo silny.
+    Translation: Shame is very strong.
+  - Phrase: Radostno šel do doma.
+    Translation: He joyfully went home.
+  - Phrase: Radost ide izvnutra.
+    Translation: Joy comes from within.
+  - Phrase: Trpěti toliko hčemo kogda ljubimo.
+    Translation: We only suffer when we love.

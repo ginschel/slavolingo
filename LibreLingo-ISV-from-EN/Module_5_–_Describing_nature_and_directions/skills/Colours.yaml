@@ -1,0 +1,67 @@
+Skill:
+  Name: Colours
+  Id: 17
+
+New words:
+  - Word: črny
+    Translation: black
+  - Word: běly
+    Translation: white
+  - Word: zeleny
+    Translation: green
+  - Word: modry
+    Translation: blue
+  - Word: črveny
+    Translation: red
+  - Word: žolty
+    Translation: yellow
+  - Word: sivy
+    Translation: grey
+  - Word: kaštanovy
+    Translation: brown
+  - Word: oranževy
+    Translation: orange
+  - Word: črveny
+    Translation: red
+
+Phrases:
+  - Phrase: Moj pes jest črny.
+    Translation: My dog is black.
+  - Phrase: Myš jest běla.
+    Translation: The mouse is white.
+  - Phrase: Trava jest zelena.
+    Translation: The grass is green.
+  - Phrase: Nebo jest modro.
+    Translation: The sky is blue.
+  - Phrase: Cvěty sut črvene.
+    Translation: The flowers are red.
+  - Phrase: Solnce jest žolto.
+    Translation: The sun is yellow.
+  - Phrase: Oblaky sut sivi.
+    Translation: The clouds are grey.
+  - Phrase: On nosi kaštanovo paljto.
+    Translation: He wears a brown coat.
+  - Phrase: List jest oranževy.
+    Translation: The leaf is orange.
+  - Phrase: To jest črveno more.
+    Translation: This is the Red Sea.
+  - Phrase: Moje oči sut modre.
+    Translation: My eyes are blue.
+  - Phrase: Ona ima zelenu travu.
+    Translation: She has green grass.
+  - Phrase: Ja ljubim črveny kolor.
+    Translation: I like the red color.
+  - Phrase: Jego avto jest črno.
+    Translation: His car is black.
+  - Phrase: Děva nese bělu suknju.
+    Translation: The girl is wearing a white dress.
+  - Phrase: Jest li to sivy vlas?
+    Translation: Is that grey hair?
+  - Phrase: On ima oranževu torbu.
+    Translation: He has an orange bag.
+  - Phrase: Kaštanovy konj stoji v staji.
+    Translation: The brown horse stands in the stable.
+  - Phrase: Žolto solnce greje zemju.
+    Translation: The yellow sun warms the earth.
+  - Phrase: črvena roza rastě tu.
+    Translation: A red rose grows here.

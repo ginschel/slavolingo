@@ -1,0 +1,69 @@
+Skill:
+  Name: Buying in the Shop
+  Id: 24
+
+New words:
+  - Word: kupiti
+    Translation: to buy
+  - Word: prodavati
+    Translation: to sell
+  - Word: cena
+    Translation: price
+  - Word: oděž
+    Translation: clothes
+  - Word: torba
+    Translation: bag
+  - Word: kus
+    Translation: piece
+  - Word: kupec
+    Translation: customer
+  - Word: povratok
+    Translation: return
+  - Word: ček
+    Translation: receipt
+  - Word: pytati
+    Translation: to ask
+  - Word: svěži
+    Translation: fresh
+
+Phrases:
+  - Phrase: Hčem kupiti hlěb.
+    Translation: I want to buy bread.
+  - Phrase: On prodaje meso.
+    Translation: He sells meat.
+  - Phrase: Cena jest vysoka.
+    Translation: The price is high.
+  - Phrase: Oděž jest nova.
+    Translation: The clothes are new.
+  - Phrase: Prodavec jest umorjeny tudenj.
+    Translation: The seller is tired today.
+  - Phrase: Torba jest težka.
+    Translation: The bag is heavy.
+  - Phrase: Kus syra jest dobry.
+    Translation: A piece of cheese is good.
+  - Phrase: Kupec pyta za znižku.
+    Translation: The customer asks for a discount.
+  - Phrase: Povratka nema. To zly magazin.
+    Translation: No returns. This is a bad shop.
+  - Phrase: Dam ček prodavcu.
+    Translation: I give the receipt to the seller.
+  - Phrase: Ona kupuje knigu.
+    Translation: She is buying a book.
+  - Phrase: On prodaje mlěko.
+    Translation: He sells milk.
+  - Phrase: Cena masla jest dobra.
+    Translation: The price of butter is good.
+  - Phrase: Kolbasa jest svěža.
+    Translation: The sausage is fresh.
+  - Phrase: Prodavec da kus kolbasy.
+    Translation: The seller gives a piece of sausage.
+  - Phrase: Torba stoji na podlogě.
+    Translation: The bag is on the floor.
+  - Phrase: Kus hlěba jest maly.
+    Translation: The piece of bread is small.
+  - Phrase: Kupec pyta o cenu.
+    Translation: The customer asks about the price.
+  - Phrase: Povratok jest do sedm dnev.
+    Translation: Return is within seven days.
+  - Phrase: Ček jest podpisany.
+    Translation: The receipt is signed.

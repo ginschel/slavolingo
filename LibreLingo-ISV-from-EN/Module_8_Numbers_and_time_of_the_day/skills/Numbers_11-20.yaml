@@ -1,0 +1,67 @@
+Skill:
+  Name: Numbers 11-20
+  Id: 27
+
+New words:
+  - Word: jedinnadset
+    Translation: eleven
+  - Word: dvanadset
+    Translation: twelve
+  - Word: trinadset
+    Translation: thirteen
+  - Word: četyrinadset
+    Translation: fourteen
+  - Word: petnadset
+    Translation: fifteen
+  - Word: šestnadset
+    Translation: sixteen
+  - Word: sedmnadset
+    Translation: seventeen
+  - Word: osmnadset
+    Translation: eighteen
+  - Word: devetnadset
+    Translation: nineteen
+  - Word: dvadeset
+    Translation: twenty
+
+Phrases:
+  - Phrase: dvadeset časovnikov
+    Translation: twenty clocks
+  - Phrase: jedinnadset hlapcev
+    Translation: eleven boys
+  - Phrase: jedinnadset žen
+    Translation: eleven women
+  - Phrase: jedinnadset polej
+    Translation: eleven fields
+  - Phrase: dvanadset mužev
+    Translation: twelve men
+  - Phrase: dvanadset šest žen
+    Translation: twelve women
+  - Phrase: trinadset kotov
+    Translation: thirteen cats
+  - Phrase: četyrinadset velosipedov
+    Translation: fourteen bicycles
+  - Phrase: petnadset hlapcev
+    Translation: fifteen boys
+  - Phrase: šestnadset velosipedov
+    Translation: sixteen bicycles
+  - Phrase: sedmnadset rubljev
+    Translation: seventeen rubles
+  - Phrase: osmnadset dolarov
+    Translation: eighteen dollars
+  - Phrase: devetnadset pet kompjuterov
+    Translation: nineteen computers
+  - Phrase: desetnadset časovnikov
+    Translation: twenty clocks
+  - Phrase: dvanadset věčij
+    Translation: twelve things
+  - Phrase: jedinnadset solnc
+    Translation: eleven suns
+  - Phrase: šestnadset velosipedov
+    Translation: sixteen bicycles
+  - Phrase: četyrinadset dolarov
+    Translation: fourteen dollars
+  - Phrase: trinadset dva psov
+    Translation: thirteen dogs
+  - Phrase: dvadeset kotov
+    Translation: twenty cats

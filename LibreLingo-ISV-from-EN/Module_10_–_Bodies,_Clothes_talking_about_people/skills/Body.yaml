@@ -1,0 +1,81 @@
+Skill:
+  Name: Body
+  Id: 35
+
+New words:
+  - Word: ruka
+    Translation: hand
+  - Word: noga
+    Translation: leg
+  - Word: glava
+    Translation: head
+  - Word: oko
+    Translation: eye
+  - Word: mozg
+    Translation: brain
+  - Word: stopa
+    Translation: foot
+  - Word: uho
+    Translation: ear
+  - Word: nos
+    Translation: nose
+  - Word: lice
+    Translation: face
+  - Word: srdce
+    Translation: heart
+  - Word: prst
+    Translation: finger
+  - Word: želudok
+    Translation: stomach
+  - Word: tělo
+    Translation: body
+  - Word: bolěti (boli)
+    Translation: to hurt (hurts)
+  - Word: vlasy
+    Translation: hair
+  - Word: podobny
+    Translation: similar
+  - Word: slyšati (slyši)
+    Translation: to hear (hears)
+
+Phrases:
+  - Phrase: Moja ruka boli.
+    Translation: My hand hurts.
+  - Phrase: Ona ima dolgu nogu.
+    Translation: She has a long leg.
+  - Phrase: Glava jest na tělu.
+    Translation: The head is on the body.
+  - Phrase: On ima modre krasni oči.
+    Translation: He has beautiful blue eyes.
+  - Phrase: Jej uho ne slyši dobro.
+    Translation: Her ear does not hear well.
+  - Phrase: Nos jest črveny od mraza.
+    Translation: The nose is red from the cold.
+  - Phrase: Lice jest podobno.
+    Translation: The face is similar.
+  - Phrase: Jej srce bije bystro.
+    Translation: Her heart beats fast.
+  - Phrase: želudok tobě boli.
+    Translation: My stomach hurts.
+  - Phrase: Tělo u mene zdravo.
+    Translation: My body is healthy.
+  - Phrase: Ja imam dvě ruki i dvě nogi i tož dvě stopy.
+    Translation: I have two hands and two legs, and also two feet.
+  - Phrase: Oči gledajut v knigu.
+    Translation: The eyes are looking at the book.
+  - Phrase: Uho slyši muzyku.
+    Translation: The ear hears music.
+  - Phrase: Jego mozg jest brzy.
+    Translation: His brain is quick.
+  - Phrase: Jej lice jest krasno.
+    Translation: Her face is beautiful.
+  - Phrase: Srce jest simbol ljubvi.
+    Translation: The heart is a symbol of love.
+  - Phrase: Moj želudok jest prosto polny po večerji.
+    Translation: My stomach is just full after dinner.
+  - Phrase: Tělu trěba odpoky.
+    Translation: The body needs rest.
+  - Phrase: On ima kaštanovi vlasy na glavě.
+    Translation: He has chestnut-colored hair on his head.
+  - Phrase: Ona slyši tebe toliko jedinom uhom.
+    Translation: She hears you only with one ear.

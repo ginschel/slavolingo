@@ -1,0 +1,81 @@
+Skill:
+  Name: Stuff in the kitchen
+  Id: 13
+
+New words:
+  - Word: nož
+    Translation: knife
+  - Word: vilica
+    Translation: fork
+  - Word: ložka
+    Translation: spoon
+  - Word: talirka
+    Translation: plate
+  - Word: čaša
+    Translation: cup
+  - Word: solj
+    Translation: salt
+  - Word: peprec
+    Translation: pepper
+  - Word: cukr
+    Translation: sugar
+  - Word: skovorodka
+    Translation: frying pan
+  - Word: goreči
+    Translation: hot
+  - Word: grnec
+    Translation: pot
+  - Word: kuhnja
+    Translation: kitchen
+  - Word: variti
+    Translation: to cook
+  - Word: palačinka
+    Translation: pancake
+  - Word: palmenj
+    Translation: dumpling
+  - Word: miska
+    Translation: bowl
+
+Phrases:
+  - Phrase: Nož leži na stolu.
+    Translation: The knife is lying on the table.
+  - Phrase: Vilica jest srebrna.
+    Translation: The fork is silver.
+  - Phrase: Ložka jest v solji.
+    Translation: The spoon is in the salt.
+  - Phrase: Talirka jest polna jedy.
+    Translation: The plate is full of food.
+  - Phrase: Čaška jest napolnjena vodoj.
+    Translation: The cup is filled with water.
+  - Phrase: Dam do čaja cukr.
+    Translation: I will add sugar to the tea.
+  - Phrase: Mnogo cukra jest v miskě
+    Translation: There is a lot of sugar in the bowl.
+  - Phrase: Na skovorodkě vari moja palačinka.
+    Translation: My pancake is cooking on the frying pan.
+  - Phrase: Grnec jest goreči.
+    Translation: The pot is hot
+  - Phrase: Grnec jest na plameni.
+    Translation: The pot is on the flame.
+  - Phrase: Kuhnja jest čista.
+    Translation: The kitchen is clean.
+  - Phrase: On je s viliceju.
+    Translation: He eats with a fork.
+  - Phrase: Ona pije iz čašky.
+    Translation: She drinks from a cup.
+  - Phrase: My gotovimo v grncu.
+    Translation: We cook in a pot.
+  - Phrase: Na skovorodkě jest meso.
+    Translation: There is meat in the frying pan.
+  - Phrase: Nož jest ostry.
+    Translation: The knife is sharp.
+  - Phrase: Vilice i nože sut na stolu.
+    Translation: Forks and knives are on the table.
+  - Phrase: Ložka jest polna peprca.
+    Translation: The spoon is full of pepper.
+  - Phrase: Talirka loži na podlogě.
+    Translation: The plate is lying on the floor.
+  - Phrase: Konzerva jest pusta.
+    Translation: The can is empty.
+  - Phrase: Kuhnja ima dobry zapah v večeru.
+    Translation: The kitchen has a good smell in the evening.
