@@ -1,0 +1,93 @@
+Skill:
+  Name: Numbers 0-10
+  Id: 26
+
+New words:
+  - Word: нуль
+    Translation: zero
+  - Word: адзін (м)
+    Translation: one (m)
+  - Word: адна (ж)
+    Translation: one (f)
+  - Word: адно (с)
+    Translation: one (n)
+  - Word: два (м/с)
+    Translation: two (m/n)
+  - Word: дзве (ж)
+    Translation: two (f)
+  - Word: тры
+    Translation: three
+  - Word: чатыры
+    Translation: four
+  - Word: пяць
+    Translation: five
+  - Word: шэсць
+    Translation: six
+  - Word: сем
+    Translation: seven
+  - Word: восем
+    Translation: eight
+  - Word: дзевяць
+    Translation: nine
+  - Word: дзесяць
+    Translation: ten
+  - Word: гадзіннік
+    Translation: clock/watch
+  - Word: хлопчык
+    Translation: boy
+  - Word: камп'ютар
+    Translation: computer
+  - Word: ровар
+    Translation: bicycle
+  - Word: рубель
+    Translation: ruble
+  - Word: жанчына
+    Translation: woman
+  - Word: поле
+    Translation: field
+  - Word: кот
+    Translation: cat
+  - Word: долар
+    Translation: dollar
+
+Phrases:
+  - Phrase: нуль гадзіннікаў
+    Translation: zero clocks
+  - Phrase: адзін хлопчык
+    Translation: one boy
+  - Phrase: адна жанчына
+    Translation: one woman
+  - Phrase: адно поле
+    Translation: one field
+  - Phrase: два хлопчыкі
+    Translation: two boys
+  - Phrase: дзве жанчыны
+    Translation: two women
+  - Phrase: тры каты
+    Translation: three cats
+  - Phrase: чатыры ровары
+    Translation: four bicycles
+  - Phrase: пяць хлопчыкаў
+    Translation: five boys
+  - Phrase: шэсць ровараў
+    Translation: six bicycles
+  - Phrase: сем рублёў
+    Translation: seven rubles
+  - Phrase: восем долараў
+    Translation: eight dollars
+  - Phrase: дзевяць камп'ютараў
+    Translation: nine computers
+  - Phrase: дзесяць гадзіннікаў
+    Translation: ten clocks
+  - Phrase: дзве рэчы
+    Translation: two things
+  - Phrase: адно сонца
+    Translation: one sun
+  - Phrase: адзін ровар
+    Translation: one bicycle
+  - Phrase: чатыры долары
+    Translation: four dollars
+  - Phrase: тры каты
+    Translation: three cats
+  - Phrase: пяць катоў
+    Translation: five cats

@@ -1,0 +1,81 @@
+Skill:
+  Name: Food (Accusative case)
+  Id: 6
+
+New words:
+  - Word: chléb
+    Translation: bread
+  - Word: gotowac
+    Translation: to prepare
+  - Word: nesc
+    Translation: to carry
+  - Word: jesc (je)
+    Translation: to eat (eats)
+  - Word: masło
+    Translation: butter
+  - Word: mlékò
+    Translation: milk
+  - Word: miãso
+    Translation: meat
+  - Word: jajkò
+    Translation: egg
+  - Word: sniôdanié
+    Translation: breakfast
+  - Word: òbiôd
+    Translation: lunch
+  - Word: kùpic
+    Translation: to buy
+  - Word: wieczérzô
+    Translation: dinner
+  - Word: spôdk
+    Translation: dish
+  - Word: knéga
+    Translation: book
+  - Word: słodczi
+    Translation: sweet
+  - Word: jiedzô
+    Translation: food
+
+Phrases:
+  - Phrase: Ja jem chléb.
+    Translation: I am eating bread.
+  - Phrase: Òna je miãso.
+    Translation: She is eating meat.
+  - Phrase: On miłuje mlékò.
+    Translation: He likes milk.
+  - Phrase: Ja widzyjã Vlada z jiedzojã
+    Translation: I see Vlad with food
+  - Phrase: Të jesz jajkò?
+    Translation: Are you eating an egg?
+  - Phrase: Më jemë wieczérzã.
+    Translation: We are eating dinner.
+  - Phrase: Òni mają sniôdanié.
+    Translation: They are having breakfast.
+  - Phrase: Ja kùpim masło.
+    Translation: I will buy butter.
+  - Phrase: On gotuje òbiôd.
+    Translation: He is preparing lunch.
+  - Phrase: Òna niese spôdk.
+    Translation: She is carrying a dish.
+  - Phrase: Òni kùpùją masło i chléb.
+    Translation: They are buying butter and bread.
+  - Phrase: On pije mlékò i je miãso.
+    Translation: He is drinking milk and eating meat.
+  - Phrase: Czëtôsz të knégã i jesz sniôdanié?
+    Translation: Are you reading a book and eating breakfast?
+  - Phrase: Ja widzyjã òbiôd na stole.
+    Translation: I see lunch on the table.
+  - Phrase: Të mësz masło?
+    Translation: Do you have butter?
+  - Phrase: Më gotujemë wieczérzã czéżdë dzéń.
+    Translation: We prepare dinner every day.
+  - Phrase: Ja wiém, co të miłujesz jajka.
+    Translation: I know that you like eggs.
+  - Phrase: On je słodcą jiedzã.
+    Translation: He eats sweet food.
+  - Phrase: Òna miłuje gotowac wieczérzã.
+    Translation: She likes to prepare dinner.
+  - Phrase: Më widzymë twòją picã na stole.
+    Translation: We see your pizza on the table.
+  - Phrase: Òni wiedzą, co ja wszëtkã jem chléb z masłã.
+    Translation: They know that I always eat bread with butter.

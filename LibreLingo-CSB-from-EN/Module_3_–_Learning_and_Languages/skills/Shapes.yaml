@@ -1,0 +1,77 @@
+Skill:
+  Name: Shapes
+  Id: 10
+
+New words:
+  - Word: krąg
+    Translation: circle
+  - Word: kòwadrôt
+    Translation: square
+  - Word: sztërë
+    Translation: four
+  - Word: długi
+    Translation: long
+  - Word: trzë
+    Translation: three
+  - Word: trójkąt
+    Translation: triangle
+  - Word: stac (stoi)
+    Translation: to stand (stands)
+  - Word: rôwni
+    Translation: straight
+  - Word: forma
+    Translation: shape
+  - Word: lënia
+    Translation: line
+  - Word: tôczka
+    Translation: point
+  - Word: òbris
+    Translation: outline
+  - Word: strona
+    Translation: side
+  - Word: figura
+    Translation: figure
+  - Word: òblëk
+    Translation: shape
+
+Phrases:
+  - Phrase: To je krąg.
+    Translation: This is a circle.
+  - Phrase: Kòwadrôt mô sztërë stron.
+    Translation: A square has four sides.
+  - Phrase: Trójkąt mô trzë stron.
+    Translation: A triangle has three sides.
+  - Phrase: Ta lënia je długa.
+    Translation: This line is long.
+  - Phrase: To je mòja forma.
+    Translation: This is my shape.
+  - Phrase: Lënia je rôwnô.
+    Translation: The line is straight.
+  - Phrase: Tôczka to je môłi pùnkt.
+    Translation: A point is a small dot.
+  - Phrase: Widzymë òbris kòwadrota.
+    Translation: We see the outline of a square.
+  - Phrase: Figura je kòmpleksnô.
+    Translation: The figure is complex.
+  - Phrase: To je prosti òblëk.
+    Translation: This is a simple shape.
+  - Phrase: Ja malëjã wiôldżi krąg.
+    Translation: I am drawing a big circle.
+  - Phrase: Kòwadrôt i krąg są òsłónowé fòrmë.
+    Translation: Square and circle are basic shapes.
+  - Phrase: Lënia jidze przez stronã.
+    Translation: The line goes through the side.
+  - Phrase: Tôczka leżi na lënie.
+    Translation: The point lies on the line.
+  - Phrase: Òna znô wszëtczé òbrisë Anielsczé.
+    Translation: She knows every outline of England.
+  - Phrase: To je prosti trójkąt.
+    Translation: This is a simple triangle.
+  - Phrase: On maluje figùrë na papiórze.
+    Translation: He is drawing figures on paper.
+  - Phrase: Forma je jinteresantnô.
+    Translation: The shape is interesting.
+  - Phrase: Stół mô òblëk kòwadrota.
+    Translation: The table has the shape of a square.
+  - Phrase: Snôżô figùra stoji na stole.
+    Translation: A beautiful figure is standing on the table.

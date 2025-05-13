@@ -1,0 +1,67 @@
+Skill:
+  Name: Numbers 11-20
+  Id: 27
+
+New words:
+  - Word: адзінаццаць
+    Translation: eleven
+  - Word: дванаццаць
+    Translation: twelve
+  - Word: трынаццаць
+    Translation: thirteen
+  - Word: чатырнаццаць
+    Translation: fourteen
+  - Word: пятнаццаць
+    Translation: fifteen
+  - Word: шаснаццаць
+    Translation: sixteen
+  - Word: семнаццаць
+    Translation: seventeen
+  - Word: васемнаццаць
+    Translation: eighteen
+  - Word: дзевятнаццаць
+    Translation: nineteen
+  - Word: дваццаць
+    Translation: twenty
+
+Phrases:
+  - Phrase: дваццаць гадзіннікаў
+    Translation: twenty clocks
+  - Phrase: адзінаццаць хлопчыкаў
+    Translation: eleven boys
+  - Phrase: адзінаццаць жанчын
+    Translation: eleven women
+  - Phrase: адзінаццаць палёў
+    Translation: eleven fields
+  - Phrase: дванаццаць мужчын
+    Translation: twelve men
+  - Phrase: дванаццаць шэсць жанчын
+    Translation: twelve women
+  - Phrase: трынаццаць катоў
+    Translation: thirteen cats
+  - Phrase: чатырнаццаць ровараў
+    Translation: fourteen bicycles
+  - Phrase: пятнаццаць хлопчыкаў
+    Translation: fifteen boys
+  - Phrase: шаснаццаць ровараў
+    Translation: sixteen bicycles
+  - Phrase: семнаццаць рублёў
+    Translation: seventeen rubles
+  - Phrase: васемнаццаць долараў
+    Translation: eighteen dollars
+  - Phrase: дзевятнаццаць пяць камп'ютараў
+    Translation: nineteen computers
+  - Phrase: шаснаццаць гадзіннікаў
+    Translation: twenty clocks
+  - Phrase: дванаццаць рэчаў
+    Translation: twelve things
+  - Phrase: адзінаццаць сонцаў
+    Translation: eleven suns
+  - Phrase: шаснаццаць ровараў
+    Translation: sixteen bicycles
+  - Phrase: чатырнаццаць долараў
+    Translation: fourteen dollars
+  - Phrase: трынаццаць два сабакі
+    Translation: thirteen dogs
+  - Phrase: дваццаць катоў
+    Translation: twenty cats

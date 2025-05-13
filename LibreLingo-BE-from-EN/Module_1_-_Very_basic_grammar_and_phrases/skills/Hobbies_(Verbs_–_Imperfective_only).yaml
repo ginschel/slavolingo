@@ -1,0 +1,71 @@
+Skill:
+  Name: Hobbies (Verbs – Imperfective only)
+  Id: 4
+
+New words:
+  - Word: чытаць
+    Translation: to read
+  - Word: пісаць (піша)
+    Translation: to write (writes)
+  - Word: гуляць
+    Translation: to play
+  - Word: глядзець
+    Translation: to watch
+  - Word: слухаць
+    Translation: to listen
+  - Word: маляваць (фарбамі)
+    Translation: to paint
+  - Word: спяваць
+    Translation: to sing
+  - Word: вучыцца
+    Translation: to learn
+  - Word: сядзець (сядзіць)
+    Translation: to sit (sits)
+  - Word: шыць (шые)
+    Translation: to sew (sews)
+  - Word: танцаваць
+    Translation: to dance
+
+Phrases:
+  - Phrase: Я чытаю кнігу.
+    Translation: I am reading a book.
+  - Phrase: Яна піша лісты.
+    Translation: She is writing letters.
+  - Phrase: Ён гуляе ў футбол.
+    Translation: He is playing football.
+  - Phrase: Мы глядзім фільм.
+    Translation: We are watching a film.
+  - Phrase: Яны слухаюць музыку.
+    Translation: They are listening to music.
+  - Phrase: Яна сядзіць і чытае.
+    Translation: She is sitting and reading.
+  - Phrase: Я малюю карціну.
+    Translation: I am painting a picture.
+  - Phrase: Ён спявае песні.
+    Translation: He is singing songs.
+  - Phrase: Вы вучыце мову.
+    Translation: You are learning a language.
+  - Phrase: Я шыю адзенне.
+    Translation: I am sewing clothes.
+  - Phrase: Ты глядзіш серыял?
+    Translation: Are you watching a series?
+  - Phrase: Мы гуляем у шахматы.
+    Translation: We are playing chess.
+  - Phrase: Яны слухаюць радыё.
+    Translation: They are listening to the radio.
+  - Phrase: Ці чытаеш ты раманы?
+    Translation: Do you read novels?
+  - Phrase: Ён піша дзённік.
+    Translation: He is writing a diary.
+  - Phrase: Вучымся тут.
+    Translation: We are learning here.
+  - Phrase: Малюем з сябрамі карціны.
+    Translation: We are painting pictures with friends.
+  - Phrase: Ты шыеш?
+    Translation: Are you sewing?
+  - Phrase: Я спяваю з групай.
+    Translation: I am singing with a group.
+  - Phrase: Я танцую шмат
+    Translation: I dance a lot
+  - Phrase: Яна грае на гітары.
+    Translation: She is playing the guitar.

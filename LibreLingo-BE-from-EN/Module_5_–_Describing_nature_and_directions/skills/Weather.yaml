@@ -1,0 +1,81 @@
+Skill:
+  Name: Weather
+  Id: 16
+
+New words:
+  - Word: надвор'е
+    Translation: weather
+  - Word: дождж
+    Translation: rain
+  - Word: падаць
+    Translation: to fall
+  - Word: снег
+    Translation: snow
+  - Word: змяняць
+    Translation: to change
+  - Word: сонца
+    Translation: sun
+  - Word: свяціць
+    Translation: to shine
+  - Word: паветра
+    Translation: air
+  - Word: вецер
+    Translation: wind
+  - Word: цёпла
+    Translation: warm
+  - Word: холадна
+    Translation: cold
+  - Word: мароз
+    Translation: frost
+  - Word: хмара
+    Translation: cloud
+  - Word: грэць (грэе)
+    Translation: to heat (heats)
+  - Word: хмарна
+    Translation: cloudy
+  - Word: пахнуць (пахне)
+    Translation: to smell
+  - Word: бачыць (бачыць)
+    Translation: to see (sees)
+
+Phrases:
+  - Phrase: Надвор'е ёсць добрае.
+    Translation: The weather is good.
+  - Phrase: Падае дождж.
+    Translation: It is raining.
+  - Phrase: Снег ляжыць на зямлі.
+    Translation: Snow lies on the ground.
+  - Phrase: Сонца свеціць.
+    Translation: The sun is shining.
+  - Phrase: Паветра ёсць чыстае.
+    Translation: The air is clean.
+  - Phrase: Вецер дзьме моцна.
+    Translation: The wind is blowing strongly.
+  - Phrase: Сёння ёсць цёпла.
+    Translation: It is warm today.
+  - Phrase: У Расіі ёсць холадна.
+    Translation: In Russia it is cold.
+  - Phrase: Мароз ёсць моцны.
+    Translation: The frost is strong.
+  - Phrase: Хмары ёсць цёмныя.
+    Translation: The clouds are dark.
+  - Phrase: Падае снег і дождж.
+    Translation: Snow and rain are falling.
+  - Phrase: Надвор'е змяняецца.
+    Translation: The weather is changing.
+  - Phrase: Сонца грэе нас.
+    Translation: The sun heats us.
+  - Phrase: Сёння ёсць цёпла і суха.
+    Translation: It is warm and dry today.
+  - Phrase: Ці вецер моцны?
+    Translation: Is the wind strong?
+  - Phrase: Мароз ёсць раніцай.
+    Translation: There is frost in the morning.
+  - Phrase: Хмарна ёсць сёння.
+    Translation: It is cloudy today.
+  - Phrase: Паветра пахне пасля дажджу.
+    Translation: The air smells of rain.
+  - Phrase: Сёння не бачым хмар.
+    Translation: Today I do not see clouds.
+  - Phrase: Халодны вецер дзьме з поўначы.
+    Translation: A cold wind is blowing from the north.

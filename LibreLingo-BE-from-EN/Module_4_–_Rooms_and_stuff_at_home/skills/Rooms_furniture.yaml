@@ -1,0 +1,77 @@
+Skill:
+  Name: Rooms/furniture
+  Id: 12
+
+New words:
+  - Word: пакой
+    Translation: room
+  - Word: стол
+    Translation: table
+  - Word: крэсла
+    Translation: chair
+  - Word: падушка
+    Translation: pillow
+  - Word: ложак
+    Translation: bed
+  - Word: акно
+    Translation: window
+  - Word: дзверы
+    Translation: doors
+  - Word: шафа
+    Translation: wardrobe
+  - Word: скрыня
+    Translation: chest
+  - Word: паліца
+    Translation: shelf
+  - Word: трымаць (трымае)
+    Translation: to hold (holds)
+  - Word: вісець (вісіць)
+    Translation: to hang (hangs)
+  - Word: сцяна
+    Translation: wall
+  - Word: лампа
+    Translation: lamp
+  - Word: даваць
+    Translation: to give
+
+Phrases:
+  - Phrase: Пакой ёсць цёплы і ціхі.
+    Translation: The room is warm and quiet.
+  - Phrase: Стол стаіць пасярэдзіне пакоя.
+    Translation: The table stands in the middle of the room.
+  - Phrase: Крэсла ёсць блізка стала.
+    Translation: The chair is near the table.
+  - Phrase: Ложак ёсць мяккі.
+    Translation: The bed is soft.
+  - Phrase: Акно ёсць адкрытае.
+    Translation: The window is open.
+  - Phrase: Дзверы ёсць закрытыя.
+    Translation: The doors are closed.
+  - Phrase: Шафа мае шмат адзення.
+    Translation: The wardrobe has many clothes.
+  - Phrase: Скрыня ёсць пад ложкам.
+    Translation: The chest is under the bed.
+  - Phrase: Паліца трымае кнігі.
+    Translation: The shelf holds books.
+  - Phrase: Лампа свеціць над сталом.
+    Translation: The lamp shines above the table.
+  - Phrase: Пакой мае два акна.
+    Translation: The room has two windows.
+  - Phrase: На стале ляжыць кніга.
+    Translation: A book is lying on the table.
+  - Phrase: Крэсла ёсць старое, але камфортнае.
+    Translation: The chair is old, but comfortable.
+  - Phrase: Ложак ёсць новы.
+    Translation: The bed is new.
+  - Phrase: Дзверы вядуць у кухню.
+    Translation: The doors lead to the kitchen.
+  - Phrase: Шафа ёсць поўная.
+    Translation: The wardrobe is full.
+  - Phrase: Скрыня ёсць з дрэва.
+    Translation: The chest is made of wood.
+  - Phrase: Паліца вісіць на сцяне.
+    Translation: The shelf hangs on the wall.
+  - Phrase: Лампа дае святло.
+    Translation: The lamp gives light.
+  - Phrase: У пакоі ёсць спакойна.
+    Translation: It is quiet in the room.

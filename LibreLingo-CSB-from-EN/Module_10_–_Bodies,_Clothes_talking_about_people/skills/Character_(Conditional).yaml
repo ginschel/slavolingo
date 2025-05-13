@@ -1,0 +1,81 @@
+Skill:
+  Name: Character (Conditional)
+  Id: 36
+
+New words:
+  - Word: dobri
+    Translation: good
+  - Word: zli
+    Translation: bad
+  - Word: sëlni
+    Translation: strong
+  - Word: słabi
+    Translation: weak
+  - Word: òdwôżni
+    Translation: brave
+  - Word: cëchi
+    Translation: quiet
+  - Word: mądri
+    Translation: wise
+  - Word: głëpi
+    Translation: stupid
+  - Word: sczérzi
+    Translation: sincere
+  - Word: leniwi
+    Translation: lazy
+  - Word: béł jem
+    Translation: I would be
+  - Word: béł jes
+    Translation: you would be
+  - Word: béł je
+    Translation: he/she/it would be
+  - Word: bëlë jesmë
+    Translation: we would be
+  - Word: bëlë jeste
+    Translation: you would be
+  - Word: bëlë są
+    Translation: they would be
+  - Word: mlëczec (mlëczi)
+    Translation: to be silent (is silent)
+
+Phrases:
+  - Phrase: On to je dobri człowiek.
+    Translation: He is a good person.
+  - Phrase: Òna je złô czãstã.
+    Translation: She is sometimes bad.
+  - Phrase: Sëlni dëch je wôżni.
+    Translation: A strong spirit is important.
+  - Phrase: On je słabi w sporce.
+    Translation: He is weak in sports.
+  - Phrase: Òdwôżni gôdô prôwdã.
+    Translation: Brave people speak the truth.
+  - Phrase: Jak të bëł jes słëszôł, to òni bë bëlë cëchi.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Mądri wie wiele.
+    Translation: A smart person knows much.
+  - Phrase: Jak të bëł jes nie béł głëpi, to bëł jes nie robił głëpòtów.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Sczérzi przëjacel je drëdżi.
+    Translation: A sincere friend is valuable.
+  - Phrase: Jak òni bë bëlë nie bëlë leniwi, to më bë bëlë jesmë jim pòmôgalë.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Òna je dobrô i sczérô.
+    Translation: She is good and sincere.
+  - Phrase: On je sëlni le òdwôżni.
+    Translation: He is strong but brave.
+  - Phrase: Dzëcë są mądri jak na swòj wiek.
+    Translation: Children are wiser for their age.
+  - Phrase: Jak wë bë bëlë jeste nie bëlë słabi, to wë bë bëlë jeste robòtalë.
+    Translation: If you were not weak, you would work.
+  - Phrase: Złé słowa bólą.
+    Translation: Bad words hurt.
+  - Phrase: Głëpi sã nie ùczi.
+    Translation: Stupid people do not learn.
+  - Phrase: Leniwi nie chce nic robic.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Sczérzi gôdô co mëslë.
+    Translation: A sincere person says what they think.
+  - Phrase: Mądri mlëczi czej trzéba.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Jak ja bëł jem béł òdwôżni, to ja bëł jem sã nie bòjôł.
+    Translation: If I were brave, I would not be afraid.

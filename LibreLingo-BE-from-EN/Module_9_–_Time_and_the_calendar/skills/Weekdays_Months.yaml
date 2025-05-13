@@ -1,0 +1,89 @@
+Skill:
+  Name: Weekdays/Months
+  Id: 32
+
+New words:
+  - Word: тыдзень
+    Translation: week
+  - Word: панядзелак
+    Translation: Monday
+  - Word: аўторак
+    Translation: Tuesday
+  - Word: серада
+    Translation: Wednesday
+  - Word: чацвер
+    Translation: Thursday
+  - Word: пятніца
+    Translation: Friday
+  - Word: субота
+    Translation: Saturday
+  - Word: нядзеля
+    Translation: Sunday
+  - Word: месяц
+    Translation: month
+  - Word: студзень
+    Translation: January
+  - Word: люты
+    Translation: February
+  - Word: сакавік
+    Translation: March
+  - Word: красавік
+    Translation: April
+  - Word: май
+    Translation: May
+  - Word: чэрвень
+    Translation: June
+  - Word: ліпень
+    Translation: July
+  - Word: жнівень
+    Translation: August
+  - Word: верасень
+    Translation: September
+  - Word: кастрычнік
+    Translation: October
+  - Word: лістапад
+    Translation: November
+  - Word: снежань
+    Translation: December
+
+Phrases:
+  - Phrase: Панядзелак ёсць першым днём у тыдні.
+    Translation: Monday is the first day of the week.
+  - Phrase: Аўторак ёсць пасля панядзелка.
+    Translation: Tuesday is after Monday.
+  - Phrase: Серада ёсць у сярэдзіне тыдня.
+    Translation: Wednesday is in the middle of the week.
+  - Phrase: Чацвер ёсць перад пятніцай.
+    Translation: Thursday is before Friday.
+  - Phrase: Пятніца ёсць апошні працоўны дзень.
+    Translation: Friday is the last working day.
+  - Phrase: Субота то выхадны.
+    Translation: Saturday is the weekend.
+  - Phrase: Нядзеля то дзень адпачынку.
+    Translation: Sunday is the day of rest.
+  - Phrase: Маю адпачынак у студзені.
+    Translation: I have vacation in January.
+  - Phrase: Новы год ёсць у снежні.
+    Translation: New Year's is in December.
+  - Phrase: У жніўні еду ў Гандурас.
+    Translation: In August, I am going to Honduras.
+  - Phrase: У лютым ёсць многа снегу.
+    Translation: In February there is a lot of snow.
+  - Phrase: У сераду маю заданне.
+    Translation: On Wednesday, I have an assignment.
+  - Phrase: У чацвер ёсць мой любімы дзень.
+    Translation: Thursday is my favorite day.
+  - Phrase: У пятніцу ўвечары ідзем на фільм.
+    Translation: On Friday evening we are going to the movies.
+  - Phrase: Субота ёсць без працы.
+    Translation: Saturday is without work.
+  - Phrase: Нядзеля ёсць час для сям'і.
+    Translation: Sunday is time for family.
+  - Phrase: Не кожны месяц мае трыццаць дзён.
+    Translation: Not every month has thirty days.
+  - Phrase: Кастрычнік ёсць прыгожы месяц.
+    Translation: October is a beautiful month.
+  - Phrase: Аўторак ёсць днём спорту.
+    Translation: Tuesday is the day for sports.
+  - Phrase: Ліпень ёсць месяцам лета.
+    Translation: July is the month of summer.

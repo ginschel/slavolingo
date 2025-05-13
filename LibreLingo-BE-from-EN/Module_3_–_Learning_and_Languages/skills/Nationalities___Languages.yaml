@@ -1,0 +1,67 @@
+Skill:
+  Name: Nationalities / Languages
+  Id: 11
+
+New words:
+  - Word: славянін
+    Translation: Slav
+  - Word: мова
+    Translation: language
+  - Word: дзяржава
+    Translation: country
+  - Word: народ
+    Translation: nation
+  - Word: імя
+    Translation: name
+  - Word: харватка
+    Translation: Croat (f)
+  - Word: рускі
+    Translation: Russian (m)
+  - Word: паляк
+    Translation: Pole (m)
+  - Word: немец
+    Translation: German (m)
+  - Word: англічанін
+    Translation: Englishman
+
+Phrases:
+  - Phrase: Ён ёсць славянінам.
+    Translation: He is a Slav.
+  - Phrase: Яна гаворыць на славянскай мове.
+    Translation: She speaks the Slavic language.
+  - Phrase: Гэта ёсць мая мова.
+    Translation: This is my language.
+  - Phrase: Дзяржавай ёсць Польшча.
+    Translation: The country is Poland.
+  - Phrase: Я ёсць палякам.
+    Translation: I am a Pole.
+  - Phrase: Яна ёсць харваткай.
+    Translation: She is a Croat.
+  - Phrase: Ён ёсць рускім.
+    Translation: He is a Russian.
+  - Phrase: Ці гаворыш на нямецкай мове?
+    Translation: Do you speak the German language?
+  - Phrase: Англічанін гаворыць на англійскай мове.
+    Translation: An Englishman speaks the English language.
+  - Phrase: Мы любім свой народ.
+    Translation: We love our nation.
+  - Phrase: Гэта ёсць імя маёй дзяржавы.
+    Translation: This is the name of my country.
+  - Phrase: Ён ведае тры мовы.
+    Translation: He knows three languages.
+  - Phrase: Харват гаворыць на харвацкай мове.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Немец жыве ў Германіі.
+    Translation: A German lives in Germany.
+  - Phrase: Яна ведае рускую і славянскую.
+    Translation: She knows Russian and Slavic.
+  - Phrase: Гэта ёсць народ з багатай культурай.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Ты ёсць англічанінам?
+    Translation: Are you an Englishman?
+  - Phrase: Ён гаворыць кожнай мовай добра.
+    Translation: He speaks every language well.
+  - Phrase: Мы вучымся рускай мове.
+    Translation: We are learning the Russian language.
+  - Phrase: Яна ведае шмат народаў.
+    Translation: She knows many nations.
