@@ -1,0 +1,73 @@
+Skill:
+  Name: Animals (Dative case)
+  Id: 14
+
+New words:
+  - Word: mačka
+    Translation: cat
+  - Word: pes
+    Translation: dog
+  - Word: vták
+    Translation: bird
+  - Word: pomáhať
+    Translation: to help
+  - Word: ukázať (ukáže)
+    Translation: to show (shows)
+  - Word: kôň
+    Translation: horse
+  - Word: dať (dá)
+    Translation: to give (gives)
+  - Word: ryba
+    Translation: fish
+  - Word: žaba
+    Translation: frog
+  - Word: medveď
+    Translation: bear
+  - Word: vlk
+    Translation: wolf
+  - Word: myš
+    Translation: mouse
+  - Word: zviera
+    Translation: animal
+
+Phrases:
+  - Phrase: Ja dám mačke rybu.
+    Translation: I give the cat a fish.
+  - Phrase: Ona ukáže psovi.
+    Translation: She says to the dog.
+  - Phrase: On pomáha vtákovi.
+    Translation: He helps the bird.
+  - Phrase: Dávame koňovi vodu.
+    Translation: We give the horse water.
+  - Phrase: Ona nesie myši syr.
+    Translation: She carries cheese to the mouse.
+  - Phrase: On pomáha medveďovi.
+    Translation: He helps the bear.
+  - Phrase: My dávame žabe chlieb.
+    Translation: We give bread to the frog.
+  - Phrase: Oni dávajú zvieraťu ruku.
+    Translation: They give their hand to the animal.
+  - Phrase: Pomáhame vlkovi.
+    Translation: We help the wolf.
+  - Phrase: Ty dáš mne rybu?
+    Translation: Will you give me a fish?
+  - Phrase: Ja dám mačke meno.
+    Translation: I give the cat a name.
+  - Phrase: On dá myši syr.
+    Translation: On da myši syr.
+  - Phrase: My pomáhame vtákom.
+    Translation: We help the birds.
+  - Phrase: Dávame žabe vodu.
+    Translation: We give the frog water.
+  - Phrase: Oni nesú medveďovi jedlo.
+    Translation: They are carrying food to the bear.
+  - Phrase: Ona dá psovi dobré meno.
+    Translation: She gives the dog a good name.
+  - Phrase: Vy dáte koňovi.
+    Translation: You will give the horse.
+  - Phrase: Ja dám rybe vodu.
+    Translation: I give the fish water.
+  - Phrase: Ona mu pomohla so zvieraťom.
+    Translation: She helped him with the animal.
+  - Phrase: Dáš psovi chutnú kosť?
+    Translation: Will you give the dog a tasty bone?

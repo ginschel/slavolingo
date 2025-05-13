@@ -1,0 +1,67 @@
+Skill:
+  Name: Asking for Directions
+  Id: 25
+
+New words:
+  - Word: kde
+    Translation: where
+  - Word: kade
+    Translation: which way
+  - Word: vpravo
+    Translation: to the right
+  - Word: vľavo
+    Translation: to the left
+  - Word: priamo
+    Translation: straight
+  - Word: blízko
+    Translation: near
+  - Word: ďaleko
+    Translation: far
+  - Word: pýtať sa
+    Translation: to ask
+  - Word: ukázať
+    Translation: to show
+  - Word: cesta
+    Translation: path/way
+
+Phrases:
+  - Phrase: Kde je stanica?
+    Translation: Where is the station?
+  - Phrase: Kade ide cesta?
+    Translation: Which way does the road go?
+  - Phrase: Ideme vpravo.
+    Translation: We are going to the right.
+  - Phrase: Potom vľavo.
+    Translation: Then to the left.
+  - Phrase: Choď rovno k mostu.
+    Translation: Go straight to the bridge.
+  - Phrase: Prospekt je blízko námestia.
+    Translation: The avenue is near the square.
+  - Phrase: Knižnica je ďaleko.
+    Translation: The library is far away.
+  - Phrase: Pýtam sa ich na cestu.
+    Translation: I ask them for the way.
+  - Phrase: Môžete ukázať cestu?
+    Translation: Can you show me the way?
+  - Phrase: Ulica ide do centra.
+    Translation: The street goes to the center.
+  - Phrase: Kde je blízky hotel?
+    Translation: Where is the nearest hotel?
+  - Phrase: Kade idete?
+    Translation: Which way are you going?
+  - Phrase: Idete priamo a potom vpravo.
+    Translation: Go straight and then to the right.
+  - Phrase: Stanica je vľavo.
+    Translation: The station is on the left.
+  - Phrase: Obchod je blízko knižnice.
+    Translation: The shop is near the library.
+  - Phrase: Námestie je ďaleko od hotela.
+    Translation: The square is far from the hotel.
+  - Phrase: Pýtam sa starej ženy.
+    Translation: I ask the old woman.
+  - Phrase: On mi ukazuje cestu.
+    Translation: He shows me the way.
+  - Phrase: Ulica je dlhá.
+    Translation: The street is long.
+  - Phrase: Kade ide ten vlak?
+    Translation: Where is that train going?

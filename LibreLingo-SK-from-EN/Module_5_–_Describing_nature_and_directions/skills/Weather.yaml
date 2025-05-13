@@ -1,0 +1,81 @@
+Skill:
+  Name: Weather
+  Id: 16
+
+New words:
+  - Word: počasie
+    Translation: weather
+  - Word: dážď
+    Translation: rain
+  - Word: padať
+    Translation: to fall
+  - Word: sneh
+    Translation: snow
+  - Word: meniť sa
+    Translation: to change
+  - Word: slnko
+    Translation: sun
+  - Word: svietiť
+    Translation: to shine
+  - Word: vzduch
+    Translation: air
+  - Word: vietor
+    Translation: wind
+  - Word: teplo
+    Translation: warm
+  - Word: chladno
+    Translation: cold
+  - Word: mráz
+    Translation: frost
+  - Word: oblak
+    Translation: cloud
+  - Word: hriať (hreje)
+    Translation: to heat (heats)
+  - Word: oblačno
+    Translation: cloudy
+  - Word: voňať
+    Translation: to smell
+  - Word: vidieť (vidí)
+    Translation: to see (sees)
+
+Phrases:
+  - Phrase: Počasie je dobré.
+    Translation: The weather is good.
+  - Phrase: Padá dážď.
+    Translation: It is raining.
+  - Phrase: Sneh leží na zemi.
+    Translation: Snow lies on the ground.
+  - Phrase: Slnko svieti.
+    Translation: The sun is shining.
+  - Phrase: Vzduch je čistý.
+    Translation: The air is clean.
+  - Phrase: Vietor duje silno.
+    Translation: The wind is blowing strongly.
+  - Phrase: Dnes je teplo.
+    Translation: It is warm today.
+  - Phrase: V Rusku je chladno.
+    Translation: In Russia it is cold.
+  - Phrase: Mráz je silný.
+    Translation: The frost is strong.
+  - Phrase: Oblaky sú tmavé.
+    Translation: The clouds are dark.
+  - Phrase: Padá sneh a dážď.
+    Translation: Snow and rain are falling.
+  - Phrase: Počasie sa mení.
+    Translation: The weather is changing.
+  - Phrase: Slnko nás hreje.
+    Translation: The sun heats us.
+  - Phrase: Dnes je teplo a sucho.
+    Translation: It is warm and dry today.
+  - Phrase: Je vietor silný?
+    Translation: Is the wind strong?
+  - Phrase: Mráz je ráno.
+    Translation: There is frost in the morning.
+  - Phrase: Dnes je oblačno.
+    Translation: It is cloudy today.
+  - Phrase: Vzduch vonia po daždi.
+    Translation: The air smells of rain.
+  - Phrase: Dnes nevidím oblaky.
+    Translation: Today I do not see clouds.
+  - Phrase: Chladný vietor duje zo severu.
+    Translation: A cold wind is blowing from the north.

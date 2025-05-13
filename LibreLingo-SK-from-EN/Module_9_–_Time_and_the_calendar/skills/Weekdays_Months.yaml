@@ -1,0 +1,89 @@
+Skill:
+  Name: Weekdays/Months
+  Id: 32
+
+New words:
+  - Word: týždeň
+    Translation: week
+  - Word: pondelok
+    Translation: Monday
+  - Word: utorok
+    Translation: Tuesday
+  - Word: streda
+    Translation: Wednesday
+  - Word: štvrtok
+    Translation: Thursday
+  - Word: piatok
+    Translation: Friday
+  - Word: sobota
+    Translation: Saturday
+  - Word: nedeľa
+    Translation: Sunday
+  - Word: mesiac
+    Translation: month
+  - Word: január
+    Translation: January
+  - Word: február
+    Translation: February
+  - Word: marec
+    Translation: March
+  - Word: apríl
+    Translation: April
+  - Word: máj
+    Translation: May
+  - Word: jún
+    Translation: June
+  - Word: júl
+    Translation: July
+  - Word: august
+    Translation: August
+  - Word: september
+    Translation: September
+  - Word: október
+    Translation: October
+  - Word: november
+    Translation: November
+  - Word: december
+    Translation: December
+
+Phrases:
+  - Phrase: Pondelok je prvý deň v týždni.
+    Translation: Monday is the first day of the week.
+  - Phrase: Utorok je po pondelku.
+    Translation: Tuesday is after Monday.
+  - Phrase: Streda je v strede týždňa.
+    Translation: Wednesday is in the middle of the week.
+  - Phrase: Štvrtok je pred piatkom.
+    Translation: Thursday is before Friday.
+  - Phrase: Piatok je posledný pracovný deň.
+    Translation: Friday is the last working day.
+  - Phrase: Sobota to je víkend.
+    Translation: Saturday is the weekend.
+  - Phrase: Nedeľa to je deň odpočinku.
+    Translation: Sunday is the day of rest.
+  - Phrase: Mám v januári prázdniny.
+    Translation: I have vacation in January.
+  - Phrase: Nový rok je v decembri.
+    Translation: New Year's is in December.
+  - Phrase: V auguste idem do Hondurasu.
+    Translation: In August, I am going to Honduras.
+  - Phrase: Vo februári je veľa snehu.
+    Translation: In February there is a lot of snow.
+  - Phrase: V stredu mám úlohu.
+    Translation: On Wednesday, I have an assignment.
+  - Phrase: Vo štvrtok je môj obľúbený deň.
+    Translation: Thursday is my favorite day.
+  - Phrase: V piatok večer ideme na film.
+    Translation: On Friday evening we are going to the movies.
+  - Phrase: Sobota je bez práce.
+    Translation: Saturday is without work.
+  - Phrase: Nedeľa je čas pre rodinu.
+    Translation: Sunday is time for family.
+  - Phrase: Nie každý mesiac má tridsať dní.
+    Translation: Not every month has thirty days.
+  - Phrase: Október je krásny mesiac.
+    Translation: October is a beautiful month.
+  - Phrase: Utorok je dňom športu.
+    Translation: Tuesday is the day for sports.
+  - Phrase: Júl je mesiacom leta.
+    Translation: July is the month of summer.

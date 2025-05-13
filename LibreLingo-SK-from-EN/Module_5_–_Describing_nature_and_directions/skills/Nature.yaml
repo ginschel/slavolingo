@@ -1,0 +1,85 @@
+Skill:
+  Name: Nature
+  Id: 15
+
+New words:
+  - Word: rieka
+    Translation: river
+  - Word: cez
+    Translation: through
+  - Word: hora
+    Translation: mountain
+  - Word: dolina
+    Translation: valley
+  - Word: les
+    Translation: forest
+  - Word: tráva
+    Translation: grass
+  - Word: kvet
+    Translation: flower
+  - Word: ruža
+    Translation: rose
+  - Word: rásť (rastie)
+    Translation: to grow (grows)
+  - Word: zem
+    Translation: earth
+  - Word: kameň
+    Translation: stone
+  - Word: pole
+    Translation: field
+  - Word: dub
+    Translation: oak
+  - Word: mesiac
+    Translation: moon
+  - Word: kvitnúť (kvitne)
+    Translation: to bloom (blooms)
+  - Word: strom
+    Translation: tree
+  - Word: ležať (leží)
+    Translation: to lie (lies)
+  - Word: medzi
+    Translation: between
+
+Phrases:
+  - Phrase: Rieka tečie cez dolinu.
+    Translation: The river flows through the valley.
+  - Phrase: Hora je vysoká.
+    Translation: The mountain is high.
+  - Phrase: My ideme do lesa.
+    Translation: We are going to the forest.
+  - Phrase: Tráva je zelená.
+    Translation: The grass is green.
+  - Phrase: Kvety krásne kvitnú.
+    Translation: The flowers bloom beautifully.
+  - Phrase: On stojí na kameni.
+    Translation: He is standing on the stone.
+  - Phrase: Zem je mokrá.
+    Translation: The earth is wet.
+  - Phrase: Ruža rastie na poli.
+    Translation: The rose grows in the field.
+  - Phrase: Dolina leží medzi horami.
+    Translation: The valley lies between the mountains.
+  - Phrase: Pole je široké.
+    Translation: The field is wide.
+  - Phrase: Oni idú cez les s veľa stromami.
+    Translation: They are going through the forest with many trees.
+  - Phrase: Tráva rastie rýchlo.
+    Translation: The grass grows fast.
+  - Phrase: Kamene sú ťažké.
+    Translation: The stones are heavy.
+  - Phrase: Kvet rastie zo zeme.
+    Translation: A flower grows from the earth.
+  - Phrase: Voda ide do rieky.
+    Translation: Water goes to the river.
+  - Phrase: Pole je za domom.
+    Translation: The field is behind the house.
+  - Phrase: Ideme k dubu.
+    Translation: We are going towards the oak.
+  - Phrase: Mesiac dnes krásny
+    Translation: The moon today is beautiful
+  - Phrase: My stojíme na zemi.
+    Translation: We are standing on the earth.
+  - Phrase: Oni pozerajú do doliny.
+    Translation: They are looking into the valley.
+  - Phrase: Rieka ide medzi poľami.
+    Translation: The river goes between the fields.

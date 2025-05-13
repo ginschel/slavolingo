@@ -1,0 +1,69 @@
+Skill:
+  Name: City/Buildings
+  Id: 21
+
+New words:
+  - Word: mesto
+    Translation: city
+  - Word: dom
+    Translation: house
+  - Word: námestie
+    Translation: square/market
+  - Word: stanica
+    Translation: station
+  - Word: most
+    Translation: bridge
+  - Word: obchod
+    Translation: shop/store
+  - Word: trhovisko
+    Translation: market
+  - Word: knižnica
+    Translation: library
+  - Word: kostol
+    Translation: church
+  - Word: ulica
+    Translation: street
+  - Word: viesť (vedie)
+    Translation: to lead (leads)
+
+Phrases:
+  - Phrase: To je veľké mesto.
+    Translation: This is a big city.
+  - Phrase: Dom stojí na ulici.
+    Translation: The house stands on the street.
+  - Phrase: Ideme na námestie.
+    Translation: We are going to the square.
+  - Phrase: Stanica je blízko centra.
+    Translation: The station is near the center.
+  - Phrase: Most ide cez rieku.
+    Translation: The bridge goes over the river.
+  - Phrase: Kupujeme chlieb v obchode.
+    Translation: We buy bread in the shop.
+  - Phrase: Na trhovisku je veľa ľudí.
+    Translation: There are many people at the market.
+  - Phrase: Čítam knihu v knižnici.
+    Translation: I read a book in the library.
+  - Phrase: Kostol je starý a biely.
+    Translation: The church is old and white.
+  - Phrase: Ulica je dlhá a teplá.
+    Translation: The street is long and warm.
+  - Phrase: Mesto má veľa domov.
+    Translation: The city has many houses.
+  - Phrase: Obchod je otvorený dnes.
+    Translation: The shop is open today.
+  - Phrase: Kostol stojí blízko knižnice.
+    Translation: The church stands near the library.
+  - Phrase: Ulica vedie na námestie.
+    Translation: The street leads to the square.
+  - Phrase: Na námestí stojí fontána.
+    Translation: A fountain stands in the square.
+  - Phrase: Most je krásny a nový.
+    Translation: The bridge is beautiful and new.
+  - Phrase: To je môj dom v meste.
+    Translation: This is my house in the city.
+  - Phrase: Stanica má veľa vlakov.
+    Translation: The station has many trains.
+  - Phrase: Ulica ide do obchodu.
+    Translation: The street goes to the shop.
+  - Phrase: Námestie je plné ľudí.
+    Translation: The square is full of people.

@@ -1,0 +1,121 @@
+Skill:
+  Name: Conjugation of to be and the Nominative Case
+  Id: 1
+
+New words:
+  - Word: to
+    Translation: this
+  - Word: tá
+    Translation: this
+  - Word: ten
+    Translation: that
+  - Word: tamten
+    Translation: that over there
+  - Word: tamtá
+    Translation: that over there
+  - Word: som
+    Translation: am
+  - Word: si
+    Translation: are
+  - Word: je
+    Translation: is
+  - Word: sme
+    Translation: are
+  - Word: ste
+    Translation: are
+  - Word: sú
+    Translation: are
+  - Word: ja
+    Translation: I
+  - Word: ty
+    Translation: you
+  - Word: on
+    Translation: he
+  - Word: ona
+    Translation: she
+  - Word: ono
+    Translation: it
+  - Word: my
+    Translation: we
+  - Word: vy
+    Translation: you
+  - Word: oni
+    Translation: they (m/mixed)
+  - Word: one
+    Translation: they (f/n)
+  - Word: človek
+    Translation: person
+  - Word: žena
+    Translation: woman
+  - Word: muž
+    Translation: man
+  - Word: dieťa
+    Translation: child
+  - Word: priateľ
+    Translation: friend
+  - Word: sestra
+    Translation: sister
+  - Word: rodič
+    Translation: parent
+  - Word: dom
+    Translation: house
+  - Word: mesto
+    Translation: city
+  - Word: deň
+    Translation: day
+  - Word: tiež
+    Translation: also
+  - Word: kto
+    Translation: who
+
+Phrases:
+  - Phrase: Ja som múdry.
+    Translation: I am wise.
+  - Phrase: To moja sestra.
+    Translation: This is my sister.
+  - Phrase: Ona je veľmi múdra
+    Translation: She is very wise
+  - Phrase: My sme veľmi múdri
+    Translation: We are very wise
+  - Phrase: Vy ste tiež múdri?
+    Translation: Are you also wise?
+  - Phrase: To je dobrý človek.
+    Translation: This is a good person.
+  - Phrase: Tá žena je dobrá.
+    Translation: This woman is good.
+  - Phrase: To je môj dom.
+    Translation: This is my house.
+  - Phrase: Ten je dobrý priateľ
+    Translation: He is a good friend
+  - Phrase: Vy ste dobrí.
+    Translation: You are good.
+  - Phrase: To sú priatelia.
+    Translation: These are friends.
+  - Phrase: Kto si ty?
+    Translation: Who are you?
+  - Phrase: Ten muž je milý.
+    Translation: That man is kind.
+  - Phrase: To je príjemné mesto.
+    Translation: This is a pleasant city.
+  - Phrase: Tá žena je vysoká.
+    Translation: That woman is tall.
+  - Phrase: Ten deň je chladný.
+    Translation: That day is cold.
+  - Phrase: Tamten dom je krásny.
+    Translation: That house over there is beautiful.
+  - Phrase: To moje dieťa.
+    Translation: This is my child.
+  - Phrase: Tamto ráno je chladné.
+    Translation: That morning over there is cold.
+  - Phrase: To nie je moja sestra.
+    Translation: This is not my sister.
+  - Phrase: To nie je tvoj dom.
+    Translation: This is not your house.
+  - Phrase: To je dobré auto?
+    Translation: Is this a good car?
+  - Phrase: To sú dobrí priatelia?
+    Translation: Are these good friends?
+  - Phrase: One sú veľmi milé.
+    Translation: They are very kind.
+  - Phrase: Oni sú veľmi milí
+    Translation: They are very kind

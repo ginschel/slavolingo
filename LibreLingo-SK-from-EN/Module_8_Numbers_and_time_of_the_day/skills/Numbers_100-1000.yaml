@@ -1,0 +1,67 @@
+Skill:
+  Name: Numbers 100-1000
+  Id: 29
+
+New words:
+  - Word: sto
+    Translation: one hundred
+  - Word: dvesto
+    Translation: two hundred
+  - Word: tristo
+    Translation: three hundred
+  - Word: štyristo
+    Translation: four hundred
+  - Word: päťsto
+    Translation: five hundred
+  - Word: šesťsto
+    Translation: six hundred
+  - Word: sedemsto
+    Translation: seven hundred
+  - Word: osemsto
+    Translation: eight hundred
+  - Word: deväťsto
+    Translation: nine hundred
+  - Word: tisíc
+    Translation: thousand
+
+Phrases:
+  - Phrase: tisíc jeden hodiniek
+    Translation: one thousand one clocks
+  - Phrase: sto chlapcov
+    Translation: one hundred boys
+  - Phrase: dvesto žien
+    Translation: two hundred women
+  - Phrase: tristo polí
+    Translation: three hundred fields
+  - Phrase: štyristo mužov
+    Translation: four hundred men
+  - Phrase: päťsto žien
+    Translation: five hundred women
+  - Phrase: šesťsto mačiek
+    Translation: six hundred cats
+  - Phrase: sedemsto jeden bicyklov
+    Translation: seven hundred one bicycles
+  - Phrase: osemsto chlapcov
+    Translation: eight hundred boys
+  - Phrase: deväťsto bicyklov
+    Translation: nine hundred bicycles
+  - Phrase: tisíc osem rubľov
+    Translation: one thousand eight rubles
+  - Phrase: štyristo sedem dolárov
+    Translation: four hundred seven dollars
+  - Phrase: dvesto tri počítačov
+    Translation: two hundred three computers
+  - Phrase: sedemsto jeden hodiniek
+    Translation: seven hundred one clocks
+  - Phrase: tristo štyri vecí
+    Translation: three hundred four things
+  - Phrase: sto dvoch sĺnc
+    Translation: one hundred two suns
+  - Phrase: šesťsto bicyklov
+    Translation: six hundred bicycles
+  - Phrase: osemsto dolárov
+    Translation: eight hundred dollars
+  - Phrase: dva tisíc deväťsto psov
+    Translation: two thousand nine hundred dogs
+  - Phrase: štyristo mačiek
+    Translation: four hundred cats
