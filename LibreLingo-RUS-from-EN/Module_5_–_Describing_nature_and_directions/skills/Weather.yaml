@@ -1,0 +1,81 @@
+Skill:
+  Name: Weather
+  Id: 16
+
+New words:
+  - Word: погода
+    Translation: weather
+  - Word: дождь
+    Translation: rain
+  - Word: падать
+    Translation: to fall
+  - Word: снег
+    Translation: snow
+  - Word: изменять
+    Translation: to change
+  - Word: солнце
+    Translation: sun
+  - Word: светить
+    Translation: to shine
+  - Word: воздух
+    Translation: air
+  - Word: ветер
+    Translation: wind
+  - Word: тепло
+    Translation: warm
+  - Word: холодно
+    Translation: cold
+  - Word: мороз
+    Translation: frost
+  - Word: облако
+    Translation: cloud
+  - Word: греть (греет)
+    Translation: to heat (heats)
+  - Word: облачно
+    Translation: cloudy
+  - Word: пахнуть (пахнет)
+    Translation: to smell
+  - Word: видеть (видит)
+    Translation: to see (sees)
+
+Phrases:
+  - Phrase: Погода есть добрая.
+    Translation: The weather is good.
+  - Phrase: Падает дождь.
+    Translation: It is raining.
+  - Phrase: Снег лежит на земле.
+    Translation: Snow lies on the ground.
+  - Phrase: Солнце светит.
+    Translation: The sun is shining.
+  - Phrase: Воздух есть чистый.
+    Translation: The air is clean.
+  - Phrase: Ветер дует сильно.
+    Translation: The wind is blowing strongly.
+  - Phrase: Сегодня есть тепло.
+    Translation: It is warm today.
+  - Phrase: В России есть холодно.
+    Translation: In Russia it is cold.
+  - Phrase: Мороз есть сильный.
+    Translation: The frost is strong.
+  - Phrase: Облака суть тёмные.
+    Translation: The clouds are dark.
+  - Phrase: Падает снег и дождь.
+    Translation: Snow and rain are falling.
+  - Phrase: Погода изменяется.
+    Translation: The weather is changing.
+  - Phrase: Солнце греет нас.
+    Translation: The sun heats us.
+  - Phrase: Сегодня есть тепло и сухо.
+    Translation: It is warm and dry today.
+  - Phrase: Есть ли ветер сильный?
+    Translation: Is the wind strong?
+  - Phrase: Мороз есть утром.
+    Translation: There is frost in the morning.
+  - Phrase: Облачно есть сегодня.
+    Translation: It is cloudy today.
+  - Phrase: Воздух пахнет по дождю.
+    Translation: The air smells of rain.
+  - Phrase: Сегодня не видим облаков.
+    Translation: Today I do not see clouds.
+  - Phrase: Холодный ветер дует из севера.
+    Translation: A cold wind is blowing from the north.

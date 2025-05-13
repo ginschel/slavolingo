@@ -1,0 +1,79 @@
+Skill:
+  Name: Family (Instrumental case)
+  Id: 3
+
+New words:
+  - Word: брат
+    Translation: brother
+  - Word: дед
+    Translation: grandfather
+  - Word: бабка
+    Translation: grandmother
+  - Word: тётка
+    Translation: aunt
+  - Word: внук
+    Translation: grandson
+  - Word: внучка
+    Translation: granddaughter
+  - Word: матка
+    Translation: mother
+  - Word: отец
+    Translation: father
+  - Word: родина
+    Translation: family
+  - Word: сын
+    Translation: son
+  - Word: дочка
+    Translation: daughter
+  - Word: дядя (по отцу)
+    Translation: uncle (father's brother)
+  - Word: говорит
+    Translation: speaks
+  - Word: идёт (пешком)
+    Translation: goes
+  - Word: идём (пешком)
+    Translation: we go
+  - Word: живёт
+    Translation: lives
+
+Phrases:
+  - Phrase: Он есть моим братом.
+    Translation: He is my brother.
+  - Phrase: Он есть твоим отцом
+    Translation: He is your father
+  - Phrase: Она идёт с маткою.
+    Translation: She is going with her mother.
+  - Phrase: Он говорит с дедом.
+    Translation: He is talking with his grandfather.
+  - Phrase: Мы играем с нашими детьми.
+    Translation: We are playing with our children.
+  - Phrase: Они едут с тёткою.
+    Translation: They are going with their aunt.
+  - Phrase: Говорим с твоею сестрою.
+    Translation: I am talking with your sister.
+  - Phrase: Идём в парк с родиною.
+    Translation: We are going to the park with the family.
+  - Phrase: Он есть с внуком.
+    Translation: He is with his grandson.
+  - Phrase: Она играет с внучкою.
+    Translation: She is playing with her granddaughter.
+  - Phrase: Пить чай с маткою есть лучше.
+    Translation: Drinking tea with mother is better.
+  - Phrase: С кем ты идёшь?
+    Translation: Who are you going with?
+  - Phrase: Она говорит с моею бабкою.
+    Translation: She is talking with my grandmother.
+  - Phrase: Это есть домом с родиною.
+    Translation: This is a house with a family.
+  - Phrase: Он живёт с сыном.
+    Translation: He lives with his son.
+  - Phrase: Идём на прогулку с братами.
+    Translation: We are going for a walk with brothers.
+  - Phrase: Идём с дочкою.
+    Translation: We are going with our daughter.
+  - Phrase: Они тут суть с дедом.
+    Translation: They are here with their grandfather.
+  - Phrase: Он живёт с тёткою и со дядею.
+    Translation: He lives with his aunt and uncle.
+  - Phrase: Она говорит с внуком часто.
+    Translation: She talks with her grandson often.

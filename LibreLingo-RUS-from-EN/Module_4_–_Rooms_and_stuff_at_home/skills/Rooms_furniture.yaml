@@ -1,0 +1,77 @@
+Skill:
+  Name: Rooms/furniture
+  Id: 12
+
+New words:
+  - Word: комната
+    Translation: room
+  - Word: стол
+    Translation: table
+  - Word: стул
+    Translation: chair
+  - Word: подушка
+    Translation: pillow
+  - Word: постель
+    Translation: bed
+  - Word: окно
+    Translation: window
+  - Word: двери
+    Translation: doors
+  - Word: шкаф
+    Translation: wardrobe
+  - Word: сундук
+    Translation: chest
+  - Word: полка
+    Translation: shelf
+  - Word: держать (держит)
+    Translation: to hold (holds)
+  - Word: висеть (висит)
+    Translation: to hang (hangs)
+  - Word: стена
+    Translation: wall
+  - Word: лампа
+    Translation: lamp
+  - Word: давать
+    Translation: to give
+
+Phrases:
+  - Phrase: Комната есть тёплая и тихая.
+    Translation: The room is warm and quiet.
+  - Phrase: Стол стоит в середине комнаты.
+    Translation: The table stands in the middle of the room.
+  - Phrase: Стул есть близко стола.
+    Translation: The chair is near the table.
+  - Phrase: Постель есть мягкая.
+    Translation: The bed is soft.
+  - Phrase: Окно есть открыто.
+    Translation: The window is open.
+  - Phrase: Двери суть закрыты.
+    Translation: The doors are closed.
+  - Phrase: Шкаф имеет много одежды.
+    Translation: The wardrobe has many clothes.
+  - Phrase: Сундук есть под постелью.
+    Translation: The chest is under the bed.
+  - Phrase: Полка держит книги.
+    Translation: The shelf holds books.
+  - Phrase: Лампа светит над столом.
+    Translation: The lamp shines above the table.
+  - Phrase: Комната имеет два окна.
+    Translation: The room has two windows.
+  - Phrase: На столе лежит книга.
+    Translation: A book is lying on the table.
+  - Phrase: Стул есть старый, но комфортный.
+    Translation: The chair is old, but comfortable.
+  - Phrase: Постель есть новая.
+    Translation: The bed is new.
+  - Phrase: Двери ведут до кухни.
+    Translation: The doors lead to the kitchen.
+  - Phrase: Шкаф есть полный.
+    Translation: The wardrobe is full.
+  - Phrase: Сундук есть из дерева.
+    Translation: The chest is made of wood.
+  - Phrase: Полка висит на стене.
+    Translation: The shelf hangs on the wall.
+  - Phrase: Лампа даёт свет.
+    Translation: The lamp gives light.
+  - Phrase: В комнате есть спокойно.
+    Translation: It is quiet in the room.

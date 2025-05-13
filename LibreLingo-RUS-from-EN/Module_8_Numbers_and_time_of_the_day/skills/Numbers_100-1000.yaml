@@ -1,0 +1,67 @@
+Skill:
+  Name: Numbers 100-1000
+  Id: 29
+
+New words:
+  - Word: сто
+    Translation: one hundred
+  - Word: двести
+    Translation: two hundred
+  - Word: триста
+    Translation: three hundred
+  - Word: четыреста
+    Translation: four hundred
+  - Word: пятьсот
+    Translation: five hundred
+  - Word: шестьсот
+    Translation: six hundred
+  - Word: семьсот
+    Translation: seven hundred
+  - Word: восемьсот
+    Translation: eight hundred
+  - Word: девятьсот
+    Translation: nine hundred
+  - Word: тысяча
+    Translation: thousand
+
+Phrases:
+  - Phrase: тысяча один наручных часов
+    Translation: one thousand one clocks
+  - Phrase: сто парней
+    Translation: one hundred boys
+  - Phrase: двести женщин
+    Translation: two hundred women
+  - Phrase: триста полей
+    Translation: three hundred fields
+  - Phrase: четыреста мужчин
+    Translation: four hundred men
+  - Phrase: пятьсот женщин
+    Translation: five hundred women
+  - Phrase: шестьсот котов
+    Translation: six hundred cats
+  - Phrase: семьсот один велосипед
+    Translation: seven hundred one bicycles
+  - Phrase: восемьсот парней
+    Translation: eight hundred boys
+  - Phrase: девятьсот велосипедов
+    Translation: nine hundred bicycles
+  - Phrase: тысяча восемь рублей
+    Translation: one thousand eight rubles
+  - Phrase: четыреста семь долларов
+    Translation: four hundred seven dollars
+  - Phrase: двести три компьютера
+    Translation: two hundred three computers
+  - Phrase: семьсот один наручных часов
+    Translation: seven hundred one clocks
+  - Phrase: триста четыре вещи
+    Translation: three hundred four things
+  - Phrase: сто два солнца
+    Translation: one hundred two suns
+  - Phrase: шестьсот велосипедов
+    Translation: six hundred bicycles
+  - Phrase: восемьсот долларов
+    Translation: eight hundred dollars
+  - Phrase: две тысячи девятьсот псов
+    Translation: two thousand nine hundred dogs
+  - Phrase: четыреста котов
+    Translation: four hundred cats

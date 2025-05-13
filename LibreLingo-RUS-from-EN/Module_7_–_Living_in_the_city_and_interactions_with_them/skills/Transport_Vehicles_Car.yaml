@@ -1,0 +1,77 @@
+Skill:
+  Name: Transport/Vehicles/Car
+  Id: 23
+
+New words:
+  - Word: авто
+    Translation: car
+  - Word: автобус
+    Translation: bus
+  - Word: поезд
+    Translation: train
+  - Word: колесо/велосипед
+    Translation: bicycle
+  - Word: станция
+    Translation: station
+  - Word: шофёр
+    Translation: driver
+  - Word: дорога
+    Translation: road
+  - Word: мост
+    Translation: bridge
+  - Word: скорость
+    Translation: speed
+  - Word: светофор
+    Translation: traffic light
+  - Word: ехать (едет)
+    Translation: to go/drive (goes/drives)
+  - Word: сесть (сядет)
+    Translation: to sit (sits)
+  - Word: связать (свяжет)
+    Translation: to connect/tie (connects/ties)
+  - Word: разбитый
+    Translation: broken
+  - Word: осторожный
+    Translation: careful
+
+Phrases:
+  - Phrase: Авто стоит на улице.
+    Translation: The car is standing on the street.
+  - Phrase: Автобус едет до центра.
+    Translation: The bus goes to the center.
+  - Phrase: Поезд едет на станцию.
+    Translation: The train goes to the station.
+  - Phrase: Здесь есть сиденье. Можно сесть.
+    Translation: Tu jest sěděnje. Možna sěsti
+  - Phrase: Станция есть большая.
+    Translation: The station is big.
+  - Phrase: Шофёр едет быстро.
+    Translation: The driver drives fast.
+  - Phrase: Дорога идёт через лес.
+    Translation: The road goes through the forest.
+  - Phrase: Мост связывает два города.
+    Translation: The bridge connects two cities.
+  - Phrase: Скорость есть важна для безопасности на улице.
+    Translation: Brzina jest važna za bezpečnosti na ulici.
+  - Phrase: Светофор показывает красный.
+    Translation: The traffic light shows red.
+  - Phrase: Авто есть новое и красивое.
+    Translation: The car is new and beautiful.
+  - Phrase: Автобус везёт много людей.
+    Translation: The bus carries many people.
+  - Phrase: Поезд едет на север.
+    Translation: The train goes to the north.
+  - Phrase: Колесо есть разбито.
+    Translation: The bicycle is broken.
+  - Phrase: Станция есть открыта.
+    Translation: The station is open.
+  - Phrase: Шофёр есть осторожный.
+    Translation: The driver is careful.
+  - Phrase: Дорога есть широкая.
+    Translation: The road is wide.
+  - Phrase: Мост есть высокий.
+    Translation: The bridge is high.
+  - Phrase: Скорость есть ограничена.
+    Translation: The speed is limited.
+  - Phrase: Светофор показывает зелёный.
+    Translation: The traffic light shows green.

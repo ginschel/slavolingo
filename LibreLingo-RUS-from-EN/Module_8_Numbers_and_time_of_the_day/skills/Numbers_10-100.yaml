@@ -1,0 +1,67 @@
+Skill:
+  Name: Numbers 10-100
+  Id: 28
+
+New words:
+  - Word: десять
+    Translation: ten
+  - Word: двадцать
+    Translation: twenty
+  - Word: тридцать
+    Translation: thirty
+  - Word: сорок
+    Translation: forty
+  - Word: пятьдесят
+    Translation: fifty
+  - Word: шестьдесят
+    Translation: sixty
+  - Word: семьдесят
+    Translation: seventy
+  - Word: восемьдесят
+    Translation: eighty
+  - Word: девяносто
+    Translation: ninety
+  - Word: сто
+    Translation: one hundred
+
+Phrases:
+  - Phrase: сто наручных часов
+    Translation: one hundred clocks
+  - Phrase: десять парней
+    Translation: ten boys
+  - Phrase: двадцать женщин
+    Translation: twenty women
+  - Phrase: тридцать полей
+    Translation: thirty fields
+  - Phrase: сорок мужчин
+    Translation: forty men
+  - Phrase: пятьдесят женщин
+    Translation: fifty women
+  - Phrase: шестьдесят котов
+    Translation: sixty cats
+  - Phrase: сто один велосипед
+    Translation: one hundred one bicycles
+  - Phrase: восемьдесят парней
+    Translation: eighty boys
+  - Phrase: девяносто велосипедов
+    Translation: ninety bicycles
+  - Phrase: семьдесят восемь рублей
+    Translation: seventy eight rubles
+  - Phrase: восемьдесят семь долларов
+    Translation: eighty seven dollars
+  - Phrase: девяносто три компьютера
+    Translation: ninety three computers
+  - Phrase: пятьдесят один наручных часов
+    Translation: fifty one clocks
+  - Phrase: двадцать четыре вещи
+    Translation: twenty four things
+  - Phrase: сто два солнца
+    Translation: one hundred two suns
+  - Phrase: шестьдесят велосипедов
+    Translation: sixty bicycles
+  - Phrase: сорок долларов
+    Translation: forty dollars
+  - Phrase: тридцать псов
+    Translation: thirty dogs
+  - Phrase: двадцать котов
+    Translation: twenty cats

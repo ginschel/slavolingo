@@ -1,0 +1,69 @@
+Skill:
+  Name: Buying in the Shop
+  Id: 24
+
+New words:
+  - Word: купить
+    Translation: to buy
+  - Word: продавать
+    Translation: to sell
+  - Word: цена
+    Translation: price
+  - Word: одежда
+    Translation: clothes
+  - Word: сумка
+    Translation: bag
+  - Word: кусок
+    Translation: piece
+  - Word: купец/покупатель
+    Translation: customer
+  - Word: возврат
+    Translation: return
+  - Word: чек
+    Translation: receipt
+  - Word: спрашивать
+    Translation: to ask
+  - Word: свежий
+    Translation: fresh
+
+Phrases:
+  - Phrase: Хочу купить хлеб.
+    Translation: I want to buy bread.
+  - Phrase: Он продаёт мясо.
+    Translation: He sells meat.
+  - Phrase: Цена есть высокая.
+    Translation: The price is high.
+  - Phrase: Одежда есть новая.
+    Translation: The clothes are new.
+  - Phrase: Продавец есть утомлён сегодня.
+    Translation: The seller is tired today.
+  - Phrase: Сумка есть тяжёлая.
+    Translation: The bag is heavy.
+  - Phrase: Кусок сыра есть добрый.
+    Translation: A piece of cheese is good.
+  - Phrase: Купец спрашивает за скидку.
+    Translation: The customer asks for a discount.
+  - Phrase: Возврата нет. Это плохой магазин.
+    Translation: No returns. This is a bad shop.
+  - Phrase: Дам чек продавцу.
+    Translation: I give the receipt to the seller.
+  - Phrase: Она покупает книгу.
+    Translation: She is buying a book.
+  - Phrase: Он продаёт молоко.
+    Translation: He sells milk.
+  - Phrase: Цена масла есть добрая.
+    Translation: The price of butter is good.
+  - Phrase: Колбаса есть свежая.
+    Translation: The sausage is fresh.
+  - Phrase: Продавец даст кусок колбасы.
+    Translation: The seller gives a piece of sausage.
+  - Phrase: Сумка стоит на полу.
+    Translation: The bag is on the floor.
+  - Phrase: Кусок хлеба есть малый.
+    Translation: The piece of bread is small.
+  - Phrase: Купец спрашивает о цене.
+    Translation: The customer asks about the price.
+  - Phrase: Возврат есть до семи дней.
+    Translation: Return is within seven days.
+  - Phrase: Чек есть подписан.
+    Translation: The receipt is signed.

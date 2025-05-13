@@ -1,0 +1,77 @@
+Skill:
+  Name: Shapes
+  Id: 10
+
+New words:
+  - Word: круг
+    Translation: circle
+  - Word: квадрат
+    Translation: square
+  - Word: четыре
+    Translation: four
+  - Word: длинный
+    Translation: long
+  - Word: три
+    Translation: three
+  - Word: треугольник
+    Translation: triangle
+  - Word: стоять (стоит)
+    Translation: to stand (stands)
+  - Word: равный
+    Translation: straight
+  - Word: форма
+    Translation: shape
+  - Word: линия
+    Translation: line
+  - Word: точка
+    Translation: point
+  - Word: контур/очертание
+    Translation: outline
+  - Word: сторона
+    Translation: side
+  - Word: фигура
+    Translation: figure
+  - Word: форма/вид
+    Translation: shape
+
+Phrases:
+  - Phrase: Это есть круг.
+    Translation: This is a circle.
+  - Phrase: Квадрат имеет четыре стороны.
+    Translation: A square has four sides.
+  - Phrase: Треугольник имеет три стороны.
+    Translation: A triangle has three sides.
+  - Phrase: Эта линия есть длинная.
+    Translation: This line is long.
+  - Phrase: Это есть моя форма.
+    Translation: This is my shape.
+  - Phrase: Линия есть равная.
+    Translation: The line is straight.
+  - Phrase: Точка то малый пункт.
+    Translation: A point is a small dot.
+  - Phrase: Видим контур квадрата.
+    Translation: We see the outline of a square.
+  - Phrase: Фигура есть комплексная.
+    Translation: The figure is complex.
+  - Phrase: Это есть простой вид.
+    Translation: This is a simple shape.
+  - Phrase: Я рисую большой круг.
+    Translation: I am drawing a big circle.
+  - Phrase: Квадрат и круг суть основные формы.
+    Translation: Square and circle are basic shapes.
+  - Phrase: Линия идёт через сторону.
+    Translation: The line goes through the side.
+  - Phrase: Точка лежит на линии.
+    Translation: The point lies on the line.
+  - Phrase: Она знает каждый контур Англии.
+    Translation: She knows every outline of England.
+  - Phrase: Это есть простой треугольник.
+    Translation: This is a simple triangle.
+  - Phrase: Он рисует фигуры на бумаге.
+    Translation: He is drawing figures on paper.
+  - Phrase: Форма есть интересная.
+    Translation: The shape is interesting.
+  - Phrase: Стол имеет форму квадрата.
+    Translation: The table has the shape of a square.
+  - Phrase: Красивая фигура стоит на столе.
+    Translation: A beautiful figure is standing on the table.

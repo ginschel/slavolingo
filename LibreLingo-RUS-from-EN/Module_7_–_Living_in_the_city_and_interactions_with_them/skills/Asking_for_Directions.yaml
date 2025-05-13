@@ -1,0 +1,67 @@
+Skill:
+  Name: Asking for Directions
+  Id: 25
+
+New words:
+  - Word: где
+    Translation: where
+  - Word: куда
+    Translation: which way
+  - Word: направо
+    Translation: to the right
+  - Word: налево
+    Translation: to the left
+  - Word: прямо
+    Translation: straight
+  - Word: близко
+    Translation: near
+  - Word: далеко
+    Translation: far
+  - Word: спрашивать
+    Translation: to ask
+  - Word: показать
+    Translation: to show
+  - Word: путь/дорога
+    Translation: path/way
+
+Phrases:
+  - Phrase: Где есть станция?
+    Translation: Where is the station?
+  - Phrase: Куда идёт дорога?
+    Translation: Which way does the road go?
+  - Phrase: Идём направо.
+    Translation: We are going to the right.
+  - Phrase: Потом налево.
+    Translation: Then to the left.
+  - Phrase: Иди прямо до моста.
+    Translation: Go straight to the bridge.
+  - Phrase: Проспект есть близко площади/рынка.
+    Translation: The avenue is near the square.
+  - Phrase: Библиотека есть далека.
+    Translation: The library is far away.
+  - Phrase: Спрашиваю их за дорогу.
+    Translation: I ask them for the way.
+  - Phrase: Можете показать путь?
+    Translation: Can you show me the way?
+  - Phrase: Улица идёт до центра.
+    Translation: The street goes to the center.
+  - Phrase: Где есть близкий отель?
+    Translation: Where is the nearest hotel?
+  - Phrase: Куда идёте?
+    Translation: Which way are you going?
+  - Phrase: Идите прямо и потом направо.
+    Translation: Go straight and then to the right.
+  - Phrase: Станция есть налево.
+    Translation: The station is on the left.
+  - Phrase: Магазин есть близко библиотеки.
+    Translation: The shop is near the library.
+  - Phrase: Площадь/Рынок есть далеко от отеля.
+    Translation: The square is far from the hotel.
+  - Phrase: Спрашиваю старую женщину.
+    Translation: I ask the old woman.
+  - Phrase: Он показывает мне дорогу.
+    Translation: He shows me the way.
+  - Phrase: Улица есть длинная.
+    Translation: The street is long.
+  - Phrase: Куда едет тот поезд?
+    Translation: Where is that train going?

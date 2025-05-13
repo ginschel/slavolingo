@@ -1,0 +1,83 @@
+Skill:
+  Name: Drinks (Genitive case)
+  Id: 7
+
+New words:
+  - Word: вода
+    Translation: water
+  - Word: пиво
+    Translation: beer
+  - Word: пить
+    Translation: to drink
+  - Word: вино
+    Translation: wine
+  - Word: кофе
+    Translation: coffee
+  - Word: сок
+    Translation: juice
+  - Word: хотеть (хочет)
+    Translation: to want (wants)
+  - Word: фляжка
+    Translation: bottle (flask)
+  - Word: пробовать найти
+    Translation: to try to find
+  - Word: чашка
+    Translation: glass
+  - Word: бутылка
+    Translation: bottle
+  - Word: чай
+    Translation: tea
+  - Word: молоко
+    Translation: milk
+  - Word: без
+    Translation: without
+  - Word: за
+    Translation: for
+  - Word: из
+    Translation: from
+  - Word: у
+    Translation: at/by
+
+Phrases:
+  - Phrase: Я не имею воды.
+    Translation: I do not have water.
+  - Phrase: Она не пьёт вина.
+    Translation: She does not drink wine.
+  - Phrase: Мы не пьём пива.
+    Translation: We do not drink beer.
+  - Phrase: Ты имеешь фляжку сока?
+    Translation: Do you have a bottle of juice?
+  - Phrase: Они не покупают бутылок пива.
+    Translation: They are not buying bottles of beer.
+  - Phrase: Он не имеет кофе.
+    Translation: He does not have coffee.
+  - Phrase: Пьёшь ли без молока?
+    Translation: Do you drink without milk?
+  - Phrase: Она не пьёт чая.
+    Translation: She does not drink tea.
+  - Phrase: Чаша вина для меня, прошу.
+    Translation: A glass of wine for me, please.
+  - Phrase: Бутылка воды лежит на столе.
+    Translation: A bottle of water is lying on the table.
+  - Phrase: Я люблю сок без сахара.
+    Translation: I like juice without sugar.
+  - Phrase: Он не любит кофе без молока.
+    Translation: He does not like coffee without milk.
+  - Phrase: Еси ли ты без фляжки?
+    Translation: Are you without a bottle?
+  - Phrase: Она пробует найти чашку без вина.
+    Translation: She is trying to find a glass without wine.
+  - Phrase: Он не хочет пить сока.
+    Translation: He does not want to drink juice.
+  - Phrase: Ты пьёшь вино?
+    Translation: Do you drink wine?
+  - Phrase: Это вино из Польши.
+    Translation: This wine is from Poland.
+  - Phrase: У Франка водки нет.
+    Translation: Frank has no vodka.
+  - Phrase: Мы пьём из бутылки пиво.
+    Translation: We are drinking beer from the bottle.
+  - Phrase: Дайте мне чашу вина, прошу.
+    Translation: Give me a glass of wine, please.
+  - Phrase: Он пьёт за тебя
+    Translation: He is drinking for you

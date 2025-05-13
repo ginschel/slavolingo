@@ -1,0 +1,67 @@
+Skill:
+  Name: Nationalities / Languages
+  Id: 11
+
+New words:
+  - Word: славянин
+    Translation: Slav
+  - Word: язык
+    Translation: language
+  - Word: держава/государство
+    Translation: country
+  - Word: народ
+    Translation: nation
+  - Word: имя
+    Translation: name
+  - Word: хорватка
+    Translation: Croat (f)
+  - Word: русский
+    Translation: Russian (m)
+  - Word: поляк
+    Translation: Pole (m)
+  - Word: немец
+    Translation: German (m)
+  - Word: англичанин
+    Translation: Englishman
+
+Phrases:
+  - Phrase: Он есть славянином.
+    Translation: He is a Slav.
+  - Phrase: Она говорит на славянском языке.
+    Translation: She speaks the Slavic language.
+  - Phrase: Это есть мой язык.
+    Translation: This is my language.
+  - Phrase: Государством есть Польша.
+    Translation: The country is Poland.
+  - Phrase: Я есмь поляком.
+    Translation: I am a Pole.
+  - Phrase: Она есть хорваткою.
+    Translation: She is a Croat.
+  - Phrase: Он есть русским.
+    Translation: He is a Russian.
+  - Phrase: Говоришь ли на немецком языке?
+    Translation: Do you speak the German language?
+  - Phrase: Англичанин говорит на английском языке.
+    Translation: An Englishman speaks the English language.
+  - Phrase: Мы любим свой народ.
+    Translation: We love our nation.
+  - Phrase: Это есть имя моего государства.
+    Translation: This is the name of my country.
+  - Phrase: Он знает три языка.
+    Translation: He knows three languages.
+  - Phrase: Хорват говорит на хорватском языке.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Немец живёт в Германии.
+    Translation: A German lives in Germany.
+  - Phrase: Она знает русский и славянский.
+    Translation: She knows Russian and Slavic.
+  - Phrase: Это есть народ с богатою культурою.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Ты еси англичанином?
+    Translation: Are you an Englishman?
+  - Phrase: Он говорит каждый язык добро.
+    Translation: He speaks every language well.
+  - Phrase: Мы учимся русского языка.
+    Translation: We are learning the Russian language.
+  - Phrase: Она знает много народов.
+    Translation: She knows many nations.
