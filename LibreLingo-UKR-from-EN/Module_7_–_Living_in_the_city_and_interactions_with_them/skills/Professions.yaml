@@ -1,0 +1,75 @@
+Skill:
+  Name: Professions
+  Id: 22
+
+New words:
+  - Word: вчитель
+    Translation: teacher
+  - Word: лікар
+    Translation: doctor
+  - Word: інженер
+    Translation: engineer
+  - Word: робітник
+    Translation: worker
+  - Word: писар
+    Translation: writer
+  - Word: продавець
+    Translation: seller
+  - Word: шофер/водій
+    Translation: driver
+  - Word: кухар
+    Translation: cook
+  - Word: поліцейський
+    Translation: policeman
+  - Word: артист/художник
+    Translation: artist
+  - Word: працювати
+    Translation: to work
+  - Word: робити
+    Translation: to work
+  - Word: малювати
+    Translation: to draw
+  - Word: робити
+    Translation: to do/make
+
+Phrases:
+  - Phrase: Мій брат є вчителем.
+    Translation: My brother is a teacher.
+  - Phrase: Вона є лікарем.
+    Translation: She is a doctor.
+  - Phrase: Він є інженером у місті.
+    Translation: He is an engineer in the city.
+  - Phrase: Робітник працює на мості.
+    Translation: The worker is working on the bridge.
+  - Phrase: Писар пише в офісі.
+    Translation: The writer writes in the office.
+  - Phrase: Продавець працює в магазині.
+    Translation: The seller works in the shop.
+  - Phrase: Шофер/Водій веде автобус.
+    Translation: The driver drives a bus.
+  - Phrase: Мій отець/батько є кухарем.
+    Translation: My father is a cook.
+  - Phrase: Поліцейський стоїть на вулиці.
+    Translation: The policeman is standing on the street.
+  - Phrase: Артист/Художник малює портрет.
+    Translation: The artist is drawing a portrait.
+  - Phrase: Вчитель каже учням робити.
+    Translation: The teacher tells the students to do.
+  - Phrase: Лікар помагає людям.
+    Translation: The doctor helps people.
+  - Phrase: Інженер робить план.
+    Translation: The engineer makes a plan.
+  - Phrase: Робітник будує дім.
+    Translation: The worker is building a house.
+  - Phrase: Писар пише документи.
+    Translation: The writer writes documents.
+  - Phrase: Продавець продає їжу.
+    Translation: The seller sells food.
+  - Phrase: Шофер/Водій везе людей.
+    Translation: The driver drives people.
+  - Phrase: Кухар готує вечерю.
+    Translation: The cook is preparing dinner.
+  - Phrase: Поліцейський контролює ситуацію.
+    Translation: The policeman controls the situation.
+  - Phrase: Артист/Художник показує свою творчість.
+    Translation: The artist shows his work.

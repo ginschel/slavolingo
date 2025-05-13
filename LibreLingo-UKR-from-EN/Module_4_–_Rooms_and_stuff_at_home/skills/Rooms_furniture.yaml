@@ -1,0 +1,77 @@
+Skill:
+  Name: Rooms/furniture
+  Id: 12
+
+New words:
+  - Word: кімната
+    Translation: room
+  - Word: стіл
+    Translation: table
+  - Word: стілець
+    Translation: chair
+  - Word: подушка
+    Translation: pillow
+  - Word: ліжко
+    Translation: bed
+  - Word: вікно
+    Translation: window
+  - Word: двері
+    Translation: doors
+  - Word: шафа
+    Translation: wardrobe
+  - Word: скриня
+    Translation: chest
+  - Word: полиця
+    Translation: shelf
+  - Word: тримати (тримає)
+    Translation: to hold (holds)
+  - Word: висіти (висить)
+    Translation: to hang (hangs)
+  - Word: стіна
+    Translation: wall
+  - Word: лампа
+    Translation: lamp
+  - Word: давати
+    Translation: to give
+
+Phrases:
+  - Phrase: Кімната є тепла і тиха.
+    Translation: The room is warm and quiet.
+  - Phrase: Стіл стоїть посередині кімнати.
+    Translation: The table stands in the middle of the room.
+  - Phrase: Стілець є близько столу.
+    Translation: The chair is near the table.
+  - Phrase: Ліжко є м'яке.
+    Translation: The bed is soft.
+  - Phrase: Вікно є відкрите.
+    Translation: The window is open.
+  - Phrase: Двері є закриті.
+    Translation: The doors are closed.
+  - Phrase: Шафа має багато одягу.
+    Translation: The wardrobe has many clothes.
+  - Phrase: Скриня є під ліжком.
+    Translation: The chest is under the bed.
+  - Phrase: Полиця тримає книжки.
+    Translation: The shelf holds books.
+  - Phrase: Лампа світить над столом.
+    Translation: The lamp shines above the table.
+  - Phrase: Кімната має два вікна.
+    Translation: The room has two windows.
+  - Phrase: На столі лежить книжка.
+    Translation: A book is lying on the table.
+  - Phrase: Стілець є старий, але комфортний.
+    Translation: The chair is old, but comfortable.
+  - Phrase: Ліжко є нове.
+    Translation: The bed is new.
+  - Phrase: Двері ведуть до кухні.
+    Translation: The doors lead to the kitchen.
+  - Phrase: Шафа є повна.
+    Translation: The wardrobe is full.
+  - Phrase: Скриня є з дерева.
+    Translation: The chest is made of wood.
+  - Phrase: Полиця висить на стіні.
+    Translation: The shelf hangs on the wall.
+  - Phrase: Лампа дає світло.
+    Translation: The lamp gives light.
+  - Phrase: В кімнаті є спокійно.
+    Translation: It is quiet in the room.

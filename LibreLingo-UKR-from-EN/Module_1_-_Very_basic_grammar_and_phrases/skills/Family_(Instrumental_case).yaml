@@ -1,0 +1,79 @@
+Skill:
+  Name: Family (Instrumental case)
+  Id: 3
+
+New words:
+  - Word: брат
+    Translation: brother
+  - Word: дід
+    Translation: grandfather
+  - Word: бабця
+    Translation: grandmother
+  - Word: тітка
+    Translation: aunt
+  - Word: онук
+    Translation: grandson
+  - Word: онучка
+    Translation: granddaughter
+  - Word: мати
+    Translation: mother
+  - Word: отець/батько
+    Translation: father
+  - Word: родина
+    Translation: family
+  - Word: син
+    Translation: son
+  - Word: дочка
+    Translation: daughter
+  - Word: стрий
+    Translation: uncle (father's brother)
+  - Word: говорить
+    Translation: speaks
+  - Word: йде
+    Translation: goes
+  - Word: йдемо
+    Translation: we go
+  - Word: живе
+    Translation: lives
+
+Phrases:
+  - Phrase: Він є моїм братом.
+    Translation: He is my brother.
+  - Phrase: Він є твоїм батьком
+    Translation: He is your father
+  - Phrase: Вона йде з маткою.
+    Translation: She is going with her mother.
+  - Phrase: Він говорить з дідом.
+    Translation: He is talking with his grandfather.
+  - Phrase: Ми граємо з нашими дітьми.
+    Translation: We are playing with our children.
+  - Phrase: Вони їдуть з тіткою.
+    Translation: They are going with their aunt.
+  - Phrase: Говорю з твоєю сестрою.
+    Translation: I am talking with your sister.
+  - Phrase: Йду в парк з родиною.
+    Translation: We are going to the park with the family.
+  - Phrase: Він є з онуком.
+    Translation: He is with his grandson.
+  - Phrase: Вона грає з онучкою.
+    Translation: She is playing with her granddaughter.
+  - Phrase: Пити чай з маткою є краще.
+    Translation: Drinking tea with mother is better.
+  - Phrase: З ким ти йдеш?
+    Translation: Who are you going with?
+  - Phrase: Вона говорить з моєю бабкою.
+    Translation: She is talking with my grandmother.
+  - Phrase: Це є домом з родиною.
+    Translation: This is a house with a family.
+  - Phrase: Він живе з сином.
+    Translation: He lives with his son.
+  - Phrase: Йдемо на прогулянку з братами.
+    Translation: We are going for a walk with brothers.
+  - Phrase: Йдемо з дочкою.
+    Translation: We are going with our daughter.
+  - Phrase: Вони тут є з дідом.
+    Translation: They are here with their grandfather.
+  - Phrase: Він живе з тіткою і зі стриєм.
+    Translation: He lives with his aunt and uncle.
+  - Phrase: Вона говорить з онуком часто.
+    Translation: She talks with her grandson often.

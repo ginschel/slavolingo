@@ -1,0 +1,121 @@
+Skill:
+  Name: Conjugation of to be and the Nominative Case
+  Id: 1
+
+New words:
+  - Word: це (середній рід)
+    Translation: this
+  - Word: ця (жіночий рід)
+    Translation: this
+  - Word: цей (чоловічий рід)
+    Translation: that
+  - Word: тамтой (чоловічий рід)
+    Translation: that over there
+  - Word: тамта (жіночий рід)
+    Translation: that over there
+  - Word: я є
+    Translation: am
+  - Word: ти є
+    Translation: are
+  - Word: він/вона/воно є
+    Translation: is
+  - Word: ми є
+    Translation: are
+  - Word: ви є
+    Translation: are
+  - Word: вони є
+    Translation: are
+  - Word: я
+    Translation: I
+  - Word: ти
+    Translation: you
+  - Word: він
+    Translation: he
+  - Word: вона
+    Translation: she
+  - Word: воно
+    Translation: it
+  - Word: ми
+    Translation: we
+  - Word: ви
+    Translation: you
+  - Word: вони (чол. р.)
+    Translation: they (m/mixed)
+  - Word: вони (жін. р.)
+    Translation: they (f/n)
+  - Word: людина
+    Translation: person
+  - Word: жінка
+    Translation: woman
+  - Word: чоловік
+    Translation: man
+  - Word: дитина
+    Translation: child
+  - Word: друг
+    Translation: friend
+  - Word: сестра
+    Translation: sister
+  - Word: батько/мати (один з батьків)
+    Translation: parent
+  - Word: дім
+    Translation: house
+  - Word: місто
+    Translation: city
+  - Word: день
+    Translation: day
+  - Word: також
+    Translation: also
+  - Word: хто
+    Translation: who
+
+Phrases:
+  - Phrase: Я є мудрий.
+    Translation: I am wise.
+  - Phrase: Це моя сестра.
+    Translation: This is my sister.
+  - Phrase: Вона дуже мудра
+    Translation: She is very wise
+  - Phrase: Ми дуже мудрі
+    Translation: We are very wise
+  - Phrase: Ви також мудрі?
+    Translation: Are you also wise?
+  - Phrase: Це добра людина.
+    Translation: This is a good person.
+  - Phrase: Та жінка є добра.
+    Translation: This woman is good.
+  - Phrase: Це є мій дім.
+    Translation: This is my house.
+  - Phrase: Він також добрий друг
+    Translation: He is a good friend
+  - Phrase: Ви є добрі.
+    Translation: You are good.
+  - Phrase: Це є друзі.
+    Translation: These are friends.
+  - Phrase: Хто ти є?
+    Translation: Who are you?
+  - Phrase: Той чоловік милий.
+    Translation: That man is kind.
+  - Phrase: Це є приємне місто.
+    Translation: This is a pleasant city.
+  - Phrase: Та жінка є висока.
+    Translation: That woman is tall.
+  - Phrase: Той день є холодний.
+    Translation: That day is cold.
+  - Phrase: Тамтой дім є красивий.
+    Translation: That house over there is beautiful.
+  - Phrase: Це моє дитя.
+    Translation: This is my child.
+  - Phrase: Тамтой ранок є холодний.
+    Translation: That morning over there is cold.
+  - Phrase: Це не моя сестра.
+    Translation: This is not my sister.
+  - Phrase: Це не твій дім.
+    Translation: This is not your house.
+  - Phrase: Це добре авто?
+    Translation: Is this a good car?
+  - Phrase: Це добрі друзі?
+    Translation: Are these good friends?
+  - Phrase: Вони є дуже милі.
+    Translation: They are very kind.
+  - Phrase: Вони є дуже милі.
+    Translation: They are very kind

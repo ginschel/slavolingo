@@ -1,0 +1,73 @@
+Skill:
+  Name: Fruits
+  Id: 8
+
+New words:
+  - Word: яблуко
+    Translation: apple
+  - Word: грушка
+    Translation: pear
+  - Word: банан
+    Translation: banana
+  - Word: помаранча/апельсин
+    Translation: orange
+  - Word: вишня
+    Translation: cherry
+  - Word: ягода
+    Translation: strawberry
+  - Word: дозрілий
+    Translation: ripe
+  - Word: виноград
+    Translation: grapes
+  - Word: слива
+    Translation: plum
+  - Word: лимон
+    Translation: lemon
+  - Word: кислий
+    Translation: sour
+  - Word: солодкий
+    Translation: sweet
+  - Word: диня
+    Translation: melon
+
+Phrases:
+  - Phrase: Яблуко є червоне.
+    Translation: The apple is red.
+  - Phrase: Грушка є смачна.
+    Translation: The pear is tasty.
+  - Phrase: Банан є жовтий.
+    Translation: The banana is yellow.
+  - Phrase: Помаранчі є солодкі.
+    Translation: The oranges are sweet.
+  - Phrase: Вишня є кисла.
+    Translation: The cherry is sour.
+  - Phrase: Ягода є мала і смачна.
+    Translation: The strawberry is small and tasty.
+  - Phrase: Виноград росте на винограднику.
+    Translation: Grapes grow on a vineyard.
+  - Phrase: Слива є темна.
+    Translation: The plum is dark.
+  - Phrase: Лимон є кислий і жовтий.
+    Translation: The lemon is sour and yellow.
+  - Phrase: Диня є велика і солодка.
+    Translation: The melon is big and sweet.
+  - Phrase: Він готує сливовицю зі слив.
+    Translation: He is preparing plum brandy from plums.
+  - Phrase: Вона п'є сік з помаранчів.
+    Translation: She is drinking orange juice.
+  - Phrase: Ми купуємо виноград.
+    Translation: We are buying grapes.
+  - Phrase: Ягоди є в мисці.
+    Translation: The strawberries are in the bowl.
+  - Phrase: Слива є вже дозріла.
+    Translation: The plum is already ripe.
+  - Phrase: Грушки лежать на столі.
+    Translation: The pears are lying on the table.
+  - Phrase: Лимон додається в чай.
+    Translation: Lemon is added to tea.
+  - Phrase: Банан є в торбі.
+    Translation: The banana is in the bag.
+  - Phrase: Вишня росте на дереві.
+    Translation: The cherry grows on a tree.
+  - Phrase: Диня є дуже смачна.
+    Translation: The melon is very tasty.
