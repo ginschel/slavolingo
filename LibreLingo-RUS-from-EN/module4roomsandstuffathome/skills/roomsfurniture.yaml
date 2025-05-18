@@ -1,0 +1,199 @@
+Skill:
+  Name: Rooms/furniture
+  Id: 12
+
+New words:
+  - Word: комната
+    Translation: room
+  - Word: стол
+    Translation: table
+  - Word: стул
+    Translation: chair
+  - Word: подушка
+    Translation: pillow
+  - Word: постель
+    Translation: bed
+  - Word: окно
+    Translation: window
+  - Word: двери
+    Translation: doors
+  - Word: шкаф
+    Translation: wardrobe
+  - Word: сундук
+    Translation: chest
+  - Word: полка
+    Translation: shelf
+  - Word: держать (держит)
+    Translation: to hold
+  - Word: висеть (висит)
+    Translation: to hang
+  - Word: стена
+    Translation: wall
+  - Word: лампа
+    Translation: lamp
+  - Word: давать
+    Translation: to give
+
+Phrases:
+  - Phrase: Комната есть тёплая и тихая.
+    Translation: The room is warm and quiet.
+  - Phrase: Стол стоит в середине комнаты.
+    Translation: The table stands in the middle of the room.
+  - Phrase: Стул есть близко стола.
+    Translation: The chair is near the table.
+  - Phrase: Постель есть мягкая.
+    Translation: The bed is soft.
+  - Phrase: Окно есть открыто.
+    Translation: The window is open.
+  - Phrase: Двери суть закрыты.
+    Translation: The doors are closed.
+  - Phrase: Шкаф имеет много одежды.
+    Translation: The wardrobe has many clothes.
+  - Phrase: Сундук есть под постелью.
+    Translation: The chest is under the bed.
+  - Phrase: Полка держит книги.
+    Translation: The shelf holds books.
+  - Phrase: Лампа светит над столом.
+    Translation: The lamp shines above the table.
+  - Phrase: Комната имеет два окна.
+    Translation: The room has two windows.
+  - Phrase: На столе лежит книга.
+    Translation: A book is lying on the table.
+  - Phrase: Стул есть старый, но комфортный.
+    Translation: The chair is old, but comfortable.
+  - Phrase: Постель есть новая.
+    Translation: The bed is new.
+  - Phrase: Двери ведут до кухни.
+    Translation: The doors lead to the kitchen.
+  - Phrase: Шкаф есть полный.
+    Translation: The wardrobe is full.
+  - Phrase: Сундук есть из дерева.
+    Translation: The chest is made of wood.
+  - Phrase: Полка висит на стене.
+    Translation: The shelf hangs on the wall.
+  - Phrase: Лампа даёт свет.
+    Translation: The lamp gives light.
+  - Phrase: В комнате есть спокойно.
+    Translation: It is quiet in the room.
+
+Mini-dictionary:
+  Russian:
+    - близко: undefined
+    - в: undefined
+    - ведут: undefined
+    - висеть: undefined
+    - висит: undefined
+    - давать: undefined
+    - даёт: undefined
+    - два: undefined
+    - двери: undefined
+    - дерева: undefined
+    - держать: undefined
+    - держит: undefined
+    - до: undefined
+    - есть: undefined
+    - закрыты: undefined
+    - и: undefined
+    - из: undefined
+    - имеет: undefined
+    - книга: undefined
+    - книги: undefined
+    - комната: undefined
+    - комнате: undefined
+    - комнаты: undefined
+    - комфортный: undefined
+    - кухни: undefined
+    - лампа: undefined
+    - лежит: undefined
+    - много: undefined
+    - мягкая: undefined
+    - на: undefined
+    - над: undefined
+    - но: undefined
+    - новая: undefined
+    - одежды: undefined
+    - окна: undefined
+    - окно: undefined
+    - открыто: undefined
+    - под: undefined
+    - подушка: undefined
+    - полка: undefined
+    - полный: undefined
+    - постель: undefined
+    - постелью: undefined
+    - свет: undefined
+    - светит: undefined
+    - середине: undefined
+    - спокойно: undefined
+    - старый: undefined
+    - стена: undefined
+    - стене: undefined
+    - стоит: undefined
+    - стол: undefined
+    - стола: undefined
+    - столе: undefined
+    - столом: undefined
+    - стул: undefined
+    - сундук: undefined
+    - суть: undefined
+    - тихая: undefined
+    - тёплая: undefined
+    - шкаф: undefined
+  English:
+    - a: undefined
+    - above: undefined
+    - and: undefined
+    - are: undefined
+    - bed: undefined
+    - book: undefined
+    - books: undefined
+    - but: undefined
+    - chair: undefined
+    - chest: undefined
+    - closed: undefined
+    - clothes: undefined
+    - comfortable: undefined
+    - doors: undefined
+    - full: undefined
+    - give: undefined
+    - gives: undefined
+    - hang: undefined
+    - hangs: undefined
+    - has: undefined
+    - hold: undefined
+    - holds: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - kitchen: undefined
+    - lamp: undefined
+    - lead: undefined
+    - light: undefined
+    - lying: undefined
+    - made: undefined
+    - many: undefined
+    - middle: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - pillow: undefined
+    - quiet: undefined
+    - room: undefined
+    - shelf: undefined
+    - shines: undefined
+    - soft: undefined
+    - stands: undefined
+    - table: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - under: undefined
+    - wall: undefined
+    - wardrobe: undefined
+    - warm: undefined
+    - window: undefined
+    - windows: undefined
+    - wood: undefined

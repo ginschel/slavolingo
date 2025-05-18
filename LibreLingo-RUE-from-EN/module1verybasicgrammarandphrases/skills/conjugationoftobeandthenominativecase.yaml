@@ -1,0 +1,224 @@
+Skill:
+  Name: Conjugation of to be and the Nominative Case
+  Id: 1
+
+New words:
+  - Word: тото
+    Translation: this
+  - Word: тота
+    Translation: this
+  - Word: тотот
+    Translation: that
+  - Word: тамтотот
+    Translation: that over there
+  - Word: тамтота
+    Translation: that over there
+  - Word: єм
+    Translation: am
+  - Word: єс
+    Translation: are
+  - Word: є
+    Translation: is
+  - Word: сме
+    Translation: are
+  - Word: сьте
+    Translation: are
+  - Word: суть
+    Translation: are
+  - Word: я
+    Translation: I
+  - Word: ты
+    Translation: you
+  - Word: он
+    Translation: he
+  - Word: она
+    Translation: she
+  - Word: оно
+    Translation: it
+  - Word: мы
+    Translation: we
+  - Word: вы
+    Translation: you
+  - Word: они
+    Translation: they
+  - Word: они
+    Translation: they
+  - Word: чоловік
+    Translation: person
+  - Word: жена
+    Translation: woman
+  - Word: муж
+    Translation: man
+  - Word: дїтя
+    Translation: child
+  - Word: приятель
+    Translation: friend
+  - Word: сестра
+    Translation: sister
+  - Word: родитель
+    Translation: parent
+  - Word: дом
+    Translation: house
+  - Word: місто
+    Translation: city
+  - Word: дїнь
+    Translation: day
+  - Word: тоже
+    Translation: also
+  - Word: хто
+    Translation: who
+
+Phrases:
+  - Phrase: Я єм мудрый.
+    Translation: I am wise.
+  - Phrase: Тото моя сестра.
+    Translation: This is my sister.
+  - Phrase: Она много мудра
+    Translation: She is very wise
+  - Phrase: Мы много мудры
+    Translation: We are very wise
+  - Phrase: Вы тоже мудры?
+    Translation: Are you also wise?
+  - Phrase: Тото добрый чоловік.
+    Translation: This is a good person.
+  - Phrase: Тота жена є добра.
+    Translation: This woman is good.
+  - Phrase: Тото є мой дом.
+    Translation: This is my house.
+  - Phrase: Тотот є добрый приятель
+    Translation: He is a good friend
+  - Phrase: Вы єсьте добры.
+    Translation: You are good.
+  - Phrase: Тото суть приятелї.
+    Translation: These are friends.
+  - Phrase: Хто ты єси?
+    Translation: Who are you?
+  - Phrase: Тотот муж є милый.
+    Translation: That man is kind.
+  - Phrase: Тото є приємне місто.
+    Translation: This is a pleasant city.
+  - Phrase: Тота жена є высока.
+    Translation: That woman is tall.
+  - Phrase: Тотот дїнь є хладный.
+    Translation: That day is cold.
+  - Phrase: Тамтотот дом є красный.
+    Translation: That house over there is beautiful.
+  - Phrase: Тото моє дїтя.
+    Translation: This is my child.
+  - Phrase: Тамто утро є хладноє.
+    Translation: That morning over there is cold.
+  - Phrase: Тото не моя сестра.
+    Translation: This is not my sister.
+  - Phrase: Тото не твой дом.
+    Translation: This is not your house.
+  - Phrase: Тото добре авто?
+    Translation: Is this a good car?
+  - Phrase: Тото добры приятелї?
+    Translation: Are these good friends?
+  - Phrase: Они суть много милы.
+    Translation: They are very kind.
+  - Phrase: Они суть много милы
+    Translation: They are very kind
+
+Mini-dictionary:
+  Rusin:
+    - авто: undefined
+    - вы: undefined
+    - высока: undefined
+    - добра: undefined
+    - добре: undefined
+    - добры: undefined
+    - добрый: undefined
+    - дом: undefined
+    - дїнь: undefined
+    - дїтя: undefined
+    - жена: undefined
+    - красный: undefined
+    - милы: undefined
+    - милый: undefined
+    - много: undefined
+    - мой: undefined
+    - моя: undefined
+    - моє: undefined
+    - мудра: undefined
+    - мудры: undefined
+    - мудрый: undefined
+    - муж: undefined
+    - мы: undefined
+    - місто: undefined
+    - не: undefined
+    - он: undefined
+    - она: undefined
+    - они: undefined
+    - оно: undefined
+    - приятель: undefined
+    - приятелї: undefined
+    - приємне: undefined
+    - родитель: undefined
+    - сестра: undefined
+    - сме: undefined
+    - суть: undefined
+    - сьте: undefined
+    - тамто: undefined
+    - тамтота: undefined
+    - тамтотот: undefined
+    - твой: undefined
+    - тоже: undefined
+    - тота: undefined
+    - тото: undefined
+    - тотот: undefined
+    - ты: undefined
+    - утро: undefined
+    - хладноє: undefined
+    - хладный: undefined
+    - хто: undefined
+    - чоловік: undefined
+    - я: undefined
+    - є: undefined
+    - єм: undefined
+    - єс: undefined
+    - єси: undefined
+    - єсьте: undefined
+  English:
+    - a: undefined
+    - also: undefined
+    - am: undefined
+    - are: undefined
+    - beautiful: undefined
+    - car: undefined
+    - child: undefined
+    - city: undefined
+    - cold: undefined
+    - day: undefined
+    - friend: undefined
+    - friends: undefined
+    - good: undefined
+    - he: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - it: undefined
+    - kind: undefined
+    - man: undefined
+    - morning: undefined
+    - my: undefined
+    - not: undefined
+    - over: undefined
+    - parent: undefined
+    - person: undefined
+    - pleasant: undefined
+    - she: undefined
+    - sister: undefined
+    - tall: undefined
+    - that: undefined
+    - there: undefined
+    - these: undefined
+    - they: undefined
+    - this: undefined
+    - very: undefined
+    - we: undefined
+    - who: undefined
+    - wise: undefined
+    - woman: undefined
+    - you: undefined
+    - your: undefined

@@ -1,0 +1,186 @@
+Skill:
+  Name: Colours
+  Id: 17
+
+New words:
+  - Word: чёрный
+    Translation: black
+  - Word: белый
+    Translation: white
+  - Word: зелёный
+    Translation: green
+  - Word: синий
+    Translation: blue
+  - Word: красный
+    Translation: red
+  - Word: жёлтый
+    Translation: yellow
+  - Word: серый
+    Translation: grey
+  - Word: каштановый
+    Translation: brown
+  - Word: оранжевый
+    Translation: orange
+  - Word: красный
+    Translation: red
+
+Phrases:
+  - Phrase: Мой пёс есть чёрный.
+    Translation: My dog is black.
+  - Phrase: Мышь есть белая.
+    Translation: The mouse is white.
+  - Phrase: Трава есть зелёная.
+    Translation: The grass is green.
+  - Phrase: Небо есть синее.
+    Translation: The sky is blue.
+  - Phrase: Цветы суть красные.
+    Translation: The flowers are red.
+  - Phrase: Солнце есть жёлтое.
+    Translation: The sun is yellow.
+  - Phrase: Облака суть серые.
+    Translation: The clouds are grey.
+  - Phrase: Он носит каштановое пальто.
+    Translation: He wears a brown coat.
+  - Phrase: Лист есть оранжевый.
+    Translation: The leaf is orange.
+  - Phrase: Это есть Красное море.
+    Translation: This is the Red Sea.
+  - Phrase: Мои очи суть синие.
+    Translation: My eyes are blue.
+  - Phrase: Она имеет зелёную траву.
+    Translation: She has green grass.
+  - Phrase: Я люблю красный цвет.
+    Translation: I like the red color.
+  - Phrase: Его авто есть чёрное.
+    Translation: His car is black.
+  - Phrase: Дева несёт белую сукню.
+    Translation: The girl is wearing a white dress.
+  - Phrase: Есть ли это серый волос?
+    Translation: Is that grey hair?
+  - Phrase: Он имеет оранжевую сумку.
+    Translation: He has an orange bag.
+  - Phrase: Каштановый конь стоит в конюшне.
+    Translation: The brown horse stands in the stable.
+  - Phrase: Жёлтое солнце греет землю.
+    Translation: The yellow sun warms the earth.
+  - Phrase: Красная роза растёт здесь.
+    Translation: A red rose grows here.
+
+Mini-dictionary:
+  Russian:
+    - авто: undefined
+    - белая: undefined
+    - белую: undefined
+    - белый: undefined
+    - в: undefined
+    - волос: undefined
+    - греет: undefined
+    - дева: undefined
+    - его: undefined
+    - есть: undefined
+    - жёлтое: undefined
+    - жёлтый: undefined
+    - здесь: undefined
+    - зелёная: undefined
+    - зелёную: undefined
+    - зелёный: undefined
+    - землю: undefined
+    - имеет: undefined
+    - каштановое: undefined
+    - каштановый: undefined
+    - конь: undefined
+    - конюшне: undefined
+    - красная: undefined
+    - красное: undefined
+    - красные: undefined
+    - красный: undefined
+    - ли: undefined
+    - лист: undefined
+    - люблю: undefined
+    - мои: undefined
+    - мой: undefined
+    - море: undefined
+    - мышь: undefined
+    - небо: undefined
+    - несёт: undefined
+    - носит: undefined
+    - облака: undefined
+    - он: undefined
+    - она: undefined
+    - оранжевую: undefined
+    - оранжевый: undefined
+    - очи: undefined
+    - пальто: undefined
+    - пёс: undefined
+    - растёт: undefined
+    - роза: undefined
+    - серые: undefined
+    - серый: undefined
+    - синее: undefined
+    - синие: undefined
+    - синий: undefined
+    - солнце: undefined
+    - стоит: undefined
+    - сукню: undefined
+    - сумку: undefined
+    - суть: undefined
+    - трава: undefined
+    - траву: undefined
+    - цвет: undefined
+    - цветы: undefined
+    - чёрное: undefined
+    - чёрный: undefined
+    - это: undefined
+    - я: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - are: undefined
+    - bag: undefined
+    - black: undefined
+    - blue: undefined
+    - brown: undefined
+    - car: undefined
+    - clouds: undefined
+    - coat: undefined
+    - color: undefined
+    - dog: undefined
+    - dress: undefined
+    - earth: undefined
+    - eyes: undefined
+    - flowers: undefined
+    - girl: undefined
+    - grass: undefined
+    - green: undefined
+    - grey: undefined
+    - grows: undefined
+    - hair: undefined
+    - has: undefined
+    - he: undefined
+    - here: undefined
+    - his: undefined
+    - horse: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - leaf: undefined
+    - like: undefined
+    - mouse: undefined
+    - my: undefined
+    - orange: undefined
+    - red: undefined
+    - rose: undefined
+    - sea: undefined
+    - she: undefined
+    - sky: undefined
+    - stable: undefined
+    - stands: undefined
+    - sun: undefined
+    - that: undefined
+    - the: undefined
+    - this: undefined
+    - warms: undefined
+    - wearing: undefined
+    - wears: undefined
+    - white: undefined
+    - yellow: undefined

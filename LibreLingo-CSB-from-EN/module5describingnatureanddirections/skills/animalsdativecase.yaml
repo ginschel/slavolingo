@@ -1,0 +1,182 @@
+Skill:
+  Name: Animals (Dative case)
+  Id: 14
+
+New words:
+  - Word: kòt
+    Translation: cat
+  - Word: pies
+    Translation: dog
+  - Word: ptôch
+    Translation: bird
+  - Word: pòmògac
+    Translation: to help
+  - Word: ùkôzac (ùkôże)
+    Translation: to show
+  - Word: kòń
+    Translation: horse
+  - Word: dac (dô)
+    Translation: to give
+  - Word: rëba
+    Translation: fish
+  - Word: żaba
+    Translation: frog
+  - Word: niedwiedź
+    Translation: bear
+  - Word: wëlk
+    Translation: wolf
+  - Word: mësz
+    Translation: mouse
+  - Word: zwierzã
+    Translation: animal
+
+Phrases:
+  - Phrase: Ja dóm kòtowi rëbã.
+    Translation: I give the cat a fish.
+  - Phrase: Òna ùkôże psowi.
+    Translation: She says to the dog.
+  - Phrase: On pòmôgô ptôchòwi.
+    Translation: He helps the bird.
+  - Phrase: Dajemë kòniowi wòdã.
+    Translation: We give the horse water.
+  - Phrase: Òna niese mëszë ser.
+    Translation: She carries cheese to the mouse.
+  - Phrase: On pòmôgô niedwiedźowi.
+    Translation: He helps the bear.
+  - Phrase: Më dajemë żabie chléb.
+    Translation: We give bread to the frog.
+  - Phrase: Òni dają zwierzãcowi rãkã.
+    Translation: They give their hand to the animal.
+  - Phrase: Pòmôgómë wëlkòwi.
+    Translation: We help the wolf.
+  - Phrase: Të mësz mi dac rëbã?
+    Translation: Will you give me a fish?
+  - Phrase: Ja dóm kòtowi miono.
+    Translation: I give the cat a name.
+  - Phrase: On dô mëszë ser.
+    Translation: On da myši syr.
+  - Phrase: Më pòmôgómë ptôchóm.
+    Translation: We help the birds.
+  - Phrase: Dajemë żabie wòdã.
+    Translation: We give the frog water.
+  - Phrase: Òni niosą niedwiedźowi jiedzã.
+    Translation: They are carrying food to the bear.
+  - Phrase: Òna dô psowi dobré miono.
+    Translation: She gives the dog a good name.
+  - Phrase: Wë dace kòniowi.
+    Translation: You will give the horse.
+  - Phrase: Ja dóm rëbie wòdã.
+    Translation: I give the fish water.
+  - Phrase: Òna jemu pòmògła ze zwierzãcã.
+    Translation: She helped him with the animal.
+  - Phrase: Dôsz psowi smaczną kòsc?
+    Translation: Will you give the dog a tasty bone?
+
+Mini-dictionary:
+  Kashubian:
+    - chléb: undefined
+    - dac: undefined
+    - dace: undefined
+    - dajemë: undefined
+    - dają: undefined
+    - dobré: undefined
+    - dóm: undefined
+    - dô: undefined
+    - dôsz: undefined
+    - ja: undefined
+    - jemu: undefined
+    - jiedzã: undefined
+    - kòniowi: undefined
+    - kòsc: undefined
+    - kòt: undefined
+    - kòtowi: undefined
+    - kòń: undefined
+    - mi: undefined
+    - miono: undefined
+    - më: undefined
+    - mësz: undefined
+    - mëszë: undefined
+    - niedwiedź: undefined
+    - niedwiedźowi: undefined
+    - niese: undefined
+    - niosą: undefined
+    - on: undefined
+    - pies: undefined
+    - psowi: undefined
+    - ptôch: undefined
+    - ptôchòwi: undefined
+    - ptôchóm: undefined
+    - pòmògac: undefined
+    - pòmògła: undefined
+    - pòmôgómë: undefined
+    - pòmôgô: undefined
+    - rãkã: undefined
+    - rëba: undefined
+    - rëbie: undefined
+    - rëbã: undefined
+    - ser: undefined
+    - smaczną: undefined
+    - të: undefined
+    - wë: undefined
+    - wëlk: undefined
+    - wëlkòwi: undefined
+    - wòdã: undefined
+    - ze: undefined
+    - zwierzã: undefined
+    - zwierzãcowi: undefined
+    - zwierzãcã: undefined
+    - òna: undefined
+    - òni: undefined
+    - ùkôzac: undefined
+    - ùkôże: undefined
+    - żaba: undefined
+    - żabie: undefined
+  English:
+    - a: undefined
+    - animal: undefined
+    - are: undefined
+    - bear: undefined
+    - bird: undefined
+    - birds: undefined
+    - bone: undefined
+    - bread: undefined
+    - carries: undefined
+    - carrying: undefined
+    - cat: undefined
+    - cheese: undefined
+    - da: undefined
+    - dog: undefined
+    - fish: undefined
+    - food: undefined
+    - frog: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - hand: undefined
+    - he: undefined
+    - help: undefined
+    - helped: undefined
+    - helps: undefined
+    - him: undefined
+    - horse: undefined
+    - i: undefined
+    - me: undefined
+    - mouse: undefined
+    - myši: undefined
+    - name: undefined
+    - on: undefined
+    - says: undefined
+    - she: undefined
+    - show: undefined
+    - syr: undefined
+    - tasty: undefined
+    - the: undefined
+    - their: undefined
+    - they: undefined
+    - to: undefined
+    - water: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined
+    - wolf: undefined
+    - you: undefined

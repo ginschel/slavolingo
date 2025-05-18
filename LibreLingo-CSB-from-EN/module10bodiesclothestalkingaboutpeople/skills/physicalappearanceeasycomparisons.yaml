@@ -1,0 +1,249 @@
+Skill:
+  Name: Physical Appearance (Easy comparisons)
+  Id: 38
+
+New words:
+  - Word: wësoki
+    Translation: tall
+  - Word: niszczi
+    Translation: short
+  - Word: grëbi
+    Translation: fat
+  - Word: chùdi
+    Translation: thin
+  - Word: môłi
+    Translation: small
+  - Word: snôżi
+    Translation: beautiful
+  - Word: brzëtczi
+    Translation: ugly
+  - Word: stôri
+    Translation: old
+  - Word: młodi
+    Translation: young
+  - Word: włoscë
+    Translation: hair
+  - Word: òczë
+    Translation: eyes
+  - Word: jakno
+    Translation: than
+  - Word: wicy
+    Translation: taller/higher
+  - Word: skórka
+    Translation: skin
+  - Word: mnié
+    Translation: less
+  - Word: smiac sã (smieje sã)
+    Translation: to laugh
+  - Word: lësnąc sã
+    Translation: to shine
+  - Word: gwiôzda
+    Translation: star
+  - Word: swietłi
+    Translation: light
+  - Word: cëmni
+    Translation: dark
+
+Phrases:
+  - Phrase: On je wicy wësoki i sëlni jakno on.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Òna je niszkô i chùdô jakno on.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Grëbi chłop jidze pò ùlicë.
+    Translation: The fat man is walking down the street.
+  - Phrase: Chùdi mô mnié całówi masë jakno grëbi.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: To je wicy snôżi człowiek jakno ten.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Stôri lëdze są wicy mądri jakno më.
+    Translation: Old people are wiser than us.
+  - Phrase: Młodô mô wiele energie.
+    Translation: The young one has a lot of energy.
+  - Phrase: Jegò włoscë są plëwé.
+    Translation: His hair is blonde.
+  - Phrase: Òczë są wicy zielené jakno ù jegò.
+    Translation: Her eyes are greener than his.
+  - Phrase: Jegò skórka je biôłô.
+    Translation: His skin is white.
+  - Phrase: On mô długé włosë.
+    Translation: He has long hair.
+  - Phrase: Òna mô zielené òczë.
+    Translation: She has green eyes.
+  - Phrase: Skórka je gładkô.
+    Translation: Her skin is smooth.
+  - Phrase: Stôrô białka nosy czapkã.
+    Translation: The old woman wears a hat.
+  - Phrase: Młodë lëdze czãsto sportują.
+    Translation: Young people often play sports.
+  - Phrase: Grëbi chłop smieje sã wicy jakno ten brzëtczi chłop.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Niszkô dzëwczã jidze do dodomù.
+    Translation: The short girl is going home.
+  - Phrase: Snôżé òczë lësną jakno gwiôzdë na niebie.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Chùdi nosy wicy wiôlgą kòszëlã jakno ja.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Jej włoscë są swietłé i długé.
+    Translation: Her hair is light and long.
+  - Phrase: A jegò snôżé włoscë są cëmné jakno noc.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Kashubian:
+    - a: undefined
+    - białka: undefined
+    - biôłô: undefined
+    - brzëtczi: undefined
+    - całówi: undefined
+    - chùdi: undefined
+    - chùdô: undefined
+    - chłop: undefined
+    - czapkã: undefined
+    - czãsto: undefined
+    - człowiek: undefined
+    - cëmni: undefined
+    - cëmné: undefined
+    - do: undefined
+    - dodomù: undefined
+    - dzëwczã: undefined
+    - długé: undefined
+    - energie: undefined
+    - grëbi: undefined
+    - gwiôzda: undefined
+    - gwiôzdë: undefined
+    - gładkô: undefined
+    - i: undefined
+    - ja: undefined
+    - jakno: undefined
+    - je: undefined
+    - jegò: undefined
+    - jej: undefined
+    - jidze: undefined
+    - kòszëlã: undefined
+    - lëdze: undefined
+    - lësną: undefined
+    - lësnąc: undefined
+    - masë: undefined
+    - mnié: undefined
+    - më: undefined
+    - mô: undefined
+    - môłi: undefined
+    - mądri: undefined
+    - młodi: undefined
+    - młodë: undefined
+    - młodô: undefined
+    - na: undefined
+    - niebie: undefined
+    - niszczi: undefined
+    - niszkô: undefined
+    - noc: undefined
+    - nosy: undefined
+    - on: undefined
+    - plëwé: undefined
+    - pò: undefined
+    - skórka: undefined
+    - smiac: undefined
+    - smieje: undefined
+    - snôżi: undefined
+    - snôżé: undefined
+    - sportują: undefined
+    - stôri: undefined
+    - stôrô: undefined
+    - swietłi: undefined
+    - swietłé: undefined
+    - sã: undefined
+    - sëlni: undefined
+    - są: undefined
+    - ten: undefined
+    - to: undefined
+    - wicy: undefined
+    - wiele: undefined
+    - wiôlgą: undefined
+    - wësoki: undefined
+    - włoscë: undefined
+    - włosë: undefined
+    - zielené: undefined
+    - òczë: undefined
+    - òna: undefined
+    - ù: undefined
+    - ùlicë: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - as: undefined
+    - beautiful: undefined
+    - blonde: undefined
+    - body: undefined
+    - dark: undefined
+    - do: undefined
+    - down: undefined
+    - energy: undefined
+    - eyes: undefined
+    - fat: undefined
+    - girl: undefined
+    - going: undefined
+    - green: undefined
+    - greener: undefined
+    - hair: undefined
+    - has: undefined
+    - hat: undefined
+    - he: undefined
+    - her: undefined
+    - him: undefined
+    - his: undefined
+    - home: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - larger: undefined
+    - laugh: undefined
+    - laughs: undefined
+    - less: undefined
+    - light: undefined
+    - like: undefined
+    - long: undefined
+    - lot: undefined
+    - louder: undefined
+    - man: undefined
+    - mass: undefined
+    - more: undefined
+    - night: undefined
+    - of: undefined
+    - often: undefined
+    - old: undefined
+    - one: undefined
+    - people: undefined
+    - person: undefined
+    - play: undefined
+    - she: undefined
+    - shine: undefined
+    - shirt: undefined
+    - short: undefined
+    - shorter: undefined
+    - skin: undefined
+    - sky: undefined
+    - small: undefined
+    - smooth: undefined
+    - sports: undefined
+    - star: undefined
+    - stars: undefined
+    - street: undefined
+    - stronger: undefined
+    - tall: undefined
+    - taller: undefined
+    - taller/higher: undefined
+    - than: undefined
+    - that: undefined
+    - the: undefined
+    - thin: undefined
+    - thinner: undefined
+    - to: undefined
+    - ugly: undefined
+    - us: undefined
+    - walking: undefined
+    - wears: undefined
+    - white: undefined
+    - wiser: undefined
+    - woman: undefined
+    - young: undefined

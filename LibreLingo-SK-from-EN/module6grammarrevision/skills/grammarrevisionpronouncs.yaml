@@ -1,0 +1,199 @@
+Skill:
+  Name: Grammar revision pronouncs
+  Id: 20
+
+New words:
+  - Word: "vedieť"
+    Translation: to know
+  - Word: "vedieť (vie)"
+    Translation: to know
+  - Word: "sen"
+    Translation: dream
+  - Word: "vec"
+    Translation: thing
+
+Phrases:
+  - Phrase: To neviem.
+    Translation: I don't know that.
+  - Phrase: O tom už dlho vie.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Koho ty vidíš?.
+    Translation: Who do you see?.
+  - Phrase: Tým, ktorí ležia spať, pokojný sen.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: O tej veci ja nič neviem.
+    Translation: I know nothing about that thing.
+  - Phrase: Hovorím s tebou.
+    Translation: I am talking with you.
+  - Phrase: Ja vidím vás.
+    Translation: I see you.
+  - Phrase: On rád byť sám so sebou.
+    Translation: He likes to be alone with himself.
+  - Phrase: Daj mne vodu.
+    Translation: Give me water.
+  - Phrase: S nami vždy všetko veselé.
+    Translation: With us everything is always cheerful.
+  - Phrase: Mňa nevidíš.
+    Translation: You don't see me.
+  - Phrase: Komu dáš dar?
+    Translation: Who do you give a gift to?
+  - Phrase: O mne hovoríš?
+    Translation: Are you talking about me?
+  - Phrase: Nie, ja nehovorím o tebe.
+    Translation: No, I don't talt about you.
+  - Phrase: O čom ty hovoríš?
+    Translation: What are you talking about?
+  - Phrase: Tie ženy sú krásne.
+    Translation: These women are beautiful.
+  - Phrase: Tých priateľov nemáš.
+    Translation: You do not have those friends.
+  - Phrase: On dáva sebe pokoj.
+    Translation: He stops troubling others.
+  - Phrase: Čo tu niet v dome?
+    Translation: What isn't at this house here?
+  - Phrase: Tomuto psovi ty dávaš kosti.
+    Translation: You give to this dog bones.
+  - Phrase: To je vaša káva alebo jej?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Slovak:
+    - alebo: undefined
+    - byť: undefined
+    - daj: undefined
+    - dar: undefined
+    - dlho: undefined
+    - dome: undefined
+    - dáva: undefined
+    - dávaš: undefined
+    - dáš: undefined
+    - hovorím: undefined
+    - hovoríš: undefined
+    - ja: undefined
+    - je: undefined
+    - jej: undefined
+    - koho: undefined
+    - komu: undefined
+    - kosti: undefined
+    - krásne: undefined
+    - ktorí: undefined
+    - káva: undefined
+    - ležia: undefined
+    - mne: undefined
+    - mňa: undefined
+    - nami: undefined
+    - nehovorím: undefined
+    - nemáš: undefined
+    - nevidíš: undefined
+    - neviem: undefined
+    - nie: undefined
+    - niet: undefined
+    - nič: undefined
+    - o: undefined
+    - on: undefined
+    - pokoj: undefined
+    - pokojný: undefined
+    - priateľov: undefined
+    - psovi: undefined
+    - rád: undefined
+    - s: undefined
+    - sebe: undefined
+    - sebou: undefined
+    - sen: undefined
+    - so: undefined
+    - spať: undefined
+    - sám: undefined
+    - sú: undefined
+    - tebe: undefined
+    - tebou: undefined
+    - tej: undefined
+    - tie: undefined
+    - to: undefined
+    - tom: undefined
+    - tomuto: undefined
+    - tu: undefined
+    - ty: undefined
+    - tých: undefined
+    - tým: undefined
+    - už: undefined
+    - v: undefined
+    - vaša: undefined
+    - vec: undefined
+    - veci: undefined
+    - vedieť: undefined
+    - veselé: undefined
+    - vidím: undefined
+    - vidíš: undefined
+    - vie: undefined
+    - vodu: undefined
+    - vás: undefined
+    - všetko: undefined
+    - vždy: undefined
+    - čo: undefined
+    - čom: undefined
+    - ženy: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - alone: undefined
+    - always: undefined
+    - am: undefined
+    - are: undefined
+    - at: undefined
+    - be: undefined
+    - beautiful: undefined
+    - bones: undefined
+    - cheerful: undefined
+    - coffee: undefined
+    - do: undefined
+    - dog: undefined
+    - don't: undefined
+    - dream: undefined
+    - everything: undefined
+    - for: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - going: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - himself: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - isn't: undefined
+    - it: undefined
+    - know: undefined
+    - known: undefined
+    - likes: undefined
+    - long: undefined
+    - me: undefined
+    - no: undefined
+    - not: undefined
+    - nothing: undefined
+    - or: undefined
+    - others: undefined
+    - peaceful: undefined
+    - see: undefined
+    - sleep: undefined
+    - stops: undefined
+    - talking: undefined
+    - talt: undefined
+    - that: undefined
+    - these: undefined
+    - thing: undefined
+    - this: undefined
+    - those: undefined
+    - time: undefined
+    - to: undefined
+    - troubling: undefined
+    - us: undefined
+    - water: undefined
+    - what: undefined
+    - who: undefined
+    - with: undefined
+    - women: undefined
+    - you: undefined
+    - your: undefined

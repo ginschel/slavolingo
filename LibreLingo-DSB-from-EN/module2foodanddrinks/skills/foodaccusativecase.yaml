@@ -1,0 +1,198 @@
+Skill:
+  Name: Food (Accusative case)
+  Id: 6
+
+New words:
+  - Word: klěb
+    Translation: bread
+  - Word: wariś
+    Translation: to prepare
+  - Word: njasć
+    Translation: to carry
+  - Word: jěsć (jě)
+    Translation: to eat
+  - Word: masło
+    Translation: butter
+  - Word: mloko
+    Translation: milk
+  - Word: měso
+    Translation: meat
+  - Word: jajco
+    Translation: egg
+  - Word: zjutšnu
+    Translation: breakfast
+  - Word: wobjed
+    Translation: lunch
+  - Word: kupiś
+    Translation: to buy
+  - Word: wjacorju
+    Translation: dinner
+  - Word: blido
+    Translation: dish
+  - Word: knigła
+    Translation: book
+  - Word: słodki
+    Translation: sweet
+  - Word: jědł
+    Translation: food
+
+Phrases:
+  - Phrase: Ja jěm klěb.
+    Translation: I am eating bread.
+  - Phrase: Wóna jě měso.
+    Translation: She is eating meat.
+  - Phrase: Wón lubi mloko.
+    Translation: He likes milk.
+  - Phrase: Ja wiźim Wlada z jědłom
+    Translation: I see Vlad with food
+  - Phrase: Ty jěš jajco?
+    Translation: Are you eating an egg?
+  - Phrase: My jědmy wjacorju.
+    Translation: We are eating dinner.
+  - Phrase: Wóni maju zjutšnu.
+    Translation: They are having breakfast.
+  - Phrase: Ja kupujom masło.
+    Translation: I will buy butter.
+  - Phrase: Wón wari wobjed.
+    Translation: He is preparing lunch.
+  - Phrase: Wóna njaso blido.
+    Translation: She is carrying a dish.
+  - Phrase: Wóni kupuju masło a klěb.
+    Translation: They are buying butter and bread.
+  - Phrase: Wón pijo mloko a jě měso.
+    Translation: He is drinking milk and eating meat.
+  - Phrase: Cytaš ty knigłu a jěš zjutšnu?
+    Translation: Are you reading a book and eating breakfast?
+  - Phrase: Ja wiźim wobjed na blidźe.
+    Translation: I see lunch on the table.
+  - Phrase: Ty maš masło?
+    Translation: Do you have butter?
+  - Phrase: My warimy wjacorju kuždy źeń.
+    Translation: We prepare dinner every day.
+  - Phrase: Ja wěm, až ty lubiš jajca.
+    Translation: I know that you like eggs.
+  - Phrase: Wón jě słodke jědł.
+    Translation: He eats sweet food.
+  - Phrase: Wóna lubi wariś wjacorju.
+    Translation: She likes to prepare dinner.
+  - Phrase: My wiźimy twóju picu na blidźe.
+    Translation: We see your pizza on the table.
+  - Phrase: Wóni wědźa, až ja zawšu jěm klěb z masłom.
+    Translation: They know that I always eat bread with butter.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: undefined
+    - až: undefined
+    - blido: undefined
+    - blidźe: undefined
+    - cytaš: undefined
+    - ja: undefined
+    - jajca: undefined
+    - jajco: undefined
+    - jě: undefined
+    - jědmy: undefined
+    - jědł: undefined
+    - jědłom: undefined
+    - jěm: undefined
+    - jěsć: undefined
+    - jěš: undefined
+    - klěb: undefined
+    - knigła: undefined
+    - knigłu: undefined
+    - kupiś: undefined
+    - kupujom: undefined
+    - kupuju: undefined
+    - kuždy: undefined
+    - lubi: undefined
+    - lubiš: undefined
+    - maju: undefined
+    - masło: undefined
+    - masłom: undefined
+    - maš: undefined
+    - mloko: undefined
+    - my: undefined
+    - měso: undefined
+    - na: undefined
+    - njaso: undefined
+    - njasć: undefined
+    - picu: undefined
+    - pijo: undefined
+    - słodke: undefined
+    - słodki: undefined
+    - twóju: undefined
+    - ty: undefined
+    - wari: undefined
+    - warimy: undefined
+    - wariś: undefined
+    - wiźim: undefined
+    - wiźimy: undefined
+    - wjacorju: undefined
+    - wlada: undefined
+    - wobjed: undefined
+    - wón: undefined
+    - wóna: undefined
+    - wóni: undefined
+    - wědźa: undefined
+    - wěm: undefined
+    - z: undefined
+    - zawšu: undefined
+    - zjutšnu: undefined
+    - źeń: undefined
+  English:
+    - a: undefined
+    - always: undefined
+    - am: undefined
+    - an: undefined
+    - and: undefined
+    - are: undefined
+    - book: undefined
+    - bread: undefined
+    - breakfast: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - carry: undefined
+    - carrying: undefined
+    - day: undefined
+    - dinner: undefined
+    - dish: undefined
+    - do: undefined
+    - drinking: undefined
+    - eat: undefined
+    - eating: undefined
+    - eats: undefined
+    - egg: undefined
+    - eggs: undefined
+    - every: undefined
+    - food: undefined
+    - have: undefined
+    - having: undefined
+    - he: undefined
+    - i: undefined
+    - is: undefined
+    - know: undefined
+    - like: undefined
+    - likes: undefined
+    - lunch: undefined
+    - meat: undefined
+    - milk: undefined
+    - on: undefined
+    - pizza: undefined
+    - prepare: undefined
+    - preparing: undefined
+    - reading: undefined
+    - see: undefined
+    - she: undefined
+    - sweet: undefined
+    - table: undefined
+    - that: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - vlad: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined
+    - you: undefined
+    - your: undefined

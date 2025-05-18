@@ -1,0 +1,230 @@
+Skill:
+  Name: Body
+  Id: 35
+
+New words:
+  - Word: рука
+    Translation: hand
+  - Word: нога
+    Translation: leg
+  - Word: голова
+    Translation: head
+  - Word: око
+    Translation: eye
+  - Word: мозок
+    Translation: brain
+  - Word: стопа
+    Translation: foot
+  - Word: ухо
+    Translation: ear
+  - Word: ніс
+    Translation: nose
+  - Word: лице
+    Translation: face
+  - Word: сердце
+    Translation: heart
+  - Word: перст
+    Translation: finger
+  - Word: жолудок
+    Translation: stomach
+  - Word: тїло
+    Translation: body
+  - Word: боліти (болить)
+    Translation: to hurt
+  - Word: волося
+    Translation: hair
+  - Word: подобный
+    Translation: similar
+  - Word: слухати (слухає)
+    Translation: to hear
+
+Phrases:
+  - Phrase: Моя рука болить.
+    Translation: My hand hurts.
+  - Phrase: Она має довгу ногу.
+    Translation: She has a long leg.
+  - Phrase: Голова є на тїлї.
+    Translation: The head is on the body.
+  - Phrase: Он має мокры красны очі.
+    Translation: He has beautiful blue eyes.
+  - Phrase: Єї ухо не слухає добре.
+    Translation: Her ear does not hear well.
+  - Phrase: Ніс є червеный од морозу.
+    Translation: The nose is red from the cold.
+  - Phrase: Лице є подобне.
+    Translation: The face is similar.
+  - Phrase: Єї сердце бє барже.
+    Translation: Her heart beats fast.
+  - Phrase: Жолудок тебе болить.
+    Translation: My stomach hurts.
+  - Phrase: Тїло у мене здоровоє.
+    Translation: My body is healthy.
+  - Phrase: Я маю дві рукы і дві ногы і тоже дві стопы.
+    Translation: I have two hands and two legs, and also two feet.
+  - Phrase: Очі позерають в кнїгу.
+    Translation: The eyes are looking at the book.
+  - Phrase: Ухо слухає музику.
+    Translation: The ear hears music.
+  - Phrase: Єго мозок є барже.
+    Translation: His brain is quick.
+  - Phrase: Єї лице є красне.
+    Translation: Her face is beautiful.
+  - Phrase: Серце є сімвол любви.
+    Translation: The heart is a symbol of love.
+  - Phrase: Мой жолудок є просто повный по вечерї.
+    Translation: My stomach is just full after dinner.
+  - Phrase: Тїлу треба одпочінок.
+    Translation: The body needs rest.
+  - Phrase: Он має каштановы волося на голові.
+    Translation: He has chestnut-colored hair on his head.
+  - Phrase: Она слухає тебе лиш єдным ухом.
+    Translation: She hears you only with one ear.
+
+Mini-dictionary:
+  Rusin:
+    - барже: undefined
+    - болить: undefined
+    - боліти: undefined
+    - бє: undefined
+    - в: undefined
+    - вечерї: undefined
+    - волося: undefined
+    - голова: undefined
+    - голові: undefined
+    - дві: undefined
+    - добре: undefined
+    - довгу: undefined
+    - жолудок: undefined
+    - здоровоє: undefined
+    - каштановы: undefined
+    - кнїгу: undefined
+    - красне: undefined
+    - красны: undefined
+    - лице: undefined
+    - лиш: undefined
+    - любви: undefined
+    - маю: undefined
+    - має: undefined
+    - мене: undefined
+    - мозок: undefined
+    - мой: undefined
+    - мокры: undefined
+    - морозу: undefined
+    - моя: undefined
+    - музику: undefined
+    - на: undefined
+    - не: undefined
+    - нога: undefined
+    - ногу: undefined
+    - ногы: undefined
+    - ніс: undefined
+    - од: undefined
+    - одпочінок: undefined
+    - око: undefined
+    - он: undefined
+    - она: undefined
+    - очі: undefined
+    - перст: undefined
+    - по: undefined
+    - повный: undefined
+    - подобне: undefined
+    - подобный: undefined
+    - позерають: undefined
+    - просто: undefined
+    - рука: undefined
+    - рукы: undefined
+    - сердце: undefined
+    - серце: undefined
+    - слухати: undefined
+    - слухає: undefined
+    - стопа: undefined
+    - стопы: undefined
+    - сімвол: undefined
+    - тебе: undefined
+    - тоже: undefined
+    - треба: undefined
+    - тїло: undefined
+    - тїлу: undefined
+    - тїлї: undefined
+    - у: undefined
+    - ухо: undefined
+    - ухом: undefined
+    - червеный: undefined
+    - я: undefined
+    - є: undefined
+    - єго: undefined
+    - єдным: undefined
+    - єї: undefined
+    - і: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beats: undefined
+    - beautiful: undefined
+    - blue: undefined
+    - body: undefined
+    - book: undefined
+    - brain: undefined
+    - chestnut-colored: undefined
+    - cold: undefined
+    - dinner: undefined
+    - does: undefined
+    - ear: undefined
+    - eye: undefined
+    - eyes: undefined
+    - face: undefined
+    - fast: undefined
+    - feet: undefined
+    - finger: undefined
+    - foot: undefined
+    - from: undefined
+    - full: undefined
+    - hair: undefined
+    - hand: undefined
+    - hands: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - head: undefined
+    - healthy: undefined
+    - hear: undefined
+    - hears: undefined
+    - heart: undefined
+    - her: undefined
+    - his: undefined
+    - hurt: undefined
+    - hurts: undefined
+    - i: undefined
+    - is: undefined
+    - just: undefined
+    - leg: undefined
+    - legs: undefined
+    - long: undefined
+    - looking: undefined
+    - love: undefined
+    - music: undefined
+    - my: undefined
+    - needs: undefined
+    - nose: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - one: undefined
+    - only: undefined
+    - quick: undefined
+    - red: undefined
+    - rest: undefined
+    - she: undefined
+    - similar: undefined
+    - stomach: undefined
+    - symbol: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - well: undefined
+    - with: undefined
+    - you: undefined

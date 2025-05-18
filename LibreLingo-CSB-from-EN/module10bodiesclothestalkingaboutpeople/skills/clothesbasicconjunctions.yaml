@@ -1,0 +1,245 @@
+Skill:
+  Name: Clothes  (basic conjunctions)
+  Id: 34
+
+New words:
+  - Word: kòszëla
+    Translation: shirt
+  - Word: nosëc
+    Translation: to wear
+  - Word: bùksë
+    Translation: trousers
+  - Word: tričkò
+    Translation: t-shirt
+  - Word: szal
+    Translation: scarf
+  - Word: czapka
+    Translation: hat
+  - Word: płôszcz
+    Translation: coat
+  - Word: rãkawica
+    Translation: glove
+  - Word: slipë
+    Translation: underwear
+  - Word: skarpétka
+    Translation: sock
+  - Word: òbùwié
+    Translation: footwear
+  - Word: òdzenié
+    Translation: clothes
+  - Word: brzëtczi
+    Translation: ugly
+  - Word: òblékac
+    Translation: to dress
+  - Word: piżama
+    Translation: pajamas
+
+Phrases:
+  - Phrase: On nosy mòdrą kòszëlã.
+    Translation: He wears a blue shirt.
+  - Phrase: Òna mô czôrné bùksë, a on biôłé.
+    Translation: She has black trousers, and he has white.
+  - Phrase: Òbùwié i płôszcz leżą przë dzwierzach.
+    Translation: Shoes and the coat are lying by the door.
+  - Phrase: Szal je cãżczi i ciepłi.
+    Translation: The scarf is heavy and warm.
+  - Phrase: W zëmie nosã wszëtkã czapkã, a w lece nie.
+    Translation: In winter, I always wear a hat, but not in summer.
+  - Phrase: Slipë są snôżé czë brzëtczi?
+    Translation: Are the shorts beautiful or ugly?
+  - Phrase: Nosã rãkawice w zëmie.
+    Translation: We wear gloves in winter.
+  - Phrase: Tamta piżama je zielenô.
+    Translation: That pajama is green.
+  - Phrase: Nowé slipë są wëgodné.
+    Translation: New shorts are comfortable.
+  - Phrase: Nowé òdzenié je drodżé.
+    Translation: New clothes are expensive.
+  - Phrase: Kòszëla je w szôfie.
+    Translation: The shirt is in the drawer.
+  - Phrase: Czapka wisy na scanie.
+    Translation: The hat hangs on the wall.
+  - Phrase: On òblékôł sã i nosëł wczora ò drëdżi gòdzënie zielené tričkò czë kòszëlã. Ja nie jem wëstôrczôjąco jistô dzysô.
+    Translation: He wore and put on a green tennis shoe or shirt yesterday at two AM. I'm not sure right now.
+  - Phrase: Të chòcesz szal czë kòszëlã.
+    Translation: You want a scarf or a shirt.
+  - Phrase: Brzëtczi rãkawice leżą na stole, a snôżi płôszcz nosã.
+    Translation: The ugly gloves are lying on the table, and I wear the red coat.
+  - Phrase: Òna kùpiła ciepłé òbùwié.
+    Translation: She bought warm shoes.
+  - Phrase: On òblékô nową kòszëlã.
+    Translation: He is putting on a new shirt.
+  - Phrase: Mòje skarpétczi są krótké.
+    Translation: My socks are short.
+  - Phrase: W zëmie bãdã pòtrzebòwac czapczi i rãkawic.
+    Translation: In winter I will need a hat and gloves.
+  - Phrase: Òdzenié je czëstô i blós ju biôłô.
+    Translation: The clothes are clean and only the underwear is white.
+
+Mini-dictionary:
+  Kashubian:
+    - a: undefined
+    - biôłé: undefined
+    - biôłô: undefined
+    - blós: undefined
+    - brzëtczi: undefined
+    - bãdã: undefined
+    - bùksë: undefined
+    - chòcesz: undefined
+    - ciepłi: undefined
+    - ciepłé: undefined
+    - czapczi: undefined
+    - czapka: undefined
+    - czapkã: undefined
+    - czë: undefined
+    - czëstô: undefined
+    - czôrné: undefined
+    - cãżczi: undefined
+    - drodżé: undefined
+    - drëdżi: undefined
+    - dzwierzach: undefined
+    - dzysô: undefined
+    - gòdzënie: undefined
+    - i: undefined
+    - ja: undefined
+    - je: undefined
+    - jem: undefined
+    - jistô: undefined
+    - ju: undefined
+    - krótké: undefined
+    - kòszëla: undefined
+    - kòszëlã: undefined
+    - kùpiła: undefined
+    - lece: undefined
+    - leżą: undefined
+    - mòdrą: undefined
+    - mòje: undefined
+    - mô: undefined
+    - na: undefined
+    - nie: undefined
+    - nosy: undefined
+    - nosã: undefined
+    - nosëc: undefined
+    - nosëł: undefined
+    - nowé: undefined
+    - nową: undefined
+    - on: undefined
+    - piżama: undefined
+    - przë: undefined
+    - pòtrzebòwac: undefined
+    - płôszcz: undefined
+    - rãkawic: undefined
+    - rãkawica: undefined
+    - rãkawice: undefined
+    - scanie: undefined
+    - skarpétczi: undefined
+    - skarpétka: undefined
+    - slipë: undefined
+    - snôżi: undefined
+    - snôżé: undefined
+    - stole: undefined
+    - szal: undefined
+    - szôfie: undefined
+    - sã: undefined
+    - są: undefined
+    - tamta: undefined
+    - tričkò: undefined
+    - të: undefined
+    - w: undefined
+    - wczora: undefined
+    - wisy: undefined
+    - wszëtkã: undefined
+    - wëgodné: undefined
+    - wëstôrczôjąco: undefined
+    - zielené: undefined
+    - zielenô: undefined
+    - zëmie: undefined
+    - ò: undefined
+    - òblékac: undefined
+    - òblékô: undefined
+    - òblékôł: undefined
+    - òbùwié: undefined
+    - òdzenié: undefined
+    - òna: undefined
+  English:
+    - a: undefined
+    - always: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beautiful: undefined
+    - black: undefined
+    - blue: undefined
+    - bought: undefined
+    - but: undefined
+    - by: undefined
+    - clean: undefined
+    - clothes: undefined
+    - coat: undefined
+    - comfortable: undefined
+    - door: undefined
+    - drawer: undefined
+    - dress: undefined
+    - expensive: undefined
+    - footwear: undefined
+    - glove: undefined
+    - gloves: undefined
+    - green: undefined
+    - hangs: undefined
+    - has: undefined
+    - hat: undefined
+    - he: undefined
+    - heavy: undefined
+    - i: undefined
+    - i'm: undefined
+    - in: undefined
+    - is: undefined
+    - lying: undefined
+    - my: undefined
+    - need: undefined
+    - new: undefined
+    - not: undefined
+    - now: undefined
+    - on: undefined
+    - only: undefined
+    - or: undefined
+    - pajama: undefined
+    - pajamas: undefined
+    - put: undefined
+    - putting: undefined
+    - red: undefined
+    - right: undefined
+    - scarf: undefined
+    - she: undefined
+    - shirt: undefined
+    - shoe: undefined
+    - shoes: undefined
+    - short: undefined
+    - shorts: undefined
+    - sock: undefined
+    - socks: undefined
+    - summer: undefined
+    - sure: undefined
+    - t-shirt: undefined
+    - table: undefined
+    - tennis: undefined
+    - that: undefined
+    - the: undefined
+    - to: undefined
+    - trousers: undefined
+    - two: undefined
+    - ugly: undefined
+    - underwear: undefined
+    - wall: undefined
+    - want: undefined
+    - warm: undefined
+    - we: undefined
+    - wear: undefined
+    - wears: undefined
+    - white: undefined
+    - will: undefined
+    - winter: undefined
+    - wore: undefined
+    - yesterday: undefined
+    - you: undefined

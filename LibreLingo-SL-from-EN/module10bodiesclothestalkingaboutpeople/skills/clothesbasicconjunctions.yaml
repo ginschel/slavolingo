@@ -1,0 +1,246 @@
+Skill:
+  Name: Clothes  (basic conjunctions)
+  Id: 34
+
+New words:
+  - Word: srajca
+    Translation: shirt
+  - Word: nositi
+    Translation: to wear
+  - Word: hlače
+    Translation: trousers
+  - Word: majica
+    Translation: t-shirt
+  - Word: šal
+    Translation: scarf
+  - Word: kapa
+    Translation: hat
+  - Word: plašč
+    Translation: coat
+  - Word: rokavica
+    Translation: glove
+  - Word: spodnjice
+    Translation: underwear
+  - Word: nogavica
+    Translation: sock
+  - Word: obutev
+    Translation: footwear
+  - Word: oblačila
+    Translation: clothes
+  - Word: grd
+    Translation: ugly
+  - Word: oblačiti se
+    Translation: to dress
+  - Word: pižama
+    Translation: pajamas
+
+Phrases:
+  - Phrase: On nosi modro srajco.
+    Translation: He wears a blue shirt.
+  - Phrase: Ona ima črne hlače, a on bele.
+    Translation: She has black trousers, and he has white.
+  - Phrase: Obutev in plašč ležita pri vratih.
+    Translation: Shoes and the coat are lying by the door.
+  - Phrase: Šal je težek in topel.
+    Translation: The scarf is heavy and warm.
+  - Phrase: Pozimi nosim vedno kapo, a poleti ne.
+    Translation: In winter, I always wear a hat, but not in summer.
+  - Phrase: Spodnjice so lepe ali grde?
+    Translation: Are the shorts beautiful or ugly?
+  - Phrase: Nosim rokavice pozimi.
+    Translation: We wear gloves in winter.
+  - Phrase: Tista pižama je zelena.
+    Translation: That pajama is green.
+  - Phrase: Nove spodnjice so udobne.
+    Translation: New shorts are comfortable.
+  - Phrase: Nova oblačila so draga.
+    Translation: New clothes are expensive.
+  - Phrase: Srajca je v omari.
+    Translation: The shirt is in the drawer.
+  - Phrase: Kapa visi na steni.
+    Translation: The hat hangs on the wall.
+  - Phrase: On se je oblačil in nosil včeraj ob drugi uri zeleno majico ali srajco. Nisem prepričan zdaj.
+    Translation: He wore and put on a green tennis shoe or shirt yesterday at two AM. I'm not sure right now.
+  - Phrase: Ti hočeš šal ali srajco.
+    Translation: You want a scarf or a shirt.
+  - Phrase: Grde rokavice ležijo na mizi, a lep plašč nosim.
+    Translation: The ugly gloves are lying on the table, and I wear the red coat.
+  - Phrase: Ona je kupila toplo obutev.
+    Translation: She bought warm shoes.
+  - Phrase: On si oblači novo srajco.
+    Translation: He is putting on a new shirt.
+  - Phrase: Moje nogavice so kratke.
+    Translation: My socks are short.
+  - Phrase: Pozimi bom potreboval kapo in rokavice.
+    Translation: In winter I will need a hat and gloves.
+  - Phrase: Oblačila so čista in samo še bela.
+    Translation: The clothes are clean and only the underwear is white.
+
+Mini-dictionary:
+  Slovenian:
+    - a: undefined
+    - ali: undefined
+    - bela: undefined
+    - bele: undefined
+    - bom: undefined
+    - draga: undefined
+    - drugi: undefined
+    - grd: undefined
+    - grde: undefined
+    - hlače: undefined
+    - hočeš: undefined
+    - ima: undefined
+    - in: undefined
+    - je: undefined
+    - kapa: undefined
+    - kapo: undefined
+    - kratke: undefined
+    - kupila: undefined
+    - lep: undefined
+    - lepe: undefined
+    - ležijo: undefined
+    - ležita: undefined
+    - majica: undefined
+    - majico: undefined
+    - mizi: undefined
+    - modro: undefined
+    - moje: undefined
+    - na: undefined
+    - ne: undefined
+    - nisem: undefined
+    - nogavica: undefined
+    - nogavice: undefined
+    - nosi: undefined
+    - nosil: undefined
+    - nosim: undefined
+    - nositi: undefined
+    - nova: undefined
+    - nove: undefined
+    - novo: undefined
+    - ob: undefined
+    - oblači: undefined
+    - oblačil: undefined
+    - oblačila: undefined
+    - oblačiti: undefined
+    - obutev: undefined
+    - omari: undefined
+    - on: undefined
+    - ona: undefined
+    - pižama: undefined
+    - plašč: undefined
+    - poleti: undefined
+    - potreboval: undefined
+    - pozimi: undefined
+    - prepričan: undefined
+    - pri: undefined
+    - rokavica: undefined
+    - rokavice: undefined
+    - samo: undefined
+    - se: undefined
+    - si: undefined
+    - so: undefined
+    - spodnjice: undefined
+    - srajca: undefined
+    - srajco: undefined
+    - steni: undefined
+    - težek: undefined
+    - ti: undefined
+    - tista: undefined
+    - topel: undefined
+    - toplo: undefined
+    - udobne: undefined
+    - uri: undefined
+    - v: undefined
+    - vedno: undefined
+    - visi: undefined
+    - vratih: undefined
+    - včeraj: undefined
+    - zdaj: undefined
+    - zelena: undefined
+    - zeleno: undefined
+    - čista: undefined
+    - črne: undefined
+    - šal: undefined
+    - še: undefined
+  English:
+    - a: undefined
+    - always: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beautiful: undefined
+    - black: undefined
+    - blue: undefined
+    - bought: undefined
+    - but: undefined
+    - by: undefined
+    - clean: undefined
+    - clothes: undefined
+    - coat: undefined
+    - comfortable: undefined
+    - door: undefined
+    - drawer: undefined
+    - dress: undefined
+    - expensive: undefined
+    - footwear: undefined
+    - glove: undefined
+    - gloves: undefined
+    - green: undefined
+    - hangs: undefined
+    - has: undefined
+    - hat: undefined
+    - he: undefined
+    - heavy: undefined
+    - i: undefined
+    - i'm: undefined
+    - in: undefined
+    - is: undefined
+    - lying: undefined
+    - my: undefined
+    - need: undefined
+    - new: undefined
+    - not: undefined
+    - now: undefined
+    - on: undefined
+    - only: undefined
+    - or: undefined
+    - pajama: undefined
+    - pajamas: undefined
+    - put: undefined
+    - putting: undefined
+    - red: undefined
+    - right: undefined
+    - scarf: undefined
+    - she: undefined
+    - shirt: undefined
+    - shoe: undefined
+    - shoes: undefined
+    - short: undefined
+    - shorts: undefined
+    - sock: undefined
+    - socks: undefined
+    - summer: undefined
+    - sure: undefined
+    - t-shirt: undefined
+    - table: undefined
+    - tennis: undefined
+    - that: undefined
+    - the: undefined
+    - to: undefined
+    - trousers: undefined
+    - two: undefined
+    - ugly: undefined
+    - underwear: undefined
+    - wall: undefined
+    - want: undefined
+    - warm: undefined
+    - we: undefined
+    - wear: undefined
+    - wears: undefined
+    - white: undefined
+    - will: undefined
+    - winter: undefined
+    - wore: undefined
+    - yesterday: undefined
+    - you: undefined

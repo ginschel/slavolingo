@@ -1,0 +1,195 @@
+Skill:
+  Name: Grammar revision cases
+  Id: 19
+
+New words:
+  - Word: "rézac (réże)"
+    Translation: to cut
+  - Word: " dar"
+    Translation: gift
+  - Word: " wšeòbwôpòl"
+    Translation: universe
+  - Word: "spòdzérk"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Kòscë tu nie mô.
+    Translation: There is no bone here.
+  - Phrase: Dóm białce.
+    Translation: I give to the woman.
+  - Phrase: Òna je w gardze.
+    Translation: She is in the city.
+  - Phrase: Gôdómë z przëjacelama.
+    Translation: I talk with friends.
+  - Phrase: Miona on nie mô.
+    Translation: He has no name.
+  - Phrase: Të dëszë nie mësz?!
+    Translation: You don't have a soul?!
+  - Phrase: On widzy swòją białkã.
+    Translation: He sees his wife.
+  - Phrase: Bratta tu nie je.
+    Translation: There is no brother here.
+  - Phrase: To mòżna rézac nożã.
+    Translation: This can be cut with a knife.
+  - Phrase: Òna z chłopã gôdô.
+    Translation: She talks with her husband.
+  - Phrase: Òna gôdô ò bratach.
+    Translation: She talks about brothers.
+  - Phrase: Òna dawié dar bratama.
+    Translation: She gives a gift to the brothers.
+  - Phrase: Na pòlu wiele robie.
+    Translation: I work a lot in the field.
+  - Phrase: Je wiele słunzków w wšeòbwôpòlu.
+    Translation: There are many suns in the universe.
+  - Phrase: I téż je wiele gwiôzd.
+    Translation: And there are also many stars.
+  - Phrase: On miłuje gôdac ze swòją białkòj.
+    Translation: He likes to talk with his wife.
+  - Phrase: Ju nie mô bananów w dodomù.
+    Translation: There are no more bananas in the house.
+  - Phrase: W òczach widzymë dëszã twòją.
+    Translation: In the eyes I see your soul.
+  - Phrase: Òczë są spòdzérkã dëszë.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Chłopów tu nie widzymë.
+    Translation: I do not see men here.
+  - Phrase: W gardach òbôczësz wiele lëdzy.
+    Translation: In the cities you will see many people.
+  - Phrase: Spòkòjnô noc!
+    Translation: Good night!
+
+Mini-dictionary:
+  Kashubian:
+    - bananów: undefined
+    - białce: undefined
+    - białkã: undefined
+    - białkòj: undefined
+    - bratach: undefined
+    - bratama: undefined
+    - bratta: undefined
+    - chłopã: undefined
+    - chłopów: undefined
+    - dar: undefined
+    - dawié: undefined
+    - dodomù: undefined
+    - dëszã: undefined
+    - dëszë: undefined
+    - dóm: undefined
+    - gardach: undefined
+    - gardze: undefined
+    - gwiôzd: undefined
+    - gôdac: undefined
+    - gôdómë: undefined
+    - gôdô: undefined
+    - i: undefined
+    - je: undefined
+    - ju: undefined
+    - kòscë: undefined
+    - lëdzy: undefined
+    - miona: undefined
+    - miłuje: undefined
+    - mësz: undefined
+    - mòżna: undefined
+    - mô: undefined
+    - na: undefined
+    - nie: undefined
+    - noc: undefined
+    - nożã: undefined
+    - on: undefined
+    - przëjacelama: undefined
+    - pòlu: undefined
+    - robie: undefined
+    - rézac: undefined
+    - réże: undefined
+    - spòdzérk: undefined
+    - spòdzérkã: undefined
+    - spòkòjnô: undefined
+    - swòją: undefined
+    - są: undefined
+    - słunzków: undefined
+    - to: undefined
+    - tu: undefined
+    - twòją: undefined
+    - téż: undefined
+    - të: undefined
+    - w: undefined
+    - widzy: undefined
+    - widzymë: undefined
+    - wiele: undefined
+    - wšeòbwôpòl: undefined
+    - wšeòbwôpòlu: undefined
+    - z: undefined
+    - ze: undefined
+    - ò: undefined
+    - òbôczësz: undefined
+    - òczach: undefined
+    - òczë: undefined
+    - òna: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - bananas: undefined
+    - be: undefined
+    - bone: undefined
+    - brother: undefined
+    - brothers: undefined
+    - can: undefined
+    - cities: undefined
+    - city: undefined
+    - cut: undefined
+    - do: undefined
+    - don't: undefined
+    - eyes: undefined
+    - field: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - his: undefined
+    - house: undefined
+    - husband: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - knife: undefined
+    - likes: undefined
+    - lot: undefined
+    - many: undefined
+    - men: undefined
+    - mirror: undefined
+    - more: undefined
+    - name: undefined
+    - night: undefined
+    - no: undefined
+    - not: undefined
+    - of: undefined
+    - people: undefined
+    - see: undefined
+    - sees: undefined
+    - she: undefined
+    - soul: undefined
+    - stars: undefined
+    - suns: undefined
+    - talk: undefined
+    - talks: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - universe: undefined
+    - wife: undefined
+    - will: undefined
+    - with: undefined
+    - woman: undefined
+    - work: undefined
+    - you: undefined
+    - your: undefined

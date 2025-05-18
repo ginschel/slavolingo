@@ -1,0 +1,188 @@
+Skill:
+  Name: Weather
+  Id: 16
+
+New words:
+  - Word: погода
+    Translation: weather
+  - Word: дощ
+    Translation: rain
+  - Word: падати
+    Translation: to fall
+  - Word: сніг
+    Translation: snow
+  - Word: змінювати
+    Translation: to change
+  - Word: сонце
+    Translation: sun
+  - Word: світити
+    Translation: to shine
+  - Word: повітря
+    Translation: air
+  - Word: вітер
+    Translation: wind
+  - Word: тепло
+    Translation: warm
+  - Word: холодно
+    Translation: cold
+  - Word: мороз
+    Translation: frost
+  - Word: хмара
+    Translation: cloud
+  - Word: гріти (гріє)
+    Translation: to heat
+  - Word: хмарно
+    Translation: cloudy
+  - Word: пахнути (пахне)
+    Translation: to smell
+  - Word: бачити (бачить)
+    Translation: to see
+
+Phrases:
+  - Phrase: Погода є добра.
+    Translation: The weather is good.
+  - Phrase: Падає дощ.
+    Translation: It is raining.
+  - Phrase: Сніг лежить на землі.
+    Translation: Snow lies on the ground.
+  - Phrase: Сонце світить.
+    Translation: The sun is shining.
+  - Phrase: Повітря є чисте.
+    Translation: The air is clean.
+  - Phrase: Вітер дує сильно.
+    Translation: The wind is blowing strongly.
+  - Phrase: Сьогодні є тепло.
+    Translation: It is warm today.
+  - Phrase: В Росії є холодно.
+    Translation: In Russia it is cold.
+  - Phrase: Мороз є сильний.
+    Translation: The frost is strong.
+  - Phrase: Хмари є темні.
+    Translation: The clouds are dark.
+  - Phrase: Падає сніг і дощ.
+    Translation: Snow and rain are falling.
+  - Phrase: Погода змінюється.
+    Translation: The weather is changing.
+  - Phrase: Сонце гріє нас.
+    Translation: The sun heats us.
+  - Phrase: Сьогодні є тепло і сухо.
+    Translation: It is warm and dry today.
+  - Phrase: Чи вітер сильний?
+    Translation: Is the wind strong?
+  - Phrase: Мороз є вранці.
+    Translation: There is frost in the morning.
+  - Phrase: Хмарно є сьогодні.
+    Translation: It is cloudy today.
+  - Phrase: Повітря пахне після дощу.
+    Translation: The air smells of rain.
+  - Phrase: Сьогодні не бачимо хмар.
+    Translation: Today I do not see clouds.
+  - Phrase: Холодний вітер дує з півночі.
+    Translation: A cold wind is blowing from the north.
+
+Mini-dictionary:
+  Ukrainian:
+    - бачимо: undefined
+    - бачити: undefined
+    - бачить: undefined
+    - в: undefined
+    - вранці: undefined
+    - вітер: undefined
+    - гріти: undefined
+    - гріє: undefined
+    - добра: undefined
+    - дощ: undefined
+    - дощу: undefined
+    - дує: undefined
+    - з: undefined
+    - землі: undefined
+    - змінювати: undefined
+    - змінюється: undefined
+    - лежить: undefined
+    - мороз: undefined
+    - на: undefined
+    - нас: undefined
+    - не: undefined
+    - падати: undefined
+    - падає: undefined
+    - пахне: undefined
+    - пахнути: undefined
+    - повітря: undefined
+    - погода: undefined
+    - півночі: undefined
+    - після: undefined
+    - росії: undefined
+    - світити: undefined
+    - світить: undefined
+    - сильний: undefined
+    - сильно: undefined
+    - сніг: undefined
+    - сонце: undefined
+    - сухо: undefined
+    - сьогодні: undefined
+    - темні: undefined
+    - тепло: undefined
+    - хмар: undefined
+    - хмара: undefined
+    - хмари: undefined
+    - хмарно: undefined
+    - холодний: undefined
+    - холодно: undefined
+    - чи: undefined
+    - чисте: undefined
+    - є: undefined
+    - і: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - and: undefined
+    - are: undefined
+    - blowing: undefined
+    - change: undefined
+    - changing: undefined
+    - clean: undefined
+    - cloud: undefined
+    - clouds: undefined
+    - cloudy: undefined
+    - cold: undefined
+    - dark: undefined
+    - do: undefined
+    - dry: undefined
+    - fall: undefined
+    - falling: undefined
+    - from: undefined
+    - frost: undefined
+    - good: undefined
+    - ground: undefined
+    - heat: undefined
+    - heats: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lies: undefined
+    - morning: undefined
+    - north: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - rain: undefined
+    - raining: undefined
+    - russia: undefined
+    - see: undefined
+    - shine: undefined
+    - shining: undefined
+    - smell: undefined
+    - smells: undefined
+    - snow: undefined
+    - strong: undefined
+    - strongly: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - to: undefined
+    - today: undefined
+    - us: undefined
+    - warm: undefined
+    - weather: undefined
+    - wind: undefined

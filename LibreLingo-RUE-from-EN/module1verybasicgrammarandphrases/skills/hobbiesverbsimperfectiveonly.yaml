@@ -1,0 +1,194 @@
+Skill:
+  Name: Hobbies (Verbs – Imperfective only)
+  Id: 4
+
+New words:
+  - Word: чітати
+    Translation: to read
+  - Word: писати (пише)
+    Translation: to write
+  - Word: грати
+    Translation: to play
+  - Word: позерати
+    Translation: to watch
+  - Word: слухати
+    Translation: to listen
+  - Word: мальовати
+    Translation: to paint
+  - Word: співати
+    Translation: to sing
+  - Word: учити ся
+    Translation: to learn
+  - Word: сидїти (сидит)
+    Translation: to sit
+  - Word: шити (шиє)
+    Translation: to sew
+  - Word: танцовати
+    Translation: to dance
+
+Phrases:
+  - Phrase: Я чітаю кнїгу.
+    Translation: I am reading a book.
+  - Phrase: Она пише письма.
+    Translation: She is writing letters.
+  - Phrase: Он грає в футбол.
+    Translation: He is playing football.
+  - Phrase: Мы позераєме філм.
+    Translation: We are watching a film.
+  - Phrase: Они слухають музику.
+    Translation: They are listening to music.
+  - Phrase: Она сидит і чітає.
+    Translation: She is sitting and reading.
+  - Phrase: Я мальую образ.
+    Translation: I am painting a picture.
+  - Phrase: Он співає співанкы.
+    Translation: He is singing songs.
+  - Phrase: Вы учите ся языка.
+    Translation: You are learning a language.
+  - Phrase: Я шию одїня.
+    Translation: I am sewing clothes.
+  - Phrase: Ты позераєш серію?
+    Translation: Are you watching a series?
+  - Phrase: Мы граєме в шахы.
+    Translation: We are playing chess.
+  - Phrase: Они слухають радіо.
+    Translation: They are listening to the radio.
+  - Phrase: Чітаєш ты романы?
+    Translation: Do you read novels?
+  - Phrase: Он пише дневник.
+    Translation: He is writing a diary.
+  - Phrase: Учиме ся ту.
+    Translation: We are learning here.
+  - Phrase: Мальуєме з приятелями образы.
+    Translation: We are painting pictures with friends.
+  - Phrase: Ты шиєш?
+    Translation: Are you sewing?
+  - Phrase: Я співаю з групов.
+    Translation: I am singing with a group.
+  - Phrase: Я танцую много
+    Translation: I dance a lot
+  - Phrase: Она грає на гитарі.
+    Translation: She is playing the guitar.
+
+Mini-dictionary:
+  Rusin:
+    - в: undefined
+    - вы: undefined
+    - гитарі: undefined
+    - грати: undefined
+    - грає: undefined
+    - граєме: undefined
+    - групов: undefined
+    - дневник: undefined
+    - з: undefined
+    - кнїгу: undefined
+    - мальовати: undefined
+    - мальую: undefined
+    - мальуєме: undefined
+    - много: undefined
+    - музику: undefined
+    - мы: undefined
+    - на: undefined
+    - образ: undefined
+    - образы: undefined
+    - одїня: undefined
+    - он: undefined
+    - она: undefined
+    - они: undefined
+    - писати: undefined
+    - письма: undefined
+    - пише: undefined
+    - позерати: undefined
+    - позераєме: undefined
+    - позераєш: undefined
+    - приятелями: undefined
+    - радіо: undefined
+    - романы: undefined
+    - серію: undefined
+    - сидит: undefined
+    - сидїти: undefined
+    - слухати: undefined
+    - слухають: undefined
+    - співанкы: undefined
+    - співати: undefined
+    - співаю: undefined
+    - співає: undefined
+    - ся: undefined
+    - танцовати: undefined
+    - танцую: undefined
+    - ту: undefined
+    - ты: undefined
+    - учиме: undefined
+    - учите: undefined
+    - учити: undefined
+    - футбол: undefined
+    - філм: undefined
+    - чітати: undefined
+    - чітаю: undefined
+    - чітає: undefined
+    - чітаєш: undefined
+    - шахы: undefined
+    - шити: undefined
+    - шию: undefined
+    - шиє: undefined
+    - шиєш: undefined
+    - я: undefined
+    - языка: undefined
+    - і: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - book: undefined
+    - chess: undefined
+    - clothes: undefined
+    - dance: undefined
+    - diary: undefined
+    - do: undefined
+    - film: undefined
+    - football: undefined
+    - friends: undefined
+    - group: undefined
+    - guitar: undefined
+    - he: undefined
+    - here: undefined
+    - i: undefined
+    - is: undefined
+    - language: undefined
+    - learn: undefined
+    - learning: undefined
+    - letters: undefined
+    - listen: undefined
+    - listening: undefined
+    - lot: undefined
+    - music: undefined
+    - novels: undefined
+    - paint: undefined
+    - painting: undefined
+    - picture: undefined
+    - pictures: undefined
+    - play: undefined
+    - playing: undefined
+    - radio: undefined
+    - read: undefined
+    - reading: undefined
+    - series: undefined
+    - sew: undefined
+    - sewing: undefined
+    - she: undefined
+    - sing: undefined
+    - singing: undefined
+    - sit: undefined
+    - sitting: undefined
+    - songs: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - watch: undefined
+    - watching: undefined
+    - we: undefined
+    - with: undefined
+    - write: undefined
+    - writing: undefined
+    - you: undefined

@@ -1,0 +1,169 @@
+Skill:
+  Name: Asking for Directions
+  Id: 25
+
+New words:
+  - Word: дзе
+    Translation: where
+  - Word: куды
+    Translation: which way
+  - Word: направа
+    Translation: to the right
+  - Word: налева
+    Translation: to the left
+  - Word: проста
+    Translation: straight
+  - Word: блізка
+    Translation: near
+  - Word: далёка
+    Translation: far
+  - Word: пытаць
+    Translation: to ask
+  - Word: паказаць
+    Translation: to show
+  - Word: шлях/дарога
+    Translation: path/way
+
+Phrases:
+  - Phrase: Дзе ёсць вакзал?
+    Translation: Where is the station?
+  - Phrase: Куды ідзе дарога?
+    Translation: Which way does the road go?
+  - Phrase: Ідзем направа.
+    Translation: We are going to the right.
+  - Phrase: Потым налева.
+    Translation: Then to the left.
+  - Phrase: Ідзі проста да моста.
+    Translation: Go straight to the bridge.
+  - Phrase: Праспект ёсць блізка плошчы.
+    Translation: The avenue is near the square.
+  - Phrase: Бібліятэка ёсць далёка.
+    Translation: The library is far away.
+  - Phrase: Пытаю іх пра дарогу.
+    Translation: I ask them for the way.
+  - Phrase: Можаце паказаць шлях?
+    Translation: Can you show me the way?
+  - Phrase: Вуліца ідзе да цэнтра.
+    Translation: The street goes to the center.
+  - Phrase: Дзе ёсць бліжэйшы гатэль?
+    Translation: Where is the nearest hotel?
+  - Phrase: Куды ідзеце?
+    Translation: Which way are you going?
+  - Phrase: Ідзіце проста і потым направа.
+    Translation: Go straight and then to the right.
+  - Phrase: Вакзал ёсць налева.
+    Translation: The station is on the left.
+  - Phrase: Магазін ёсць блізка бібліятэкі.
+    Translation: The shop is near the library.
+  - Phrase: Плошча ёсць далёка ад гатэля.
+    Translation: The square is far from the hotel.
+  - Phrase: Пытаю старую жанчыну.
+    Translation: I ask the old woman.
+  - Phrase: Ён паказвае мне дарогу.
+    Translation: He shows me the way.
+  - Phrase: Вуліца ёсць доўгая.
+    Translation: The street is long.
+  - Phrase: Куды едзе той цягнік?
+    Translation: Where is that train going?
+
+Mini-dictionary:
+  Belarusian:
+    - ад: undefined
+    - бліжэйшы: undefined
+    - блізка: undefined
+    - бібліятэка: undefined
+    - бібліятэкі: undefined
+    - вакзал: undefined
+    - вуліца: undefined
+    - гатэль: undefined
+    - гатэля: undefined
+    - да: undefined
+    - далёка: undefined
+    - дарога: undefined
+    - дарогу: undefined
+    - дзе: undefined
+    - доўгая: undefined
+    - едзе: undefined
+    - жанчыну: undefined
+    - куды: undefined
+    - магазін: undefined
+    - мне: undefined
+    - можаце: undefined
+    - моста: undefined
+    - налева: undefined
+    - направа: undefined
+    - паказаць: undefined
+    - паказвае: undefined
+    - плошча: undefined
+    - плошчы: undefined
+    - потым: undefined
+    - пра: undefined
+    - праспект: undefined
+    - проста: undefined
+    - пытаць: undefined
+    - пытаю: undefined
+    - старую: undefined
+    - той: undefined
+    - цэнтра: undefined
+    - цягнік: undefined
+    - шлях: undefined
+    - шлях/дарога: undefined
+    - ён: undefined
+    - ёсць: undefined
+    - і: undefined
+    - ідзе: undefined
+    - ідзем: undefined
+    - ідзеце: undefined
+    - ідзі: undefined
+    - ідзіце: undefined
+    - іх: undefined
+  English:
+    - and: undefined
+    - are: undefined
+    - ask: undefined
+    - avenue: undefined
+    - away: undefined
+    - bridge: undefined
+    - can: undefined
+    - center: undefined
+    - does: undefined
+    - far: undefined
+    - for: undefined
+    - from: undefined
+    - go: undefined
+    - goes: undefined
+    - going: undefined
+    - he: undefined
+    - hotel: undefined
+    - i: undefined
+    - is: undefined
+    - left: undefined
+    - library: undefined
+    - long: undefined
+    - me: undefined
+    - near: undefined
+    - nearest: undefined
+    - old: undefined
+    - on: undefined
+    - path/way: undefined
+    - right: undefined
+    - road: undefined
+    - shop: undefined
+    - show: undefined
+    - shows: undefined
+    - square: undefined
+    - station: undefined
+    - straight: undefined
+    - street: undefined
+    - that: undefined
+    - the: undefined
+    - them: undefined
+    - then: undefined
+    - to: undefined
+    - train: undefined
+    - way: undefined
+    - we: undefined
+    - where: undefined
+    - which: undefined
+    - woman: undefined
+    - you: undefined

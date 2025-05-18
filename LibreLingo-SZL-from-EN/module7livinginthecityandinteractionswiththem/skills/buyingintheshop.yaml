@@ -1,0 +1,184 @@
+Skill:
+  Name: Buying in the Shop
+  Id: 24
+
+New words:
+  - Word: kupić
+    Translation: to buy
+  - Word: sprzedŏwać
+    Translation: to sell
+  - Word: cena
+    Translation: price
+  - Word: ôblyczynia
+    Translation: clothes
+  - Word: tasza
+    Translation: bag
+  - Word: kōnsek
+    Translation: piece
+  - Word: kupec
+    Translation: customer
+  - Word: wrōt
+    Translation: return
+  - Word: parōgon
+    Translation: receipt
+  - Word: pytać
+    Translation: to ask
+  - Word: świyży
+    Translation: fresh
+
+Phrases:
+  - Phrase: Chca kupić chlyb.
+    Translation: I want to buy bread.
+  - Phrase: Ôn sprzedŏwŏ miyso.
+    Translation: He sells meat.
+  - Phrase: Cena je wysoko.
+    Translation: The price is high.
+  - Phrase: Ôblyczynia som nowe.
+    Translation: The clothes are new.
+  - Phrase: Sprzedŏwca je zmōncōny dziyń.
+    Translation: The seller is tired today.
+  - Phrase: Tasza je ciynżko.
+    Translation: The bag is heavy.
+  - Phrase: Kōnsek syra je dobry.
+    Translation: A piece of cheese is good.
+  - Phrase: Kupec pyto za znizka.
+    Translation: The customer asks for a discount.
+  - Phrase: Wrōtu niy mo. To zły sklep.
+    Translation: No returns. This is a bad shop.
+  - Phrase: Dōm parōgon sprzedŏwacowi.
+    Translation: I give the receipt to the seller.
+  - Phrase: Ôna kupuje ksiónżka.
+    Translation: She is buying a book.
+  - Phrase: Ôn sprzedŏwŏ mlyko.
+    Translation: He sells milk.
+  - Phrase: Cena masła je dobro.
+    Translation: The price of butter is good.
+  - Phrase: Wōrszt je świyży.
+    Translation: The sausage is fresh.
+  - Phrase: Sprzedŏwca dŏ kōnsek wōrsztu.
+    Translation: The seller gives a piece of sausage.
+  - Phrase: Tasza stoji na podłodze.
+    Translation: The bag is on the floor.
+  - Phrase: Kōnsek chlyba je mały.
+    Translation: The piece of bread is small.
+  - Phrase: Kupec pyto ô cena.
+    Translation: The customer asks about the price.
+  - Phrase: Wrōt je do siedym dni.
+    Translation: Return is within seven days.
+  - Phrase: Parōgon je podpisanany.
+    Translation: The receipt is signed.
+
+Mini-dictionary:
+  Silesian:
+    - cena: undefined
+    - chca: undefined
+    - chlyb: undefined
+    - chlyba: undefined
+    - ciynżko: undefined
+    - dni: undefined
+    - do: undefined
+    - dobro: undefined
+    - dobry: undefined
+    - dziyń: undefined
+    - dōm: undefined
+    - dŏ: undefined
+    - je: undefined
+    - ksiónżka: undefined
+    - kupec: undefined
+    - kupić: undefined
+    - kupuje: undefined
+    - kōnsek: undefined
+    - masła: undefined
+    - mały: undefined
+    - miyso: undefined
+    - mlyko: undefined
+    - mo: undefined
+    - na: undefined
+    - niy: undefined
+    - nowe: undefined
+    - parōgon: undefined
+    - podpisanany: undefined
+    - podłodze: undefined
+    - pytać: undefined
+    - pyto: undefined
+    - siedym: undefined
+    - sklep: undefined
+    - som: undefined
+    - sprzedŏwacowi: undefined
+    - sprzedŏwać: undefined
+    - sprzedŏwca: undefined
+    - sprzedŏwŏ: undefined
+    - stoji: undefined
+    - syra: undefined
+    - tasza: undefined
+    - to: undefined
+    - wrōt: undefined
+    - wrōtu: undefined
+    - wysoko: undefined
+    - wōrszt: undefined
+    - wōrsztu: undefined
+    - za: undefined
+    - zmōncōny: undefined
+    - znizka: undefined
+    - zły: undefined
+    - ô: undefined
+    - ôblyczynia: undefined
+    - ôn: undefined
+    - ôna: undefined
+    - świyży: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - are: undefined
+    - ask: undefined
+    - asks: undefined
+    - bad: undefined
+    - bag: undefined
+    - book: undefined
+    - bread: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - cheese: undefined
+    - clothes: undefined
+    - customer: undefined
+    - days: undefined
+    - discount: undefined
+    - floor: undefined
+    - for: undefined
+    - fresh: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - i: undefined
+    - is: undefined
+    - meat: undefined
+    - milk: undefined
+    - new: undefined
+    - no: undefined
+    - of: undefined
+    - on: undefined
+    - piece: undefined
+    - price: undefined
+    - receipt: undefined
+    - return: undefined
+    - returns: undefined
+    - sausage: undefined
+    - sell: undefined
+    - seller: undefined
+    - sells: undefined
+    - seven: undefined
+    - she: undefined
+    - shop: undefined
+    - signed: undefined
+    - small: undefined
+    - the: undefined
+    - this: undefined
+    - tired: undefined
+    - to: undefined
+    - today: undefined
+    - want: undefined
+    - within: undefined

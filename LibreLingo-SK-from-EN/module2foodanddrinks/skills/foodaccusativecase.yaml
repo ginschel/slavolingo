@@ -1,0 +1,198 @@
+Skill:
+  Name: Food (Accusative case)
+  Id: 6
+
+New words:
+  - Word: chlieb
+    Translation: bread
+  - Word: variť
+    Translation: to prepare
+  - Word: niesť
+    Translation: to carry
+  - Word: jesť (je)
+    Translation: to eat
+  - Word: maslo
+    Translation: butter
+  - Word: mlieko
+    Translation: milk
+  - Word: mäso
+    Translation: meat
+  - Word: vajce
+    Translation: egg
+  - Word: raňajky
+    Translation: breakfast
+  - Word: obed
+    Translation: lunch
+  - Word: kúpiť
+    Translation: to buy
+  - Word: večera
+    Translation: dinner
+  - Word: jedlo
+    Translation: dish
+  - Word: kniha
+    Translation: book
+  - Word: sladký
+    Translation: sweet
+  - Word: jedlo
+    Translation: food
+
+Phrases:
+  - Phrase: Ja jem chlieb.
+    Translation: I am eating bread.
+  - Phrase: Ona je mäso.
+    Translation: She is eating meat.
+  - Phrase: On ľúbi mlieko.
+    Translation: He likes milk.
+  - Phrase: Ja vidím Vlada s jedlom
+    Translation: I see Vlad with food
+  - Phrase: Ty ješ vajce?
+    Translation: Are you eating an egg?
+  - Phrase: My jeme večeru.
+    Translation: We are eating dinner.
+  - Phrase: Oni majú raňajky.
+    Translation: They are having breakfast.
+  - Phrase: Ja kúpim maslo.
+    Translation: I will buy butter.
+  - Phrase: On varí obed.
+    Translation: He is preparing lunch.
+  - Phrase: Ona nesie jedlo.
+    Translation: She is carrying a dish.
+  - Phrase: Oni kupujú maslo a chlieb.
+    Translation: They are buying butter and bread.
+  - Phrase: On pije mlieko a je mäso.
+    Translation: He is drinking milk and eating meat.
+  - Phrase: Čítaš ty knihu a ješ raňajky?
+    Translation: Are you reading a book and eating breakfast?
+  - Phrase: Ja vidím obed na stole.
+    Translation: I see lunch on the table.
+  - Phrase: Ty máš maslo?
+    Translation: Do you have butter?
+  - Phrase: My varíme večeru každý deň.
+    Translation: We prepare dinner every day.
+  - Phrase: Ja viem, čo ty ľúbiš vajcia.
+    Translation: I know that you like eggs.
+  - Phrase: On je sladké jedlo.
+    Translation: He eats sweet food.
+  - Phrase: Ona ľúbi variť večeru.
+    Translation: She likes to prepare dinner.
+  - Phrase: My vidíme tvoju pizzu na stole.
+    Translation: We see your pizza on the table.
+  - Phrase: Oni vedia, čo ja vždy jem chlieb s maslom.
+    Translation: They know that I always eat bread with butter.
+
+Mini-dictionary:
+  Slovak:
+    - a: undefined
+    - chlieb: undefined
+    - deň: undefined
+    - ja: undefined
+    - je: undefined
+    - jedlo: undefined
+    - jedlom: undefined
+    - jem: undefined
+    - jeme: undefined
+    - jesť: undefined
+    - ješ: undefined
+    - každý: undefined
+    - kniha: undefined
+    - knihu: undefined
+    - kupujú: undefined
+    - kúpim: undefined
+    - kúpiť: undefined
+    - majú: undefined
+    - maslo: undefined
+    - maslom: undefined
+    - mlieko: undefined
+    - my: undefined
+    - máš: undefined
+    - mäso: undefined
+    - na: undefined
+    - nesie: undefined
+    - niesť: undefined
+    - obed: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - pije: undefined
+    - pizzu: undefined
+    - raňajky: undefined
+    - s: undefined
+    - sladké: undefined
+    - sladký: undefined
+    - stole: undefined
+    - tvoju: undefined
+    - ty: undefined
+    - vajce: undefined
+    - vajcia: undefined
+    - variť: undefined
+    - varí: undefined
+    - varíme: undefined
+    - vedia: undefined
+    - večera: undefined
+    - večeru: undefined
+    - vidím: undefined
+    - vidíme: undefined
+    - viem: undefined
+    - vlada: undefined
+    - vždy: undefined
+    - čo: undefined
+    - čítaš: undefined
+    - ľúbi: undefined
+    - ľúbiš: undefined
+  English:
+    - a: undefined
+    - always: undefined
+    - am: undefined
+    - an: undefined
+    - and: undefined
+    - are: undefined
+    - book: undefined
+    - bread: undefined
+    - breakfast: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - carry: undefined
+    - carrying: undefined
+    - day: undefined
+    - dinner: undefined
+    - dish: undefined
+    - do: undefined
+    - drinking: undefined
+    - eat: undefined
+    - eating: undefined
+    - eats: undefined
+    - egg: undefined
+    - eggs: undefined
+    - every: undefined
+    - food: undefined
+    - have: undefined
+    - having: undefined
+    - he: undefined
+    - i: undefined
+    - is: undefined
+    - know: undefined
+    - like: undefined
+    - likes: undefined
+    - lunch: undefined
+    - meat: undefined
+    - milk: undefined
+    - on: undefined
+    - pizza: undefined
+    - prepare: undefined
+    - preparing: undefined
+    - reading: undefined
+    - see: undefined
+    - she: undefined
+    - sweet: undefined
+    - table: undefined
+    - that: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - vlad: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined
+    - you: undefined
+    - your: undefined

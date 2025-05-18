@@ -1,0 +1,228 @@
+Skill:
+  Name: Body
+  Id: 35
+
+New words:
+  - Word: рука
+    Translation: hand
+  - Word: нага
+    Translation: leg
+  - Word: галава
+    Translation: head
+  - Word: вока
+    Translation: eye
+  - Word: мозг
+    Translation: brain
+  - Word: ступня
+    Translation: foot
+  - Word: вуха
+    Translation: ear
+  - Word: нос
+    Translation: nose
+  - Word: твар
+    Translation: face
+  - Word: сэрца
+    Translation: heart
+  - Word: палец
+    Translation: finger
+  - Word: страўнік
+    Translation: stomach
+  - Word: цела
+    Translation: body
+  - Word: балець (баліць)
+    Translation: to hurt
+  - Word: валасы
+    Translation: hair
+  - Word: падобны
+    Translation: similar
+  - Word: чуць (чуе)
+    Translation: to hear
+
+Phrases:
+  - Phrase: Мая рука баліць.
+    Translation: My hand hurts.
+  - Phrase: Яна мае доўгую нагу.
+    Translation: She has a long leg.
+  - Phrase: Галава ёсць на целе.
+    Translation: The head is on the body.
+  - Phrase: Ён мае сінія прыгожыя вочы.
+    Translation: He has beautiful blue eyes.
+  - Phrase: Яе вуха не чуе добра.
+    Translation: Her ear does not hear well.
+  - Phrase: Нос ёсць чырвоны ад марозу.
+    Translation: The nose is red from the cold.
+  - Phrase: Твар ёсць падобны.
+    Translation: The face is similar.
+  - Phrase: Яе сэрца б'е хутка.
+    Translation: Her heart beats fast.
+  - Phrase: Страўнік цябе баліць.
+    Translation: My stomach hurts.
+  - Phrase: Цела ў мяне здаровае.
+    Translation: My body is healthy.
+  - Phrase: Я маю дзве рукі і дзве нагі і таксама дзве ступні.
+    Translation: I have two hands and two legs, and also two feet.
+  - Phrase: Вочы глядзяць у кнігу.
+    Translation: The eyes are looking at the book.
+  - Phrase: Вуха чуе музыку.
+    Translation: The ear hears music.
+  - Phrase: Яго мозг ёсць хуткі.
+    Translation: His brain is quick.
+  - Phrase: Яе твар ёсць прыгожы.
+    Translation: Her face is beautiful.
+  - Phrase: Сэрца ёсць сімвалам любові.
+    Translation: The heart is a symbol of love.
+  - Phrase: Мой страўнік ёсць проста поўны пасля вячэры.
+    Translation: My stomach is just full after dinner.
+  - Phrase: Цела патрабуе адпачынку.
+    Translation: The body needs rest.
+  - Phrase: Ён мае каштанавыя валасы на галаве.
+    Translation: He has chestnut-colored hair on his head.
+  - Phrase: Яна чуе цябе толькі адным вухам.
+    Translation: She hears you only with one ear.
+
+Mini-dictionary:
+  Belarusian:
+    - ад: undefined
+    - адным: undefined
+    - адпачынку: undefined
+    - б'е: undefined
+    - балець: undefined
+    - баліць: undefined
+    - валасы: undefined
+    - вока: undefined
+    - вочы: undefined
+    - вуха: undefined
+    - вухам: undefined
+    - вячэры: undefined
+    - галава: undefined
+    - галаве: undefined
+    - глядзяць: undefined
+    - дзве: undefined
+    - добра: undefined
+    - доўгую: undefined
+    - здаровае: undefined
+    - каштанавыя: undefined
+    - кнігу: undefined
+    - любові: undefined
+    - мае: undefined
+    - марозу: undefined
+    - маю: undefined
+    - мая: undefined
+    - мозг: undefined
+    - мой: undefined
+    - музыку: undefined
+    - мяне: undefined
+    - на: undefined
+    - нага: undefined
+    - нагу: undefined
+    - нагі: undefined
+    - не: undefined
+    - нос: undefined
+    - падобны: undefined
+    - палец: undefined
+    - пасля: undefined
+    - патрабуе: undefined
+    - поўны: undefined
+    - проста: undefined
+    - прыгожы: undefined
+    - прыгожыя: undefined
+    - рука: undefined
+    - рукі: undefined
+    - страўнік: undefined
+    - ступня: undefined
+    - ступні: undefined
+    - сэрца: undefined
+    - сімвалам: undefined
+    - сінія: undefined
+    - таксама: undefined
+    - твар: undefined
+    - толькі: undefined
+    - у: undefined
+    - хутка: undefined
+    - хуткі: undefined
+    - цела: undefined
+    - целе: undefined
+    - цябе: undefined
+    - чуе: undefined
+    - чуць: undefined
+    - чырвоны: undefined
+    - я: undefined
+    - яго: undefined
+    - яе: undefined
+    - яна: undefined
+    - ён: undefined
+    - ёсць: undefined
+    - і: undefined
+    - ў: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beats: undefined
+    - beautiful: undefined
+    - blue: undefined
+    - body: undefined
+    - book: undefined
+    - brain: undefined
+    - chestnut-colored: undefined
+    - cold: undefined
+    - dinner: undefined
+    - does: undefined
+    - ear: undefined
+    - eye: undefined
+    - eyes: undefined
+    - face: undefined
+    - fast: undefined
+    - feet: undefined
+    - finger: undefined
+    - foot: undefined
+    - from: undefined
+    - full: undefined
+    - hair: undefined
+    - hand: undefined
+    - hands: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - head: undefined
+    - healthy: undefined
+    - hear: undefined
+    - hears: undefined
+    - heart: undefined
+    - her: undefined
+    - his: undefined
+    - hurt: undefined
+    - hurts: undefined
+    - i: undefined
+    - is: undefined
+    - just: undefined
+    - leg: undefined
+    - legs: undefined
+    - long: undefined
+    - looking: undefined
+    - love: undefined
+    - music: undefined
+    - my: undefined
+    - needs: undefined
+    - nose: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - one: undefined
+    - only: undefined
+    - quick: undefined
+    - red: undefined
+    - rest: undefined
+    - she: undefined
+    - similar: undefined
+    - stomach: undefined
+    - symbol: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - well: undefined
+    - with: undefined
+    - you: undefined

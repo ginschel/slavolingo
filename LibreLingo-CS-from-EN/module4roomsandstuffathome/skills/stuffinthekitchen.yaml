@@ -1,0 +1,210 @@
+Skill:
+  Name: Stuff in the kitchen
+  Id: 13
+
+New words:
+  - Word: nůž
+    Translation: knife
+  - Word: vidlička
+    Translation: fork
+  - Word: lžíce
+    Translation: spoon
+  - Word: talíř
+    Translation: plate
+  - Word: hrnek/šálek
+    Translation: cup
+  - Word: sůl
+    Translation: salt
+  - Word: pepř
+    Translation: pepper
+  - Word: cukr
+    Translation: sugar
+  - Word: pánev
+    Translation: frying pan
+  - Word: horký
+    Translation: hot
+  - Word: hrnec
+    Translation: pot
+  - Word: kuchyně
+    Translation: kitchen
+  - Word: vařit
+    Translation: to cook
+  - Word: palačinka
+    Translation: pancake
+  - Word: knedlík
+    Translation: dumpling
+  - Word: miska
+    Translation: bowl
+
+Phrases:
+  - Phrase: Nůž leží na stole.
+    Translation: The knife is lying on the table.
+  - Phrase: Vidlička je stříbrná.
+    Translation: The fork is silver.
+  - Phrase: Lžíce je v soli.
+    Translation: The spoon is in the salt.
+  - Phrase: Talíř je plný jídla.
+    Translation: The plate is full of food.
+  - Phrase: Hrnek je naplněn vodou.
+    Translation: The cup is filled with water.
+  - Phrase: Přidám do čaje cukr.
+    Translation: I will add sugar to the tea.
+  - Phrase: Mnoho cukru je v misce.
+    Translation: There is a lot of sugar in the bowl.
+  - Phrase: Na pánvi se vaří má palačinka.
+    Translation: My pancake is cooking on the frying pan.
+  - Phrase: Hrnec je horký.
+    Translation: The pot is hot
+  - Phrase: Hrnec je na ohni.
+    Translation: The pot is on the flame.
+  - Phrase: Kuchyně je čistá.
+    Translation: The kitchen is clean.
+  - Phrase: On jí vidličkou.
+    Translation: He eats with a fork.
+  - Phrase: Ona pije z hrnku.
+    Translation: She drinks from a cup.
+  - Phrase: My vaříme v hrnci.
+    Translation: We cook in a pot.
+  - Phrase: Na pánvi je maso.
+    Translation: There is meat in the frying pan.
+  - Phrase: Nůž je ostrý.
+    Translation: The knife is sharp.
+  - Phrase: Vidličky a nože jsou na stole.
+    Translation: Forks and knives are on the table.
+  - Phrase: Lžíce je plná pepře.
+    Translation: The spoon is full of pepper.
+  - Phrase: Talíř leží na podlaze.
+    Translation: The plate is lying on the floor.
+  - Phrase: Konzerva je prázdná.
+    Translation: The can is empty.
+  - Phrase: Kuchyně má dobrý zápach večer.
+    Translation: The kitchen has a good smell in the evening.
+
+Mini-dictionary:
+  Czech:
+    - a: undefined
+    - cukr: undefined
+    - cukru: undefined
+    - do: undefined
+    - dobrý: undefined
+    - horký: undefined
+    - hrnci: undefined
+    - hrnec: undefined
+    - hrnek: undefined
+    - hrnek/šálek: undefined
+    - hrnku: undefined
+    - je: undefined
+    - jsou: undefined
+    - jí: undefined
+    - jídla: undefined
+    - knedlík: undefined
+    - konzerva: undefined
+    - kuchyně: undefined
+    - leží: undefined
+    - lžíce: undefined
+    - maso: undefined
+    - misce: undefined
+    - miska: undefined
+    - mnoho: undefined
+    - my: undefined
+    - má: undefined
+    - na: undefined
+    - naplněn: undefined
+    - nože: undefined
+    - nůž: undefined
+    - ohni: undefined
+    - on: undefined
+    - ona: undefined
+    - ostrý: undefined
+    - palačinka: undefined
+    - pepř: undefined
+    - pepře: undefined
+    - pije: undefined
+    - plná: undefined
+    - plný: undefined
+    - podlaze: undefined
+    - prázdná: undefined
+    - pánev: undefined
+    - pánvi: undefined
+    - přidám: undefined
+    - se: undefined
+    - soli: undefined
+    - stole: undefined
+    - stříbrná: undefined
+    - sůl: undefined
+    - talíř: undefined
+    - v: undefined
+    - vařit: undefined
+    - vaří: undefined
+    - vaříme: undefined
+    - večer: undefined
+    - vidlička: undefined
+    - vidličkou: undefined
+    - vidličky: undefined
+    - vodou: undefined
+    - z: undefined
+    - zápach: undefined
+    - čaje: undefined
+    - čistá: undefined
+  English:
+    - a: undefined
+    - add: undefined
+    - and: undefined
+    - are: undefined
+    - bowl: undefined
+    - can: undefined
+    - clean: undefined
+    - cook: undefined
+    - cooking: undefined
+    - cup: undefined
+    - drinks: undefined
+    - dumpling: undefined
+    - eats: undefined
+    - empty: undefined
+    - evening: undefined
+    - filled: undefined
+    - flame: undefined
+    - floor: undefined
+    - food: undefined
+    - fork: undefined
+    - forks: undefined
+    - from: undefined
+    - frying: undefined
+    - full: undefined
+    - good: undefined
+    - has: undefined
+    - he: undefined
+    - hot: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - kitchen: undefined
+    - knife: undefined
+    - knives: undefined
+    - lot: undefined
+    - lying: undefined
+    - meat: undefined
+    - my: undefined
+    - of: undefined
+    - on: undefined
+    - pan: undefined
+    - pancake: undefined
+    - pepper: undefined
+    - plate: undefined
+    - pot: undefined
+    - salt: undefined
+    - sharp: undefined
+    - she: undefined
+    - silver: undefined
+    - smell: undefined
+    - spoon: undefined
+    - sugar: undefined
+    - table: undefined
+    - tea: undefined
+    - the: undefined
+    - there: undefined
+    - to: undefined
+    - water: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined

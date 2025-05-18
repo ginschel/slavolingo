@@ -1,0 +1,210 @@
+Skill:
+  Name: Stuff in the kitchen
+  Id: 13
+
+New words:
+  - Word: nož
+    Translation: knife
+  - Word: vilica
+    Translation: fork
+  - Word: žlica
+    Translation: spoon
+  - Word: tanjur
+    Translation: plate
+  - Word: šalica
+    Translation: cup
+  - Word: sol
+    Translation: salt
+  - Word: papar
+    Translation: pepper
+  - Word: šećer
+    Translation: sugar
+  - Word: tava
+    Translation: frying pan
+  - Word: vruć
+    Translation: hot
+  - Word: lonac
+    Translation: pot
+  - Word: kuhinja
+    Translation: kitchen
+  - Word: kuhati
+    Translation: to cook
+  - Word: palačinka
+    Translation: pancake
+  - Word: okruglica
+    Translation: dumpling
+  - Word: zdjela
+    Translation: bowl
+
+Phrases:
+  - Phrase: Nož leži na stolu.
+    Translation: The knife is lying on the table.
+  - Phrase: Vilica je srebrna.
+    Translation: The fork is silver.
+  - Phrase: Žlica je u soli.
+    Translation: The spoon is in the salt.
+  - Phrase: Tanjur je pun hrane.
+    Translation: The plate is full of food.
+  - Phrase: Šalica je napunjena vodom.
+    Translation: The cup is filled with water.
+  - Phrase: Dodat ću u čaj šećer.
+    Translation: I will add sugar to the tea.
+  - Phrase: Mnogo šećera je u zdjeli.
+    Translation: There is a lot of sugar in the bowl.
+  - Phrase: Na tavi se kuha moja palačinka.
+    Translation: My pancake is cooking on the frying pan.
+  - Phrase: Lonac je vruć.
+    Translation: The pot is hot
+  - Phrase: Lonac je na plameniku.
+    Translation: The pot is on the flame.
+  - Phrase: Kuhinja je čista.
+    Translation: The kitchen is clean.
+  - Phrase: On jede vilicom.
+    Translation: He eats with a fork.
+  - Phrase: Ona pije iz šalice.
+    Translation: She drinks from a cup.
+  - Phrase: Mi kuhamo u loncu.
+    Translation: We cook in a pot.
+  - Phrase: Na tavi je meso.
+    Translation: There is meat in the frying pan.
+  - Phrase: Nož je oštar.
+    Translation: The knife is sharp.
+  - Phrase: Vilice i noževi su na stolu.
+    Translation: Forks and knives are on the table.
+  - Phrase: Žlica je puna papra.
+    Translation: The spoon is full of pepper.
+  - Phrase: Tanjur leži na podu.
+    Translation: The plate is lying on the floor.
+  - Phrase: Konzerva je prazna.
+    Translation: The can is empty.
+  - Phrase: Kuhinja ima dobar miris navečer.
+    Translation: The kitchen has a good smell in the evening.
+
+Mini-dictionary:
+  Croatian:
+    - dobar: undefined
+    - dodat: undefined
+    - hrane: undefined
+    - i: undefined
+    - ima: undefined
+    - iz: undefined
+    - je: undefined
+    - jede: undefined
+    - konzerva: undefined
+    - kuha: undefined
+    - kuhamo: undefined
+    - kuhati: undefined
+    - kuhinja: undefined
+    - leži: undefined
+    - lonac: undefined
+    - loncu: undefined
+    - meso: undefined
+    - mi: undefined
+    - miris: undefined
+    - mnogo: undefined
+    - moja: undefined
+    - na: undefined
+    - napunjena: undefined
+    - navečer: undefined
+    - nož: undefined
+    - noževi: undefined
+    - okruglica: undefined
+    - on: undefined
+    - ona: undefined
+    - oštar: undefined
+    - palačinka: undefined
+    - papar: undefined
+    - papra: undefined
+    - pije: undefined
+    - plameniku: undefined
+    - podu: undefined
+    - prazna: undefined
+    - pun: undefined
+    - puna: undefined
+    - se: undefined
+    - sol: undefined
+    - soli: undefined
+    - srebrna: undefined
+    - stolu: undefined
+    - su: undefined
+    - tanjur: undefined
+    - tava: undefined
+    - tavi: undefined
+    - u: undefined
+    - vilica: undefined
+    - vilice: undefined
+    - vilicom: undefined
+    - vodom: undefined
+    - vruć: undefined
+    - zdjela: undefined
+    - zdjeli: undefined
+    - ću: undefined
+    - čaj: undefined
+    - čista: undefined
+    - šalica: undefined
+    - šalice: undefined
+    - šećer: undefined
+    - šećera: undefined
+    - žlica: undefined
+  English:
+    - a: undefined
+    - add: undefined
+    - and: undefined
+    - are: undefined
+    - bowl: undefined
+    - can: undefined
+    - clean: undefined
+    - cook: undefined
+    - cooking: undefined
+    - cup: undefined
+    - drinks: undefined
+    - dumpling: undefined
+    - eats: undefined
+    - empty: undefined
+    - evening: undefined
+    - filled: undefined
+    - flame: undefined
+    - floor: undefined
+    - food: undefined
+    - fork: undefined
+    - forks: undefined
+    - from: undefined
+    - frying: undefined
+    - full: undefined
+    - good: undefined
+    - has: undefined
+    - he: undefined
+    - hot: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - kitchen: undefined
+    - knife: undefined
+    - knives: undefined
+    - lot: undefined
+    - lying: undefined
+    - meat: undefined
+    - my: undefined
+    - of: undefined
+    - on: undefined
+    - pan: undefined
+    - pancake: undefined
+    - pepper: undefined
+    - plate: undefined
+    - pot: undefined
+    - salt: undefined
+    - sharp: undefined
+    - she: undefined
+    - silver: undefined
+    - smell: undefined
+    - spoon: undefined
+    - sugar: undefined
+    - table: undefined
+    - tea: undefined
+    - the: undefined
+    - there: undefined
+    - to: undefined
+    - water: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined

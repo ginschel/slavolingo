@@ -1,0 +1,193 @@
+Skill:
+  Name: Hobbies (Verbs – Imperfective only)
+  Id: 4
+
+New words:
+  - Word: čítať
+    Translation: to read
+  - Word: písať(píše)
+    Translation: to write
+  - Word: hrať
+    Translation: to play
+  - Word: pozerať
+    Translation: to watch
+  - Word: počúvať
+    Translation: to listen
+  - Word: maľovať
+    Translation: to paint
+  - Word: spievať
+    Translation: to sing
+  - Word: učiť sa
+    Translation: to learn
+  - Word: sedieť(sedí)
+    Translation: to sit
+  - Word: šiť (šije)
+    Translation: to sew
+  - Word: tancovať
+    Translation: to dance
+
+Phrases:
+  - Phrase: Ja čítam knihu.
+    Translation: I am reading a book.
+  - Phrase: Ona píše listy.
+    Translation: She is writing letters.
+  - Phrase: On hrá futbal.
+    Translation: He is playing football.
+  - Phrase: My pozeráme film.
+    Translation: We are watching a film.
+  - Phrase: Oni počúvajú hudbu.
+    Translation: They are listening to music.
+  - Phrase: Ona sedí a číta.
+    Translation: She is sitting and reading.
+  - Phrase: Ja maľujem obraz.
+    Translation: I am painting a picture.
+  - Phrase: On spieva piesne.
+    Translation: He is singing songs.
+  - Phrase: Vy sa učíte jazyk.
+    Translation: You are learning a language.
+  - Phrase: Ja šijem oblečenie.
+    Translation: I am sewing clothes.
+  - Phrase: Ty pozeráš seriál?
+    Translation: Are you watching a series?
+  - Phrase: My hráme šach.
+    Translation: We are playing chess.
+  - Phrase: Oni počúvajú rádio.
+    Translation: They are listening to the radio.
+  - Phrase: Čítaš ty romány?
+    Translation: Do you read novels?
+  - Phrase: On píše denník.
+    Translation: He is writing a diary.
+  - Phrase: Učíme sa tu.
+    Translation: We are learning here.
+  - Phrase: Maľujeme s priateľmi obrazy.
+    Translation: We are painting pictures with friends.
+  - Phrase: Ty šiješ?
+    Translation: Are you sewing?
+  - Phrase: Ja spievam s skupinou.
+    Translation: I am singing with a group.
+  - Phrase: Ja tancujem veľa
+    Translation: I dance a lot
+  - Phrase: Ona hrá na gitaru.
+    Translation: She is playing the guitar.
+
+Mini-dictionary:
+  Slovak:
+    - a: undefined
+    - denník: undefined
+    - film: undefined
+    - futbal: undefined
+    - gitaru: undefined
+    - hrať: undefined
+    - hrá: undefined
+    - hráme: undefined
+    - hudbu: undefined
+    - ja: undefined
+    - jazyk: undefined
+    - knihu: undefined
+    - listy: undefined
+    - maľovať: undefined
+    - maľujem: undefined
+    - maľujeme: undefined
+    - my: undefined
+    - na: undefined
+    - oblečenie: undefined
+    - obraz: undefined
+    - obrazy: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - piesne: undefined
+    - pozerať: undefined
+    - pozeráme: undefined
+    - pozeráš: undefined
+    - počúvajú: undefined
+    - počúvať: undefined
+    - priateľmi: undefined
+    - písať: undefined
+    - píše: undefined
+    - romány: undefined
+    - rádio: undefined
+    - s: undefined
+    - sa: undefined
+    - sedieť: undefined
+    - sedí: undefined
+    - seriál: undefined
+    - skupinou: undefined
+    - spieva: undefined
+    - spievam: undefined
+    - spievať: undefined
+    - tancovať: undefined
+    - tancujem: undefined
+    - tu: undefined
+    - ty: undefined
+    - učiť: undefined
+    - učíme: undefined
+    - učíte: undefined
+    - veľa: undefined
+    - vy: undefined
+    - číta: undefined
+    - čítam: undefined
+    - čítaš: undefined
+    - čítať: undefined
+    - šach: undefined
+    - šije: undefined
+    - šijem: undefined
+    - šiješ: undefined
+    - šiť: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - book: undefined
+    - chess: undefined
+    - clothes: undefined
+    - dance: undefined
+    - diary: undefined
+    - do: undefined
+    - film: undefined
+    - football: undefined
+    - friends: undefined
+    - group: undefined
+    - guitar: undefined
+    - he: undefined
+    - here: undefined
+    - i: undefined
+    - is: undefined
+    - language: undefined
+    - learn: undefined
+    - learning: undefined
+    - letters: undefined
+    - listen: undefined
+    - listening: undefined
+    - lot: undefined
+    - music: undefined
+    - novels: undefined
+    - paint: undefined
+    - painting: undefined
+    - picture: undefined
+    - pictures: undefined
+    - play: undefined
+    - playing: undefined
+    - radio: undefined
+    - read: undefined
+    - reading: undefined
+    - series: undefined
+    - sew: undefined
+    - sewing: undefined
+    - she: undefined
+    - sing: undefined
+    - singing: undefined
+    - sit: undefined
+    - sitting: undefined
+    - songs: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - watch: undefined
+    - watching: undefined
+    - we: undefined
+    - with: undefined
+    - write: undefined
+    - writing: undefined
+    - you: undefined

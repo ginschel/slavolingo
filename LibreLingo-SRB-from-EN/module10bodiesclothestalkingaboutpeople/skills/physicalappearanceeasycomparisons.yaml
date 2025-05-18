@@ -1,0 +1,252 @@
+Skill:
+  Name: Physical Appearance (Easy comparisons)
+  Id: 38
+
+New words:
+  - Word: високи
+    Translation: tall
+  - Word: низки
+    Translation: short
+  - Word: дебели
+    Translation: fat
+  - Word: худи
+    Translation: thin
+  - Word: мали
+    Translation: small
+  - Word: красиви
+    Translation: beautiful
+  - Word: бридки
+    Translation: ugly
+  - Word: стари
+    Translation: old
+  - Word: млади
+    Translation: young
+  - Word: власи
+    Translation: hair
+  - Word: очи
+    Translation: eyes
+  - Word: неж
+    Translation: than
+  - Word: више
+    Translation: taller/higher
+  - Word: кожа
+    Translation: skin
+  - Word: мење
+    Translation: less
+  - Word: смејати се (смеје)
+    Translation: to laugh
+  - Word: блескати
+    Translation: to shine
+  - Word: звезда
+    Translation: star
+  - Word: светли
+    Translation: light
+  - Word: тамни
+    Translation: dark
+
+Phrases:
+  - Phrase: Он јест више високи и силни неж он.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Она јест низка и худа как он.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Дебели муж иде по улици.
+    Translation: The fat man is walking down the street.
+  - Phrase: Худи има мење телесној маси неж дебели.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: То јест више красиви човек неж тај.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Стари људи сут више мудри неж ми.
+    Translation: Old people are wiser than us.
+  - Phrase: Млада има много енергији.
+    Translation: The young one has a lot of energy.
+  - Phrase: Његов власи сут плаве.
+    Translation: His hair is blonde.
+  - Phrase: Очи сут више зелене неж у њега.
+    Translation: Her eyes are greener than his.
+  - Phrase: Кожа његова јест бела.
+    Translation: His skin is white.
+  - Phrase: Он има долге влоси.
+    Translation: He has long hair.
+  - Phrase: Она има зелене очи.
+    Translation: She has green eyes.
+  - Phrase: Кожа јест гладка.
+    Translation: Her skin is smooth.
+  - Phrase: Стара жена носи шапку.
+    Translation: The old woman wears a hat.
+  - Phrase: Млади људи често спортују.
+    Translation: Young people often play sports.
+  - Phrase: Дебели муж смеје се више неж тај бридки муж.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Низка девка иде до дома.
+    Translation: The short girl is going home.
+  - Phrase: Красиве очи блескају как звезди на небу.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Худи носи више велику кошуљу неж ја.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Њеј власи сут светле и долге.
+    Translation: Her hair is light and long.
+  - Phrase: А његов красне власи сут тамне как ноћ.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Serbian:
+    - а: undefined
+    - бела: undefined
+    - блескати: undefined
+    - блескају: undefined
+    - бридки: undefined
+    - велику: undefined
+    - високи: undefined
+    - више: undefined
+    - власи: undefined
+    - влоси: undefined
+    - гладка: undefined
+    - дебели: undefined
+    - девка: undefined
+    - до: undefined
+    - долге: undefined
+    - дома: undefined
+    - енергији: undefined
+    - жена: undefined
+    - звезда: undefined
+    - звезди: undefined
+    - зелене: undefined
+    - и: undefined
+    - иде: undefined
+    - има: undefined
+    - как: undefined
+    - кожа: undefined
+    - кошуљу: undefined
+    - красиве: undefined
+    - красиви: undefined
+    - красне: undefined
+    - мали: undefined
+    - маси: undefined
+    - мење: undefined
+    - ми: undefined
+    - млада: undefined
+    - млади: undefined
+    - много: undefined
+    - мудри: undefined
+    - муж: undefined
+    - на: undefined
+    - небу: undefined
+    - неж: undefined
+    - низка: undefined
+    - низки: undefined
+    - носи: undefined
+    - ноћ: undefined
+    - он: undefined
+    - она: undefined
+    - очи: undefined
+    - плаве: undefined
+    - по: undefined
+    - светле: undefined
+    - светли: undefined
+    - се: undefined
+    - силни: undefined
+    - смејати: undefined
+    - смеје: undefined
+    - спортују: undefined
+    - стара: undefined
+    - стари: undefined
+    - сут: undefined
+    - тамне: undefined
+    - тамни: undefined
+    - тај: undefined
+    - телесној: undefined
+    - то: undefined
+    - у: undefined
+    - улици: undefined
+    - худа: undefined
+    - худи: undefined
+    - често: undefined
+    - човек: undefined
+    - шапку: undefined
+    - ја: undefined
+    - јест: undefined
+    - људи: undefined
+    - њега: undefined
+    - његов: undefined
+    - његова: undefined
+    - њеј: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - as: undefined
+    - beautiful: undefined
+    - blonde: undefined
+    - body: undefined
+    - dark: undefined
+    - do: undefined
+    - down: undefined
+    - energy: undefined
+    - eyes: undefined
+    - fat: undefined
+    - girl: undefined
+    - going: undefined
+    - green: undefined
+    - greener: undefined
+    - hair: undefined
+    - has: undefined
+    - hat: undefined
+    - he: undefined
+    - her: undefined
+    - him: undefined
+    - his: undefined
+    - home: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - larger: undefined
+    - laugh: undefined
+    - laughs: undefined
+    - less: undefined
+    - light: undefined
+    - like: undefined
+    - long: undefined
+    - lot: undefined
+    - louder: undefined
+    - man: undefined
+    - mass: undefined
+    - more: undefined
+    - night: undefined
+    - of: undefined
+    - often: undefined
+    - old: undefined
+    - one: undefined
+    - people: undefined
+    - person: undefined
+    - play: undefined
+    - she: undefined
+    - shine: undefined
+    - shirt: undefined
+    - short: undefined
+    - shorter: undefined
+    - skin: undefined
+    - sky: undefined
+    - small: undefined
+    - smooth: undefined
+    - sports: undefined
+    - star: undefined
+    - stars: undefined
+    - street: undefined
+    - stronger: undefined
+    - tall: undefined
+    - taller: undefined
+    - taller/higher: undefined
+    - than: undefined
+    - that: undefined
+    - the: undefined
+    - thin: undefined
+    - thinner: undefined
+    - to: undefined
+    - ugly: undefined
+    - us: undefined
+    - walking: undefined
+    - wears: undefined
+    - white: undefined
+    - wiser: undefined
+    - woman: undefined
+    - young: undefined

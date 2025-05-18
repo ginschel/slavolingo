@@ -1,0 +1,124 @@
+Skill:
+  Name: Numbers 11-20
+  Id: 27
+
+New words:
+  - Word: jedenaście
+    Translation: eleven
+  - Word: dwanaście
+    Translation: twelve
+  - Word: trzynaście
+    Translation: thirteen
+  - Word: czternaście
+    Translation: fourteen
+  - Word: piętnaście
+    Translation: fifteen
+  - Word: szesnaście
+    Translation: sixteen
+  - Word: siedemnaście
+    Translation: seventeen
+  - Word: osiemnaście
+    Translation: eighteen
+  - Word: dziewiętnaście
+    Translation: nineteen
+  - Word: dwadzieścia
+    Translation: twenty
+
+Phrases:
+  - Phrase: dwadzieścia zegarków
+    Translation: twenty clocks
+  - Phrase: jedenastu chłopców
+    Translation: eleven boys
+  - Phrase: jedenaście kobiet
+    Translation: eleven women
+  - Phrase: jedenaście pól
+    Translation: eleven fields
+  - Phrase: dwunastu mężów
+    Translation: twelve men
+  - Phrase: dwanaście sześć kobiet
+    Translation: twelve women
+  - Phrase: trzynastu kotów
+    Translation: thirteen cats
+  - Phrase: czternaście rowerów
+    Translation: fourteen bicycles
+  - Phrase: piętnastu chłopców
+    Translation: fifteen boys
+  - Phrase: szesnaście rowerów
+    Translation: sixteen bicycles
+  - Phrase: siedemnaście rubli
+    Translation: seventeen rubles
+  - Phrase: osiemnaście dolarów
+    Translation: eighteen dollars
+  - Phrase: dziewiętnaście pięć komputerów
+    Translation: nineteen computers
+  - Phrase: szesnaście zegarków
+    Translation: twenty clocks
+  - Phrase: dwanaście rzeczy
+    Translation: twelve things
+  - Phrase: jedenaście słońc
+    Translation: eleven suns
+  - Phrase: szesnaście rowerów
+    Translation: sixteen bicycles
+  - Phrase: czternaście dolarów
+    Translation: fourteen dollars
+  - Phrase: trzynastu dwóch psów
+    Translation: thirteen dogs
+  - Phrase: dwadzieścia kotów
+    Translation: twenty cats
+
+Mini-dictionary:
+  Polish:
+    - chłopców: undefined
+    - czternaście: undefined
+    - dolarów: undefined
+    - dwadzieścia: undefined
+    - dwanaście: undefined
+    - dwunastu: undefined
+    - dwóch: undefined
+    - dziewiętnaście: undefined
+    - jedenastu: undefined
+    - jedenaście: undefined
+    - kobiet: undefined
+    - komputerów: undefined
+    - kotów: undefined
+    - mężów: undefined
+    - osiemnaście: undefined
+    - piętnastu: undefined
+    - piętnaście: undefined
+    - pięć: undefined
+    - psów: undefined
+    - pól: undefined
+    - rowerów: undefined
+    - rubli: undefined
+    - rzeczy: undefined
+    - siedemnaście: undefined
+    - szesnaście: undefined
+    - sześć: undefined
+    - słońc: undefined
+    - trzynastu: undefined
+    - trzynaście: undefined
+    - zegarków: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eighteen: undefined
+    - eleven: undefined
+    - fields: undefined
+    - fifteen: undefined
+    - fourteen: undefined
+    - men: undefined
+    - nineteen: undefined
+    - rubles: undefined
+    - seventeen: undefined
+    - sixteen: undefined
+    - suns: undefined
+    - things: undefined
+    - thirteen: undefined
+    - twelve: undefined
+    - twenty: undefined
+    - women: undefined

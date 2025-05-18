@@ -1,0 +1,255 @@
+Skill:
+  Name: Greetings & Phrases for conversations
+  Id: 2
+
+New words:
+  - Word: привітання
+    Translation: greeting
+  - Word: здоровий/привіт
+    Translation: healthy/hello
+  - Word: бесіда/розмова
+    Translation: conversation
+  - Word: ранок
+    Translation: morning
+  - Word: вечір
+    Translation: evening
+  - Word: день
+    Translation: day
+  - Word: ніч
+    Translation: night
+  - Word: дякую
+    Translation: thanks
+  - Word: перепрошую
+    Translation: pardon
+  - Word: вибач
+    Translation: excuse me
+  - Word: добрий
+    Translation: good
+  - Word: краще
+    Translation: better
+  - Word: можливо
+    Translation: possible
+  - Word: шкода
+    Translation: pity
+  - Word: так/отже
+    Translation: so
+  - Word: що
+    Translation: what
+  - Word: ні
+    Translation: no
+  - Word: так (ствердно)
+    Translation: yes
+  - Word: може
+    Translation: maybe/can
+  - Word: давай
+    Translation: let's go
+
+Phrases:
+  - Phrase: Доброго ранку!
+    Translation: Good morning!
+  - Phrase: Добрий вечір!
+    Translation: Good evening!
+  - Phrase: Добрий день!
+    Translation: Good day!
+  - Phrase: Добра ніч!
+    Translation: Good night!
+  - Phrase: Як ти є?
+    Translation: How are you?
+  - Phrase: Я є добрий, дякую!
+    Translation: I am well, thank you!
+  - Phrase: А ти?
+    Translation: And you?
+  - Phrase: Дякую тобі дуже.
+    Translation: Thank you very much.
+  - Phrase: Перепрошую, не розумію.
+    Translation: Excuse me, I don't understand.
+  - Phrase: Привіт!
+    Translation: Greetings!
+  - Phrase: Привіт!
+    Translation: Hello!
+  - Phrase: Добрий день, як ти є?
+    Translation: Good day, how are you?
+  - Phrase: Ти є здоровий?
+    Translation: Are you healthy?
+  - Phrase: Ласкаво просимо!
+    Translation: Welcome!
+  - Phrase: На здоров'я!
+    Translation: To your health!
+  - Phrase: Привітай твою сестру.
+    Translation: Greet your sister.
+  - Phrase: Як тебе звуть?
+    Translation: What is your name?
+  - Phrase: Мене звуть Бартек.
+    Translation: My name is Bartek.
+  - Phrase: Дякую за бесіду.
+    Translation: Thank you for the conversation.
+  - Phrase: Так є.
+    Translation: That is so.
+  - Phrase: Не так.
+    Translation: Not so.
+  - Phrase: Може бути.
+    Translation: Maybe.
+  - Phrase: Не можливо.
+    Translation: Not possible.
+  - Phrase: Шкода!
+    Translation: What a pity!
+  - Phrase: Добре!
+    Translation: Good!
+  - Phrase: Недобре.
+    Translation: Not good.
+  - Phrase: Це є краще.
+    Translation: This is better.
+  - Phrase: Це не є краще.
+    Translation: This is not better.
+  - Phrase: Так, може.
+    Translation: Yes, it is possible.
+  - Phrase: Ні, не можливо.
+    Translation: No, it is not possible.
+  - Phrase: Чи це можливо?
+    Translation: Is this possible?
+  - Phrase: Що це означає?
+    Translation: What does this mean?
+  - Phrase: Також я.
+    Translation: Me too.
+  - Phrase: З Богом!
+    Translation: Go with God!
+  - Phrase: Не знаю.
+    Translation: I don't know.
+  - Phrase: Може.
+    Translation: Perhaps.
+  - Phrase: Повтори. Не зрозумів.
+    Translation: Repeat. I didn't understand.
+  - Phrase: Ти є готовий?
+    Translation: Are you ready?
+  - Phrase: Давай!
+    Translation: Let's go!
+
+Mini-dictionary:
+  Ukrainian:
+    - а: undefined
+    - бартек: undefined
+    - бесіда/розмова: undefined
+    - бесіду: undefined
+    - богом: undefined
+    - бути: undefined
+    - вечір: undefined
+    - вибач: undefined
+    - готовий: undefined
+    - давай: undefined
+    - день: undefined
+    - добра: undefined
+    - добре: undefined
+    - добрий: undefined
+    - доброго: undefined
+    - дуже: undefined
+    - дякую: undefined
+    - з: undefined
+    - за: undefined
+    - звуть: undefined
+    - здоров'я: undefined
+    - здоровий: undefined
+    - здоровий/привіт: undefined
+    - знаю: undefined
+    - зрозумів: undefined
+    - краще: undefined
+    - ласкаво: undefined
+    - мене: undefined
+    - може: undefined
+    - можливо: undefined
+    - на: undefined
+    - не: undefined
+    - недобре: undefined
+    - ні: undefined
+    - ніч: undefined
+    - означає: undefined
+    - перепрошую: undefined
+    - повтори: undefined
+    - привіт: undefined
+    - привітай: undefined
+    - привітання: undefined
+    - просимо: undefined
+    - ранку: undefined
+    - ранок: undefined
+    - розумію: undefined
+    - сестру: undefined
+    - ствердно: undefined
+    - так: undefined
+    - так/отже: undefined
+    - також: undefined
+    - твою: undefined
+    - тебе: undefined
+    - ти: undefined
+    - тобі: undefined
+    - це: undefined
+    - чи: undefined
+    - шкода: undefined
+    - що: undefined
+    - я: undefined
+    - як: undefined
+    - є: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - bartek: undefined
+    - better: undefined
+    - conversation: undefined
+    - day: undefined
+    - didn't: undefined
+    - does: undefined
+    - don't: undefined
+    - evening: undefined
+    - excuse: undefined
+    - for: undefined
+    - go: undefined
+    - god: undefined
+    - good: undefined
+    - greet: undefined
+    - greeting: undefined
+    - greetings: undefined
+    - health: undefined
+    - healthy: undefined
+    - healthy/hello: undefined
+    - hello: undefined
+    - how: undefined
+    - i: undefined
+    - is: undefined
+    - it: undefined
+    - know: undefined
+    - let's: undefined
+    - maybe: undefined
+    - maybe/can: undefined
+    - me: undefined
+    - mean: undefined
+    - morning: undefined
+    - much: undefined
+    - my: undefined
+    - name: undefined
+    - night: undefined
+    - no: undefined
+    - not: undefined
+    - pardon: undefined
+    - perhaps: undefined
+    - pity: undefined
+    - possible: undefined
+    - ready: undefined
+    - repeat: undefined
+    - sister: undefined
+    - so: undefined
+    - thank: undefined
+    - thanks: undefined
+    - that: undefined
+    - the: undefined
+    - this: undefined
+    - to: undefined
+    - too: undefined
+    - understand: undefined
+    - very: undefined
+    - welcome: undefined
+    - well: undefined
+    - what: undefined
+    - with: undefined
+    - yes: undefined
+    - you: undefined
+    - your: undefined

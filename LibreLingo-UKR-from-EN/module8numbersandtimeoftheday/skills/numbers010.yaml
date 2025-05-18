@@ -1,0 +1,169 @@
+Skill:
+  Name: Numbers 0-10
+  Id: 26
+
+New words:
+  - Word: нуль
+    Translation: zero
+  - Word: один (ч)
+    Translation: one
+  - Word: одна (ж)
+    Translation: one
+  - Word: одне (с)
+    Translation: one
+  - Word: два (ч/с)
+    Translation: two
+  - Word: дві (ж)
+    Translation: two
+  - Word: три
+    Translation: three
+  - Word: чотири
+    Translation: four
+  - Word: п\'ять
+    Translation: five
+  - Word: шість
+    Translation: six
+  - Word: сім
+    Translation: seven
+  - Word: вісім
+    Translation: eight
+  - Word: девять
+    Translation: nine
+  - Word: десять
+    Translation: ten
+  - Word: годинник
+    Translation: clock/watch
+  - Word: хлопець
+    Translation: boy
+  - Word: комп\'ютер
+    Translation: computer
+  - Word: велосипед
+    Translation: bicycle
+  - Word: рубль
+    Translation: ruble
+  - Word: жінка
+    Translation: woman
+  - Word: поле
+    Translation: field
+  - Word: кіт
+    Translation: cat
+  - Word: долар
+    Translation: dollar
+
+Phrases:
+  - Phrase: нуль годинників
+    Translation: zero clocks
+  - Phrase: один хлопець
+    Translation: one boy
+  - Phrase: одна жінка
+    Translation: one woman
+  - Phrase: одне поле
+    Translation: one field
+  - Phrase: два хлопці
+    Translation: two boys
+  - Phrase: дві жінки
+    Translation: two women
+  - Phrase: три коти
+    Translation: three cats
+  - Phrase: чотири велосипеди
+    Translation: four bicycles
+  - Phrase: п'ять хлопців
+    Translation: five boys
+  - Phrase: шість велосипедів
+    Translation: six bicycles
+  - Phrase: сім рублів
+    Translation: seven rubles
+  - Phrase: вісім доларів
+    Translation: eight dollars
+  - Phrase: девять комп'ютерів
+    Translation: nine computers
+  - Phrase: десять годинників
+    Translation: ten clocks
+  - Phrase: дві речі
+    Translation: two things
+  - Phrase: одне сонце
+    Translation: one sun
+  - Phrase: один велосипед
+    Translation: one bicycle
+  - Phrase: чотири долари
+    Translation: four dollars
+  - Phrase: три коти
+    Translation: three cats
+  - Phrase: п'ять котів
+    Translation: five cats
+
+Mini-dictionary:
+  Ukrainian:
+    - велосипед: undefined
+    - велосипеди: undefined
+    - велосипедів: undefined
+    - вісім: undefined
+    - годинник: undefined
+    - годинників: undefined
+    - два: undefined
+    - дві: undefined
+    - девять: undefined
+    - десять: undefined
+    - долар: undefined
+    - долари: undefined
+    - доларів: undefined
+    - ж: undefined
+    - жінка: undefined
+    - жінки: undefined
+    - комп'ютерів: undefined
+    - комп\'ютер: undefined
+    - коти: undefined
+    - котів: undefined
+    - кіт: undefined
+    - нуль: undefined
+    - один: undefined
+    - одна: undefined
+    - одне: undefined
+    - п'ять: undefined
+    - п\'ять: undefined
+    - поле: undefined
+    - речі: undefined
+    - рубль: undefined
+    - рублів: undefined
+    - с: undefined
+    - сонце: undefined
+    - сім: undefined
+    - три: undefined
+    - хлопець: undefined
+    - хлопці: undefined
+    - хлопців: undefined
+    - ч: undefined
+    - ч/с: undefined
+    - чотири: undefined
+    - шість: undefined
+  English:
+    - bicycle: undefined
+    - bicycles: undefined
+    - boy: undefined
+    - boys: undefined
+    - cat: undefined
+    - cats: undefined
+    - clock/watch: undefined
+    - clocks: undefined
+    - computer: undefined
+    - computers: undefined
+    - dollar: undefined
+    - dollars: undefined
+    - eight: undefined
+    - field: undefined
+    - five: undefined
+    - four: undefined
+    - nine: undefined
+    - one: undefined
+    - ruble: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - sun: undefined
+    - ten: undefined
+    - things: undefined
+    - three: undefined
+    - two: undefined
+    - woman: undefined
+    - women: undefined
+    - zero: undefined

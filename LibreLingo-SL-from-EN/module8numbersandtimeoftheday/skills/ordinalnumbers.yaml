@@ -1,0 +1,159 @@
+Skill:
+  Name: Ordinal Numbers
+  Id: 30
+
+New words:
+  - Word: prvi
+    Translation: first
+  - Word: drugi
+    Translation: second
+  - Word: tretji
+    Translation: third
+  - Word: četrti
+    Translation: fourth
+  - Word: peti
+    Translation: fifth
+  - Word: šesti
+    Translation: sixth
+  - Word: sedmi
+    Translation: seventh
+  - Word: osmi
+    Translation: eighth
+  - Word: deveti
+    Translation: ninth
+  - Word: tisoči
+    Translation: thousandth
+  - Word: stoti
+    Translation: hundredth
+  - Word: pet tisoči
+    Translation: five thousandth
+  - Word: sedem tisoči
+    Translation: seven thousandth
+  - Word: ura
+    Translation: hour
+
+Phrases:
+  - Phrase: o prvi uri dvajset
+    Translation: at twenty past the first hour
+  - Phrase: o drugi uri deset pet
+    Translation: at fifteen past the second hour
+  - Phrase: o tretji uri dva
+    Translation: at two past the third hour
+  - Phrase: o četrti uri sedem
+    Translation: at seven past the fourth hour
+  - Phrase: o peti uri
+    Translation: at the fifth hour
+  - Phrase: o šesti uri
+    Translation: at the sixth hour
+  - Phrase: o osmi uri petdeset pet
+    Translation: at fifty five past the eighth hour
+  - Phrase: o deveti uri
+    Translation: at the ninth hour
+  - Phrase: o deseti uri
+    Translation: at the tenth hour
+  - Phrase: o dvanajsti uri
+    Translation: at the twelfth hour
+  - Phrase: o enajsti uri trideset tri
+    Translation: at thirty three past the eleventh hour
+  - Phrase: stoti dolar
+    Translation: hundredth dollar
+  - Phrase: dvesto tretji računalnik
+    Translation: two hundred third computer
+  - Phrase: dvestoti ura
+    Translation: two hundredth clock
+  - Phrase: trideseti moški
+    Translation: thirtieth man
+  - Phrase: dvesto prvi brat
+    Translation: two hundred first brother
+  - Phrase: šeststoti kolo
+    Translation: six hundredth bicycle
+  - Phrase: osemsto drugi dolar
+    Translation: eight hundred second dollar
+  - Phrase: devetstoti pes
+    Translation: nine hundredth dog
+  - Phrase: štiristo peta gora
+    Translation: four hundred fifth mountain
+
+Mini-dictionary:
+  Slovenian:
+    - brat: undefined
+    - deset: undefined
+    - deseti: undefined
+    - deveti: undefined
+    - devetstoti: undefined
+    - dolar: undefined
+    - drugi: undefined
+    - dva: undefined
+    - dvajset: undefined
+    - dvanajsti: undefined
+    - dvesto: undefined
+    - dvestoti: undefined
+    - enajsti: undefined
+    - gora: undefined
+    - kolo: undefined
+    - moški: undefined
+    - o: undefined
+    - osemsto: undefined
+    - osmi: undefined
+    - pes: undefined
+    - pet: undefined
+    - peta: undefined
+    - petdeset: undefined
+    - peti: undefined
+    - prvi: undefined
+    - računalnik: undefined
+    - sedem: undefined
+    - sedmi: undefined
+    - stoti: undefined
+    - tisoči: undefined
+    - tretji: undefined
+    - tri: undefined
+    - trideset: undefined
+    - trideseti: undefined
+    - ura: undefined
+    - uri: undefined
+    - četrti: undefined
+    - šesti: undefined
+    - šeststoti: undefined
+    - štiristo: undefined
+  English:
+    - at: undefined
+    - bicycle: undefined
+    - brother: undefined
+    - clock: undefined
+    - computer: undefined
+    - dog: undefined
+    - dollar: undefined
+    - eight: undefined
+    - eighth: undefined
+    - eleventh: undefined
+    - fifteen: undefined
+    - fifth: undefined
+    - fifty: undefined
+    - first: undefined
+    - five: undefined
+    - four: undefined
+    - fourth: undefined
+    - hour: undefined
+    - hundred: undefined
+    - hundredth: undefined
+    - man: undefined
+    - mountain: undefined
+    - nine: undefined
+    - ninth: undefined
+    - past: undefined
+    - second: undefined
+    - seven: undefined
+    - seventh: undefined
+    - six: undefined
+    - sixth: undefined
+    - tenth: undefined
+    - the: undefined
+    - third: undefined
+    - thirtieth: undefined
+    - thirty: undefined
+    - thousandth: undefined
+    - three: undefined
+    - twelfth: undefined
+    - twenty: undefined
+    - two: undefined

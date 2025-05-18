@@ -1,0 +1,199 @@
+Skill:
+  Name: Grammar revision pronouncs
+  Id: 20
+
+New words:
+  - Word: "знати"
+    Translation: to know
+  - Word: "ведети (ве)"
+    Translation: to know
+  - Word: "сен"
+    Translation: dream
+  - Word: "веч"
+    Translation: thing
+
+Phrases:
+  - Phrase: Тога не знам.
+    Translation: I don't know that.
+  - Phrase: О том уже долго вае вем.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Кога ти видиш?.
+    Translation: Who do you see?.
+  - Phrase: Тим ктори лежет се спати спокојнога сна.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: О тој вечи ја ничто не знам.
+    Translation: I know nothing about that thing.
+  - Phrase: Говорим с тобоју.
+    Translation: I am talking with you.
+  - Phrase: Ја видим вас.
+    Translation: I see you.
+  - Phrase: Он љуби бити сам с собоју.
+    Translation: He likes to be alone with himself.
+  - Phrase: Дај мени воду.
+    Translation: Give me water.
+  - Phrase: С нами всегда все весело.
+    Translation: With us everything is always cheerful.
+  - Phrase: Мене не видиш.
+    Translation: You don't see me.
+  - Phrase: Кому даш дар?
+    Translation: Who do you give a gift to?
+  - Phrase: О мене говориш?
+    Translation: Are you talking about me?
+  - Phrase: Не, ја не говорим о теби.
+    Translation: No, I don't talt about you.
+  - Phrase: О чем ти говориш?
+    Translation: What are you talking about?
+  - Phrase: Те жени сут красне.
+    Translation: These women are beautiful.
+  - Phrase: Ти пријатеља не имаш.
+    Translation: You do not have those friends.
+  - Phrase: Он даје себе спокој.
+    Translation: He stops troubling others.
+  - Phrase: Чега ту нема в дому?
+    Translation: What isn't at this house here?
+  - Phrase: Том псу ти дајеш кости.
+    Translation: You give to this dog bones.
+  - Phrase: То ваша кава или њеј?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Serbian:
+    - бити: undefined
+    - в: undefined
+    - вае: undefined
+    - вас: undefined
+    - ваша: undefined
+    - ве: undefined
+    - ведети: undefined
+    - вем: undefined
+    - весело: undefined
+    - веч: undefined
+    - вечи: undefined
+    - видим: undefined
+    - видиш: undefined
+    - воду: undefined
+    - все: undefined
+    - всегда: undefined
+    - говорим: undefined
+    - говориш: undefined
+    - дар: undefined
+    - даш: undefined
+    - дај: undefined
+    - даје: undefined
+    - дајеш: undefined
+    - долго: undefined
+    - дому: undefined
+    - жени: undefined
+    - знам: undefined
+    - знати: undefined
+    - или: undefined
+    - имаш: undefined
+    - кава: undefined
+    - кога: undefined
+    - кому: undefined
+    - кости: undefined
+    - красне: undefined
+    - ктори: undefined
+    - лежет: undefined
+    - мене: undefined
+    - мени: undefined
+    - нами: undefined
+    - не: undefined
+    - нема: undefined
+    - ничто: undefined
+    - о: undefined
+    - он: undefined
+    - пријатеља: undefined
+    - псу: undefined
+    - с: undefined
+    - сам: undefined
+    - се: undefined
+    - себе: undefined
+    - сен: undefined
+    - сна: undefined
+    - собоју: undefined
+    - спати: undefined
+    - спокој: undefined
+    - спокојнога: undefined
+    - сут: undefined
+    - те: undefined
+    - теби: undefined
+    - ти: undefined
+    - тим: undefined
+    - то: undefined
+    - тобоју: undefined
+    - тога: undefined
+    - том: undefined
+    - тој: undefined
+    - ту: undefined
+    - уже: undefined
+    - чега: undefined
+    - чем: undefined
+    - ја: undefined
+    - љуби: undefined
+    - њеј: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - alone: undefined
+    - always: undefined
+    - am: undefined
+    - are: undefined
+    - at: undefined
+    - be: undefined
+    - beautiful: undefined
+    - bones: undefined
+    - cheerful: undefined
+    - coffee: undefined
+    - do: undefined
+    - dog: undefined
+    - don't: undefined
+    - dream: undefined
+    - everything: undefined
+    - for: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - going: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - himself: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - isn't: undefined
+    - it: undefined
+    - know: undefined
+    - known: undefined
+    - likes: undefined
+    - long: undefined
+    - me: undefined
+    - no: undefined
+    - not: undefined
+    - nothing: undefined
+    - or: undefined
+    - others: undefined
+    - peaceful: undefined
+    - see: undefined
+    - sleep: undefined
+    - stops: undefined
+    - talking: undefined
+    - talt: undefined
+    - that: undefined
+    - these: undefined
+    - thing: undefined
+    - this: undefined
+    - those: undefined
+    - time: undefined
+    - to: undefined
+    - troubling: undefined
+    - us: undefined
+    - water: undefined
+    - what: undefined
+    - who: undefined
+    - with: undefined
+    - women: undefined
+    - you: undefined
+    - your: undefined

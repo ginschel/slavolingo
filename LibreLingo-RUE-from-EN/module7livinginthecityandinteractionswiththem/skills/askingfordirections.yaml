@@ -1,0 +1,167 @@
+Skill:
+  Name: Asking for Directions
+  Id: 25
+
+New words:
+  - Word: де
+    Translation: where
+  - Word: куды
+    Translation: which way
+  - Word: вправо
+    Translation: to the right
+  - Word: влїво
+    Translation: to the left
+  - Word: прямо
+    Translation: straight
+  - Word: близко
+    Translation: near
+  - Word: далеко
+    Translation: far
+  - Word: просити
+    Translation: to ask
+  - Word: показати
+    Translation: to show
+  - Word: путь
+    Translation: path/way
+
+Phrases:
+  - Phrase: Де є станція?
+    Translation: Where is the station?
+  - Phrase: Куды іде дорога?
+    Translation: Which way does the road go?
+  - Phrase: Ідеме вправо.
+    Translation: We are going to the right.
+  - Phrase: Потом влїво.
+    Translation: Then to the left.
+  - Phrase: Іди прямо до моста.
+    Translation: Go straight to the bridge.
+  - Phrase: Проспект є близко торга.
+    Translation: The avenue is near the square.
+  - Phrase: Бібліотека є далеко.
+    Translation: The library is far away.
+  - Phrase: Прошу їх за дорогу.
+    Translation: I ask them for the way.
+  - Phrase: Можете показати путь?
+    Translation: Can you show me the way?
+  - Phrase: Вулиця іде до центра.
+    Translation: The street goes to the center.
+  - Phrase: Де є близкый готел?
+    Translation: Where is the nearest hotel?
+  - Phrase: Куды ідете?
+    Translation: Which way are you going?
+  - Phrase: Ідете прямо і потом вправо.
+    Translation: Go straight and then to the right.
+  - Phrase: Станція є влїво.
+    Translation: The station is on the left.
+  - Phrase: Магазін є близко бібліотекы.
+    Translation: The shop is near the library.
+  - Phrase: Торг є далеко од готела.
+    Translation: The square is far from the hotel.
+  - Phrase: Прошу стару жену.
+    Translation: I ask the old woman.
+  - Phrase: Он мі показує дорогу.
+    Translation: He shows me the way.
+  - Phrase: Вулиця є довга.
+    Translation: The street is long.
+  - Phrase: Куды їде тотот поїзд?
+    Translation: Where is that train going?
+
+Mini-dictionary:
+  Rusin:
+    - близко: undefined
+    - близкый: undefined
+    - бібліотека: undefined
+    - бібліотекы: undefined
+    - влїво: undefined
+    - вправо: undefined
+    - вулиця: undefined
+    - готел: undefined
+    - готела: undefined
+    - далеко: undefined
+    - де: undefined
+    - до: undefined
+    - довга: undefined
+    - дорога: undefined
+    - дорогу: undefined
+    - жену: undefined
+    - за: undefined
+    - куды: undefined
+    - магазін: undefined
+    - можете: undefined
+    - моста: undefined
+    - мі: undefined
+    - од: undefined
+    - он: undefined
+    - показати: undefined
+    - показує: undefined
+    - потом: undefined
+    - поїзд: undefined
+    - просити: undefined
+    - проспект: undefined
+    - прошу: undefined
+    - прямо: undefined
+    - путь: undefined
+    - станція: undefined
+    - стару: undefined
+    - торг: undefined
+    - торга: undefined
+    - тотот: undefined
+    - центра: undefined
+    - є: undefined
+    - і: undefined
+    - іде: undefined
+    - ідеме: undefined
+    - ідете: undefined
+    - іди: undefined
+    - їде: undefined
+    - їх: undefined
+  English:
+    - and: undefined
+    - are: undefined
+    - ask: undefined
+    - avenue: undefined
+    - away: undefined
+    - bridge: undefined
+    - can: undefined
+    - center: undefined
+    - does: undefined
+    - far: undefined
+    - for: undefined
+    - from: undefined
+    - go: undefined
+    - goes: undefined
+    - going: undefined
+    - he: undefined
+    - hotel: undefined
+    - i: undefined
+    - is: undefined
+    - left: undefined
+    - library: undefined
+    - long: undefined
+    - me: undefined
+    - near: undefined
+    - nearest: undefined
+    - old: undefined
+    - on: undefined
+    - path/way: undefined
+    - right: undefined
+    - road: undefined
+    - shop: undefined
+    - show: undefined
+    - shows: undefined
+    - square: undefined
+    - station: undefined
+    - straight: undefined
+    - street: undefined
+    - that: undefined
+    - the: undefined
+    - them: undefined
+    - then: undefined
+    - to: undefined
+    - train: undefined
+    - way: undefined
+    - we: undefined
+    - where: undefined
+    - which: undefined
+    - woman: undefined
+    - you: undefined

@@ -1,0 +1,206 @@
+Skill:
+  Name: Cardinal points/directions
+  Id: 18
+
+New words:
+  - Word: północ
+    Translation: north
+  - Word: południe
+    Translation: south
+  - Word: zachód
+    Translation: west
+  - Word: wschód
+    Translation: east
+  - Word: północny
+    Translation: northern
+  - Word: południowy
+    Translation: southern
+  - Word: zachodni
+    Translation: western
+  - Word: wschodni
+    Translation: eastern
+  - Word: kompas
+    Translation: compass
+  - Word: strona
+    Translation: side
+  - Word: gdzie
+    Translation: where
+  - Word: wstać (wstaje)
+    Translation: to rise
+  - Word: pokazywać
+    Translation: to show
+  - Word: mapa
+    Translation: map
+  - Word: podróżować
+    Translation: to travel
+  - Word: prawo
+    Translation: right
+  - Word: lewo
+    Translation: left
+  - Word: prosto
+    Translation: straight
+
+Phrases:
+  - Phrase: Północ jest zimna.
+    Translation: The north is cold.
+  - Phrase: Południe jest ciepłe.
+    Translation: The south is warm.
+  - Phrase: Słońce wschodzi na wschodzie.
+    Translation: The sun rises in the east.
+  - Phrase: Ono zachodzi na zachodzie.
+    Translation: It sets in the west.
+  - Phrase: To jest strona północna.
+    Translation: This is the northern side.
+  - Phrase: Żyjemy na południu.
+    Translation: We live in the south.
+  - Phrase: Kompas pokazuje północ.
+    Translation: The compass shows north.
+  - Phrase: Wschód jest tam.
+    Translation: The east is there.
+  - Phrase: Wieje zachodni wiatr.
+    Translation: A western wind is blowing.
+  - Phrase: Idziemy na południowy zachód.
+    Translation: We are going to the southwest.
+  - Phrase: To jest region północno-zachodni.
+    Translation: This is the northwestern region.
+  - Phrase: Strona na mapie pokazuje zachód.
+    Translation: The side on the map shows west.
+  - Phrase: Południowy wschód jest tam, gdzie grzeje słońce.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Idziemy do południowej strony.
+    Translation: We are going to the southern side.
+  - Phrase: On podróżuje na wschód.
+    Translation: He travels eastward.
+  - Phrase: Na północy jest śnieg.
+    Translation: In the north there is snow.
+  - Phrase: Południowe kraje są ciepłe.
+    Translation: The southern regions are warm.
+  - Phrase: Zachód jest po lewej na mapie.
+    Translation: West is left on the map.
+  - Phrase: Muzyka wschodnia jest interesująca.
+    Translation: Eastern music is interesting.
+  - Phrase: Patrzymy na północ.
+    Translation: We are looking to the north.
+  - Phrase: Idziemy teraz w prawo i potem prosto.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Polish:
+    - ciepłe: undefined
+    - do: undefined
+    - gdzie: undefined
+    - grzeje: undefined
+    - i: undefined
+    - idziemy: undefined
+    - interesująca: undefined
+    - jest: undefined
+    - kompas: undefined
+    - kraje: undefined
+    - lewej: undefined
+    - lewo: undefined
+    - mapa: undefined
+    - mapie: undefined
+    - muzyka: undefined
+    - na: undefined
+    - on: undefined
+    - ono: undefined
+    - patrzymy: undefined
+    - po: undefined
+    - podróżować: undefined
+    - podróżuje: undefined
+    - pokazuje: undefined
+    - pokazywać: undefined
+    - potem: undefined
+    - południe: undefined
+    - południowe: undefined
+    - południowej: undefined
+    - południowy: undefined
+    - południu: undefined
+    - prawo: undefined
+    - prosto: undefined
+    - północ: undefined
+    - północna: undefined
+    - północno-zachodni: undefined
+    - północny: undefined
+    - północy: undefined
+    - region: undefined
+    - strona: undefined
+    - strony: undefined
+    - są: undefined
+    - słońce: undefined
+    - tam: undefined
+    - teraz: undefined
+    - to: undefined
+    - w: undefined
+    - wiatr: undefined
+    - wieje: undefined
+    - wschodni: undefined
+    - wschodnia: undefined
+    - wschodzi: undefined
+    - wschodzie: undefined
+    - wschód: undefined
+    - wstaje: undefined
+    - wstać: undefined
+    - zachodni: undefined
+    - zachodzi: undefined
+    - zachodzie: undefined
+    - zachód: undefined
+    - zimna: undefined
+    - śnieg: undefined
+    - żyjemy: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - blowing: undefined
+    - cold: undefined
+    - compass: undefined
+    - east: undefined
+    - eastern: undefined
+    - eastward: undefined
+    - going: undefined
+    - he: undefined
+    - in: undefined
+    - interesting: undefined
+    - is: undefined
+    - it: undefined
+    - left: undefined
+    - live: undefined
+    - looking: undefined
+    - map: undefined
+    - music: undefined
+    - north: undefined
+    - northern: undefined
+    - northwestern: undefined
+    - now: undefined
+    - on: undefined
+    - region: undefined
+    - regions: undefined
+    - right: undefined
+    - rise: undefined
+    - rises: undefined
+    - sets: undefined
+    - show: undefined
+    - shows: undefined
+    - side: undefined
+    - snow: undefined
+    - south: undefined
+    - southeast: undefined
+    - southern: undefined
+    - southwest: undefined
+    - straight: undefined
+    - sun: undefined
+    - the: undefined
+    - then: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - travel: undefined
+    - travels: undefined
+    - warm: undefined
+    - warms: undefined
+    - we: undefined
+    - west: undefined
+    - western: undefined
+    - where: undefined
+    - wind: undefined

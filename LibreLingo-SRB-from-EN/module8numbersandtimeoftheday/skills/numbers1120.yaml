@@ -1,0 +1,121 @@
+Skill:
+  Name: Numbers 11-20
+  Id: 27
+
+New words:
+  - Word: једанаест
+    Translation: eleven
+  - Word: дванаест
+    Translation: twelve
+  - Word: тринаест
+    Translation: thirteen
+  - Word: четрнаест
+    Translation: fourteen
+  - Word: петнаест
+    Translation: fifteen
+  - Word: шеснаест
+    Translation: sixteen
+  - Word: седамнаест
+    Translation: seventeen
+  - Word: осамнаест
+    Translation: eighteen
+  - Word: деветнаест
+    Translation: nineteen
+  - Word: двадесет
+    Translation: twenty
+
+Phrases:
+  - Phrase: двадесет часовников
+    Translation: twenty clocks
+  - Phrase: једанаест хлапцев
+    Translation: eleven boys
+  - Phrase: једанаест жен
+    Translation: eleven women
+  - Phrase: једанаест полеј
+    Translation: eleven fields
+  - Phrase: дванаест мужев
+    Translation: twelve men
+  - Phrase: дванаест шест жен
+    Translation: twelve women
+  - Phrase: тринаест котов
+    Translation: thirteen cats
+  - Phrase: четрнаест велосипедов
+    Translation: fourteen bicycles
+  - Phrase: петнаест хлапцев
+    Translation: fifteen boys
+  - Phrase: шеснаест велосипедов
+    Translation: sixteen bicycles
+  - Phrase: седамнаест рубљев
+    Translation: seventeen rubles
+  - Phrase: осамнаест доларов
+    Translation: eighteen dollars
+  - Phrase: деветнаест пет компјутеров
+    Translation: nineteen computers
+  - Phrase: десетнаест часовников
+    Translation: twenty clocks
+  - Phrase: дванаест вечиј
+    Translation: twelve things
+  - Phrase: једанаест солнц
+    Translation: eleven suns
+  - Phrase: шеснаест велосипедов
+    Translation: sixteen bicycles
+  - Phrase: четрнаест доларов
+    Translation: fourteen dollars
+  - Phrase: тринаест два псов
+    Translation: thirteen dogs
+  - Phrase: двадесет котов
+    Translation: twenty cats
+
+Mini-dictionary:
+  Serbian:
+    - велосипедов: undefined
+    - вечиј: undefined
+    - два: undefined
+    - двадесет: undefined
+    - дванаест: undefined
+    - деветнаест: undefined
+    - десетнаест: undefined
+    - доларов: undefined
+    - жен: undefined
+    - компјутеров: undefined
+    - котов: undefined
+    - мужев: undefined
+    - осамнаест: undefined
+    - пет: undefined
+    - петнаест: undefined
+    - полеј: undefined
+    - псов: undefined
+    - рубљев: undefined
+    - седамнаест: undefined
+    - солнц: undefined
+    - тринаест: undefined
+    - хлапцев: undefined
+    - часовников: undefined
+    - четрнаест: undefined
+    - шеснаест: undefined
+    - шест: undefined
+    - једанаест: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eighteen: undefined
+    - eleven: undefined
+    - fields: undefined
+    - fifteen: undefined
+    - fourteen: undefined
+    - men: undefined
+    - nineteen: undefined
+    - rubles: undefined
+    - seventeen: undefined
+    - sixteen: undefined
+    - suns: undefined
+    - things: undefined
+    - thirteen: undefined
+    - twelve: undefined
+    - twenty: undefined
+    - women: undefined

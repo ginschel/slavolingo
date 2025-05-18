@@ -1,0 +1,206 @@
+Skill:
+  Name: Nature
+  Id: 15
+
+New words:
+  - Word: ріка
+    Translation: river
+  - Word: через
+    Translation: through
+  - Word: гора
+    Translation: mountain
+  - Word: долина
+    Translation: valley
+  - Word: ліс
+    Translation: forest
+  - Word: трава
+    Translation: grass
+  - Word: квіт
+    Translation: flower
+  - Word: роза
+    Translation: rose
+  - Word: рости (росте)
+    Translation: to grow
+  - Word: земля
+    Translation: earth
+  - Word: камінь
+    Translation: stone
+  - Word: поле
+    Translation: field
+  - Word: дуб
+    Translation: oak
+  - Word: місяць
+    Translation: moon
+  - Word: цвісти (цвіте)
+    Translation: to bloom
+  - Word: дерево
+    Translation: tree
+  - Word: лежати (лежить)
+    Translation: to lie
+  - Word: між
+    Translation: between
+
+Phrases:
+  - Phrase: Ріка тече через долину.
+    Translation: The river flows through the valley.
+  - Phrase: Гора є висока.
+    Translation: The mountain is high.
+  - Phrase: Ми йдемо в ліс.
+    Translation: We are going to the forest.
+  - Phrase: Трава є зелена.
+    Translation: The grass is green.
+  - Phrase: Квіти красиво цвітуть.
+    Translation: The flowers bloom beautifully.
+  - Phrase: Він стоїть на камені.
+    Translation: He is standing on the stone.
+  - Phrase: Земля є мокра.
+    Translation: The earth is wet.
+  - Phrase: Роза росте на полі.
+    Translation: The rose grows in the field.
+  - Phrase: Долина лежить між горами.
+    Translation: The valley lies between the mountains.
+  - Phrase: Поле є широке.
+    Translation: The field is wide.
+  - Phrase: Вони йдуть через ліс з багатьма деревами.
+    Translation: They are going through the forest with many trees.
+  - Phrase: Трава росте швидко.
+    Translation: The grass grows fast.
+  - Phrase: Камені є важкі.
+    Translation: The stones are heavy.
+  - Phrase: Квіт росте з землі.
+    Translation: A flower grows from the earth.
+  - Phrase: Вода йде до ріки.
+    Translation: Water goes to the river.
+  - Phrase: Поле є за домом.
+    Translation: The field is behind the house.
+  - Phrase: Йдемо до дуба.
+    Translation: We are going towards the oak.
+  - Phrase: Місяць сьогодні красивий
+    Translation: The moon today is beautiful
+  - Phrase: Ми стоїмо на землі.
+    Translation: We are standing on the earth.
+  - Phrase: Вони дивляться в долину.
+    Translation: They are looking into the valley.
+  - Phrase: Ріка йде між полями.
+    Translation: The river goes between the fields.
+
+Mini-dictionary:
+  Ukrainian:
+    - багатьма: undefined
+    - в: undefined
+    - важкі: undefined
+    - висока: undefined
+    - вода: undefined
+    - вони: undefined
+    - він: undefined
+    - гора: undefined
+    - горами: undefined
+    - деревами: undefined
+    - дерево: undefined
+    - дивляться: undefined
+    - до: undefined
+    - долина: undefined
+    - долину: undefined
+    - домом: undefined
+    - дуб: undefined
+    - дуба: undefined
+    - з: undefined
+    - за: undefined
+    - зелена: undefined
+    - земля: undefined
+    - землі: undefined
+    - йде: undefined
+    - йдемо: undefined
+    - йдуть: undefined
+    - камені: undefined
+    - камінь: undefined
+    - квіт: undefined
+    - квіти: undefined
+    - красивий: undefined
+    - красиво: undefined
+    - лежати: undefined
+    - лежить: undefined
+    - ліс: undefined
+    - ми: undefined
+    - мокра: undefined
+    - між: undefined
+    - місяць: undefined
+    - на: undefined
+    - поле: undefined
+    - полями: undefined
+    - полі: undefined
+    - роза: undefined
+    - росте: undefined
+    - рости: undefined
+    - ріка: undefined
+    - ріки: undefined
+    - стоїмо: undefined
+    - стоїть: undefined
+    - сьогодні: undefined
+    - тече: undefined
+    - трава: undefined
+    - цвісти: undefined
+    - цвіте: undefined
+    - цвітуть: undefined
+    - через: undefined
+    - швидко: undefined
+    - широке: undefined
+    - є: undefined
+  English:
+    - a: undefined
+    - are: undefined
+    - beautiful: undefined
+    - beautifully: undefined
+    - behind: undefined
+    - between: undefined
+    - bloom: undefined
+    - earth: undefined
+    - fast: undefined
+    - field: undefined
+    - fields: undefined
+    - flower: undefined
+    - flowers: undefined
+    - flows: undefined
+    - forest: undefined
+    - from: undefined
+    - goes: undefined
+    - going: undefined
+    - grass: undefined
+    - green: undefined
+    - grow: undefined
+    - grows: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - house: undefined
+    - in: undefined
+    - into: undefined
+    - is: undefined
+    - lie: undefined
+    - lies: undefined
+    - looking: undefined
+    - many: undefined
+    - moon: undefined
+    - mountain: undefined
+    - mountains: undefined
+    - oak: undefined
+    - on: undefined
+    - river: undefined
+    - rose: undefined
+    - standing: undefined
+    - stone: undefined
+    - stones: undefined
+    - the: undefined
+    - they: undefined
+    - through: undefined
+    - to: undefined
+    - today: undefined
+    - towards: undefined
+    - tree: undefined
+    - trees: undefined
+    - valley: undefined
+    - water: undefined
+    - we: undefined
+    - wet: undefined
+    - wide: undefined
+    - with: undefined

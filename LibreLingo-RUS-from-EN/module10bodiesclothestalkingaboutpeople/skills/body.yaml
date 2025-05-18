@@ -1,0 +1,231 @@
+Skill:
+  Name: Body
+  Id: 35
+
+New words:
+  - Word: рука
+    Translation: hand
+  - Word: нога
+    Translation: leg
+  - Word: голова
+    Translation: head
+  - Word: глаз
+    Translation: eye
+  - Word: мозг
+    Translation: brain
+  - Word: стопа
+    Translation: foot
+  - Word: ухо
+    Translation: ear
+  - Word: нос
+    Translation: nose
+  - Word: лицо
+    Translation: face
+  - Word: сердце
+    Translation: heart
+  - Word: палец
+    Translation: finger
+  - Word: желудок
+    Translation: stomach
+  - Word: тело
+    Translation: body
+  - Word: болеть (болит)
+    Translation: to hurt
+  - Word: волосы
+    Translation: hair
+  - Word: подобный
+    Translation: similar
+  - Word: слышать (слышит)
+    Translation: to hear
+
+Phrases:
+  - Phrase: Моя рука болит.
+    Translation: My hand hurts.
+  - Phrase: Она имеет долгую ногу.
+    Translation: She has a long leg.
+  - Phrase: Голова есть на теле.
+    Translation: The head is on the body.
+  - Phrase: Он имеет синие красивые глаза.
+    Translation: He has beautiful blue eyes.
+  - Phrase: Её ухо не слышит добро.
+    Translation: Her ear does not hear well.
+  - Phrase: Нос есть красный от мороза.
+    Translation: The nose is red from the cold.
+  - Phrase: Лицо есть подобно.
+    Translation: The face is similar.
+  - Phrase: Её сердце бьёт быстро.
+    Translation: Her heart beats fast.
+  - Phrase: Желудок тебе болит.
+    Translation: My stomach hurts.
+  - Phrase: Тело у меня здорово.
+    Translation: My body is healthy.
+  - Phrase: Я имею две руки и две ноги и тоже две стопы.
+    Translation: I have two hands and two legs, and also two feet.
+  - Phrase: Глаза смотрят в книгу.
+    Translation: The eyes are looking at the book.
+  - Phrase: Ухо слышит музыку.
+    Translation: The ear hears music.
+  - Phrase: Его мозг есть быстрый.
+    Translation: His brain is quick.
+  - Phrase: Её лицо есть красиво.
+    Translation: Her face is beautiful.
+  - Phrase: Сердце есть символ любви.
+    Translation: The heart is a symbol of love.
+  - Phrase: Мой желудок есть просто полный после ужина.
+    Translation: My stomach is just full after dinner.
+  - Phrase: Телу надо отдыха.
+    Translation: The body needs rest.
+  - Phrase: Он имеет каштановые волосы на голове.
+    Translation: He has chestnut-colored hair on his head.
+  - Phrase: Она слышит тебя только одним ухом.
+    Translation: She hears you only with one ear.
+
+Mini-dictionary:
+  Russian:
+    - болеть: undefined
+    - болит: undefined
+    - быстро: undefined
+    - быстрый: undefined
+    - бьёт: undefined
+    - в: undefined
+    - волосы: undefined
+    - глаз: undefined
+    - глаза: undefined
+    - голова: undefined
+    - голове: undefined
+    - две: undefined
+    - добро: undefined
+    - долгую: undefined
+    - его: undefined
+    - есть: undefined
+    - её: undefined
+    - желудок: undefined
+    - здорово: undefined
+    - и: undefined
+    - имеет: undefined
+    - имею: undefined
+    - каштановые: undefined
+    - книгу: undefined
+    - красиво: undefined
+    - красивые: undefined
+    - красный: undefined
+    - лицо: undefined
+    - любви: undefined
+    - меня: undefined
+    - мозг: undefined
+    - мой: undefined
+    - мороза: undefined
+    - моя: undefined
+    - музыку: undefined
+    - на: undefined
+    - надо: undefined
+    - не: undefined
+    - нога: undefined
+    - ноги: undefined
+    - ногу: undefined
+    - нос: undefined
+    - одним: undefined
+    - он: undefined
+    - она: undefined
+    - от: undefined
+    - отдыха: undefined
+    - палец: undefined
+    - подобно: undefined
+    - подобный: undefined
+    - полный: undefined
+    - после: undefined
+    - просто: undefined
+    - рука: undefined
+    - руки: undefined
+    - сердце: undefined
+    - символ: undefined
+    - синие: undefined
+    - слышать: undefined
+    - слышит: undefined
+    - смотрят: undefined
+    - стопа: undefined
+    - стопы: undefined
+    - тебе: undefined
+    - тебя: undefined
+    - теле: undefined
+    - тело: undefined
+    - телу: undefined
+    - тоже: undefined
+    - только: undefined
+    - у: undefined
+    - ужина: undefined
+    - ухо: undefined
+    - ухом: undefined
+    - я: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beats: undefined
+    - beautiful: undefined
+    - blue: undefined
+    - body: undefined
+    - book: undefined
+    - brain: undefined
+    - chestnut-colored: undefined
+    - cold: undefined
+    - dinner: undefined
+    - does: undefined
+    - ear: undefined
+    - eye: undefined
+    - eyes: undefined
+    - face: undefined
+    - fast: undefined
+    - feet: undefined
+    - finger: undefined
+    - foot: undefined
+    - from: undefined
+    - full: undefined
+    - hair: undefined
+    - hand: undefined
+    - hands: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - head: undefined
+    - healthy: undefined
+    - hear: undefined
+    - hears: undefined
+    - heart: undefined
+    - her: undefined
+    - his: undefined
+    - hurt: undefined
+    - hurts: undefined
+    - i: undefined
+    - is: undefined
+    - just: undefined
+    - leg: undefined
+    - legs: undefined
+    - long: undefined
+    - looking: undefined
+    - love: undefined
+    - music: undefined
+    - my: undefined
+    - needs: undefined
+    - nose: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - one: undefined
+    - only: undefined
+    - quick: undefined
+    - red: undefined
+    - rest: undefined
+    - she: undefined
+    - similar: undefined
+    - stomach: undefined
+    - symbol: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - well: undefined
+    - with: undefined
+    - you: undefined

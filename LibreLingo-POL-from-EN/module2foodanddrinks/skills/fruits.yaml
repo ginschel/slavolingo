@@ -1,0 +1,188 @@
+Skill:
+  Name: Fruits
+  Id: 8
+
+New words:
+  - Word: jabłko
+    Translation: apple
+  - Word: gruszka
+    Translation: pear
+  - Word: banan
+    Translation: banana
+  - Word: pomarańcza
+    Translation: orange
+  - Word: wiśnia
+    Translation: cherry
+  - Word: truskawka
+    Translation: strawberry
+  - Word: dojrzały
+    Translation: ripe
+  - Word: winogrona
+    Translation: grapes
+  - Word: śliwka
+    Translation: plum
+  - Word: cytryna
+    Translation: lemon
+  - Word: kwaśny
+    Translation: sour
+  - Word: słodki
+    Translation: sweet
+  - Word: melon
+    Translation: melon
+
+Phrases:
+  - Phrase: Jabłko jest czerwone.
+    Translation: The apple is red.
+  - Phrase: Gruszka jest smaczna.
+    Translation: The pear is tasty.
+  - Phrase: Banan jest żółty.
+    Translation: The banana is yellow.
+  - Phrase: Pomarańcze są słodkie.
+    Translation: The oranges are sweet.
+  - Phrase: Wiśnia jest kwaśna.
+    Translation: The cherry is sour.
+  - Phrase: Truskawka jest mała i smaczna.
+    Translation: The strawberry is small and tasty.
+  - Phrase: Winogrona rosną na winnicy.
+    Translation: Grapes grow on a vineyard.
+  - Phrase: Śliwka jest ciemna.
+    Translation: The plum is dark.
+  - Phrase: Cytryna jest kwaśna i żółta.
+    Translation: The lemon is sour and yellow.
+  - Phrase: Melon jest duży i słodki.
+    Translation: The melon is big and sweet.
+  - Phrase: On gotuje śliwowicę ze śliwek.
+    Translation: He is preparing plum brandy from plums.
+  - Phrase: Ona pije sok z pomarańczy.
+    Translation: She is drinking orange juice.
+  - Phrase: My kupujemy winogrona.
+    Translation: We are buying grapes.
+  - Phrase: Truskawki są w misce.
+    Translation: The strawberries are in the bowl.
+  - Phrase: Śliwka jest już dojrzała.
+    Translation: The plum is already ripe.
+  - Phrase: Gruszki leżą na stole.
+    Translation: The pears are lying on the table.
+  - Phrase: Cytrynę dodaje się do herbaty.
+    Translation: Lemon is added to tea.
+  - Phrase: Banan jest w torbie.
+    Translation: The banana is in the bag.
+  - Phrase: Wiśnia rośnie na drzewie.
+    Translation: The cherry grows on a tree.
+  - Phrase: Melon jest bardzo smaczny.
+    Translation: The melon is very tasty.
+
+Mini-dictionary:
+  Polish:
+    - banan: undefined
+    - bardzo: undefined
+    - ciemna: undefined
+    - cytryna: undefined
+    - cytrynę: undefined
+    - czerwone: undefined
+    - do: undefined
+    - dodaje: undefined
+    - dojrzała: undefined
+    - dojrzały: undefined
+    - drzewie: undefined
+    - duży: undefined
+    - gotuje: undefined
+    - gruszka: undefined
+    - gruszki: undefined
+    - herbaty: undefined
+    - i: undefined
+    - jabłko: undefined
+    - jest: undefined
+    - już: undefined
+    - kupujemy: undefined
+    - kwaśna: undefined
+    - kwaśny: undefined
+    - leżą: undefined
+    - mała: undefined
+    - melon: undefined
+    - misce: undefined
+    - my: undefined
+    - na: undefined
+    - on: undefined
+    - ona: undefined
+    - pije: undefined
+    - pomarańcza: undefined
+    - pomarańcze: undefined
+    - pomarańczy: undefined
+    - rosną: undefined
+    - rośnie: undefined
+    - się: undefined
+    - smaczna: undefined
+    - smaczny: undefined
+    - sok: undefined
+    - stole: undefined
+    - są: undefined
+    - słodki: undefined
+    - słodkie: undefined
+    - torbie: undefined
+    - truskawka: undefined
+    - truskawki: undefined
+    - w: undefined
+    - winnicy: undefined
+    - winogrona: undefined
+    - wiśnia: undefined
+    - z: undefined
+    - ze: undefined
+    - śliwek: undefined
+    - śliwka: undefined
+    - śliwowicę: undefined
+    - żółta: undefined
+    - żółty: undefined
+  English:
+    - a: undefined
+    - added: undefined
+    - already: undefined
+    - and: undefined
+    - apple: undefined
+    - are: undefined
+    - bag: undefined
+    - banana: undefined
+    - big: undefined
+    - bowl: undefined
+    - brandy: undefined
+    - buying: undefined
+    - cherry: undefined
+    - dark: undefined
+    - drinking: undefined
+    - from: undefined
+    - grapes: undefined
+    - grow: undefined
+    - grows: undefined
+    - he: undefined
+    - in: undefined
+    - is: undefined
+    - juice: undefined
+    - lemon: undefined
+    - lying: undefined
+    - melon: undefined
+    - on: undefined
+    - orange: undefined
+    - oranges: undefined
+    - pear: undefined
+    - pears: undefined
+    - plum: undefined
+    - plums: undefined
+    - preparing: undefined
+    - red: undefined
+    - ripe: undefined
+    - she: undefined
+    - small: undefined
+    - sour: undefined
+    - strawberries: undefined
+    - strawberry: undefined
+    - sweet: undefined
+    - table: undefined
+    - tasty: undefined
+    - tea: undefined
+    - the: undefined
+    - to: undefined
+    - tree: undefined
+    - very: undefined
+    - vineyard: undefined
+    - we: undefined
+    - yellow: undefined

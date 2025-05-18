@@ -1,0 +1,234 @@
+Skill:
+  Name: Weekdays/Months
+  Id: 32
+
+New words:
+  - Word: tydzień
+    Translation: week
+  - Word: pōniydziałek
+    Translation: Monday
+  - Word: wtorek
+    Translation: Tuesday
+  - Word: środa
+    Translation: Wednesday
+  - Word: czwartek
+    Translation: Thursday
+  - Word: piyńtek
+    Translation: Friday
+  - Word: sobota
+    Translation: Saturday
+  - Word: niedziela
+    Translation: Sunday
+  - Word: miesiōnc
+    Translation: month
+  - Word: styczeń
+    Translation: January
+  - Word: luty
+    Translation: February
+  - Word: marzec
+    Translation: March
+  - Word: kwiecień
+    Translation: April
+  - Word: maj
+    Translation: May
+  - Word: czyrwiec
+    Translation: June
+  - Word: lipiec
+    Translation: July
+  - Word: siyrpień
+    Translation: August
+  - Word: wrzesiyń
+    Translation: September
+  - Word: paździyrnik
+    Translation: October
+  - Word: listopad
+    Translation: November
+  - Word: grudziyń
+    Translation: December
+
+Phrases:
+  - Phrase: Pōniydziałek je piyrwszy dziyń we tydniu.
+    Translation: Monday is the first day of the week.
+  - Phrase: Wtorek je po pōniydziałku.
+    Translation: Tuesday is after Monday.
+  - Phrase: Środa je we postrzodku tydnia.
+    Translation: Wednesday is in the middle of the week.
+  - Phrase: Czwartek je przed piyńtkym.
+    Translation: Thursday is before Friday.
+  - Phrase: Piyńtek je ôstatni robotny dziyń.
+    Translation: Friday is the last working day.
+  - Phrase: Sobota to łikend.
+    Translation: Saturday is the weekend.
+  - Phrase: Niedziela to dziyń ôdpočynku.
+    Translation: Sunday is the day of rest.
+  - Phrase: Mōm we styczniu wakyjōm.
+    Translation: I have vacation in January.
+  - Phrase: Nowy rok je we grudniu.
+    Translation: New Year's is in December.
+  - Phrase: We siyrpniu ida do Honduras.
+    Translation: In August, I am going to Honduras.
+  - Phrase: We lutym je moc śniyga.
+    Translation: In February there is a lot of snow.
+  - Phrase: We środa mōm zadańy.
+    Translation: On Wednesday, I have an assignment.
+  - Phrase: We Czwartek je mój ôblubiōny dziyń.
+    Translation: Thursday is my favorite day.
+  - Phrase: We piyńtek wieczorym idymy na film.
+    Translation: On Friday evening we are going to the movies.
+  - Phrase: Sobota je bez roboty.
+    Translation: Saturday is without work.
+  - Phrase: Niedziela je czas za familijo.
+    Translation: Sunday is time for family.
+  - Phrase: Niy kożdy miesiōnc mo trzidzieści dni.
+    Translation: Not every month has thirty days.
+  - Phrase: Paździyrnik je piykny miesiōnc.
+    Translation: October is a beautiful month.
+  - Phrase: Wtorek je dziyniym szportu.
+    Translation: Tuesday is the day for sports.
+  - Phrase: Lipiec je miesiōńcym lata.
+    Translation: July is the month of summer.
+
+Mini-dictionary:
+  Silesian:
+    - bez: undefined
+    - czas: undefined
+    - czwartek: undefined
+    - czyrwiec: undefined
+    - dni: undefined
+    - do: undefined
+    - dziyniym: undefined
+    - dziyń: undefined
+    - familijo: undefined
+    - film: undefined
+    - grudniu: undefined
+    - grudziyń: undefined
+    - honduras: undefined
+    - ida: undefined
+    - idymy: undefined
+    - je: undefined
+    - kożdy: undefined
+    - kwiecień: undefined
+    - lata: undefined
+    - lipiec: undefined
+    - listopad: undefined
+    - luty: undefined
+    - lutym: undefined
+    - maj: undefined
+    - marzec: undefined
+    - miesiōnc: undefined
+    - miesiōńcym: undefined
+    - mo: undefined
+    - moc: undefined
+    - mój: undefined
+    - mōm: undefined
+    - na: undefined
+    - niedziela: undefined
+    - niy: undefined
+    - nowy: undefined
+    - paździyrnik: undefined
+    - piykny: undefined
+    - piyrwszy: undefined
+    - piyńtek: undefined
+    - piyńtkym: undefined
+    - po: undefined
+    - postrzodku: undefined
+    - przed: undefined
+    - pōniydziałek: undefined
+    - pōniydziałku: undefined
+    - robotny: undefined
+    - roboty: undefined
+    - rok: undefined
+    - siyrpień: undefined
+    - siyrpniu: undefined
+    - sobota: undefined
+    - styczeń: undefined
+    - styczniu: undefined
+    - szportu: undefined
+    - to: undefined
+    - trzidzieści: undefined
+    - tydnia: undefined
+    - tydniu: undefined
+    - tydzień: undefined
+    - wakyjōm: undefined
+    - we: undefined
+    - wieczorym: undefined
+    - wrzesiyń: undefined
+    - wtorek: undefined
+    - za: undefined
+    - zadańy: undefined
+    - ôblubiōny: undefined
+    - ôdpočynku: undefined
+    - ôstatni: undefined
+    - łikend: undefined
+    - śniyga: undefined
+    - środa: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - am: undefined
+    - an: undefined
+    - april: undefined
+    - are: undefined
+    - assignment: undefined
+    - august: undefined
+    - beautiful: undefined
+    - before: undefined
+    - day: undefined
+    - days: undefined
+    - december: undefined
+    - evening: undefined
+    - every: undefined
+    - family: undefined
+    - favorite: undefined
+    - february: undefined
+    - first: undefined
+    - for: undefined
+    - friday: undefined
+    - going: undefined
+    - has: undefined
+    - have: undefined
+    - honduras: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - january: undefined
+    - july: undefined
+    - june: undefined
+    - last: undefined
+    - lot: undefined
+    - march: undefined
+    - may: undefined
+    - middle: undefined
+    - monday: undefined
+    - month: undefined
+    - movies: undefined
+    - my: undefined
+    - new: undefined
+    - not: undefined
+    - november: undefined
+    - october: undefined
+    - of: undefined
+    - on: undefined
+    - rest: undefined
+    - saturday: undefined
+    - september: undefined
+    - snow: undefined
+    - sports: undefined
+    - summer: undefined
+    - sunday: undefined
+    - the: undefined
+    - there: undefined
+    - thirty: undefined
+    - thursday: undefined
+    - time: undefined
+    - to: undefined
+    - tuesday: undefined
+    - vacation: undefined
+    - we: undefined
+    - wednesday: undefined
+    - week: undefined
+    - weekend: undefined
+    - without: undefined
+    - work: undefined
+    - working: undefined
+    - year's: undefined

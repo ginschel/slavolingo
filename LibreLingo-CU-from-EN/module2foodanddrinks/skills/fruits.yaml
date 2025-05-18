@@ -1,0 +1,184 @@
+Skill:
+  Name: Fruits
+  Id: 8
+
+New words:
+  - Word: ꙗблъко
+    Translation: apple
+  - Word: грꙋшька
+    Translation: pear
+  - Word: бананъ
+    Translation: banana
+  - Word: помараньча
+    Translation: orange
+  - Word: вишьнѧ
+    Translation: cherry
+  - Word: ꙗгода
+    Translation: strawberry
+  - Word: дозрѣлъ
+    Translation: ripe
+  - Word: виноградъ
+    Translation: grapes
+  - Word: слива
+    Translation: plum
+  - Word: лимонъ
+    Translation: lemon
+  - Word: кꙑсълъ
+    Translation: sour
+  - Word: сладъкъ
+    Translation: sweet
+  - Word: мєлонъ
+    Translation: melon
+
+Phrases:
+  - Phrase: ꙗблъко ѥстъ чрьвєно.
+    Translation: The apple is red.
+  - Phrase: Грꙋшька ѥстъ вкꙋсьна.
+    Translation: The pear is tasty.
+  - Phrase: Бананъ ѥстъ жълтъ.
+    Translation: The banana is yellow.
+  - Phrase: Помараньчє сѫтъ сладъкє.
+    Translation: The oranges are sweet.
+  - Phrase: Вишьнѧ ѥстъ кꙑсла.
+    Translation: The cherry is sour.
+  - Phrase: ꙗгода ѥстъ мала и вкꙋсьна.
+    Translation: The strawberry is small and tasty.
+  - Phrase: Виноградъ растєтъ на виници.
+    Translation: Grapes grow on a vineyard.
+  - Phrase: Слива ѥстъ тьмьна.
+    Translation: The plum is dark.
+  - Phrase: Лимонъ ѥстъ кꙑсълъ и жълтъ.
+    Translation: The lemon is sour and yellow.
+  - Phrase: Мєлонъ ѥстъ вєликъи и сладъкъи.
+    Translation: The melon is big and sweet.
+  - Phrase: Онъ готови сливовицѫ изъ сливокъ.
+    Translation: He is preparing plum brandy from plums.
+  - Phrase: Она пиѥтъ сокъ изъ помараньча.
+    Translation: She is drinking orange juice.
+  - Phrase: Мꙑ кꙋпꙋѥмъ виноградъ.
+    Translation: We are buying grapes.
+  - Phrase: ꙗгодꙑ сѫтъ въ мискѣ.
+    Translation: The strawberries are in the bowl.
+  - Phrase: Слива ѥстъ оужє дозрѣла.
+    Translation: The plum is already ripe.
+  - Phrase: Грꙋшькꙑ лєжѧтъ на столѣ.
+    Translation: The pears are lying on the table.
+  - Phrase: Лимонꙋ додаваѥтъ сѧ въ чаи.
+    Translation: Lemon is added to tea.
+  - Phrase: Бананъ ѥстъ въ торбѣ.
+    Translation: The banana is in the bag.
+  - Phrase: Вишьнѧ растєтъ на дрѣвѣ.
+    Translation: The cherry grows on a tree.
+  - Phrase: Мєлонъ ѥстъ мьного вкꙋсьнъ.
+    Translation: The melon is very tasty.
+
+Mini-dictionary:
+  Church Slavonic:
+    - бананъ: undefined
+    - виници: undefined
+    - виноградъ: undefined
+    - вишьнѧ: undefined
+    - вкꙋсьна: undefined
+    - вкꙋсьнъ: undefined
+    - въ: undefined
+    - вєликъи: undefined
+    - готови: undefined
+    - грꙋшька: undefined
+    - грꙋшькꙑ: undefined
+    - додаваѥтъ: undefined
+    - дозрѣла: undefined
+    - дозрѣлъ: undefined
+    - дрѣвѣ: undefined
+    - жълтъ: undefined
+    - и: undefined
+    - изъ: undefined
+    - кꙋпꙋѥмъ: undefined
+    - кꙑсла: undefined
+    - кꙑсълъ: undefined
+    - лимонъ: undefined
+    - лимонꙋ: undefined
+    - лєжѧтъ: undefined
+    - мала: undefined
+    - мискѣ: undefined
+    - мьного: undefined
+    - мєлонъ: undefined
+    - мꙑ: undefined
+    - на: undefined
+    - она: undefined
+    - онъ: undefined
+    - оужє: undefined
+    - пиѥтъ: undefined
+    - помараньча: undefined
+    - помараньчє: undefined
+    - растєтъ: undefined
+    - сладъкъ: undefined
+    - сладъкъи: undefined
+    - сладъкє: undefined
+    - слива: undefined
+    - сливовицѫ: undefined
+    - сливокъ: undefined
+    - сокъ: undefined
+    - столѣ: undefined
+    - сѧ: undefined
+    - сѫтъ: undefined
+    - торбѣ: undefined
+    - тьмьна: undefined
+    - чаи: undefined
+    - чрьвєно: undefined
+    - ѥстъ: undefined
+    - ꙗблъко: undefined
+    - ꙗгода: undefined
+    - ꙗгодꙑ: undefined
+  English:
+    - a: undefined
+    - added: undefined
+    - already: undefined
+    - and: undefined
+    - apple: undefined
+    - are: undefined
+    - bag: undefined
+    - banana: undefined
+    - big: undefined
+    - bowl: undefined
+    - brandy: undefined
+    - buying: undefined
+    - cherry: undefined
+    - dark: undefined
+    - drinking: undefined
+    - from: undefined
+    - grapes: undefined
+    - grow: undefined
+    - grows: undefined
+    - he: undefined
+    - in: undefined
+    - is: undefined
+    - juice: undefined
+    - lemon: undefined
+    - lying: undefined
+    - melon: undefined
+    - on: undefined
+    - orange: undefined
+    - oranges: undefined
+    - pear: undefined
+    - pears: undefined
+    - plum: undefined
+    - plums: undefined
+    - preparing: undefined
+    - red: undefined
+    - ripe: undefined
+    - she: undefined
+    - small: undefined
+    - sour: undefined
+    - strawberries: undefined
+    - strawberry: undefined
+    - sweet: undefined
+    - table: undefined
+    - tasty: undefined
+    - tea: undefined
+    - the: undefined
+    - to: undefined
+    - tree: undefined
+    - very: undefined
+    - vineyard: undefined
+    - we: undefined
+    - yellow: undefined

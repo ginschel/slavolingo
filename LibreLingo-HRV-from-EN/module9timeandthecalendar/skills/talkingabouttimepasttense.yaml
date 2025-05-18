@@ -1,0 +1,243 @@
+Skill:
+  Name: Talking about Time (past tense)
+  Id: 31
+
+New words:
+  - Word: vrijeme
+    Translation: time
+  - Word: minuta
+    Translation: minute
+  - Word: sekunda
+    Translation: second
+  - Word: sat (trajanje)
+    Translation: hour
+  - Word: danas
+    Translation: today
+  - Word: bio
+    Translation: was
+  - Word: bila
+    Translation: was
+  - Word: bilo
+    Translation: was
+  - Word: bili
+    Translation: were
+  - Word: išao
+    Translation: went/walked
+  - Word: išla
+    Translation: went/walked
+  - Word: išlo
+    Translation: went/walked
+  - Word: išli
+    Translation: went/walked
+  - Word: jučer
+    Translation: yesterday
+  - Word: sutra
+    Translation: tomorrow
+  - Word: večer
+    Translation: evening
+  - Word: ponoć
+    Translation: midnight
+  - Word: koliko
+    Translation: how much
+  - Word: spavati (spava)
+    Translation: to sleep
+  - Word: trajati
+    Translation: to last
+
+Phrases:
+  - Phrase: Koliko je sati?
+    Translation: What time is it?
+  - Phrase: On je imao jedan sat.
+    Translation: He had one hour.
+  - Phrase: Sutra je prekasno.
+    Translation: Tomorrow is too late.
+  - Phrase: Jučer je bio ponedjeljak.
+    Translation: Yesterday was Monday.
+  - Phrase: Jučer je ona bila kod kuće u osam sati.
+    Translation: Yesterday she was at home at the eighth hour.
+  - Phrase: Ujutro nije bilo mnogo toplo.
+    Translation: In the morning it was not very warm.
+  - Phrase: U tri sata dvadeset bilo je hladno.
+    Translation: At twenty past the third hour it was cold.
+  - Phrase: Ponoć je tiha.
+    Translation: Midnight is quiet.
+  - Phrase: On je otišao kući.
+    Translation: He went home.
+  - Phrase: Jeste li išli u kino?
+    Translation: Have you gone to the cinema?
+  - Phrase: Oni ništa nisu radili.
+    Translation: They did nothing.
+  - Phrase: Minuta je mala jedinica vremena.
+    Translation: A minute is a small unit of time.
+  - Phrase: Sekunda je kratka.
+    Translation: A second is short.
+  - Phrase: Danas nisi imao/imala vremena za to.
+    Translation: Today you did not have an hour for that.
+  - Phrase: Vidimo se navečer u devet sati.
+    Translation: We will see each other in the evening at the ninth hour.
+  - Phrase: Jučer u jedan sat bilo je bolje.
+    Translation: Yesterday at the first hour it was better.
+  - Phrase: Koliko minuta traje film?
+    Translation: How many minutes does the film last?
+  - Phrase: Bio sam kod kuće ujutro.
+    Translation: I was at home in the morning.
+  - Phrase: On spava do ponoći.
+    Translation: He sleeps until midnight.
+  - Phrase: Koliko sekundi ima minuta?
+    Translation: How many seconds are in a minute?
+  - Phrase: Navečer smo otišli u restoran.
+    Translation: In the evening we went to the restaurant.
+
+Mini-dictionary:
+  Croatian:
+    - bila: undefined
+    - bili: undefined
+    - bilo: undefined
+    - bio: undefined
+    - bolje: undefined
+    - danas: undefined
+    - devet: undefined
+    - do: undefined
+    - dvadeset: undefined
+    - film: undefined
+    - hladno: undefined
+    - ima: undefined
+    - imao: undefined
+    - imao/imala: undefined
+    - išao: undefined
+    - išla: undefined
+    - išli: undefined
+    - išlo: undefined
+    - je: undefined
+    - jedan: undefined
+    - jedinica: undefined
+    - jeste: undefined
+    - jučer: undefined
+    - kino: undefined
+    - kod: undefined
+    - koliko: undefined
+    - kratka: undefined
+    - kuće: undefined
+    - kući: undefined
+    - li: undefined
+    - mala: undefined
+    - minuta: undefined
+    - mnogo: undefined
+    - navečer: undefined
+    - nije: undefined
+    - nisi: undefined
+    - nisu: undefined
+    - ništa: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - osam: undefined
+    - otišao: undefined
+    - otišli: undefined
+    - ponedjeljak: undefined
+    - ponoć: undefined
+    - ponoći: undefined
+    - prekasno: undefined
+    - radili: undefined
+    - restoran: undefined
+    - sam: undefined
+    - sat: undefined
+    - sata: undefined
+    - sati: undefined
+    - se: undefined
+    - sekunda: undefined
+    - sekundi: undefined
+    - smo: undefined
+    - spava: undefined
+    - spavati: undefined
+    - sutra: undefined
+    - tiha: undefined
+    - to: undefined
+    - toplo: undefined
+    - trajanje: undefined
+    - trajati: undefined
+    - traje: undefined
+    - tri: undefined
+    - u: undefined
+    - ujutro: undefined
+    - večer: undefined
+    - vidimo: undefined
+    - vremena: undefined
+    - vrijeme: undefined
+    - za: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - are: undefined
+    - at: undefined
+    - better: undefined
+    - cinema: undefined
+    - cold: undefined
+    - did: undefined
+    - does: undefined
+    - each: undefined
+    - eighth: undefined
+    - evening: undefined
+    - film: undefined
+    - first: undefined
+    - for: undefined
+    - gone: undefined
+    - had: undefined
+    - have: undefined
+    - he: undefined
+    - home: undefined
+    - hour: undefined
+    - how: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - last: undefined
+    - late: undefined
+    - many: undefined
+    - midnight: undefined
+    - minute: undefined
+    - minutes: undefined
+    - monday: undefined
+    - morning: undefined
+    - much: undefined
+    - ninth: undefined
+    - not: undefined
+    - nothing: undefined
+    - of: undefined
+    - one: undefined
+    - other: undefined
+    - past: undefined
+    - quiet: undefined
+    - restaurant: undefined
+    - second: undefined
+    - seconds: undefined
+    - see: undefined
+    - she: undefined
+    - short: undefined
+    - sleep: undefined
+    - sleeps: undefined
+    - small: undefined
+    - that: undefined
+    - the: undefined
+    - they: undefined
+    - third: undefined
+    - time: undefined
+    - to: undefined
+    - today: undefined
+    - tomorrow: undefined
+    - too: undefined
+    - twenty: undefined
+    - unit: undefined
+    - until: undefined
+    - very: undefined
+    - warm: undefined
+    - was: undefined
+    - we: undefined
+    - went: undefined
+    - went/walked: undefined
+    - were: undefined
+    - what: undefined
+    - will: undefined
+    - yesterday: undefined
+    - you: undefined

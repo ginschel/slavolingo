@@ -1,0 +1,129 @@
+Skill:
+  Name: Numbers 10-100
+  Id: 28
+
+New words:
+  - Word: dzesãc
+    Translation: ten
+  - Word: dwadzescãt
+    Translation: twenty
+  - Word: trzidzescãt
+    Translation: thirty
+  - Word: sztërdzescãt
+    Translation: forty
+  - Word: piãcdzescãt
+    Translation: fifty
+  - Word: szescdzescãt
+    Translation: sixty
+  - Word: sedemdzescãt
+    Translation: seventy
+  - Word: òsemdzescãt
+    Translation: eighty
+  - Word: dzewiãcdzescãt
+    Translation: ninety
+  - Word: sto
+    Translation: one hundred
+
+Phrases:
+  - Phrase: sto gòdzënków
+    Translation: one hundred clocks
+  - Phrase: dzesãc chłôpczów
+    Translation: ten boys
+  - Phrase: dwadzescãt białków
+    Translation: twenty women
+  - Phrase: trzidzescãt poldów
+    Translation: thirty fields
+  - Phrase: sztërdzescãt chłopów
+    Translation: forty men
+  - Phrase: piãcdzescãt białków
+    Translation: fifty women
+  - Phrase: szescdzescãt kòtów
+    Translation: sixty cats
+  - Phrase: sto jeden kółów
+    Translation: one hundred one bicycles
+  - Phrase: òsemdzescãt chłôpczów
+    Translation: eighty boys
+  - Phrase: dzewiãcdzescãt kółów
+    Translation: ninety bicycles
+  - Phrase: sedemdzescãt òsem rublów
+    Translation: seventy eight rubles
+  - Phrase: òsemdzescãt sedem dolarów
+    Translation: eighty seven dollars
+  - Phrase: dzewiãcdzescãt trzë kòmpùterów
+    Translation: ninety three computers
+  - Phrase: piãcdzescãt jeden gòdzënków
+    Translation: fifty one clocks
+  - Phrase: dwadzescãt sztërë wieszczów
+    Translation: twenty four things
+  - Phrase: sto dwa słunzków
+    Translation: one hundred two suns
+  - Phrase: szescdzescãt kółów
+    Translation: sixty bicycles
+  - Phrase: sztërdzescãt dolarów
+    Translation: forty dollars
+  - Phrase: trzidzescãt pisów
+    Translation: thirty dogs
+  - Phrase: dwadzescãt kòtów
+    Translation: twenty cats
+
+Mini-dictionary:
+  Kashubian:
+    - białków: undefined
+    - chłopów: undefined
+    - chłôpczów: undefined
+    - dolarów: undefined
+    - dwa: undefined
+    - dwadzescãt: undefined
+    - dzesãc: undefined
+    - dzewiãcdzescãt: undefined
+    - gòdzënków: undefined
+    - jeden: undefined
+    - kòmpùterów: undefined
+    - kòtów: undefined
+    - kółów: undefined
+    - pisów: undefined
+    - piãcdzescãt: undefined
+    - poldów: undefined
+    - rublów: undefined
+    - sedem: undefined
+    - sedemdzescãt: undefined
+    - sto: undefined
+    - szescdzescãt: undefined
+    - sztërdzescãt: undefined
+    - sztërë: undefined
+    - słunzków: undefined
+    - trzidzescãt: undefined
+    - trzë: undefined
+    - wieszczów: undefined
+    - òsem: undefined
+    - òsemdzescãt: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - eighty: undefined
+    - fields: undefined
+    - fifty: undefined
+    - forty: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - ninety: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - seventy: undefined
+    - sixty: undefined
+    - suns: undefined
+    - ten: undefined
+    - things: undefined
+    - thirty: undefined
+    - three: undefined
+    - twenty: undefined
+    - two: undefined
+    - women: undefined

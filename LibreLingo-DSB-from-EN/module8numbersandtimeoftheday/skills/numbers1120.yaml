@@ -1,0 +1,120 @@
+Skill:
+  Name: Numbers 11-20
+  Id: 27
+
+New words:
+  - Word: jadenasć
+    Translation: eleven
+  - Word: dwanaś
+    Translation: twelve
+  - Word: tśinasć
+    Translation: thirteen
+  - Word: styrnasć
+    Translation: fourteen
+  - Word: pěśnasć
+    Translation: fifteen
+  - Word: šesnasć
+    Translation: sixteen
+  - Word: sedymnasć
+    Translation: seventeen
+  - Word: wosymnasć
+    Translation: eighteen
+  - Word: źewjeśnasć
+    Translation: nineteen
+  - Word: dwójcasć
+    Translation: twenty
+
+Phrases:
+  - Phrase: dwójcasć goźinikow
+    Translation: twenty clocks
+  - Phrase: jadenasć gólcow
+    Translation: eleven boys
+  - Phrase: jadenasć žonow
+    Translation: eleven women
+  - Phrase: jadenasć pól
+    Translation: eleven fields
+  - Phrase: dwanaś mužow
+    Translation: twelve men
+  - Phrase: dwanaś šesć žonow
+    Translation: twelve women
+  - Phrase: tśinasć kóckow
+    Translation: thirteen cats
+  - Phrase: styrnasć kółow
+    Translation: fourteen bicycles
+  - Phrase: pěśnasć gólcow
+    Translation: fifteen boys
+  - Phrase: šesnasć kółow
+    Translation: sixteen bicycles
+  - Phrase: sedymnasć rublow
+    Translation: seventeen rubles
+  - Phrase: wosymnasć dolarow
+    Translation: eighteen dollars
+  - Phrase: źewjeśnasć pěś kompjutérow
+    Translation: nineteen computers
+  - Phrase: šesnasć goźinikow
+    Translation: twenty clocks
+  - Phrase: dwanaś wěcow
+    Translation: twelve things
+  - Phrase: jadenasć słyńcow
+    Translation: eleven suns
+  - Phrase: šesnasć kółow
+    Translation: sixteen bicycles
+  - Phrase: styrnasć dolarow
+    Translation: fourteen dollars
+  - Phrase: tśinasć dwa psu
+    Translation: thirteen dogs
+  - Phrase: dwójcasć kóckow
+    Translation: twenty cats
+
+Mini-dictionary:
+  Lower Sorbian:
+    - dolarow: undefined
+    - dwa: undefined
+    - dwanaś: undefined
+    - dwójcasć: undefined
+    - goźinikow: undefined
+    - gólcow: undefined
+    - jadenasć: undefined
+    - kompjutérow: undefined
+    - kóckow: undefined
+    - kółow: undefined
+    - mužow: undefined
+    - psu: undefined
+    - pól: undefined
+    - pěś: undefined
+    - pěśnasć: undefined
+    - rublow: undefined
+    - sedymnasć: undefined
+    - styrnasć: undefined
+    - słyńcow: undefined
+    - tśinasć: undefined
+    - wosymnasć: undefined
+    - wěcow: undefined
+    - šesnasć: undefined
+    - šesć: undefined
+    - źewjeśnasć: undefined
+    - žonow: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eighteen: undefined
+    - eleven: undefined
+    - fields: undefined
+    - fifteen: undefined
+    - fourteen: undefined
+    - men: undefined
+    - nineteen: undefined
+    - rubles: undefined
+    - seventeen: undefined
+    - sixteen: undefined
+    - suns: undefined
+    - things: undefined
+    - thirteen: undefined
+    - twelve: undefined
+    - twenty: undefined
+    - women: undefined

@@ -1,0 +1,189 @@
+Skill:
+  Name: Transport/Vehicles/Car
+  Id: 23
+
+New words:
+  - Word: аѵто
+    Translation: car
+  - Word: аѵтобꙋсъ
+    Translation: bus
+  - Word: поѥздъ
+    Translation: train
+  - Word: коло
+    Translation: bicycle
+  - Word: станициꙗ
+    Translation: station
+  - Word: шофєръ
+    Translation: driver
+  - Word: дорога
+    Translation: road
+  - Word: мостъ
+    Translation: bridge
+  - Word: бръзина
+    Translation: speed
+  - Word: свѣтофоръ
+    Translation: traffic light
+  - Word: ѥхати (ѥдєтъ)
+    Translation: to go/drive
+  - Word: сѣсти (сѣдєтъ)
+    Translation: to sit
+  - Word: свѧзати (свѧжєтъ)
+    Translation: to connect/tie
+  - Word: разбито
+    Translation: broken
+  - Word: остражьнъ
+    Translation: careful
+
+Phrases:
+  - Phrase: Аѵто стои на ылици.
+    Translation: The car is standing on the street.
+  - Phrase: Аѵтобꙋсъ ѥдєтъ до цєнтра.
+    Translation: The bus goes to the center.
+  - Phrase: Поѥздъ ѥдєтъ на станицю.
+    Translation: The train goes to the station.
+  - Phrase: Тꙋ ѥстъ сѣдѣниѥ. Можьно сѣсти
+    Translation: Here is a seat. One can sit.
+  - Phrase: Станициꙗ ѥстъ вєлика.
+    Translation: The station is big.
+  - Phrase: Шофєръ ѥдєтъ бързо.
+    Translation: The driver drives fast.
+  - Phrase: Дорога идєтъ чрѣзъ лѣсъ.
+    Translation: The road goes through the forest.
+  - Phrase: Мостъ свѧжєтъ два града.
+    Translation: The bridge connects two cities.
+  - Phrase: Бръзина ѥстъ важьна за бєзъопacьности на ылици.
+    Translation: A speed limit is important for the security on the street.
+  - Phrase: Свѣтофоръ показоваѥтъ чрьвєно.
+    Translation: The traffic light shows red.
+  - Phrase: Аѵто ѥстъ ново и красьно.
+    Translation: The car is new and beautiful.
+  - Phrase: Аѵтобꙋсъ вєдєтъ мьного людии.
+    Translation: The bus carries many people.
+  - Phrase: Поѥздъ ѥдєтъ на сѣвєръ.
+    Translation: The train goes to the north.
+  - Phrase: Коло ѥстъ празбито.
+    Translation: The bicycle is broken.
+  - Phrase: Станициꙗ ѥстъ отъворєна.
+    Translation: The station is open.
+  - Phrase: Шофєръ ѥстъ остражьнъ.
+    Translation: The driver is careful.
+  - Phrase: Дорога ѥстъ широка.
+    Translation: The road is wide.
+  - Phrase: Мостъ ѥстъ вꙑсокъи.
+    Translation: The bridge is high.
+  - Phrase: Бръзина ѥстъ ограничєна.
+    Translation: The speed is limited.
+  - Phrase: Свѣтофоръ показоваѥтъ зєлєно.
+    Translation: The traffic light shows green.
+
+Mini-dictionary:
+  Church Slavonic:
+    - аѵто: undefined
+    - аѵтобꙋсъ: undefined
+    - бръзина: undefined
+    - бързо: undefined
+    - бєзъопacьности: undefined
+    - важьна: undefined
+    - вєдєтъ: undefined
+    - вєлика: undefined
+    - вꙑсокъи: undefined
+    - града: undefined
+    - два: undefined
+    - до: undefined
+    - дорога: undefined
+    - за: undefined
+    - зєлєно: undefined
+    - и: undefined
+    - идєтъ: undefined
+    - коло: undefined
+    - красьно: undefined
+    - людии: undefined
+    - лѣсъ: undefined
+    - можьно: undefined
+    - мостъ: undefined
+    - мьного: undefined
+    - на: undefined
+    - ново: undefined
+    - ограничєна: undefined
+    - остражьнъ: undefined
+    - отъворєна: undefined
+    - показоваѥтъ: undefined
+    - поѥздъ: undefined
+    - празбито: undefined
+    - разбито: undefined
+    - свѣтофоръ: undefined
+    - свѧжєтъ: undefined
+    - свѧзати: undefined
+    - станициꙗ: undefined
+    - станицю: undefined
+    - стои: undefined
+    - сѣвєръ: undefined
+    - сѣдєтъ: undefined
+    - сѣдѣниѥ: undefined
+    - сѣсти: undefined
+    - тꙋ: undefined
+    - цєнтра: undefined
+    - чрьвєно: undefined
+    - чрѣзъ: undefined
+    - широка: undefined
+    - шофєръ: undefined
+    - ылици: undefined
+    - ѥдєтъ: undefined
+    - ѥстъ: undefined
+    - ѥхати: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - beautiful: undefined
+    - bicycle: undefined
+    - big: undefined
+    - bridge: undefined
+    - broken: undefined
+    - bus: undefined
+    - can: undefined
+    - car: undefined
+    - careful: undefined
+    - carries: undefined
+    - center: undefined
+    - cities: undefined
+    - connect/tie: undefined
+    - connects: undefined
+    - driver: undefined
+    - drives: undefined
+    - fast: undefined
+    - for: undefined
+    - forest: undefined
+    - go/drive: undefined
+    - goes: undefined
+    - green: undefined
+    - here: undefined
+    - high: undefined
+    - important: undefined
+    - is: undefined
+    - light: undefined
+    - limit: undefined
+    - limited: undefined
+    - many: undefined
+    - new: undefined
+    - north: undefined
+    - on: undefined
+    - one: undefined
+    - open: undefined
+    - people: undefined
+    - red: undefined
+    - road: undefined
+    - seat: undefined
+    - security: undefined
+    - shows: undefined
+    - sit: undefined
+    - speed: undefined
+    - standing: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - through: undefined
+    - to: undefined
+    - traffic: undefined
+    - train: undefined
+    - two: undefined
+    - wide: undefined

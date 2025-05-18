@@ -1,0 +1,185 @@
+Skill:
+  Name: Sports (very basic accusative case + very basic locative)
+  Id: 5
+
+New words:
+  - Word: koparska
+    Translation: football
+  - Word: kósna
+    Translation: basketball
+  - Word: tenis
+    Translation: tennis
+  - Word: plawanja
+    Translation: swimming
+  - Word: plawać
+    Translation: to swim
+  - Word: běh
+    Translation: running
+  - Word: běhać
+    Translation: to run
+  - Word: zaranja
+    Translation: in the morning
+  - Word: lubić
+    Translation: to love/like
+  - Word: hokej
+    Translation: hockey
+  - Word: sport
+    Translation: sport
+  - Word: hra
+    Translation: game
+  - Word: trenować
+    Translation: to train
+  - Word: stadion
+    Translation: stadium
+  - Word: spěšnje
+    Translation: fast
+  - Word: ćežki
+    Translation: difficult
+
+Phrases:
+  - Phrase: Hram koparsku.
+    Translation: I play football.
+  - Phrase: Wona hra kósnu.
+    Translation: She plays basketball.
+  - Phrase: Wón hra tenis.
+    Translation: He plays tennis.
+  - Phrase: My plawamy w rěce.
+    Translation: We swim in the river.
+  - Phrase: Woni běhaja zaranja.
+    Translation: They run in the morning.
+  - Phrase: Wón trenuje kóždy dźeń.
+    Translation: He trains every day.
+  - Phrase: Sport je wažny.
+    Translation: Sport is important.
+  - Phrase: Wona hra na stadionje.
+    Translation: She plays at the stadium.
+  - Phrase: Trjeba trenować.
+    Translation: It is necessary to train.
+  - Phrase: Woni lubja sport.
+    Translation: They love sport.
+  - Phrase: Ja njezgram hokej.
+    Translation: I do not play hockey.
+  - Phrase: Stadion je w měsće.
+    Translation: The stadium is in the city.
+  - Phrase: Kósna to je zajimawy sport.
+    Translation: Basketball is an interesting sport.
+  - Phrase: Plawanja je dobre za strowosć.
+    Translation: Swimming is good for health.
+  - Phrase: Štó hra tenis?
+    Translation: Who plays tennis?
+  - Phrase: Wón běha spěšnje.
+    Translation: He runs fast.
+  - Phrase: My plawamy často.
+    Translation: We swim often.
+  - Phrase: Wón trenuje z přećelom.
+    Translation: He trains with a friend.
+  - Phrase: Ja hram z bratrami.
+    Translation: I play with my brothers.
+  - Phrase: Hokej je ćežki.
+    Translation: Hockey is difficult.
+
+Mini-dictionary:
+  Upper Sorbian:
+    - bratrami: undefined
+    - běh: undefined
+    - běha: undefined
+    - běhaja: undefined
+    - běhać: undefined
+    - dobre: undefined
+    - dźeń: undefined
+    - hokej: undefined
+    - hra: undefined
+    - hram: undefined
+    - ja: undefined
+    - je: undefined
+    - koparska: undefined
+    - koparsku: undefined
+    - kósna: undefined
+    - kósnu: undefined
+    - kóždy: undefined
+    - lubić: undefined
+    - lubja: undefined
+    - my: undefined
+    - měsće: undefined
+    - na: undefined
+    - njezgram: undefined
+    - plawamy: undefined
+    - plawanja: undefined
+    - plawać: undefined
+    - přećelom: undefined
+    - rěce: undefined
+    - sport: undefined
+    - spěšnje: undefined
+    - stadion: undefined
+    - stadionje: undefined
+    - strowosć: undefined
+    - tenis: undefined
+    - to: undefined
+    - trenować: undefined
+    - trenuje: undefined
+    - trjeba: undefined
+    - w: undefined
+    - wažny: undefined
+    - wona: undefined
+    - woni: undefined
+    - wón: undefined
+    - z: undefined
+    - za: undefined
+    - zajimawy: undefined
+    - zaranja: undefined
+    - ćežki: undefined
+    - často: undefined
+    - štó: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - at: undefined
+    - basketball: undefined
+    - brothers: undefined
+    - city: undefined
+    - day: undefined
+    - difficult: undefined
+    - do: undefined
+    - every: undefined
+    - fast: undefined
+    - football: undefined
+    - for: undefined
+    - friend: undefined
+    - game: undefined
+    - good: undefined
+    - he: undefined
+    - health: undefined
+    - hockey: undefined
+    - i: undefined
+    - important: undefined
+    - in: undefined
+    - interesting: undefined
+    - is: undefined
+    - it: undefined
+    - love: undefined
+    - love/like: undefined
+    - morning: undefined
+    - my: undefined
+    - necessary: undefined
+    - not: undefined
+    - often: undefined
+    - play: undefined
+    - plays: undefined
+    - river: undefined
+    - run: undefined
+    - running: undefined
+    - runs: undefined
+    - she: undefined
+    - sport: undefined
+    - stadium: undefined
+    - swim: undefined
+    - swimming: undefined
+    - tennis: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - train: undefined
+    - trains: undefined
+    - we: undefined
+    - who: undefined
+    - with: undefined

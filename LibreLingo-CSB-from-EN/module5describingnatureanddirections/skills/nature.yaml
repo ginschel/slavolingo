@@ -1,0 +1,209 @@
+Skill:
+  Name: Nature
+  Id: 15
+
+New words:
+  - Word: rzéka
+    Translation: river
+  - Word: przez
+    Translation: through
+  - Word: góra
+    Translation: mountain
+  - Word: dolëzna
+    Translation: valley
+  - Word: las
+    Translation: forest
+  - Word: trawa
+    Translation: grass
+  - Word: kwiat
+    Translation: flower
+  - Word: róża
+    Translation: rose
+  - Word: ròsc (ròsce)
+    Translation: to grow
+  - Word: zemia
+    Translation: earth
+  - Word: kam
+    Translation: stone
+  - Word: pòle
+    Translation: field
+  - Word: dąb
+    Translation: oak
+  - Word: ksãżëc
+    Translation: moon
+  - Word: kwitnąc (kwitnie)
+    Translation: to bloom
+  - Word: drzewo
+    Translation: tree
+  - Word: leżec (leżi)
+    Translation: to lie
+  - Word: midzë
+    Translation: between
+
+Phrases:
+  - Phrase: Rzéka płënie przez dolëznã.
+    Translation: The river flows through the valley.
+  - Phrase: Góra je wësokô.
+    Translation: The mountain is high.
+  - Phrase: Më jidzemë do lasu.
+    Translation: We are going to the forest.
+  - Phrase: Trawa je zielenô.
+    Translation: The grass is green.
+  - Phrase: Kwiatë pięknô kwitną.
+    Translation: The flowers bloom beautifully.
+  - Phrase: On stoji na kamieniu.
+    Translation: He is standing on the stone.
+  - Phrase: Zemia je mòkrá.
+    Translation: The earth is wet.
+  - Phrase: Róża ròsce na pòlu.
+    Translation: The rose grows in the field.
+  - Phrase: Dolëzna leżi midzë górama.
+    Translation: The valley lies between the mountains.
+  - Phrase: Pòle je szëroké.
+    Translation: The field is wide.
+  - Phrase: Òni jidą przez las z wiele drzewama.
+    Translation: They are going through the forest with many trees.
+  - Phrase: Trawa ròsce chùtczi.
+    Translation: The grass grows fast.
+  - Phrase: Kamiéń są cãżcé.
+    Translation: The stones are heavy.
+  - Phrase: Kwiat ròsce z zemie.
+    Translation: A flower grows from the earth.
+  - Phrase: Wòda jidze do rzéki.
+    Translation: Water goes to the river.
+  - Phrase: Pòle je za domã.
+    Translation: The field is behind the house.
+  - Phrase: Jidzemë do dãbu.
+    Translation: We are going towards the oak.
+  - Phrase: Ksãżëc dzysô snôżi
+    Translation: The moon today is beautiful
+  - Phrase: Më stojiimë na zemie.
+    Translation: We are standing on the earth.
+  - Phrase: Òni òbzérôją do dolëznë.
+    Translation: They are looking into the valley.
+  - Phrase: Rzéka jidze midzë pòlama.
+    Translation: The river goes between the fields.
+
+Mini-dictionary:
+  Kashubian:
+    - chùtczi: undefined
+    - cãżcé: undefined
+    - do: undefined
+    - dolëzna: undefined
+    - dolëznã: undefined
+    - dolëznë: undefined
+    - domã: undefined
+    - drzewama: undefined
+    - drzewo: undefined
+    - dzysô: undefined
+    - dãbu: undefined
+    - dąb: undefined
+    - góra: undefined
+    - górama: undefined
+    - je: undefined
+    - jidze: undefined
+    - jidzemë: undefined
+    - jidą: undefined
+    - kam: undefined
+    - kamieniu: undefined
+    - kamiéń: undefined
+    - ksãżëc: undefined
+    - kwiat: undefined
+    - kwiatë: undefined
+    - kwitnie: undefined
+    - kwitną: undefined
+    - kwitnąc: undefined
+    - las: undefined
+    - lasu: undefined
+    - leżec: undefined
+    - leżi: undefined
+    - midzë: undefined
+    - më: undefined
+    - mòkrá: undefined
+    - na: undefined
+    - on: undefined
+    - pięknô: undefined
+    - przez: undefined
+    - pòlama: undefined
+    - pòle: undefined
+    - pòlu: undefined
+    - płënie: undefined
+    - rzéka: undefined
+    - rzéki: undefined
+    - ròsc: undefined
+    - ròsce: undefined
+    - róża: undefined
+    - snôżi: undefined
+    - stoji: undefined
+    - stojiimë: undefined
+    - szëroké: undefined
+    - są: undefined
+    - trawa: undefined
+    - wiele: undefined
+    - wësokô: undefined
+    - wòda: undefined
+    - z: undefined
+    - za: undefined
+    - zemia: undefined
+    - zemie: undefined
+    - zielenô: undefined
+    - òbzérôją: undefined
+    - òni: undefined
+  English:
+    - a: undefined
+    - are: undefined
+    - beautiful: undefined
+    - beautifully: undefined
+    - behind: undefined
+    - between: undefined
+    - bloom: undefined
+    - earth: undefined
+    - fast: undefined
+    - field: undefined
+    - fields: undefined
+    - flower: undefined
+    - flowers: undefined
+    - flows: undefined
+    - forest: undefined
+    - from: undefined
+    - goes: undefined
+    - going: undefined
+    - grass: undefined
+    - green: undefined
+    - grow: undefined
+    - grows: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - house: undefined
+    - in: undefined
+    - into: undefined
+    - is: undefined
+    - lie: undefined
+    - lies: undefined
+    - looking: undefined
+    - many: undefined
+    - moon: undefined
+    - mountain: undefined
+    - mountains: undefined
+    - oak: undefined
+    - on: undefined
+    - river: undefined
+    - rose: undefined
+    - standing: undefined
+    - stone: undefined
+    - stones: undefined
+    - the: undefined
+    - they: undefined
+    - through: undefined
+    - to: undefined
+    - today: undefined
+    - towards: undefined
+    - tree: undefined
+    - trees: undefined
+    - valley: undefined
+    - water: undefined
+    - we: undefined
+    - wet: undefined
+    - wide: undefined
+    - with: undefined

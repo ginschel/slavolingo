@@ -1,0 +1,199 @@
+Skill:
+  Name: Grammar revision pronouncs
+  Id: 20
+
+New words:
+  - Word: "znaś"
+    Translation: to know
+  - Word: "wěźeś (wě)"
+    Translation: to know
+  - Word: "sna"
+    Translation: dream
+  - Word: "wěc"
+    Translation: thing
+
+Phrases:
+  - Phrase: Togo nje znam.
+    Translation: I don't know that.
+  - Phrase: Wó tom južo dłujgo wěm.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Kogo ty wiźiš?
+    Translation: Who do you see?.
+  - Phrase: Tym, kenž lažyju spaś, měrny sna.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: Wó tej wěcy ja nic nje wěm.
+    Translation: I know nothing about that thing.
+  - Phrase: Powědam z tobu.
+    Translation: I am talking with you.
+  - Phrase: Ja wiźim was.
+    Translation: I see you.
+  - Phrase: Wón lubi byś sam ze sobu.
+    Translation: He likes to be alone with himself.
+  - Phrase: Daj mě wódu.
+    Translation: Give me water.
+  - Phrase: Z nami zawšu wšykno wjasełe.
+    Translation: With us everything is always cheerful.
+  - Phrase: Mje nje wiźiš.
+    Translation: You don't see me.
+  - Phrase: Komu daš dar?
+    Translation: Who do you give a gift to?
+  - Phrase: Wó mě powědaš?
+    Translation: Are you talking about me?
+  - Phrase: Nje, ja nje powědam wó śi.
+    Translation: No, I don't talt about you.
+  - Phrase: Wó com ty powědaš?
+    Translation: What are you talking about?
+  - Phrase: Te žony su krasne.
+    Translation: These women are beautiful.
+  - Phrase: Tych pśijaśelow nje maš.
+    Translation: You do not have those friends.
+  - Phrase: Wón dajo swóju měr.
+    Translation: He stops troubling others.
+  - Phrase: Což how nje ma we domje?
+    Translation: What isn't at this house here?
+  - Phrase: Tomu psu ty dajoš kóski.
+    Translation: You give to this dog bones.
+  - Phrase: To waš kafa abo jen?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Lower Sorbian:
+    - abo: undefined
+    - byś: undefined
+    - com: undefined
+    - což: undefined
+    - daj: undefined
+    - dajo: undefined
+    - dajoš: undefined
+    - dar: undefined
+    - daš: undefined
+    - domje: undefined
+    - dłujgo: undefined
+    - how: undefined
+    - ja: undefined
+    - jen: undefined
+    - južo: undefined
+    - kafa: undefined
+    - kenž: undefined
+    - kogo: undefined
+    - komu: undefined
+    - krasne: undefined
+    - kóski: undefined
+    - lažyju: undefined
+    - lubi: undefined
+    - ma: undefined
+    - maš: undefined
+    - mje: undefined
+    - mě: undefined
+    - měr: undefined
+    - měrny: undefined
+    - nami: undefined
+    - nic: undefined
+    - nje: undefined
+    - powědam: undefined
+    - powědaš: undefined
+    - psu: undefined
+    - pśijaśelow: undefined
+    - sam: undefined
+    - sna: undefined
+    - sobu: undefined
+    - spaś: undefined
+    - su: undefined
+    - swóju: undefined
+    - te: undefined
+    - tej: undefined
+    - to: undefined
+    - tobu: undefined
+    - togo: undefined
+    - tom: undefined
+    - tomu: undefined
+    - ty: undefined
+    - tych: undefined
+    - tym: undefined
+    - was: undefined
+    - waš: undefined
+    - we: undefined
+    - wiźim: undefined
+    - wiźiš: undefined
+    - wjasełe: undefined
+    - wó: undefined
+    - wódu: undefined
+    - wón: undefined
+    - wě: undefined
+    - wěc: undefined
+    - wěcy: undefined
+    - wěm: undefined
+    - wěźeś: undefined
+    - wšykno: undefined
+    - z: undefined
+    - zawšu: undefined
+    - ze: undefined
+    - znam: undefined
+    - znaś: undefined
+    - śi: undefined
+    - žony: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - alone: undefined
+    - always: undefined
+    - am: undefined
+    - are: undefined
+    - at: undefined
+    - be: undefined
+    - beautiful: undefined
+    - bones: undefined
+    - cheerful: undefined
+    - coffee: undefined
+    - do: undefined
+    - dog: undefined
+    - don't: undefined
+    - dream: undefined
+    - everything: undefined
+    - for: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - going: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - himself: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - isn't: undefined
+    - it: undefined
+    - know: undefined
+    - known: undefined
+    - likes: undefined
+    - long: undefined
+    - me: undefined
+    - no: undefined
+    - not: undefined
+    - nothing: undefined
+    - or: undefined
+    - others: undefined
+    - peaceful: undefined
+    - see: undefined
+    - sleep: undefined
+    - stops: undefined
+    - talking: undefined
+    - talt: undefined
+    - that: undefined
+    - these: undefined
+    - thing: undefined
+    - this: undefined
+    - those: undefined
+    - time: undefined
+    - to: undefined
+    - troubling: undefined
+    - us: undefined
+    - water: undefined
+    - what: undefined
+    - who: undefined
+    - with: undefined
+    - women: undefined
+    - you: undefined
+    - your: undefined

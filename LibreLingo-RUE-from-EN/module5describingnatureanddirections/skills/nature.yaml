@@ -1,0 +1,212 @@
+Skill:
+  Name: Nature
+  Id: 15
+
+New words:
+  - Word: рїка
+    Translation: river
+  - Word: через
+    Translation: through
+  - Word: гора
+    Translation: mountain
+  - Word: долина
+    Translation: valley
+  - Word: лїс
+    Translation: forest
+  - Word: трава
+    Translation: grass
+  - Word: цвіт
+    Translation: flower
+  - Word: рожа
+    Translation: rose
+  - Word: рости (росте)
+    Translation: to grow
+  - Word: земля
+    Translation: earth
+  - Word: камень
+    Translation: stone
+  - Word: поле
+    Translation: field
+  - Word: дуб
+    Translation: oak
+  - Word: місяць
+    Translation: moon
+  - Word: цвісти (цвіте)
+    Translation: to bloom
+  - Word: дерево
+    Translation: tree
+  - Word: лежати (лежить)
+    Translation: to lie
+  - Word: міджі
+    Translation: between
+
+Phrases:
+  - Phrase: Рїка тече через долину.
+    Translation: The river flows through the valley.
+  - Phrase: Гора є высока.
+    Translation: The mountain is high.
+  - Phrase: Мы ідеме до лїса.
+    Translation: We are going to the forest.
+  - Phrase: Трава є зелена.
+    Translation: The grass is green.
+  - Phrase: Цвіты красна цвітуть.
+    Translation: The flowers bloom beautifully.
+  - Phrase: Он стоїть на камени.
+    Translation: He is standing on the stone.
+  - Phrase: Земля є мокра.
+    Translation: The earth is wet.
+  - Phrase: Рожа росте на поли.
+    Translation: The rose grows in the field.
+  - Phrase: Долина лежить міджі горами.
+    Translation: The valley lies between the mountains.
+  - Phrase: Поле є широкоє.
+    Translation: The field is wide.
+  - Phrase: Они ідут через лїс з много деревами.
+    Translation: They are going through the forest with many trees.
+  - Phrase: Трава росте барже.
+    Translation: The grass grows fast.
+  - Phrase: Каменї суть тяжкы.
+    Translation: The stones are heavy.
+  - Phrase: Цвіт росте из землї.
+    Translation: A flower grows from the earth.
+  - Phrase: Вода іде до рїкы.
+    Translation: Water goes to the river.
+  - Phrase: Поле є за домом.
+    Translation: The field is behind the house.
+  - Phrase: Ідеме до дуба.
+    Translation: We are going towards the oak.
+  - Phrase: Мїсяць сьогодні красный
+    Translation: The moon today is beautiful
+  - Phrase: Мы стоїме на земли.
+    Translation: We are standing on the earth.
+  - Phrase: Они позерають в долину.
+    Translation: They are looking into the valley.
+  - Phrase: Рїка іде міджі полями.
+    Translation: The river goes between the fields.
+
+Mini-dictionary:
+  Rusin:
+    - барже: undefined
+    - в: undefined
+    - вода: undefined
+    - высока: undefined
+    - гора: undefined
+    - горами: undefined
+    - деревами: undefined
+    - дерево: undefined
+    - до: undefined
+    - долина: undefined
+    - долину: undefined
+    - домом: undefined
+    - дуб: undefined
+    - дуба: undefined
+    - з: undefined
+    - за: undefined
+    - зелена: undefined
+    - земли: undefined
+    - земля: undefined
+    - землї: undefined
+    - из: undefined
+    - камени: undefined
+    - камень: undefined
+    - каменї: undefined
+    - красна: undefined
+    - красный: undefined
+    - лежати: undefined
+    - лежить: undefined
+    - лїс: undefined
+    - лїса: undefined
+    - много: undefined
+    - мокра: undefined
+    - мы: undefined
+    - міджі: undefined
+    - місяць: undefined
+    - мїсяць: undefined
+    - на: undefined
+    - он: undefined
+    - они: undefined
+    - позерають: undefined
+    - поле: undefined
+    - поли: undefined
+    - полями: undefined
+    - рожа: undefined
+    - росте: undefined
+    - рости: undefined
+    - рїка: undefined
+    - рїкы: undefined
+    - стоїме: undefined
+    - стоїть: undefined
+    - суть: undefined
+    - сьогодні: undefined
+    - тече: undefined
+    - трава: undefined
+    - тяжкы: undefined
+    - цвісти: undefined
+    - цвіт: undefined
+    - цвіте: undefined
+    - цвітуть: undefined
+    - цвіты: undefined
+    - через: undefined
+    - широкоє: undefined
+    - є: undefined
+    - іде: undefined
+    - ідеме: undefined
+    - ідут: undefined
+  English:
+    - a: undefined
+    - are: undefined
+    - beautiful: undefined
+    - beautifully: undefined
+    - behind: undefined
+    - between: undefined
+    - bloom: undefined
+    - earth: undefined
+    - fast: undefined
+    - field: undefined
+    - fields: undefined
+    - flower: undefined
+    - flowers: undefined
+    - flows: undefined
+    - forest: undefined
+    - from: undefined
+    - goes: undefined
+    - going: undefined
+    - grass: undefined
+    - green: undefined
+    - grow: undefined
+    - grows: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - house: undefined
+    - in: undefined
+    - into: undefined
+    - is: undefined
+    - lie: undefined
+    - lies: undefined
+    - looking: undefined
+    - many: undefined
+    - moon: undefined
+    - mountain: undefined
+    - mountains: undefined
+    - oak: undefined
+    - on: undefined
+    - river: undefined
+    - rose: undefined
+    - standing: undefined
+    - stone: undefined
+    - stones: undefined
+    - the: undefined
+    - they: undefined
+    - through: undefined
+    - to: undefined
+    - today: undefined
+    - towards: undefined
+    - tree: undefined
+    - trees: undefined
+    - valley: undefined
+    - water: undefined
+    - we: undefined
+    - wet: undefined
+    - wide: undefined
+    - with: undefined

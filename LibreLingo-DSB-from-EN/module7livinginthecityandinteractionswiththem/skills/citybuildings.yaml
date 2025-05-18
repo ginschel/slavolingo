@@ -1,0 +1,185 @@
+Skill:
+  Name: City/Buildings
+  Id: 21
+
+New words:
+  - Word: město
+    Translation: city
+  - Word: dom
+    Translation: house
+  - Word: nams
+    Translation: square/market
+  - Word: dwórnišćo
+    Translation: station
+  - Word: most
+    Translation: bridge
+  - Word: wobchod
+    Translation: shop/store
+  - Word: wikowanišćo
+    Translation: market
+  - Word: biblioteka
+    Translation: library
+  - Word: cerkwja
+    Translation: church
+  - Word: droga
+    Translation: street
+  - Word: wjasć (wjeźo)
+    Translation: to lead
+
+Phrases:
+  - Phrase: To jo wjelike město.
+    Translation: This is a big city.
+  - Phrase: Dom stoja na droze.
+    Translation: The house stands on the street.
+  - Phrase: Źomy do nama.
+    Translation: We are going to the square.
+  - Phrase: Dwórnišćo jo blisko centra.
+    Translation: The station is near the center.
+  - Phrase: Most źe pśez rěku.
+    Translation: The bridge goes over the river.
+  - Phrase: Kupujomy klěb we wobchoźe.
+    Translation: We buy bread in the shop.
+  - Phrase: Na wikowanišću jo wjele luźi.
+    Translation: There are many people at the market.
+  - Phrase: Cytam knigłu we bibliotece.
+    Translation: I read a book in the library.
+  - Phrase: Cerkwja jo stara a běła.
+    Translation: The church is old and white.
+  - Phrase: Droga jo dłujka a śopła.
+    Translation: The street is long and warm.
+  - Phrase: Město ma wjele domow.
+    Translation: The city has many houses.
+  - Phrase: Wobchod jo wótwórjony źinsaj.
+    Translation: The shop is open today.
+  - Phrase: Cerkwja stoja blisko biblioteki.
+    Translation: The church stands near the library.
+  - Phrase: Droga wjeźo do nama.
+    Translation: The street leads to the square.
+  - Phrase: Na namje stoja wódny běg.
+    Translation: A fountain stands in the square.
+  - Phrase: Most jo krasny a nowy.
+    Translation: The bridge is beautiful and new.
+  - Phrase: To jo mójo dom we městśe.
+    Translation: This is my house in the city.
+  - Phrase: Dwórnišćo ma wjele śugow.
+    Translation: The station has many trains.
+  - Phrase: Droga źe do wobchoda.
+    Translation: The street goes to the shop.
+  - Phrase: Nams jo pełny luźi.
+    Translation: The square is full of people.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: undefined
+    - bibliotece: undefined
+    - biblioteka: undefined
+    - biblioteki: undefined
+    - blisko: undefined
+    - běg: undefined
+    - běła: undefined
+    - centra: undefined
+    - cerkwja: undefined
+    - cytam: undefined
+    - do: undefined
+    - dom: undefined
+    - domow: undefined
+    - droga: undefined
+    - droze: undefined
+    - dwórnišćo: undefined
+    - dłujka: undefined
+    - jo: undefined
+    - klěb: undefined
+    - knigłu: undefined
+    - krasny: undefined
+    - kupujomy: undefined
+    - luźi: undefined
+    - ma: undefined
+    - most: undefined
+    - mójo: undefined
+    - město: undefined
+    - městśe: undefined
+    - na: undefined
+    - nama: undefined
+    - namje: undefined
+    - nams: undefined
+    - nowy: undefined
+    - pełny: undefined
+    - pśez: undefined
+    - rěku: undefined
+    - stara: undefined
+    - stoja: undefined
+    - to: undefined
+    - we: undefined
+    - wikowanišćo: undefined
+    - wikowanišću: undefined
+    - wjasć: undefined
+    - wjele: undefined
+    - wjelike: undefined
+    - wjeźo: undefined
+    - wobchod: undefined
+    - wobchoda: undefined
+    - wobchoźe: undefined
+    - wódny: undefined
+    - wótwórjony: undefined
+    - śopła: undefined
+    - śugow: undefined
+    - źe: undefined
+    - źinsaj: undefined
+    - źomy: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beautiful: undefined
+    - big: undefined
+    - book: undefined
+    - bread: undefined
+    - bridge: undefined
+    - buy: undefined
+    - center: undefined
+    - church: undefined
+    - city: undefined
+    - fountain: undefined
+    - full: undefined
+    - goes: undefined
+    - going: undefined
+    - has: undefined
+    - house: undefined
+    - houses: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - lead: undefined
+    - leads: undefined
+    - library: undefined
+    - long: undefined
+    - many: undefined
+    - market: undefined
+    - my: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - over: undefined
+    - people: undefined
+    - read: undefined
+    - river: undefined
+    - shop: undefined
+    - shop/store: undefined
+    - square: undefined
+    - square/market: undefined
+    - stands: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - today: undefined
+    - trains: undefined
+    - warm: undefined
+    - we: undefined
+    - white: undefined

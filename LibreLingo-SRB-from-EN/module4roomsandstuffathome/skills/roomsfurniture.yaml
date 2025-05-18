@@ -1,0 +1,201 @@
+Skill:
+  Name: Rooms/furniture
+  Id: 12
+
+New words:
+  - Word: покој
+    Translation: room
+  - Word: стол
+    Translation: table
+  - Word: стул
+    Translation: chair
+  - Word: подушка
+    Translation: pillow
+  - Word: постељ
+    Translation: bed
+  - Word: окно
+    Translation: window
+  - Word: двери
+    Translation: doors
+  - Word: шафа
+    Translation: wardrobe
+  - Word: скриња
+    Translation: chest
+  - Word: полица
+    Translation: shelf
+  - Word: држати (држи)
+    Translation: to hold
+  - Word: висети (виси)
+    Translation: to hang
+  - Word: стена
+    Translation: wall
+  - Word: лампа
+    Translation: lamp
+  - Word: давати
+    Translation: to give
+
+Phrases:
+  - Phrase: Покој јест тепли и тихи.
+    Translation: The room is warm and quiet.
+  - Phrase: Стол стоји в средини покоја.
+    Translation: The table stands in the middle of the room.
+  - Phrase: Стул јест блиско стола.
+    Translation: The chair is near the table.
+  - Phrase: Постељ јест мека.
+    Translation: The bed is soft.
+  - Phrase: Окно јест откритo.
+    Translation: The window is open.
+  - Phrase: Двери сут закрите.
+    Translation: The doors are closed.
+  - Phrase: Шафа има много одежди.
+    Translation: The wardrobe has many clothes.
+  - Phrase: Скриња јест под постељу.
+    Translation: The chest is under the bed.
+  - Phrase: Полица држит књиги.
+    Translation: The shelf holds books.
+  - Phrase: Лампа свети над столом.
+    Translation: The lamp shines above the table.
+  - Phrase: Покој има две окна.
+    Translation: The room has two windows.
+  - Phrase: На столу лежи книга.
+    Translation: A book is lying on the table.
+  - Phrase: Столица јест стара, но комфортна.
+    Translation: The chair is old, but comfortable.
+  - Phrase: Постељ јест нова.
+    Translation: The bed is new.
+  - Phrase: Двери веду до кухиње.
+    Translation: The doors lead to the kitchen.
+  - Phrase: Шафа јест полна.
+    Translation: The wardrobe is full.
+  - Phrase: Скриња јест з древа.
+    Translation: The chest is made of wood.
+  - Phrase: Полица виси на стене.
+    Translation: The shelf hangs on the wall.
+  - Phrase: Лампа даје светло.
+    Translation: The lamp gives light.
+  - Phrase: В покоји јест спокојно.
+    Translation: It is quiet in the room.
+
+Mini-dictionary:
+  Serbian:
+    - блиско: undefined
+    - в: undefined
+    - веду: undefined
+    - висети: undefined
+    - виси: undefined
+    - давати: undefined
+    - даје: undefined
+    - две: undefined
+    - двери: undefined
+    - до: undefined
+    - древа: undefined
+    - држати: undefined
+    - држи: undefined
+    - држит: undefined
+    - з: undefined
+    - закрите: undefined
+    - и: undefined
+    - има: undefined
+    - книга: undefined
+    - комфортна: undefined
+    - кухиње: undefined
+    - књиги: undefined
+    - лампа: undefined
+    - лежи: undefined
+    - мека: undefined
+    - много: undefined
+    - на: undefined
+    - над: undefined
+    - но: undefined
+    - нова: undefined
+    - одежди: undefined
+    - окна: undefined
+    - окно: undefined
+    - откритo: undefined
+    - под: undefined
+    - подушка: undefined
+    - покој: undefined
+    - покоја: undefined
+    - покоји: undefined
+    - полица: undefined
+    - полна: undefined
+    - постељ: undefined
+    - постељу: undefined
+    - свети: undefined
+    - светло: undefined
+    - скриња: undefined
+    - спокојно: undefined
+    - средини: undefined
+    - стара: undefined
+    - стена: undefined
+    - стене: undefined
+    - стол: undefined
+    - стола: undefined
+    - столица: undefined
+    - столом: undefined
+    - столу: undefined
+    - стоји: undefined
+    - стул: undefined
+    - сут: undefined
+    - тепли: undefined
+    - тихи: undefined
+    - шафа: undefined
+    - јест: undefined
+  English:
+    - a: undefined
+    - above: undefined
+    - and: undefined
+    - are: undefined
+    - bed: undefined
+    - book: undefined
+    - books: undefined
+    - but: undefined
+    - chair: undefined
+    - chest: undefined
+    - closed: undefined
+    - clothes: undefined
+    - comfortable: undefined
+    - doors: undefined
+    - full: undefined
+    - give: undefined
+    - gives: undefined
+    - hang: undefined
+    - hangs: undefined
+    - has: undefined
+    - hold: undefined
+    - holds: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - kitchen: undefined
+    - lamp: undefined
+    - lead: undefined
+    - light: undefined
+    - lying: undefined
+    - made: undefined
+    - many: undefined
+    - middle: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - pillow: undefined
+    - quiet: undefined
+    - room: undefined
+    - shelf: undefined
+    - shines: undefined
+    - soft: undefined
+    - stands: undefined
+    - table: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - under: undefined
+    - wall: undefined
+    - wardrobe: undefined
+    - warm: undefined
+    - window: undefined
+    - windows: undefined
+    - wood: undefined

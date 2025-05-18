@@ -1,0 +1,170 @@
+Skill:
+  Name: Numbers 0-10
+  Id: 26
+
+New words:
+  - Word: ноль
+    Translation: zero
+  - Word: один (м)
+    Translation: one
+  - Word: одна (ж)
+    Translation: one
+  - Word: одно (с)
+    Translation: one
+  - Word: два (м/с)
+    Translation: two
+  - Word: две (ж)
+    Translation: two
+  - Word: три
+    Translation: three
+  - Word: четыре
+    Translation: four
+  - Word: пять
+    Translation: five
+  - Word: шесть
+    Translation: six
+  - Word: семь
+    Translation: seven
+  - Word: восемь
+    Translation: eight
+  - Word: девять
+    Translation: nine
+  - Word: десять
+    Translation: ten
+  - Word: часы (наручные)
+    Translation: clock/watch
+  - Word: парень
+    Translation: boy
+  - Word: компьютер
+    Translation: computer
+  - Word: велосипед
+    Translation: bicycle
+  - Word: рубль
+    Translation: ruble
+  - Word: женщина
+    Translation: woman
+  - Word: поле
+    Translation: field
+  - Word: кот
+    Translation: cat
+  - Word: доллар
+    Translation: dollar
+
+Phrases:
+  - Phrase: ноль наручных часов
+    Translation: zero clocks
+  - Phrase: один парень
+    Translation: one boy
+  - Phrase: одна женщина
+    Translation: one woman
+  - Phrase: одно поле
+    Translation: one field
+  - Phrase: два парня
+    Translation: two boys
+  - Phrase: две женщины
+    Translation: two women
+  - Phrase: три кота
+    Translation: three cats
+  - Phrase: четыре велосипеда
+    Translation: four bicycles
+  - Phrase: пять парней
+    Translation: five boys
+  - Phrase: шесть велосипедов
+    Translation: six bicycles
+  - Phrase: семь рублей
+    Translation: seven rubles
+  - Phrase: восемь долларов
+    Translation: eight dollars
+  - Phrase: девять компьютеров
+    Translation: nine computers
+  - Phrase: десять наручных часов
+    Translation: ten clocks
+  - Phrase: две вещи
+    Translation: two things
+  - Phrase: одно солнце
+    Translation: one sun
+  - Phrase: один велосипед
+    Translation: one bicycle
+  - Phrase: четыре доллара
+    Translation: four dollars
+  - Phrase: три кота
+    Translation: three cats
+  - Phrase: пять котов
+    Translation: five cats
+
+Mini-dictionary:
+  Russian:
+    - велосипед: undefined
+    - велосипеда: undefined
+    - велосипедов: undefined
+    - вещи: undefined
+    - восемь: undefined
+    - два: undefined
+    - две: undefined
+    - девять: undefined
+    - десять: undefined
+    - доллар: undefined
+    - доллара: undefined
+    - долларов: undefined
+    - ж: undefined
+    - женщина: undefined
+    - женщины: undefined
+    - компьютер: undefined
+    - компьютеров: undefined
+    - кот: undefined
+    - кота: undefined
+    - котов: undefined
+    - м: undefined
+    - м/с: undefined
+    - наручные: undefined
+    - наручных: undefined
+    - ноль: undefined
+    - один: undefined
+    - одна: undefined
+    - одно: undefined
+    - парень: undefined
+    - парней: undefined
+    - парня: undefined
+    - поле: undefined
+    - пять: undefined
+    - рублей: undefined
+    - рубль: undefined
+    - с: undefined
+    - семь: undefined
+    - солнце: undefined
+    - три: undefined
+    - часов: undefined
+    - часы: undefined
+    - четыре: undefined
+    - шесть: undefined
+  English:
+    - bicycle: undefined
+    - bicycles: undefined
+    - boy: undefined
+    - boys: undefined
+    - cat: undefined
+    - cats: undefined
+    - clock/watch: undefined
+    - clocks: undefined
+    - computer: undefined
+    - computers: undefined
+    - dollar: undefined
+    - dollars: undefined
+    - eight: undefined
+    - field: undefined
+    - five: undefined
+    - four: undefined
+    - nine: undefined
+    - one: undefined
+    - ruble: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - sun: undefined
+    - ten: undefined
+    - things: undefined
+    - three: undefined
+    - two: undefined
+    - woman: undefined
+    - women: undefined
+    - zero: undefined

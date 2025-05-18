@@ -1,0 +1,193 @@
+Skill:
+  Name: Professions
+  Id: 22
+
+New words:
+  - Word: učitelj
+    Translation: teacher
+  - Word: doktor
+    Translation: doctor
+  - Word: inženjer
+    Translation: engineer
+  - Word: robotnik
+    Translation: worker
+  - Word: pisar
+    Translation: writer
+  - Word: prodavec
+    Translation: seller
+  - Word: šofer
+    Translation: driver
+  - Word: kuhar
+    Translation: cook
+  - Word: policijnik
+    Translation: policeman
+  - Word: artist
+    Translation: artist
+  - Word: pracovati
+    Translation: to work
+  - Word: rabotati
+    Translation: to work
+  - Word: rysovati
+    Translation: to draw
+  - Word: dělati
+    Translation: to do/make
+
+Phrases:
+  - Phrase: Moj brat jest učiteljem.
+    Translation: My brother is a teacher.
+  - Phrase: Ona jest doktorom.
+    Translation: She is a doctor.
+  - Phrase: On jest inžiněrem v městu.
+    Translation: He is an engineer in the city.
+  - Phrase: Robotnik pracuje na mostu.
+    Translation: The worker is working on the bridge.
+  - Phrase: Pisar piše v ofisu.
+    Translation: The writer writes in the office.
+  - Phrase: Prodavec rabota v magazinu.
+    Translation: The seller works in the shop.
+  - Phrase: Šofer vede autobus.
+    Translation: The driver drives a bus.
+  - Phrase: Moj otec jest kuharom.
+    Translation: My father is a cook.
+  - Phrase: Policijnik stoi na ulici.
+    Translation: The policeman is standing on the street.
+  - Phrase: Artist rysuje portret.
+    Translation: The artist is drawing a portrait.
+  - Phrase: Učitelj kaže učenikam dělati.
+    Translation: The teacher tells the students to do.
+  - Phrase: Doktor pomoga ljudam.
+    Translation: The doctor helps people.
+  - Phrase: Inženjer děla plan.
+    Translation: The engineer makes a plan.
+  - Phrase: Robotnik stroi dom.
+    Translation: The worker is building a house.
+  - Phrase: Pisar piše dokumenty.
+    Translation: The writer writes documents.
+  - Phrase: Prodavec prodaje jedu.
+    Translation: The seller sells food.
+  - Phrase: Šofer vede ljudy.
+    Translation: The driver drives people.
+  - Phrase: Kuhar gotovi večeru.
+    Translation: The cook is preparing dinner.
+  - Phrase: Policijnik kontroluje situaciju.
+    Translation: The policeman controls the situation.
+  - Phrase: Artist pokazuje svoju tvorbu.
+    Translation: The artist shows his work.
+
+Mini-dictionary:
+  Interslavic:
+    - artist: undefined
+    - autobus: undefined
+    - brat: undefined
+    - doktor: undefined
+    - doktorom: undefined
+    - dokumenty: undefined
+    - dom: undefined
+    - děla: undefined
+    - dělati: undefined
+    - gotovi: undefined
+    - inženjer: undefined
+    - inžiněrem: undefined
+    - jedu: undefined
+    - jest: undefined
+    - kaže: undefined
+    - kontroluje: undefined
+    - kuhar: undefined
+    - kuharom: undefined
+    - ljudam: undefined
+    - ljudy: undefined
+    - magazinu: undefined
+    - moj: undefined
+    - mostu: undefined
+    - městu: undefined
+    - na: undefined
+    - ofisu: undefined
+    - on: undefined
+    - ona: undefined
+    - otec: undefined
+    - pisar: undefined
+    - piše: undefined
+    - plan: undefined
+    - pokazuje: undefined
+    - policijnik: undefined
+    - pomoga: undefined
+    - portret: undefined
+    - pracovati: undefined
+    - pracuje: undefined
+    - prodaje: undefined
+    - prodavec: undefined
+    - rabota: undefined
+    - rabotati: undefined
+    - robotnik: undefined
+    - rysovati: undefined
+    - rysuje: undefined
+    - situaciju: undefined
+    - stoi: undefined
+    - stroi: undefined
+    - svoju: undefined
+    - tvorbu: undefined
+    - ulici: undefined
+    - učenikam: undefined
+    - učitelj: undefined
+    - učiteljem: undefined
+    - v: undefined
+    - vede: undefined
+    - večeru: undefined
+    - šofer: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - artist: undefined
+    - bridge: undefined
+    - brother: undefined
+    - building: undefined
+    - bus: undefined
+    - city: undefined
+    - controls: undefined
+    - cook: undefined
+    - dinner: undefined
+    - do: undefined
+    - do/make: undefined
+    - doctor: undefined
+    - documents: undefined
+    - draw: undefined
+    - drawing: undefined
+    - driver: undefined
+    - drives: undefined
+    - engineer: undefined
+    - father: undefined
+    - food: undefined
+    - he: undefined
+    - helps: undefined
+    - his: undefined
+    - house: undefined
+    - in: undefined
+    - is: undefined
+    - makes: undefined
+    - my: undefined
+    - office: undefined
+    - on: undefined
+    - people: undefined
+    - plan: undefined
+    - policeman: undefined
+    - portrait: undefined
+    - preparing: undefined
+    - seller: undefined
+    - sells: undefined
+    - she: undefined
+    - shop: undefined
+    - shows: undefined
+    - situation: undefined
+    - standing: undefined
+    - street: undefined
+    - students: undefined
+    - teacher: undefined
+    - tells: undefined
+    - the: undefined
+    - to: undefined
+    - work: undefined
+    - worker: undefined
+    - working: undefined
+    - works: undefined
+    - writer: undefined
+    - writes: undefined

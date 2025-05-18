@@ -1,0 +1,127 @@
+Skill:
+  Name: Numbers 100-1000
+  Id: 29
+
+New words:
+  - Word: сто
+    Translation: one hundred
+  - Word: дзвесце
+    Translation: two hundred
+  - Word: трыста
+    Translation: three hundred
+  - Word: чатырыста
+    Translation: four hundred
+  - Word: пяцьсот
+    Translation: five hundred
+  - Word: шэсцьсот
+    Translation: six hundred
+  - Word: семсот
+    Translation: seven hundred
+  - Word: восемсот
+    Translation: eight hundred
+  - Word: дзевяцьсот
+    Translation: nine hundred
+  - Word: тысяча
+    Translation: thousand
+
+Phrases:
+  - Phrase: тысяча адзін гадзіннік
+    Translation: one thousand one clocks
+  - Phrase: сто хлопчыкаў
+    Translation: one hundred boys
+  - Phrase: дзвесце жанчын
+    Translation: two hundred women
+  - Phrase: трыста палёў
+    Translation: three hundred fields
+  - Phrase: чатырыста мужчын
+    Translation: four hundred men
+  - Phrase: пяцьсот жанчын
+    Translation: five hundred women
+  - Phrase: шэсцьсот катоў
+    Translation: six hundred cats
+  - Phrase: семсот адзін ровар
+    Translation: seven hundred one bicycles
+  - Phrase: восемсот хлопчыкаў
+    Translation: eight hundred boys
+  - Phrase: дзевяцьсот ровараў
+    Translation: nine hundred bicycles
+  - Phrase: тысяча восем рублёў
+    Translation: one thousand eight rubles
+  - Phrase: чатырыста сем долараў
+    Translation: four hundred seven dollars
+  - Phrase: дзвесце тры камп'ютары
+    Translation: two hundred three computers
+  - Phrase: семсот адзін гадзіннік
+    Translation: seven hundred one clocks
+  - Phrase: трыста чатыры рэчы
+    Translation: three hundred four things
+  - Phrase: сто два сонцы
+    Translation: one hundred two suns
+  - Phrase: шэсцьсот ровараў
+    Translation: six hundred bicycles
+  - Phrase: восемсот долараў
+    Translation: eight hundred dollars
+  - Phrase: дзве тысячы дзевяцьсот сабак
+    Translation: two thousand nine hundred dogs
+  - Phrase: чатырыста катоў
+    Translation: four hundred cats
+
+Mini-dictionary:
+  Belarusian:
+    - адзін: undefined
+    - восем: undefined
+    - восемсот: undefined
+    - гадзіннік: undefined
+    - два: undefined
+    - дзве: undefined
+    - дзвесце: undefined
+    - дзевяцьсот: undefined
+    - долараў: undefined
+    - жанчын: undefined
+    - камп'ютары: undefined
+    - катоў: undefined
+    - мужчын: undefined
+    - палёў: undefined
+    - пяцьсот: undefined
+    - ровар: undefined
+    - ровараў: undefined
+    - рублёў: undefined
+    - рэчы: undefined
+    - сабак: undefined
+    - сем: undefined
+    - семсот: undefined
+    - сонцы: undefined
+    - сто: undefined
+    - тры: undefined
+    - трыста: undefined
+    - тысяча: undefined
+    - тысячы: undefined
+    - хлопчыкаў: undefined
+    - чатыры: undefined
+    - чатырыста: undefined
+    - шэсцьсот: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - fields: undefined
+    - five: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - nine: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - suns: undefined
+    - things: undefined
+    - thousand: undefined
+    - three: undefined
+    - two: undefined
+    - women: undefined

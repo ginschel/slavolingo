@@ -1,0 +1,164 @@
+Skill:
+  Name: Numbers 0-10
+  Id: 26
+
+New words:
+  - Word: nula
+    Translation: zero
+  - Word: jedyn
+    Translation: one
+  - Word: jedna
+    Translation: one
+  - Word: jedno
+    Translation: one
+  - Word: dwa
+    Translation: two
+  - Word: dwie
+    Translation: two
+  - Word: trzi
+    Translation: three
+  - Word: sztyry
+    Translation: four
+  - Word: piyńć
+    Translation: five
+  - Word: szyść
+    Translation: six
+  - Word: siedym
+    Translation: seven
+  - Word: ôziym
+    Translation: eight
+  - Word: dziewiyńć
+    Translation: nine
+  - Word: dziesiyńć
+    Translation: ten
+  - Word: zegarek
+    Translation: clock/watch
+  - Word: synek
+    Translation: boy
+  - Word: kōmputyr
+    Translation: computer
+  - Word: rajzrkōło
+    Translation: bicycle
+  - Word: rubel
+    Translation: ruble
+  - Word: baba
+    Translation: woman
+  - Word: pōle
+    Translation: field
+  - Word: kōt
+    Translation: cat
+  - Word: dolar
+    Translation: dollar
+
+Phrases:
+  - Phrase: nula zegarkōw
+    Translation: zero clocks
+  - Phrase: jedyn synek
+    Translation: one boy
+  - Phrase: jedna baba
+    Translation: one woman
+  - Phrase: jedno pōle
+    Translation: one field
+  - Phrase: dwa synki
+    Translation: two boys
+  - Phrase: dwie baby
+    Translation: two women
+  - Phrase: trzi kōty
+    Translation: three cats
+  - Phrase: sztyry rajzrkōła
+    Translation: four bicycles
+  - Phrase: piyńć synkōw
+    Translation: five boys
+  - Phrase: szyść rajzrkōł
+    Translation: six bicycles
+  - Phrase: siedym rublōw
+    Translation: seven rubles
+  - Phrase: ôziym dolarōw
+    Translation: eight dollars
+  - Phrase: dziewiyńć kōmpytrōw
+    Translation: nine computers
+  - Phrase: dziesiyńć zegarkōw
+    Translation: ten clocks
+  - Phrase: dwie rzeczy
+    Translation: two things
+  - Phrase: jedno słōńce
+    Translation: one sun
+  - Phrase: jedyn rajzrkōło
+    Translation: one bicycle
+  - Phrase: sztyry dolary
+    Translation: four dollars
+  - Phrase: trzi kōty
+    Translation: three cats
+  - Phrase: piyńć kōtōw
+    Translation: five cats
+
+Mini-dictionary:
+  Silesian:
+    - baba: undefined
+    - baby: undefined
+    - dolar: undefined
+    - dolary: undefined
+    - dolarōw: undefined
+    - dwa: undefined
+    - dwie: undefined
+    - dziesiyńć: undefined
+    - dziewiyńć: undefined
+    - jedna: undefined
+    - jedno: undefined
+    - jedyn: undefined
+    - kōmputyr: undefined
+    - kōmpytrōw: undefined
+    - kōt: undefined
+    - kōty: undefined
+    - kōtōw: undefined
+    - nula: undefined
+    - piyńć: undefined
+    - pōle: undefined
+    - rajzrkōł: undefined
+    - rajzrkōła: undefined
+    - rajzrkōło: undefined
+    - rubel: undefined
+    - rublōw: undefined
+    - rzeczy: undefined
+    - siedym: undefined
+    - synek: undefined
+    - synki: undefined
+    - synkōw: undefined
+    - sztyry: undefined
+    - szyść: undefined
+    - słōńce: undefined
+    - trzi: undefined
+    - zegarek: undefined
+    - zegarkōw: undefined
+    - ôziym: undefined
+  English:
+    - bicycle: undefined
+    - bicycles: undefined
+    - boy: undefined
+    - boys: undefined
+    - cat: undefined
+    - cats: undefined
+    - clock/watch: undefined
+    - clocks: undefined
+    - computer: undefined
+    - computers: undefined
+    - dollar: undefined
+    - dollars: undefined
+    - eight: undefined
+    - field: undefined
+    - five: undefined
+    - four: undefined
+    - nine: undefined
+    - one: undefined
+    - ruble: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - sun: undefined
+    - ten: undefined
+    - things: undefined
+    - three: undefined
+    - two: undefined
+    - woman: undefined
+    - women: undefined
+    - zero: undefined

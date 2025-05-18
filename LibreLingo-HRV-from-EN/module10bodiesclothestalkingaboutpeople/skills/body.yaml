@@ -1,0 +1,230 @@
+Skill:
+  Name: Body
+  Id: 35
+
+New words:
+  - Word: ruka
+    Translation: hand
+  - Word: noga
+    Translation: leg
+  - Word: glava
+    Translation: head
+  - Word: oko
+    Translation: eye
+  - Word: mozak
+    Translation: brain
+  - Word: stopalo
+    Translation: foot
+  - Word: uho
+    Translation: ear
+  - Word: nos
+    Translation: nose
+  - Word: lice
+    Translation: face
+  - Word: srce
+    Translation: heart
+  - Word: prst
+    Translation: finger
+  - Word: želudac
+    Translation: stomach
+  - Word: tijelo
+    Translation: body
+  - Word: boljeti (boli)
+    Translation: to hurt
+  - Word: kosa
+    Translation: hair
+  - Word: sličan
+    Translation: similar
+  - Word: čuti (čuje)
+    Translation: to hear
+
+Phrases:
+  - Phrase: Moja ruka boli.
+    Translation: My hand hurts.
+  - Phrase: Ona ima dugu nogu.
+    Translation: She has a long leg.
+  - Phrase: Glava je na tijelu.
+    Translation: The head is on the body.
+  - Phrase: On ima plave lijepe oči.
+    Translation: He has beautiful blue eyes.
+  - Phrase: Njezino uho ne čuje dobro.
+    Translation: Her ear does not hear well.
+  - Phrase: Nos je crven od mraza.
+    Translation: The nose is red from the cold.
+  - Phrase: Lice je slično.
+    Translation: The face is similar.
+  - Phrase: Njezino srce kuca brzo.
+    Translation: Her heart beats fast.
+  - Phrase: Želudac te boli.
+    Translation: My stomach hurts.
+  - Phrase: Tijelo kod mene je zdravo.
+    Translation: My body is healthy.
+  - Phrase: Ja imam dvije ruke i dvije noge i također dvije stope.
+    Translation: I have two hands and two legs, and also two feet.
+  - Phrase: Oči gledaju u knjigu.
+    Translation: The eyes are looking at the book.
+  - Phrase: Uho čuje glazbu.
+    Translation: The ear hears music.
+  - Phrase: Njegov mozak je brz.
+    Translation: His brain is quick.
+  - Phrase: Njezino lice je lijepo.
+    Translation: Her face is beautiful.
+  - Phrase: Srce je simbol ljubavi.
+    Translation: The heart is a symbol of love.
+  - Phrase: Moj želudac je jednostavno pun nakon večere.
+    Translation: My stomach is just full after dinner.
+  - Phrase: Tijelo treba odmora.
+    Translation: The body needs rest.
+  - Phrase: On ima kestenjastu kosu na glavi.
+    Translation: He has chestnut-colored hair on his head.
+  - Phrase: Ona te čuje samo jednim uhom.
+    Translation: She hears you only with one ear.
+
+Mini-dictionary:
+  Croatian:
+    - boli: undefined
+    - boljeti: undefined
+    - brz: undefined
+    - brzo: undefined
+    - crven: undefined
+    - dobro: undefined
+    - dugu: undefined
+    - dvije: undefined
+    - glava: undefined
+    - glavi: undefined
+    - glazbu: undefined
+    - gledaju: undefined
+    - i: undefined
+    - ima: undefined
+    - imam: undefined
+    - ja: undefined
+    - je: undefined
+    - jednim: undefined
+    - jednostavno: undefined
+    - kestenjastu: undefined
+    - knjigu: undefined
+    - kod: undefined
+    - kosa: undefined
+    - kosu: undefined
+    - kuca: undefined
+    - lice: undefined
+    - lijepe: undefined
+    - lijepo: undefined
+    - ljubavi: undefined
+    - mene: undefined
+    - moj: undefined
+    - moja: undefined
+    - mozak: undefined
+    - mraza: undefined
+    - na: undefined
+    - nakon: undefined
+    - ne: undefined
+    - njegov: undefined
+    - njezino: undefined
+    - noga: undefined
+    - noge: undefined
+    - nogu: undefined
+    - nos: undefined
+    - od: undefined
+    - odmora: undefined
+    - oko: undefined
+    - on: undefined
+    - ona: undefined
+    - oči: undefined
+    - plave: undefined
+    - prst: undefined
+    - pun: undefined
+    - ruka: undefined
+    - ruke: undefined
+    - samo: undefined
+    - simbol: undefined
+    - sličan: undefined
+    - slično: undefined
+    - srce: undefined
+    - stopalo: undefined
+    - stope: undefined
+    - također: undefined
+    - te: undefined
+    - tijelo: undefined
+    - tijelu: undefined
+    - treba: undefined
+    - u: undefined
+    - uho: undefined
+    - uhom: undefined
+    - večere: undefined
+    - zdravo: undefined
+    - čuje: undefined
+    - čuti: undefined
+    - želudac: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beats: undefined
+    - beautiful: undefined
+    - blue: undefined
+    - body: undefined
+    - book: undefined
+    - brain: undefined
+    - chestnut-colored: undefined
+    - cold: undefined
+    - dinner: undefined
+    - does: undefined
+    - ear: undefined
+    - eye: undefined
+    - eyes: undefined
+    - face: undefined
+    - fast: undefined
+    - feet: undefined
+    - finger: undefined
+    - foot: undefined
+    - from: undefined
+    - full: undefined
+    - hair: undefined
+    - hand: undefined
+    - hands: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - head: undefined
+    - healthy: undefined
+    - hear: undefined
+    - hears: undefined
+    - heart: undefined
+    - her: undefined
+    - his: undefined
+    - hurt: undefined
+    - hurts: undefined
+    - i: undefined
+    - is: undefined
+    - just: undefined
+    - leg: undefined
+    - legs: undefined
+    - long: undefined
+    - looking: undefined
+    - love: undefined
+    - music: undefined
+    - my: undefined
+    - needs: undefined
+    - nose: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - one: undefined
+    - only: undefined
+    - quick: undefined
+    - red: undefined
+    - rest: undefined
+    - she: undefined
+    - similar: undefined
+    - stomach: undefined
+    - symbol: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - well: undefined
+    - with: undefined
+    - you: undefined

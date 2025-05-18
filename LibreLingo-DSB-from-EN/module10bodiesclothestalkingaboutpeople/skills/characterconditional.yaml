@@ -1,0 +1,226 @@
+Skill:
+  Name: Character (Conditional)
+  Id: 36
+
+New words:
+  - Word: dobry
+    Translation: good
+  - Word: zły
+    Translation: bad
+  - Word: sylny
+    Translation: strong
+  - Word: słaby
+    Translation: weak
+  - Word: wusudny
+    Translation: brave
+  - Word: śichy
+    Translation: quiet
+  - Word: mudry
+    Translation: wise
+  - Word: głupy
+    Translation: stupid
+  - Word: šćery
+    Translation: sincere
+  - Word: lěny
+    Translation: lazy
+  - Word: był by
+    Translation: I would be
+  - Word: był by
+    Translation: you would be
+  - Word: był by
+    Translation: he/she/it would be
+  - Word: byli by
+    Translation: we would be
+  - Word: byli by
+    Translation: you would be
+  - Word: byli by
+    Translation: they would be
+  - Word: mlčaś (mlcy)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: Wón to dobry cłowjek.
+    Translation: He is a good person.
+  - Phrase: Wóna jo zła casom.
+    Translation: She is sometimes bad.
+  - Phrase: Sylny duch jo ważny.
+    Translation: A strong spirit is important.
+  - Phrase: Wón jo słaby we sporśe.
+    Translation: He is weak in sports.
+  - Phrase: Wusudny powěda pšawdu.
+    Translation: Brave people speak the truth.
+  - Phrase: Kak ty był by słysał, to wóni byli by śiche.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Mudry wě wjele.
+    Translation: A smart person knows much.
+  - Phrase: Kak ty był by nje głupy, to był by nje cynił głuposći.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Šćery pśijaśel jo drogi.
+    Translation: A sincere friend is valuable.
+  - Phrase: Kak wóni byli by nje lěne, to my byli by jim pomagali.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Wóna jo dobra a šćera.
+    Translation: She is good and sincere.
+  - Phrase: Wón jo sylny ale wusudny.
+    Translation: He is strong but brave.
+  - Phrase: Źiśe su mudre za jich lěto.
+    Translation: Children are wiser for their age.
+  - Phrase: Kak wy nje byli by słabe, to wy byliby źěłali.
+    Translation: If you were not weak, you would work.
+  - Phrase: Złe słowa bola.
+    Translation: Bad words hurt.
+  - Phrase: Głupy nje wuknjo se.
+    Translation: Stupid people do not learn.
+  - Phrase: Lěny nje kśě nic cyniś.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Šćery gronjo což mysli.
+    Translation: A sincere person says what they think.
+  - Phrase: Mudry mlcy gaž trěba.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Kak ja był by wusudny, to ja był by se nje bojoł.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: undefined
+    - ale: undefined
+    - bojoł: undefined
+    - bola: undefined
+    - by: undefined
+    - byli: undefined
+    - byliby: undefined
+    - był: undefined
+    - casom: undefined
+    - což: undefined
+    - cynił: undefined
+    - cyniś: undefined
+    - cłowjek: undefined
+    - dobra: undefined
+    - dobry: undefined
+    - drogi: undefined
+    - duch: undefined
+    - gaž: undefined
+    - gronjo: undefined
+    - głuposći: undefined
+    - głupy: undefined
+    - ja: undefined
+    - jich: undefined
+    - jim: undefined
+    - jo: undefined
+    - kak: undefined
+    - kśě: undefined
+    - lěne: undefined
+    - lěny: undefined
+    - lěto: undefined
+    - mlcy: undefined
+    - mlčaś: undefined
+    - mudre: undefined
+    - mudry: undefined
+    - my: undefined
+    - mysli: undefined
+    - nic: undefined
+    - nje: undefined
+    - pomagali: undefined
+    - powěda: undefined
+    - pśijaśel: undefined
+    - pšawdu: undefined
+    - se: undefined
+    - sporśe: undefined
+    - su: undefined
+    - sylny: undefined
+    - słabe: undefined
+    - słaby: undefined
+    - słowa: undefined
+    - słysał: undefined
+    - to: undefined
+    - trěba: undefined
+    - ty: undefined
+    - ważny: undefined
+    - we: undefined
+    - wjele: undefined
+    - wuknjo: undefined
+    - wusudny: undefined
+    - wy: undefined
+    - wón: undefined
+    - wóna: undefined
+    - wóni: undefined
+    - wě: undefined
+    - za: undefined
+    - zła: undefined
+    - złe: undefined
+    - zły: undefined
+    - śiche: undefined
+    - śichy: undefined
+    - šćera: undefined
+    - šćery: undefined
+    - źiśe: undefined
+    - źěłali: undefined
+  English:
+    - a: undefined
+    - afraid: undefined
+    - age: undefined
+    - and: undefined
+    - anything: undefined
+    - are: undefined
+    - bad: undefined
+    - be: undefined
+    - brave: undefined
+    - but: undefined
+    - children: undefined
+    - do: undefined
+    - foolish: undefined
+    - for: undefined
+    - friend: undefined
+    - good: undefined
+    - he: undefined
+    - he/she/it: undefined
+    - hear: undefined
+    - help: undefined
+    - hurt: undefined
+    - i: undefined
+    - if: undefined
+    - important: undefined
+    - in: undefined
+    - is: undefined
+    - knows: undefined
+    - lazy: undefined
+    - learn: undefined
+    - much: undefined
+    - needed: undefined
+    - not: undefined
+    - people: undefined
+    - person: undefined
+    - quiet: undefined
+    - says: undefined
+    - she: undefined
+    - silent: undefined
+    - sincere: undefined
+    - smart: undefined
+    - sometimes: undefined
+    - speak: undefined
+    - spirit: undefined
+    - sports: undefined
+    - stays: undefined
+    - strong: undefined
+    - stupid: undefined
+    - the: undefined
+    - their: undefined
+    - them: undefined
+    - they: undefined
+    - things: undefined
+    - think: undefined
+    - to: undefined
+    - truth: undefined
+    - valuable: undefined
+    - want: undefined
+    - we: undefined
+    - weak: undefined
+    - were: undefined
+    - what: undefined
+    - when: undefined
+    - wise: undefined
+    - wiser: undefined
+    - words: undefined
+    - work: undefined
+    - would: undefined
+    - you: undefined

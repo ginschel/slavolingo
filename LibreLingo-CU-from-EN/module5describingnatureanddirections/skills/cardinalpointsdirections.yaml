@@ -1,0 +1,210 @@
+Skill:
+  Name: Cardinal points/directions
+  Id: 18
+
+New words:
+  - Word: сѣвєръ
+    Translation: north
+  - Word: югъ
+    Translation: south
+  - Word: западъ
+    Translation: west
+  - Word: възходъ
+    Translation: east
+  - Word: сѣвєрьнъ
+    Translation: northern
+  - Word: южьнъ
+    Translation: southern
+  - Word: западънъ
+    Translation: western
+  - Word: възходънъ
+    Translation: eastern
+  - Word: компасъ
+    Translation: compass
+  - Word: страна
+    Translation: side
+  - Word: гдѣ
+    Translation: where
+  - Word: въстати (въстанєтъ)
+    Translation: to rise
+  - Word: показовати
+    Translation: to show
+  - Word: мапа
+    Translation: map
+  - Word: пꙋтьствовати
+    Translation: to travel
+  - Word: право
+    Translation: right
+  - Word: лѣво
+    Translation: left
+  - Word: прємо
+    Translation: straight
+
+Phrases:
+  - Phrase: Сѣвєръ ѥстъ хладьнъ.
+    Translation: The north is cold.
+  - Phrase: Югъ ѥстъ тєплъи.
+    Translation: The south is warm.
+  - Phrase: Слъньцє въстанєтъ на възходꙋ.
+    Translation: The sun rises in the east.
+  - Phrase: Оно западаѥтъ на западꙋ.
+    Translation: It sets in the west.
+  - Phrase: Сь ѥстъ сѣвєрьна страна.
+    Translation: This is the northern side.
+  - Phrase: Жинємъ на югꙋ.
+    Translation: We live in the south.
+  - Phrase: Компасъ показоваѥтъ сѣвєръ.
+    Translation: The compass shows north.
+  - Phrase: Възходъ ѥстъ тамъ.
+    Translation: The east is there.
+  - Phrase: Западънъи вѣтръ дꙋѥтъ.
+    Translation: A western wind is blowing.
+  - Phrase: Идємъ къ югъ-западꙋ.
+    Translation: We are going to the southwest.
+  - Phrase: Сь ѥстъ сѣвєро-западънъи рєгионъ.
+    Translation: This is the northwestern region.
+  - Phrase: Страна на мапѣ показоваѥтъ западъ.
+    Translation: The side on the map shows west.
+  - Phrase: Юго-възходъ ѥстъ тамъ, гдѣ грѣѥтъ слъньцє.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Идємъ до южьноѩ странꙑ.
+    Translation: We are going to the southern side.
+  - Phrase: Онъ пꙋтьствоѥтъ възходъно.
+    Translation: He travels eastward.
+  - Phrase: На сѣвєрꙋ ѥстъ снѣгъ.
+    Translation: In the north there is snow.
+  - Phrase: Южьни краѥ сѫтъ тєплє.
+    Translation: The southern regions are warm.
+  - Phrase: Западъ ѥстъ лѣво на мапѣ.
+    Translation: West is left on the map.
+  - Phrase: Възходъна мꙋзика ѥстъ интєрєсьна.
+    Translation: Eastern music is interesting.
+  - Phrase: Глѧдаѥмъ къ сѣвєрꙋ.
+    Translation: We are looking to the north.
+  - Phrase: Идємъ тꙋ часъ въ право и потомъ прємо.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Church Slavonic:
+    - въ: undefined
+    - възходъ: undefined
+    - възходъна: undefined
+    - възходъно: undefined
+    - възходънъ: undefined
+    - възходꙋ: undefined
+    - въстанєтъ: undefined
+    - въстати: undefined
+    - вѣтръ: undefined
+    - гдѣ: undefined
+    - глѧдаѥмъ: undefined
+    - грѣѥтъ: undefined
+    - до: undefined
+    - дꙋѥтъ: undefined
+    - жинємъ: undefined
+    - западаѥтъ: undefined
+    - западъ: undefined
+    - западънъ: undefined
+    - западънъи: undefined
+    - западꙋ: undefined
+    - и: undefined
+    - идємъ: undefined
+    - интєрєсьна: undefined
+    - компасъ: undefined
+    - краѥ: undefined
+    - къ: undefined
+    - лѣво: undefined
+    - мапа: undefined
+    - мапѣ: undefined
+    - мꙋзика: undefined
+    - на: undefined
+    - оно: undefined
+    - онъ: undefined
+    - показовати: undefined
+    - показоваѥтъ: undefined
+    - потомъ: undefined
+    - право: undefined
+    - прємо: undefined
+    - пꙋтьствовати: undefined
+    - пꙋтьствоѥтъ: undefined
+    - рєгионъ: undefined
+    - слъньцє: undefined
+    - снѣгъ: undefined
+    - страна: undefined
+    - странꙑ: undefined
+    - сь: undefined
+    - сѣвєро-западънъи: undefined
+    - сѣвєръ: undefined
+    - сѣвєрьна: undefined
+    - сѣвєрьнъ: undefined
+    - сѣвєрꙋ: undefined
+    - сѫтъ: undefined
+    - тамъ: undefined
+    - тєплъи: undefined
+    - тєплє: undefined
+    - тꙋ: undefined
+    - хладьнъ: undefined
+    - часъ: undefined
+    - юго-възходъ: undefined
+    - югъ: undefined
+    - югъ-западꙋ: undefined
+    - югꙋ: undefined
+    - южьни: undefined
+    - южьноѩ: undefined
+    - южьнъ: undefined
+    - ѥстъ: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - blowing: undefined
+    - cold: undefined
+    - compass: undefined
+    - east: undefined
+    - eastern: undefined
+    - eastward: undefined
+    - going: undefined
+    - he: undefined
+    - in: undefined
+    - interesting: undefined
+    - is: undefined
+    - it: undefined
+    - left: undefined
+    - live: undefined
+    - looking: undefined
+    - map: undefined
+    - music: undefined
+    - north: undefined
+    - northern: undefined
+    - northwestern: undefined
+    - now: undefined
+    - on: undefined
+    - region: undefined
+    - regions: undefined
+    - right: undefined
+    - rise: undefined
+    - rises: undefined
+    - sets: undefined
+    - show: undefined
+    - shows: undefined
+    - side: undefined
+    - snow: undefined
+    - south: undefined
+    - southeast: undefined
+    - southern: undefined
+    - southwest: undefined
+    - straight: undefined
+    - sun: undefined
+    - the: undefined
+    - then: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - travel: undefined
+    - travels: undefined
+    - warm: undefined
+    - warms: undefined
+    - we: undefined
+    - west: undefined
+    - western: undefined
+    - where: undefined
+    - wind: undefined

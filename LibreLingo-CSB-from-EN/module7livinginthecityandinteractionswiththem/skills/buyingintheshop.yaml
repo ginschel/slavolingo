@@ -1,0 +1,185 @@
+Skill:
+  Name: Buying in the Shop
+  Id: 24
+
+New words:
+  - Word: kùpic
+    Translation: to buy
+  - Word: przedôwac
+    Translation: to sell
+  - Word: cena
+    Translation: price
+  - Word: òdzenié
+    Translation: clothes
+  - Word: tôrba
+    Translation: bag
+  - Word: kùs
+    Translation: piece
+  - Word: kùpc
+    Translation: customer
+  - Word: nawrócenié
+    Translation: return
+  - Word: kwit
+    Translation: receipt
+  - Word: pytac
+    Translation: to ask
+  - Word: swiéżi
+    Translation: fresh
+
+Phrases:
+  - Phrase: Chce kùpic chléb.
+    Translation: I want to buy bread.
+  - Phrase: On przedôwô miãso.
+    Translation: He sells meat.
+  - Phrase: Cena je wësokô.
+    Translation: The price is high.
+  - Phrase: Òdzenié je nowé.
+    Translation: The clothes are new.
+  - Phrase: Przedôwca je zmãczoni dzysô.
+    Translation: The seller is tired today.
+  - Phrase: Tôrba je cãżkô.
+    Translation: The bag is heavy.
+  - Phrase: Kùs sera je dobri.
+    Translation: A piece of cheese is good.
+  - Phrase: Kùpc pitô za zniżkã.
+    Translation: The customer asks for a discount.
+  - Phrase: Nawrócenia nie ma. To je zli skłôd.
+    Translation: No returns. This is a bad shop.
+  - Phrase: Dóm kwit przedôwce.
+    Translation: I give the receipt to the seller.
+  - Phrase: Òna kùpùje knégã.
+    Translation: She is buying a book.
+  - Phrase: On przedôwô mlékò.
+    Translation: He sells milk.
+  - Phrase: Cena masła je dobrô.
+    Translation: The price of butter is good.
+  - Phrase: Kiełbasa je swiéżô.
+    Translation: The sausage is fresh.
+  - Phrase: Przedôwca dô kùs kiełbasë.
+    Translation: The seller gives a piece of sausage.
+  - Phrase: Tôrba stoji na pòdłodze.
+    Translation: The bag is on the floor.
+  - Phrase: Kùs chleba je môłi.
+    Translation: The piece of bread is small.
+  - Phrase: Kùpc pitô ò cenã.
+    Translation: The customer asks about the price.
+  - Phrase: Nawrócenié je do septem dzéniów.
+    Translation: Return is within seven days.
+  - Phrase: Kwit je pòdpisôni.
+    Translation: The receipt is signed.
+
+Mini-dictionary:
+  Kashubian:
+    - cena: undefined
+    - cenã: undefined
+    - chce: undefined
+    - chleba: undefined
+    - chléb: undefined
+    - cãżkô: undefined
+    - do: undefined
+    - dobri: undefined
+    - dobrô: undefined
+    - dzysô: undefined
+    - dzéniów: undefined
+    - dóm: undefined
+    - dô: undefined
+    - je: undefined
+    - kiełbasa: undefined
+    - kiełbasë: undefined
+    - knégã: undefined
+    - kwit: undefined
+    - kùpc: undefined
+    - kùpic: undefined
+    - kùpùje: undefined
+    - kùs: undefined
+    - ma: undefined
+    - masła: undefined
+    - miãso: undefined
+    - mlékò: undefined
+    - môłi: undefined
+    - na: undefined
+    - nawrócenia: undefined
+    - nawrócenié: undefined
+    - nie: undefined
+    - nowé: undefined
+    - on: undefined
+    - pitô: undefined
+    - przedôwac: undefined
+    - przedôwca: undefined
+    - przedôwce: undefined
+    - przedôwô: undefined
+    - pytac: undefined
+    - pòdpisôni: undefined
+    - pòdłodze: undefined
+    - septem: undefined
+    - sera: undefined
+    - skłôd: undefined
+    - stoji: undefined
+    - swiéżi: undefined
+    - swiéżô: undefined
+    - to: undefined
+    - tôrba: undefined
+    - wësokô: undefined
+    - za: undefined
+    - zli: undefined
+    - zmãczoni: undefined
+    - zniżkã: undefined
+    - ò: undefined
+    - òdzenié: undefined
+    - òna: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - are: undefined
+    - ask: undefined
+    - asks: undefined
+    - bad: undefined
+    - bag: undefined
+    - book: undefined
+    - bread: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - cheese: undefined
+    - clothes: undefined
+    - customer: undefined
+    - days: undefined
+    - discount: undefined
+    - floor: undefined
+    - for: undefined
+    - fresh: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - i: undefined
+    - is: undefined
+    - meat: undefined
+    - milk: undefined
+    - new: undefined
+    - no: undefined
+    - of: undefined
+    - on: undefined
+    - piece: undefined
+    - price: undefined
+    - receipt: undefined
+    - return: undefined
+    - returns: undefined
+    - sausage: undefined
+    - sell: undefined
+    - seller: undefined
+    - sells: undefined
+    - seven: undefined
+    - she: undefined
+    - shop: undefined
+    - signed: undefined
+    - small: undefined
+    - the: undefined
+    - this: undefined
+    - tired: undefined
+    - to: undefined
+    - today: undefined
+    - want: undefined
+    - within: undefined

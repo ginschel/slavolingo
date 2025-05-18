@@ -1,0 +1,227 @@
+Skill:
+  Name: Body
+  Id: 35
+
+New words:
+  - Word: ruka
+    Translation: hand
+  - Word: noga
+    Translation: leg
+  - Word: głowa
+    Translation: head
+  - Word: woko
+    Translation: eye
+  - Word: mózg
+    Translation: brain
+  - Word: stopa
+    Translation: foot
+  - Word: wucho
+    Translation: ear
+  - Word: nos
+    Translation: nose
+  - Word: wóbliče
+    Translation: face
+  - Word: wutšoba
+    Translation: heart
+  - Word: palc
+    Translation: finger
+  - Word: žołdk
+    Translation: stomach
+  - Word: śěło
+    Translation: body
+  - Word: bolaś (boli)
+    Translation: to hurt
+  - Word: włosy
+    Translation: hair
+  - Word: pódobny
+    Translation: similar
+  - Word: słyšaś (słyšo)
+    Translation: to hear
+
+Phrases:
+  - Phrase: Mója ruka boli.
+    Translation: My hand hurts.
+  - Phrase: Wóna ma dłujku nogu.
+    Translation: She has a long leg.
+  - Phrase: Głowa jo na śěle.
+    Translation: The head is on the body.
+  - Phrase: Wón ma módre krasne wocy.
+    Translation: He has beautiful blue eyes.
+  - Phrase: Jej wucho nje słyšo derje.
+    Translation: Her ear does not hear well.
+  - Phrase: Nos jo cerwjeny wót mroza.
+    Translation: The nose is red from the cold.
+  - Phrase: Wóbliče jo pódobne.
+    Translation: The face is similar.
+  - Phrase: Jej wutšoba bije snadnje.
+    Translation: Her heart beats fast.
+  - Phrase: Žołdk śi boli.
+    Translation: My stomach hurts.
+  - Phrase: Śěło pśi mje zdrowe.
+    Translation: My body is healthy.
+  - Phrase: Ja mam dwě ruce a dwě noze a teke dwě stopje.
+    Translation: I have two hands and two legs, and also two feet.
+  - Phrase: Wocy glědaju we knigłu.
+    Translation: The eyes are looking at the book.
+  - Phrase: Wucho słyšo muziku.
+    Translation: The ear hears music.
+  - Phrase: Jej mózg jo snadny.
+    Translation: His brain is quick.
+  - Phrase: Jej wóbliče jo krasne.
+    Translation: Her face is beautiful.
+  - Phrase: Wutšoba jo symbol lubosći.
+    Translation: The heart is a symbol of love.
+  - Phrase: Mój žołdk jo jano pełny pó wjacorim.
+    Translation: My stomach is just full after dinner.
+  - Phrase: Śěłu musy wótpocowaś.
+    Translation: The body needs rest.
+  - Phrase: Wón ma kastanowe włosy na głowje.
+    Translation: He has chestnut-colored hair on his head.
+  - Phrase: Wóna słyšo śi jano jadenym wuchom.
+    Translation: She hears you only with one ear.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: undefined
+    - bije: undefined
+    - bolaś: undefined
+    - boli: undefined
+    - cerwjeny: undefined
+    - derje: undefined
+    - dwě: undefined
+    - dłujku: undefined
+    - glědaju: undefined
+    - głowa: undefined
+    - głowje: undefined
+    - ja: undefined
+    - jadenym: undefined
+    - jano: undefined
+    - jej: undefined
+    - jo: undefined
+    - kastanowe: undefined
+    - knigłu: undefined
+    - krasne: undefined
+    - lubosći: undefined
+    - ma: undefined
+    - mam: undefined
+    - mje: undefined
+    - mroza: undefined
+    - musy: undefined
+    - muziku: undefined
+    - módre: undefined
+    - mój: undefined
+    - mója: undefined
+    - mózg: undefined
+    - na: undefined
+    - nje: undefined
+    - noga: undefined
+    - nogu: undefined
+    - nos: undefined
+    - noze: undefined
+    - palc: undefined
+    - pełny: undefined
+    - pó: undefined
+    - pódobne: undefined
+    - pódobny: undefined
+    - pśi: undefined
+    - ruce: undefined
+    - ruka: undefined
+    - snadnje: undefined
+    - snadny: undefined
+    - stopa: undefined
+    - stopje: undefined
+    - symbol: undefined
+    - słyšaś: undefined
+    - słyšo: undefined
+    - teke: undefined
+    - we: undefined
+    - wjacorim: undefined
+    - wocy: undefined
+    - woko: undefined
+    - wucho: undefined
+    - wuchom: undefined
+    - wutšoba: undefined
+    - wóbliče: undefined
+    - wón: undefined
+    - wóna: undefined
+    - wót: undefined
+    - wótpocowaś: undefined
+    - włosy: undefined
+    - zdrowe: undefined
+    - śi: undefined
+    - śěle: undefined
+    - śěło: undefined
+    - śěłu: undefined
+    - žołdk: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beats: undefined
+    - beautiful: undefined
+    - blue: undefined
+    - body: undefined
+    - book: undefined
+    - brain: undefined
+    - chestnut-colored: undefined
+    - cold: undefined
+    - dinner: undefined
+    - does: undefined
+    - ear: undefined
+    - eye: undefined
+    - eyes: undefined
+    - face: undefined
+    - fast: undefined
+    - feet: undefined
+    - finger: undefined
+    - foot: undefined
+    - from: undefined
+    - full: undefined
+    - hair: undefined
+    - hand: undefined
+    - hands: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - head: undefined
+    - healthy: undefined
+    - hear: undefined
+    - hears: undefined
+    - heart: undefined
+    - her: undefined
+    - his: undefined
+    - hurt: undefined
+    - hurts: undefined
+    - i: undefined
+    - is: undefined
+    - just: undefined
+    - leg: undefined
+    - legs: undefined
+    - long: undefined
+    - looking: undefined
+    - love: undefined
+    - music: undefined
+    - my: undefined
+    - needs: undefined
+    - nose: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - one: undefined
+    - only: undefined
+    - quick: undefined
+    - red: undefined
+    - rest: undefined
+    - she: undefined
+    - similar: undefined
+    - stomach: undefined
+    - symbol: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - well: undefined
+    - with: undefined
+    - you: undefined

@@ -1,0 +1,207 @@
+Skill:
+  Name: Cardinal points/directions
+  Id: 18
+
+New words:
+  - Word: norda
+    Translation: north
+  - Word: pòłnié
+    Translation: south
+  - Word: zôpôd
+    Translation: west
+  - Word: pòrénk
+    Translation: east
+  - Word: nordowi
+    Translation: northern
+  - Word: pòłniowi
+    Translation: southern
+  - Word: zôpôdni
+    Translation: western
+  - Word: pòrénkòwi
+    Translation: eastern
+  - Word: kòmpas
+    Translation: compass
+  - Word: strona
+    Translation: side
+  - Word: dze
+    Translation: where
+  - Word: wstac (wstané)
+    Translation: to rise
+  - Word: pòkôzac
+    Translation: to show
+  - Word: mapa
+    Translation: map
+  - Word: céstowac
+    Translation: to travel
+  - Word: wprôwò
+    Translation: right
+  - Word: wlewò
+    Translation: left
+  - Word: prosto
+    Translation: straight
+
+Phrases:
+  - Phrase: Norda je zëmnô.
+    Translation: The north is cold.
+  - Phrase: Pòłnié je ciepłé.
+    Translation: The south is warm.
+  - Phrase: Słuncé wstané na pòrénkù.
+    Translation: The sun rises in the east.
+  - Phrase: Òno zôpôdô na zôpôdze.
+    Translation: It sets in the west.
+  - Phrase: To je nordowô strona.
+    Translation: This is the northern side.
+  - Phrase: Żëjemë na pòłniu.
+    Translation: We live in the south.
+  - Phrase: Kòmpas pòkôzëje nordã.
+    Translation: The compass shows north.
+  - Phrase: Pòrénk je tam.
+    Translation: The east is there.
+  - Phrase: Zôpôdni wiatrzënk dmie.
+    Translation: A western wind is blowing.
+  - Phrase: Jidzemë do pòłniowegò zôpôdu.
+    Translation: We are going to the southwest.
+  - Phrase: To je nordowò-zôpôdni región.
+    Translation: This is the northwestern region.
+  - Phrase: Strona na mapie pòkôzëje zôpôd.
+    Translation: The side on the map shows west.
+  - Phrase: Pòłniowò-pòrénk je tam, dze grzeje słuncé.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Jidzemë do pòłniowégò starnë.
+    Translation: We are going to the southern side.
+  - Phrase: On céstëje pòrénkòwò.
+    Translation: He travels eastward.
+  - Phrase: Na nordze je sniég.
+    Translation: In the north there is snow.
+  - Phrase: Pòłniowé kraje są ciepłé.
+    Translation: The southern regions are warm.
+  - Phrase: Zôpôd je wlewò na mapie.
+    Translation: West is left on the map.
+  - Phrase: Pòrénkòwô mùzëka je jinteresantnô.
+    Translation: Eastern music is interesting.
+  - Phrase: Òbzérómë na nordã.
+    Translation: We are looking to the north.
+  - Phrase: Jidzemë dzysô wprôwò i pòtemù prosto.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Kashubian:
+    - ciepłé: undefined
+    - céstowac: undefined
+    - céstëje: undefined
+    - dmie: undefined
+    - do: undefined
+    - dze: undefined
+    - dzysô: undefined
+    - grzeje: undefined
+    - i: undefined
+    - je: undefined
+    - jidzemë: undefined
+    - jinteresantnô: undefined
+    - kraje: undefined
+    - kòmpas: undefined
+    - mapa: undefined
+    - mapie: undefined
+    - mùzëka: undefined
+    - na: undefined
+    - norda: undefined
+    - nordowi: undefined
+    - nordowò-zôpôdni: undefined
+    - nordowô: undefined
+    - nordze: undefined
+    - nordã: undefined
+    - on: undefined
+    - prosto: undefined
+    - pòkôzac: undefined
+    - pòkôzëje: undefined
+    - pòrénk: undefined
+    - pòrénkòwi: undefined
+    - pòrénkòwò: undefined
+    - pòrénkòwô: undefined
+    - pòrénkù: undefined
+    - pòtemù: undefined
+    - pòłniowegò: undefined
+    - pòłniowi: undefined
+    - pòłniowé: undefined
+    - pòłniowégò: undefined
+    - pòłniowò-pòrénk: undefined
+    - pòłniu: undefined
+    - pòłnié: undefined
+    - región: undefined
+    - sniég: undefined
+    - starnë: undefined
+    - strona: undefined
+    - są: undefined
+    - słuncé: undefined
+    - tam: undefined
+    - to: undefined
+    - wiatrzënk: undefined
+    - wlewò: undefined
+    - wprôwò: undefined
+    - wstac: undefined
+    - wstané: undefined
+    - zëmnô: undefined
+    - zôpôd: undefined
+    - zôpôdni: undefined
+    - zôpôdu: undefined
+    - zôpôdze: undefined
+    - zôpôdô: undefined
+    - òbzérómë: undefined
+    - òno: undefined
+    - żëjemë: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - blowing: undefined
+    - cold: undefined
+    - compass: undefined
+    - east: undefined
+    - eastern: undefined
+    - eastward: undefined
+    - going: undefined
+    - he: undefined
+    - in: undefined
+    - interesting: undefined
+    - is: undefined
+    - it: undefined
+    - left: undefined
+    - live: undefined
+    - looking: undefined
+    - map: undefined
+    - music: undefined
+    - north: undefined
+    - northern: undefined
+    - northwestern: undefined
+    - now: undefined
+    - on: undefined
+    - region: undefined
+    - regions: undefined
+    - right: undefined
+    - rise: undefined
+    - rises: undefined
+    - sets: undefined
+    - show: undefined
+    - shows: undefined
+    - side: undefined
+    - snow: undefined
+    - south: undefined
+    - southeast: undefined
+    - southern: undefined
+    - southwest: undefined
+    - straight: undefined
+    - sun: undefined
+    - the: undefined
+    - then: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - travel: undefined
+    - travels: undefined
+    - warm: undefined
+    - warms: undefined
+    - we: undefined
+    - west: undefined
+    - western: undefined
+    - where: undefined
+    - wind: undefined

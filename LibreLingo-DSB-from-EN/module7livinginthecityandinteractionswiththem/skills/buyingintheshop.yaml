@@ -1,0 +1,186 @@
+Skill:
+  Name: Buying in the Shop
+  Id: 24
+
+New words:
+  - Word: kupiś
+    Translation: to buy
+  - Word: pśedawaś
+    Translation: to sell
+  - Word: cena
+    Translation: price
+  - Word: woblac
+    Translation: clothes
+  - Word: tascyna
+    Translation: bag
+  - Word: kusk
+    Translation: piece
+  - Word: kupc
+    Translation: customer
+  - Word: wrośeńje
+    Translation: return
+  - Word: kwit
+    Translation: receipt
+  - Word: pšosyś
+    Translation: to ask
+  - Word: swěžy
+    Translation: fresh
+
+Phrases:
+  - Phrase: Kśěm kupiś klěb.
+    Translation: I want to buy bread.
+  - Phrase: Wón pśedawa měso.
+    Translation: He sells meat.
+  - Phrase: Cena jo wusoka.
+    Translation: The price is high.
+  - Phrase: Woblac jo nowe.
+    Translation: The clothes are new.
+  - Phrase: Pśedawaŕ jo zmóžony źinsaj.
+    Translation: The seller is tired today.
+  - Phrase: Tascyna jo śěžka.
+    Translation: The bag is heavy.
+  - Phrase: Kusk syra jo dobry.
+    Translation: A piece of cheese is good.
+  - Phrase: Kupec pšosy za znizenje.
+    Translation: The customer asks for a discount.
+  - Phrase: Wrośeńja nje ma. To zły wobchod.
+    Translation: No returns. This is a bad shop.
+  - Phrase: Dam kwit pśedawaśej.
+    Translation: I give the receipt to the seller.
+  - Phrase: Wóna kupujo knigłu.
+    Translation: She is buying a book.
+  - Phrase: Wón pśedawa mloko.
+    Translation: He sells milk.
+  - Phrase: Cena masła jo dobra.
+    Translation: The price of butter is good.
+  - Phrase: Kśełbasa jo swěža.
+    Translation: The sausage is fresh.
+  - Phrase: Pśedawaŕ dajo kusk kśełbasy.
+    Translation: The seller gives a piece of sausage.
+  - Phrase: Tascyna stoja na podłojze.
+    Translation: The bag is on the floor.
+  - Phrase: Kusk klěba jo mały.
+    Translation: The piece of bread is small.
+  - Phrase: Kupec pšosy wó cene.
+    Translation: The customer asks about the price.
+  - Phrase: Wrośeńje jo do sedym dnjow.
+    Translation: Return is within seven days.
+  - Phrase: Kwit jo podpisanany.
+    Translation: The receipt is signed.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - cena: undefined
+    - cene: undefined
+    - dajo: undefined
+    - dam: undefined
+    - dnjow: undefined
+    - do: undefined
+    - dobra: undefined
+    - dobry: undefined
+    - jo: undefined
+    - klěb: undefined
+    - klěba: undefined
+    - knigłu: undefined
+    - kupc: undefined
+    - kupec: undefined
+    - kupiś: undefined
+    - kupujo: undefined
+    - kusk: undefined
+    - kwit: undefined
+    - kśełbasa: undefined
+    - kśełbasy: undefined
+    - kśěm: undefined
+    - ma: undefined
+    - masła: undefined
+    - mały: undefined
+    - mloko: undefined
+    - měso: undefined
+    - na: undefined
+    - nje: undefined
+    - nowe: undefined
+    - podpisanany: undefined
+    - podłojze: undefined
+    - pśedawa: undefined
+    - pśedawaŕ: undefined
+    - pśedawaś: undefined
+    - pśedawaśej: undefined
+    - pšosy: undefined
+    - pšosyś: undefined
+    - sedym: undefined
+    - stoja: undefined
+    - swěža: undefined
+    - swěžy: undefined
+    - syra: undefined
+    - tascyna: undefined
+    - to: undefined
+    - wobchod: undefined
+    - woblac: undefined
+    - wrośeńja: undefined
+    - wrośeńje: undefined
+    - wusoka: undefined
+    - wó: undefined
+    - wón: undefined
+    - wóna: undefined
+    - za: undefined
+    - zmóžony: undefined
+    - znizenje: undefined
+    - zły: undefined
+    - śěžka: undefined
+    - źinsaj: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - are: undefined
+    - ask: undefined
+    - asks: undefined
+    - bad: undefined
+    - bag: undefined
+    - book: undefined
+    - bread: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - cheese: undefined
+    - clothes: undefined
+    - customer: undefined
+    - days: undefined
+    - discount: undefined
+    - floor: undefined
+    - for: undefined
+    - fresh: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - i: undefined
+    - is: undefined
+    - meat: undefined
+    - milk: undefined
+    - new: undefined
+    - no: undefined
+    - of: undefined
+    - on: undefined
+    - piece: undefined
+    - price: undefined
+    - receipt: undefined
+    - return: undefined
+    - returns: undefined
+    - sausage: undefined
+    - sell: undefined
+    - seller: undefined
+    - sells: undefined
+    - seven: undefined
+    - she: undefined
+    - shop: undefined
+    - signed: undefined
+    - small: undefined
+    - the: undefined
+    - this: undefined
+    - tired: undefined
+    - to: undefined
+    - today: undefined
+    - want: undefined
+    - within: undefined

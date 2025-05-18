@@ -1,0 +1,181 @@
+Skill:
+  Name: Colours
+  Id: 17
+
+New words:
+  - Word: czŏrny
+    Translation: black
+  - Word: bioły
+    Translation: white
+  - Word: zielōny
+    Translation: green
+  - Word: modry
+    Translation: blue
+  - Word: czyrwōny
+    Translation: red
+  - Word: żōłty
+    Translation: yellow
+  - Word: szery
+    Translation: grey
+  - Word: kastanowy
+    Translation: brown
+  - Word: apelsinowy
+    Translation: orange
+  - Word: czyrwōny
+    Translation: red
+
+Phrases:
+  - Phrase: Mój pies je czŏrny.
+    Translation: My dog is black.
+  - Phrase: Mysz je bioło.
+    Translation: The mouse is white.
+  - Phrase: Trowa je zielōno.
+    Translation: The grass is green.
+  - Phrase: Niybo je modre.
+    Translation: The sky is blue.
+  - Phrase: Blumy som czyrwōne.
+    Translation: The flowers are red.
+  - Phrase: Słōńce je żōłte.
+    Translation: The sun is yellow.
+  - Phrase: Chmury som szere.
+    Translation: The clouds are grey.
+  - Phrase: Ôn nosi kastanowe płasć.
+    Translation: He wears a brown coat.
+  - Phrase: List je apelsinowy.
+    Translation: The leaf is orange.
+  - Phrase: To je Czyrwōne morze.
+    Translation: This is the Red Sea.
+  - Phrase: Moje ôczy som modre.
+    Translation: My eyes are blue.
+  - Phrase: Ôna mo zielōno trowa.
+    Translation: She has green grass.
+  - Phrase: Jo lubia czyrwōny farba.
+    Translation: I like the red color.
+  - Phrase: Jego auto je czŏrne.
+    Translation: His car is black.
+  - Phrase: Dziecha nōńsi bioło sukńa.
+    Translation: The girl is wearing a white dress.
+  - Phrase: Je ly to szery włos?
+    Translation: Is that grey hair?
+  - Phrase: Ôn mo apelsinowo tasza.
+    Translation: He has an orange bag.
+  - Phrase: Kastanowy kōń stoji we stajni.
+    Translation: The brown horse stands in the stable.
+  - Phrase: Żōłte słōńce grzeje ziymia.
+    Translation: The yellow sun warms the earth.
+  - Phrase: Czyrwōno rōża rośńe sam.
+    Translation: A red rose grows here.
+
+Mini-dictionary:
+  Silesian:
+    - apelsinowo: undefined
+    - apelsinowy: undefined
+    - auto: undefined
+    - bioło: undefined
+    - bioły: undefined
+    - blumy: undefined
+    - chmury: undefined
+    - czyrwōne: undefined
+    - czyrwōno: undefined
+    - czyrwōny: undefined
+    - czŏrne: undefined
+    - czŏrny: undefined
+    - dziecha: undefined
+    - farba: undefined
+    - grzeje: undefined
+    - je: undefined
+    - jego: undefined
+    - jo: undefined
+    - kastanowe: undefined
+    - kastanowy: undefined
+    - kōń: undefined
+    - list: undefined
+    - lubia: undefined
+    - ly: undefined
+    - mo: undefined
+    - modre: undefined
+    - modry: undefined
+    - moje: undefined
+    - morze: undefined
+    - mysz: undefined
+    - mój: undefined
+    - niybo: undefined
+    - nosi: undefined
+    - nōńsi: undefined
+    - pies: undefined
+    - płasć: undefined
+    - rośńe: undefined
+    - rōża: undefined
+    - sam: undefined
+    - som: undefined
+    - stajni: undefined
+    - stoji: undefined
+    - sukńa: undefined
+    - szere: undefined
+    - szery: undefined
+    - słōńce: undefined
+    - tasza: undefined
+    - to: undefined
+    - trowa: undefined
+    - we: undefined
+    - włos: undefined
+    - zielōno: undefined
+    - zielōny: undefined
+    - ziymia: undefined
+    - ôczy: undefined
+    - ôn: undefined
+    - ôna: undefined
+    - żōłte: undefined
+    - żōłty: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - are: undefined
+    - bag: undefined
+    - black: undefined
+    - blue: undefined
+    - brown: undefined
+    - car: undefined
+    - clouds: undefined
+    - coat: undefined
+    - color: undefined
+    - dog: undefined
+    - dress: undefined
+    - earth: undefined
+    - eyes: undefined
+    - flowers: undefined
+    - girl: undefined
+    - grass: undefined
+    - green: undefined
+    - grey: undefined
+    - grows: undefined
+    - hair: undefined
+    - has: undefined
+    - he: undefined
+    - here: undefined
+    - his: undefined
+    - horse: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - leaf: undefined
+    - like: undefined
+    - mouse: undefined
+    - my: undefined
+    - orange: undefined
+    - red: undefined
+    - rose: undefined
+    - sea: undefined
+    - she: undefined
+    - sky: undefined
+    - stable: undefined
+    - stands: undefined
+    - sun: undefined
+    - that: undefined
+    - the: undefined
+    - this: undefined
+    - warms: undefined
+    - wearing: undefined
+    - wears: undefined
+    - white: undefined
+    - yellow: undefined

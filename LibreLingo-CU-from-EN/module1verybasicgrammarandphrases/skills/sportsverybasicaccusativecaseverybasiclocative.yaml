@@ -1,0 +1,184 @@
+Skill:
+  Name: Sports (very basic accusative case + very basic locative)
+  Id: 5
+
+New words:
+  - Word: фꙋтболъ
+    Translation: football
+  - Word: баскетъболъ
+    Translation: basketball
+  - Word: тєнисъ
+    Translation: tennis
+  - Word: плаваниѥ
+    Translation: swimming
+  - Word: плавати
+    Translation: to swim
+  - Word: бѣгъ
+    Translation: running
+  - Word: бѣгати
+    Translation: to run
+  - Word: оутромъ
+    Translation: in the morning
+  - Word: любити
+    Translation: to love/like
+  - Word: хокєи
+    Translation: hockey
+  - Word: спортъ
+    Translation: sport
+  - Word: игра
+    Translation: game
+  - Word: трєновати
+    Translation: to train
+  - Word: стадионъ
+    Translation: stadium
+  - Word: бързо
+    Translation: fast
+  - Word: тѧжькъ
+    Translation: difficult
+
+Phrases:
+  - Phrase: Играѭ въ фꙋтболъ.
+    Translation: I play football.
+  - Phrase: Она играѥтъ въ баскетъболъ.
+    Translation: She plays basketball.
+  - Phrase: Онъ играѥтъ въ тєнисъ.
+    Translation: He plays tennis.
+  - Phrase: Мꙑ плаваѥмъ въ рѣцѣ.
+    Translation: We swim in the river.
+  - Phrase: Они бѣгаѭтъ оутромъ.
+    Translation: They run in the morning.
+  - Phrase: Онъ трєнꙋѥтъ каждъи дьнь.
+    Translation: He trains every day.
+  - Phrase: Спортъ ѥстъ важьнъ.
+    Translation: Sport is important.
+  - Phrase: Она играѥтъ на стадионѣ.
+    Translation: She plays at the stadium.
+  - Phrase: Трѣба трєновати.
+    Translation: It is necessary to train.
+  - Phrase: Они любѧтъ спортъ.
+    Translation: They love sport.
+  - Phrase: Азъ нє играѭ въ хокєи.
+    Translation: I do not play hockey.
+  - Phrase: Стадионъ ѥстъ въ градѣ.
+    Translation: The stadium is in the city.
+  - Phrase: Баскетъболъ тъ интєрєсьнъ спортъ.
+    Translation: Basketball is an interesting sport.
+  - Phrase: Плаваниѥ ѥстъ добро за здравѥ.
+    Translation: Swimming is good for health.
+  - Phrase: Къто играѥтъ въ тєнисъ?
+    Translation: Who plays tennis?
+  - Phrase: Онъ бѣгаѥтъ бързо.
+    Translation: He runs fast.
+  - Phrase: Мꙑ плаваѥмъ часто.
+    Translation: We swim often.
+  - Phrase: Онъ трєнꙋѥтъ съ приꙗтєлѥмъ.
+    Translation: He trains with a friend.
+  - Phrase: Азъ играѭ съ братиѭ.
+    Translation: I play with my brothers.
+  - Phrase: Хокєи ѥстъ тѧжькъ.
+    Translation: Hockey is difficult.
+
+Mini-dictionary:
+  Church Slavonic:
+    - азъ: undefined
+    - баскетъболъ: undefined
+    - братиѭ: undefined
+    - бързо: undefined
+    - бѣгати: undefined
+    - бѣгаѥтъ: undefined
+    - бѣгаѭтъ: undefined
+    - бѣгъ: undefined
+    - важьнъ: undefined
+    - въ: undefined
+    - градѣ: undefined
+    - добро: undefined
+    - дьнь: undefined
+    - за: undefined
+    - здравѥ: undefined
+    - игра: undefined
+    - играѥтъ: undefined
+    - играѭ: undefined
+    - интєрєсьнъ: undefined
+    - каждъи: undefined
+    - къто: undefined
+    - любити: undefined
+    - любѧтъ: undefined
+    - мꙑ: undefined
+    - на: undefined
+    - нє: undefined
+    - она: undefined
+    - они: undefined
+    - онъ: undefined
+    - оутромъ: undefined
+    - плаваниѥ: undefined
+    - плавати: undefined
+    - плаваѥмъ: undefined
+    - приꙗтєлѥмъ: undefined
+    - рѣцѣ: undefined
+    - спортъ: undefined
+    - стадионъ: undefined
+    - стадионѣ: undefined
+    - съ: undefined
+    - трєновати: undefined
+    - трєнꙋѥтъ: undefined
+    - трѣба: undefined
+    - тъ: undefined
+    - тєнисъ: undefined
+    - тѧжькъ: undefined
+    - фꙋтболъ: undefined
+    - хокєи: undefined
+    - часто: undefined
+    - ѥстъ: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - at: undefined
+    - basketball: undefined
+    - brothers: undefined
+    - city: undefined
+    - day: undefined
+    - difficult: undefined
+    - do: undefined
+    - every: undefined
+    - fast: undefined
+    - football: undefined
+    - for: undefined
+    - friend: undefined
+    - game: undefined
+    - good: undefined
+    - he: undefined
+    - health: undefined
+    - hockey: undefined
+    - i: undefined
+    - important: undefined
+    - in: undefined
+    - interesting: undefined
+    - is: undefined
+    - it: undefined
+    - love: undefined
+    - love/like: undefined
+    - morning: undefined
+    - my: undefined
+    - necessary: undefined
+    - not: undefined
+    - often: undefined
+    - play: undefined
+    - plays: undefined
+    - river: undefined
+    - run: undefined
+    - running: undefined
+    - runs: undefined
+    - she: undefined
+    - sport: undefined
+    - stadium: undefined
+    - swim: undefined
+    - swimming: undefined
+    - tennis: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - train: undefined
+    - trains: undefined
+    - we: undefined
+    - who: undefined
+    - with: undefined

@@ -1,0 +1,124 @@
+Skill:
+  Name: Numbers 100-1000
+  Id: 29
+
+New words:
+  - Word: съто
+    Translation: one hundred
+  - Word: дъвѣстѣ
+    Translation: two hundred
+  - Word: тристє
+    Translation: three hundred
+  - Word: чєтꙑристє
+    Translation: four hundred
+  - Word: пѧтьстъ
+    Translation: five hundred
+  - Word: шєстьстъ
+    Translation: six hundred
+  - Word: сєдмьстъ
+    Translation: seven hundred
+  - Word: осмьстъ
+    Translation: eight hundred
+  - Word: дєвѧтьстъ
+    Translation: nine hundred
+  - Word: тꙑсѧщи
+    Translation: thousand
+
+Phrases:
+  - Phrase: тꙑсѧщи ѥдинъ часъвъниковъ
+    Translation: one thousand one clocks
+  - Phrase: съто хлапьцєвъ
+    Translation: one hundred boys
+  - Phrase: дъвѣстѣ женъ
+    Translation: two hundred women
+  - Phrase: тристє полєи
+    Translation: three hundred fields
+  - Phrase: чєтꙑристє мѫжьѥвъ
+    Translation: four hundred men
+  - Phrase: пѧтьстъ женъ
+    Translation: five hundred women
+  - Phrase: шєстьстъ котовъ
+    Translation: six hundred cats
+  - Phrase: сєдмьстъ ѥдинъ вєлосипєдовъ
+    Translation: seven hundred one bicycles
+  - Phrase: осмьстъ хлапьцєвъ
+    Translation: eight hundred boys
+  - Phrase: дєвѧтьстъ вєлосипєдовъ
+    Translation: nine hundred bicycles
+  - Phrase: тꙑсѧщи осмь рꙋблѥвъ
+    Translation: one thousand eight rubles
+  - Phrase: чєтꙑристє сєдмь доларовъ
+    Translation: four hundred seven dollars
+  - Phrase: дъвѣстѣ три компютєровъ
+    Translation: two hundred three computers
+  - Phrase: сєдмьстъ ѥдинъ часъвъниковъ
+    Translation: seven hundred one clocks
+  - Phrase: тристє чєтꙑри вѣщии
+    Translation: three hundred four things
+  - Phrase: съто дъва слъньцъ
+    Translation: one hundred two suns
+  - Phrase: шєстьстъ вєлосипєдовъ
+    Translation: six hundred bicycles
+  - Phrase: осмьстъ доларовъ
+    Translation: eight hundred dollars
+  - Phrase: дъва тꙑсѧщи дєвѧтьстъ пьсовъ
+    Translation: two thousand nine hundred dogs
+  - Phrase: чєтꙑристє котовъ
+    Translation: four hundred cats
+
+Mini-dictionary:
+  Church Slavonic:
+    - вєлосипєдовъ: undefined
+    - вѣщии: undefined
+    - доларовъ: undefined
+    - дъва: undefined
+    - дъвѣстѣ: undefined
+    - дєвѧтьстъ: undefined
+    - женъ: undefined
+    - компютєровъ: undefined
+    - котовъ: undefined
+    - мѫжьѥвъ: undefined
+    - осмь: undefined
+    - осмьстъ: undefined
+    - полєи: undefined
+    - пьсовъ: undefined
+    - пѧтьстъ: undefined
+    - рꙋблѥвъ: undefined
+    - слъньцъ: undefined
+    - съто: undefined
+    - сєдмь: undefined
+    - сєдмьстъ: undefined
+    - три: undefined
+    - тристє: undefined
+    - тꙑсѧщи: undefined
+    - хлапьцєвъ: undefined
+    - часъвъниковъ: undefined
+    - чєтꙑри: undefined
+    - чєтꙑристє: undefined
+    - шєстьстъ: undefined
+    - ѥдинъ: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - fields: undefined
+    - five: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - nine: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - suns: undefined
+    - things: undefined
+    - thousand: undefined
+    - three: undefined
+    - two: undefined
+    - women: undefined

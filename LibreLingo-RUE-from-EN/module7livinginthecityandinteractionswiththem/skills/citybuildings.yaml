@@ -1,0 +1,184 @@
+Skill:
+  Name: City/Buildings
+  Id: 21
+
+New words:
+  - Word: місто
+    Translation: city
+  - Word: дом
+    Translation: house
+  - Word: торг
+    Translation: square/market
+  - Word: станція
+    Translation: station
+  - Word: мост
+    Translation: bridge
+  - Word: магазін
+    Translation: shop/store
+  - Word: торговище
+    Translation: market
+  - Word: бібліотека
+    Translation: library
+  - Word: церьков
+    Translation: church
+  - Word: вулиця
+    Translation: street
+  - Word: вести (веде)
+    Translation: to lead
+
+Phrases:
+  - Phrase: Тото є великый місто.
+    Translation: This is a big city.
+  - Phrase: Дом стоїть на вулиці.
+    Translation: The house stands on the street.
+  - Phrase: Ідеме до торга.
+    Translation: We are going to the square.
+  - Phrase: Станція є близко центра.
+    Translation: The station is near the center.
+  - Phrase: Мост іде через рїку.
+    Translation: The bridge goes over the river.
+  - Phrase: Купуєме хлїб в магазінї.
+    Translation: We buy bread in the shop.
+  - Phrase: На торговищу є много люди.
+    Translation: There are many people at the market.
+  - Phrase: Чітаю кнїгу в бібліотецї.
+    Translation: I read a book in the library.
+  - Phrase: Церьков є стара і бїла.
+    Translation: The church is old and white.
+  - Phrase: Вулиця є довга і тепла.
+    Translation: The street is long and warm.
+  - Phrase: Місто має много домов.
+    Translation: The city has many houses.
+  - Phrase: Магазін є отвореный сьогодні.
+    Translation: The shop is open today.
+  - Phrase: Церьков стоїть близко бібліотекы.
+    Translation: The church stands near the library.
+  - Phrase: Вулиця веде до торга.
+    Translation: The street leads to the square.
+  - Phrase: На торзі стоїть фонтан.
+    Translation: A fountain stands in the square.
+  - Phrase: Мост є красный і новый.
+    Translation: The bridge is beautiful and new.
+  - Phrase: Тото є мой дом в містї.
+    Translation: This is my house in the city.
+  - Phrase: Станція має много поїздов.
+    Translation: The station has many trains.
+  - Phrase: Вулиця іде до магазіна.
+    Translation: The street goes to the shop.
+  - Phrase: Торг є повный люди.
+    Translation: The square is full of people.
+
+Mini-dictionary:
+  Rusin:
+    - близко: undefined
+    - бібліотека: undefined
+    - бібліотекы: undefined
+    - бібліотецї: undefined
+    - бїла: undefined
+    - в: undefined
+    - веде: undefined
+    - великый: undefined
+    - вести: undefined
+    - вулиця: undefined
+    - вулиці: undefined
+    - до: undefined
+    - довга: undefined
+    - дом: undefined
+    - домов: undefined
+    - кнїгу: undefined
+    - красный: undefined
+    - купуєме: undefined
+    - люди: undefined
+    - магазін: undefined
+    - магазіна: undefined
+    - магазінї: undefined
+    - має: undefined
+    - много: undefined
+    - мой: undefined
+    - мост: undefined
+    - місто: undefined
+    - містї: undefined
+    - на: undefined
+    - новый: undefined
+    - отвореный: undefined
+    - повный: undefined
+    - поїздов: undefined
+    - рїку: undefined
+    - станція: undefined
+    - стара: undefined
+    - стоїть: undefined
+    - сьогодні: undefined
+    - тепла: undefined
+    - торг: undefined
+    - торга: undefined
+    - торговище: undefined
+    - торговищу: undefined
+    - торзі: undefined
+    - тото: undefined
+    - фонтан: undefined
+    - хлїб: undefined
+    - центра: undefined
+    - церьков: undefined
+    - через: undefined
+    - чітаю: undefined
+    - є: undefined
+    - і: undefined
+    - іде: undefined
+    - ідеме: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beautiful: undefined
+    - big: undefined
+    - book: undefined
+    - bread: undefined
+    - bridge: undefined
+    - buy: undefined
+    - center: undefined
+    - church: undefined
+    - city: undefined
+    - fountain: undefined
+    - full: undefined
+    - goes: undefined
+    - going: undefined
+    - has: undefined
+    - house: undefined
+    - houses: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - lead: undefined
+    - leads: undefined
+    - library: undefined
+    - long: undefined
+    - many: undefined
+    - market: undefined
+    - my: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - over: undefined
+    - people: undefined
+    - read: undefined
+    - river: undefined
+    - shop: undefined
+    - shop/store: undefined
+    - square: undefined
+    - square/market: undefined
+    - stands: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - today: undefined
+    - trains: undefined
+    - warm: undefined
+    - we: undefined
+    - white: undefined

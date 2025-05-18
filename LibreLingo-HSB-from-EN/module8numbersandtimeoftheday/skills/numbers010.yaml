@@ -1,0 +1,164 @@
+Skill:
+  Name: Numbers 0-10
+  Id: 26
+
+New words:
+  - Word: nula
+    Translation: zero
+  - Word: jedyn
+    Translation: one
+  - Word: jedna
+    Translation: one
+  - Word: jedno
+    Translation: one
+  - Word: dwaj
+    Translation: two
+  - Word: dwě
+    Translation: two
+  - Word: tři
+    Translation: three
+  - Word: štyri
+    Translation: four
+  - Word: pjeć
+    Translation: five
+  - Word: šěsć
+    Translation: six
+  - Word: sydom
+    Translation: seven
+  - Word: wosom
+    Translation: eight
+  - Word: dźewjeć
+    Translation: nine
+  - Word: dźesać
+    Translation: ten
+  - Word: časnik
+    Translation: clock/watch
+  - Word: hólc
+    Translation: boy
+  - Word: ličak
+    Translation: computer
+  - Word: kóło
+    Translation: bicycle
+  - Word: rubl
+    Translation: ruble
+  - Word: žona
+    Translation: woman
+  - Word: pólo
+    Translation: field
+  - Word: kóčka
+    Translation: cat
+  - Word: dolar
+    Translation: dollar
+
+Phrases:
+  - Phrase: nula časnikow
+    Translation: zero clocks
+  - Phrase: jedyn hólc
+    Translation: one boy
+  - Phrase: jedna žona
+    Translation: one woman
+  - Phrase: jedno pólo
+    Translation: one field
+  - Phrase: dwaj hólcaj
+    Translation: two boys
+  - Phrase: dwě žoni
+    Translation: two women
+  - Phrase: tři kóčki
+    Translation: three cats
+  - Phrase: štyri kolesa
+    Translation: four bicycles
+  - Phrase: pjeć hólcow
+    Translation: five boys
+  - Phrase: šěsć kolesow
+    Translation: six bicycles
+  - Phrase: sydom rublow
+    Translation: seven rubles
+  - Phrase: wosom dolarow
+    Translation: eight dollars
+  - Phrase: dźewjeć ličakow
+    Translation: nine computers
+  - Phrase: dźesać časnikow
+    Translation: ten clocks
+  - Phrase: dwě wěcy
+    Translation: two things
+  - Phrase: jedno słónco
+    Translation: one sun
+  - Phrase: jedyn kóło
+    Translation: one bicycle
+  - Phrase: štyri dolary
+    Translation: four dollars
+  - Phrase: tři kóčki
+    Translation: three cats
+  - Phrase: pjeć kóčkow
+    Translation: five cats
+
+Mini-dictionary:
+  Upper Sorbian:
+    - dolar: undefined
+    - dolarow: undefined
+    - dolary: undefined
+    - dwaj: undefined
+    - dwě: undefined
+    - dźesać: undefined
+    - dźewjeć: undefined
+    - hólc: undefined
+    - hólcaj: undefined
+    - hólcow: undefined
+    - jedna: undefined
+    - jedno: undefined
+    - jedyn: undefined
+    - kolesa: undefined
+    - kolesow: undefined
+    - kóčka: undefined
+    - kóčki: undefined
+    - kóčkow: undefined
+    - kóło: undefined
+    - ličak: undefined
+    - ličakow: undefined
+    - nula: undefined
+    - pjeć: undefined
+    - pólo: undefined
+    - rubl: undefined
+    - rublow: undefined
+    - sydom: undefined
+    - słónco: undefined
+    - tři: undefined
+    - wosom: undefined
+    - wěcy: undefined
+    - časnik: undefined
+    - časnikow: undefined
+    - štyri: undefined
+    - šěsć: undefined
+    - žona: undefined
+    - žoni: undefined
+  English:
+    - bicycle: undefined
+    - bicycles: undefined
+    - boy: undefined
+    - boys: undefined
+    - cat: undefined
+    - cats: undefined
+    - clock/watch: undefined
+    - clocks: undefined
+    - computer: undefined
+    - computers: undefined
+    - dollar: undefined
+    - dollars: undefined
+    - eight: undefined
+    - field: undefined
+    - five: undefined
+    - four: undefined
+    - nine: undefined
+    - one: undefined
+    - ruble: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - sun: undefined
+    - ten: undefined
+    - things: undefined
+    - three: undefined
+    - two: undefined
+    - woman: undefined
+    - women: undefined
+    - zero: undefined

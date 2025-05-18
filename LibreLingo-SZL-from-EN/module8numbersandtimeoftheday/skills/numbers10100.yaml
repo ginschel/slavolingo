@@ -1,0 +1,130 @@
+Skill:
+  Name: Numbers 10-100
+  Id: 28
+
+New words:
+  - Word: dziesiyńć
+    Translation: ten
+  - Word: dwadzieścia
+    Translation: twenty
+  - Word: trzidzieści
+    Translation: thirty
+  - Word: czterdzieści
+    Translation: forty
+  - Word: piyńćdziesiōnt
+    Translation: fifty
+  - Word: szyśćdziesiōnt
+    Translation: sixty
+  - Word: siedymdziesiōnt
+    Translation: seventy
+  - Word: ôziymdziesiōnt
+    Translation: eighty
+  - Word: dziewiyńćdziesiōnt
+    Translation: ninety
+  - Word: sto
+    Translation: one hundred
+
+Phrases:
+  - Phrase: sto zegarkōw
+    Translation: one hundred clocks
+  - Phrase: dziesiyńć synkōw
+    Translation: ten boys
+  - Phrase: dwadzieścia bab
+    Translation: twenty women
+  - Phrase: trzidzieści pōl
+    Translation: thirty fields
+  - Phrase: czterdzieści chopōw
+    Translation: forty men
+  - Phrase: piyńćdziesiōnt bab
+    Translation: fifty women
+  - Phrase: szyśćdziesiōnt kōtōw
+    Translation: sixty cats
+  - Phrase: sto jedyn rajzrkōło
+    Translation: one hundred one bicycles
+  - Phrase: ôziymdziesiōnt synkōw
+    Translation: eighty boys
+  - Phrase: dziewiyńćdziesiōnt rajzrkōł
+    Translation: ninety bicycles
+  - Phrase: siedymdziesiōnt ôziym rublōw
+    Translation: seventy eight rubles
+  - Phrase: ôziymdziesiōnt siedym dolarōw
+    Translation: eighty seven dollars
+  - Phrase: dziewiyńćdziesiōnt trzi kōmputry
+    Translation: ninety three computers
+  - Phrase: piyńćdziesiōnt jedyn zegarkōw
+    Translation: fifty one clocks
+  - Phrase: dwadzieścia sztyry rzeczy
+    Translation: twenty four things
+  - Phrase: sto dwa słōńca
+    Translation: one hundred two suns
+  - Phrase: szyśćdziesiōnt rajzrkōł
+    Translation: sixty bicycles
+  - Phrase: czterdzieści dolarōw
+    Translation: forty dollars
+  - Phrase: trzidzieści psōw
+    Translation: thirty dogs
+  - Phrase: dwadzieścia kōtōw
+    Translation: twenty cats
+
+Mini-dictionary:
+  Silesian:
+    - bab: undefined
+    - chopōw: undefined
+    - czterdzieści: undefined
+    - dolarōw: undefined
+    - dwa: undefined
+    - dwadzieścia: undefined
+    - dziesiyńć: undefined
+    - dziewiyńćdziesiōnt: undefined
+    - jedyn: undefined
+    - kōmputry: undefined
+    - kōtōw: undefined
+    - piyńćdziesiōnt: undefined
+    - psōw: undefined
+    - pōl: undefined
+    - rajzrkōł: undefined
+    - rajzrkōło: undefined
+    - rublōw: undefined
+    - rzeczy: undefined
+    - siedym: undefined
+    - siedymdziesiōnt: undefined
+    - sto: undefined
+    - synkōw: undefined
+    - sztyry: undefined
+    - szyśćdziesiōnt: undefined
+    - słōńca: undefined
+    - trzi: undefined
+    - trzidzieści: undefined
+    - zegarkōw: undefined
+    - ôziym: undefined
+    - ôziymdziesiōnt: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - eighty: undefined
+    - fields: undefined
+    - fifty: undefined
+    - forty: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - ninety: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - seventy: undefined
+    - sixty: undefined
+    - suns: undefined
+    - ten: undefined
+    - things: undefined
+    - thirty: undefined
+    - three: undefined
+    - twenty: undefined
+    - two: undefined
+    - women: undefined

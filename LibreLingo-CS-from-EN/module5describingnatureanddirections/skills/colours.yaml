@@ -1,0 +1,185 @@
+Skill:
+  Name: Colours
+  Id: 17
+
+New words:
+  - Word: černý
+    Translation: black
+  - Word: bílý
+    Translation: white
+  - Word: zelený
+    Translation: green
+  - Word: modrý
+    Translation: blue
+  - Word: červený
+    Translation: red
+  - Word: žlutý
+    Translation: yellow
+  - Word: šedý
+    Translation: grey
+  - Word: kaštanový
+    Translation: brown
+  - Word: oranžový
+    Translation: orange
+  - Word: červený
+    Translation: red
+
+Phrases:
+  - Phrase: Můj pes je černý.
+    Translation: My dog is black.
+  - Phrase: Myš je bílá.
+    Translation: The mouse is white.
+  - Phrase: Tráva je zelená.
+    Translation: The grass is green.
+  - Phrase: Nebe je modré.
+    Translation: The sky is blue.
+  - Phrase: Květy jsou červené.
+    Translation: The flowers are red.
+  - Phrase: Slunce je žluté.
+    Translation: The sun is yellow.
+  - Phrase: Oblaky jsou šedé.
+    Translation: The clouds are grey.
+  - Phrase: On nosí kaštanový kabát.
+    Translation: He wears a brown coat.
+  - Phrase: List je oranžový.
+    Translation: The leaf is orange.
+  - Phrase: To je Rudé moře.
+    Translation: This is the Red Sea.
+  - Phrase: Moje oči jsou modré.
+    Translation: My eyes are blue.
+  - Phrase: Ona má zelenou trávu.
+    Translation: She has green grass.
+  - Phrase: Já miluji červenou barvu.
+    Translation: I like the red color.
+  - Phrase: Jeho auto je černé.
+    Translation: His car is black.
+  - Phrase: Dívka nese bílou sukni.
+    Translation: The girl is wearing a white dress.
+  - Phrase: Je li to šedý vlas?
+    Translation: Is that grey hair?
+  - Phrase: On má oranžovou tašku.
+    Translation: He has an orange bag.
+  - Phrase: Kaštanový kůň stojí ve stáji.
+    Translation: The brown horse stands in the stable.
+  - Phrase: Žluté slunce hřeje zemi.
+    Translation: The yellow sun warms the earth.
+  - Phrase: Červená růže roste zde.
+    Translation: A red rose grows here.
+
+Mini-dictionary:
+  Czech:
+    - auto: undefined
+    - barvu: undefined
+    - bílou: undefined
+    - bílá: undefined
+    - bílý: undefined
+    - dívka: undefined
+    - hřeje: undefined
+    - je: undefined
+    - jeho: undefined
+    - jsou: undefined
+    - já: undefined
+    - kabát: undefined
+    - kaštanový: undefined
+    - květy: undefined
+    - kůň: undefined
+    - li: undefined
+    - list: undefined
+    - miluji: undefined
+    - modré: undefined
+    - modrý: undefined
+    - moje: undefined
+    - moře: undefined
+    - myš: undefined
+    - má: undefined
+    - můj: undefined
+    - nebe: undefined
+    - nese: undefined
+    - nosí: undefined
+    - oblaky: undefined
+    - on: undefined
+    - ona: undefined
+    - oranžovou: undefined
+    - oranžový: undefined
+    - oči: undefined
+    - pes: undefined
+    - roste: undefined
+    - rudé: undefined
+    - růže: undefined
+    - slunce: undefined
+    - stojí: undefined
+    - stáji: undefined
+    - sukni: undefined
+    - tašku: undefined
+    - to: undefined
+    - tráva: undefined
+    - trávu: undefined
+    - ve: undefined
+    - vlas: undefined
+    - zde: undefined
+    - zelenou: undefined
+    - zelená: undefined
+    - zelený: undefined
+    - zemi: undefined
+    - černé: undefined
+    - černý: undefined
+    - červenou: undefined
+    - červená: undefined
+    - červené: undefined
+    - červený: undefined
+    - šedé: undefined
+    - šedý: undefined
+    - žluté: undefined
+    - žlutý: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - are: undefined
+    - bag: undefined
+    - black: undefined
+    - blue: undefined
+    - brown: undefined
+    - car: undefined
+    - clouds: undefined
+    - coat: undefined
+    - color: undefined
+    - dog: undefined
+    - dress: undefined
+    - earth: undefined
+    - eyes: undefined
+    - flowers: undefined
+    - girl: undefined
+    - grass: undefined
+    - green: undefined
+    - grey: undefined
+    - grows: undefined
+    - hair: undefined
+    - has: undefined
+    - he: undefined
+    - here: undefined
+    - his: undefined
+    - horse: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - leaf: undefined
+    - like: undefined
+    - mouse: undefined
+    - my: undefined
+    - orange: undefined
+    - red: undefined
+    - rose: undefined
+    - sea: undefined
+    - she: undefined
+    - sky: undefined
+    - stable: undefined
+    - stands: undefined
+    - sun: undefined
+    - that: undefined
+    - the: undefined
+    - this: undefined
+    - warms: undefined
+    - wearing: undefined
+    - wears: undefined
+    - white: undefined
+    - yellow: undefined

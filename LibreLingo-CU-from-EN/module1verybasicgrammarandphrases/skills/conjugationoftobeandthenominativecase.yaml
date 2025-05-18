@@ -1,0 +1,228 @@
+Skill:
+  Name: Conjugation of to be and the Nominative Case
+  Id: 1
+
+New words:
+  - Word: сь
+    Translation: this
+  - Word: си
+    Translation: this
+  - Word: сє
+    Translation: that
+  - Word: тамьсь
+    Translation: that over there
+  - Word: тамьси
+    Translation: that over there
+  - Word: ѥсмь
+    Translation: am
+  - Word: ѥси
+    Translation: are
+  - Word: ѥстъ
+    Translation: is
+  - Word: ѥсмъ
+    Translation: are
+  - Word: ѥстє
+    Translation: are
+  - Word: сѫтъ
+    Translation: are
+  - Word: азъ
+    Translation: I
+  - Word: тꙑ
+    Translation: you
+  - Word: онъ
+    Translation: he
+  - Word: она
+    Translation: she
+  - Word: оно
+    Translation: it
+  - Word: мꙑ
+    Translation: we
+  - Word: вꙑ
+    Translation: you
+  - Word: они
+    Translation: they
+  - Word: онꙑ
+    Translation: they
+  - Word: чловѣкъ
+    Translation: person
+  - Word: жена
+    Translation: woman
+  - Word: мѫжь
+    Translation: man
+  - Word: дѣтѧ
+    Translation: child
+  - Word: приꙗтєль
+    Translation: friend
+  - Word: сєстра
+    Translation: sister
+  - Word: родитєль
+    Translation: parent
+  - Word: домъ
+    Translation: house
+  - Word: градъ
+    Translation: city
+  - Word: дьнь
+    Translation: day
+  - Word: тъждє
+    Translation: also
+  - Word: къто
+    Translation: who
+
+Phrases:
+  - Phrase: Азъ ѥсмь мѫдръ.
+    Translation: I am wise.
+  - Phrase: Сь моꙗ сєстра.
+    Translation: This is my sister.
+  - Phrase: Она мьного мѫдра
+    Translation: She is very wise
+  - Phrase: Мꙑ мьного мѫдри
+    Translation: We are very wise
+  - Phrase: Вꙑ тъждє мѫдри?
+    Translation: Are you also wise?
+  - Phrase: Сь добръ чловѣкъ.
+    Translation: This is a good person.
+  - Phrase: Си жена ѥстъ добра.
+    Translation: This woman is good.
+  - Phrase: Сь ѥстъ мои домъ.
+    Translation: This is my house.
+  - Phrase: Онъ тъ добрии приꙗтєль
+    Translation: He is a good friend
+  - Phrase: Вꙑ ѥстє добри.
+    Translation: You are good.
+  - Phrase: Сь сѫтъ приꙗтєльѥ.
+    Translation: These are friends.
+  - Phrase: Къто тꙑ ѥси?
+    Translation: Who are you?
+  - Phrase: Тъи мѫжь милъ.
+    Translation: That man is kind.
+  - Phrase: Сь ѥстъ приѥмьнъ градъ.
+    Translation: This is a pleasant city.
+  - Phrase: Си жена ѥстъ вꙑсока.
+    Translation: That woman is tall.
+  - Phrase: Тъи дьнь ѥстъ хладънъ.
+    Translation: That day is cold.
+  - Phrase: Тамьтъи домъ ѥстъ красьнъ.
+    Translation: That house over there is beautiful.
+  - Phrase: Сь моѥ дѣтѧ.
+    Translation: This is my child.
+  - Phrase: Тамьтъ оутро ѥстъ хладьно.
+    Translation: That morning over there is cold.
+  - Phrase: Сь нє моꙗ сєстра.
+    Translation: This is not my sister.
+  - Phrase: Сь нє твои домъ.
+    Translation: This is not your house.
+  - Phrase: Сь добро аѵто?
+    Translation: Is this a good car?
+  - Phrase: Сь добри приꙗтєльѥ?
+    Translation: Are these good friends?
+  - Phrase: Онꙑ сѫтъ мьного милꙑ.
+    Translation: They are very kind.
+  - Phrase: Они сѫтъ мьного мили
+    Translation: They are very kind
+
+Mini-dictionary:
+  Church Slavonic:
+    - азъ: undefined
+    - аѵто: undefined
+    - вꙑ: undefined
+    - вꙑсока: undefined
+    - градъ: undefined
+    - добра: undefined
+    - добри: undefined
+    - добрии: undefined
+    - добро: undefined
+    - добръ: undefined
+    - домъ: undefined
+    - дьнь: undefined
+    - дѣтѧ: undefined
+    - жена: undefined
+    - красьнъ: undefined
+    - къто: undefined
+    - мили: undefined
+    - милъ: undefined
+    - милꙑ: undefined
+    - мои: undefined
+    - моѥ: undefined
+    - моꙗ: undefined
+    - мьного: undefined
+    - мѫдра: undefined
+    - мѫдри: undefined
+    - мѫдръ: undefined
+    - мѫжь: undefined
+    - мꙑ: undefined
+    - нє: undefined
+    - она: undefined
+    - они: undefined
+    - оно: undefined
+    - онъ: undefined
+    - онꙑ: undefined
+    - оутро: undefined
+    - приѥмьнъ: undefined
+    - приꙗтєль: undefined
+    - приꙗтєльѥ: undefined
+    - родитєль: undefined
+    - си: undefined
+    - сь: undefined
+    - сє: undefined
+    - сєстра: undefined
+    - сѫтъ: undefined
+    - тамьси: undefined
+    - тамьсь: undefined
+    - тамьтъ: undefined
+    - тамьтъи: undefined
+    - твои: undefined
+    - тъ: undefined
+    - тъждє: undefined
+    - тъи: undefined
+    - тꙑ: undefined
+    - хладънъ: undefined
+    - хладьно: undefined
+    - чловѣкъ: undefined
+    - ѥси: undefined
+    - ѥсмъ: undefined
+    - ѥсмь: undefined
+    - ѥстъ: undefined
+    - ѥстє: undefined
+  English:
+    - a: undefined
+    - also: undefined
+    - am: undefined
+    - are: undefined
+    - beautiful: undefined
+    - car: undefined
+    - child: undefined
+    - city: undefined
+    - cold: undefined
+    - day: undefined
+    - friend: undefined
+    - friends: undefined
+    - good: undefined
+    - he: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - it: undefined
+    - kind: undefined
+    - man: undefined
+    - morning: undefined
+    - my: undefined
+    - not: undefined
+    - over: undefined
+    - parent: undefined
+    - person: undefined
+    - pleasant: undefined
+    - she: undefined
+    - sister: undefined
+    - tall: undefined
+    - that: undefined
+    - there: undefined
+    - these: undefined
+    - they: undefined
+    - this: undefined
+    - very: undefined
+    - we: undefined
+    - who: undefined
+    - wise: undefined
+    - woman: undefined
+    - you: undefined
+    - your: undefined

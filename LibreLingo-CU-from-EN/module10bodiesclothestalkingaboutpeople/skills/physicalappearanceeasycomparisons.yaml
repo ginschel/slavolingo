@@ -1,0 +1,255 @@
+Skill:
+  Name: Physical Appearance (Easy comparisons)
+  Id: 38
+
+New words:
+  - Word: вꙑсокъи
+    Translation: tall
+  - Word: низъкъи
+    Translation: short
+  - Word: дєбєлъ
+    Translation: fat
+  - Word: хꙋдъ
+    Translation: thin
+  - Word: малъи
+    Translation: small
+  - Word: красьнъ
+    Translation: beautiful
+  - Word: бридъкъ
+    Translation: ugly
+  - Word: старъ
+    Translation: old
+  - Word: младъ
+    Translation: young
+  - Word: власꙑ
+    Translation: hair
+  - Word: очи
+    Translation: eyes
+  - Word: нєже
+    Translation: than
+  - Word: вꙑшє
+    Translation: taller/higher
+  - Word: кожа
+    Translation: skin
+  - Word: мєньѥ
+    Translation: less
+  - Word: смѣїти сѧ (смѣѥтъ сѧ)
+    Translation: to laugh
+  - Word: блѣскати
+    Translation: to shine
+  - Word: звѣзда
+    Translation: star
+  - Word: свѣтълъ
+    Translation: light
+  - Word: тьмьнъ
+    Translation: dark
+
+Phrases:
+  - Phrase: Онъ ѥстъ вꙑшє вꙑсокъи и силььнъ нєже онъ.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Она ѥстъ низъка и хꙋда какъ онъ.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Дєбєлъи мѫжь идєтъ по ылици.
+    Translation: The fat man is walking down the street.
+  - Phrase: Хꙋдъи имаѥтъ мєньѥ тѣлєснои масꙑ нєже дєбєлъи.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: Сь ѥстъ вꙑшє красьнъ чловѣкъ нєже тъи.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Стари люди сѫтъ вꙑшє мѫдри нєже мꙑ.
+    Translation: Old people are wiser than us.
+  - Phrase: Млада имаѥтъ мьного єнєргии.
+    Translation: The young one has a lot of energy.
+  - Phrase: Ѥго власꙑ сѫтъ плави.
+    Translation: His hair is blonde.
+  - Phrase: Очи сѫтъ вꙑшє зєлєнє нєже оу нѥго.
+    Translation: Her eyes are greener than his.
+  - Phrase: Кожа ѥго ѥстъ бѣла.
+    Translation: His skin is white.
+  - Phrase: Онъ имаѥтъ дълъгє власꙑ.
+    Translation: He has long hair.
+  - Phrase: Она имаѥтъ зєлєнє очи.
+    Translation: She has green eyes.
+  - Phrase: Кожа ѥстъ гладка.
+    Translation: Her skin is smooth.
+  - Phrase: Стара жена носитъ шапькѫ.
+    Translation: The old woman wears a hat.
+  - Phrase: Млади люди часто спортꙋѭтъ.
+    Translation: Young people often play sports.
+  - Phrase: Дєбєлъи мѫжь смѣѥтъ сѧ вꙑшє нєже тъи бридъкъи мѫжь.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Низъка дѣвъка идєтъ до дома.
+    Translation: The short girl is going home.
+  - Phrase: Красивє очи блѣскаѭтъ какъ звѣздꙑ на нєбꙋ.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Хꙋдъи носитъ вꙑшє вєликꙋ кошꙋлѭ нєже ꙗ.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Ѥѩ власꙑ сѫтъ свѣтлє и дълъгє.
+    Translation: Her hair is light and long.
+  - Phrase: А ѥго красьнє власꙑ сѫтъ тьмьнє какъ нощь.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Church Slavonic:
+    - а: undefined
+    - блѣскати: undefined
+    - блѣскаѭтъ: undefined
+    - бридъкъ: undefined
+    - бридъкъи: undefined
+    - бѣла: undefined
+    - власꙑ: undefined
+    - вєликꙋ: undefined
+    - вꙑсокъи: undefined
+    - вꙑшє: undefined
+    - гладка: undefined
+    - до: undefined
+    - дома: undefined
+    - дълъгє: undefined
+    - дєбєлъ: undefined
+    - дєбєлъи: undefined
+    - дѣвъка: undefined
+    - жена: undefined
+    - звѣзда: undefined
+    - звѣздꙑ: undefined
+    - зєлєнє: undefined
+    - и: undefined
+    - идєтъ: undefined
+    - имаѥтъ: undefined
+    - какъ: undefined
+    - кожа: undefined
+    - кошꙋлѭ: undefined
+    - красивє: undefined
+    - красьнъ: undefined
+    - красьнє: undefined
+    - люди: undefined
+    - малъи: undefined
+    - масꙑ: undefined
+    - млада: undefined
+    - млади: undefined
+    - младъ: undefined
+    - мьного: undefined
+    - мєньѥ: undefined
+    - мѫдри: undefined
+    - мѫжь: undefined
+    - мꙑ: undefined
+    - на: undefined
+    - низъка: undefined
+    - низъкъи: undefined
+    - носитъ: undefined
+    - нощь: undefined
+    - нєбꙋ: undefined
+    - нєже: undefined
+    - нѥго: undefined
+    - она: undefined
+    - онъ: undefined
+    - оу: undefined
+    - очи: undefined
+    - плави: undefined
+    - по: undefined
+    - свѣтлє: undefined
+    - свѣтълъ: undefined
+    - силььнъ: undefined
+    - смѣїти: undefined
+    - смѣѥтъ: undefined
+    - спортꙋѭтъ: undefined
+    - стара: undefined
+    - стари: undefined
+    - старъ: undefined
+    - сь: undefined
+    - сѧ: undefined
+    - сѫтъ: undefined
+    - тъи: undefined
+    - тьмьнъ: undefined
+    - тьмьнє: undefined
+    - тѣлєснои: undefined
+    - хꙋда: undefined
+    - хꙋдъ: undefined
+    - хꙋдъи: undefined
+    - часто: undefined
+    - чловѣкъ: undefined
+    - шапькѫ: undefined
+    - ылици: undefined
+    - єнєргии: undefined
+    - ѥго: undefined
+    - ѥстъ: undefined
+    - ѥѩ: undefined
+    - ꙗ: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - as: undefined
+    - beautiful: undefined
+    - blonde: undefined
+    - body: undefined
+    - dark: undefined
+    - do: undefined
+    - down: undefined
+    - energy: undefined
+    - eyes: undefined
+    - fat: undefined
+    - girl: undefined
+    - going: undefined
+    - green: undefined
+    - greener: undefined
+    - hair: undefined
+    - has: undefined
+    - hat: undefined
+    - he: undefined
+    - her: undefined
+    - him: undefined
+    - his: undefined
+    - home: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - larger: undefined
+    - laugh: undefined
+    - laughs: undefined
+    - less: undefined
+    - light: undefined
+    - like: undefined
+    - long: undefined
+    - lot: undefined
+    - louder: undefined
+    - man: undefined
+    - mass: undefined
+    - more: undefined
+    - night: undefined
+    - of: undefined
+    - often: undefined
+    - old: undefined
+    - one: undefined
+    - people: undefined
+    - person: undefined
+    - play: undefined
+    - she: undefined
+    - shine: undefined
+    - shirt: undefined
+    - short: undefined
+    - shorter: undefined
+    - skin: undefined
+    - sky: undefined
+    - small: undefined
+    - smooth: undefined
+    - sports: undefined
+    - star: undefined
+    - stars: undefined
+    - street: undefined
+    - stronger: undefined
+    - tall: undefined
+    - taller: undefined
+    - taller/higher: undefined
+    - than: undefined
+    - that: undefined
+    - the: undefined
+    - thin: undefined
+    - thinner: undefined
+    - to: undefined
+    - ugly: undefined
+    - us: undefined
+    - walking: undefined
+    - wears: undefined
+    - white: undefined
+    - wiser: undefined
+    - woman: undefined
+    - young: undefined

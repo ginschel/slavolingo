@@ -1,0 +1,190 @@
+Skill:
+  Name: Transport/Vehicles/Car
+  Id: 23
+
+New words:
+  - Word: ауто
+    Translation: car
+  - Word: аутобус
+    Translation: bus
+  - Word: појезд
+    Translation: train
+  - Word: коло
+    Translation: bicycle
+  - Word: станица
+    Translation: station
+  - Word: шофер
+    Translation: driver
+  - Word: дорога
+    Translation: road
+  - Word: мост
+    Translation: bridge
+  - Word: брзина
+    Translation: speed
+  - Word: светофор
+    Translation: traffic light
+  - Word: јехати (једе)
+    Translation: to go/drive
+  - Word: сести (седе)
+    Translation: to sit
+  - Word: свезати (свеже)
+    Translation: to connect/tie
+  - Word: разбити
+    Translation: broken
+  - Word: остражни
+    Translation: careful
+
+Phrases:
+  - Phrase: Ауто стоји на улици.
+    Translation: The car is standing on the street.
+  - Phrase: Аутобус једе до центра.
+    Translation: The bus goes to the center.
+  - Phrase: Појезд једе на станицу.
+    Translation: The train goes to the station.
+  - Phrase: Ту јест седење. Можно сести
+    Translation: Here is a seat. One can sit.
+  - Phrase: Станица јест велика.
+    Translation: The station is big.
+  - Phrase: Шофер једе брзо.
+    Translation: The driver drives fast.
+  - Phrase: Дорога иде чрез лес.
+    Translation: The road goes through the forest.
+  - Phrase: Мост свеже два града.
+    Translation: The bridge connects two cities.
+  - Phrase: Брзина јест важна за безбечности на улици.
+    Translation: A speed limit is important for the security on the street.
+  - Phrase: Светофор показује црвено.
+    Translation: The traffic light shows red.
+  - Phrase: Ауто јест ново и красно.
+    Translation: The car is new and beautiful.
+  - Phrase: Аутобус веде много људи.
+    Translation: The bus carries many people.
+  - Phrase: Појезд једе на север.
+    Translation: The train goes to the north.
+  - Phrase: Коло јест пра разбито.
+    Translation: The bicycle is broken.
+  - Phrase: Станица јест отворена.
+    Translation: The station is open.
+  - Phrase: Шофер јест остражни.
+    Translation: The driver is careful.
+  - Phrase: Дорога јест широка.
+    Translation: The road is wide.
+  - Phrase: Мост јест високи.
+    Translation: The bridge is high.
+  - Phrase: Брзина јест ограничена.
+    Translation: The speed is limited.
+  - Phrase: Светофор показује зелено.
+    Translation: The traffic light shows green.
+
+Mini-dictionary:
+  Serbian:
+    - ауто: undefined
+    - аутобус: undefined
+    - безбечности: undefined
+    - брзина: undefined
+    - брзо: undefined
+    - важна: undefined
+    - веде: undefined
+    - велика: undefined
+    - високи: undefined
+    - града: undefined
+    - два: undefined
+    - до: undefined
+    - дорога: undefined
+    - за: undefined
+    - зелено: undefined
+    - и: undefined
+    - иде: undefined
+    - коло: undefined
+    - красно: undefined
+    - лес: undefined
+    - много: undefined
+    - можно: undefined
+    - мост: undefined
+    - на: undefined
+    - ново: undefined
+    - ограничена: undefined
+    - остражни: undefined
+    - отворена: undefined
+    - показује: undefined
+    - појезд: undefined
+    - пра: undefined
+    - разбити: undefined
+    - разбито: undefined
+    - свеже: undefined
+    - свезати: undefined
+    - светофор: undefined
+    - север: undefined
+    - седе: undefined
+    - седење: undefined
+    - сести: undefined
+    - станица: undefined
+    - станицу: undefined
+    - стоји: undefined
+    - ту: undefined
+    - улици: undefined
+    - центра: undefined
+    - црвено: undefined
+    - чрез: undefined
+    - широка: undefined
+    - шофер: undefined
+    - једе: undefined
+    - јест: undefined
+    - јехати: undefined
+    - људи: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - beautiful: undefined
+    - bicycle: undefined
+    - big: undefined
+    - bridge: undefined
+    - broken: undefined
+    - bus: undefined
+    - can: undefined
+    - car: undefined
+    - careful: undefined
+    - carries: undefined
+    - center: undefined
+    - cities: undefined
+    - connect/tie: undefined
+    - connects: undefined
+    - driver: undefined
+    - drives: undefined
+    - fast: undefined
+    - for: undefined
+    - forest: undefined
+    - go/drive: undefined
+    - goes: undefined
+    - green: undefined
+    - here: undefined
+    - high: undefined
+    - important: undefined
+    - is: undefined
+    - light: undefined
+    - limit: undefined
+    - limited: undefined
+    - many: undefined
+    - new: undefined
+    - north: undefined
+    - on: undefined
+    - one: undefined
+    - open: undefined
+    - people: undefined
+    - red: undefined
+    - road: undefined
+    - seat: undefined
+    - security: undefined
+    - shows: undefined
+    - sit: undefined
+    - speed: undefined
+    - standing: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - through: undefined
+    - to: undefined
+    - traffic: undefined
+    - train: undefined
+    - two: undefined
+    - wide: undefined

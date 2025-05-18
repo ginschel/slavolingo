@@ -1,0 +1,201 @@
+Skill:
+  Name: Food (Accusative case)
+  Id: 6
+
+New words:
+  - Word: hlěb
+    Translation: bread
+  - Word: gotoviti
+    Translation: to prepare
+  - Word: nesti
+    Translation: to carry
+  - Word: jesti (je)
+    Translation: to eat
+  - Word: maslo
+    Translation: butter
+  - Word: mlěko
+    Translation: milk
+  - Word: meso
+    Translation: meat
+  - Word: jajce
+    Translation: egg
+  - Word: zautraka
+    Translation: breakfast
+  - Word: oběd
+    Translation: lunch
+  - Word: kupiti
+    Translation: to buy
+  - Word: večerja
+    Translation: dinner
+  - Word: bljudo
+    Translation: dish
+  - Word: kniga
+    Translation: book
+  - Word: solodky
+    Translation: sweet
+  - Word: jeda
+    Translation: food
+
+Phrases:
+  - Phrase: Ja jem hlěb.
+    Translation: I am eating bread.
+  - Phrase: Ona je meso.
+    Translation: She is eating meat.
+  - Phrase: On ljubi mlěko.
+    Translation: He likes milk.
+  - Phrase: Ja vidim Vlada s jedoju
+    Translation: I see Vlad with food
+  - Phrase: Ty ješ jajce?
+    Translation: Are you eating an egg?
+  - Phrase: My jemo večerju.
+    Translation: We are eating dinner.
+  - Phrase: Oni imajut zautraku.
+    Translation: They are having breakfast.
+  - Phrase: Ja kupim maslo.
+    Translation: I will buy butter.
+  - Phrase: On gotovi oběd.
+    Translation: He is preparing lunch.
+  - Phrase: Ona nese bljudo.
+    Translation: She is carrying a dish.
+  - Phrase: Oni kupujut maslo i hlěb.
+    Translation: They are buying butter and bread.
+  - Phrase: On pije mlěko i je meso.
+    Translation: He is drinking milk and eating meat.
+  - Phrase: Čitaš ty knigu i ješ zautraku?
+    Translation: Are you reading a book and eating breakfast?
+  - Phrase: Ja vidim oběd na stolu.
+    Translation: I see lunch on the table.
+  - Phrase: Ty imaš maslo?
+    Translation: Do you have butter?
+  - Phrase: My gotovimo večerju každy denj.
+    Translation: We prepare dinner every day.
+  - Phrase: Ja znam, čto ty ljubiš jajca.
+    Translation: I know that you like eggs.
+  - Phrase: On je solodku jedu.
+    Translation: He eats sweet food.
+  - Phrase: Ona ljubi gotoviti večerju.
+    Translation: She likes to prepare dinner.
+  - Phrase: My vidimo tvoju picu na stolu.
+    Translation: We see your pizza on the table.
+  - Phrase: Oni znajut, čto ja vsegda jem hlěb s maslom.
+    Translation: They know that I always eat bread with butter.
+
+Mini-dictionary:
+  Interslavic:
+    - bljudo: undefined
+    - denj: undefined
+    - gotovi: undefined
+    - gotovimo: undefined
+    - gotoviti: undefined
+    - hlěb: undefined
+    - i: undefined
+    - imajut: undefined
+    - imaš: undefined
+    - ja: undefined
+    - jajca: undefined
+    - jajce: undefined
+    - je: undefined
+    - jeda: undefined
+    - jedoju: undefined
+    - jedu: undefined
+    - jem: undefined
+    - jemo: undefined
+    - jesti: undefined
+    - ješ: undefined
+    - každy: undefined
+    - kniga: undefined
+    - knigu: undefined
+    - kupim: undefined
+    - kupiti: undefined
+    - kupujut: undefined
+    - ljubi: undefined
+    - ljubiš: undefined
+    - maslo: undefined
+    - maslom: undefined
+    - meso: undefined
+    - mlěko: undefined
+    - my: undefined
+    - na: undefined
+    - nese: undefined
+    - nesti: undefined
+    - oběd: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - picu: undefined
+    - pije: undefined
+    - s: undefined
+    - solodku: undefined
+    - solodky: undefined
+    - stolu: undefined
+    - tvoju: undefined
+    - ty: undefined
+    - večerja: undefined
+    - večerju: undefined
+    - vidim: undefined
+    - vidimo: undefined
+    - vlada: undefined
+    - vsegda: undefined
+    - zautraka: undefined
+    - zautraku: undefined
+    - znajut: undefined
+    - znam: undefined
+    - čitaš: undefined
+    - čto: undefined
+  English:
+    - a: undefined
+    - always: undefined
+    - am: undefined
+    - an: undefined
+    - and: undefined
+    - are: undefined
+    - book: undefined
+    - bread: undefined
+    - breakfast: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - carry: undefined
+    - carrying: undefined
+    - day: undefined
+    - dinner: undefined
+    - dish: undefined
+    - do: undefined
+    - drinking: undefined
+    - eat: undefined
+    - eating: undefined
+    - eats: undefined
+    - egg: undefined
+    - eggs: undefined
+    - every: undefined
+    - food: undefined
+    - have: undefined
+    - having: undefined
+    - he: undefined
+    - i: undefined
+    - is: undefined
+    - know: undefined
+    - like: undefined
+    - likes: undefined
+    - lunch: undefined
+    - meat: undefined
+    - milk: undefined
+    - on: undefined
+    - pizza: undefined
+    - prepare: undefined
+    - preparing: undefined
+    - reading: undefined
+    - see: undefined
+    - she: undefined
+    - sweet: undefined
+    - table: undefined
+    - that: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - vlad: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined
+    - you: undefined
+    - your: undefined

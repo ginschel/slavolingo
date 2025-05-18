@@ -1,0 +1,208 @@
+Skill:
+  Name: Nature
+  Id: 15
+
+New words:
+  - Word: rzeka
+    Translation: river
+  - Word: przez
+    Translation: through
+  - Word: góra
+    Translation: mountain
+  - Word: dolina
+    Translation: valley
+  - Word: las
+    Translation: forest
+  - Word: trawa
+    Translation: grass
+  - Word: kwiat
+    Translation: flower
+  - Word: róża
+    Translation: rose
+  - Word: rosnąć (rośnie)
+    Translation: to grow
+  - Word: ziemia
+    Translation: earth
+  - Word: kamień
+    Translation: stone
+  - Word: pole
+    Translation: field
+  - Word: dąb
+    Translation: oak
+  - Word: księżyc
+    Translation: moon
+  - Word: kwitnąć (kwitnie)
+    Translation: to bloom
+  - Word: drzewo
+    Translation: tree
+  - Word: leżeć (leży)
+    Translation: to lie
+  - Word: między
+    Translation: between
+
+Phrases:
+  - Phrase: Rzeka płynie przez dolinę.
+    Translation: The river flows through the valley.
+  - Phrase: Góra jest wysoka.
+    Translation: The mountain is high.
+  - Phrase: My idziemy do lasu.
+    Translation: We are going to the forest.
+  - Phrase: Trawa jest zielona.
+    Translation: The grass is green.
+  - Phrase: Kwiaty pięknie kwitną.
+    Translation: The flowers bloom beautifully.
+  - Phrase: On stoi na kamieniu.
+    Translation: He is standing on the stone.
+  - Phrase: Ziemia jest mokra.
+    Translation: The earth is wet.
+  - Phrase: Róża rośnie na polu.
+    Translation: The rose grows in the field.
+  - Phrase: Dolina leży między górami.
+    Translation: The valley lies between the mountains.
+  - Phrase: Pole jest szerokie.
+    Translation: The field is wide.
+  - Phrase: Oni idą przez las z wieloma drzewami.
+    Translation: They are going through the forest with many trees.
+  - Phrase: Trawa rośnie szybko.
+    Translation: The grass grows fast.
+  - Phrase: Kamienie są ciężkie.
+    Translation: The stones are heavy.
+  - Phrase: Kwiat rośnie z ziemi.
+    Translation: A flower grows from the earth.
+  - Phrase: Woda płynie do rzeki.
+    Translation: Water goes to the river.
+  - Phrase: Pole jest za domem.
+    Translation: The field is behind the house.
+  - Phrase: Idziemy do dębu.
+    Translation: We are going towards the oak.
+  - Phrase: Księżyc dzisiaj piękny
+    Translation: The moon today is beautiful
+  - Phrase: My stoimy na ziemi.
+    Translation: We are standing on the earth.
+  - Phrase: Oni patrzą w dolinę.
+    Translation: They are looking into the valley.
+  - Phrase: Rzeka płynie między polami.
+    Translation: The river goes between the fields.
+
+Mini-dictionary:
+  Polish:
+    - ciężkie: undefined
+    - do: undefined
+    - dolina: undefined
+    - dolinę: undefined
+    - domem: undefined
+    - drzewami: undefined
+    - drzewo: undefined
+    - dzisiaj: undefined
+    - dąb: undefined
+    - dębu: undefined
+    - góra: undefined
+    - górami: undefined
+    - idziemy: undefined
+    - idą: undefined
+    - jest: undefined
+    - kamienie: undefined
+    - kamieniu: undefined
+    - kamień: undefined
+    - księżyc: undefined
+    - kwiat: undefined
+    - kwiaty: undefined
+    - kwitnie: undefined
+    - kwitną: undefined
+    - kwitnąć: undefined
+    - las: undefined
+    - lasu: undefined
+    - leżeć: undefined
+    - leży: undefined
+    - między: undefined
+    - mokra: undefined
+    - my: undefined
+    - na: undefined
+    - on: undefined
+    - oni: undefined
+    - patrzą: undefined
+    - pięknie: undefined
+    - piękny: undefined
+    - polami: undefined
+    - pole: undefined
+    - polu: undefined
+    - przez: undefined
+    - płynie: undefined
+    - rosnąć: undefined
+    - rośnie: undefined
+    - rzeka: undefined
+    - rzeki: undefined
+    - róża: undefined
+    - stoi: undefined
+    - stoimy: undefined
+    - szerokie: undefined
+    - szybko: undefined
+    - są: undefined
+    - trawa: undefined
+    - w: undefined
+    - wieloma: undefined
+    - woda: undefined
+    - wysoka: undefined
+    - z: undefined
+    - za: undefined
+    - zielona: undefined
+    - ziemi: undefined
+    - ziemia: undefined
+  English:
+    - a: undefined
+    - are: undefined
+    - beautiful: undefined
+    - beautifully: undefined
+    - behind: undefined
+    - between: undefined
+    - bloom: undefined
+    - earth: undefined
+    - fast: undefined
+    - field: undefined
+    - fields: undefined
+    - flower: undefined
+    - flowers: undefined
+    - flows: undefined
+    - forest: undefined
+    - from: undefined
+    - goes: undefined
+    - going: undefined
+    - grass: undefined
+    - green: undefined
+    - grow: undefined
+    - grows: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - house: undefined
+    - in: undefined
+    - into: undefined
+    - is: undefined
+    - lie: undefined
+    - lies: undefined
+    - looking: undefined
+    - many: undefined
+    - moon: undefined
+    - mountain: undefined
+    - mountains: undefined
+    - oak: undefined
+    - on: undefined
+    - river: undefined
+    - rose: undefined
+    - standing: undefined
+    - stone: undefined
+    - stones: undefined
+    - the: undefined
+    - they: undefined
+    - through: undefined
+    - to: undefined
+    - today: undefined
+    - towards: undefined
+    - tree: undefined
+    - trees: undefined
+    - valley: undefined
+    - water: undefined
+    - we: undefined
+    - wet: undefined
+    - wide: undefined
+    - with: undefined

@@ -1,0 +1,195 @@
+Skill:
+  Name: Grammar revision cases
+  Id: 19
+
+New words:
+  - Word: "rězać (rěže)"
+    Translation: to cut
+  - Word: " dar"
+    Translation: gift
+  - Word: "wšeswět"
+    Translation: universe
+  - Word: " zerkało"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Kość tu njeje.
+    Translation: There is no bone here.
+  - Phrase: Dam žonje.
+    Translation: I give to the woman.
+  - Phrase: Wona je w měsće.
+    Translation: She is in the city.
+  - Phrase: Rěčim z přećelemi.
+    Translation: I talk with friends.
+  - Phrase: Mjeno wón nima.
+    Translation: He has no name.
+  - Phrase: Ty dušu nimaš?!
+    Translation: You don't have a soul?!
+  - Phrase: Wón widźi swoju žonu.
+    Translation: He sees his wife.
+  - Phrase: Brata tu njeje.
+    Translation: There is no brother here.
+  - Phrase: To je móžno rězać z nožom.
+    Translation: This can be cut with a knife.
+  - Phrase: Wona z mužom rěči.
+    Translation: She talks with her husband.
+  - Phrase: Wona rěči wo bratrach.
+    Translation: She talks about brothers.
+  - Phrase: Wona dawa dar bratrjej.
+    Translation: She gives a gift to the brothers.
+  - Phrase: Na pólu mnoho dźěłam.
+    Translation: I work a lot in the field.
+  - Phrase: Je mnoho słóncow we wšeswěće.
+    Translation: There are many suns in the universe.
+  - Phrase: A tež je mnoho hwězdow.
+    Translation: And there are also many stars.
+  - Phrase: Wón lubi rěčeć ze swojej žonu.
+    Translation: He likes to talk with his wife.
+  - Phrase: Hižo njeje bananow w domje.
+    Translation: There are no more bananas in the house.
+  - Phrase: W wočomaj widźimy dušu twoju.
+    Translation: In the eyes I see your soul.
+  - Phrase: Woči su zerkało duše.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Mužow tu njewidźimy.
+    Translation: I do not see men here.
+  - Phrase: W měsće uwidźiš mnoho ludźi.
+    Translation: In the cities you will see many people.
+  - Phrase: Měrna nóc!
+    Translation: Good night!
+
+Mini-dictionary:
+  Upper Sorbian:
+    - a: undefined
+    - bananow: undefined
+    - brata: undefined
+    - bratrach: undefined
+    - bratrjej: undefined
+    - dam: undefined
+    - dar: undefined
+    - dawa: undefined
+    - domje: undefined
+    - duše: undefined
+    - dušu: undefined
+    - dźěłam: undefined
+    - hižo: undefined
+    - hwězdow: undefined
+    - je: undefined
+    - kość: undefined
+    - lubi: undefined
+    - ludźi: undefined
+    - mjeno: undefined
+    - mnoho: undefined
+    - mužom: undefined
+    - mužow: undefined
+    - móžno: undefined
+    - měrna: undefined
+    - měsće: undefined
+    - na: undefined
+    - nima: undefined
+    - nimaš: undefined
+    - njeje: undefined
+    - njewidźimy: undefined
+    - nožom: undefined
+    - nóc: undefined
+    - pólu: undefined
+    - přećelemi: undefined
+    - rězać: undefined
+    - rěčeć: undefined
+    - rěči: undefined
+    - rěčim: undefined
+    - rěže: undefined
+    - su: undefined
+    - swojej: undefined
+    - swoju: undefined
+    - słóncow: undefined
+    - tež: undefined
+    - to: undefined
+    - tu: undefined
+    - twoju: undefined
+    - ty: undefined
+    - uwidźiš: undefined
+    - w: undefined
+    - we: undefined
+    - widźi: undefined
+    - widźimy: undefined
+    - wo: undefined
+    - wona: undefined
+    - woči: undefined
+    - wočomaj: undefined
+    - wón: undefined
+    - wšeswět: undefined
+    - wšeswěće: undefined
+    - z: undefined
+    - ze: undefined
+    - zerkało: undefined
+    - žonje: undefined
+    - žonu: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - bananas: undefined
+    - be: undefined
+    - bone: undefined
+    - brother: undefined
+    - brothers: undefined
+    - can: undefined
+    - cities: undefined
+    - city: undefined
+    - cut: undefined
+    - do: undefined
+    - don't: undefined
+    - eyes: undefined
+    - field: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - his: undefined
+    - house: undefined
+    - husband: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - knife: undefined
+    - likes: undefined
+    - lot: undefined
+    - many: undefined
+    - men: undefined
+    - mirror: undefined
+    - more: undefined
+    - name: undefined
+    - night: undefined
+    - no: undefined
+    - not: undefined
+    - of: undefined
+    - people: undefined
+    - see: undefined
+    - sees: undefined
+    - she: undefined
+    - soul: undefined
+    - stars: undefined
+    - suns: undefined
+    - talk: undefined
+    - talks: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - universe: undefined
+    - wife: undefined
+    - will: undefined
+    - with: undefined
+    - woman: undefined
+    - work: undefined
+    - you: undefined
+    - your: undefined

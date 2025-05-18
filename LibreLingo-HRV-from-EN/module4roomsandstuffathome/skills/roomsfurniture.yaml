@@ -1,0 +1,200 @@
+Skill:
+  Name: Rooms/furniture
+  Id: 12
+
+New words:
+  - Word: soba
+    Translation: room
+  - Word: stol
+    Translation: table
+  - Word: stolica
+    Translation: chair
+  - Word: jastuk
+    Translation: pillow
+  - Word: krevet
+    Translation: bed
+  - Word: prozor
+    Translation: window
+  - Word: vrata
+    Translation: doors
+  - Word: ormar
+    Translation: wardrobe
+  - Word: komoda/škrinja
+    Translation: chest
+  - Word: polica
+    Translation: shelf
+  - Word: držati (drži)
+    Translation: to hold
+  - Word: visjeti (visi)
+    Translation: to hang
+  - Word: zid
+    Translation: wall
+  - Word: lampa
+    Translation: lamp
+  - Word: dati
+    Translation: to give
+
+Phrases:
+  - Phrase: Soba je topla i tiha.
+    Translation: The room is warm and quiet.
+  - Phrase: Stol stoji u sredini sobe.
+    Translation: The table stands in the middle of the room.
+  - Phrase: Stolica je blizu stola.
+    Translation: The chair is near the table.
+  - Phrase: Krevet je mekan.
+    Translation: The bed is soft.
+  - Phrase: Prozor je otvoren.
+    Translation: The window is open.
+  - Phrase: Vrata su zatvorena.
+    Translation: The doors are closed.
+  - Phrase: Ormar ima mnogo odjeće.
+    Translation: The wardrobe has many clothes.
+  - Phrase: Komoda je pod krevetom.
+    Translation: The chest is under the bed.
+  - Phrase: Polica drži knjige.
+    Translation: The shelf holds books.
+  - Phrase: Lampa svijetli nad stolom.
+    Translation: The lamp shines above the table.
+  - Phrase: Soba ima dva prozora.
+    Translation: The room has two windows.
+  - Phrase: Na stolu leži knjiga.
+    Translation: A book is lying on the table.
+  - Phrase: Stolica je stara, no udobna.
+    Translation: The chair is old, but comfortable.
+  - Phrase: Krevet je nov.
+    Translation: The bed is new.
+  - Phrase: Vrata vode do kuhinje.
+    Translation: The doors lead to the kitchen.
+  - Phrase: Ormar je pun.
+    Translation: The wardrobe is full.
+  - Phrase: Komoda je od drveta.
+    Translation: The chest is made of wood.
+  - Phrase: Polica visi na zidu.
+    Translation: The shelf hangs on the wall.
+  - Phrase: Lampa daje svjetlo.
+    Translation: The lamp gives light.
+  - Phrase: U sobi je mirno.
+    Translation: It is quiet in the room.
+
+Mini-dictionary:
+  Croatian:
+    - blizu: undefined
+    - daje: undefined
+    - dati: undefined
+    - do: undefined
+    - drveta: undefined
+    - držati: undefined
+    - drži: undefined
+    - dva: undefined
+    - i: undefined
+    - ima: undefined
+    - jastuk: undefined
+    - je: undefined
+    - knjiga: undefined
+    - knjige: undefined
+    - komoda: undefined
+    - komoda/škrinja: undefined
+    - krevet: undefined
+    - krevetom: undefined
+    - kuhinje: undefined
+    - lampa: undefined
+    - leži: undefined
+    - mekan: undefined
+    - mirno: undefined
+    - mnogo: undefined
+    - na: undefined
+    - nad: undefined
+    - no: undefined
+    - nov: undefined
+    - od: undefined
+    - odjeće: undefined
+    - ormar: undefined
+    - otvoren: undefined
+    - pod: undefined
+    - polica: undefined
+    - prozor: undefined
+    - prozora: undefined
+    - pun: undefined
+    - soba: undefined
+    - sobe: undefined
+    - sobi: undefined
+    - sredini: undefined
+    - stara: undefined
+    - stoji: undefined
+    - stol: undefined
+    - stola: undefined
+    - stolica: undefined
+    - stolom: undefined
+    - stolu: undefined
+    - su: undefined
+    - svijetli: undefined
+    - svjetlo: undefined
+    - tiha: undefined
+    - topla: undefined
+    - u: undefined
+    - udobna: undefined
+    - visi: undefined
+    - visjeti: undefined
+    - vode: undefined
+    - vrata: undefined
+    - zatvorena: undefined
+    - zid: undefined
+    - zidu: undefined
+  English:
+    - a: undefined
+    - above: undefined
+    - and: undefined
+    - are: undefined
+    - bed: undefined
+    - book: undefined
+    - books: undefined
+    - but: undefined
+    - chair: undefined
+    - chest: undefined
+    - closed: undefined
+    - clothes: undefined
+    - comfortable: undefined
+    - doors: undefined
+    - full: undefined
+    - give: undefined
+    - gives: undefined
+    - hang: undefined
+    - hangs: undefined
+    - has: undefined
+    - hold: undefined
+    - holds: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - kitchen: undefined
+    - lamp: undefined
+    - lead: undefined
+    - light: undefined
+    - lying: undefined
+    - made: undefined
+    - many: undefined
+    - middle: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - pillow: undefined
+    - quiet: undefined
+    - room: undefined
+    - shelf: undefined
+    - shines: undefined
+    - soft: undefined
+    - stands: undefined
+    - table: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - under: undefined
+    - wall: undefined
+    - wardrobe: undefined
+    - warm: undefined
+    - window: undefined
+    - windows: undefined
+    - wood: undefined

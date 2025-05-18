@@ -1,0 +1,201 @@
+Skill:
+  Name: Family (Instrumental case)
+  Id: 3
+
+New words:
+  - Word: brat
+    Translation: brother
+  - Word: djed
+    Translation: grandfather
+  - Word: baka
+    Translation: grandmother
+  - Word: tetka
+    Translation: aunt
+  - Word: unuk
+    Translation: grandson
+  - Word: unuka
+    Translation: granddaughter
+  - Word: majka
+    Translation: mother
+  - Word: otac
+    Translation: father
+  - Word: obitelj
+    Translation: family
+  - Word: sin
+    Translation: son
+  - Word: kćer
+    Translation: daughter
+  - Word: stric
+    Translation: uncle
+  - Word: govori
+    Translation: speaks
+  - Word: ide (pješice)
+    Translation: goes
+  - Word: idemo (pješice)
+    Translation: we go
+  - Word: živi
+    Translation: lives
+
+Phrases:
+  - Phrase: On je mojim bratom.
+    Translation: He is my brother.
+  - Phrase: On je tvojim ocem
+    Translation: He is your father
+  - Phrase: Ona ide s majkom.
+    Translation: She is going with her mother.
+  - Phrase: On govori s djedom.
+    Translation: He is talking with his grandfather.
+  - Phrase: Mi igramo s našom djecom.
+    Translation: We are playing with our children.
+  - Phrase: Oni putuju s tetkom.
+    Translation: They are going with their aunt.
+  - Phrase: Govorim s tvojom sestrom.
+    Translation: I am talking with your sister.
+  - Phrase: Idem u park s obitelji.
+    Translation: We are going to the park with the family.
+  - Phrase: On je s unukom.
+    Translation: He is with his grandson.
+  - Phrase: Ona igra s unukom.
+    Translation: She is playing with her granddaughter.
+  - Phrase: Piti čaj s majkom je bolje.
+    Translation: Drinking tea with mother is better.
+  - Phrase: S kim ti ideš?
+    Translation: Who are you going with?
+  - Phrase: Ona govori s mojom bakom.
+    Translation: She is talking with my grandmother.
+  - Phrase: To je domom s obitelji.
+    Translation: This is a house with a family.
+  - Phrase: On živi sa sinom.
+    Translation: He lives with his son.
+  - Phrase: Idemo na šetnju s braćom.
+    Translation: We are going for a walk with brothers.
+  - Phrase: Idemo s kćeri.
+    Translation: We are going with our daughter.
+  - Phrase: Oni su tu s djedom.
+    Translation: They are here with their grandfather.
+  - Phrase: On živi s tetkom i sa stricem.
+    Translation: He lives with his aunt and uncle.
+  - Phrase: Ona govori s unukom često.
+    Translation: She talks with her grandson often.
+
+Mini-dictionary:
+  Croatian:
+    - baka: undefined
+    - bakom: undefined
+    - bolje: undefined
+    - brat: undefined
+    - bratom: undefined
+    - braćom: undefined
+    - djecom: undefined
+    - djed: undefined
+    - djedom: undefined
+    - domom: undefined
+    - govori: undefined
+    - govorim: undefined
+    - i: undefined
+    - ide: undefined
+    - idem: undefined
+    - idemo: undefined
+    - ideš: undefined
+    - igra: undefined
+    - igramo: undefined
+    - je: undefined
+    - kim: undefined
+    - kćer: undefined
+    - kćeri: undefined
+    - majka: undefined
+    - majkom: undefined
+    - mi: undefined
+    - mojim: undefined
+    - mojom: undefined
+    - na: undefined
+    - našom: undefined
+    - obitelj: undefined
+    - obitelji: undefined
+    - ocem: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - otac: undefined
+    - park: undefined
+    - piti: undefined
+    - pješice: undefined
+    - putuju: undefined
+    - s: undefined
+    - sa: undefined
+    - sestrom: undefined
+    - sin: undefined
+    - sinom: undefined
+    - stric: undefined
+    - stricem: undefined
+    - su: undefined
+    - tetka: undefined
+    - tetkom: undefined
+    - ti: undefined
+    - to: undefined
+    - tu: undefined
+    - tvojim: undefined
+    - tvojom: undefined
+    - u: undefined
+    - unuk: undefined
+    - unuka: undefined
+    - unukom: undefined
+    - čaj: undefined
+    - često: undefined
+    - šetnju: undefined
+    - živi: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - aunt: undefined
+    - better: undefined
+    - brother: undefined
+    - brothers: undefined
+    - children: undefined
+    - daughter: undefined
+    - drinking: undefined
+    - family: undefined
+    - father: undefined
+    - for: undefined
+    - go: undefined
+    - goes: undefined
+    - going: undefined
+    - granddaughter: undefined
+    - grandfather: undefined
+    - grandmother: undefined
+    - grandson: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - his: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - lives: undefined
+    - mother: undefined
+    - my: undefined
+    - often: undefined
+    - our: undefined
+    - park: undefined
+    - playing: undefined
+    - she: undefined
+    - sister: undefined
+    - son: undefined
+    - speaks: undefined
+    - talking: undefined
+    - talks: undefined
+    - tea: undefined
+    - the: undefined
+    - their: undefined
+    - they: undefined
+    - this: undefined
+    - to: undefined
+    - uncle: undefined
+    - walk: undefined
+    - we: undefined
+    - who: undefined
+    - with: undefined
+    - you: undefined
+    - your: undefined

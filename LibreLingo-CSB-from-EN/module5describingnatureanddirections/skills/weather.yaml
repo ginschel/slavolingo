@@ -1,0 +1,190 @@
+Skill:
+  Name: Weather
+  Id: 16
+
+New words:
+  - Word: pogoda
+    Translation: weather
+  - Word: deszcz
+    Translation: rain
+  - Word: padac
+    Translation: to fall
+  - Word: sniég
+    Translation: snow
+  - Word: zmiéniac
+    Translation: to change
+  - Word: słuncé
+    Translation: sun
+  - Word: swiecëc
+    Translation: to shine
+  - Word: pòwiôtr
+    Translation: air
+  - Word: wiatrzënk
+    Translation: wind
+  - Word: ciepło
+    Translation: warm
+  - Word: zëmno
+    Translation: cold
+  - Word: mróz
+    Translation: frost
+  - Word: chmùra
+    Translation: cloud
+  - Word: grzac (grzeje)
+    Translation: to heat
+  - Word: chmùrno
+    Translation: cloudy
+  - Word: wòniac
+    Translation: to smell
+  - Word: widzec (widzy)
+    Translation: to see
+
+Phrases:
+  - Phrase: Pògòda je dobrô.
+    Translation: The weather is good.
+  - Phrase: Pôdô deszcz.
+    Translation: It is raining.
+  - Phrase: Sniég leżi na zemie.
+    Translation: Snow lies on the ground.
+  - Phrase: Słuncé swiecy.
+    Translation: The sun is shining.
+  - Phrase: Pòwiôtr je czësti.
+    Translation: The air is clean.
+  - Phrase: Wiatrzënk dmie sëlno.
+    Translation: The wind is blowing strongly.
+  - Phrase: Dzysô je ciepło.
+    Translation: It is warm today.
+  - Phrase: W Rusczi je zëmno.
+    Translation: In Russia it is cold.
+  - Phrase: Mróz je sëlni.
+    Translation: The frost is strong.
+  - Phrase: Chmùrë są cëmné.
+    Translation: The clouds are dark.
+  - Phrase: Pôdô sniég i deszcz.
+    Translation: Snow and rain are falling.
+  - Phrase: Pògòda sã zmiéniô.
+    Translation: The weather is changing.
+  - Phrase: Słuncé grzeje nas.
+    Translation: The sun heats us.
+  - Phrase: Dzysô je ciepło i sucho.
+    Translation: It is warm and dry today.
+  - Phrase: Je wiatrzënk sëlni?
+    Translation: Is the wind strong?
+  - Phrase: Mróz je zôranô.
+    Translation: There is frost in the morning.
+  - Phrase: Dzysô je chmùrno.
+    Translation: It is cloudy today.
+  - Phrase: Pòwiôtr wòni pò deszczu.
+    Translation: The air smells of rain.
+  - Phrase: Dzysô nie widzymë chmùrów.
+    Translation: Today I do not see clouds.
+  - Phrase: Zëmny wiatrzënk dmie z nordë.
+    Translation: A cold wind is blowing from the north.
+
+Mini-dictionary:
+  Kashubian:
+    - chmùra: undefined
+    - chmùrno: undefined
+    - chmùrë: undefined
+    - chmùrów: undefined
+    - ciepło: undefined
+    - czësti: undefined
+    - cëmné: undefined
+    - deszcz: undefined
+    - deszczu: undefined
+    - dmie: undefined
+    - dobrô: undefined
+    - dzysô: undefined
+    - grzac: undefined
+    - grzeje: undefined
+    - i: undefined
+    - je: undefined
+    - leżi: undefined
+    - mróz: undefined
+    - na: undefined
+    - nas: undefined
+    - nie: undefined
+    - nordë: undefined
+    - padac: undefined
+    - pogoda: undefined
+    - pò: undefined
+    - pògòda: undefined
+    - pòwiôtr: undefined
+    - pôdô: undefined
+    - rusczi: undefined
+    - sniég: undefined
+    - sucho: undefined
+    - swiecy: undefined
+    - swiecëc: undefined
+    - sã: undefined
+    - sëlni: undefined
+    - sëlno: undefined
+    - są: undefined
+    - słuncé: undefined
+    - w: undefined
+    - wiatrzënk: undefined
+    - widzec: undefined
+    - widzy: undefined
+    - widzymë: undefined
+    - wòni: undefined
+    - wòniac: undefined
+    - z: undefined
+    - zemie: undefined
+    - zmiéniac: undefined
+    - zmiéniô: undefined
+    - zëmno: undefined
+    - zëmny: undefined
+    - zôranô: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - and: undefined
+    - are: undefined
+    - blowing: undefined
+    - change: undefined
+    - changing: undefined
+    - clean: undefined
+    - cloud: undefined
+    - clouds: undefined
+    - cloudy: undefined
+    - cold: undefined
+    - dark: undefined
+    - do: undefined
+    - dry: undefined
+    - fall: undefined
+    - falling: undefined
+    - from: undefined
+    - frost: undefined
+    - good: undefined
+    - ground: undefined
+    - heat: undefined
+    - heats: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lies: undefined
+    - morning: undefined
+    - north: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - rain: undefined
+    - raining: undefined
+    - russia: undefined
+    - see: undefined
+    - shine: undefined
+    - shining: undefined
+    - smell: undefined
+    - smells: undefined
+    - snow: undefined
+    - strong: undefined
+    - strongly: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - to: undefined
+    - today: undefined
+    - us: undefined
+    - warm: undefined
+    - weather: undefined
+    - wind: undefined

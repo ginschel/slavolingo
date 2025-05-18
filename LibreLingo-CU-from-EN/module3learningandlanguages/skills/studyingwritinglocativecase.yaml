@@ -1,0 +1,189 @@
+Skill:
+  Name: Studying & Writing (Locative case)
+  Id: 9
+
+New words:
+  - Word: шькола
+    Translation: school
+  - Word: оучитєлька
+    Translation: female teacher
+  - Word: оучитєль
+    Translation: male teacher
+  - Word: запись
+    Translation: note
+  - Word: оучєникъ
+    Translation: student
+  - Word: книга
+    Translation: book
+  - Word: заданиѥ
+    Translation: assignment
+  - Word: столъ
+    Translation: table
+  - Word: тꙋшь
+    Translation: ink
+  - Word: папиръ
+    Translation: paper
+  - Word: прєдъметъ
+    Translation: subject
+  - Word: мєтходъ
+    Translation: method
+  - Word: пєро
+    Translation: pen
+  - Word: записьникъ
+    Translation: notebook
+  - Word: на
+    Translation: on
+
+Phrases:
+  - Phrase: Сь моꙗ шькола.
+    Translation: This is my school.
+  - Phrase: Она ѥстъ оучитєлѥмъ.
+    Translation: She is a teacher.
+  - Phrase: Онъ ѥстъ оучєникомъ.
+    Translation: He is a student.
+  - Phrase: Книга ѥстъ на столѣ.
+    Translation: The book is on the table.
+  - Phrase: Азъ имамъ заданиѥ.
+    Translation: I have an assignment.
+  - Phrase: Тꙋшь ѥстъ ѥщє мокръ.
+    Translation: The ink is still wet.
+  - Phrase: Папиръ ѥстъ бѣлъ.
+    Translation: The paper is white.
+  - Phrase: Тъи прєдъметъ тъ матиматика.
+    Translation: This subject is mathematics.
+  - Phrase: Си мєтхода ѥстъ добра.
+    Translation: This method is good.
+  - Phrase: Оучєникъ имаѥтъ книгѫ.
+    Translation: The student has a book.
+  - Phrase: Сь ѥстъ мои столъ.
+    Translation: This is my desk.
+  - Phrase: Мои записьникъ ѥстъ пълънъ записьѥвъ съ пєромъ
+    Translation: My notebook is full of notes with a pen
+  - Phrase: Пишѫ на папирѣ пєромъ.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Шькола ѥстъ въ цєнтрѣ.
+    Translation: The school is in the center.
+  - Phrase: Мꙑ пишємъ заданиѥ.
+    Translation: We are writing the assignment.
+  - Phrase: Оучитєль глаголи съ стꙋдєнтами.
+    Translation: The teacher is talking with students.
+  - Phrase: Она имаѥтъ мьного задании.
+    Translation: She has many assignments.
+  - Phrase: Азъ бързѫ пишємъ съ тꙑмъ пєромъ.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Прєдъметъ ѥстъ сложьнъ.
+    Translation: The subject is complex.
+  - Phrase: Книга ѥстъ нова.
+    Translation: The book is new.
+  - Phrase: Онъ ѥстъ моимъ оучитєлѥмъ.
+    Translation: He is my teacher.
+
+Mini-dictionary:
+  Church Slavonic:
+    - азъ: undefined
+    - бързѫ: undefined
+    - бѣлъ: undefined
+    - въ: undefined
+    - глаголи: undefined
+    - добра: undefined
+    - задании: undefined
+    - заданиѥ: undefined
+    - запись: undefined
+    - записьникъ: undefined
+    - записьѥвъ: undefined
+    - имамъ: undefined
+    - имаѥтъ: undefined
+    - книга: undefined
+    - книгѫ: undefined
+    - матиматика: undefined
+    - мои: undefined
+    - моимъ: undefined
+    - мокръ: undefined
+    - моꙗ: undefined
+    - мьного: undefined
+    - мєтхода: undefined
+    - мєтходъ: undefined
+    - мꙑ: undefined
+    - на: undefined
+    - нова: undefined
+    - она: undefined
+    - онъ: undefined
+    - оучитєль: undefined
+    - оучитєлька: undefined
+    - оучитєлѥмъ: undefined
+    - оучєникомъ: undefined
+    - оучєникъ: undefined
+    - папиръ: undefined
+    - папирѣ: undefined
+    - пишємъ: undefined
+    - пишѫ: undefined
+    - прєдъметъ: undefined
+    - пълънъ: undefined
+    - пєро: undefined
+    - пєромъ: undefined
+    - си: undefined
+    - сложьнъ: undefined
+    - столъ: undefined
+    - столѣ: undefined
+    - стꙋдєнтами: undefined
+    - съ: undefined
+    - сь: undefined
+    - тъ: undefined
+    - тъи: undefined
+    - тꙋшь: undefined
+    - тꙑмъ: undefined
+    - цєнтрѣ: undefined
+    - шькола: undefined
+    - ѥстъ: undefined
+    - ѥщє: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - an: undefined
+    - are: undefined
+    - assignment: undefined
+    - assignments: undefined
+    - book: undefined
+    - center: undefined
+    - complex: undefined
+    - desk: undefined
+    - female: undefined
+    - full: undefined
+    - good: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - i: undefined
+    - in: undefined
+    - ink: undefined
+    - is: undefined
+    - male: undefined
+    - many: undefined
+    - mathematics: undefined
+    - method: undefined
+    - my: undefined
+    - new: undefined
+    - note: undefined
+    - notebook: undefined
+    - notes: undefined
+    - of: undefined
+    - on: undefined
+    - paper: undefined
+    - pen: undefined
+    - quickly: undefined
+    - school: undefined
+    - she: undefined
+    - still: undefined
+    - student: undefined
+    - students: undefined
+    - subject: undefined
+    - table: undefined
+    - talking: undefined
+    - teacher: undefined
+    - the: undefined
+    - this: undefined
+    - we: undefined
+    - wet: undefined
+    - white: undefined
+    - with: undefined
+    - writing: undefined

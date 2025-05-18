@@ -1,0 +1,211 @@
+Skill:
+  Name: Nature
+  Id: 15
+
+New words:
+  - Word: rzeka
+    Translation: river
+  - Word: bez
+    Translation: through
+  - Word: gōra
+    Translation: mountain
+  - Word: dolina
+    Translation: valley
+  - Word: las
+    Translation: forest
+  - Word: trowa
+    Translation: grass
+  - Word: blum
+    Translation: flower
+  - Word: rōża
+    Translation: rose
+  - Word: rosnōńć (rośńe)
+    Translation: to grow
+  - Word: ziymia
+    Translation: earth
+  - Word: kamiyń
+    Translation: stone
+  - Word: pōle
+    Translation: field
+  - Word: dōmb
+    Translation: oak
+  - Word: miesiōnczek
+    Translation: moon
+  - Word: kwitnōńć (kwitnie)
+    Translation: to bloom
+  - Word: bōk
+    Translation: tree
+  - Word: leżeć (leży)
+    Translation: to lie
+  - Word: miyndzy
+    Translation: between
+
+Phrases:
+  - Phrase: Rzyka cine bez dolina.
+    Translation: The river flows through the valley.
+  - Phrase: Gōra je wysokŏ.
+    Translation: The mountain is high.
+  - Phrase: My idymy do lasa.
+    Translation: We are going to the forest.
+  - Phrase: Trowa je zielōno.
+    Translation: The grass is green.
+  - Phrase: Blumy piyknie kwitnōm.
+    Translation: The flowers bloom beautifully.
+  - Phrase: Ôn stoji na kamieniu.
+    Translation: He is standing on the stone.
+  - Phrase: Ziymia je mokro.
+    Translation: The earth is wet.
+  - Phrase: Rōża rośńe na pōlu.
+    Translation: The rose grows in the field.
+  - Phrase: Dolina leży miyndzy gōrami.
+    Translation: The valley lies between the mountains.
+  - Phrase: Pōle je szyroke.
+    Translation: The field is wide.
+  - Phrase: Ôni idōm bez las z moc bōkami.
+    Translation: They are going through the forest with many trees.
+  - Phrase: Trowa rośńe wartko.
+    Translation: The grass grows fast.
+  - Phrase: Kamynie som ciynżke.
+    Translation: The stones are heavy.
+  - Phrase: Blum rośńe z ziymie.
+    Translation: A flower grows from the earth.
+  - Phrase: Woda idzie do rzyki.
+    Translation: Water goes to the river.
+  - Phrase: Pōle je za dōmym.
+    Translation: The field is behind the house.
+  - Phrase: Idymy ku dōmbowi.
+    Translation: We are going towards the oak.
+  - Phrase: Miesiōnczek dzisiŏj piykny
+    Translation: The moon today is beautiful
+  - Phrase: My stojymy na ziymi.
+    Translation: We are standing on the earth.
+  - Phrase: Ôni ôglōndajōm we dolina.
+    Translation: They are looking into the valley.
+  - Phrase: Rzyka idzie miyndzy pólami.
+    Translation: The river goes between the fields.
+
+Mini-dictionary:
+  Silesian:
+    - bez: undefined
+    - blum: undefined
+    - blumy: undefined
+    - bōk: undefined
+    - bōkami: undefined
+    - cine: undefined
+    - ciynżke: undefined
+    - do: undefined
+    - dolina: undefined
+    - dzisiŏj: undefined
+    - dōmb: undefined
+    - dōmbowi: undefined
+    - dōmym: undefined
+    - gōra: undefined
+    - gōrami: undefined
+    - idymy: undefined
+    - idzie: undefined
+    - idōm: undefined
+    - je: undefined
+    - kamieniu: undefined
+    - kamiyń: undefined
+    - kamynie: undefined
+    - ku: undefined
+    - kwitnie: undefined
+    - kwitnōm: undefined
+    - kwitnōńć: undefined
+    - las: undefined
+    - lasa: undefined
+    - leżeć: undefined
+    - leży: undefined
+    - miesiōnczek: undefined
+    - miyndzy: undefined
+    - moc: undefined
+    - mokro: undefined
+    - my: undefined
+    - na: undefined
+    - piyknie: undefined
+    - piykny: undefined
+    - pólami: undefined
+    - pōle: undefined
+    - pōlu: undefined
+    - rosnōńć: undefined
+    - rośńe: undefined
+    - rzeka: undefined
+    - rzyka: undefined
+    - rzyki: undefined
+    - rōża: undefined
+    - som: undefined
+    - stoji: undefined
+    - stojymy: undefined
+    - szyroke: undefined
+    - trowa: undefined
+    - wartko: undefined
+    - we: undefined
+    - woda: undefined
+    - wysokŏ: undefined
+    - z: undefined
+    - za: undefined
+    - zielōno: undefined
+    - ziymi: undefined
+    - ziymia: undefined
+    - ziymie: undefined
+    - ôglōndajōm: undefined
+    - ôn: undefined
+    - ôni: undefined
+  English:
+    - a: undefined
+    - are: undefined
+    - beautiful: undefined
+    - beautifully: undefined
+    - behind: undefined
+    - between: undefined
+    - bloom: undefined
+    - earth: undefined
+    - fast: undefined
+    - field: undefined
+    - fields: undefined
+    - flower: undefined
+    - flowers: undefined
+    - flows: undefined
+    - forest: undefined
+    - from: undefined
+    - goes: undefined
+    - going: undefined
+    - grass: undefined
+    - green: undefined
+    - grow: undefined
+    - grows: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - house: undefined
+    - in: undefined
+    - into: undefined
+    - is: undefined
+    - lie: undefined
+    - lies: undefined
+    - looking: undefined
+    - many: undefined
+    - moon: undefined
+    - mountain: undefined
+    - mountains: undefined
+    - oak: undefined
+    - on: undefined
+    - river: undefined
+    - rose: undefined
+    - standing: undefined
+    - stone: undefined
+    - stones: undefined
+    - the: undefined
+    - they: undefined
+    - through: undefined
+    - to: undefined
+    - today: undefined
+    - towards: undefined
+    - tree: undefined
+    - trees: undefined
+    - valley: undefined
+    - water: undefined
+    - we: undefined
+    - wet: undefined
+    - wide: undefined
+    - with: undefined

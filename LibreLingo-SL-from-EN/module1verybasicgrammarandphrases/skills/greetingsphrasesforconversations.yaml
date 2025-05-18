@@ -1,0 +1,246 @@
+Skill:
+  Name: Greetings & Phrases for conversations
+  Id: 2
+
+New words:
+  - Word: pozdrav
+    Translation: greeting
+  - Word: zdrav
+    Translation: healthy/hello
+  - Word: pogovor
+    Translation: conversation
+  - Word: jutro
+    Translation: morning
+  - Word: večer
+    Translation: evening
+  - Word: dan
+    Translation: day
+  - Word: noč
+    Translation: night
+  - Word: hvala
+    Translation: thanks
+  - Word: pardon
+    Translation: pardon
+  - Word: izgini
+    Translation: excuse me
+  - Word: dober
+    Translation: good
+  - Word: bolje
+    Translation: better
+  - Word: možno
+    Translation: possible
+  - Word: škoda
+    Translation: pity
+  - Word: tako
+    Translation: so
+  - Word: kaj
+    Translation: what
+  - Word: ne
+    Translation: no
+  - Word: da
+    Translation: yes
+  - Word: lahko
+    Translation: maybe/can
+  - Word: daj
+    Translation: let's go
+
+Phrases:
+  - Phrase: Dobro jutro!
+    Translation: Good morning!
+  - Phrase: Dober večer!
+    Translation: Good evening!
+  - Phrase: Dober dan!
+    Translation: Good day!
+  - Phrase: Lahko noč!
+    Translation: Good night!
+  - Phrase: Kako si?
+    Translation: How are you?
+  - Phrase: Sem dobro, hvala!
+    Translation: I am well, thank you!
+  - Phrase: In ti?
+    Translation: And you?
+  - Phrase: Najlepša hvala.
+    Translation: Thank you very much.
+  - Phrase: Pardon, ne razumem.
+    Translation: Excuse me, I don't understand.
+  - Phrase: Pozdrav!
+    Translation: Greetings!
+  - Phrase: Zdrav!
+    Translation: Hello!
+  - Phrase: Dober dan, kako si?
+    Translation: Good day, how are you?
+  - Phrase: Si ti zdrav?
+    Translation: Are you healthy?
+  - Phrase: Dobrodošli!
+    Translation: Welcome!
+  - Phrase: Na zdravje!
+    Translation: To your health!
+  - Phrase: Pozdravi svojo sestro.
+    Translation: Greet your sister.
+  - Phrase: Kako ti je ime?
+    Translation: What is your name?
+  - Phrase: Moje ime je Bartek.
+    Translation: My name is Bartek.
+  - Phrase: Hvala za pogovor.
+    Translation: Thank you for the conversation.
+  - Phrase: Tako je.
+    Translation: That is so.
+  - Phrase: Ni tako.
+    Translation: Not so.
+  - Phrase: Mogoče.
+    Translation: Maybe.
+  - Phrase: Ni možno.
+    Translation: Not possible.
+  - Phrase: Škoda!
+    Translation: What a pity!
+  - Phrase: Dobro!
+    Translation: Good!
+  - Phrase: Ni dobro.
+    Translation: Not good.
+  - Phrase: To je bolje.
+    Translation: This is better.
+  - Phrase: To ni bolje.
+    Translation: This is not better.
+  - Phrase: Da, lahko.
+    Translation: Yes, it is possible.
+  - Phrase: Ne, ni možno.
+    Translation: No, it is not possible.
+  - Phrase: Je to možno?
+    Translation: Is this possible?
+  - Phrase: Kaj to pomeni?
+    Translation: What does this mean?
+  - Phrase: Tudi jaz.
+    Translation: Me too.
+  - Phrase: Z Bogom!
+    Translation: Go with God!
+  - Phrase: Ne vem.
+    Translation: I don't know.
+  - Phrase: Mogoče.
+    Translation: Perhaps.
+  - Phrase: Ponovi. Nisem razumel.
+    Translation: Repeat. I didn't understand.
+  - Phrase: Si pripravljen?
+    Translation: Are you ready?
+  - Phrase: Daj!
+    Translation: Let's go!
+
+Mini-dictionary:
+  Slovenian:
+    - bartek: undefined
+    - bogom: undefined
+    - bolje: undefined
+    - da: undefined
+    - daj: undefined
+    - dan: undefined
+    - dober: undefined
+    - dobro: undefined
+    - dobrodošli: undefined
+    - hvala: undefined
+    - ime: undefined
+    - in: undefined
+    - izgini: undefined
+    - jaz: undefined
+    - je: undefined
+    - jutro: undefined
+    - kaj: undefined
+    - kako: undefined
+    - lahko: undefined
+    - mogoče: undefined
+    - moje: undefined
+    - možno: undefined
+    - na: undefined
+    - najlepša: undefined
+    - ne: undefined
+    - ni: undefined
+    - nisem: undefined
+    - noč: undefined
+    - pardon: undefined
+    - pogovor: undefined
+    - pomeni: undefined
+    - ponovi: undefined
+    - pozdrav: undefined
+    - pozdravi: undefined
+    - pripravljen: undefined
+    - razumel: undefined
+    - razumem: undefined
+    - sem: undefined
+    - sestro: undefined
+    - si: undefined
+    - svojo: undefined
+    - tako: undefined
+    - ti: undefined
+    - to: undefined
+    - tudi: undefined
+    - vem: undefined
+    - večer: undefined
+    - z: undefined
+    - za: undefined
+    - zdrav: undefined
+    - zdravje: undefined
+    - škoda: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - bartek: undefined
+    - better: undefined
+    - conversation: undefined
+    - day: undefined
+    - didn't: undefined
+    - does: undefined
+    - don't: undefined
+    - evening: undefined
+    - excuse: undefined
+    - for: undefined
+    - go: undefined
+    - god: undefined
+    - good: undefined
+    - greet: undefined
+    - greeting: undefined
+    - greetings: undefined
+    - health: undefined
+    - healthy: undefined
+    - healthy/hello: undefined
+    - hello: undefined
+    - how: undefined
+    - i: undefined
+    - is: undefined
+    - it: undefined
+    - know: undefined
+    - let's: undefined
+    - maybe: undefined
+    - maybe/can: undefined
+    - me: undefined
+    - mean: undefined
+    - morning: undefined
+    - much: undefined
+    - my: undefined
+    - name: undefined
+    - night: undefined
+    - no: undefined
+    - not: undefined
+    - pardon: undefined
+    - perhaps: undefined
+    - pity: undefined
+    - possible: undefined
+    - ready: undefined
+    - repeat: undefined
+    - sister: undefined
+    - so: undefined
+    - thank: undefined
+    - thanks: undefined
+    - that: undefined
+    - the: undefined
+    - this: undefined
+    - to: undefined
+    - too: undefined
+    - understand: undefined
+    - very: undefined
+    - welcome: undefined
+    - well: undefined
+    - what: undefined
+    - with: undefined
+    - yes: undefined
+    - you: undefined
+    - your: undefined

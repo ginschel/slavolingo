@@ -1,0 +1,185 @@
+Skill:
+  Name: Buying in the Shop
+  Id: 24
+
+New words:
+  - Word: купити
+    Translation: to buy
+  - Word: продавати
+    Translation: to sell
+  - Word: цена
+    Translation: price
+  - Word: одеж
+    Translation: clothes
+  - Word: торба
+    Translation: bag
+  - Word: кус
+    Translation: piece
+  - Word: купец
+    Translation: customer
+  - Word: повраток
+    Translation: return
+  - Word: чек
+    Translation: receipt
+  - Word: питати
+    Translation: to ask
+  - Word: свежи
+    Translation: fresh
+
+Phrases:
+  - Phrase: Хчем купити хлеб.
+    Translation: I want to buy bread.
+  - Phrase: Он продаје месо.
+    Translation: He sells meat.
+  - Phrase: Цена јест висока.
+    Translation: The price is high.
+  - Phrase: Одеж јест нова.
+    Translation: The clothes are new.
+  - Phrase: Продавец јест уморјени ту дањ.
+    Translation: The seller is tired today.
+  - Phrase: Торба јест тежка.
+    Translation: The bag is heavy.
+  - Phrase: Кус сира јест добри.
+    Translation: A piece of cheese is good.
+  - Phrase: Купец пита за снижку.
+    Translation: The customer asks for a discount.
+  - Phrase: Повратка нема. То зли магазин.
+    Translation: No returns. This is a bad shop.
+  - Phrase: Дам чек продавцу.
+    Translation: I give the receipt to the seller.
+  - Phrase: Она купује книгу.
+    Translation: She is buying a book.
+  - Phrase: Он продаје млеко.
+    Translation: He sells milk.
+  - Phrase: Цена масла јест добра.
+    Translation: The price of butter is good.
+  - Phrase: Колбаса јест свежа.
+    Translation: The sausage is fresh.
+  - Phrase: Продавец да кус колбаси.
+    Translation: The seller gives a piece of sausage.
+  - Phrase: Торба стоји на подлоге.
+    Translation: The bag is on the floor.
+  - Phrase: Кус хлеба јест мали.
+    Translation: The piece of bread is small.
+  - Phrase: Купец пита о цену.
+    Translation: The customer asks about the price.
+  - Phrase: Повраток јест до седам днев.
+    Translation: Return is within seven days.
+  - Phrase: Чек јест потписани.
+    Translation: The receipt is signed.
+
+Mini-dictionary:
+  Serbian:
+    - висока: undefined
+    - да: undefined
+    - дам: undefined
+    - дањ: undefined
+    - днев: undefined
+    - до: undefined
+    - добра: undefined
+    - добри: undefined
+    - за: undefined
+    - зли: undefined
+    - книгу: undefined
+    - колбаса: undefined
+    - колбаси: undefined
+    - купец: undefined
+    - купити: undefined
+    - купује: undefined
+    - кус: undefined
+    - магазин: undefined
+    - мали: undefined
+    - масла: undefined
+    - месо: undefined
+    - млеко: undefined
+    - на: undefined
+    - нема: undefined
+    - нова: undefined
+    - о: undefined
+    - одеж: undefined
+    - он: undefined
+    - она: undefined
+    - пита: undefined
+    - питати: undefined
+    - повратка: undefined
+    - повраток: undefined
+    - подлоге: undefined
+    - потписани: undefined
+    - продавати: undefined
+    - продавец: undefined
+    - продавцу: undefined
+    - продаје: undefined
+    - свежа: undefined
+    - свежи: undefined
+    - седам: undefined
+    - сира: undefined
+    - снижку: undefined
+    - стоји: undefined
+    - тежка: undefined
+    - то: undefined
+    - торба: undefined
+    - ту: undefined
+    - уморјени: undefined
+    - хлеб: undefined
+    - хлеба: undefined
+    - хчем: undefined
+    - цена: undefined
+    - цену: undefined
+    - чек: undefined
+    - јест: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - are: undefined
+    - ask: undefined
+    - asks: undefined
+    - bad: undefined
+    - bag: undefined
+    - book: undefined
+    - bread: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - cheese: undefined
+    - clothes: undefined
+    - customer: undefined
+    - days: undefined
+    - discount: undefined
+    - floor: undefined
+    - for: undefined
+    - fresh: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - i: undefined
+    - is: undefined
+    - meat: undefined
+    - milk: undefined
+    - new: undefined
+    - no: undefined
+    - of: undefined
+    - on: undefined
+    - piece: undefined
+    - price: undefined
+    - receipt: undefined
+    - return: undefined
+    - returns: undefined
+    - sausage: undefined
+    - sell: undefined
+    - seller: undefined
+    - sells: undefined
+    - seven: undefined
+    - she: undefined
+    - shop: undefined
+    - signed: undefined
+    - small: undefined
+    - the: undefined
+    - this: undefined
+    - tired: undefined
+    - to: undefined
+    - today: undefined
+    - want: undefined
+    - within: undefined

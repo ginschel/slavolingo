@@ -1,0 +1,187 @@
+Skill:
+  Name: Shapes
+  Id: 10
+
+New words:
+  - Word: krug
+    Translation: circle
+  - Word: kwadrat
+    Translation: square
+  - Word: styrjo
+    Translation: four
+  - Word: dłujki
+    Translation: long
+  - Word: tśi
+    Translation: three
+  - Word: tśirožk
+    Translation: triangle
+  - Word: stojaś (stoja)
+    Translation: to stand
+  - Word: rowny
+    Translation: straight
+  - Word: forma
+    Translation: shape
+  - Word: linija
+    Translation: line
+  - Word: dypk
+    Translation: point
+  - Word: wobrys
+    Translation: outline
+  - Word: bok
+    Translation: side
+  - Word: figura
+    Translation: figure
+  - Word: forma
+    Translation: shape
+
+Phrases:
+  - Phrase: To jo krug.
+    Translation: This is a circle.
+  - Phrase: Kwadrat ma styrjo boki.
+    Translation: A square has four sides.
+  - Phrase: Tśirožk ma tśi boki.
+    Translation: A triangle has three sides.
+  - Phrase: Ta linija jo dłujka.
+    Translation: This line is long.
+  - Phrase: To jo mója forma.
+    Translation: This is my shape.
+  - Phrase: Linija jo rowna.
+    Translation: The line is straight.
+  - Phrase: Dypk to mały punkt.
+    Translation: A point is a small dot.
+  - Phrase: Wiźimy wobrys kwadrata.
+    Translation: We see the outline of a square.
+  - Phrase: Figura jo kompleksna.
+    Translation: The figure is complex.
+  - Phrase: To jo prosty forma.
+    Translation: This is a simple shape.
+  - Phrase: Ja mólojom wjeliki krug.
+    Translation: I am drawing a big circle.
+  - Phrase: Kwadrat a krug su zakładne formy.
+    Translation: Square and circle are basic shapes.
+  - Phrase: Linija źe pśez bok.
+    Translation: The line goes through the side.
+  - Phrase: Dypk ležy na liniji.
+    Translation: The point lies on the line.
+  - Phrase: Wóna zna kuždy wobrys Engelskeje.
+    Translation: She knows every outline of England.
+  - Phrase: To jo prosty tśirožk.
+    Translation: This is a simple triangle.
+  - Phrase: Wón mólojo figury na papjerje.
+    Translation: He is drawing figures on paper.
+  - Phrase: Forma jo zajmna.
+    Translation: The shape is interesting.
+  - Phrase: Blido ma formu kwadrata.
+    Translation: The table has the shape of a square.
+  - Phrase: Krasna figura stoja na blidźe.
+    Translation: A beautiful figure is standing on the table.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: undefined
+    - blido: undefined
+    - blidźe: undefined
+    - bok: undefined
+    - boki: undefined
+    - dypk: undefined
+    - dłujka: undefined
+    - dłujki: undefined
+    - engelskeje: undefined
+    - figura: undefined
+    - figury: undefined
+    - forma: undefined
+    - formu: undefined
+    - formy: undefined
+    - ja: undefined
+    - jo: undefined
+    - kompleksna: undefined
+    - krasna: undefined
+    - krug: undefined
+    - kuždy: undefined
+    - kwadrat: undefined
+    - kwadrata: undefined
+    - ležy: undefined
+    - linija: undefined
+    - liniji: undefined
+    - ma: undefined
+    - mały: undefined
+    - mója: undefined
+    - mólojo: undefined
+    - mólojom: undefined
+    - na: undefined
+    - papjerje: undefined
+    - prosty: undefined
+    - punkt: undefined
+    - pśez: undefined
+    - rowna: undefined
+    - rowny: undefined
+    - stoja: undefined
+    - stojaś: undefined
+    - styrjo: undefined
+    - su: undefined
+    - ta: undefined
+    - to: undefined
+    - tśi: undefined
+    - tśirožk: undefined
+    - wiźimy: undefined
+    - wjeliki: undefined
+    - wobrys: undefined
+    - wón: undefined
+    - wóna: undefined
+    - zajmna: undefined
+    - zakładne: undefined
+    - zna: undefined
+    - źe: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - basic: undefined
+    - beautiful: undefined
+    - big: undefined
+    - circle: undefined
+    - complex: undefined
+    - dot: undefined
+    - drawing: undefined
+    - england: undefined
+    - every: undefined
+    - figure: undefined
+    - figures: undefined
+    - four: undefined
+    - goes: undefined
+    - has: undefined
+    - he: undefined
+    - i: undefined
+    - interesting: undefined
+    - is: undefined
+    - knows: undefined
+    - lies: undefined
+    - line: undefined
+    - long: undefined
+    - my: undefined
+    - of: undefined
+    - on: undefined
+    - outline: undefined
+    - paper: undefined
+    - point: undefined
+    - see: undefined
+    - shape: undefined
+    - shapes: undefined
+    - she: undefined
+    - side: undefined
+    - sides: undefined
+    - simple: undefined
+    - small: undefined
+    - square: undefined
+    - stand: undefined
+    - standing: undefined
+    - straight: undefined
+    - table: undefined
+    - the: undefined
+    - this: undefined
+    - three: undefined
+    - through: undefined
+    - to: undefined
+    - triangle: undefined
+    - we: undefined

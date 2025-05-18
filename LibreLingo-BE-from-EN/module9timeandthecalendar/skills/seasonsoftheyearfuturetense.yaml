@@ -1,0 +1,201 @@
+Skill:
+  Name: Seasons of the year (future tense)
+  Id: 33
+
+New words:
+  - Word: лета
+    Translation: summer
+  - Word: восень
+    Translation: autumn
+  - Word: зіма
+    Translation: winter
+  - Word: вясна
+    Translation: spring
+  - Word: сезон
+    Translation: season
+  - Word: быць
+    Translation: to be
+  - Word: буду
+    Translation: I will be
+  - Word: будзеш
+    Translation: you will be
+  - Word: будзе
+    Translation: he/she/it will be
+  - Word: будзем
+    Translation: we will be
+  - Word: будзеце
+    Translation: you will be
+  - Word: будуць
+    Translation: they will be
+
+Phrases:
+  - Phrase: Улетку будзе цёпла.
+    Translation: In the summer it will be warm.
+  - Phrase: Увосень будзем бачыць падаючае лісце.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: Узімку будзеце гуляць са снегам.
+    Translation: In the winter you will play with snow.
+  - Phrase: Вясна прынясе кветкі.
+    Translation: Spring will bring flowers.
+  - Phrase: Сезон будзе змяняцца чатыры разы.
+    Translation: The season will change four times.
+  - Phrase: Узімку будзе падаць снег.
+    Translation: In the winter it will snow.
+  - Phrase: Вясной растуць кветкі.
+    Translation: In spring, flowers grow.
+  - Phrase: Улетку ёсць многа сонца.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: Увосень будзеш шмат цярпець праз дождж.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Паветра ўзімку будзе халоднае.
+    Translation: The air in winter will be cold.
+  - Phrase: Лета ёсць сезонам адпачынку каля возера.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Восень мае шмат колераў.
+    Translation: Autumn has many colors.
+  - Phrase: Зіма не ёсць добрая для спартсменаў.
+    Translation: Winter is not good for sports.
+  - Phrase: Вясна ёсць нудная.
+    Translation: Spring is boring.
+  - Phrase: Сезоны змяняюцца чатыры разы на год.
+    Translation: The seasons change four times a year.
+  - Phrase: Хутка заканчваецца лета.
+    Translation: Summer will soon end.
+  - Phrase: Увосень толькі падае дождж.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Зіма мае шмат снегу.
+    Translation: Winter has a lot of snow.
+  - Phrase: Яны будуць бачыць зялёны краявід.
+    Translation: They will see a green landscape.
+  - Phrase: Сонца будзе свяціць моцна ўлетку.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Belarusian:
+    - адпачынку: undefined
+    - бачыць: undefined
+    - будзе: undefined
+    - будзем: undefined
+    - будзеце: undefined
+    - будзеш: undefined
+    - буду: undefined
+    - будуць: undefined
+    - быць: undefined
+    - возера: undefined
+    - восень: undefined
+    - вясна: undefined
+    - вясной: undefined
+    - год: undefined
+    - гуляць: undefined
+    - для: undefined
+    - добрая: undefined
+    - дождж: undefined
+    - заканчваецца: undefined
+    - змяняцца: undefined
+    - змяняюцца: undefined
+    - зялёны: undefined
+    - зіма: undefined
+    - каля: undefined
+    - кветкі: undefined
+    - колераў: undefined
+    - краявід: undefined
+    - лета: undefined
+    - лісце: undefined
+    - мае: undefined
+    - многа: undefined
+    - моцна: undefined
+    - на: undefined
+    - не: undefined
+    - нудная: undefined
+    - паветра: undefined
+    - падае: undefined
+    - падаць: undefined
+    - падаючае: undefined
+    - праз: undefined
+    - прынясе: undefined
+    - разы: undefined
+    - растуць: undefined
+    - са: undefined
+    - свяціць: undefined
+    - сезон: undefined
+    - сезонам: undefined
+    - сезоны: undefined
+    - снег: undefined
+    - снегам: undefined
+    - снегу: undefined
+    - сонца: undefined
+    - спартсменаў: undefined
+    - толькі: undefined
+    - увосень: undefined
+    - узімку: undefined
+    - улетку: undefined
+    - халоднае: undefined
+    - хутка: undefined
+    - цярпець: undefined
+    - цёпла: undefined
+    - чатыры: undefined
+    - шмат: undefined
+    - яны: undefined
+    - ёсць: undefined
+    - ўзімку: undefined
+    - ўлетку: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - autumn: undefined
+    - be: undefined
+    - because: undefined
+    - boring: undefined
+    - bring: undefined
+    - by: undefined
+    - change: undefined
+    - cold: undefined
+    - colors: undefined
+    - end: undefined
+    - falling: undefined
+    - flowers: undefined
+    - for: undefined
+    - four: undefined
+    - good: undefined
+    - green: undefined
+    - grow: undefined
+    - has: undefined
+    - he/she/it: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lake: undefined
+    - landscape: undefined
+    - leaves: undefined
+    - lot: undefined
+    - many: undefined
+    - not: undefined
+    - of: undefined
+    - play: undefined
+    - rain: undefined
+    - rest: undefined
+    - season: undefined
+    - seasons: undefined
+    - see: undefined
+    - shine: undefined
+    - snow: undefined
+    - soon: undefined
+    - sports: undefined
+    - spring: undefined
+    - strongly: undefined
+    - suffer: undefined
+    - summer: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - they: undefined
+    - times: undefined
+    - to: undefined
+    - warm: undefined
+    - we: undefined
+    - will: undefined
+    - winter: undefined
+    - with: undefined
+    - year: undefined
+    - you: undefined

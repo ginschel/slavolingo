@@ -1,0 +1,188 @@
+Skill:
+  Name: Animals (Dative case)
+  Id: 14
+
+New words:
+  - Word: кот
+    Translation: cat
+  - Word: сабака
+    Translation: dog
+  - Word: птушка
+    Translation: bird
+  - Word: дапамагаць
+    Translation: to help
+  - Word: казаць/паказваць (кажа/паказвае)
+    Translation: to show
+  - Word: конь
+    Translation: horse
+  - Word: даць (дае)
+    Translation: to give
+  - Word: рыба
+    Translation: fish
+  - Word: жаба
+    Translation: frog
+  - Word: мядзведзь
+    Translation: bear
+  - Word: воўк
+    Translation: wolf
+  - Word: мыш
+    Translation: mouse
+  - Word: звер
+    Translation: animal
+
+Phrases:
+  - Phrase: Я даю кату рыбу.
+    Translation: I give the cat a fish.
+  - Phrase: Яна кажа сабаку.
+    Translation: She says to the dog.
+  - Phrase: Ён дапамагае птушцы.
+    Translation: He helps the bird.
+  - Phrase: Даем каню ваду.
+    Translation: We give the horse water.
+  - Phrase: Яна нясе мышы сыр.
+    Translation: She carries cheese to the mouse.
+  - Phrase: Ён дапамагае мядзведзю.
+    Translation: He helps the bear.
+  - Phrase: Мы даем жабе хлеб.
+    Translation: We give bread to the frog.
+  - Phrase: Яны даюць зверу лапу.
+    Translation: They give their hand to the animal.
+  - Phrase: Дапамагаем ваўку.
+    Translation: We help the wolf.
+  - Phrase: Ці дасі ты мне рыбу?
+    Translation: Will you give me a fish?
+  - Phrase: Я дам кату імя.
+    Translation: I give the cat a name.
+  - Phrase: Ён дасць мышы сыр.
+    Translation: On da myši syr.
+  - Phrase: Мы дапамагаем птушкам.
+    Translation: We help the birds.
+  - Phrase: Даем жабам ваду.
+    Translation: We give the frog water.
+  - Phrase: Яны нясуць мядзведзям ежу.
+    Translation: They are carrying food to the bear.
+  - Phrase: Яна дасць сабаку добрае імя.
+    Translation: She gives the dog a good name.
+  - Phrase: Вы дасце каню.
+    Translation: You will give the horse.
+  - Phrase: Я дам рыбе ваду.
+    Translation: I give the fish water.
+  - Phrase: Яна дапамагла яму са зверам.
+    Translation: She helped him with the animal.
+  - Phrase: Ці дасі сабаку смачную костку?
+    Translation: Will you give the dog a tasty bone?
+
+Mini-dictionary:
+  Belarusian:
+    - ваду: undefined
+    - ваўку: undefined
+    - воўк: undefined
+    - вы: undefined
+    - дае: undefined
+    - даем: undefined
+    - дам: undefined
+    - дапамагае: undefined
+    - дапамагаем: undefined
+    - дапамагаць: undefined
+    - дапамагла: undefined
+    - дасце: undefined
+    - дасць: undefined
+    - дасі: undefined
+    - даць: undefined
+    - даю: undefined
+    - даюць: undefined
+    - добрае: undefined
+    - ежу: undefined
+    - жаба: undefined
+    - жабам: undefined
+    - жабе: undefined
+    - звер: undefined
+    - зверам: undefined
+    - зверу: undefined
+    - кажа: undefined
+    - кажа/паказвае: undefined
+    - казаць/паказваць: undefined
+    - каню: undefined
+    - кату: undefined
+    - конь: undefined
+    - костку: undefined
+    - кот: undefined
+    - лапу: undefined
+    - мне: undefined
+    - мы: undefined
+    - мыш: undefined
+    - мышы: undefined
+    - мядзведзь: undefined
+    - мядзведзю: undefined
+    - мядзведзям: undefined
+    - нясе: undefined
+    - нясуць: undefined
+    - птушка: undefined
+    - птушкам: undefined
+    - птушцы: undefined
+    - рыба: undefined
+    - рыбе: undefined
+    - рыбу: undefined
+    - са: undefined
+    - сабака: undefined
+    - сабаку: undefined
+    - смачную: undefined
+    - сыр: undefined
+    - ты: undefined
+    - хлеб: undefined
+    - ці: undefined
+    - я: undefined
+    - яму: undefined
+    - яна: undefined
+    - яны: undefined
+    - ён: undefined
+    - імя: undefined
+  English:
+    - a: undefined
+    - animal: undefined
+    - are: undefined
+    - bear: undefined
+    - bird: undefined
+    - birds: undefined
+    - bone: undefined
+    - bread: undefined
+    - carries: undefined
+    - carrying: undefined
+    - cat: undefined
+    - cheese: undefined
+    - da: undefined
+    - dog: undefined
+    - fish: undefined
+    - food: undefined
+    - frog: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - hand: undefined
+    - he: undefined
+    - help: undefined
+    - helped: undefined
+    - helps: undefined
+    - him: undefined
+    - horse: undefined
+    - i: undefined
+    - me: undefined
+    - mouse: undefined
+    - myši: undefined
+    - name: undefined
+    - on: undefined
+    - says: undefined
+    - she: undefined
+    - show: undefined
+    - syr: undefined
+    - tasty: undefined
+    - the: undefined
+    - their: undefined
+    - they: undefined
+    - to: undefined
+    - water: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined
+    - wolf: undefined
+    - you: undefined

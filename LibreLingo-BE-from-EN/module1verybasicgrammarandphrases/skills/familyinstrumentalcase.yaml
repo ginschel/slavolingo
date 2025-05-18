@@ -1,0 +1,200 @@
+Skill:
+  Name: Family (Instrumental case)
+  Id: 3
+
+New words:
+  - Word: брат
+    Translation: brother
+  - Word: дзед
+    Translation: grandfather
+  - Word: бабуля
+    Translation: grandmother
+  - Word: цётка
+    Translation: aunt
+  - Word: унук
+    Translation: grandson
+  - Word: унучка
+    Translation: granddaughter
+  - Word: маці
+    Translation: mother
+  - Word: бацька
+    Translation: father
+  - Word: сям'я
+    Translation: family
+  - Word: сын
+    Translation: son
+  - Word: дачка
+    Translation: daughter
+  - Word: дзядзька (па бацьку)
+    Translation: uncle
+  - Word: гаворыць
+    Translation: speaks
+  - Word: ідзе (пешшу)
+    Translation: goes
+  - Word: ідзем (пешшу)
+    Translation: we go
+  - Word: жыве
+    Translation: lives
+
+Phrases:
+  - Phrase: Ён ёсць маім братам.
+    Translation: He is my brother.
+  - Phrase: Ён ёсць тваім бацькам
+    Translation: He is your father
+  - Phrase: Яна ідзе з маці.
+    Translation: She is going with her mother.
+  - Phrase: Ён гаворыць з дзедам.
+    Translation: He is talking with his grandfather.
+  - Phrase: Мы гуляем з нашымі дзецьмі.
+    Translation: We are playing with our children.
+  - Phrase: Яны едуць з цёткай.
+    Translation: They are going with their aunt.
+  - Phrase: Гавару з тваёй сястрой.
+    Translation: I am talking with your sister.
+  - Phrase: Ідзем у парк з сям'ёй.
+    Translation: We are going to the park with the family.
+  - Phrase: Ён ёсць з унукам.
+    Translation: He is with his grandson.
+  - Phrase: Яна гуляе з унучкай.
+    Translation: She is playing with her granddaughter.
+  - Phrase: Піць чай з маці ёсць лепш.
+    Translation: Drinking tea with mother is better.
+  - Phrase: З кім ты ідзеш?
+    Translation: Who are you going with?
+  - Phrase: Яна гаворыць з маёй бабуляй.
+    Translation: She is talking with my grandmother.
+  - Phrase: Гэта ёсць домам з сям'ёй.
+    Translation: This is a house with a family.
+  - Phrase: Ён жыве з сынам.
+    Translation: He lives with his son.
+  - Phrase: Ідзем на прагулку з братамі.
+    Translation: We are going for a walk with brothers.
+  - Phrase: Ідзем з дачкой.
+    Translation: We are going with our daughter.
+  - Phrase: Яны тут ёсць з дзедам.
+    Translation: They are here with their grandfather.
+  - Phrase: Ён жыве з цёткай і з дзядзькам.
+    Translation: He lives with his aunt and uncle.
+  - Phrase: Яна гаворыць з унукам часта.
+    Translation: She talks with her grandson often.
+
+Mini-dictionary:
+  Belarusian:
+    - бабуля: undefined
+    - бабуляй: undefined
+    - бацька: undefined
+    - бацькам: undefined
+    - бацьку: undefined
+    - брат: undefined
+    - братам: undefined
+    - братамі: undefined
+    - гавару: undefined
+    - гаворыць: undefined
+    - гуляе: undefined
+    - гуляем: undefined
+    - гэта: undefined
+    - дачка: undefined
+    - дачкой: undefined
+    - дзед: undefined
+    - дзедам: undefined
+    - дзецьмі: undefined
+    - дзядзька: undefined
+    - дзядзькам: undefined
+    - домам: undefined
+    - едуць: undefined
+    - жыве: undefined
+    - з: undefined
+    - кім: undefined
+    - лепш: undefined
+    - маці: undefined
+    - маёй: undefined
+    - маім: undefined
+    - мы: undefined
+    - на: undefined
+    - нашымі: undefined
+    - па: undefined
+    - парк: undefined
+    - пешшу: undefined
+    - прагулку: undefined
+    - піць: undefined
+    - сын: undefined
+    - сынам: undefined
+    - сям'я: undefined
+    - сям'ёй: undefined
+    - сястрой: undefined
+    - тваёй: undefined
+    - тваім: undefined
+    - тут: undefined
+    - ты: undefined
+    - у: undefined
+    - унук: undefined
+    - унукам: undefined
+    - унучка: undefined
+    - унучкай: undefined
+    - цётка: undefined
+    - цёткай: undefined
+    - чай: undefined
+    - часта: undefined
+    - яна: undefined
+    - яны: undefined
+    - ён: undefined
+    - ёсць: undefined
+    - і: undefined
+    - ідзе: undefined
+    - ідзем: undefined
+    - ідзеш: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - aunt: undefined
+    - better: undefined
+    - brother: undefined
+    - brothers: undefined
+    - children: undefined
+    - daughter: undefined
+    - drinking: undefined
+    - family: undefined
+    - father: undefined
+    - for: undefined
+    - go: undefined
+    - goes: undefined
+    - going: undefined
+    - granddaughter: undefined
+    - grandfather: undefined
+    - grandmother: undefined
+    - grandson: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - his: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - lives: undefined
+    - mother: undefined
+    - my: undefined
+    - often: undefined
+    - our: undefined
+    - park: undefined
+    - playing: undefined
+    - she: undefined
+    - sister: undefined
+    - son: undefined
+    - speaks: undefined
+    - talking: undefined
+    - talks: undefined
+    - tea: undefined
+    - the: undefined
+    - their: undefined
+    - they: undefined
+    - this: undefined
+    - to: undefined
+    - uncle: undefined
+    - walk: undefined
+    - we: undefined
+    - who: undefined
+    - with: undefined
+    - you: undefined
+    - your: undefined

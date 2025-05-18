@@ -1,0 +1,205 @@
+Skill:
+  Name: Cardinal points/directions
+  Id: 18
+
+New words:
+  - Word: nord
+    Translation: north
+  - Word: sud
+    Translation: south
+  - Word: zapad
+    Translation: west
+  - Word: pódzajtšo
+    Translation: east
+  - Word: nordowy
+    Translation: northern
+  - Word: sudowy
+    Translation: southern
+  - Word: zapadny
+    Translation: western
+  - Word: pódzajtšny
+    Translation: eastern
+  - Word: kompas
+    Translation: compass
+  - Word: bok
+    Translation: side
+  - Word: źo
+    Translation: where
+  - Word: wustaś (wustajo)
+    Translation: to rise
+  - Word: pokazaś
+    Translation: to show
+  - Word: karta
+    Translation: map
+  - Word: puśowaś
+    Translation: to travel
+  - Word: rědne
+    Translation: right
+  - Word: lěwe
+    Translation: left
+  - Word: proste
+    Translation: straight
+
+Phrases:
+  - Phrase: Nord jo zymny.
+    Translation: The north is cold.
+  - Phrase: Sud jo śopły.
+    Translation: The south is warm.
+  - Phrase: Słyńco wustajo na pódzajśu.
+    Translation: The sun rises in the east.
+  - Phrase: Wóno zapadujo na zapadźe.
+    Translation: It sets in the west.
+  - Phrase: To jo nordowy bok.
+    Translation: This is the northern side.
+  - Phrase: Žyjomy na suźe.
+    Translation: We live in the south.
+  - Phrase: Kompas pokazujo nord.
+    Translation: The compass shows north.
+  - Phrase: Pódzajtšo jo tam.
+    Translation: The east is there.
+  - Phrase: Zapadny wětš dmujo.
+    Translation: A western wind is blowing.
+  - Phrase: Źomy k jugo-zapad.
+    Translation: We are going to the southwest.
+  - Phrase: To jo nordowo-zapadny region.
+    Translation: This is the northwestern region.
+  - Phrase: Bok na karśe pokazujo zapad.
+    Translation: The side on the map shows west.
+  - Phrase: Jugo-pódzajtšo jo tam, źo grějo słyńco.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Źomy do sudowego boka.
+    Translation: We are going to the southern side.
+  - Phrase: Wón puśujo na pódzajtšo.
+    Translation: He travels eastward.
+  - Phrase: Na nordźe jo sněg.
+    Translation: In the north there is snow.
+  - Phrase: Sudowe kraje su śopłe.
+    Translation: The southern regions are warm.
+  - Phrase: Zapad jo lěwe na karśe.
+    Translation: West is left on the map.
+  - Phrase: Pódzajtšna muzika jo zajmna.
+    Translation: Eastern music is interesting.
+  - Phrase: Glědamy k nord.
+    Translation: We are looking to the north.
+  - Phrase: Źomy nětśi rědne a pótom proste.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: undefined
+    - bok: undefined
+    - boka: undefined
+    - dmujo: undefined
+    - do: undefined
+    - glědamy: undefined
+    - grějo: undefined
+    - jo: undefined
+    - jugo-pódzajtšo: undefined
+    - jugo-zapad: undefined
+    - k: undefined
+    - karta: undefined
+    - karśe: undefined
+    - kompas: undefined
+    - kraje: undefined
+    - lěwe: undefined
+    - muzika: undefined
+    - na: undefined
+    - nord: undefined
+    - nordowo-zapadny: undefined
+    - nordowy: undefined
+    - nordźe: undefined
+    - nětśi: undefined
+    - pokazaś: undefined
+    - pokazujo: undefined
+    - proste: undefined
+    - puśowaś: undefined
+    - puśujo: undefined
+    - pódzajtšna: undefined
+    - pódzajtšny: undefined
+    - pódzajtšo: undefined
+    - pódzajśu: undefined
+    - pótom: undefined
+    - region: undefined
+    - rědne: undefined
+    - sněg: undefined
+    - su: undefined
+    - sud: undefined
+    - sudowe: undefined
+    - sudowego: undefined
+    - sudowy: undefined
+    - suźe: undefined
+    - słyńco: undefined
+    - tam: undefined
+    - to: undefined
+    - wustajo: undefined
+    - wustaś: undefined
+    - wón: undefined
+    - wóno: undefined
+    - wětš: undefined
+    - zajmna: undefined
+    - zapad: undefined
+    - zapadny: undefined
+    - zapadujo: undefined
+    - zapadźe: undefined
+    - zymny: undefined
+    - śopłe: undefined
+    - śopły: undefined
+    - źo: undefined
+    - źomy: undefined
+    - žyjomy: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - blowing: undefined
+    - cold: undefined
+    - compass: undefined
+    - east: undefined
+    - eastern: undefined
+    - eastward: undefined
+    - going: undefined
+    - he: undefined
+    - in: undefined
+    - interesting: undefined
+    - is: undefined
+    - it: undefined
+    - left: undefined
+    - live: undefined
+    - looking: undefined
+    - map: undefined
+    - music: undefined
+    - north: undefined
+    - northern: undefined
+    - northwestern: undefined
+    - now: undefined
+    - on: undefined
+    - region: undefined
+    - regions: undefined
+    - right: undefined
+    - rise: undefined
+    - rises: undefined
+    - sets: undefined
+    - show: undefined
+    - shows: undefined
+    - side: undefined
+    - snow: undefined
+    - south: undefined
+    - southeast: undefined
+    - southern: undefined
+    - southwest: undefined
+    - straight: undefined
+    - sun: undefined
+    - the: undefined
+    - then: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - travel: undefined
+    - travels: undefined
+    - warm: undefined
+    - warms: undefined
+    - we: undefined
+    - west: undefined
+    - western: undefined
+    - where: undefined
+    - wind: undefined

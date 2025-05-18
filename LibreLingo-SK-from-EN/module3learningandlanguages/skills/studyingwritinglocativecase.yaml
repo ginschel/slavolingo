@@ -1,0 +1,190 @@
+Skill:
+  Name: Studying & Writing (Locative case)
+  Id: 9
+
+New words:
+  - Word: škola
+    Translation: school
+  - Word: učiteľka
+    Translation: female teacher
+  - Word: učiteľ
+    Translation: male teacher
+  - Word: zápis
+    Translation: note
+  - Word: žiak
+    Translation: student
+  - Word: kniha
+    Translation: book
+  - Word: úloha
+    Translation: assignment
+  - Word: stôl
+    Translation: table
+  - Word: tuš
+    Translation: ink
+  - Word: papier
+    Translation: paper
+  - Word: predmet
+    Translation: subject
+  - Word: metóda
+    Translation: method
+  - Word: pero
+    Translation: pen
+  - Word: zápisník
+    Translation: notebook
+  - Word: na
+    Translation: on
+
+Phrases:
+  - Phrase: To je moja škola.
+    Translation: This is my school.
+  - Phrase: Ona je učiteľkou.
+    Translation: She is a teacher.
+  - Phrase: On je žiakom.
+    Translation: He is a student.
+  - Phrase: Kniha je na stole.
+    Translation: The book is on the table.
+  - Phrase: Ja mám úlohu.
+    Translation: I have an assignment.
+  - Phrase: Tuš je ešte mokrý.
+    Translation: The ink is still wet.
+  - Phrase: Papier je biely.
+    Translation: The paper is white.
+  - Phrase: Ten predmet je matematika.
+    Translation: This subject is mathematics.
+  - Phrase: Tá metóda je dobrá.
+    Translation: This method is good.
+  - Phrase: Žiak má knihu.
+    Translation: The student has a book.
+  - Phrase: To je môj stôl.
+    Translation: This is my desk.
+  - Phrase: Môj zápisník je plný zápisov s perom
+    Translation: My notebook is full of notes with a pen
+  - Phrase: Píšem na papieri perom.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Škola je v centre.
+    Translation: The school is in the center.
+  - Phrase: My píšeme úlohu.
+    Translation: We are writing the assignment.
+  - Phrase: Učiteľ hovorí so študentmi.
+    Translation: The teacher is talking with students.
+  - Phrase: Ona má veľa úloh.
+    Translation: She has many assignments.
+  - Phrase: Ja rýchlo píšem s týmto perom.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Predmet je zložitý.
+    Translation: The subject is complex.
+  - Phrase: Kniha je nová.
+    Translation: The book is new.
+  - Phrase: On je mojím učiteľom.
+    Translation: He is my teacher.
+
+Mini-dictionary:
+  Slovak:
+    - biely: undefined
+    - centre: undefined
+    - dobrá: undefined
+    - ešte: undefined
+    - hovorí: undefined
+    - ja: undefined
+    - je: undefined
+    - kniha: undefined
+    - knihu: undefined
+    - matematika: undefined
+    - metóda: undefined
+    - moja: undefined
+    - mojím: undefined
+    - mokrý: undefined
+    - my: undefined
+    - má: undefined
+    - mám: undefined
+    - môj: undefined
+    - na: undefined
+    - nová: undefined
+    - on: undefined
+    - ona: undefined
+    - papier: undefined
+    - papieri: undefined
+    - pero: undefined
+    - perom: undefined
+    - plný: undefined
+    - predmet: undefined
+    - píšem: undefined
+    - píšeme: undefined
+    - rýchlo: undefined
+    - s: undefined
+    - so: undefined
+    - stole: undefined
+    - stôl: undefined
+    - ten: undefined
+    - to: undefined
+    - tuš: undefined
+    - tá: undefined
+    - týmto: undefined
+    - učiteľ: undefined
+    - učiteľka: undefined
+    - učiteľkou: undefined
+    - učiteľom: undefined
+    - v: undefined
+    - veľa: undefined
+    - zložitý: undefined
+    - zápis: undefined
+    - zápisník: undefined
+    - zápisov: undefined
+    - úloh: undefined
+    - úloha: undefined
+    - úlohu: undefined
+    - škola: undefined
+    - študentmi: undefined
+    - žiak: undefined
+    - žiakom: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - an: undefined
+    - are: undefined
+    - assignment: undefined
+    - assignments: undefined
+    - book: undefined
+    - center: undefined
+    - complex: undefined
+    - desk: undefined
+    - female: undefined
+    - full: undefined
+    - good: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - i: undefined
+    - in: undefined
+    - ink: undefined
+    - is: undefined
+    - male: undefined
+    - many: undefined
+    - mathematics: undefined
+    - method: undefined
+    - my: undefined
+    - new: undefined
+    - note: undefined
+    - notebook: undefined
+    - notes: undefined
+    - of: undefined
+    - on: undefined
+    - paper: undefined
+    - pen: undefined
+    - quickly: undefined
+    - school: undefined
+    - she: undefined
+    - still: undefined
+    - student: undefined
+    - students: undefined
+    - subject: undefined
+    - table: undefined
+    - talking: undefined
+    - teacher: undefined
+    - the: undefined
+    - this: undefined
+    - we: undefined
+    - wet: undefined
+    - white: undefined
+    - with: undefined
+    - writing: undefined

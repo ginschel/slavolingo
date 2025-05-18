@@ -1,0 +1,234 @@
+Skill:
+  Name: Character (Conditional)
+  Id: 36
+
+New words:
+  - Word: dobry
+    Translation: good
+  - Word: zły
+    Translation: bad
+  - Word: silny
+    Translation: strong
+  - Word: słaby
+    Translation: weak
+  - Word: śmiały
+    Translation: brave
+  - Word: cichy
+    Translation: quiet
+  - Word: mądry
+    Translation: wise
+  - Word: głupi
+    Translation: stupid
+  - Word: szczery
+    Translation: sincere
+  - Word: leniwy
+    Translation: lazy
+  - Word: byłbym
+    Translation: I would be
+  - Word: byłbyś
+    Translation: you would be
+  - Word: byłby
+    Translation: he/she/it would be
+  - Word: bylibyśmy
+    Translation: we would be
+  - Word: bylibyście
+    Translation: you would be
+  - Word: byliby
+    Translation: they would be
+  - Word: milczeć (milczy)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: On to dobry człowiek.
+    Translation: He is a good person.
+  - Phrase: Ona jest czasem zła.
+    Translation: She is sometimes bad.
+  - Phrase: Silny duch jest ważny.
+    Translation: A strong spirit is important.
+  - Phrase: On jest słaby w sporcie.
+    Translation: He is weak in sports.
+  - Phrase: Śmiały mówi prawdę.
+    Translation: Brave people speak the truth.
+  - Phrase: Jak byś usłyszał/usłyszała, to oni byliby cicho.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Mądry wie dużo.
+    Translation: A smart person knows much.
+  - Phrase: Jak byś nie był/była głupi/głupia, to byś nie robił/robiła głupstw.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Szczery przyjaciel jest cenny.
+    Translation: A sincere friend is valuable.
+  - Phrase: Jakby oni nie byli leniwi, to byśmy im pomagali.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Ona jest dobra i szczera.
+    Translation: She is good and sincere.
+  - Phrase: On jest silny, ale śmiały.
+    Translation: He is strong but brave.
+  - Phrase: Dzieci są mądre jak na swój wiek.
+    Translation: Children are wiser for their age.
+  - Phrase: Jakbyście nie byli słabi, to byście pracowali.
+    Translation: If you were not weak, you would work.
+  - Phrase: Złe słowa bolą.
+    Translation: Bad words hurt.
+  - Phrase: Głupi się nie uczy.
+    Translation: Stupid people do not learn.
+  - Phrase: Leniwy nie chce nic robić.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Szczery mówi co myśli.
+    Translation: A sincere person says what they think.
+  - Phrase: Mądry milczy, kiedy trzeba.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Gdybym był/była śmiały/śmiała, to bym się nie bał/bała.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Polish:
+    - ale: undefined
+    - bał/bała: undefined
+    - bolą: undefined
+    - byli: undefined
+    - byliby: undefined
+    - bylibyście: undefined
+    - bylibyśmy: undefined
+    - bym: undefined
+    - był/była: undefined
+    - byłby: undefined
+    - byłbym: undefined
+    - byłbyś: undefined
+    - byś: undefined
+    - byście: undefined
+    - byśmy: undefined
+    - cenny: undefined
+    - chce: undefined
+    - cicho: undefined
+    - cichy: undefined
+    - co: undefined
+    - czasem: undefined
+    - człowiek: undefined
+    - dobra: undefined
+    - dobry: undefined
+    - duch: undefined
+    - dużo: undefined
+    - dzieci: undefined
+    - gdybym: undefined
+    - głupi: undefined
+    - głupi/głupia: undefined
+    - głupstw: undefined
+    - i: undefined
+    - im: undefined
+    - jak: undefined
+    - jakby: undefined
+    - jakbyście: undefined
+    - jest: undefined
+    - kiedy: undefined
+    - leniwi: undefined
+    - leniwy: undefined
+    - milczeć: undefined
+    - milczy: undefined
+    - myśli: undefined
+    - mówi: undefined
+    - mądre: undefined
+    - mądry: undefined
+    - na: undefined
+    - nic: undefined
+    - nie: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - pomagali: undefined
+    - pracowali: undefined
+    - prawdę: undefined
+    - przyjaciel: undefined
+    - robić: undefined
+    - robił/robiła: undefined
+    - silny: undefined
+    - się: undefined
+    - sporcie: undefined
+    - swój: undefined
+    - szczera: undefined
+    - szczery: undefined
+    - są: undefined
+    - słabi: undefined
+    - słaby: undefined
+    - słowa: undefined
+    - to: undefined
+    - trzeba: undefined
+    - uczy: undefined
+    - usłyszał/usłyszała: undefined
+    - w: undefined
+    - ważny: undefined
+    - wie: undefined
+    - wiek: undefined
+    - zła: undefined
+    - złe: undefined
+    - zły: undefined
+    - śmiały: undefined
+    - śmiały/śmiała: undefined
+  English:
+    - a: undefined
+    - afraid: undefined
+    - age: undefined
+    - and: undefined
+    - anything: undefined
+    - are: undefined
+    - bad: undefined
+    - be: undefined
+    - brave: undefined
+    - but: undefined
+    - children: undefined
+    - do: undefined
+    - foolish: undefined
+    - for: undefined
+    - friend: undefined
+    - good: undefined
+    - he: undefined
+    - he/she/it: undefined
+    - hear: undefined
+    - help: undefined
+    - hurt: undefined
+    - i: undefined
+    - if: undefined
+    - important: undefined
+    - in: undefined
+    - is: undefined
+    - knows: undefined
+    - lazy: undefined
+    - learn: undefined
+    - much: undefined
+    - needed: undefined
+    - not: undefined
+    - people: undefined
+    - person: undefined
+    - quiet: undefined
+    - says: undefined
+    - she: undefined
+    - silent: undefined
+    - sincere: undefined
+    - smart: undefined
+    - sometimes: undefined
+    - speak: undefined
+    - spirit: undefined
+    - sports: undefined
+    - stays: undefined
+    - strong: undefined
+    - stupid: undefined
+    - the: undefined
+    - their: undefined
+    - them: undefined
+    - they: undefined
+    - things: undefined
+    - think: undefined
+    - to: undefined
+    - truth: undefined
+    - valuable: undefined
+    - want: undefined
+    - we: undefined
+    - weak: undefined
+    - were: undefined
+    - what: undefined
+    - when: undefined
+    - wise: undefined
+    - wiser: undefined
+    - words: undefined
+    - work: undefined
+    - would: undefined
+    - you: undefined

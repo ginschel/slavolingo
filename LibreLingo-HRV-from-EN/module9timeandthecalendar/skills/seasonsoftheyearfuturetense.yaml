@@ -1,0 +1,198 @@
+Skill:
+  Name: Seasons of the year (future tense)
+  Id: 33
+
+New words:
+  - Word: ljeto
+    Translation: summer
+  - Word: jesen
+    Translation: autumn
+  - Word: zima
+    Translation: winter
+  - Word: proljeće
+    Translation: spring
+  - Word: sezona
+    Translation: season
+  - Word: biti
+    Translation: to be
+  - Word: bit ću
+    Translation: I will be
+  - Word: bit ćeš
+    Translation: you will be
+  - Word: bit će
+    Translation: he/she/it will be
+  - Word: bit ćemo
+    Translation: we will be
+  - Word: bit ćete
+    Translation: you will be
+  - Word: bit će
+    Translation: they will be
+
+Phrases:
+  - Phrase: Ljeti će biti toplo.
+    Translation: In the summer it will be warm.
+  - Phrase: U jesen ćemo vidjeti padajuće lišće.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: Zimi ćete se igrati sa snijegom.
+    Translation: In the winter you will play with snow.
+  - Phrase: Proljeće će donijeti cvijeće.
+    Translation: Spring will bring flowers.
+  - Phrase: Sezona će se promijeniti četiri puta.
+    Translation: The season will change four times.
+  - Phrase: Zimi će padati snijeg.
+    Translation: In the winter it will snow.
+  - Phrase: U proljeće raste cvijeće.
+    Translation: In spring, flowers grow.
+  - Phrase: Ljeti ima mnogo sunca.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: U jesen ćete mnogo trpjeti zbog kiše.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Zrak zimi bit će hladan.
+    Translation: The air in winter will be cold.
+  - Phrase: Ljeto je sezona odmora na jezeru.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Jesen ima mnogo boja.
+    Translation: Autumn has many colors.
+  - Phrase: Zima nije dobra za sportaše.
+    Translation: Winter is not good for sports.
+  - Phrase: Proljeće je dosadno.
+    Translation: Spring is boring.
+  - Phrase: Sezone se mijenjaju četiri puta godišnje.
+    Translation: The seasons change four times a year.
+  - Phrase: Uskoro završava ljeto.
+    Translation: Summer will soon end.
+  - Phrase: U jesen samo pada kiša.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Zima ima mnogo snijega.
+    Translation: Winter has a lot of snow.
+  - Phrase: Oni će vidjeti zeleni krajolik.
+    Translation: They will see a green landscape.
+  - Phrase: Sunce će jako sjati ljeti.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Croatian:
+    - bit: undefined
+    - biti: undefined
+    - boja: undefined
+    - cvijeće: undefined
+    - dobra: undefined
+    - donijeti: undefined
+    - dosadno: undefined
+    - godišnje: undefined
+    - hladan: undefined
+    - igrati: undefined
+    - ima: undefined
+    - jako: undefined
+    - je: undefined
+    - jesen: undefined
+    - jezeru: undefined
+    - kiša: undefined
+    - kiše: undefined
+    - krajolik: undefined
+    - lišće: undefined
+    - ljeti: undefined
+    - ljeto: undefined
+    - mijenjaju: undefined
+    - mnogo: undefined
+    - na: undefined
+    - nije: undefined
+    - odmora: undefined
+    - oni: undefined
+    - pada: undefined
+    - padajuće: undefined
+    - padati: undefined
+    - proljeće: undefined
+    - promijeniti: undefined
+    - puta: undefined
+    - raste: undefined
+    - sa: undefined
+    - samo: undefined
+    - se: undefined
+    - sezona: undefined
+    - sezone: undefined
+    - sjati: undefined
+    - snijeg: undefined
+    - snijega: undefined
+    - snijegom: undefined
+    - sportaše: undefined
+    - sunca: undefined
+    - sunce: undefined
+    - toplo: undefined
+    - trpjeti: undefined
+    - u: undefined
+    - uskoro: undefined
+    - vidjeti: undefined
+    - za: undefined
+    - završava: undefined
+    - zbog: undefined
+    - zeleni: undefined
+    - zima: undefined
+    - zimi: undefined
+    - zrak: undefined
+    - će: undefined
+    - ćemo: undefined
+    - ćete: undefined
+    - ćeš: undefined
+    - ću: undefined
+    - četiri: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - autumn: undefined
+    - be: undefined
+    - because: undefined
+    - boring: undefined
+    - bring: undefined
+    - by: undefined
+    - change: undefined
+    - cold: undefined
+    - colors: undefined
+    - end: undefined
+    - falling: undefined
+    - flowers: undefined
+    - for: undefined
+    - four: undefined
+    - good: undefined
+    - green: undefined
+    - grow: undefined
+    - has: undefined
+    - he/she/it: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lake: undefined
+    - landscape: undefined
+    - leaves: undefined
+    - lot: undefined
+    - many: undefined
+    - not: undefined
+    - of: undefined
+    - play: undefined
+    - rain: undefined
+    - rest: undefined
+    - season: undefined
+    - seasons: undefined
+    - see: undefined
+    - shine: undefined
+    - snow: undefined
+    - soon: undefined
+    - sports: undefined
+    - spring: undefined
+    - strongly: undefined
+    - suffer: undefined
+    - summer: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - they: undefined
+    - times: undefined
+    - to: undefined
+    - warm: undefined
+    - we: undefined
+    - will: undefined
+    - winter: undefined
+    - with: undefined
+    - year: undefined
+    - you: undefined

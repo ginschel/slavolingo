@@ -1,0 +1,170 @@
+Skill:
+  Name: Asking for Directions
+  Id: 25
+
+New words:
+  - Word: źo
+    Translation: where
+  - Word: kuźo
+    Translation: which way
+  - Word: na rědne
+    Translation: to the right
+  - Word: na lěwe
+    Translation: to the left
+  - Word: proste
+    Translation: straight
+  - Word: blisko
+    Translation: near
+  - Word: daloko
+    Translation: far
+  - Word: pšosyś
+    Translation: to ask
+  - Word: pokazaś
+    Translation: to show
+  - Word: puśik
+    Translation: path/way
+
+Phrases:
+  - Phrase: Źo jo dwórnišćo?
+    Translation: Where is the station?
+  - Phrase: Kuźo źe droga?
+    Translation: Which way does the road go?
+  - Phrase: Źomy na rědne.
+    Translation: We are going to the right.
+  - Phrase: Pótom na lěwe.
+    Translation: Then to the left.
+  - Phrase: Źi proste do mosta.
+    Translation: Go straight to the bridge.
+  - Phrase: Prospekt jo blisko nama.
+    Translation: The avenue is near the square.
+  - Phrase: Biblioteka jo daloka.
+    Translation: The library is far away.
+  - Phrase: Pšosym jen wó drogu.
+    Translation: I ask them for the way.
+  - Phrase: Móžeśo lě pokazaś puśik?
+    Translation: Can you show me the way?
+  - Phrase: Droga źe do centra.
+    Translation: The street goes to the center.
+  - Phrase: Źo jo bliski hotel?
+    Translation: Where is the nearest hotel?
+  - Phrase: Kuźo źośo?
+    Translation: Which way are you going?
+  - Phrase: Źiśo proste a pótom na rědne.
+    Translation: Go straight and then to the right.
+  - Phrase: Dwórnišćo jo na lěwe.
+    Translation: The station is on the left.
+  - Phrase: Wobchod jo blisko biblioteki.
+    Translation: The shop is near the library.
+  - Phrase: Nams jo daloko wót hotela.
+    Translation: The square is far from the hotel.
+  - Phrase: Pšosym staru žonu.
+    Translation: I ask the old woman.
+  - Phrase: Wón pokazujo mě drogu.
+    Translation: He shows me the way.
+  - Phrase: Droga jo dłujka.
+    Translation: The street is long.
+  - Phrase: Kuźo jěźo tamten śug?
+    Translation: Where is that train going?
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: undefined
+    - biblioteka: undefined
+    - biblioteki: undefined
+    - bliski: undefined
+    - blisko: undefined
+    - centra: undefined
+    - daloka: undefined
+    - daloko: undefined
+    - do: undefined
+    - droga: undefined
+    - drogu: undefined
+    - dwórnišćo: undefined
+    - dłujka: undefined
+    - hotel: undefined
+    - hotela: undefined
+    - jen: undefined
+    - jo: undefined
+    - jěźo: undefined
+    - kuźo: undefined
+    - lě: undefined
+    - lěwe: undefined
+    - mosta: undefined
+    - móžeśo: undefined
+    - mě: undefined
+    - na: undefined
+    - nama: undefined
+    - nams: undefined
+    - pokazaś: undefined
+    - pokazujo: undefined
+    - prospekt: undefined
+    - proste: undefined
+    - puśik: undefined
+    - pótom: undefined
+    - pšosym: undefined
+    - pšosyś: undefined
+    - rědne: undefined
+    - staru: undefined
+    - tamten: undefined
+    - wobchod: undefined
+    - wó: undefined
+    - wón: undefined
+    - wót: undefined
+    - śug: undefined
+    - źe: undefined
+    - źi: undefined
+    - źiśo: undefined
+    - źo: undefined
+    - źomy: undefined
+    - źośo: undefined
+    - žonu: undefined
+  English:
+    - and: undefined
+    - are: undefined
+    - ask: undefined
+    - avenue: undefined
+    - away: undefined
+    - bridge: undefined
+    - can: undefined
+    - center: undefined
+    - does: undefined
+    - far: undefined
+    - for: undefined
+    - from: undefined
+    - go: undefined
+    - goes: undefined
+    - going: undefined
+    - he: undefined
+    - hotel: undefined
+    - i: undefined
+    - is: undefined
+    - left: undefined
+    - library: undefined
+    - long: undefined
+    - me: undefined
+    - near: undefined
+    - nearest: undefined
+    - old: undefined
+    - on: undefined
+    - path/way: undefined
+    - right: undefined
+    - road: undefined
+    - shop: undefined
+    - show: undefined
+    - shows: undefined
+    - square: undefined
+    - station: undefined
+    - straight: undefined
+    - street: undefined
+    - that: undefined
+    - the: undefined
+    - them: undefined
+    - then: undefined
+    - to: undefined
+    - train: undefined
+    - way: undefined
+    - we: undefined
+    - where: undefined
+    - which: undefined
+    - woman: undefined
+    - you: undefined

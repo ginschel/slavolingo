@@ -1,0 +1,204 @@
+Skill:
+  Name: Cardinal points/directions
+  Id: 18
+
+New words:
+  - Word: поўнач
+    Translation: north
+  - Word: поўдзень
+    Translation: south
+  - Word: захад
+    Translation: west
+  - Word: усход
+    Translation: east
+  - Word: паўночны
+    Translation: northern
+  - Word: паўднёвы
+    Translation: southern
+  - Word: заходні
+    Translation: western
+  - Word: усходні
+    Translation: eastern
+  - Word: компас
+    Translation: compass
+  - Word: бок/напрамак
+    Translation: side
+  - Word: дзе
+    Translation: where
+  - Word: уставаць (устае)
+    Translation: to rise
+  - Word: паказваць
+    Translation: to show
+  - Word: карта
+    Translation: map
+  - Word: падарожнічаць
+    Translation: to travel
+  - Word: направа
+    Translation: right
+  - Word: налева
+    Translation: left
+  - Word: проста
+    Translation: straight
+
+Phrases:
+  - Phrase: Поўнач ёсць халодная.
+    Translation: The north is cold.
+  - Phrase: Поўдзень ёсць цёплы.
+    Translation: The south is warm.
+  - Phrase: Сонца ўстае на ўсходзе.
+    Translation: The sun rises in the east.
+  - Phrase: Яно заходзіць на захадзе.
+    Translation: It sets in the west.
+  - Phrase: Гэта ёсць паўночны бок.
+    Translation: This is the northern side.
+  - Phrase: Жывем на поўдні.
+    Translation: We live in the south.
+  - Phrase: Компас паказвае поўнач.
+    Translation: The compass shows north.
+  - Phrase: Усход ёсць там.
+    Translation: The east is there.
+  - Phrase: Заходні вецер дзьме.
+    Translation: A western wind is blowing.
+  - Phrase: Ідзем на паўднёвы захад.
+    Translation: We are going to the southwest.
+  - Phrase: Гэта ёсць паўночна-заходні рэгіён.
+    Translation: This is the northwestern region.
+  - Phrase: Бок на карце паказвае захад.
+    Translation: The side on the map shows west.
+  - Phrase: Паўднёвы ўсход ёсць там, дзе грэе сонца.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Ідзем да паўднёвага боку.
+    Translation: We are going to the southern side.
+  - Phrase: Ён падарожнічае на ўсход.
+    Translation: He travels eastward.
+  - Phrase: На поўначы ёсць снег.
+    Translation: In the north there is snow.
+  - Phrase: Паўднёвыя краі ёсць цёплыя.
+    Translation: The southern regions are warm.
+  - Phrase: Захад ёсць налева на карце.
+    Translation: West is left on the map.
+  - Phrase: Усходняя музыка ёсць цікавая.
+    Translation: Eastern music is interesting.
+  - Phrase: Глядзім на поўнач.
+    Translation: We are looking to the north.
+  - Phrase: Ідзем зараз направа і потым проста.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Belarusian:
+    - бок: undefined
+    - бок/напрамак: undefined
+    - боку: undefined
+    - вецер: undefined
+    - глядзім: undefined
+    - грэе: undefined
+    - гэта: undefined
+    - да: undefined
+    - дзе: undefined
+    - дзьме: undefined
+    - жывем: undefined
+    - зараз: undefined
+    - захад: undefined
+    - захадзе: undefined
+    - заходзіць: undefined
+    - заходні: undefined
+    - карта: undefined
+    - карце: undefined
+    - компас: undefined
+    - краі: undefined
+    - музыка: undefined
+    - на: undefined
+    - налева: undefined
+    - направа: undefined
+    - падарожнічае: undefined
+    - падарожнічаць: undefined
+    - паказвае: undefined
+    - паказваць: undefined
+    - паўднёвага: undefined
+    - паўднёвы: undefined
+    - паўднёвыя: undefined
+    - паўночна-заходні: undefined
+    - паўночны: undefined
+    - потым: undefined
+    - поўдзень: undefined
+    - поўдні: undefined
+    - поўнач: undefined
+    - поўначы: undefined
+    - проста: undefined
+    - рэгіён: undefined
+    - снег: undefined
+    - сонца: undefined
+    - там: undefined
+    - уставаць: undefined
+    - устае: undefined
+    - усход: undefined
+    - усходняя: undefined
+    - усходні: undefined
+    - халодная: undefined
+    - цёплы: undefined
+    - цёплыя: undefined
+    - цікавая: undefined
+    - яно: undefined
+    - ён: undefined
+    - ёсць: undefined
+    - і: undefined
+    - ідзем: undefined
+    - ўстае: undefined
+    - ўсход: undefined
+    - ўсходзе: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - blowing: undefined
+    - cold: undefined
+    - compass: undefined
+    - east: undefined
+    - eastern: undefined
+    - eastward: undefined
+    - going: undefined
+    - he: undefined
+    - in: undefined
+    - interesting: undefined
+    - is: undefined
+    - it: undefined
+    - left: undefined
+    - live: undefined
+    - looking: undefined
+    - map: undefined
+    - music: undefined
+    - north: undefined
+    - northern: undefined
+    - northwestern: undefined
+    - now: undefined
+    - on: undefined
+    - region: undefined
+    - regions: undefined
+    - right: undefined
+    - rise: undefined
+    - rises: undefined
+    - sets: undefined
+    - show: undefined
+    - shows: undefined
+    - side: undefined
+    - snow: undefined
+    - south: undefined
+    - southeast: undefined
+    - southern: undefined
+    - southwest: undefined
+    - straight: undefined
+    - sun: undefined
+    - the: undefined
+    - then: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - travel: undefined
+    - travels: undefined
+    - warm: undefined
+    - warms: undefined
+    - we: undefined
+    - west: undefined
+    - western: undefined
+    - where: undefined
+    - wind: undefined

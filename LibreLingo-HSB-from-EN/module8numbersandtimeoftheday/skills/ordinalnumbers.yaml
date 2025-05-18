@@ -1,0 +1,165 @@
+Skill:
+  Name: Ordinal Numbers
+  Id: 30
+
+New words:
+  - Word: prěni
+    Translation: first
+  - Word: druhi
+    Translation: second
+  - Word: třěći
+    Translation: third
+  - Word: štwórty
+    Translation: fourth
+  - Word: pjaty
+    Translation: fifth
+  - Word: šěsty
+    Translation: sixth
+  - Word: sydomy
+    Translation: seventh
+  - Word: wósmy
+    Translation: eighth
+  - Word: dźewjaty
+    Translation: ninth
+  - Word: tysacowy
+    Translation: thousandth
+  - Word: stowy
+    Translation: hundredth
+  - Word: pjeć tysacowy
+    Translation: five thousandth
+  - Word: sydom tysacowy
+    Translation: seven thousandth
+  - Word: hodźina
+    Translation: hour
+
+Phrases:
+  - Phrase: wo prěnej hodźinje dwaceći
+    Translation: at twenty past the first hour
+  - Phrase: wo druhej hodźinje dźesać pjeć
+    Translation: at fifteen past the second hour
+  - Phrase: wo třěćeje hodźinje dwaj
+    Translation: at two past the third hour
+  - Phrase: wo štwórteje hodźinje sydom
+    Translation: at seven past the fourth hour
+  - Phrase: wo pjaty hodźinje
+    Translation: at the fifth hour
+  - Phrase: wo šěsteje hodźinje
+    Translation: at the sixth hour
+  - Phrase: wo wósmeje hodźinje pěćdźesat pjeć
+    Translation: at fifty five past the eighth hour
+  - Phrase: wo dźewjateje hodźinje
+    Translation: at the ninth hour
+  - Phrase: wo dźesateje hodźinje
+    Translation: at the tenth hour
+  - Phrase: wo dwanaćeje hodźinje
+    Translation: at the twelfth hour
+  - Phrase: wo jednaćěje hodźinje triceći tři
+    Translation: at thirty three past the eleventh hour
+  - Phrase: stowy dolar
+    Translation: hundredth dollar
+  - Phrase: dwěsćě třěći ličak
+    Translation: two hundred third computer
+  - Phrase: dwěstowy časnik
+    Translation: two hundredth clock
+  - Phrase: triceći muž
+    Translation: thirtieth man
+  - Phrase: dwěsćě prěni bratr
+    Translation: two hundred first brother
+  - Phrase: šěsćstowy kóło
+    Translation: six hundredth bicycle
+  - Phrase: wosomstowy druhi dolar
+    Translation: eight hundred second dollar
+  - Phrase: dźewjećstowy pos
+    Translation: nine hundredth dog
+  - Phrase: štyristo pjaty hora
+    Translation: four hundred fifth mountain
+
+Mini-dictionary:
+  Upper Sorbian:
+    - bratr: undefined
+    - dolar: undefined
+    - druhej: undefined
+    - druhi: undefined
+    - dwaceći: undefined
+    - dwaj: undefined
+    - dwanaćeje: undefined
+    - dwěstowy: undefined
+    - dwěsćě: undefined
+    - dźesateje: undefined
+    - dźesać: undefined
+    - dźewjateje: undefined
+    - dźewjaty: undefined
+    - dźewjećstowy: undefined
+    - hodźina: undefined
+    - hodźinje: undefined
+    - hora: undefined
+    - jednaćěje: undefined
+    - kóło: undefined
+    - ličak: undefined
+    - muž: undefined
+    - pjaty: undefined
+    - pjeć: undefined
+    - pos: undefined
+    - prěnej: undefined
+    - prěni: undefined
+    - pěćdźesat: undefined
+    - stowy: undefined
+    - sydom: undefined
+    - sydomy: undefined
+    - triceći: undefined
+    - tysacowy: undefined
+    - tři: undefined
+    - třěćeje: undefined
+    - třěći: undefined
+    - wo: undefined
+    - wosomstowy: undefined
+    - wósmeje: undefined
+    - wósmy: undefined
+    - časnik: undefined
+    - štwórteje: undefined
+    - štwórty: undefined
+    - štyristo: undefined
+    - šěsteje: undefined
+    - šěsty: undefined
+    - šěsćstowy: undefined
+  English:
+    - at: undefined
+    - bicycle: undefined
+    - brother: undefined
+    - clock: undefined
+    - computer: undefined
+    - dog: undefined
+    - dollar: undefined
+    - eight: undefined
+    - eighth: undefined
+    - eleventh: undefined
+    - fifteen: undefined
+    - fifth: undefined
+    - fifty: undefined
+    - first: undefined
+    - five: undefined
+    - four: undefined
+    - fourth: undefined
+    - hour: undefined
+    - hundred: undefined
+    - hundredth: undefined
+    - man: undefined
+    - mountain: undefined
+    - nine: undefined
+    - ninth: undefined
+    - past: undefined
+    - second: undefined
+    - seven: undefined
+    - seventh: undefined
+    - six: undefined
+    - sixth: undefined
+    - tenth: undefined
+    - the: undefined
+    - third: undefined
+    - thirtieth: undefined
+    - thirty: undefined
+    - thousandth: undefined
+    - three: undefined
+    - twelfth: undefined
+    - twenty: undefined
+    - two: undefined

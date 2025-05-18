@@ -1,0 +1,249 @@
+Skill:
+  Name: Physical Appearance (Easy comparisons)
+  Id: 38
+
+New words:
+  - Word: wysoki
+    Translation: tall
+  - Word: niski
+    Translation: short
+  - Word: tołsty
+    Translation: fat
+  - Word: chudy
+    Translation: thin
+  - Word: mały
+    Translation: small
+  - Word: rjany
+    Translation: beautiful
+  - Word: brudny
+    Translation: ugly
+  - Word: stary
+    Translation: old
+  - Word: młody
+    Translation: young
+  - Word: wóski
+    Translation: hair
+  - Word: woči
+    Translation: eyes
+  - Word: hačrunjež
+    Translation: than
+  - Word: wyše
+    Translation: taller/higher
+  - Word: koža
+    Translation: skin
+  - Word: mjenje
+    Translation: less
+  - Word: smějać so (směje so)
+    Translation: to laugh
+  - Word: bliščeć
+    Translation: to shine
+  - Word: hwězda
+    Translation: star
+  - Word: swětły
+    Translation: light
+  - Word: ćěmny
+    Translation: dark
+
+Phrases:
+  - Phrase: Wón je wyše wysoki a sylny hačrunjež wón.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Wona je niska a chuda kaž wón.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Tołsty muž dźe po hasy.
+    Translation: The fat man is walking down the street.
+  - Phrase: Chudy ma mjenje ćělesneje masy hačrunjež tołsty.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: To je wyše rjany čłowjek hačrunjež tón.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Stari ludźi su wyše mudri hačrunjež my.
+    Translation: Old people are wiser than us.
+  - Phrase: Młody ma mnoho energije.
+    Translation: The young one has a lot of energy.
+  - Phrase: Jeho wóski su plawake.
+    Translation: His hair is blonde.
+  - Phrase: Woči su wyše zelene hačrunjež pola njeho.
+    Translation: Her eyes are greener than his.
+  - Phrase: Jeho koža je běła.
+    Translation: His skin is white.
+  - Phrase: Wón ma dołhe wóski.
+    Translation: He has long hair.
+  - Phrase: Wona ma zelene woči.
+    Translation: She has green eyes.
+  - Phrase: Koža je hładka.
+    Translation: Her skin is smooth.
+  - Phrase: Stara žona nosy čapku.
+    Translation: The old woman wears a hat.
+  - Phrase: Młodzi ludźi často sportuja.
+    Translation: Young people often play sports.
+  - Phrase: Tołsty muž směje so wyše hačrunjež tón brudny muž.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Niska dźowka dźe do doma.
+    Translation: The short girl is going home.
+  - Phrase: Rjane woči so bliščeja kaž hwězdy na njebju.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Chudy nosy wyše wulku košulu hačrunjež ja.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Jeje wóski su swětłe a dołhe.
+    Translation: Her hair is light and long.
+  - Phrase: A jeho rjane wóski su ćěmne kaž nóc.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Upper Sorbian:
+    - a: undefined
+    - bliščeja: undefined
+    - bliščeć: undefined
+    - brudny: undefined
+    - běła: undefined
+    - chuda: undefined
+    - chudy: undefined
+    - do: undefined
+    - doma: undefined
+    - dołhe: undefined
+    - dźe: undefined
+    - dźowka: undefined
+    - energije: undefined
+    - hasy: undefined
+    - hačrunjež: undefined
+    - hwězda: undefined
+    - hwězdy: undefined
+    - hładka: undefined
+    - ja: undefined
+    - je: undefined
+    - jeho: undefined
+    - jeje: undefined
+    - kaž: undefined
+    - košulu: undefined
+    - koža: undefined
+    - ludźi: undefined
+    - ma: undefined
+    - masy: undefined
+    - mały: undefined
+    - mjenje: undefined
+    - mnoho: undefined
+    - mudri: undefined
+    - muž: undefined
+    - my: undefined
+    - młody: undefined
+    - młodzi: undefined
+    - na: undefined
+    - niska: undefined
+    - niski: undefined
+    - njebju: undefined
+    - njeho: undefined
+    - nosy: undefined
+    - nóc: undefined
+    - plawake: undefined
+    - po: undefined
+    - pola: undefined
+    - rjane: undefined
+    - rjany: undefined
+    - smějać: undefined
+    - směje: undefined
+    - so: undefined
+    - sportuja: undefined
+    - stara: undefined
+    - stari: undefined
+    - stary: undefined
+    - su: undefined
+    - swětłe: undefined
+    - swětły: undefined
+    - sylny: undefined
+    - to: undefined
+    - tołsty: undefined
+    - tón: undefined
+    - wona: undefined
+    - woči: undefined
+    - wulku: undefined
+    - wysoki: undefined
+    - wyše: undefined
+    - wón: undefined
+    - wóski: undefined
+    - zelene: undefined
+    - ćělesneje: undefined
+    - ćěmne: undefined
+    - ćěmny: undefined
+    - čapku: undefined
+    - často: undefined
+    - čłowjek: undefined
+    - žona: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - as: undefined
+    - beautiful: undefined
+    - blonde: undefined
+    - body: undefined
+    - dark: undefined
+    - do: undefined
+    - down: undefined
+    - energy: undefined
+    - eyes: undefined
+    - fat: undefined
+    - girl: undefined
+    - going: undefined
+    - green: undefined
+    - greener: undefined
+    - hair: undefined
+    - has: undefined
+    - hat: undefined
+    - he: undefined
+    - her: undefined
+    - him: undefined
+    - his: undefined
+    - home: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - larger: undefined
+    - laugh: undefined
+    - laughs: undefined
+    - less: undefined
+    - light: undefined
+    - like: undefined
+    - long: undefined
+    - lot: undefined
+    - louder: undefined
+    - man: undefined
+    - mass: undefined
+    - more: undefined
+    - night: undefined
+    - of: undefined
+    - often: undefined
+    - old: undefined
+    - one: undefined
+    - people: undefined
+    - person: undefined
+    - play: undefined
+    - she: undefined
+    - shine: undefined
+    - shirt: undefined
+    - short: undefined
+    - shorter: undefined
+    - skin: undefined
+    - sky: undefined
+    - small: undefined
+    - smooth: undefined
+    - sports: undefined
+    - star: undefined
+    - stars: undefined
+    - street: undefined
+    - stronger: undefined
+    - tall: undefined
+    - taller: undefined
+    - taller/higher: undefined
+    - than: undefined
+    - that: undefined
+    - the: undefined
+    - thin: undefined
+    - thinner: undefined
+    - to: undefined
+    - ugly: undefined
+    - us: undefined
+    - walking: undefined
+    - wears: undefined
+    - white: undefined
+    - wiser: undefined
+    - woman: undefined
+    - young: undefined

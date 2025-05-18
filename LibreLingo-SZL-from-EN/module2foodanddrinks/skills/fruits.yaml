@@ -1,0 +1,186 @@
+Skill:
+  Name: Fruits
+  Id: 8
+
+New words:
+  - Word: jabłko
+    Translation: apple
+  - Word: gruszka
+    Translation: pear
+  - Word: banan
+    Translation: banana
+  - Word: apelsina
+    Translation: orange
+  - Word: wiśnia
+    Translation: cherry
+  - Word: jagoda
+    Translation: strawberry
+  - Word: dojzdrzały
+    Translation: ripe
+  - Word: winogrōna
+    Translation: grapes
+  - Word: śliwka
+    Translation: plum
+  - Word: citrōna
+    Translation: lemon
+  - Word: kwaskawy
+    Translation: sour
+  - Word: słodki
+    Translation: sweet
+  - Word: melōn
+    Translation: melon
+
+Phrases:
+  - Phrase: Jabłko je czyrwone.
+    Translation: The apple is red.
+  - Phrase: Gruszka je smakowito.
+    Translation: The pear is tasty.
+  - Phrase: Banan je żōłty.
+    Translation: The banana is yellow.
+  - Phrase: Apelsiny som słodke.
+    Translation: The oranges are sweet.
+  - Phrase: Wiśnia je kwaskawa.
+    Translation: The cherry is sour.
+  - Phrase: Jagoda je mało a smakowito.
+    Translation: The strawberry is small and tasty.
+  - Phrase: Winogrōna rosnōm na winnicy.
+    Translation: Grapes grow on a vineyard.
+  - Phrase: Śliwka je ćmawŏ.
+    Translation: The plum is dark.
+  - Phrase: Citrōna je kwaskawa a żōłto.
+    Translation: The lemon is sour and yellow.
+  - Phrase: Melōn je wielgi a słodki.
+    Translation: The melon is big and sweet.
+  - Phrase: Ôn warzi śliwowica z śliwek.
+    Translation: He is preparing plum brandy from plums.
+  - Phrase: Ôna pije sok z apelsinōw.
+    Translation: She is drinking orange juice.
+  - Phrase: My kupujymy winogrōna.
+    Translation: We are buying grapes.
+  - Phrase: Jagody som we misce.
+    Translation: The strawberries are in the bowl.
+  - Phrase: Śliwka je juž dojzdrzało.
+    Translation: The plum is already ripe.
+  - Phrase: Gruszki leżōm na stole.
+    Translation: The pears are lying on the table.
+  - Phrase: Citrōna sie dodŏwŏ do tyja.
+    Translation: Lemon is added to tea.
+  - Phrase: Banan je we taszy.
+    Translation: The banana is in the bag.
+  - Phrase: Wiśnia rosćo na bōku.
+    Translation: The cherry grows on a tree.
+  - Phrase: Melōn je barzij smakowity.
+    Translation: The melon is very tasty.
+
+Mini-dictionary:
+  Silesian:
+    - a: undefined
+    - apelsina: undefined
+    - apelsiny: undefined
+    - apelsinōw: undefined
+    - banan: undefined
+    - barzij: undefined
+    - bōku: undefined
+    - citrōna: undefined
+    - czyrwone: undefined
+    - do: undefined
+    - dodŏwŏ: undefined
+    - dojzdrzało: undefined
+    - dojzdrzały: undefined
+    - gruszka: undefined
+    - gruszki: undefined
+    - jabłko: undefined
+    - jagoda: undefined
+    - jagody: undefined
+    - je: undefined
+    - juž: undefined
+    - kupujymy: undefined
+    - kwaskawa: undefined
+    - kwaskawy: undefined
+    - leżōm: undefined
+    - mało: undefined
+    - melōn: undefined
+    - misce: undefined
+    - my: undefined
+    - na: undefined
+    - pije: undefined
+    - rosnōm: undefined
+    - rosćo: undefined
+    - sie: undefined
+    - smakowito: undefined
+    - smakowity: undefined
+    - sok: undefined
+    - som: undefined
+    - stole: undefined
+    - słodke: undefined
+    - słodki: undefined
+    - taszy: undefined
+    - tyja: undefined
+    - warzi: undefined
+    - we: undefined
+    - wielgi: undefined
+    - winnicy: undefined
+    - winogrōna: undefined
+    - wiśnia: undefined
+    - z: undefined
+    - ôn: undefined
+    - ôna: undefined
+    - ćmawŏ: undefined
+    - śliwek: undefined
+    - śliwka: undefined
+    - śliwowica: undefined
+    - żōłto: undefined
+    - żōłty: undefined
+  English:
+    - a: undefined
+    - added: undefined
+    - already: undefined
+    - and: undefined
+    - apple: undefined
+    - are: undefined
+    - bag: undefined
+    - banana: undefined
+    - big: undefined
+    - bowl: undefined
+    - brandy: undefined
+    - buying: undefined
+    - cherry: undefined
+    - dark: undefined
+    - drinking: undefined
+    - from: undefined
+    - grapes: undefined
+    - grow: undefined
+    - grows: undefined
+    - he: undefined
+    - in: undefined
+    - is: undefined
+    - juice: undefined
+    - lemon: undefined
+    - lying: undefined
+    - melon: undefined
+    - on: undefined
+    - orange: undefined
+    - oranges: undefined
+    - pear: undefined
+    - pears: undefined
+    - plum: undefined
+    - plums: undefined
+    - preparing: undefined
+    - red: undefined
+    - ripe: undefined
+    - she: undefined
+    - small: undefined
+    - sour: undefined
+    - strawberries: undefined
+    - strawberry: undefined
+    - sweet: undefined
+    - table: undefined
+    - tasty: undefined
+    - tea: undefined
+    - the: undefined
+    - to: undefined
+    - tree: undefined
+    - very: undefined
+    - vineyard: undefined
+    - we: undefined
+    - yellow: undefined

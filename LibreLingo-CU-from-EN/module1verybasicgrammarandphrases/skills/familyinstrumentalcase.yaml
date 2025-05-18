@@ -1,0 +1,199 @@
+Skill:
+  Name: Family (Instrumental case)
+  Id: 3
+
+New words:
+  - Word: братъ
+    Translation: brother
+  - Word: дѣдъ
+    Translation: grandfather
+  - Word: бабка
+    Translation: grandmother
+  - Word: тєтка
+    Translation: aunt
+  - Word: внꙋкъ
+    Translation: grandson
+  - Word: внꙋчька
+    Translation: granddaughter
+  - Word: мати
+    Translation: mother
+  - Word: отєць
+    Translation: father
+  - Word: родъ
+    Translation: family
+  - Word: сꙑнъ
+    Translation: son
+  - Word: дошти
+    Translation: daughter
+  - Word: строи
+    Translation: uncle
+  - Word: глаголи
+    Translation: speaks
+  - Word: идєтъ
+    Translation: goes
+  - Word: идємъ
+    Translation: we go
+  - Word: живєтъ
+    Translation: lives
+
+Phrases:
+  - Phrase: Онъ ѥстъ моимъ братомъ.
+    Translation: He is my brother.
+  - Phrase: Онъ ѥстъ твоимъ отцомъ
+    Translation: He is your father
+  - Phrase: Она идєтъ съ материѭ.
+    Translation: She is going with her mother.
+  - Phrase: Онъ глаголи съ дѣдомъ.
+    Translation: He is talking with his grandfather.
+  - Phrase: Мꙑ играѥмъ съ нашеѭ дѣтми.
+    Translation: We are playing with our children.
+  - Phrase: Они ѥдѫтъ съ тєткоѭ.
+    Translation: They are going with their aunt.
+  - Phrase: Глаголѭ съ твоѥѭ сєстроѭ.
+    Translation: I am talking with your sister.
+  - Phrase: Идємъ въ паркъ съ родоѭ.
+    Translation: We are going to the park with the family.
+  - Phrase: Онъ ѥстъ съ внꙋкомъ.
+    Translation: He is with his grandson.
+  - Phrase: Она играѥтъ съ внꙋчкоѭ.
+    Translation: She is playing with her granddaughter.
+  - Phrase: Пити чаи съ материѭ ѥстъ лєпьшє.
+    Translation: Drinking tea with mother is better.
+  - Phrase: Съ кимь тꙑ идєши?
+    Translation: Who are you going with?
+  - Phrase: Она глаголи съ моѥѭ бабкоѭ.
+    Translation: She is talking with my grandmother.
+  - Phrase: Сь ѥстъ домомъ съ родоѭ.
+    Translation: This is a house with a family.
+  - Phrase: Онъ живєтъ съ сꙑномъ.
+    Translation: He lives with his son.
+  - Phrase: Идємъ на походъ съ братиѭ.
+    Translation: We are going for a walk with brothers.
+  - Phrase: Идємъ съ дощєриѭ.
+    Translation: We are going with our daughter.
+  - Phrase: Они тѫ сѫтъ съ дѣдомъ.
+    Translation: They are here with their grandfather.
+  - Phrase: Онъ живєтъ съ тєткоѭ и съ строѥмь.
+    Translation: He lives with his aunt and uncle.
+  - Phrase: Она глаголи съ внꙋкомъ часто.
+    Translation: She talks with her grandson often.
+
+Mini-dictionary:
+  Church Slavonic:
+    - бабка: undefined
+    - бабкоѭ: undefined
+    - братиѭ: undefined
+    - братомъ: undefined
+    - братъ: undefined
+    - внꙋкомъ: undefined
+    - внꙋкъ: undefined
+    - внꙋчкоѭ: undefined
+    - внꙋчька: undefined
+    - въ: undefined
+    - глаголи: undefined
+    - глаголѭ: undefined
+    - домомъ: undefined
+    - дошти: undefined
+    - дощєриѭ: undefined
+    - дѣдомъ: undefined
+    - дѣдъ: undefined
+    - дѣтми: undefined
+    - живєтъ: undefined
+    - и: undefined
+    - играѥмъ: undefined
+    - играѥтъ: undefined
+    - идємъ: undefined
+    - идєтъ: undefined
+    - идєши: undefined
+    - кимь: undefined
+    - лєпьшє: undefined
+    - материѭ: undefined
+    - мати: undefined
+    - моимъ: undefined
+    - моѥѭ: undefined
+    - мꙑ: undefined
+    - на: undefined
+    - нашеѭ: undefined
+    - она: undefined
+    - они: undefined
+    - онъ: undefined
+    - отцомъ: undefined
+    - отєць: undefined
+    - паркъ: undefined
+    - пити: undefined
+    - походъ: undefined
+    - родоѭ: undefined
+    - родъ: undefined
+    - строи: undefined
+    - строѥмь: undefined
+    - съ: undefined
+    - сь: undefined
+    - сєстроѭ: undefined
+    - сѫтъ: undefined
+    - сꙑномъ: undefined
+    - сꙑнъ: undefined
+    - твоимъ: undefined
+    - твоѥѭ: undefined
+    - тєтка: undefined
+    - тєткоѭ: undefined
+    - тѫ: undefined
+    - тꙑ: undefined
+    - чаи: undefined
+    - часто: undefined
+    - ѥдѫтъ: undefined
+    - ѥстъ: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - aunt: undefined
+    - better: undefined
+    - brother: undefined
+    - brothers: undefined
+    - children: undefined
+    - daughter: undefined
+    - drinking: undefined
+    - family: undefined
+    - father: undefined
+    - for: undefined
+    - go: undefined
+    - goes: undefined
+    - going: undefined
+    - granddaughter: undefined
+    - grandfather: undefined
+    - grandmother: undefined
+    - grandson: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - his: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - lives: undefined
+    - mother: undefined
+    - my: undefined
+    - often: undefined
+    - our: undefined
+    - park: undefined
+    - playing: undefined
+    - she: undefined
+    - sister: undefined
+    - son: undefined
+    - speaks: undefined
+    - talking: undefined
+    - talks: undefined
+    - tea: undefined
+    - the: undefined
+    - their: undefined
+    - they: undefined
+    - this: undefined
+    - to: undefined
+    - uncle: undefined
+    - walk: undefined
+    - we: undefined
+    - who: undefined
+    - with: undefined
+    - you: undefined
+    - your: undefined

@@ -1,0 +1,121 @@
+Skill:
+  Name: Numbers 11-20
+  Id: 27
+
+New words:
+  - Word: jedenáct
+    Translation: eleven
+  - Word: dvanáct
+    Translation: twelve
+  - Word: třináct
+    Translation: thirteen
+  - Word: čtrnáct
+    Translation: fourteen
+  - Word: patnáct
+    Translation: fifteen
+  - Word: šestnáct
+    Translation: sixteen
+  - Word: sedmnáct
+    Translation: seventeen
+  - Word: osmnáct
+    Translation: eighteen
+  - Word: devatenáct
+    Translation: nineteen
+  - Word: dvacet
+    Translation: twenty
+
+Phrases:
+  - Phrase: dvacet hodinek
+    Translation: twenty clocks
+  - Phrase: jedenáct chlapců
+    Translation: eleven boys
+  - Phrase: jedenáct žen
+    Translation: eleven women
+  - Phrase: jedenáct polí
+    Translation: eleven fields
+  - Phrase: dvanáct mužů
+    Translation: twelve men
+  - Phrase: dvanáct šest žen
+    Translation: twelve women
+  - Phrase: třináct koček
+    Translation: thirteen cats
+  - Phrase: čtrnáct jízdních kol
+    Translation: fourteen bicycles
+  - Phrase: patnáct chlapců
+    Translation: fifteen boys
+  - Phrase: šestnáct jízdních kol
+    Translation: sixteen bicycles
+  - Phrase: sedmnáct rublů
+    Translation: seventeen rubles
+  - Phrase: osmnáct dolarů
+    Translation: eighteen dollars
+  - Phrase: devatenáct pět počítačů
+    Translation: nineteen computers
+  - Phrase: šestnáct hodinek
+    Translation: twenty clocks
+  - Phrase: dvanáct věcí
+    Translation: twelve things
+  - Phrase: jedenáct sluncí
+    Translation: eleven suns
+  - Phrase: šestnáct jízdních kol
+    Translation: sixteen bicycles
+  - Phrase: čtrnáct dolarů
+    Translation: fourteen dollars
+  - Phrase: třináct dva psů
+    Translation: thirteen dogs
+  - Phrase: dvacet koček
+    Translation: twenty cats
+
+Mini-dictionary:
+  Czech:
+    - chlapců: undefined
+    - devatenáct: undefined
+    - dolarů: undefined
+    - dva: undefined
+    - dvacet: undefined
+    - dvanáct: undefined
+    - hodinek: undefined
+    - jedenáct: undefined
+    - jízdních: undefined
+    - kol: undefined
+    - koček: undefined
+    - mužů: undefined
+    - osmnáct: undefined
+    - patnáct: undefined
+    - polí: undefined
+    - počítačů: undefined
+    - psů: undefined
+    - pět: undefined
+    - rublů: undefined
+    - sedmnáct: undefined
+    - sluncí: undefined
+    - třináct: undefined
+    - věcí: undefined
+    - čtrnáct: undefined
+    - šest: undefined
+    - šestnáct: undefined
+    - žen: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eighteen: undefined
+    - eleven: undefined
+    - fields: undefined
+    - fifteen: undefined
+    - fourteen: undefined
+    - men: undefined
+    - nineteen: undefined
+    - rubles: undefined
+    - seventeen: undefined
+    - sixteen: undefined
+    - suns: undefined
+    - things: undefined
+    - thirteen: undefined
+    - twelve: undefined
+    - twenty: undefined
+    - women: undefined

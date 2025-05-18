@@ -1,0 +1,231 @@
+Skill:
+  Name: Body
+  Id: 35
+
+New words:
+  - Word: рука
+    Translation: hand
+  - Word: нога
+    Translation: leg
+  - Word: глава
+    Translation: head
+  - Word: око
+    Translation: eye
+  - Word: мозг
+    Translation: brain
+  - Word: стопа
+    Translation: foot
+  - Word: ухо
+    Translation: ear
+  - Word: нос
+    Translation: nose
+  - Word: лице
+    Translation: face
+  - Word: срдце
+    Translation: heart
+  - Word: прст
+    Translation: finger
+  - Word: желудок
+    Translation: stomach
+  - Word: тело
+    Translation: body
+  - Word: болети (боли)
+    Translation: to hurt
+  - Word: власи
+    Translation: hair
+  - Word: подобни
+    Translation: similar
+  - Word: слишати (слиши)
+    Translation: to hear
+
+Phrases:
+  - Phrase: Моја рука боли.
+    Translation: My hand hurts.
+  - Phrase: Она има долгу ногу.
+    Translation: She has a long leg.
+  - Phrase: Глава јест на телу.
+    Translation: The head is on the body.
+  - Phrase: Он има модре красни очи.
+    Translation: He has beautiful blue eyes.
+  - Phrase: Њеј ухо не слиши добро.
+    Translation: Her ear does not hear well.
+  - Phrase: Нос јест црвени од мраза.
+    Translation: The nose is red from the cold.
+  - Phrase: Лице јест подобно.
+    Translation: The face is similar.
+  - Phrase: Њеј срце бије быстро.
+    Translation: Her heart beats fast.
+  - Phrase: Желудок теби боли.
+    Translation: My stomach hurts.
+  - Phrase: Тело у мене здраво.
+    Translation: My body is healthy.
+  - Phrase: Ја имам две руки и две ноги и тож две стопи.
+    Translation: I have two hands and two legs, and also two feet.
+  - Phrase: Очи гледају в книгу.
+    Translation: The eyes are looking at the book.
+  - Phrase: Ухо слиши музику.
+    Translation: The ear hears music.
+  - Phrase: Његов мозг јест брзи.
+    Translation: His brain is quick.
+  - Phrase: Њеј лице јест красно.
+    Translation: Her face is beautiful.
+  - Phrase: Срце јест симбол љубви.
+    Translation: The heart is a symbol of love.
+  - Phrase: Мој желудок јест просто полни по вечерји.
+    Translation: My stomach is just full after dinner.
+  - Phrase: Телу треба одмор.
+    Translation: The body needs rest.
+  - Phrase: Он има каштанови власи на главе.
+    Translation: He has chestnut-colored hair on his head.
+  - Phrase: Она слиши тебе толико једином ухом.
+    Translation: She hears you only with one ear.
+
+Mini-dictionary:
+  Serbian:
+    - бије: undefined
+    - болети: undefined
+    - боли: undefined
+    - брзи: undefined
+    - быстро: undefined
+    - в: undefined
+    - вечерји: undefined
+    - власи: undefined
+    - глава: undefined
+    - главе: undefined
+    - гледају: undefined
+    - две: undefined
+    - добро: undefined
+    - долгу: undefined
+    - желудок: undefined
+    - здраво: undefined
+    - и: undefined
+    - има: undefined
+    - имам: undefined
+    - каштанови: undefined
+    - книгу: undefined
+    - красни: undefined
+    - красно: undefined
+    - лице: undefined
+    - мене: undefined
+    - модре: undefined
+    - мозг: undefined
+    - мој: undefined
+    - моја: undefined
+    - мраза: undefined
+    - музику: undefined
+    - на: undefined
+    - не: undefined
+    - нога: undefined
+    - ноги: undefined
+    - ногу: undefined
+    - нос: undefined
+    - од: undefined
+    - одмор: undefined
+    - око: undefined
+    - он: undefined
+    - она: undefined
+    - очи: undefined
+    - по: undefined
+    - подобни: undefined
+    - подобно: undefined
+    - полни: undefined
+    - просто: undefined
+    - прст: undefined
+    - рука: undefined
+    - руки: undefined
+    - симбол: undefined
+    - слишати: undefined
+    - слиши: undefined
+    - срдце: undefined
+    - срце: undefined
+    - стопа: undefined
+    - стопи: undefined
+    - тебе: undefined
+    - теби: undefined
+    - тело: undefined
+    - телу: undefined
+    - тож: undefined
+    - толико: undefined
+    - треба: undefined
+    - у: undefined
+    - ухо: undefined
+    - ухом: undefined
+    - црвени: undefined
+    - ја: undefined
+    - једином: undefined
+    - јест: undefined
+    - љубви: undefined
+    - његов: undefined
+    - њеј: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beats: undefined
+    - beautiful: undefined
+    - blue: undefined
+    - body: undefined
+    - book: undefined
+    - brain: undefined
+    - chestnut-colored: undefined
+    - cold: undefined
+    - dinner: undefined
+    - does: undefined
+    - ear: undefined
+    - eye: undefined
+    - eyes: undefined
+    - face: undefined
+    - fast: undefined
+    - feet: undefined
+    - finger: undefined
+    - foot: undefined
+    - from: undefined
+    - full: undefined
+    - hair: undefined
+    - hand: undefined
+    - hands: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - head: undefined
+    - healthy: undefined
+    - hear: undefined
+    - hears: undefined
+    - heart: undefined
+    - her: undefined
+    - his: undefined
+    - hurt: undefined
+    - hurts: undefined
+    - i: undefined
+    - is: undefined
+    - just: undefined
+    - leg: undefined
+    - legs: undefined
+    - long: undefined
+    - looking: undefined
+    - love: undefined
+    - music: undefined
+    - my: undefined
+    - needs: undefined
+    - nose: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - one: undefined
+    - only: undefined
+    - quick: undefined
+    - red: undefined
+    - rest: undefined
+    - she: undefined
+    - similar: undefined
+    - stomach: undefined
+    - symbol: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - well: undefined
+    - with: undefined
+    - you: undefined

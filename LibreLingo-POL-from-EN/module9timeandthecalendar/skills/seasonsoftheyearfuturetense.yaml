@@ -1,0 +1,199 @@
+Skill:
+  Name: Seasons of the year (future tense)
+  Id: 33
+
+New words:
+  - Word: lato
+    Translation: summer
+  - Word: jesień
+    Translation: autumn
+  - Word: zima
+    Translation: winter
+  - Word: wiosna
+    Translation: spring
+  - Word: sezon
+    Translation: season
+  - Word: być
+    Translation: to be
+  - Word: będę
+    Translation: I will be
+  - Word: będziesz
+    Translation: you will be
+  - Word: będzie
+    Translation: he/she/it will be
+  - Word: będziemy
+    Translation: we will be
+  - Word: będziecie
+    Translation: you will be
+  - Word: będą
+    Translation: they will be
+
+Phrases:
+  - Phrase: W lecie będzie ciepło.
+    Translation: In the summer it will be warm.
+  - Phrase: Jesienią będziemy widzieć spadające liście.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: Zimą będziecie bawić się śniegiem.
+    Translation: In the winter you will play with snow.
+  - Phrase: Wiosna przyniesie kwiaty.
+    Translation: Spring will bring flowers.
+  - Phrase: Sezon będzie zmieniał się cztery razy.
+    Translation: The season will change four times.
+  - Phrase: Zimą będzie padać śnieg.
+    Translation: In the winter it will snow.
+  - Phrase: Wiosną rosną kwiaty.
+    Translation: In spring, flowers grow.
+  - Phrase: W lecie jest dużo słońca.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: Jesienią będziesz dużo cierpieć przez deszcz.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Powietrze zimą będzie zimne.
+    Translation: The air in winter will be cold.
+  - Phrase: Lato jest sezonem odpoczynku nad jeziorem.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Jesień ma dużo kolorów.
+    Translation: Autumn has many colors.
+  - Phrase: Zima nie jest dobra dla sportowców.
+    Translation: Winter is not good for sports.
+  - Phrase: Wiosna jest nudna.
+    Translation: Spring is boring.
+  - Phrase: Sezony zmieniają się cztery razy w roku.
+    Translation: The seasons change four times a year.
+  - Phrase: Wkrótce kończy się lato.
+    Translation: Summer will soon end.
+  - Phrase: Jesienią tylko pada deszcz.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Zima ma dużo śniegu.
+    Translation: Winter has a lot of snow.
+  - Phrase: Oni będą widzieć zielony krajobraz.
+    Translation: They will see a green landscape.
+  - Phrase: Słońce będzie świecić mocno w lecie.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Polish:
+    - bawić: undefined
+    - być: undefined
+    - będzie: undefined
+    - będziecie: undefined
+    - będziemy: undefined
+    - będziesz: undefined
+    - będą: undefined
+    - będę: undefined
+    - ciepło: undefined
+    - cierpieć: undefined
+    - cztery: undefined
+    - deszcz: undefined
+    - dla: undefined
+    - dobra: undefined
+    - dużo: undefined
+    - jesienią: undefined
+    - jesień: undefined
+    - jest: undefined
+    - jeziorem: undefined
+    - kolorów: undefined
+    - kończy: undefined
+    - krajobraz: undefined
+    - kwiaty: undefined
+    - lato: undefined
+    - lecie: undefined
+    - liście: undefined
+    - ma: undefined
+    - mocno: undefined
+    - nad: undefined
+    - nie: undefined
+    - nudna: undefined
+    - odpoczynku: undefined
+    - oni: undefined
+    - pada: undefined
+    - padać: undefined
+    - powietrze: undefined
+    - przez: undefined
+    - przyniesie: undefined
+    - razy: undefined
+    - roku: undefined
+    - rosną: undefined
+    - sezon: undefined
+    - sezonem: undefined
+    - sezony: undefined
+    - się: undefined
+    - spadające: undefined
+    - sportowców: undefined
+    - słońca: undefined
+    - słońce: undefined
+    - tylko: undefined
+    - w: undefined
+    - widzieć: undefined
+    - wiosna: undefined
+    - wiosną: undefined
+    - wkrótce: undefined
+    - zielony: undefined
+    - zima: undefined
+    - zimne: undefined
+    - zimą: undefined
+    - zmieniają: undefined
+    - zmieniał: undefined
+    - śnieg: undefined
+    - śniegiem: undefined
+    - śniegu: undefined
+    - świecić: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - autumn: undefined
+    - be: undefined
+    - because: undefined
+    - boring: undefined
+    - bring: undefined
+    - by: undefined
+    - change: undefined
+    - cold: undefined
+    - colors: undefined
+    - end: undefined
+    - falling: undefined
+    - flowers: undefined
+    - for: undefined
+    - four: undefined
+    - good: undefined
+    - green: undefined
+    - grow: undefined
+    - has: undefined
+    - he/she/it: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lake: undefined
+    - landscape: undefined
+    - leaves: undefined
+    - lot: undefined
+    - many: undefined
+    - not: undefined
+    - of: undefined
+    - play: undefined
+    - rain: undefined
+    - rest: undefined
+    - season: undefined
+    - seasons: undefined
+    - see: undefined
+    - shine: undefined
+    - snow: undefined
+    - soon: undefined
+    - sports: undefined
+    - spring: undefined
+    - strongly: undefined
+    - suffer: undefined
+    - summer: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - they: undefined
+    - times: undefined
+    - to: undefined
+    - warm: undefined
+    - we: undefined
+    - will: undefined
+    - winter: undefined
+    - with: undefined
+    - year: undefined
+    - you: undefined

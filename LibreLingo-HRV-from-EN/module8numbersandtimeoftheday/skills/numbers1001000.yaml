@@ -1,0 +1,127 @@
+Skill:
+  Name: Numbers 100-1000
+  Id: 29
+
+New words:
+  - Word: sto
+    Translation: one hundred
+  - Word: dvjesto
+    Translation: two hundred
+  - Word: tristo
+    Translation: three hundred
+  - Word: četiristo
+    Translation: four hundred
+  - Word: petsto
+    Translation: five hundred
+  - Word: šeststo
+    Translation: six hundred
+  - Word: sedamsto
+    Translation: seven hundred
+  - Word: osamsto
+    Translation: eight hundred
+  - Word: devetsto
+    Translation: nine hundred
+  - Word: tisuća
+    Translation: thousand
+
+Phrases:
+  - Phrase: tisuća jedan sat
+    Translation: one thousand one clocks
+  - Phrase: sto dječaka
+    Translation: one hundred boys
+  - Phrase: dvjesto žena
+    Translation: two hundred women
+  - Phrase: tristo polja
+    Translation: three hundred fields
+  - Phrase: četiristo muškaraca
+    Translation: four hundred men
+  - Phrase: petsto žena
+    Translation: five hundred women
+  - Phrase: šeststo mačaka
+    Translation: six hundred cats
+  - Phrase: sedamsto jedan bicikl
+    Translation: seven hundred one bicycles
+  - Phrase: osamsto dječaka
+    Translation: eight hundred boys
+  - Phrase: devetsto bicikala
+    Translation: nine hundred bicycles
+  - Phrase: tisuća osam rubalja
+    Translation: one thousand eight rubles
+  - Phrase: četiristo sedam dolara
+    Translation: four hundred seven dollars
+  - Phrase: dvjesto tri računala
+    Translation: two hundred three computers
+  - Phrase: sedamsto jedan sat
+    Translation: seven hundred one clocks
+  - Phrase: tristo četiri stvari
+    Translation: three hundred four things
+  - Phrase: sto dva sunca
+    Translation: one hundred two suns
+  - Phrase: šeststo bicikala
+    Translation: six hundred bicycles
+  - Phrase: osamsto dolara
+    Translation: eight hundred dollars
+  - Phrase: dvije tisuće devetsto pasa
+    Translation: two thousand nine hundred dogs
+  - Phrase: četiristo mačaka
+    Translation: four hundred cats
+
+Mini-dictionary:
+  Croatian:
+    - bicikala: undefined
+    - bicikl: undefined
+    - devetsto: undefined
+    - dječaka: undefined
+    - dolara: undefined
+    - dva: undefined
+    - dvije: undefined
+    - dvjesto: undefined
+    - jedan: undefined
+    - mačaka: undefined
+    - muškaraca: undefined
+    - osam: undefined
+    - osamsto: undefined
+    - pasa: undefined
+    - petsto: undefined
+    - polja: undefined
+    - računala: undefined
+    - rubalja: undefined
+    - sat: undefined
+    - sedam: undefined
+    - sedamsto: undefined
+    - sto: undefined
+    - stvari: undefined
+    - sunca: undefined
+    - tisuća: undefined
+    - tisuće: undefined
+    - tri: undefined
+    - tristo: undefined
+    - četiri: undefined
+    - četiristo: undefined
+    - šeststo: undefined
+    - žena: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - fields: undefined
+    - five: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - nine: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - suns: undefined
+    - things: undefined
+    - thousand: undefined
+    - three: undefined
+    - two: undefined
+    - women: undefined

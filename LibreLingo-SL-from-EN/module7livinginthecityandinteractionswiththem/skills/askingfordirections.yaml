@@ -1,0 +1,167 @@
+Skill:
+  Name: Asking for Directions
+  Id: 25
+
+New words:
+  - Word: kje
+    Translation: where
+  - Word: kod
+    Translation: which way
+  - Word: desno
+    Translation: to the right
+  - Word: levo
+    Translation: to the left
+  - Word: naravnost
+    Translation: straight
+  - Word: blizu
+    Translation: near
+  - Word: daleč
+    Translation: far
+  - Word: vprašati
+    Translation: to ask
+  - Word: pokazati
+    Translation: to show
+  - Word: pot
+    Translation: path/way
+
+Phrases:
+  - Phrase: Kje je postaja?
+    Translation: Where is the station?
+  - Phrase: Kod gre cesta?
+    Translation: Which way does the road go?
+  - Phrase: Gremo desno.
+    Translation: We are going to the right.
+  - Phrase: Potem levo.
+    Translation: Then to the left.
+  - Phrase: Pojdi naravnost do mostu.
+    Translation: Go straight to the bridge.
+  - Phrase: Prospekt je blizu trga.
+    Translation: The avenue is near the square.
+  - Phrase: Knjižnica je daleč.
+    Translation: The library is far away.
+  - Phrase: Vprašam jih za pot.
+    Translation: I ask them for the way.
+  - Phrase: Mi lahko pokažete pot?
+    Translation: Can you show me the way?
+  - Phrase: Ulica gre do centra.
+    Translation: The street goes to the center.
+  - Phrase: Kje je bližnji hotel?
+    Translation: Where is the nearest hotel?
+  - Phrase: Kod greste?
+    Translation: Which way are you going?
+  - Phrase: Gresta naravnost in potem desno.
+    Translation: Go straight and then to the right.
+  - Phrase: Postaja je levo.
+    Translation: The station is on the left.
+  - Phrase: Trgovina je blizu knjižnice.
+    Translation: The shop is near the library.
+  - Phrase: Trg je daleč od hotela.
+    Translation: The square is far from the hotel.
+  - Phrase: Vprašam staro žensko.
+    Translation: I ask the old woman.
+  - Phrase: On mi pokaže pot.
+    Translation: He shows me the way.
+  - Phrase: Ulica je dolga.
+    Translation: The street is long.
+  - Phrase: Kod gre tisti vlak?
+    Translation: Where is that train going?
+
+Mini-dictionary:
+  Slovenian:
+    - blizu: undefined
+    - bližnji: undefined
+    - centra: undefined
+    - cesta: undefined
+    - daleč: undefined
+    - desno: undefined
+    - do: undefined
+    - dolga: undefined
+    - gre: undefined
+    - gremo: undefined
+    - gresta: undefined
+    - greste: undefined
+    - hotel: undefined
+    - hotela: undefined
+    - in: undefined
+    - je: undefined
+    - jih: undefined
+    - kje: undefined
+    - knjižnica: undefined
+    - knjižnice: undefined
+    - kod: undefined
+    - lahko: undefined
+    - levo: undefined
+    - mi: undefined
+    - mostu: undefined
+    - naravnost: undefined
+    - od: undefined
+    - on: undefined
+    - pojdi: undefined
+    - pokazati: undefined
+    - pokaže: undefined
+    - pokažete: undefined
+    - postaja: undefined
+    - pot: undefined
+    - potem: undefined
+    - prospekt: undefined
+    - staro: undefined
+    - tisti: undefined
+    - trg: undefined
+    - trga: undefined
+    - trgovina: undefined
+    - ulica: undefined
+    - vlak: undefined
+    - vprašam: undefined
+    - vprašati: undefined
+    - za: undefined
+    - žensko: undefined
+  English:
+    - and: undefined
+    - are: undefined
+    - ask: undefined
+    - avenue: undefined
+    - away: undefined
+    - bridge: undefined
+    - can: undefined
+    - center: undefined
+    - does: undefined
+    - far: undefined
+    - for: undefined
+    - from: undefined
+    - go: undefined
+    - goes: undefined
+    - going: undefined
+    - he: undefined
+    - hotel: undefined
+    - i: undefined
+    - is: undefined
+    - left: undefined
+    - library: undefined
+    - long: undefined
+    - me: undefined
+    - near: undefined
+    - nearest: undefined
+    - old: undefined
+    - on: undefined
+    - path/way: undefined
+    - right: undefined
+    - road: undefined
+    - shop: undefined
+    - show: undefined
+    - shows: undefined
+    - square: undefined
+    - station: undefined
+    - straight: undefined
+    - street: undefined
+    - that: undefined
+    - the: undefined
+    - them: undefined
+    - then: undefined
+    - to: undefined
+    - train: undefined
+    - way: undefined
+    - we: undefined
+    - where: undefined
+    - which: undefined
+    - woman: undefined
+    - you: undefined

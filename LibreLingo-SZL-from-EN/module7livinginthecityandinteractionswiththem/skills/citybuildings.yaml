@@ -1,0 +1,181 @@
+Skill:
+  Name: City/Buildings
+  Id: 21
+
+New words:
+  - Word: miasto
+    Translation: city
+  - Word: dōm
+    Translation: house
+  - Word: rynek
+    Translation: square/market
+  - Word: banhof
+    Translation: station
+  - Word: most
+    Translation: bridge
+  - Word: sklep
+    Translation: shop/store
+  - Word: torg
+    Translation: market
+  - Word: biblijoteka
+    Translation: library
+  - Word: kościōł
+    Translation: church
+  - Word: banhof
+    Translation: street
+  - Word: wiōńść (wiedzie)
+    Translation: to lead
+
+Phrases:
+  - Phrase: To je wielge miasto.
+    Translation: This is a big city.
+  - Phrase: Dōm stoji na banhofie.
+    Translation: The house stands on the street.
+  - Phrase: Idzymy do rynka.
+    Translation: We are going to the square.
+  - Phrase: Banhof je blisko cyntrum.
+    Translation: The station is near the center.
+  - Phrase: Most idzie bez rzyka.
+    Translation: The bridge goes over the river.
+  - Phrase: Kupujymy chlyb we sklepie.
+    Translation: We buy bread in the shop.
+  - Phrase: Na torgu je moc ludzi.
+    Translation: There are many people at the market.
+  - Phrase: Czytōm ksiónżka we biblijoteka.
+    Translation: I read a book in the library.
+  - Phrase: Kościōł je stary a bioły.
+    Translation: The church is old and white.
+  - Phrase: Banhof je dugi a ciepły.
+    Translation: The street is long and warm.
+  - Phrase: Miasto mo moc dōmōw.
+    Translation: The city has many houses.
+  - Phrase: Sklep je ôdewrzōny dzisiŏj.
+    Translation: The shop is open today.
+  - Phrase: Kościōł stoji blisko biblijoteka.
+    Translation: The church stands near the library.
+  - Phrase: Banhof wiedzie do rynka.
+    Translation: The street leads to the square.
+  - Phrase: Na ryniu stoji fontanna.
+    Translation: A fountain stands in the square.
+  - Phrase: Most je piykny a nowy.
+    Translation: The bridge is beautiful and new.
+  - Phrase: To je mój dōm we mieście.
+    Translation: This is my house in the city.
+  - Phrase: Banhof mo moc cugōw.
+    Translation: The station has many trains.
+  - Phrase: Banhof idzie do sklepu.
+    Translation: The street goes to the shop.
+  - Phrase: Rynek je pełny ludzi.
+    Translation: The square is full of people.
+
+Mini-dictionary:
+  Silesian:
+    - a: undefined
+    - banhof: undefined
+    - banhofie: undefined
+    - bez: undefined
+    - biblijoteka: undefined
+    - bioły: undefined
+    - blisko: undefined
+    - chlyb: undefined
+    - ciepły: undefined
+    - cugōw: undefined
+    - cyntrum: undefined
+    - czytōm: undefined
+    - do: undefined
+    - dugi: undefined
+    - dzisiŏj: undefined
+    - dōm: undefined
+    - dōmōw: undefined
+    - fontanna: undefined
+    - idzie: undefined
+    - idzymy: undefined
+    - je: undefined
+    - kościōł: undefined
+    - ksiónżka: undefined
+    - kupujymy: undefined
+    - ludzi: undefined
+    - miasto: undefined
+    - mieście: undefined
+    - mo: undefined
+    - moc: undefined
+    - most: undefined
+    - mój: undefined
+    - na: undefined
+    - nowy: undefined
+    - pełny: undefined
+    - piykny: undefined
+    - rynek: undefined
+    - ryniu: undefined
+    - rynka: undefined
+    - rzyka: undefined
+    - sklep: undefined
+    - sklepie: undefined
+    - sklepu: undefined
+    - stary: undefined
+    - stoji: undefined
+    - to: undefined
+    - torg: undefined
+    - torgu: undefined
+    - we: undefined
+    - wiedzie: undefined
+    - wielge: undefined
+    - wiōńść: undefined
+    - ôdewrzōny: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beautiful: undefined
+    - big: undefined
+    - book: undefined
+    - bread: undefined
+    - bridge: undefined
+    - buy: undefined
+    - center: undefined
+    - church: undefined
+    - city: undefined
+    - fountain: undefined
+    - full: undefined
+    - goes: undefined
+    - going: undefined
+    - has: undefined
+    - house: undefined
+    - houses: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - lead: undefined
+    - leads: undefined
+    - library: undefined
+    - long: undefined
+    - many: undefined
+    - market: undefined
+    - my: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - over: undefined
+    - people: undefined
+    - read: undefined
+    - river: undefined
+    - shop: undefined
+    - shop/store: undefined
+    - square: undefined
+    - square/market: undefined
+    - stands: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - today: undefined
+    - trains: undefined
+    - warm: undefined
+    - we: undefined
+    - white: undefined

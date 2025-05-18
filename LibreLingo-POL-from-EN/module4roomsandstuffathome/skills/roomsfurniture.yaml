@@ -1,0 +1,198 @@
+Skill:
+  Name: Rooms/furniture
+  Id: 12
+
+New words:
+  - Word: pokój
+    Translation: room
+  - Word: stół
+    Translation: table
+  - Word: krzesło
+    Translation: chair
+  - Word: poduszka
+    Translation: pillow
+  - Word: łóżko
+    Translation: bed
+  - Word: okno
+    Translation: window
+  - Word: drzwi
+    Translation: doors
+  - Word: szafa
+    Translation: wardrobe
+  - Word: skrzynia
+    Translation: chest
+  - Word: półka
+    Translation: shelf
+  - Word: trzymać (trzyma)
+    Translation: to hold
+  - Word: wisieć (wisi)
+    Translation: to hang
+  - Word: ściana
+    Translation: wall
+  - Word: lampa
+    Translation: lamp
+  - Word: dawać
+    Translation: to give
+
+Phrases:
+  - Phrase: Pokój jest ciepły i cichy.
+    Translation: The room is warm and quiet.
+  - Phrase: Stół stoi w środku pokoju.
+    Translation: The table stands in the middle of the room.
+  - Phrase: Krzesło jest blisko stołu.
+    Translation: The chair is near the table.
+  - Phrase: Łóżko jest miękkie.
+    Translation: The bed is soft.
+  - Phrase: Okno jest otwarte.
+    Translation: The window is open.
+  - Phrase: Drzwi są zamknięte.
+    Translation: The doors are closed.
+  - Phrase: Szafa ma dużo odzieży.
+    Translation: The wardrobe has many clothes.
+  - Phrase: Skrzynia jest pod łóżkiem.
+    Translation: The chest is under the bed.
+  - Phrase: Półka trzyma książki.
+    Translation: The shelf holds books.
+  - Phrase: Lampa świeci nad stołem.
+    Translation: The lamp shines above the table.
+  - Phrase: Pokój ma dwa okna.
+    Translation: The room has two windows.
+  - Phrase: Na stole leży książka.
+    Translation: A book is lying on the table.
+  - Phrase: Krzesło jest stare, ale wygodne.
+    Translation: The chair is old, but comfortable.
+  - Phrase: Łóżko jest nowe.
+    Translation: The bed is new.
+  - Phrase: Drzwi prowadzą do kuchni.
+    Translation: The doors lead to the kitchen.
+  - Phrase: Szafa jest pełna.
+    Translation: The wardrobe is full.
+  - Phrase: Skrzynia jest z drewna.
+    Translation: The chest is made of wood.
+  - Phrase: Półka wisi na ścianie.
+    Translation: The shelf hangs on the wall.
+  - Phrase: Lampa daje światło.
+    Translation: The lamp gives light.
+  - Phrase: W pokoju jest spokojnie.
+    Translation: It is quiet in the room.
+
+Mini-dictionary:
+  Polish:
+    - ale: undefined
+    - blisko: undefined
+    - cichy: undefined
+    - ciepły: undefined
+    - daje: undefined
+    - dawać: undefined
+    - do: undefined
+    - drewna: undefined
+    - drzwi: undefined
+    - dużo: undefined
+    - dwa: undefined
+    - i: undefined
+    - jest: undefined
+    - krzesło: undefined
+    - książka: undefined
+    - książki: undefined
+    - kuchni: undefined
+    - lampa: undefined
+    - leży: undefined
+    - ma: undefined
+    - miękkie: undefined
+    - na: undefined
+    - nad: undefined
+    - nowe: undefined
+    - odzieży: undefined
+    - okna: undefined
+    - okno: undefined
+    - otwarte: undefined
+    - pełna: undefined
+    - pod: undefined
+    - poduszka: undefined
+    - pokoju: undefined
+    - pokój: undefined
+    - prowadzą: undefined
+    - półka: undefined
+    - skrzynia: undefined
+    - spokojnie: undefined
+    - stare: undefined
+    - stoi: undefined
+    - stole: undefined
+    - stołem: undefined
+    - stołu: undefined
+    - stół: undefined
+    - szafa: undefined
+    - są: undefined
+    - trzyma: undefined
+    - trzymać: undefined
+    - w: undefined
+    - wisi: undefined
+    - wisieć: undefined
+    - wygodne: undefined
+    - z: undefined
+    - zamknięte: undefined
+    - łóżkiem: undefined
+    - łóżko: undefined
+    - ściana: undefined
+    - ścianie: undefined
+    - środku: undefined
+    - światło: undefined
+    - świeci: undefined
+  English:
+    - a: undefined
+    - above: undefined
+    - and: undefined
+    - are: undefined
+    - bed: undefined
+    - book: undefined
+    - books: undefined
+    - but: undefined
+    - chair: undefined
+    - chest: undefined
+    - closed: undefined
+    - clothes: undefined
+    - comfortable: undefined
+    - doors: undefined
+    - full: undefined
+    - give: undefined
+    - gives: undefined
+    - hang: undefined
+    - hangs: undefined
+    - has: undefined
+    - hold: undefined
+    - holds: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - kitchen: undefined
+    - lamp: undefined
+    - lead: undefined
+    - light: undefined
+    - lying: undefined
+    - made: undefined
+    - many: undefined
+    - middle: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - pillow: undefined
+    - quiet: undefined
+    - room: undefined
+    - shelf: undefined
+    - shines: undefined
+    - soft: undefined
+    - stands: undefined
+    - table: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - under: undefined
+    - wall: undefined
+    - wardrobe: undefined
+    - warm: undefined
+    - window: undefined
+    - windows: undefined
+    - wood: undefined

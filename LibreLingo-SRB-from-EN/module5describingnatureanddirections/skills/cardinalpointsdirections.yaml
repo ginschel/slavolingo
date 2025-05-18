@@ -1,0 +1,208 @@
+Skill:
+  Name: Cardinal points/directions
+  Id: 18
+
+New words:
+  - Word: север
+    Translation: north
+  - Word: југ
+    Translation: south
+  - Word: запад
+    Translation: west
+  - Word: возход
+    Translation: east
+  - Word: северни
+    Translation: northern
+  - Word: јужни
+    Translation: southern
+  - Word: западни
+    Translation: western
+  - Word: возходни
+    Translation: eastern
+  - Word: компас
+    Translation: compass
+  - Word: страна
+    Translation: side
+  - Word: где
+    Translation: where
+  - Word: встати (встане)
+    Translation: to rise
+  - Word: показовати
+    Translation: to show
+  - Word: мапа
+    Translation: map
+  - Word: путовати
+    Translation: to travel
+  - Word: право
+    Translation: right
+  - Word: лево
+    Translation: left
+  - Word: премо
+    Translation: straight
+
+Phrases:
+  - Phrase: Север јест хладни.
+    Translation: The north is cold.
+  - Phrase: Југ јест тепли.
+    Translation: The south is warm.
+  - Phrase: Солнце встане на возходу.
+    Translation: The sun rises in the east.
+  - Phrase: Оно запада на западу.
+    Translation: It sets in the west.
+  - Phrase: То јест северна страна.
+    Translation: This is the northern side.
+  - Phrase: Живемо на југу.
+    Translation: We live in the south.
+  - Phrase: Компас показује север.
+    Translation: The compass shows north.
+  - Phrase: Возход јест там.
+    Translation: The east is there.
+  - Phrase: Западни ветр дује.
+    Translation: A western wind is blowing.
+  - Phrase: Идемо к југо-западу.
+    Translation: We are going to the southwest.
+  - Phrase: То јест северо-западни регион.
+    Translation: This is the northwestern region.
+  - Phrase: Страна на мапе показује запад.
+    Translation: The side on the map shows west.
+  - Phrase: Југо-возход јест там, где греје солнце.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Идемо до јужној страни.
+    Translation: We are going to the southern side.
+  - Phrase: Он путује возходно.
+    Translation: He travels eastward.
+  - Phrase: На северу јест снег.
+    Translation: In the north there is snow.
+  - Phrase: Јужни краје сут тепле.
+    Translation: The southern regions are warm.
+  - Phrase: Запад јест лево на мапе.
+    Translation: West is left on the map.
+  - Phrase: Возходна музика јест интересна.
+    Translation: Eastern music is interesting.
+  - Phrase: Гледамо к север.
+    Translation: We are looking to the north.
+  - Phrase: Идемо ту час вправо и потом премо.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Serbian:
+    - ветр: undefined
+    - возход: undefined
+    - возходна: undefined
+    - возходни: undefined
+    - возходно: undefined
+    - возходу: undefined
+    - вправо: undefined
+    - встане: undefined
+    - встати: undefined
+    - где: undefined
+    - гледамо: undefined
+    - греје: undefined
+    - до: undefined
+    - дује: undefined
+    - живемо: undefined
+    - запад: undefined
+    - запада: undefined
+    - западни: undefined
+    - западу: undefined
+    - и: undefined
+    - идемо: undefined
+    - интересна: undefined
+    - к: undefined
+    - компас: undefined
+    - краје: undefined
+    - лево: undefined
+    - мапа: undefined
+    - мапе: undefined
+    - музика: undefined
+    - на: undefined
+    - он: undefined
+    - оно: undefined
+    - показовати: undefined
+    - показује: undefined
+    - потом: undefined
+    - право: undefined
+    - премо: undefined
+    - путовати: undefined
+    - путује: undefined
+    - регион: undefined
+    - север: undefined
+    - северна: undefined
+    - северни: undefined
+    - северо-западни: undefined
+    - северу: undefined
+    - снег: undefined
+    - солнце: undefined
+    - страна: undefined
+    - страни: undefined
+    - сут: undefined
+    - там: undefined
+    - тепле: undefined
+    - тепли: undefined
+    - то: undefined
+    - ту: undefined
+    - хладни: undefined
+    - час: undefined
+    - јест: undefined
+    - југ: undefined
+    - југо-возход: undefined
+    - југо-западу: undefined
+    - југу: undefined
+    - јужни: undefined
+    - јужној: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - blowing: undefined
+    - cold: undefined
+    - compass: undefined
+    - east: undefined
+    - eastern: undefined
+    - eastward: undefined
+    - going: undefined
+    - he: undefined
+    - in: undefined
+    - interesting: undefined
+    - is: undefined
+    - it: undefined
+    - left: undefined
+    - live: undefined
+    - looking: undefined
+    - map: undefined
+    - music: undefined
+    - north: undefined
+    - northern: undefined
+    - northwestern: undefined
+    - now: undefined
+    - on: undefined
+    - region: undefined
+    - regions: undefined
+    - right: undefined
+    - rise: undefined
+    - rises: undefined
+    - sets: undefined
+    - show: undefined
+    - shows: undefined
+    - side: undefined
+    - snow: undefined
+    - south: undefined
+    - southeast: undefined
+    - southern: undefined
+    - southwest: undefined
+    - straight: undefined
+    - sun: undefined
+    - the: undefined
+    - then: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - travel: undefined
+    - travels: undefined
+    - warm: undefined
+    - warms: undefined
+    - we: undefined
+    - west: undefined
+    - western: undefined
+    - where: undefined
+    - wind: undefined

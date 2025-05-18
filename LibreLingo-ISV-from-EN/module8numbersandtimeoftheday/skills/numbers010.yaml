@@ -1,0 +1,164 @@
+Skill:
+  Name: Numbers 0-10
+  Id: 26
+
+New words:
+  - Word: nula
+    Translation: zero
+  - Word: jedin
+    Translation: one
+  - Word: jedna
+    Translation: one
+  - Word: jedno
+    Translation: one
+  - Word: dva
+    Translation: two
+  - Word: dvě
+    Translation: two
+  - Word: tri
+    Translation: three
+  - Word: četyri
+    Translation: four
+  - Word: pet
+    Translation: five
+  - Word: šest
+    Translation: six
+  - Word: sedm
+    Translation: seven
+  - Word: osm
+    Translation: eight
+  - Word: devet
+    Translation: nine
+  - Word: deset
+    Translation: ten
+  - Word: časovnik
+    Translation: clock/watch
+  - Word: hlapec
+    Translation: boy
+  - Word: kompjuter
+    Translation: computer
+  - Word: velosiped
+    Translation: bicycle
+  - Word: rublja
+    Translation: ruble
+  - Word: žena
+    Translation: woman
+  - Word: polje
+    Translation: field
+  - Word: kot
+    Translation: cat
+  - Word: dolar
+    Translation: dollar
+
+Phrases:
+  - Phrase: nula časovnikov
+    Translation: zero clocks
+  - Phrase: jedin hlapec
+    Translation: one boy
+  - Phrase: jedna žena
+    Translation: one woman
+  - Phrase: jedno polje
+    Translation: one field
+  - Phrase: dva hlapci
+    Translation: two boys
+  - Phrase: dvě ženy
+    Translation: two women
+  - Phrase: tri koti
+    Translation: three cats
+  - Phrase: četyri velosipedy
+    Translation: four bicycles
+  - Phrase: pet hlapcev
+    Translation: five boys
+  - Phrase: šest velosipedov
+    Translation: six bicycles
+  - Phrase: sedm rubljev
+    Translation: seven rubles
+  - Phrase: osm dolarov
+    Translation: eight dollars
+  - Phrase: devet kompjuterov
+    Translation: nine computers
+  - Phrase: deset časovnikov
+    Translation: ten clocks
+  - Phrase: dvě věči
+    Translation: two things
+  - Phrase: jedno solnce
+    Translation: one sun
+  - Phrase: jedin velosiped
+    Translation: one bicycle
+  - Phrase: četyri dolary
+    Translation: four dollars
+  - Phrase: tri koti
+    Translation: three cats
+  - Phrase: pet kotov
+    Translation: five cats
+
+Mini-dictionary:
+  Interslavic:
+    - deset: undefined
+    - devet: undefined
+    - dolar: undefined
+    - dolarov: undefined
+    - dolary: undefined
+    - dva: undefined
+    - dvě: undefined
+    - hlapcev: undefined
+    - hlapci: undefined
+    - hlapec: undefined
+    - jedin: undefined
+    - jedna: undefined
+    - jedno: undefined
+    - kompjuter: undefined
+    - kompjuterov: undefined
+    - kot: undefined
+    - koti: undefined
+    - kotov: undefined
+    - nula: undefined
+    - osm: undefined
+    - pet: undefined
+    - polje: undefined
+    - rublja: undefined
+    - rubljev: undefined
+    - sedm: undefined
+    - solnce: undefined
+    - tri: undefined
+    - velosiped: undefined
+    - velosipedov: undefined
+    - velosipedy: undefined
+    - věči: undefined
+    - časovnik: undefined
+    - časovnikov: undefined
+    - četyri: undefined
+    - šest: undefined
+    - žena: undefined
+    - ženy: undefined
+  English:
+    - bicycle: undefined
+    - bicycles: undefined
+    - boy: undefined
+    - boys: undefined
+    - cat: undefined
+    - cats: undefined
+    - clock/watch: undefined
+    - clocks: undefined
+    - computer: undefined
+    - computers: undefined
+    - dollar: undefined
+    - dollars: undefined
+    - eight: undefined
+    - field: undefined
+    - five: undefined
+    - four: undefined
+    - nine: undefined
+    - one: undefined
+    - ruble: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - sun: undefined
+    - ten: undefined
+    - things: undefined
+    - three: undefined
+    - two: undefined
+    - woman: undefined
+    - women: undefined
+    - zero: undefined

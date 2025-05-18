@@ -1,0 +1,188 @@
+Skill:
+  Name: Transport/Vehicles/Car
+  Id: 23
+
+New words:
+  - Word: aùto
+    Translation: car
+  - Word: aùtobus
+    Translation: bus
+  - Word: ban
+    Translation: train
+  - Word: kòło
+    Translation: bicycle
+  - Word: stacëjô
+    Translation: station
+  - Word: szôfera
+    Translation: driver
+  - Word: droga
+    Translation: road
+  - Word: môst
+    Translation: bridge
+  - Word: chùtosc
+    Translation: speed
+  - Word: semafor
+    Translation: traffic light
+  - Word: jidz (jidze)
+    Translation: to go/drive
+  - Word: sëdnąc (sëdnie)
+    Translation: to sit
+  - Word: związac (zwiąże)
+    Translation: to connect/tie
+  - Word: zbëtô
+    Translation: broken
+  - Word: òstrożni
+    Translation: careful
+
+Phrases:
+  - Phrase: Aùto stoji na ùlicë.
+    Translation: The car is standing on the street.
+  - Phrase: Aùtobus jidze do centra.
+    Translation: The bus goes to the center.
+  - Phrase: Ban jidze na stacëjã.
+    Translation: The train goes to the station.
+  - Phrase: Tu je sedzenié. Môżna sëdnąc
+    Translation: Here is a seat. One can sit.
+  - Phrase: Stacëjô je wiôlgô.
+    Translation: The station is big.
+  - Phrase: Szôfera jidze chùtczi.
+    Translation: The driver drives fast.
+  - Phrase: Droga jidze przez las.
+    Translation: The road goes through the forest.
+  - Phrase: Môst zwiąże dwa gardë.
+    Translation: The bridge connects two cities.
+  - Phrase: Chùtosc je wôżna dlô bezpiéczeństwô na ùlicë.
+    Translation: A speed limit is important for the security on the street.
+  - Phrase: Semafor pòkôzëje czôrné.
+    Translation: The traffic light shows red.
+  - Phrase: Aùto je nowé i snôżé.
+    Translation: The car is new and beautiful.
+  - Phrase: Aùtobus wiedze wiele lëdzy.
+    Translation: The bus carries many people.
+  - Phrase: Ban jidze na nordã.
+    Translation: The train goes to the north.
+  - Phrase: Kòło je zbité.
+    Translation: The bicycle is broken.
+  - Phrase: Stacëjô je òtemkłô.
+    Translation: The station is open.
+  - Phrase: Szôfera je òstrożni.
+    Translation: The driver is careful.
+  - Phrase: Droga je szërokô.
+    Translation: The road is wide.
+  - Phrase: Môst je wësokò.
+    Translation: The bridge is high.
+  - Phrase: Chùtosc je ògraniczonô.
+    Translation: The speed is limited.
+  - Phrase: Semafor pòkôzëje zieloné.
+    Translation: The traffic light shows green.
+
+Mini-dictionary:
+  Kashubian:
+    - aùto: undefined
+    - aùtobus: undefined
+    - ban: undefined
+    - bezpiéczeństwô: undefined
+    - centra: undefined
+    - chùtczi: undefined
+    - chùtosc: undefined
+    - czôrné: undefined
+    - dlô: undefined
+    - do: undefined
+    - droga: undefined
+    - dwa: undefined
+    - gardë: undefined
+    - i: undefined
+    - je: undefined
+    - jidz: undefined
+    - jidze: undefined
+    - kòło: undefined
+    - las: undefined
+    - lëdzy: undefined
+    - môst: undefined
+    - môżna: undefined
+    - na: undefined
+    - nordã: undefined
+    - nowé: undefined
+    - przez: undefined
+    - pòkôzëje: undefined
+    - sedzenié: undefined
+    - semafor: undefined
+    - snôżé: undefined
+    - stacëjã: undefined
+    - stacëjô: undefined
+    - stoji: undefined
+    - szërokô: undefined
+    - szôfera: undefined
+    - sëdnie: undefined
+    - sëdnąc: undefined
+    - tu: undefined
+    - wiedze: undefined
+    - wiele: undefined
+    - wiôlgô: undefined
+    - wësokò: undefined
+    - wôżna: undefined
+    - zbité: undefined
+    - zbëtô: undefined
+    - zieloné: undefined
+    - związac: undefined
+    - zwiąże: undefined
+    - ògraniczonô: undefined
+    - òstrożni: undefined
+    - òtemkłô: undefined
+    - ùlicë: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - beautiful: undefined
+    - bicycle: undefined
+    - big: undefined
+    - bridge: undefined
+    - broken: undefined
+    - bus: undefined
+    - can: undefined
+    - car: undefined
+    - careful: undefined
+    - carries: undefined
+    - center: undefined
+    - cities: undefined
+    - connect/tie: undefined
+    - connects: undefined
+    - driver: undefined
+    - drives: undefined
+    - fast: undefined
+    - for: undefined
+    - forest: undefined
+    - go/drive: undefined
+    - goes: undefined
+    - green: undefined
+    - here: undefined
+    - high: undefined
+    - important: undefined
+    - is: undefined
+    - light: undefined
+    - limit: undefined
+    - limited: undefined
+    - many: undefined
+    - new: undefined
+    - north: undefined
+    - on: undefined
+    - one: undefined
+    - open: undefined
+    - people: undefined
+    - red: undefined
+    - road: undefined
+    - seat: undefined
+    - security: undefined
+    - shows: undefined
+    - sit: undefined
+    - speed: undefined
+    - standing: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - through: undefined
+    - to: undefined
+    - traffic: undefined
+    - train: undefined
+    - two: undefined
+    - wide: undefined

@@ -1,0 +1,194 @@
+Skill:
+  Name: Hobbies (Verbs – Imperfective only)
+  Id: 4
+
+New words:
+  - Word: читати
+    Translation: to read
+  - Word: писати(пишєтъ)
+    Translation: to write
+  - Word: играти
+    Translation: to play
+  - Word: глѧдѣти
+    Translation: to watch
+  - Word: слꙋшати
+    Translation: to listen
+  - Word: малѥвати
+    Translation: to paint
+  - Word: пѣти
+    Translation: to sing
+  - Word: оучити сѧ
+    Translation: to learn
+  - Word: сѣдѣти(сѣдитъ)
+    Translation: to sit
+  - Word: шити (шиѥтъ)
+    Translation: to sew
+  - Word: таньцьѥвати
+    Translation: to dance
+
+Phrases:
+  - Phrase: Азъ читамъ книгѫ.
+    Translation: I am reading a book.
+  - Phrase: Она пишєтъ письма.
+    Translation: She is writing letters.
+  - Phrase: Онъ играѥтъ въ фꙋтболъ.
+    Translation: He is playing football.
+  - Phrase: Мꙑ глѧдѣѥмъ фильмъ.
+    Translation: We are watching a film.
+  - Phrase: Они слꙋшаѭтъ мꙋзикѫ.
+    Translation: They are listening to music.
+  - Phrase: Она сѣдитъ и читаѥтъ.
+    Translation: She is sitting and reading.
+  - Phrase: Азъ малѥѭ образъ.
+    Translation: I am painting a picture.
+  - Phrase: Онъ пѣваѥтъ пѣсниѥ.
+    Translation: He is singing songs.
+  - Phrase: Вꙑ оучитє сѧ ѥзꙑка.
+    Translation: You are learning a language.
+  - Phrase: Азъ шиѥмъ одѣждѫ.
+    Translation: I am sewing clothes.
+  - Phrase: Тꙑ глѧдѣши сєриѭ?
+    Translation: Are you watching a series?
+  - Phrase: Мꙑ играѥмъ въ шахъ.
+    Translation: We are playing chess.
+  - Phrase: Они слꙋшаѭтъ радио.
+    Translation: They are listening to the radio.
+  - Phrase: Читаѥши тꙑ романꙑ?
+    Translation: Do you read novels?
+  - Phrase: Онъ пишєтъ дьньвникъ.
+    Translation: He is writing a diary.
+  - Phrase: Оучимо сѧ тѫ.
+    Translation: We are learning here.
+  - Phrase: Малѥѥмъ съ приꙗтєлꙗми образꙑ.
+    Translation: We are painting pictures with friends.
+  - Phrase: Тꙑ шиѥши?
+    Translation: Are you sewing?
+  - Phrase: Азъ пѣвамъ съ грꙋпоѭ.
+    Translation: I am singing with a group.
+  - Phrase: Азъ таньцьѥѭ мьного
+    Translation: I dance a lot
+  - Phrase: Она играѥтъ на гитарꙋ.
+    Translation: She is playing the guitar.
+
+Mini-dictionary:
+  Church Slavonic:
+    - азъ: undefined
+    - въ: undefined
+    - вꙑ: undefined
+    - гитарꙋ: undefined
+    - глѧдѣти: undefined
+    - глѧдѣши: undefined
+    - глѧдѣѥмъ: undefined
+    - грꙋпоѭ: undefined
+    - дьньвникъ: undefined
+    - и: undefined
+    - играти: undefined
+    - играѥмъ: undefined
+    - играѥтъ: undefined
+    - книгѫ: undefined
+    - малѥвати: undefined
+    - малѥѥмъ: undefined
+    - малѥѭ: undefined
+    - мьного: undefined
+    - мꙋзикѫ: undefined
+    - мꙑ: undefined
+    - на: undefined
+    - образъ: undefined
+    - образꙑ: undefined
+    - одѣждѫ: undefined
+    - она: undefined
+    - они: undefined
+    - онъ: undefined
+    - оучимо: undefined
+    - оучити: undefined
+    - оучитє: undefined
+    - писати: undefined
+    - письма: undefined
+    - пишєтъ: undefined
+    - приꙗтєлꙗми: undefined
+    - пѣвамъ: undefined
+    - пѣваѥтъ: undefined
+    - пѣсниѥ: undefined
+    - пѣти: undefined
+    - радио: undefined
+    - романꙑ: undefined
+    - слꙋшати: undefined
+    - слꙋшаѭтъ: undefined
+    - съ: undefined
+    - сєриѭ: undefined
+    - сѣдитъ: undefined
+    - сѣдѣти: undefined
+    - сѧ: undefined
+    - таньцьѥвати: undefined
+    - таньцьѥѭ: undefined
+    - тѫ: undefined
+    - тꙑ: undefined
+    - фильмъ: undefined
+    - фꙋтболъ: undefined
+    - читамъ: undefined
+    - читати: undefined
+    - читаѥтъ: undefined
+    - читаѥши: undefined
+    - шахъ: undefined
+    - шити: undefined
+    - шиѥмъ: undefined
+    - шиѥтъ: undefined
+    - шиѥши: undefined
+    - ѥзꙑка: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - book: undefined
+    - chess: undefined
+    - clothes: undefined
+    - dance: undefined
+    - diary: undefined
+    - do: undefined
+    - film: undefined
+    - football: undefined
+    - friends: undefined
+    - group: undefined
+    - guitar: undefined
+    - he: undefined
+    - here: undefined
+    - i: undefined
+    - is: undefined
+    - language: undefined
+    - learn: undefined
+    - learning: undefined
+    - letters: undefined
+    - listen: undefined
+    - listening: undefined
+    - lot: undefined
+    - music: undefined
+    - novels: undefined
+    - paint: undefined
+    - painting: undefined
+    - picture: undefined
+    - pictures: undefined
+    - play: undefined
+    - playing: undefined
+    - radio: undefined
+    - read: undefined
+    - reading: undefined
+    - series: undefined
+    - sew: undefined
+    - sewing: undefined
+    - she: undefined
+    - sing: undefined
+    - singing: undefined
+    - sit: undefined
+    - sitting: undefined
+    - songs: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - watch: undefined
+    - watching: undefined
+    - we: undefined
+    - with: undefined
+    - write: undefined
+    - writing: undefined
+    - you: undefined

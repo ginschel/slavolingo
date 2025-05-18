@@ -1,0 +1,129 @@
+Skill:
+  Name: Numbers 100-1000
+  Id: 29
+
+New words:
+  - Word: sto
+    Translation: one hundred
+  - Word: dvěstě
+    Translation: two hundred
+  - Word: třista
+    Translation: three hundred
+  - Word: čtyřista
+    Translation: four hundred
+  - Word: pětset
+    Translation: five hundred
+  - Word: šestset
+    Translation: six hundred
+  - Word: sedmset
+    Translation: seven hundred
+  - Word: osmset
+    Translation: eight hundred
+  - Word: devětset
+    Translation: nine hundred
+  - Word: tisíc
+    Translation: thousand
+
+Phrases:
+  - Phrase: tisíc jeden hodinek
+    Translation: one thousand one clocks
+  - Phrase: sto chlapců
+    Translation: one hundred boys
+  - Phrase: dvěstě žen
+    Translation: two hundred women
+  - Phrase: třista polí
+    Translation: three hundred fields
+  - Phrase: čtyřista mužů
+    Translation: four hundred men
+  - Phrase: pětset žen
+    Translation: five hundred women
+  - Phrase: šestset koček
+    Translation: six hundred cats
+  - Phrase: sedmset jeden jízdní kolo
+    Translation: seven hundred one bicycles
+  - Phrase: osmset chlapců
+    Translation: eight hundred boys
+  - Phrase: devětset jízdních kol
+    Translation: nine hundred bicycles
+  - Phrase: tisíc osm rublů
+    Translation: one thousand eight rubles
+  - Phrase: čtyřista sedm dolarů
+    Translation: four hundred seven dollars
+  - Phrase: dvěstě tři počítačů
+    Translation: two hundred three computers
+  - Phrase: sedmset jeden hodinek
+    Translation: seven hundred one clocks
+  - Phrase: třista čtyři věci
+    Translation: three hundred four things
+  - Phrase: sto dva slunce
+    Translation: one hundred two suns
+  - Phrase: šestset jízdních kol
+    Translation: six hundred bicycles
+  - Phrase: osmset dolarů
+    Translation: eight hundred dollars
+  - Phrase: dvě tisíce devětset psů
+    Translation: two thousand nine hundred dogs
+  - Phrase: čtyřista koček
+    Translation: four hundred cats
+
+Mini-dictionary:
+  Czech:
+    - chlapců: undefined
+    - devětset: undefined
+    - dolarů: undefined
+    - dva: undefined
+    - dvě: undefined
+    - dvěstě: undefined
+    - hodinek: undefined
+    - jeden: undefined
+    - jízdní: undefined
+    - jízdních: undefined
+    - kol: undefined
+    - kolo: undefined
+    - koček: undefined
+    - mužů: undefined
+    - osm: undefined
+    - osmset: undefined
+    - polí: undefined
+    - počítačů: undefined
+    - psů: undefined
+    - pětset: undefined
+    - rublů: undefined
+    - sedm: undefined
+    - sedmset: undefined
+    - slunce: undefined
+    - sto: undefined
+    - tisíc: undefined
+    - tisíce: undefined
+    - tři: undefined
+    - třista: undefined
+    - věci: undefined
+    - čtyři: undefined
+    - čtyřista: undefined
+    - šestset: undefined
+    - žen: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - fields: undefined
+    - five: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - nine: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - suns: undefined
+    - things: undefined
+    - thousand: undefined
+    - three: undefined
+    - two: undefined
+    - women: undefined

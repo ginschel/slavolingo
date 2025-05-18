@@ -1,0 +1,172 @@
+Skill:
+  Name: Ordinal Numbers
+  Id: 30
+
+New words:
+  - Word: prvi
+    Translation: first
+  - Word: drugi
+    Translation: second
+  - Word: treći
+    Translation: third
+  - Word: četvrti
+    Translation: fourth
+  - Word: peti
+    Translation: fifth
+  - Word: šesti
+    Translation: sixth
+  - Word: sedmi
+    Translation: seventh
+  - Word: osmi
+    Translation: eighth
+  - Word: deveti
+    Translation: ninth
+  - Word: tisućiti
+    Translation: thousandth
+  - Word: stoti
+    Translation: hundredth
+  - Word: peti tisućiti
+    Translation: five thousandth
+  - Word: sedmi tisućiti
+    Translation: seven thousandth
+  - Word: sat (u smislu 'u koliko sati')
+    Translation: hour
+
+Phrases:
+  - Phrase: o prvoj uri dvadeset
+    Translation: at twenty past the first hour
+  - Phrase: o drugoj uri deset pet
+    Translation: at fifteen past the second hour
+  - Phrase: o trećoj uri dva
+    Translation: at two past the third hour
+  - Phrase: o četvrtoj uri sedam
+    Translation: at seven past the fourth hour
+  - Phrase: o petoj uri
+    Translation: at the fifth hour
+  - Phrase: o šestoj uri
+    Translation: at the sixth hour
+  - Phrase: o osmoj uri pedeset pet
+    Translation: at fifty five past the eighth hour
+  - Phrase: o devetoj uri
+    Translation: at the ninth hour
+  - Phrase: o desetoj uri
+    Translation: at the tenth hour
+  - Phrase: o dvanaestoj uri
+    Translation: at the twelfth hour
+  - Phrase: o jedanaestoj uri trideset tri
+    Translation: at thirty three past the eleventh hour
+  - Phrase: stoti dolar
+    Translation: hundredth dollar
+  - Phrase: dvjesto treće računalo
+    Translation: two hundred third computer
+  - Phrase: dvjestoti sat
+    Translation: two hundredth clock
+  - Phrase: trideseti muškarac
+    Translation: thirtieth man
+  - Phrase: dvjesto prvi brat
+    Translation: two hundred first brother
+  - Phrase: šeststoti bicikl
+    Translation: six hundredth bicycle
+  - Phrase: osamsto drugi dolar
+    Translation: eight hundred second dollar
+  - Phrase: devetstoti pas
+    Translation: nine hundredth dog
+  - Phrase: četiristo peta gora
+    Translation: four hundred fifth mountain
+
+Mini-dictionary:
+  Croatian:
+    - bicikl: undefined
+    - brat: undefined
+    - deset: undefined
+    - desetoj: undefined
+    - deveti: undefined
+    - devetoj: undefined
+    - devetstoti: undefined
+    - dolar: undefined
+    - drugi: undefined
+    - drugoj: undefined
+    - dva: undefined
+    - dvadeset: undefined
+    - dvanaestoj: undefined
+    - dvjesto: undefined
+    - dvjestoti: undefined
+    - gora: undefined
+    - jedanaestoj: undefined
+    - koliko: undefined
+    - muškarac: undefined
+    - o: undefined
+    - osamsto: undefined
+    - osmi: undefined
+    - osmoj: undefined
+    - pas: undefined
+    - pedeset: undefined
+    - pet: undefined
+    - peta: undefined
+    - peti: undefined
+    - petoj: undefined
+    - prvi: undefined
+    - prvoj: undefined
+    - računalo: undefined
+    - sat: undefined
+    - sati: undefined
+    - sedam: undefined
+    - sedmi: undefined
+    - smislu: undefined
+    - stoti: undefined
+    - tisućiti: undefined
+    - treće: undefined
+    - treći: undefined
+    - trećoj: undefined
+    - tri: undefined
+    - trideset: undefined
+    - trideseti: undefined
+    - u: undefined
+    - uri: undefined
+    - četiristo: undefined
+    - četvrti: undefined
+    - četvrtoj: undefined
+    - šesti: undefined
+    - šestoj: undefined
+    - šeststoti: undefined
+  English:
+    - at: undefined
+    - bicycle: undefined
+    - brother: undefined
+    - clock: undefined
+    - computer: undefined
+    - dog: undefined
+    - dollar: undefined
+    - eight: undefined
+    - eighth: undefined
+    - eleventh: undefined
+    - fifteen: undefined
+    - fifth: undefined
+    - fifty: undefined
+    - first: undefined
+    - five: undefined
+    - four: undefined
+    - fourth: undefined
+    - hour: undefined
+    - hundred: undefined
+    - hundredth: undefined
+    - man: undefined
+    - mountain: undefined
+    - nine: undefined
+    - ninth: undefined
+    - past: undefined
+    - second: undefined
+    - seven: undefined
+    - seventh: undefined
+    - six: undefined
+    - sixth: undefined
+    - tenth: undefined
+    - the: undefined
+    - third: undefined
+    - thirtieth: undefined
+    - thirty: undefined
+    - thousandth: undefined
+    - three: undefined
+    - twelfth: undefined
+    - twenty: undefined
+    - two: undefined

@@ -1,0 +1,200 @@
+Skill:
+  Name: Seasons of the year (future tense)
+  Id: 33
+
+New words:
+  - Word: poletje
+    Translation: summer
+  - Word: jesen
+    Translation: autumn
+  - Word: zima
+    Translation: winter
+  - Word: pomlad
+    Translation: spring
+  - Word: letni čas
+    Translation: season
+  - Word: biti
+    Translation: to be
+  - Word: bom
+    Translation: I will be
+  - Word: boš
+    Translation: you will be
+  - Word: bo
+    Translation: he/she/it will be
+  - Word: bomo
+    Translation: we will be
+  - Word: boste
+    Translation: you will be
+  - Word: bodo
+    Translation: they will be
+
+Phrases:
+  - Phrase: Poleti bo toplo.
+    Translation: In the summer it will be warm.
+  - Phrase: Jeseni bomo videli padajoče listje.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: Pozimi boste igrali s snegom.
+    Translation: In the winter you will play with snow.
+  - Phrase: Pomlad bo prinesla cvetje.
+    Translation: Spring will bring flowers.
+  - Phrase: Letni časi se bodo spreminjali štirikrat.
+    Translation: The season will change four times.
+  - Phrase: Pozimi bo padal sneg.
+    Translation: In the winter it will snow.
+  - Phrase: Spomladi rastejo cvetovi.
+    Translation: In spring, flowers grow.
+  - Phrase: Poleti je veliko sonca.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: Jeseni boš veliko trpel zaradi dežja.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Zrak pozimi bo hladen.
+    Translation: The air in winter will be cold.
+  - Phrase: Poletje je čas počitka ob jezeru.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Jesen ima veliko barv.
+    Translation: Autumn has many colors.
+  - Phrase: Zima ni dobra za športnike.
+    Translation: Winter is not good for sports.
+  - Phrase: Pomlad je dolgočasna.
+    Translation: Spring is boring.
+  - Phrase: Letni časi se menjajo štirikrat na leto.
+    Translation: The seasons change four times a year.
+  - Phrase: Kmalu se konča poletje.
+    Translation: Summer will soon end.
+  - Phrase: Jeseni samo dežuje.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Zima ima veliko snega.
+    Translation: Winter has a lot of snow.
+  - Phrase: Oni bodo videli zeleno pokrajino.
+    Translation: They will see a green landscape.
+  - Phrase: Sonce bo močno sijalo poleti.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Slovenian:
+    - barv: undefined
+    - biti: undefined
+    - bo: undefined
+    - bodo: undefined
+    - bom: undefined
+    - bomo: undefined
+    - boste: undefined
+    - boš: undefined
+    - cvetje: undefined
+    - cvetovi: undefined
+    - dežja: undefined
+    - dežuje: undefined
+    - dobra: undefined
+    - dolgočasna: undefined
+    - hladen: undefined
+    - igrali: undefined
+    - ima: undefined
+    - je: undefined
+    - jesen: undefined
+    - jeseni: undefined
+    - jezeru: undefined
+    - kmalu: undefined
+    - konča: undefined
+    - letni: undefined
+    - leto: undefined
+    - listje: undefined
+    - menjajo: undefined
+    - močno: undefined
+    - na: undefined
+    - ni: undefined
+    - ob: undefined
+    - oni: undefined
+    - padajoče: undefined
+    - padal: undefined
+    - pokrajino: undefined
+    - poleti: undefined
+    - poletje: undefined
+    - pomlad: undefined
+    - pozimi: undefined
+    - počitka: undefined
+    - prinesla: undefined
+    - rastejo: undefined
+    - s: undefined
+    - samo: undefined
+    - se: undefined
+    - sijalo: undefined
+    - sneg: undefined
+    - snega: undefined
+    - snegom: undefined
+    - sonca: undefined
+    - sonce: undefined
+    - spomladi: undefined
+    - spreminjali: undefined
+    - toplo: undefined
+    - trpel: undefined
+    - veliko: undefined
+    - videli: undefined
+    - za: undefined
+    - zaradi: undefined
+    - zeleno: undefined
+    - zima: undefined
+    - zrak: undefined
+    - čas: undefined
+    - časi: undefined
+    - športnike: undefined
+    - štirikrat: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - autumn: undefined
+    - be: undefined
+    - because: undefined
+    - boring: undefined
+    - bring: undefined
+    - by: undefined
+    - change: undefined
+    - cold: undefined
+    - colors: undefined
+    - end: undefined
+    - falling: undefined
+    - flowers: undefined
+    - for: undefined
+    - four: undefined
+    - good: undefined
+    - green: undefined
+    - grow: undefined
+    - has: undefined
+    - he/she/it: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lake: undefined
+    - landscape: undefined
+    - leaves: undefined
+    - lot: undefined
+    - many: undefined
+    - not: undefined
+    - of: undefined
+    - play: undefined
+    - rain: undefined
+    - rest: undefined
+    - season: undefined
+    - seasons: undefined
+    - see: undefined
+    - shine: undefined
+    - snow: undefined
+    - soon: undefined
+    - sports: undefined
+    - spring: undefined
+    - strongly: undefined
+    - suffer: undefined
+    - summer: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - they: undefined
+    - times: undefined
+    - to: undefined
+    - warm: undefined
+    - we: undefined
+    - will: undefined
+    - winter: undefined
+    - with: undefined
+    - year: undefined
+    - you: undefined

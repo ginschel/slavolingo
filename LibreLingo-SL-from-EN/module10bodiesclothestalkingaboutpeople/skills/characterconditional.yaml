@@ -1,0 +1,224 @@
+Skill:
+  Name: Character (Conditional)
+  Id: 36
+
+New words:
+  - Word: dober
+    Translation: good
+  - Word: slab
+    Translation: bad
+  - Word: močan
+    Translation: strong
+  - Word: šibak
+    Translation: weak
+  - Word: drzen
+    Translation: brave
+  - Word: tih
+    Translation: quiet
+  - Word: moder
+    Translation: wise
+  - Word: neumen
+    Translation: stupid
+  - Word: iskren
+    Translation: sincere
+  - Word: len
+    Translation: lazy
+  - Word: bi bil
+    Translation: I would be
+  - Word: bi bil
+    Translation: you would be
+  - Word: bi bil
+    Translation: he/she/it would be
+  - Word: bi bili
+    Translation: we would be
+  - Word: bi bili
+    Translation: you would be
+  - Word: bi bili
+    Translation: they would be
+  - Word: molčati (molči)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: On je dober človek.
+    Translation: He is a good person.
+  - Phrase: Ona je včasih slaba.
+    Translation: She is sometimes bad.
+  - Phrase: Močan duh je pomemben.
+    Translation: A strong spirit is important.
+  - Phrase: On je šibak v športu.
+    Translation: He is weak in sports.
+  - Phrase: Drzen govori resnico.
+    Translation: Brave people speak the truth.
+  - Phrase: Če bi ti slišal, potem bi bili tihi.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Moder ve veliko.
+    Translation: A smart person knows much.
+  - Phrase: Če ti ne bi bil neumen, potem ne bi delal neumnosti.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Iskren prijatelj je dragocen.
+    Translation: A sincere friend is valuable.
+  - Phrase: Če oni ne bi bili leni, potem bi jim pomagali.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Ona je dobra in iskrena.
+    Translation: She is good and sincere.
+  - Phrase: On je močan, vendar drzen.
+    Translation: He is strong but brave.
+  - Phrase: Otroci so modri za svojo starost.
+    Translation: Children are wiser for their age.
+  - Phrase: Če vi ne bi bili šibki, potem bi delali.
+    Translation: If you were not weak, you would work.
+  - Phrase: Slabe besede bolijo.
+    Translation: Bad words hurt.
+  - Phrase: Neumen se ne uči.
+    Translation: Stupid people do not learn.
+  - Phrase: Len noče nič delati.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Iskren pove, kar misli.
+    Translation: A sincere person says what they think.
+  - Phrase: Moder molči, ko je treba.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Če bi bil jaz drzen, potem se ne bi bal.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Slovenian:
+    - bal: undefined
+    - besede: undefined
+    - bi: undefined
+    - bil: undefined
+    - bili: undefined
+    - bolijo: undefined
+    - delal: undefined
+    - delali: undefined
+    - delati: undefined
+    - dober: undefined
+    - dobra: undefined
+    - dragocen: undefined
+    - drzen: undefined
+    - duh: undefined
+    - govori: undefined
+    - in: undefined
+    - iskren: undefined
+    - iskrena: undefined
+    - jaz: undefined
+    - je: undefined
+    - jim: undefined
+    - kar: undefined
+    - ko: undefined
+    - len: undefined
+    - leni: undefined
+    - misli: undefined
+    - moder: undefined
+    - modri: undefined
+    - molčati: undefined
+    - molči: undefined
+    - močan: undefined
+    - ne: undefined
+    - neumen: undefined
+    - neumnosti: undefined
+    - nič: undefined
+    - noče: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - otroci: undefined
+    - pomagali: undefined
+    - pomemben: undefined
+    - potem: undefined
+    - pove: undefined
+    - prijatelj: undefined
+    - resnico: undefined
+    - se: undefined
+    - slab: undefined
+    - slaba: undefined
+    - slabe: undefined
+    - slišal: undefined
+    - so: undefined
+    - starost: undefined
+    - svojo: undefined
+    - ti: undefined
+    - tih: undefined
+    - tihi: undefined
+    - treba: undefined
+    - uči: undefined
+    - v: undefined
+    - ve: undefined
+    - veliko: undefined
+    - vendar: undefined
+    - vi: undefined
+    - včasih: undefined
+    - za: undefined
+    - če: undefined
+    - človek: undefined
+    - šibak: undefined
+    - šibki: undefined
+    - športu: undefined
+  English:
+    - a: undefined
+    - afraid: undefined
+    - age: undefined
+    - and: undefined
+    - anything: undefined
+    - are: undefined
+    - bad: undefined
+    - be: undefined
+    - brave: undefined
+    - but: undefined
+    - children: undefined
+    - do: undefined
+    - foolish: undefined
+    - for: undefined
+    - friend: undefined
+    - good: undefined
+    - he: undefined
+    - he/she/it: undefined
+    - hear: undefined
+    - help: undefined
+    - hurt: undefined
+    - i: undefined
+    - if: undefined
+    - important: undefined
+    - in: undefined
+    - is: undefined
+    - knows: undefined
+    - lazy: undefined
+    - learn: undefined
+    - much: undefined
+    - needed: undefined
+    - not: undefined
+    - people: undefined
+    - person: undefined
+    - quiet: undefined
+    - says: undefined
+    - she: undefined
+    - silent: undefined
+    - sincere: undefined
+    - smart: undefined
+    - sometimes: undefined
+    - speak: undefined
+    - spirit: undefined
+    - sports: undefined
+    - stays: undefined
+    - strong: undefined
+    - stupid: undefined
+    - the: undefined
+    - their: undefined
+    - them: undefined
+    - they: undefined
+    - things: undefined
+    - think: undefined
+    - to: undefined
+    - truth: undefined
+    - valuable: undefined
+    - want: undefined
+    - we: undefined
+    - weak: undefined
+    - were: undefined
+    - what: undefined
+    - when: undefined
+    - wise: undefined
+    - wiser: undefined
+    - words: undefined
+    - work: undefined
+    - would: undefined
+    - you: undefined

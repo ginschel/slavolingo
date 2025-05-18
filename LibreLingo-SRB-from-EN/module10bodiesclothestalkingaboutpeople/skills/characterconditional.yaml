@@ -1,0 +1,226 @@
+Skill:
+  Name: Character (Conditional)
+  Id: 36
+
+New words:
+  - Word: добри
+    Translation: good
+  - Word: зли
+    Translation: bad
+  - Word: силни
+    Translation: strong
+  - Word: слаби
+    Translation: weak
+  - Word: смели
+    Translation: brave
+  - Word: тихи
+    Translation: quiet
+  - Word: мудри
+    Translation: wise
+  - Word: глупи
+    Translation: stupid
+  - Word: искрени
+    Translation: sincere
+  - Word: лениви
+    Translation: lazy
+  - Word: бих
+    Translation: I would be
+  - Word: бис
+    Translation: you would be
+  - Word: би
+    Translation: he/she/it would be
+  - Word: бихмо
+    Translation: we would be
+  - Word: бисте
+    Translation: you would be
+  - Word: би
+    Translation: they would be
+  - Word: молчати (молчи)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: Он то добри човек.
+    Translation: He is a good person.
+  - Phrase: Она јест зла часом.
+    Translation: She is sometimes bad.
+  - Phrase: Силни дух јест важни.
+    Translation: A strong spirit is important.
+  - Phrase: Он јест слаби в спорту.
+    Translation: He is weak in sports.
+  - Phrase: Смели говори правду.
+    Translation: Brave people speak the truth.
+  - Phrase: Как ти бих слишао, то они би били тихи.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Мудри знаје много.
+    Translation: A smart person knows much.
+  - Phrase: Как ти бис не био глупи, то бис не делал глупостиј.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Искрени пријатељ јест драгоцени.
+    Translation: A sincere friend is valuable.
+  - Phrase: Јак они би били не лениви, то ми бихмо им помагали.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Она јест добра и искрена.
+    Translation: She is good and sincere.
+  - Phrase: Он јест силни али смели.
+    Translation: He is strong but brave.
+  - Phrase: Дете сут мудре за их век.
+    Translation: Children are wiser for their age.
+  - Phrase: Как ви не бисте били слаби, то ви бисте роботали.
+    Translation: If you were not weak, you would work.
+  - Phrase: Зле слова боле.
+    Translation: Bad words hurt.
+  - Phrase: Глупи не учи се.
+    Translation: Stupid people do not learn.
+  - Phrase: Лениви не хче ничега делати.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Искрени говори что мисли.
+    Translation: A sincere person says what they think.
+  - Phrase: Мудри молчи когда треба.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Как ја би био смели, то ја би не бојил се.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Serbian:
+    - али: undefined
+    - би: undefined
+    - били: undefined
+    - био: undefined
+    - бис: undefined
+    - бисте: undefined
+    - бих: undefined
+    - бихмо: undefined
+    - боле: undefined
+    - бојил: undefined
+    - в: undefined
+    - важни: undefined
+    - век: undefined
+    - ви: undefined
+    - глупи: undefined
+    - глупостиј: undefined
+    - говори: undefined
+    - делал: undefined
+    - делати: undefined
+    - дете: undefined
+    - добра: undefined
+    - добри: undefined
+    - драгоцени: undefined
+    - дух: undefined
+    - за: undefined
+    - зла: undefined
+    - зле: undefined
+    - зли: undefined
+    - знаје: undefined
+    - и: undefined
+    - им: undefined
+    - искрена: undefined
+    - искрени: undefined
+    - их: undefined
+    - как: undefined
+    - когда: undefined
+    - лениви: undefined
+    - ми: undefined
+    - мисли: undefined
+    - много: undefined
+    - молчати: undefined
+    - молчи: undefined
+    - мудре: undefined
+    - мудри: undefined
+    - не: undefined
+    - ничега: undefined
+    - он: undefined
+    - она: undefined
+    - они: undefined
+    - помагали: undefined
+    - правду: undefined
+    - пријатељ: undefined
+    - роботали: undefined
+    - се: undefined
+    - силни: undefined
+    - слаби: undefined
+    - слишао: undefined
+    - слова: undefined
+    - смели: undefined
+    - спорту: undefined
+    - сут: undefined
+    - ти: undefined
+    - тихи: undefined
+    - то: undefined
+    - треба: undefined
+    - учи: undefined
+    - хче: undefined
+    - часом: undefined
+    - човек: undefined
+    - что: undefined
+    - ја: undefined
+    - јак: undefined
+    - јест: undefined
+  English:
+    - a: undefined
+    - afraid: undefined
+    - age: undefined
+    - and: undefined
+    - anything: undefined
+    - are: undefined
+    - bad: undefined
+    - be: undefined
+    - brave: undefined
+    - but: undefined
+    - children: undefined
+    - do: undefined
+    - foolish: undefined
+    - for: undefined
+    - friend: undefined
+    - good: undefined
+    - he: undefined
+    - he/she/it: undefined
+    - hear: undefined
+    - help: undefined
+    - hurt: undefined
+    - i: undefined
+    - if: undefined
+    - important: undefined
+    - in: undefined
+    - is: undefined
+    - knows: undefined
+    - lazy: undefined
+    - learn: undefined
+    - much: undefined
+    - needed: undefined
+    - not: undefined
+    - people: undefined
+    - person: undefined
+    - quiet: undefined
+    - says: undefined
+    - she: undefined
+    - silent: undefined
+    - sincere: undefined
+    - smart: undefined
+    - sometimes: undefined
+    - speak: undefined
+    - spirit: undefined
+    - sports: undefined
+    - stays: undefined
+    - strong: undefined
+    - stupid: undefined
+    - the: undefined
+    - their: undefined
+    - them: undefined
+    - they: undefined
+    - things: undefined
+    - think: undefined
+    - to: undefined
+    - truth: undefined
+    - valuable: undefined
+    - want: undefined
+    - we: undefined
+    - weak: undefined
+    - were: undefined
+    - what: undefined
+    - when: undefined
+    - wise: undefined
+    - wiser: undefined
+    - words: undefined
+    - work: undefined
+    - would: undefined
+    - you: undefined

@@ -1,0 +1,241 @@
+Skill:
+  Name: Talking about Time (past tense)
+  Id: 31
+
+New words:
+  - Word: czas
+    Translation: time
+  - Word: minuta
+    Translation: minute
+  - Word: sekunda
+    Translation: second
+  - Word: godzina (trwania)
+    Translation: hour
+  - Word: dzisiaj
+    Translation: today
+  - Word: był
+    Translation: was
+  - Word: była
+    Translation: was
+  - Word: było
+    Translation: was
+  - Word: byli
+    Translation: were
+  - Word: szedł
+    Translation: went/walked
+  - Word: szła
+    Translation: went/walked
+  - Word: szło
+    Translation: went/walked
+  - Word: szli
+    Translation: went/walked
+  - Word: wczoraj
+    Translation: yesterday
+  - Word: jutro
+    Translation: tomorrow
+  - Word: wieczór
+    Translation: evening
+  - Word: północ
+    Translation: midnight
+  - Word: ile
+    Translation: how much
+  - Word: spać (śpi)
+    Translation: to sleep
+  - Word: trwać
+    Translation: to last
+
+Phrases:
+  - Phrase: Która godzina?
+    Translation: What time is it?
+  - Phrase: On miał jedną godzinę.
+    Translation: He had one hour.
+  - Phrase: Jutro jest za późno.
+    Translation: Tomorrow is too late.
+  - Phrase: Wczoraj był poniedziałek.
+    Translation: Yesterday was Monday.
+  - Phrase: Wczoraj ona była w domu o ósmej godzinie.
+    Translation: Yesterday she was at home at the eighth hour.
+  - Phrase: Rano nie było dużo ciepło.
+    Translation: In the morning it was not very warm.
+  - Phrase: O trzeciej godzinie dwadzieścia było zimno.
+    Translation: At twenty past the third hour it was cold.
+  - Phrase: Północ jest cicha.
+    Translation: Midnight is quiet.
+  - Phrase: On szedł do domu.
+    Translation: He went home.
+  - Phrase: Byliście w kinie?
+    Translation: Have you gone to the cinema?
+  - Phrase: Oni nic nie robili.
+    Translation: They did nothing.
+  - Phrase: Minuta jest małą jednostką czasu.
+    Translation: A minute is a small unit of time.
+  - Phrase: Sekunda jest krótka.
+    Translation: A second is short.
+  - Phrase: Dzisiaj nie miałeś/miałaś na to czasu.
+    Translation: Today you did not have an hour for that.
+  - Phrase: Widzimy się wieczorem o dziewiątej godzinie.
+    Translation: We will see each other in the evening at the ninth hour.
+  - Phrase: Wczoraj o pierwszej godzinie było lepiej.
+    Translation: Yesterday at the first hour it was better.
+  - Phrase: Ile minut trwa film?
+    Translation: How many minutes does the film last?
+  - Phrase: Byłem w domu rano.
+    Translation: I was at home in the morning.
+  - Phrase: On śpi do północy.
+    Translation: He sleeps until midnight.
+  - Phrase: Ile sekund ma minuta?
+    Translation: How many seconds are in a minute?
+  - Phrase: Wieczorem poszliśmy do restauracji.
+    Translation: In the evening we went to the restaurant.
+
+Mini-dictionary:
+  Polish:
+    - byli: undefined
+    - byliście: undefined
+    - był: undefined
+    - była: undefined
+    - byłem: undefined
+    - było: undefined
+    - cicha: undefined
+    - ciepło: undefined
+    - czas: undefined
+    - czasu: undefined
+    - do: undefined
+    - domu: undefined
+    - dużo: undefined
+    - dwadzieścia: undefined
+    - dziewiątej: undefined
+    - dzisiaj: undefined
+    - film: undefined
+    - godzina: undefined
+    - godzinie: undefined
+    - godzinę: undefined
+    - ile: undefined
+    - jednostką: undefined
+    - jedną: undefined
+    - jest: undefined
+    - jutro: undefined
+    - kinie: undefined
+    - krótka: undefined
+    - która: undefined
+    - lepiej: undefined
+    - ma: undefined
+    - małą: undefined
+    - miał: undefined
+    - miałeś/miałaś: undefined
+    - minut: undefined
+    - minuta: undefined
+    - na: undefined
+    - nic: undefined
+    - nie: undefined
+    - o: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - pierwszej: undefined
+    - poniedziałek: undefined
+    - poszliśmy: undefined
+    - północ: undefined
+    - północy: undefined
+    - późno: undefined
+    - rano: undefined
+    - restauracji: undefined
+    - robili: undefined
+    - sekund: undefined
+    - sekunda: undefined
+    - się: undefined
+    - spać: undefined
+    - szedł: undefined
+    - szli: undefined
+    - szła: undefined
+    - szło: undefined
+    - to: undefined
+    - trwa: undefined
+    - trwania: undefined
+    - trwać: undefined
+    - trzeciej: undefined
+    - w: undefined
+    - wczoraj: undefined
+    - widzimy: undefined
+    - wieczorem: undefined
+    - wieczór: undefined
+    - za: undefined
+    - zimno: undefined
+    - ósmej: undefined
+    - śpi: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - are: undefined
+    - at: undefined
+    - better: undefined
+    - cinema: undefined
+    - cold: undefined
+    - did: undefined
+    - does: undefined
+    - each: undefined
+    - eighth: undefined
+    - evening: undefined
+    - film: undefined
+    - first: undefined
+    - for: undefined
+    - gone: undefined
+    - had: undefined
+    - have: undefined
+    - he: undefined
+    - home: undefined
+    - hour: undefined
+    - how: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - last: undefined
+    - late: undefined
+    - many: undefined
+    - midnight: undefined
+    - minute: undefined
+    - minutes: undefined
+    - monday: undefined
+    - morning: undefined
+    - much: undefined
+    - ninth: undefined
+    - not: undefined
+    - nothing: undefined
+    - of: undefined
+    - one: undefined
+    - other: undefined
+    - past: undefined
+    - quiet: undefined
+    - restaurant: undefined
+    - second: undefined
+    - seconds: undefined
+    - see: undefined
+    - she: undefined
+    - short: undefined
+    - sleep: undefined
+    - sleeps: undefined
+    - small: undefined
+    - that: undefined
+    - the: undefined
+    - they: undefined
+    - third: undefined
+    - time: undefined
+    - to: undefined
+    - today: undefined
+    - tomorrow: undefined
+    - too: undefined
+    - twenty: undefined
+    - unit: undefined
+    - until: undefined
+    - very: undefined
+    - warm: undefined
+    - was: undefined
+    - we: undefined
+    - went: undefined
+    - went/walked: undefined
+    - were: undefined
+    - what: undefined
+    - will: undefined
+    - yesterday: undefined
+    - you: undefined

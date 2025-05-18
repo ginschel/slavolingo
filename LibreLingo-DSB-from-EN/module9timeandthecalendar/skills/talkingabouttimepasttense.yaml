@@ -1,0 +1,243 @@
+Skill:
+  Name: Talking about Time (past tense)
+  Id: 31
+
+New words:
+  - Word: cas
+    Translation: time
+  - Word: minuta
+    Translation: minute
+  - Word: sekunda
+    Translation: second
+  - Word: goźina
+    Translation: hour
+  - Word: źinsaj
+    Translation: today
+  - Word: běšo
+    Translation: was
+  - Word: běšo
+    Translation: was
+  - Word: běšo
+    Translation: was
+  - Word: běchu
+    Translation: were
+  - Word: šedł
+    Translation: went/walked
+  - Word: šeźeła
+    Translation: went/walked
+  - Word: šedło
+    Translation: went/walked
+  - Word: šedli
+    Translation: went/walked
+  - Word: cera
+    Translation: yesterday
+  - Word: zajtša
+    Translation: tomorrow
+  - Word: wjacor
+    Translation: evening
+  - Word: pśełnoc
+    Translation: midnight
+  - Word: gaž wjele
+    Translation: how much
+  - Word: spaś (spi)
+    Translation: to sleep
+  - Word: trajś
+    Translation: to last
+
+Phrases:
+  - Phrase: Gaž wjele jo casa?
+    Translation: What time is it?
+  - Phrase: Wón jo měł jadnu goźinu.
+    Translation: He had one hour.
+  - Phrase: Zajtša jo za pózdźi.
+    Translation: Tomorrow is too late.
+  - Phrase: Cera běšo póńźele.
+    Translation: Yesterday was Monday.
+  - Phrase: Cera wóna běšo we domje wó wosymej goźinje.
+    Translation: Yesterday she was at home at the eighth hour.
+  - Phrase: Ranim nje běšo wjele śopło.
+    Translation: In the morning it was not very warm.
+  - Phrase: Wó tśeśim casu dwójcasć běšo zymne.
+    Translation: At twenty past the third hour it was cold.
+  - Phrase: Pśełnoc jo śicha.
+    Translation: Midnight is quiet.
+  - Phrase: Wón šedł do doma.
+    Translation: He went home.
+  - Phrase: Wy sćo šeźeli do kina?
+    Translation: Have you gone to the cinema?
+  - Phrase: Wóni nic nje cynili.
+    Translation: They did nothing.
+  - Phrase: Minuta jo mała jadnotka casa.
+    Translation: A minute is a small unit of time.
+  - Phrase: Sekunda jo krotka.
+    Translation: A second is short.
+  - Phrase: Źinsaj ty nje sy měł casa za to.
+    Translation: Today you did not have an hour for that.
+  - Phrase: Wiźimy se wjacorim wó źewjetej goźinje.
+    Translation: We will see each other in the evening at the ninth hour.
+  - Phrase: Cera wó prědnym casu běšo lěpše.
+    Translation: Yesterday at the first hour it was better.
+  - Phrase: Gaž wjele minut trajo film?
+    Translation: How many minutes does the film last?
+  - Phrase: Ja som był we domje ranim.
+    Translation: I was at home in the morning.
+  - Phrase: Wón spi do pśełnocy.
+    Translation: He sleeps until midnight.
+  - Phrase: Gaž wjele sekund ma minuta?
+    Translation: How many seconds are in a minute?
+  - Phrase: Wjacorim my šedli we restauraciju.
+    Translation: In the evening we went to the restaurant.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - był: undefined
+    - běchu: undefined
+    - běšo: undefined
+    - cas: undefined
+    - casa: undefined
+    - casu: undefined
+    - cera: undefined
+    - cynili: undefined
+    - do: undefined
+    - doma: undefined
+    - domje: undefined
+    - dwójcasć: undefined
+    - film: undefined
+    - gaž: undefined
+    - goźina: undefined
+    - goźinje: undefined
+    - goźinu: undefined
+    - ja: undefined
+    - jadnotka: undefined
+    - jadnu: undefined
+    - jo: undefined
+    - kina: undefined
+    - krotka: undefined
+    - lěpše: undefined
+    - ma: undefined
+    - mała: undefined
+    - minut: undefined
+    - minuta: undefined
+    - my: undefined
+    - měł: undefined
+    - nic: undefined
+    - nje: undefined
+    - prědnym: undefined
+    - pózdźi: undefined
+    - póńźele: undefined
+    - pśełnoc: undefined
+    - pśełnocy: undefined
+    - ranim: undefined
+    - restauraciju: undefined
+    - se: undefined
+    - sekund: undefined
+    - sekunda: undefined
+    - som: undefined
+    - spaś: undefined
+    - spi: undefined
+    - sy: undefined
+    - sćo: undefined
+    - to: undefined
+    - trajo: undefined
+    - trajś: undefined
+    - ty: undefined
+    - tśeśim: undefined
+    - we: undefined
+    - wiźimy: undefined
+    - wjacor: undefined
+    - wjacorim: undefined
+    - wjele: undefined
+    - wosymej: undefined
+    - wy: undefined
+    - wó: undefined
+    - wón: undefined
+    - wóna: undefined
+    - wóni: undefined
+    - za: undefined
+    - zajtša: undefined
+    - zymne: undefined
+    - śicha: undefined
+    - śopło: undefined
+    - šedli: undefined
+    - šedł: undefined
+    - šedło: undefined
+    - šeźeli: undefined
+    - šeźeła: undefined
+    - źewjetej: undefined
+    - źinsaj: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - are: undefined
+    - at: undefined
+    - better: undefined
+    - cinema: undefined
+    - cold: undefined
+    - did: undefined
+    - does: undefined
+    - each: undefined
+    - eighth: undefined
+    - evening: undefined
+    - film: undefined
+    - first: undefined
+    - for: undefined
+    - gone: undefined
+    - had: undefined
+    - have: undefined
+    - he: undefined
+    - home: undefined
+    - hour: undefined
+    - how: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - last: undefined
+    - late: undefined
+    - many: undefined
+    - midnight: undefined
+    - minute: undefined
+    - minutes: undefined
+    - monday: undefined
+    - morning: undefined
+    - much: undefined
+    - ninth: undefined
+    - not: undefined
+    - nothing: undefined
+    - of: undefined
+    - one: undefined
+    - other: undefined
+    - past: undefined
+    - quiet: undefined
+    - restaurant: undefined
+    - second: undefined
+    - seconds: undefined
+    - see: undefined
+    - she: undefined
+    - short: undefined
+    - sleep: undefined
+    - sleeps: undefined
+    - small: undefined
+    - that: undefined
+    - the: undefined
+    - they: undefined
+    - third: undefined
+    - time: undefined
+    - to: undefined
+    - today: undefined
+    - tomorrow: undefined
+    - too: undefined
+    - twenty: undefined
+    - unit: undefined
+    - until: undefined
+    - very: undefined
+    - warm: undefined
+    - was: undefined
+    - we: undefined
+    - went: undefined
+    - went/walked: undefined
+    - were: undefined
+    - what: undefined
+    - will: undefined
+    - yesterday: undefined
+    - you: undefined

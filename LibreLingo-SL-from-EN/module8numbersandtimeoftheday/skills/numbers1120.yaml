@@ -1,0 +1,120 @@
+Skill:
+  Name: Numbers 11-20
+  Id: 27
+
+New words:
+  - Word: enajst
+    Translation: eleven
+  - Word: dvanajst
+    Translation: twelve
+  - Word: trinajst
+    Translation: thirteen
+  - Word: štirinajst
+    Translation: fourteen
+  - Word: petnajst
+    Translation: fifteen
+  - Word: šestnajst
+    Translation: sixteen
+  - Word: sedemnajst
+    Translation: seventeen
+  - Word: osemnajst
+    Translation: eighteen
+  - Word: devetnajst
+    Translation: nineteen
+  - Word: dvajset
+    Translation: twenty
+
+Phrases:
+  - Phrase: dvajset ur
+    Translation: twenty clocks
+  - Phrase: enajst fantov
+    Translation: eleven boys
+  - Phrase: enajst žensk
+    Translation: eleven women
+  - Phrase: enajst polj
+    Translation: eleven fields
+  - Phrase: dvanajst moških
+    Translation: twelve men
+  - Phrase: dvanajst šest žensk
+    Translation: twelve women
+  - Phrase: trinajst mačk
+    Translation: thirteen cats
+  - Phrase: štirinajst koles
+    Translation: fourteen bicycles
+  - Phrase: petnajst fantov
+    Translation: fifteen boys
+  - Phrase: šestnajst koles
+    Translation: sixteen bicycles
+  - Phrase: sedemnajst rubljev
+    Translation: seventeen rubles
+  - Phrase: osemnajst dolarjev
+    Translation: eighteen dollars
+  - Phrase: devetnajst pet računalnikov
+    Translation: nineteen computers
+  - Phrase: šestnajst ur
+    Translation: twenty clocks
+  - Phrase: dvanajst stvari
+    Translation: twelve things
+  - Phrase: enajst sonc
+    Translation: eleven suns
+  - Phrase: šestnajst koles
+    Translation: sixteen bicycles
+  - Phrase: štirinajst dolarjev
+    Translation: fourteen dollars
+  - Phrase: trinajst dveh psov
+    Translation: thirteen dogs
+  - Phrase: dvajset mačk
+    Translation: twenty cats
+
+Mini-dictionary:
+  Slovenian:
+    - devetnajst: undefined
+    - dolarjev: undefined
+    - dvajset: undefined
+    - dvanajst: undefined
+    - dveh: undefined
+    - enajst: undefined
+    - fantov: undefined
+    - koles: undefined
+    - mačk: undefined
+    - moških: undefined
+    - osemnajst: undefined
+    - pet: undefined
+    - petnajst: undefined
+    - polj: undefined
+    - psov: undefined
+    - računalnikov: undefined
+    - rubljev: undefined
+    - sedemnajst: undefined
+    - sonc: undefined
+    - stvari: undefined
+    - trinajst: undefined
+    - ur: undefined
+    - šest: undefined
+    - šestnajst: undefined
+    - štirinajst: undefined
+    - žensk: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eighteen: undefined
+    - eleven: undefined
+    - fields: undefined
+    - fifteen: undefined
+    - fourteen: undefined
+    - men: undefined
+    - nineteen: undefined
+    - rubles: undefined
+    - seventeen: undefined
+    - sixteen: undefined
+    - suns: undefined
+    - things: undefined
+    - thirteen: undefined
+    - twelve: undefined
+    - twenty: undefined
+    - women: undefined

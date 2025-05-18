@@ -1,0 +1,186 @@
+Skill:
+  Name: Buying in the Shop
+  Id: 24
+
+New words:
+  - Word: kupić
+    Translation: to buy
+  - Word: předawać
+    Translation: to sell
+  - Word: cena
+    Translation: price
+  - Word: drasta
+    Translation: clothes
+  - Word: torba
+    Translation: bag
+  - Word: kus
+    Translation: piece
+  - Word: kupec
+    Translation: customer
+  - Word: wróćenje
+    Translation: return
+  - Word: kwit
+    Translation: receipt
+  - Word: prašeć
+    Translation: to ask
+  - Word: swěži
+    Translation: fresh
+
+Phrases:
+  - Phrase: Chcu kupić chlěb.
+    Translation: I want to buy bread.
+  - Phrase: Wón předawa mjaso.
+    Translation: He sells meat.
+  - Phrase: Cena je wysoka.
+    Translation: The price is high.
+  - Phrase: Drasta je nowa.
+    Translation: The clothes are new.
+  - Phrase: Przedawaćel je zniženy dźensa.
+    Translation: The seller is tired today.
+  - Phrase: Torba je ćežka.
+    Translation: The bag is heavy.
+  - Phrase: Kus sera je dobry.
+    Translation: A piece of cheese is good.
+  - Phrase: Kupec praše za zniženje.
+    Translation: The customer asks for a discount.
+  - Phrase: Wróćenja njeje. To je zły wobchod.
+    Translation: No returns. This is a bad shop.
+  - Phrase: Dam kwit przedawaćelej.
+    Translation: I give the receipt to the seller.
+  - Phrase: Wona kupuje knihu.
+    Translation: She is buying a book.
+  - Phrase: Wón przedawa mloko.
+    Translation: He sells milk.
+  - Phrase: Cena masła je dobra.
+    Translation: The price of butter is good.
+  - Phrase: Kołbasa je swěža.
+    Translation: The sausage is fresh.
+  - Phrase: Przedawaćel da kus kołbasy.
+    Translation: The seller gives a piece of sausage.
+  - Phrase: Torba stoji na podłoze.
+    Translation: The bag is on the floor.
+  - Phrase: Kus chlěba je mały.
+    Translation: The piece of bread is small.
+  - Phrase: Kupec praše wo cenu.
+    Translation: The customer asks about the price.
+  - Phrase: Wróćenje je hač do sydom dnjow.
+    Translation: Return is within seven days.
+  - Phrase: Kwit je podpisan.
+    Translation: The receipt is signed.
+
+Mini-dictionary:
+  Upper Sorbian:
+    - cena: undefined
+    - cenu: undefined
+    - chcu: undefined
+    - chlěb: undefined
+    - chlěba: undefined
+    - da: undefined
+    - dam: undefined
+    - dnjow: undefined
+    - do: undefined
+    - dobra: undefined
+    - dobry: undefined
+    - drasta: undefined
+    - dźensa: undefined
+    - hač: undefined
+    - je: undefined
+    - knihu: undefined
+    - kołbasa: undefined
+    - kołbasy: undefined
+    - kupec: undefined
+    - kupić: undefined
+    - kupuje: undefined
+    - kus: undefined
+    - kwit: undefined
+    - masła: undefined
+    - mały: undefined
+    - mjaso: undefined
+    - mloko: undefined
+    - na: undefined
+    - njeje: undefined
+    - nowa: undefined
+    - podpisan: undefined
+    - podłoze: undefined
+    - praše: undefined
+    - prašeć: undefined
+    - przedawa: undefined
+    - przedawaćel: undefined
+    - przedawaćelej: undefined
+    - předawa: undefined
+    - předawać: undefined
+    - sera: undefined
+    - stoji: undefined
+    - swěža: undefined
+    - swěži: undefined
+    - sydom: undefined
+    - to: undefined
+    - torba: undefined
+    - wo: undefined
+    - wobchod: undefined
+    - wona: undefined
+    - wróćenja: undefined
+    - wróćenje: undefined
+    - wysoka: undefined
+    - wón: undefined
+    - za: undefined
+    - zniženje: undefined
+    - zniženy: undefined
+    - zły: undefined
+    - ćežka: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - are: undefined
+    - ask: undefined
+    - asks: undefined
+    - bad: undefined
+    - bag: undefined
+    - book: undefined
+    - bread: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - cheese: undefined
+    - clothes: undefined
+    - customer: undefined
+    - days: undefined
+    - discount: undefined
+    - floor: undefined
+    - for: undefined
+    - fresh: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - i: undefined
+    - is: undefined
+    - meat: undefined
+    - milk: undefined
+    - new: undefined
+    - no: undefined
+    - of: undefined
+    - on: undefined
+    - piece: undefined
+    - price: undefined
+    - receipt: undefined
+    - return: undefined
+    - returns: undefined
+    - sausage: undefined
+    - sell: undefined
+    - seller: undefined
+    - sells: undefined
+    - seven: undefined
+    - she: undefined
+    - shop: undefined
+    - signed: undefined
+    - small: undefined
+    - the: undefined
+    - this: undefined
+    - tired: undefined
+    - to: undefined
+    - today: undefined
+    - want: undefined
+    - within: undefined

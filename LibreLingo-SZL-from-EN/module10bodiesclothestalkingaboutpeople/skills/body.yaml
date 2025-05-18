@@ -1,0 +1,230 @@
+Skill:
+  Name: Body
+  Id: 35
+
+New words:
+  - Word: rōńczka
+    Translation: hand
+  - Word: noga
+    Translation: leg
+  - Word: gowa
+    Translation: head
+  - Word: ôko
+    Translation: eye
+  - Word: mōzg
+    Translation: brain
+  - Word: stopa
+    Translation: foot
+  - Word: ucho
+    Translation: ear
+  - Word: nōz
+    Translation: nose
+  - Word: lica
+    Translation: face
+  - Word: siyrce
+    Translation: heart
+  - Word: palec
+    Translation: finger
+  - Word: żōłōndek
+    Translation: stomach
+  - Word: ciało
+    Translation: body
+  - Word: bolać (boli)
+    Translation: to hurt
+  - Word: włosy
+    Translation: hair
+  - Word: podobny
+    Translation: similar
+  - Word: słychać (słychać)
+    Translation: to hear
+
+Phrases:
+  - Phrase: Moja rōńczka boli.
+    Translation: My hand hurts.
+  - Phrase: Ôna mo dugo noga.
+    Translation: She has a long leg.
+  - Phrase: Gowa je na ciele.
+    Translation: The head is on the body.
+  - Phrase: Ôn mo modre piykne ôczy.
+    Translation: He has beautiful blue eyes.
+  - Phrase: Jej ucho niy słychać dobrze.
+    Translation: Her ear does not hear well.
+  - Phrase: Nōz je czyrwōny ôd mroza.
+    Translation: The nose is red from the cold.
+  - Phrase: Lica som podobne.
+    Translation: The face is similar.
+  - Phrase: Jej siyrce bije wartko.
+    Translation: Her heart beats fast.
+  - Phrase: Żōłōndek cie boli.
+    Translation: My stomach hurts.
+  - Phrase: Ciało u mnie zdrowe.
+    Translation: My body is healthy.
+  - Phrase: Jo mōm dwie rōńczki a dwie nogi i tyż dwie stopy.
+    Translation: I have two hands and two legs, and also two feet.
+  - Phrase: Ôczy glōndajōm we ksiónżka.
+    Translation: The eyes are looking at the book.
+  - Phrase: Ucho słychać muzyka.
+    Translation: The ear hears music.
+  - Phrase: Jego mōzg je wartki.
+    Translation: His brain is quick.
+  - Phrase: Jej lica som piykne.
+    Translation: Her face is beautiful.
+  - Phrase: Siyrce je symbol miłości.
+    Translation: The heart is a symbol of love.
+  - Phrase: Mój żōłōndek je prosto pełny po wieczerzy.
+    Translation: My stomach is just full after dinner.
+  - Phrase: Ciałowi trza ôdpočynku.
+    Translation: The body needs rest.
+  - Phrase: Ôn mo kastanowe włosy na gowie.
+    Translation: He has chestnut-colored hair on his head.
+  - Phrase: Ôna słyszy cie yno jednym uchym.
+    Translation: She hears you only with one ear.
+
+Mini-dictionary:
+  Silesian:
+    - a: undefined
+    - bije: undefined
+    - bolać: undefined
+    - boli: undefined
+    - ciało: undefined
+    - ciałowi: undefined
+    - cie: undefined
+    - ciele: undefined
+    - czyrwōny: undefined
+    - dobrze: undefined
+    - dugo: undefined
+    - dwie: undefined
+    - glōndajōm: undefined
+    - gowa: undefined
+    - gowie: undefined
+    - i: undefined
+    - je: undefined
+    - jednym: undefined
+    - jego: undefined
+    - jej: undefined
+    - jo: undefined
+    - kastanowe: undefined
+    - ksiónżka: undefined
+    - lica: undefined
+    - miłości: undefined
+    - mnie: undefined
+    - mo: undefined
+    - modre: undefined
+    - moja: undefined
+    - mroza: undefined
+    - muzyka: undefined
+    - mój: undefined
+    - mōm: undefined
+    - mōzg: undefined
+    - na: undefined
+    - niy: undefined
+    - noga: undefined
+    - nogi: undefined
+    - nōz: undefined
+    - palec: undefined
+    - pełny: undefined
+    - piykne: undefined
+    - po: undefined
+    - podobne: undefined
+    - podobny: undefined
+    - prosto: undefined
+    - rōńczka: undefined
+    - rōńczki: undefined
+    - siyrce: undefined
+    - som: undefined
+    - stopa: undefined
+    - stopy: undefined
+    - symbol: undefined
+    - słychać: undefined
+    - słyszy: undefined
+    - trza: undefined
+    - tyż: undefined
+    - u: undefined
+    - ucho: undefined
+    - uchym: undefined
+    - wartki: undefined
+    - wartko: undefined
+    - we: undefined
+    - wieczerzy: undefined
+    - włosy: undefined
+    - yno: undefined
+    - zdrowe: undefined
+    - ôczy: undefined
+    - ôd: undefined
+    - ôdpočynku: undefined
+    - ôko: undefined
+    - ôn: undefined
+    - ôna: undefined
+    - żōłōndek: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beats: undefined
+    - beautiful: undefined
+    - blue: undefined
+    - body: undefined
+    - book: undefined
+    - brain: undefined
+    - chestnut-colored: undefined
+    - cold: undefined
+    - dinner: undefined
+    - does: undefined
+    - ear: undefined
+    - eye: undefined
+    - eyes: undefined
+    - face: undefined
+    - fast: undefined
+    - feet: undefined
+    - finger: undefined
+    - foot: undefined
+    - from: undefined
+    - full: undefined
+    - hair: undefined
+    - hand: undefined
+    - hands: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - head: undefined
+    - healthy: undefined
+    - hear: undefined
+    - hears: undefined
+    - heart: undefined
+    - her: undefined
+    - his: undefined
+    - hurt: undefined
+    - hurts: undefined
+    - i: undefined
+    - is: undefined
+    - just: undefined
+    - leg: undefined
+    - legs: undefined
+    - long: undefined
+    - looking: undefined
+    - love: undefined
+    - music: undefined
+    - my: undefined
+    - needs: undefined
+    - nose: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - one: undefined
+    - only: undefined
+    - quick: undefined
+    - red: undefined
+    - rest: undefined
+    - she: undefined
+    - similar: undefined
+    - stomach: undefined
+    - symbol: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - well: undefined
+    - with: undefined
+    - you: undefined

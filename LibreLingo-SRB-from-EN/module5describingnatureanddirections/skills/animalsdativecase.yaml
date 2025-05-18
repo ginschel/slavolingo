@@ -1,0 +1,183 @@
+Skill:
+  Name: Animals (Dative case)
+  Id: 14
+
+New words:
+  - Word: кот
+    Translation: cat
+  - Word: пес
+    Translation: dog
+  - Word: птица
+    Translation: bird
+  - Word: помагати
+    Translation: to help
+  - Word: казати (каже)
+    Translation: to show
+  - Word: коњ
+    Translation: horse
+  - Word: дати (да)
+    Translation: to give
+  - Word: риба
+    Translation: fish
+  - Word: жаба
+    Translation: frog
+  - Word: медвеђ
+    Translation: bear
+  - Word: волк
+    Translation: wolf
+  - Word: миш
+    Translation: mouse
+  - Word: звер
+    Translation: animal
+
+Phrases:
+  - Phrase: Ја дам коту рибу.
+    Translation: I give the cat a fish.
+  - Phrase: Она каже псу.
+    Translation: She says to the dog.
+  - Phrase: Он помага птици.
+    Translation: He helps the bird.
+  - Phrase: Дајемо коњу воду.
+    Translation: We give the horse water.
+  - Phrase: Она несе миши сир.
+    Translation: She carries cheese to the mouse.
+  - Phrase: Он помага медведу.
+    Translation: He helps the bear.
+  - Phrase: Ми дајемо жабе хлеб.
+    Translation: We give bread to the frog.
+  - Phrase: Они дају звери руку.
+    Translation: They give their hand to the animal.
+  - Phrase: Помагамо волку.
+    Translation: We help the wolf.
+  - Phrase: Ти даш мени рибу?
+    Translation: Will you give me a fish?
+  - Phrase: Ја дам коту име.
+    Translation: I give the cat a name.
+  - Phrase: Он да миши сир.
+    Translation: On da myši syr.
+  - Phrase: Ми помагамо птицам.
+    Translation: We help the birds.
+  - Phrase: Дајемо жабе воду.
+    Translation: We give the frog water.
+  - Phrase: Они несу медведу једу.
+    Translation: They are carrying food to the bear.
+  - Phrase: Она да псу добро име.
+    Translation: She gives the dog a good name.
+  - Phrase: Ви дате коњу.
+    Translation: You will give the horse.
+  - Phrase: Ја дам рибе воду.
+    Translation: I give the fish water.
+  - Phrase: Она помогла јему с звером.
+    Translation: She helped him with the animal.
+  - Phrase: Даш ли псу вкусну кост?
+    Translation: Will you give the dog a tasty bone?
+
+Mini-dictionary:
+  Serbian:
+    - ви: undefined
+    - вкусну: undefined
+    - воду: undefined
+    - волк: undefined
+    - волку: undefined
+    - да: undefined
+    - дам: undefined
+    - дате: undefined
+    - дати: undefined
+    - даш: undefined
+    - дајемо: undefined
+    - дају: undefined
+    - добро: undefined
+    - жаба: undefined
+    - жабе: undefined
+    - звер: undefined
+    - звери: undefined
+    - звером: undefined
+    - име: undefined
+    - каже: undefined
+    - казати: undefined
+    - кост: undefined
+    - кот: undefined
+    - коту: undefined
+    - коњ: undefined
+    - коњу: undefined
+    - ли: undefined
+    - медведу: undefined
+    - медвеђ: undefined
+    - мени: undefined
+    - ми: undefined
+    - миш: undefined
+    - миши: undefined
+    - несе: undefined
+    - несу: undefined
+    - он: undefined
+    - она: undefined
+    - они: undefined
+    - пес: undefined
+    - помага: undefined
+    - помагамо: undefined
+    - помагати: undefined
+    - помогла: undefined
+    - псу: undefined
+    - птица: undefined
+    - птицам: undefined
+    - птици: undefined
+    - риба: undefined
+    - рибе: undefined
+    - рибу: undefined
+    - руку: undefined
+    - с: undefined
+    - сир: undefined
+    - ти: undefined
+    - хлеб: undefined
+    - ја: undefined
+    - једу: undefined
+    - јему: undefined
+  English:
+    - a: undefined
+    - animal: undefined
+    - are: undefined
+    - bear: undefined
+    - bird: undefined
+    - birds: undefined
+    - bone: undefined
+    - bread: undefined
+    - carries: undefined
+    - carrying: undefined
+    - cat: undefined
+    - cheese: undefined
+    - da: undefined
+    - dog: undefined
+    - fish: undefined
+    - food: undefined
+    - frog: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - hand: undefined
+    - he: undefined
+    - help: undefined
+    - helped: undefined
+    - helps: undefined
+    - him: undefined
+    - horse: undefined
+    - i: undefined
+    - me: undefined
+    - mouse: undefined
+    - myši: undefined
+    - name: undefined
+    - on: undefined
+    - says: undefined
+    - she: undefined
+    - show: undefined
+    - syr: undefined
+    - tasty: undefined
+    - the: undefined
+    - their: undefined
+    - they: undefined
+    - to: undefined
+    - water: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined
+    - wolf: undefined
+    - you: undefined

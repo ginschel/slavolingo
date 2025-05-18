@@ -1,0 +1,230 @@
+Skill:
+  Name: Conjugation of to be and the Nominative Case
+  Id: 1
+
+New words:
+  - Word: гэта (ніякі род)
+    Translation: this
+  - Word: гэтая (жаночы род)
+    Translation: this
+  - Word: гэты (мужчынскі род)
+    Translation: that
+  - Word: тамты (мужчынскі род)
+    Translation: that over there
+  - Word: тамтая (жаночы род)
+    Translation: that over there
+  - Word: я ёсць
+    Translation: am
+  - Word: ты ёсць
+    Translation: are
+  - Word: ён/яна/яно ёсць
+    Translation: is
+  - Word: мы ёсць
+    Translation: are
+  - Word: вы ёсць
+    Translation: are
+  - Word: яны ёсць
+    Translation: are
+  - Word: я
+    Translation: I
+  - Word: ты
+    Translation: you
+  - Word: ён
+    Translation: he
+  - Word: яна
+    Translation: she
+  - Word: яно
+    Translation: it
+  - Word: мы
+    Translation: we
+  - Word: вы
+    Translation: you
+  - Word: яны (муж. р.)
+    Translation: they
+  - Word: яны (жан. р.)
+    Translation: they
+  - Word: чалавек
+    Translation: person
+  - Word: жанчына
+    Translation: woman
+  - Word: мужчына
+    Translation: man
+  - Word: дзіця
+    Translation: child
+  - Word: сябар
+    Translation: friend
+  - Word: сястра
+    Translation: sister
+  - Word: бацька (адзін з бацькоў)
+    Translation: parent
+  - Word: дом
+    Translation: house
+  - Word: горад
+    Translation: city
+  - Word: дзень
+    Translation: day
+  - Word: таксама
+    Translation: also
+  - Word: хто
+    Translation: who
+
+Phrases:
+  - Phrase: Я ёсць мудры.
+    Translation: I am wise.
+  - Phrase: Гэта мая сястра.
+    Translation: This is my sister.
+  - Phrase: Яна многа мудрая
+    Translation: She is very wise
+  - Phrase: Мы многа мудрыя
+    Translation: We are very wise
+  - Phrase: Вы таксама мудрыя?
+    Translation: Are you also wise?
+  - Phrase: Гэта добры чалавек.
+    Translation: This is a good person.
+  - Phrase: Тая жанчына ёсць добрая.
+    Translation: This woman is good.
+  - Phrase: Гэта ёсць мой дом.
+    Translation: This is my house.
+  - Phrase: Той добры сябар
+    Translation: He is a good friend
+  - Phrase: Вы ёсць добрыя.
+    Translation: You are good.
+  - Phrase: Гэта ёсць сябры.
+    Translation: These are friends.
+  - Phrase: Хто ты ёсць?
+    Translation: Who are you?
+  - Phrase: Той мужчына мілы.
+    Translation: That man is kind.
+  - Phrase: Гэта ёсць прыемны горад.
+    Translation: This is a pleasant city.
+  - Phrase: Тая жанчына ёсць высокая.
+    Translation: That woman is tall.
+  - Phrase: Той дзень ёсць халодны.
+    Translation: That day is cold.
+  - Phrase: Тамты дом ёсць прыгожы.
+    Translation: That house over there is beautiful.
+  - Phrase: Гэта маё дзіця.
+    Translation: This is my child.
+  - Phrase: Тамтае раніца ёсць халоднае.
+    Translation: That morning over there is cold.
+  - Phrase: Гэта не мая сястра.
+    Translation: This is not my sister.
+  - Phrase: Гэта не твой дом.
+    Translation: This is not your house.
+  - Phrase: Гэта добрае аўта?
+    Translation: Is this a good car?
+  - Phrase: Гэта добрыя сябры?
+    Translation: Are these good friends?
+  - Phrase: Яны ёсць многа мілыя.
+    Translation: They are very kind.
+  - Phrase: Яны ёсць многа мілыя
+    Translation: They are very kind
+
+Mini-dictionary:
+  Belarusian:
+    - адзін: undefined
+    - аўта: undefined
+    - бацька: undefined
+    - бацькоў: undefined
+    - вы: undefined
+    - высокая: undefined
+    - горад: undefined
+    - гэта: undefined
+    - гэтая: undefined
+    - гэты: undefined
+    - дзень: undefined
+    - дзіця: undefined
+    - добрае: undefined
+    - добрая: undefined
+    - добры: undefined
+    - добрыя: undefined
+    - дом: undefined
+    - жан: undefined
+    - жаночы: undefined
+    - жанчына: undefined
+    - з: undefined
+    - мая: undefined
+    - маё: undefined
+    - многа: undefined
+    - мой: undefined
+    - мудрая: undefined
+    - мудры: undefined
+    - мудрыя: undefined
+    - муж: undefined
+    - мужчына: undefined
+    - мужчынскі: undefined
+    - мы: undefined
+    - мілы: undefined
+    - мілыя: undefined
+    - не: undefined
+    - ніякі: undefined
+    - прыгожы: undefined
+    - прыемны: undefined
+    - р: undefined
+    - раніца: undefined
+    - род: undefined
+    - сябар: undefined
+    - сябры: undefined
+    - сястра: undefined
+    - таксама: undefined
+    - тамтае: undefined
+    - тамтая: undefined
+    - тамты: undefined
+    - тая: undefined
+    - твой: undefined
+    - той: undefined
+    - ты: undefined
+    - халоднае: undefined
+    - халодны: undefined
+    - хто: undefined
+    - чалавек: undefined
+    - я: undefined
+    - яна: undefined
+    - яно: undefined
+    - яны: undefined
+    - ён: undefined
+    - ён/яна/яно: undefined
+    - ёсць: undefined
+  English:
+    - a: undefined
+    - also: undefined
+    - am: undefined
+    - are: undefined
+    - beautiful: undefined
+    - car: undefined
+    - child: undefined
+    - city: undefined
+    - cold: undefined
+    - day: undefined
+    - friend: undefined
+    - friends: undefined
+    - good: undefined
+    - he: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - it: undefined
+    - kind: undefined
+    - man: undefined
+    - morning: undefined
+    - my: undefined
+    - not: undefined
+    - over: undefined
+    - parent: undefined
+    - person: undefined
+    - pleasant: undefined
+    - she: undefined
+    - sister: undefined
+    - tall: undefined
+    - that: undefined
+    - there: undefined
+    - these: undefined
+    - they: undefined
+    - this: undefined
+    - very: undefined
+    - we: undefined
+    - who: undefined
+    - wise: undefined
+    - woman: undefined
+    - you: undefined
+    - your: undefined

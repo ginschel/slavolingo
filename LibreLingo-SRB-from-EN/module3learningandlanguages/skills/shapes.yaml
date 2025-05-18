@@ -1,0 +1,188 @@
+Skill:
+  Name: Shapes
+  Id: 10
+
+New words:
+  - Word: круг
+    Translation: circle
+  - Word: квадрат
+    Translation: square
+  - Word: четире
+    Translation: four
+  - Word: долги
+    Translation: long
+  - Word: три
+    Translation: three
+  - Word: трикутник
+    Translation: triangle
+  - Word: стојати (стоји)
+    Translation: to stand
+  - Word: равни
+    Translation: straight
+  - Word: форма
+    Translation: shape
+  - Word: линија
+    Translation: line
+  - Word: точка
+    Translation: point
+  - Word: обрис
+    Translation: outline
+  - Word: страна
+    Translation: side
+  - Word: фигура
+    Translation: figure
+  - Word: облик
+    Translation: shape
+
+Phrases:
+  - Phrase: То јест круг.
+    Translation: This is a circle.
+  - Phrase: Квадрат има четире стран.
+    Translation: A square has four sides.
+  - Phrase: Трикутник има три стран.
+    Translation: A triangle has three sides.
+  - Phrase: Та линија јест долга.
+    Translation: This line is long.
+  - Phrase: То јест моја форма.
+    Translation: This is my shape.
+  - Phrase: Линија јест равна.
+    Translation: The line is straight.
+  - Phrase: Точка то мали пункт.
+    Translation: A point is a small dot.
+  - Phrase: Видимо обрис квадрата.
+    Translation: We see the outline of a square.
+  - Phrase: Фигура јест комплексна.
+    Translation: The figure is complex.
+  - Phrase: То јест прости облик.
+    Translation: This is a simple shape.
+  - Phrase: Ја малјујем велики круг.
+    Translation: I am drawing a big circle.
+  - Phrase: Квадрат и круг сут основне форми.
+    Translation: Square and circle are basic shapes.
+  - Phrase: Линија иде чрез страну.
+    Translation: The line goes through the side.
+  - Phrase: Точка лежи на линији.
+    Translation: The point lies on the line.
+  - Phrase: Она зна всяки обрис Англије.
+    Translation: She knows every outline of England.
+  - Phrase: То јест прости трикутник.
+    Translation: This is a simple triangle.
+  - Phrase: Он малјује фигури на папиру.
+    Translation: He is drawing figures on paper.
+  - Phrase: Форма јест интересна.
+    Translation: The shape is interesting.
+  - Phrase: Стол има облик квадрата.
+    Translation: The table has the shape of a square.
+  - Phrase: Красна фигура стоји на столу.
+    Translation: A beautiful figure is standing on the table.
+
+Mini-dictionary:
+  Serbian:
+    - англије: undefined
+    - велики: undefined
+    - видимо: undefined
+    - всяки: undefined
+    - долга: undefined
+    - долги: undefined
+    - зна: undefined
+    - и: undefined
+    - иде: undefined
+    - има: undefined
+    - интересна: undefined
+    - квадрат: undefined
+    - квадрата: undefined
+    - комплексна: undefined
+    - красна: undefined
+    - круг: undefined
+    - лежи: undefined
+    - линија: undefined
+    - линији: undefined
+    - мали: undefined
+    - малјује: undefined
+    - малјујем: undefined
+    - моја: undefined
+    - на: undefined
+    - облик: undefined
+    - обрис: undefined
+    - он: undefined
+    - она: undefined
+    - основне: undefined
+    - папиру: undefined
+    - прости: undefined
+    - пункт: undefined
+    - равна: undefined
+    - равни: undefined
+    - стол: undefined
+    - столу: undefined
+    - стојати: undefined
+    - стоји: undefined
+    - стран: undefined
+    - страна: undefined
+    - страну: undefined
+    - сут: undefined
+    - та: undefined
+    - то: undefined
+    - точка: undefined
+    - три: undefined
+    - трикутник: undefined
+    - фигура: undefined
+    - фигури: undefined
+    - форма: undefined
+    - форми: undefined
+    - четире: undefined
+    - чрез: undefined
+    - ја: undefined
+    - јест: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - basic: undefined
+    - beautiful: undefined
+    - big: undefined
+    - circle: undefined
+    - complex: undefined
+    - dot: undefined
+    - drawing: undefined
+    - england: undefined
+    - every: undefined
+    - figure: undefined
+    - figures: undefined
+    - four: undefined
+    - goes: undefined
+    - has: undefined
+    - he: undefined
+    - i: undefined
+    - interesting: undefined
+    - is: undefined
+    - knows: undefined
+    - lies: undefined
+    - line: undefined
+    - long: undefined
+    - my: undefined
+    - of: undefined
+    - on: undefined
+    - outline: undefined
+    - paper: undefined
+    - point: undefined
+    - see: undefined
+    - shape: undefined
+    - shapes: undefined
+    - she: undefined
+    - side: undefined
+    - sides: undefined
+    - simple: undefined
+    - small: undefined
+    - square: undefined
+    - stand: undefined
+    - standing: undefined
+    - straight: undefined
+    - table: undefined
+    - the: undefined
+    - this: undefined
+    - three: undefined
+    - through: undefined
+    - to: undefined
+    - triangle: undefined
+    - we: undefined

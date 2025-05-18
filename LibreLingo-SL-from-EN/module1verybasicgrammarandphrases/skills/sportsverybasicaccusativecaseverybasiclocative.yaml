@@ -1,0 +1,185 @@
+Skill:
+  Name: Sports (very basic accusative case + very basic locative)
+  Id: 5
+
+New words:
+  - Word: nogomet
+    Translation: football
+  - Word: košarka
+    Translation: basketball
+  - Word: tenis
+    Translation: tennis
+  - Word: plavanje
+    Translation: swimming
+  - Word: plavati
+    Translation: to swim
+  - Word: tek
+    Translation: running
+  - Word: teči
+    Translation: to run
+  - Word: zjutraj
+    Translation: in the morning
+  - Word: ljubiti
+    Translation: to love/like
+  - Word: hokej
+    Translation: hockey
+  - Word: šport
+    Translation: sport
+  - Word: igra
+    Translation: game
+  - Word: trenirati
+    Translation: to train
+  - Word: stadion
+    Translation: stadium
+  - Word: hitro
+    Translation: fast
+  - Word: težek
+    Translation: difficult
+
+Phrases:
+  - Phrase: Igram nogomet.
+    Translation: I play football.
+  - Phrase: Ona igra košarko.
+    Translation: She plays basketball.
+  - Phrase: On igra tenis.
+    Translation: He plays tennis.
+  - Phrase: Mi plavamo v reki.
+    Translation: We swim in the river.
+  - Phrase: Oni tečejo zjutraj.
+    Translation: They run in the morning.
+  - Phrase: On trenira vsak dan.
+    Translation: He trains every day.
+  - Phrase: Šport je pomemben.
+    Translation: Sport is important.
+  - Phrase: Ona igra na stadionu.
+    Translation: She plays at the stadium.
+  - Phrase: Treba je trenirati.
+    Translation: It is necessary to train.
+  - Phrase: Oni ljubijo šport.
+    Translation: They love sport.
+  - Phrase: Jaz ne igram hokeja.
+    Translation: I do not play hockey.
+  - Phrase: Stadion je v mestu.
+    Translation: The stadium is in the city.
+  - Phrase: Košarka je zanimiv šport.
+    Translation: Basketball is an interesting sport.
+  - Phrase: Plavanje je dobro za zdravje.
+    Translation: Swimming is good for health.
+  - Phrase: Kdo igra tenis?
+    Translation: Who plays tennis?
+  - Phrase: On teče hitro.
+    Translation: He runs fast.
+  - Phrase: Mi plavamo pogosto.
+    Translation: We swim often.
+  - Phrase: On trenira s prijateljem.
+    Translation: He trains with a friend.
+  - Phrase: Jaz igram z brati.
+    Translation: I play with my brothers.
+  - Phrase: Hokej je težek.
+    Translation: Hockey is difficult.
+
+Mini-dictionary:
+  Slovenian:
+    - brati: undefined
+    - dan: undefined
+    - dobro: undefined
+    - hitro: undefined
+    - hokej: undefined
+    - hokeja: undefined
+    - igra: undefined
+    - igram: undefined
+    - jaz: undefined
+    - je: undefined
+    - kdo: undefined
+    - košarka: undefined
+    - košarko: undefined
+    - ljubijo: undefined
+    - ljubiti: undefined
+    - mestu: undefined
+    - mi: undefined
+    - na: undefined
+    - ne: undefined
+    - nogomet: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - plavamo: undefined
+    - plavanje: undefined
+    - plavati: undefined
+    - pogosto: undefined
+    - pomemben: undefined
+    - prijateljem: undefined
+    - reki: undefined
+    - s: undefined
+    - stadion: undefined
+    - stadionu: undefined
+    - tek: undefined
+    - tenis: undefined
+    - teče: undefined
+    - tečejo: undefined
+    - teči: undefined
+    - težek: undefined
+    - treba: undefined
+    - trenira: undefined
+    - trenirati: undefined
+    - v: undefined
+    - vsak: undefined
+    - z: undefined
+    - za: undefined
+    - zanimiv: undefined
+    - zdravje: undefined
+    - zjutraj: undefined
+    - šport: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - at: undefined
+    - basketball: undefined
+    - brothers: undefined
+    - city: undefined
+    - day: undefined
+    - difficult: undefined
+    - do: undefined
+    - every: undefined
+    - fast: undefined
+    - football: undefined
+    - for: undefined
+    - friend: undefined
+    - game: undefined
+    - good: undefined
+    - he: undefined
+    - health: undefined
+    - hockey: undefined
+    - i: undefined
+    - important: undefined
+    - in: undefined
+    - interesting: undefined
+    - is: undefined
+    - it: undefined
+    - love: undefined
+    - love/like: undefined
+    - morning: undefined
+    - my: undefined
+    - necessary: undefined
+    - not: undefined
+    - often: undefined
+    - play: undefined
+    - plays: undefined
+    - river: undefined
+    - run: undefined
+    - running: undefined
+    - runs: undefined
+    - she: undefined
+    - sport: undefined
+    - stadium: undefined
+    - swim: undefined
+    - swimming: undefined
+    - tennis: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - train: undefined
+    - trains: undefined
+    - we: undefined
+    - who: undefined
+    - with: undefined

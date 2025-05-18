@@ -1,0 +1,226 @@
+Skill:
+  Name: Conjugation of to be and the Nominative Case
+  Id: 1
+
+New words:
+  - Word: to (r. nijaki)
+    Translation: this
+  - Word: ta (r. żeński)
+    Translation: this
+  - Word: ten (r. męski)
+    Translation: that
+  - Word: tamten (r. męski)
+    Translation: that over there
+  - Word: tamta (r. żeński)
+    Translation: that over there
+  - Word: jestem
+    Translation: am
+  - Word: jesteś
+    Translation: are
+  - Word: jest
+    Translation: is
+  - Word: jesteśmy
+    Translation: are
+  - Word: jesteście
+    Translation: are
+  - Word: są
+    Translation: are
+  - Word: ja
+    Translation: I
+  - Word: ty
+    Translation: you
+  - Word: on
+    Translation: he
+  - Word: ona
+    Translation: she
+  - Word: ono
+    Translation: it
+  - Word: my
+    Translation: we
+  - Word: wy
+    Translation: you
+  - Word: oni
+    Translation: they
+  - Word: one
+    Translation: they
+  - Word: człowiek
+    Translation: person
+  - Word: kobieta
+    Translation: woman
+  - Word: mąż
+    Translation: man
+  - Word: dziecko
+    Translation: child
+  - Word: przyjaciel
+    Translation: friend
+  - Word: siostra
+    Translation: sister
+  - Word: rodzic
+    Translation: parent
+  - Word: dom
+    Translation: house
+  - Word: miasto
+    Translation: city
+  - Word: dzień
+    Translation: day
+  - Word: też
+    Translation: also
+  - Word: kto
+    Translation: who
+
+Phrases:
+  - Phrase: Ja jestem mądry.
+    Translation: I am wise.
+  - Phrase: To moja siostra.
+    Translation: This is my sister.
+  - Phrase: Ona dużo mądra
+    Translation: She is very wise
+  - Phrase: My dużo mądrzy
+    Translation: We are very wise
+  - Phrase: Wy też mądrzy?
+    Translation: Are you also wise?
+  - Phrase: To dobry człowiek.
+    Translation: This is a good person.
+  - Phrase: Ta kobieta jest dobra.
+    Translation: This woman is good.
+  - Phrase: To jest mój dom.
+    Translation: This is my house.
+  - Phrase: On to dobry przyjaciel
+    Translation: He is a good friend
+  - Phrase: Wy jesteście dobrzy.
+    Translation: You are good.
+  - Phrase: To są przyjaciele.
+    Translation: These are friends.
+  - Phrase: Kto ty jesteś?
+    Translation: Who are you?
+  - Phrase: Tamten mąż miły.
+    Translation: That man is kind.
+  - Phrase: To jest przyjemne miasto.
+    Translation: This is a pleasant city.
+  - Phrase: Ta kobieta jest wysoka.
+    Translation: That woman is tall.
+  - Phrase: Tamten dzień jest zimny.
+    Translation: That day is cold.
+  - Phrase: Tamten dom jest piękny.
+    Translation: That house over there is beautiful.
+  - Phrase: To moje dziecko.
+    Translation: This is my child.
+  - Phrase: Tamten ranek jest zimny.
+    Translation: That morning over there is cold.
+  - Phrase: To nie moja siostra.
+    Translation: This is not my sister.
+  - Phrase: To nie twój dom.
+    Translation: This is not your house.
+  - Phrase: To dobre auto?
+    Translation: Is this a good car?
+  - Phrase: To dobrzy przyjaciele?
+    Translation: Are these good friends?
+  - Phrase: One są dużo miłe.
+    Translation: They are very kind.
+  - Phrase: Oni są dużo mili
+    Translation: They are very kind
+
+Mini-dictionary:
+  Polish:
+    - auto: undefined
+    - człowiek: undefined
+    - dobra: undefined
+    - dobre: undefined
+    - dobry: undefined
+    - dobrzy: undefined
+    - dom: undefined
+    - dużo: undefined
+    - dziecko: undefined
+    - dzień: undefined
+    - ja: undefined
+    - jest: undefined
+    - jestem: undefined
+    - jesteś: undefined
+    - jesteście: undefined
+    - jesteśmy: undefined
+    - kobieta: undefined
+    - kto: undefined
+    - miasto: undefined
+    - mili: undefined
+    - miłe: undefined
+    - miły: undefined
+    - moja: undefined
+    - moje: undefined
+    - my: undefined
+    - mój: undefined
+    - mądra: undefined
+    - mądry: undefined
+    - mądrzy: undefined
+    - mąż: undefined
+    - męski: undefined
+    - nie: undefined
+    - nijaki: undefined
+    - on: undefined
+    - ona: undefined
+    - one: undefined
+    - oni: undefined
+    - ono: undefined
+    - piękny: undefined
+    - przyjaciel: undefined
+    - przyjaciele: undefined
+    - przyjemne: undefined
+    - r: undefined
+    - ranek: undefined
+    - rodzic: undefined
+    - siostra: undefined
+    - są: undefined
+    - ta: undefined
+    - tamta: undefined
+    - tamten: undefined
+    - ten: undefined
+    - też: undefined
+    - to: undefined
+    - twój: undefined
+    - ty: undefined
+    - wy: undefined
+    - wysoka: undefined
+    - zimny: undefined
+    - żeński: undefined
+  English:
+    - a: undefined
+    - also: undefined
+    - am: undefined
+    - are: undefined
+    - beautiful: undefined
+    - car: undefined
+    - child: undefined
+    - city: undefined
+    - cold: undefined
+    - day: undefined
+    - friend: undefined
+    - friends: undefined
+    - good: undefined
+    - he: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - it: undefined
+    - kind: undefined
+    - man: undefined
+    - morning: undefined
+    - my: undefined
+    - not: undefined
+    - over: undefined
+    - parent: undefined
+    - person: undefined
+    - pleasant: undefined
+    - she: undefined
+    - sister: undefined
+    - tall: undefined
+    - that: undefined
+    - there: undefined
+    - these: undefined
+    - they: undefined
+    - this: undefined
+    - very: undefined
+    - we: undefined
+    - who: undefined
+    - wise: undefined
+    - woman: undefined
+    - you: undefined
+    - your: undefined

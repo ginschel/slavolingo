@@ -1,0 +1,233 @@
+Skill:
+  Name: Body
+  Id: 35
+
+New words:
+  - Word: roka
+    Translation: hand
+  - Word: noga
+    Translation: leg
+  - Word: glava
+    Translation: head
+  - Word: oko
+    Translation: eye
+  - Word: možgani
+    Translation: brain
+  - Word: stopalo
+    Translation: foot
+  - Word: uho
+    Translation: ear
+  - Word: nos
+    Translation: nose
+  - Word: obraz
+    Translation: face
+  - Word: srce
+    Translation: heart
+  - Word: prst
+    Translation: finger
+  - Word: želodec
+    Translation: stomach
+  - Word: telo
+    Translation: body
+  - Word: boleti (boli)
+    Translation: to hurt
+  - Word: lasje
+    Translation: hair
+  - Word: podoben
+    Translation: similar
+  - Word: slišati (sliši)
+    Translation: to hear
+
+Phrases:
+  - Phrase: Moja roka boli.
+    Translation: My hand hurts.
+  - Phrase: Ona ima dolgo nogo.
+    Translation: She has a long leg.
+  - Phrase: Glava je na telesu.
+    Translation: The head is on the body.
+  - Phrase: On ima modre lepe oči.
+    Translation: He has beautiful blue eyes.
+  - Phrase: Njeno uho ne sliši dobro.
+    Translation: Her ear does not hear well.
+  - Phrase: Nos je rdeč od mraza.
+    Translation: The nose is red from the cold.
+  - Phrase: Obraz je podoben.
+    Translation: The face is similar.
+  - Phrase: Njeno srce bije hitro.
+    Translation: Her heart beats fast.
+  - Phrase: Želodec te boli.
+    Translation: My stomach hurts.
+  - Phrase: Telo pri meni je zdravo.
+    Translation: My body is healthy.
+  - Phrase: Jaz imam dve roki in dve nogi ter tudi dve stopali.
+    Translation: I have two hands and two legs, and also two feet.
+  - Phrase: Oči gledajo v knjigo.
+    Translation: The eyes are looking at the book.
+  - Phrase: Uho sliši glasbo.
+    Translation: The ear hears music.
+  - Phrase: Njegovi možgani so hitri.
+    Translation: His brain is quick.
+  - Phrase: Njen obraz je lep.
+    Translation: Her face is beautiful.
+  - Phrase: Srce je simbol ljubezni.
+    Translation: The heart is a symbol of love.
+  - Phrase: Moj želodec je preprosto poln po večerji.
+    Translation: My stomach is just full after dinner.
+  - Phrase: Telo potrebuje počitek.
+    Translation: The body needs rest.
+  - Phrase: On ima kostanjeve lase na glavi.
+    Translation: He has chestnut-colored hair on his head.
+  - Phrase: Ona te sliši samo z enim ušesom.
+    Translation: She hears you only with one ear.
+
+Mini-dictionary:
+  Slovenian:
+    - bije: undefined
+    - boleti: undefined
+    - boli: undefined
+    - dobro: undefined
+    - dolgo: undefined
+    - dve: undefined
+    - enim: undefined
+    - glasbo: undefined
+    - glava: undefined
+    - glavi: undefined
+    - gledajo: undefined
+    - hitri: undefined
+    - hitro: undefined
+    - ima: undefined
+    - imam: undefined
+    - in: undefined
+    - jaz: undefined
+    - je: undefined
+    - knjigo: undefined
+    - kostanjeve: undefined
+    - lase: undefined
+    - lasje: undefined
+    - lep: undefined
+    - lepe: undefined
+    - ljubezni: undefined
+    - meni: undefined
+    - modre: undefined
+    - moj: undefined
+    - moja: undefined
+    - možgani: undefined
+    - mraza: undefined
+    - na: undefined
+    - ne: undefined
+    - njegovi: undefined
+    - njen: undefined
+    - njeno: undefined
+    - noga: undefined
+    - nogi: undefined
+    - nogo: undefined
+    - nos: undefined
+    - obraz: undefined
+    - od: undefined
+    - oko: undefined
+    - on: undefined
+    - ona: undefined
+    - oči: undefined
+    - po: undefined
+    - podoben: undefined
+    - poln: undefined
+    - potrebuje: undefined
+    - počitek: undefined
+    - preprosto: undefined
+    - pri: undefined
+    - prst: undefined
+    - rdeč: undefined
+    - roka: undefined
+    - roki: undefined
+    - samo: undefined
+    - simbol: undefined
+    - slišati: undefined
+    - sliši: undefined
+    - so: undefined
+    - srce: undefined
+    - stopali: undefined
+    - stopalo: undefined
+    - te: undefined
+    - telesu: undefined
+    - telo: undefined
+    - ter: undefined
+    - tudi: undefined
+    - uho: undefined
+    - ušesom: undefined
+    - v: undefined
+    - večerji: undefined
+    - z: undefined
+    - zdravo: undefined
+    - želodec: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beats: undefined
+    - beautiful: undefined
+    - blue: undefined
+    - body: undefined
+    - book: undefined
+    - brain: undefined
+    - chestnut-colored: undefined
+    - cold: undefined
+    - dinner: undefined
+    - does: undefined
+    - ear: undefined
+    - eye: undefined
+    - eyes: undefined
+    - face: undefined
+    - fast: undefined
+    - feet: undefined
+    - finger: undefined
+    - foot: undefined
+    - from: undefined
+    - full: undefined
+    - hair: undefined
+    - hand: undefined
+    - hands: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - head: undefined
+    - healthy: undefined
+    - hear: undefined
+    - hears: undefined
+    - heart: undefined
+    - her: undefined
+    - his: undefined
+    - hurt: undefined
+    - hurts: undefined
+    - i: undefined
+    - is: undefined
+    - just: undefined
+    - leg: undefined
+    - legs: undefined
+    - long: undefined
+    - looking: undefined
+    - love: undefined
+    - music: undefined
+    - my: undefined
+    - needs: undefined
+    - nose: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - one: undefined
+    - only: undefined
+    - quick: undefined
+    - red: undefined
+    - rest: undefined
+    - she: undefined
+    - similar: undefined
+    - stomach: undefined
+    - symbol: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - well: undefined
+    - with: undefined
+    - you: undefined

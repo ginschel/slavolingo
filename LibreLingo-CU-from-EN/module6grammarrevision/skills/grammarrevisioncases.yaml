@@ -1,0 +1,195 @@
+Skill:
+  Name: Grammar revision cases
+  Id: 19
+
+New words:
+  - Word: "рѣзати (рѣжєтъ)"
+    Translation: to cut
+  - Word: "даръ"
+    Translation: gift
+  - Word: "вьсєсвѣтъ"
+    Translation: universe
+  - Word: "зьрцало"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Кости тѫ нємаѥтъ.
+    Translation: There is no bone here.
+  - Phrase: Дамъ женѣ.
+    Translation: I give to the woman.
+  - Phrase: Она ѥстъ въ градꙋ.
+    Translation: She is in the city.
+  - Phrase: Глаголимъ съ приꙗтєлꙗми.
+    Translation: I talk with friends.
+  - Phrase: Имєнє онъ нємаѥтъ.
+    Translation: He has no name.
+  - Phrase: Тꙑ дꙋшє нє имаши?!
+    Translation: You don't have a soul?!
+  - Phrase: Онъ видитъ своѭ женѫ.
+    Translation: He sees his wife.
+  - Phrase: Брата тѫ нємаѥтъ.
+    Translation: There is no brother here.
+  - Phrase: Сь можьно рѣзати ножомъ.
+    Translation: This can be cut with a knife.
+  - Phrase: Она съ мѫжємъ глаголи.
+    Translation: She talks with her husband.
+  - Phrase: Она глаголи о братахъ.
+    Translation: She talks about brothers.
+  - Phrase: Она даѥтъ даръ братамъ.
+    Translation: She gives a gift to the brothers.
+  - Phrase: На полиѭ мьного работаѭ.
+    Translation: I work a lot in the field.
+  - Phrase: Ѥстъ мьного слъньцъ въ вьсєсвѣтꙋ.
+    Translation: There are many suns in the universe.
+  - Phrase: И тъждє ѥстъ мьного звѣздъ.
+    Translation: And there are also many stars.
+  - Phrase: Онъ любитъ глаголити съ своѥѭ женоѭ.
+    Translation: He likes to talk with his wife.
+  - Phrase: Оужє нємаѥтъ банановъ въ домꙋ.
+    Translation: There are no more bananas in the house.
+  - Phrase: Въ очию видимъ дꙋшѫ твоѭ.
+    Translation: In the eyes I see your soul.
+  - Phrase: Очи сѫтъ зьрцаломъ дꙋшє.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Мѫжьѥвъ тѫ нє видимъ.
+    Translation: I do not see men here.
+  - Phrase: Въ градахъ оувидиши мьного людии.
+    Translation: In the cities you will see many people.
+  - Phrase: Спокоинои нощи!
+    Translation: Good night!
+
+Mini-dictionary:
+  Church Slavonic:
+    - банановъ: undefined
+    - брата: undefined
+    - братамъ: undefined
+    - братахъ: undefined
+    - видимъ: undefined
+    - видитъ: undefined
+    - въ: undefined
+    - вьсєсвѣтъ: undefined
+    - вьсєсвѣтꙋ: undefined
+    - глаголи: undefined
+    - глаголимъ: undefined
+    - глаголити: undefined
+    - градахъ: undefined
+    - градꙋ: undefined
+    - дамъ: undefined
+    - даръ: undefined
+    - даѥтъ: undefined
+    - домꙋ: undefined
+    - дꙋшє: undefined
+    - дꙋшѫ: undefined
+    - женоѭ: undefined
+    - женѣ: undefined
+    - женѫ: undefined
+    - звѣздъ: undefined
+    - зьрцало: undefined
+    - зьрцаломъ: undefined
+    - и: undefined
+    - имаши: undefined
+    - имєнє: undefined
+    - кости: undefined
+    - любитъ: undefined
+    - людии: undefined
+    - можьно: undefined
+    - мьного: undefined
+    - мѫжьѥвъ: undefined
+    - мѫжємъ: undefined
+    - на: undefined
+    - ножомъ: undefined
+    - нощи: undefined
+    - нє: undefined
+    - нємаѥтъ: undefined
+    - о: undefined
+    - она: undefined
+    - онъ: undefined
+    - оувидиши: undefined
+    - оужє: undefined
+    - очи: undefined
+    - очию: undefined
+    - полиѭ: undefined
+    - приꙗтєлꙗми: undefined
+    - работаѭ: undefined
+    - рѣжєтъ: undefined
+    - рѣзати: undefined
+    - своѥѭ: undefined
+    - своѭ: undefined
+    - слъньцъ: undefined
+    - спокоинои: undefined
+    - съ: undefined
+    - сь: undefined
+    - сѫтъ: undefined
+    - твоѭ: undefined
+    - тъждє: undefined
+    - тѫ: undefined
+    - тꙑ: undefined
+    - ѥстъ: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - bananas: undefined
+    - be: undefined
+    - bone: undefined
+    - brother: undefined
+    - brothers: undefined
+    - can: undefined
+    - cities: undefined
+    - city: undefined
+    - cut: undefined
+    - do: undefined
+    - don't: undefined
+    - eyes: undefined
+    - field: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - his: undefined
+    - house: undefined
+    - husband: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - knife: undefined
+    - likes: undefined
+    - lot: undefined
+    - many: undefined
+    - men: undefined
+    - mirror: undefined
+    - more: undefined
+    - name: undefined
+    - night: undefined
+    - no: undefined
+    - not: undefined
+    - of: undefined
+    - people: undefined
+    - see: undefined
+    - sees: undefined
+    - she: undefined
+    - soul: undefined
+    - stars: undefined
+    - suns: undefined
+    - talk: undefined
+    - talks: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - universe: undefined
+    - wife: undefined
+    - will: undefined
+    - with: undefined
+    - woman: undefined
+    - work: undefined
+    - you: undefined
+    - your: undefined

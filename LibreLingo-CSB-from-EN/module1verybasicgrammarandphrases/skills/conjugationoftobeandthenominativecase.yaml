@@ -1,0 +1,226 @@
+Skill:
+  Name: Conjugation of to be and the Nominative Case
+  Id: 1
+
+New words:
+  - Word: to
+    Translation: this
+  - Word: ta
+    Translation: this
+  - Word: ten
+    Translation: that
+  - Word: tamten
+    Translation: that over there
+  - Word: tamta
+    Translation: that over there
+  - Word: jem
+    Translation: am
+  - Word: jes
+    Translation: are
+  - Word: je
+    Translation: is
+  - Word: jesmë
+    Translation: are
+  - Word: jeste
+    Translation: are
+  - Word: są
+    Translation: are
+  - Word: ja
+    Translation: I
+  - Word: ti
+    Translation: you
+  - Word: on
+    Translation: he
+  - Word: ona
+    Translation: she
+  - Word: ono
+    Translation: it
+  - Word: më
+    Translation: we
+  - Word: wë
+    Translation: you
+  - Word: oni
+    Translation: they
+  - Word: one
+    Translation: they
+  - Word: człowiek
+    Translation: person
+  - Word: białka
+    Translation: woman
+  - Word: chłop
+    Translation: man
+  - Word: dzéckò
+    Translation: child
+  - Word: przëjacel
+    Translation: friend
+  - Word: sostra
+    Translation: sister
+  - Word: starszi
+    Translation: parent
+  - Word: dom
+    Translation: house
+  - Word: gard
+    Translation: city
+  - Word: dzéń
+    Translation: day
+  - Word: téż
+    Translation: also
+  - Word: chto
+    Translation: who
+
+Phrases:
+  - Phrase: Jô jem mądri.
+    Translation: I am wise.
+  - Phrase: To je mòja sostra.
+    Translation: This is my sister.
+  - Phrase: Òna wiele mądra
+    Translation: She is very wise
+  - Phrase: Më wiele mądri
+    Translation: We are very wise
+  - Phrase: Wë téż mądri?
+    Translation: Are you also wise?
+  - Phrase: To je dobri człowiek.
+    Translation: This is a good person.
+  - Phrase: Ta białka je dobrô.
+    Translation: This woman is good.
+  - Phrase: To je mój dom.
+    Translation: This is my house.
+  - Phrase: Ten je dobri przëjacel
+    Translation: He is a good friend
+  - Phrase: Wë jeste dobri.
+    Translation: You are good.
+  - Phrase: To są przëjacelé.
+    Translation: These are friends.
+  - Phrase: Chto të jes?
+    Translation: Who are you?
+  - Phrase: Ten chłop je miłi.
+    Translation: That man is kind.
+  - Phrase: To je przëjãmni gard.
+    Translation: This is a pleasant city.
+  - Phrase: Ta białka je wësokô.
+    Translation: That woman is tall.
+  - Phrase: Ten dzéń je zëmny.
+    Translation: That day is cold.
+  - Phrase: Tamten dom je snôżi.
+    Translation: That house over there is beautiful.
+  - Phrase: To je mòje dzéckò.
+    Translation: This is my child.
+  - Phrase: Tamto zô ranô je zëmné.
+    Translation: That morning over there is cold.
+  - Phrase: To nie je mòja sostra.
+    Translation: This is not my sister.
+  - Phrase: To nie je twój dom.
+    Translation: This is not your house.
+  - Phrase: To je dobré aùto?
+    Translation: Is this a good car?
+  - Phrase: To są dobrë przëjacelé?
+    Translation: Are these good friends?
+  - Phrase: One są wiele miłé.
+    Translation: They are very kind.
+  - Phrase: Oni są wiele miłi
+    Translation: They are very kind
+
+Mini-dictionary:
+  Kashubian:
+    - aùto: undefined
+    - białka: undefined
+    - chto: undefined
+    - chłop: undefined
+    - człowiek: undefined
+    - dobri: undefined
+    - dobré: undefined
+    - dobrë: undefined
+    - dobrô: undefined
+    - dom: undefined
+    - dzéckò: undefined
+    - dzéń: undefined
+    - gard: undefined
+    - ja: undefined
+    - je: undefined
+    - jem: undefined
+    - jes: undefined
+    - jesmë: undefined
+    - jeste: undefined
+    - jô: undefined
+    - miłi: undefined
+    - miłé: undefined
+    - më: undefined
+    - mòja: undefined
+    - mòje: undefined
+    - mój: undefined
+    - mądra: undefined
+    - mądri: undefined
+    - nie: undefined
+    - on: undefined
+    - ona: undefined
+    - one: undefined
+    - oni: undefined
+    - ono: undefined
+    - przëjacel: undefined
+    - przëjacelé: undefined
+    - przëjãmni: undefined
+    - ranô: undefined
+    - snôżi: undefined
+    - sostra: undefined
+    - starszi: undefined
+    - są: undefined
+    - ta: undefined
+    - tamta: undefined
+    - tamten: undefined
+    - tamto: undefined
+    - ten: undefined
+    - ti: undefined
+    - to: undefined
+    - twój: undefined
+    - téż: undefined
+    - të: undefined
+    - wiele: undefined
+    - wë: undefined
+    - wësokô: undefined
+    - zëmny: undefined
+    - zëmné: undefined
+    - zô: undefined
+    - òna: undefined
+  English:
+    - a: undefined
+    - also: undefined
+    - am: undefined
+    - are: undefined
+    - beautiful: undefined
+    - car: undefined
+    - child: undefined
+    - city: undefined
+    - cold: undefined
+    - day: undefined
+    - friend: undefined
+    - friends: undefined
+    - good: undefined
+    - he: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - it: undefined
+    - kind: undefined
+    - man: undefined
+    - morning: undefined
+    - my: undefined
+    - not: undefined
+    - over: undefined
+    - parent: undefined
+    - person: undefined
+    - pleasant: undefined
+    - she: undefined
+    - sister: undefined
+    - tall: undefined
+    - that: undefined
+    - there: undefined
+    - these: undefined
+    - they: undefined
+    - this: undefined
+    - very: undefined
+    - we: undefined
+    - who: undefined
+    - wise: undefined
+    - woman: undefined
+    - you: undefined
+    - your: undefined

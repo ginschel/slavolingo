@@ -1,0 +1,187 @@
+Skill:
+  Name: Buying in the Shop
+  Id: 24
+
+New words:
+  - Word: kupić
+    Translation: to buy
+  - Word: sprzedawać
+    Translation: to sell
+  - Word: cena
+    Translation: price
+  - Word: odzież
+    Translation: clothes
+  - Word: torba
+    Translation: bag
+  - Word: kawałek
+    Translation: piece
+  - Word: kupiec/klient
+    Translation: customer
+  - Word: zwrot
+    Translation: return
+  - Word: paragon/czek
+    Translation: receipt
+  - Word: pytać
+    Translation: to ask
+  - Word: świeży
+    Translation: fresh
+
+Phrases:
+  - Phrase: Chcę kupić chleb.
+    Translation: I want to buy bread.
+  - Phrase: On sprzedaje mięso.
+    Translation: He sells meat.
+  - Phrase: Cena jest wysoka.
+    Translation: The price is high.
+  - Phrase: Odzież jest nowa.
+    Translation: The clothes are new.
+  - Phrase: Sprzedawca jest zmęczony dzisiaj.
+    Translation: The seller is tired today.
+  - Phrase: Torba jest ciężka.
+    Translation: The bag is heavy.
+  - Phrase: Kawałek sera jest dobry.
+    Translation: A piece of cheese is good.
+  - Phrase: Klient się pyta o zniszkę.
+    Translation: The customer asks for a discount.
+  - Phrase: Zwrotu nie ma. To zły sklep.
+    Translation: No returns. This is a bad shop.
+  - Phrase: Dam paragon/czek sprzedawcy.
+    Translation: I give the receipt to the seller.
+  - Phrase: Ona kupuje książkę.
+    Translation: She is buying a book.
+  - Phrase: On sprzedaje mleko.
+    Translation: He sells milk.
+  - Phrase: Cena masła jest dobra.
+    Translation: The price of butter is good.
+  - Phrase: Kiełbasa jest świeża.
+    Translation: The sausage is fresh.
+  - Phrase: Sprzedawca da kawałek kiełbasy.
+    Translation: The seller gives a piece of sausage.
+  - Phrase: Torba stoi na podłodze.
+    Translation: The bag is on the floor.
+  - Phrase: Kawałek chleba jest mały.
+    Translation: The piece of bread is small.
+  - Phrase: Klient pyta o cenę.
+    Translation: The customer asks about the price.
+  - Phrase: Zwrot jest do siedmiu dni.
+    Translation: Return is within seven days.
+  - Phrase: Paragon jest podpisany.
+    Translation: The receipt is signed.
+
+Mini-dictionary:
+  Polish:
+    - cena: undefined
+    - cenę: undefined
+    - chcę: undefined
+    - chleb: undefined
+    - chleba: undefined
+    - ciężka: undefined
+    - da: undefined
+    - dam: undefined
+    - dni: undefined
+    - do: undefined
+    - dobra: undefined
+    - dobry: undefined
+    - dzisiaj: undefined
+    - jest: undefined
+    - kawałek: undefined
+    - kiełbasa: undefined
+    - kiełbasy: undefined
+    - klient: undefined
+    - książkę: undefined
+    - kupiec/klient: undefined
+    - kupić: undefined
+    - kupuje: undefined
+    - ma: undefined
+    - masła: undefined
+    - mały: undefined
+    - mięso: undefined
+    - mleko: undefined
+    - na: undefined
+    - nie: undefined
+    - nowa: undefined
+    - o: undefined
+    - odzież: undefined
+    - on: undefined
+    - ona: undefined
+    - paragon: undefined
+    - paragon/czek: undefined
+    - podpisany: undefined
+    - podłodze: undefined
+    - pyta: undefined
+    - pytać: undefined
+    - sera: undefined
+    - siedmiu: undefined
+    - się: undefined
+    - sklep: undefined
+    - sprzedaje: undefined
+    - sprzedawać: undefined
+    - sprzedawca: undefined
+    - sprzedawcy: undefined
+    - stoi: undefined
+    - to: undefined
+    - torba: undefined
+    - wysoka: undefined
+    - zmęczony: undefined
+    - zniszkę: undefined
+    - zwrot: undefined
+    - zwrotu: undefined
+    - zły: undefined
+    - świeża: undefined
+    - świeży: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - are: undefined
+    - ask: undefined
+    - asks: undefined
+    - bad: undefined
+    - bag: undefined
+    - book: undefined
+    - bread: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - cheese: undefined
+    - clothes: undefined
+    - customer: undefined
+    - days: undefined
+    - discount: undefined
+    - floor: undefined
+    - for: undefined
+    - fresh: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - i: undefined
+    - is: undefined
+    - meat: undefined
+    - milk: undefined
+    - new: undefined
+    - no: undefined
+    - of: undefined
+    - on: undefined
+    - piece: undefined
+    - price: undefined
+    - receipt: undefined
+    - return: undefined
+    - returns: undefined
+    - sausage: undefined
+    - sell: undefined
+    - seller: undefined
+    - sells: undefined
+    - seven: undefined
+    - she: undefined
+    - shop: undefined
+    - signed: undefined
+    - small: undefined
+    - the: undefined
+    - this: undefined
+    - tired: undefined
+    - to: undefined
+    - today: undefined
+    - want: undefined
+    - within: undefined

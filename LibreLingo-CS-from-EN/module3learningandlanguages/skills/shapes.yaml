@@ -1,0 +1,188 @@
+Skill:
+  Name: Shapes
+  Id: 10
+
+New words:
+  - Word: kruh
+    Translation: circle
+  - Word: čtverec
+    Translation: square
+  - Word: čtyři
+    Translation: four
+  - Word: dlouhý
+    Translation: long
+  - Word: tři
+    Translation: three
+  - Word: trojúhelník
+    Translation: triangle
+  - Word: stát (stojí)
+    Translation: to stand
+  - Word: rovný
+    Translation: straight
+  - Word: forma
+    Translation: shape
+  - Word: linie
+    Translation: line
+  - Word: tečka
+    Translation: point
+  - Word: obrys
+    Translation: outline
+  - Word: strana
+    Translation: side
+  - Word: figura
+    Translation: figure
+  - Word: tvar
+    Translation: shape
+
+Phrases:
+  - Phrase: To je kruh.
+    Translation: This is a circle.
+  - Phrase: Čtverec má čtyři strany.
+    Translation: A square has four sides.
+  - Phrase: Trojúhelník má tři strany.
+    Translation: A triangle has three sides.
+  - Phrase: Ta linie je dlouhá.
+    Translation: This line is long.
+  - Phrase: To je moje forma.
+    Translation: This is my shape.
+  - Phrase: Linie je rovná.
+    Translation: The line is straight.
+  - Phrase: Tečka je malý bod.
+    Translation: A point is a small dot.
+  - Phrase: Vidíme obrys čtverce.
+    Translation: We see the outline of a square.
+  - Phrase: Figura je komplexní.
+    Translation: The figure is complex.
+  - Phrase: To je jednoduchý tvar.
+    Translation: This is a simple shape.
+  - Phrase: Já maluji velký kruh.
+    Translation: I am drawing a big circle.
+  - Phrase: Čtverec a kruh jsou základní formy.
+    Translation: Square and circle are basic shapes.
+  - Phrase: Linie jde přes stranu.
+    Translation: The line goes through the side.
+  - Phrase: Tečka leží na linii.
+    Translation: The point lies on the line.
+  - Phrase: Ona zná každý obrys Anglie.
+    Translation: She knows every outline of England.
+  - Phrase: To je jednoduchý trojúhelník.
+    Translation: This is a simple triangle.
+  - Phrase: On maluje figury na papíře.
+    Translation: He is drawing figures on paper.
+  - Phrase: Forma je zajímavá.
+    Translation: The shape is interesting.
+  - Phrase: Stůl má tvar čtverce.
+    Translation: The table has the shape of a square.
+  - Phrase: Krásná figura stojí na stole.
+    Translation: A beautiful figure is standing on the table.
+
+Mini-dictionary:
+  Czech:
+    - a: undefined
+    - anglie: undefined
+    - bod: undefined
+    - dlouhá: undefined
+    - dlouhý: undefined
+    - figura: undefined
+    - figury: undefined
+    - forma: undefined
+    - formy: undefined
+    - jde: undefined
+    - je: undefined
+    - jednoduchý: undefined
+    - jsou: undefined
+    - já: undefined
+    - každý: undefined
+    - komplexní: undefined
+    - kruh: undefined
+    - krásná: undefined
+    - leží: undefined
+    - linie: undefined
+    - linii: undefined
+    - maluje: undefined
+    - maluji: undefined
+    - malý: undefined
+    - moje: undefined
+    - má: undefined
+    - na: undefined
+    - obrys: undefined
+    - on: undefined
+    - ona: undefined
+    - papíře: undefined
+    - přes: undefined
+    - rovná: undefined
+    - rovný: undefined
+    - stojí: undefined
+    - stole: undefined
+    - strana: undefined
+    - stranu: undefined
+    - strany: undefined
+    - stát: undefined
+    - stůl: undefined
+    - ta: undefined
+    - tečka: undefined
+    - to: undefined
+    - trojúhelník: undefined
+    - tvar: undefined
+    - tři: undefined
+    - velký: undefined
+    - vidíme: undefined
+    - zajímavá: undefined
+    - zná: undefined
+    - základní: undefined
+    - čtverce: undefined
+    - čtverec: undefined
+    - čtyři: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - basic: undefined
+    - beautiful: undefined
+    - big: undefined
+    - circle: undefined
+    - complex: undefined
+    - dot: undefined
+    - drawing: undefined
+    - england: undefined
+    - every: undefined
+    - figure: undefined
+    - figures: undefined
+    - four: undefined
+    - goes: undefined
+    - has: undefined
+    - he: undefined
+    - i: undefined
+    - interesting: undefined
+    - is: undefined
+    - knows: undefined
+    - lies: undefined
+    - line: undefined
+    - long: undefined
+    - my: undefined
+    - of: undefined
+    - on: undefined
+    - outline: undefined
+    - paper: undefined
+    - point: undefined
+    - see: undefined
+    - shape: undefined
+    - shapes: undefined
+    - she: undefined
+    - side: undefined
+    - sides: undefined
+    - simple: undefined
+    - small: undefined
+    - square: undefined
+    - stand: undefined
+    - standing: undefined
+    - straight: undefined
+    - table: undefined
+    - the: undefined
+    - this: undefined
+    - three: undefined
+    - through: undefined
+    - to: undefined
+    - triangle: undefined
+    - we: undefined

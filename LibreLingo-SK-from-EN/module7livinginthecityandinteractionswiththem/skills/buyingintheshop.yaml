@@ -1,0 +1,183 @@
+Skill:
+  Name: Buying in the Shop
+  Id: 24
+
+New words:
+  - Word: kúpiť
+    Translation: to buy
+  - Word: predávať
+    Translation: to sell
+  - Word: cena
+    Translation: price
+  - Word: oblečenie
+    Translation: clothes
+  - Word: taška
+    Translation: bag
+  - Word: kus
+    Translation: piece
+  - Word: kupec
+    Translation: customer
+  - Word: vrátenie
+    Translation: return
+  - Word: pokladničný blok
+    Translation: receipt
+  - Word: pýtať sa
+    Translation: to ask
+  - Word: čerstvý
+    Translation: fresh
+
+Phrases:
+  - Phrase: Chcem kúpiť chlieb.
+    Translation: I want to buy bread.
+  - Phrase: On predáva mäso.
+    Translation: He sells meat.
+  - Phrase: Cena je vysoká.
+    Translation: The price is high.
+  - Phrase: Oblečenie je nové.
+    Translation: The clothes are new.
+  - Phrase: Predavač je unavený dnes.
+    Translation: The seller is tired today.
+  - Phrase: Taška je ťažká.
+    Translation: The bag is heavy.
+  - Phrase: Kus syra je dobrý.
+    Translation: A piece of cheese is good.
+  - Phrase: Kupec sa pýta na zľavu.
+    Translation: The customer asks for a discount.
+  - Phrase: Vrátenie nie je. To je zlý obchod.
+    Translation: No returns. This is a bad shop.
+  - Phrase: Dám pokladničný blok predavačovi.
+    Translation: I give the receipt to the seller.
+  - Phrase: Ona kupuje knihu.
+    Translation: She is buying a book.
+  - Phrase: On predáva mlieko.
+    Translation: He sells milk.
+  - Phrase: Cena masla je dobrá.
+    Translation: The price of butter is good.
+  - Phrase: Klobása je čerstvá.
+    Translation: The sausage is fresh.
+  - Phrase: Predavač dá kus klobásy.
+    Translation: The seller gives a piece of sausage.
+  - Phrase: Taška stojí na podlahe.
+    Translation: The bag is on the floor.
+  - Phrase: Kus chleba je malý.
+    Translation: The piece of bread is small.
+  - Phrase: Kupec sa pýta na cenu.
+    Translation: The customer asks about the price.
+  - Phrase: Vrátenie je do sedem dní.
+    Translation: Return is within seven days.
+  - Phrase: Pokladničný blok je podpísaný.
+    Translation: The receipt is signed.
+
+Mini-dictionary:
+  Slovak:
+    - blok: undefined
+    - cena: undefined
+    - cenu: undefined
+    - chcem: undefined
+    - chleba: undefined
+    - chlieb: undefined
+    - dnes: undefined
+    - dní: undefined
+    - do: undefined
+    - dobrá: undefined
+    - dobrý: undefined
+    - dá: undefined
+    - dám: undefined
+    - je: undefined
+    - klobása: undefined
+    - klobásy: undefined
+    - knihu: undefined
+    - kupec: undefined
+    - kupuje: undefined
+    - kus: undefined
+    - kúpiť: undefined
+    - malý: undefined
+    - masla: undefined
+    - mlieko: undefined
+    - mäso: undefined
+    - na: undefined
+    - nie: undefined
+    - nové: undefined
+    - obchod: undefined
+    - oblečenie: undefined
+    - on: undefined
+    - ona: undefined
+    - podlahe: undefined
+    - podpísaný: undefined
+    - pokladničný: undefined
+    - predavač: undefined
+    - predavačovi: undefined
+    - predáva: undefined
+    - predávať: undefined
+    - pýta: undefined
+    - pýtať: undefined
+    - sa: undefined
+    - sedem: undefined
+    - stojí: undefined
+    - syra: undefined
+    - taška: undefined
+    - to: undefined
+    - unavený: undefined
+    - vrátenie: undefined
+    - vysoká: undefined
+    - zlý: undefined
+    - zľavu: undefined
+    - čerstvá: undefined
+    - čerstvý: undefined
+    - ťažká: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - are: undefined
+    - ask: undefined
+    - asks: undefined
+    - bad: undefined
+    - bag: undefined
+    - book: undefined
+    - bread: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - cheese: undefined
+    - clothes: undefined
+    - customer: undefined
+    - days: undefined
+    - discount: undefined
+    - floor: undefined
+    - for: undefined
+    - fresh: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - i: undefined
+    - is: undefined
+    - meat: undefined
+    - milk: undefined
+    - new: undefined
+    - no: undefined
+    - of: undefined
+    - on: undefined
+    - piece: undefined
+    - price: undefined
+    - receipt: undefined
+    - return: undefined
+    - returns: undefined
+    - sausage: undefined
+    - sell: undefined
+    - seller: undefined
+    - sells: undefined
+    - seven: undefined
+    - she: undefined
+    - shop: undefined
+    - signed: undefined
+    - small: undefined
+    - the: undefined
+    - this: undefined
+    - tired: undefined
+    - to: undefined
+    - today: undefined
+    - want: undefined
+    - within: undefined

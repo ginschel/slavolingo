@@ -1,0 +1,189 @@
+Skill:
+  Name: Weather
+  Id: 16
+
+New words:
+  - Word: vrijeme
+    Translation: weather
+  - Word: kiša
+    Translation: rain
+  - Word: padati
+    Translation: to fall
+  - Word: snijeg
+    Translation: snow
+  - Word: mijenjati se
+    Translation: to change
+  - Word: sunce
+    Translation: sun
+  - Word: svijetliti
+    Translation: to shine
+  - Word: zrak
+    Translation: air
+  - Word: vjetar
+    Translation: wind
+  - Word: toplo
+    Translation: warm
+  - Word: hladno
+    Translation: cold
+  - Word: mraz
+    Translation: frost
+  - Word: oblak
+    Translation: cloud
+  - Word: grijati (grije)
+    Translation: to heat
+  - Word: oblačno
+    Translation: cloudy
+  - Word: mirisati (miriše)
+    Translation: to smell
+  - Word: vidjeti (vidi)
+    Translation: to see
+
+Phrases:
+  - Phrase: Vrijeme je dobro.
+    Translation: The weather is good.
+  - Phrase: Pada kiša.
+    Translation: It is raining.
+  - Phrase: Snijeg leži na zemlji.
+    Translation: Snow lies on the ground.
+  - Phrase: Sunce svijetli.
+    Translation: The sun is shining.
+  - Phrase: Zrak je čist.
+    Translation: The air is clean.
+  - Phrase: Vjetar puše jako.
+    Translation: The wind is blowing strongly.
+  - Phrase: Danas je toplo.
+    Translation: It is warm today.
+  - Phrase: U Rusiji je hladno.
+    Translation: In Russia it is cold.
+  - Phrase: Mraz je jak.
+    Translation: The frost is strong.
+  - Phrase: Oblaci su tamni.
+    Translation: The clouds are dark.
+  - Phrase: Pada snijeg i kiša.
+    Translation: Snow and rain are falling.
+  - Phrase: Vrijeme se mijenja.
+    Translation: The weather is changing.
+  - Phrase: Sunce grije nas.
+    Translation: The sun heats us.
+  - Phrase: Danas je toplo i suho.
+    Translation: It is warm and dry today.
+  - Phrase: Je li vjetar jak?
+    Translation: Is the wind strong?
+  - Phrase: Mraz je ujutro.
+    Translation: There is frost in the morning.
+  - Phrase: Oblačno je danas.
+    Translation: It is cloudy today.
+  - Phrase: Zrak miriše na kišu.
+    Translation: The air smells of rain.
+  - Phrase: Danas ne vidimo oblake.
+    Translation: Today I do not see clouds.
+  - Phrase: Puše hladan vjetar sa sjevera.
+    Translation: A cold wind is blowing from the north.
+
+Mini-dictionary:
+  Croatian:
+    - danas: undefined
+    - dobro: undefined
+    - grijati: undefined
+    - grije: undefined
+    - hladan: undefined
+    - hladno: undefined
+    - i: undefined
+    - jak: undefined
+    - jako: undefined
+    - je: undefined
+    - kiša: undefined
+    - kišu: undefined
+    - leži: undefined
+    - li: undefined
+    - mijenja: undefined
+    - mijenjati: undefined
+    - mirisati: undefined
+    - miriše: undefined
+    - mraz: undefined
+    - na: undefined
+    - nas: undefined
+    - ne: undefined
+    - oblaci: undefined
+    - oblak: undefined
+    - oblake: undefined
+    - oblačno: undefined
+    - pada: undefined
+    - padati: undefined
+    - puše: undefined
+    - rusiji: undefined
+    - sa: undefined
+    - se: undefined
+    - sjevera: undefined
+    - snijeg: undefined
+    - su: undefined
+    - suho: undefined
+    - sunce: undefined
+    - svijetli: undefined
+    - svijetliti: undefined
+    - tamni: undefined
+    - toplo: undefined
+    - u: undefined
+    - ujutro: undefined
+    - vidi: undefined
+    - vidimo: undefined
+    - vidjeti: undefined
+    - vjetar: undefined
+    - vrijeme: undefined
+    - zemlji: undefined
+    - zrak: undefined
+    - čist: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - and: undefined
+    - are: undefined
+    - blowing: undefined
+    - change: undefined
+    - changing: undefined
+    - clean: undefined
+    - cloud: undefined
+    - clouds: undefined
+    - cloudy: undefined
+    - cold: undefined
+    - dark: undefined
+    - do: undefined
+    - dry: undefined
+    - fall: undefined
+    - falling: undefined
+    - from: undefined
+    - frost: undefined
+    - good: undefined
+    - ground: undefined
+    - heat: undefined
+    - heats: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lies: undefined
+    - morning: undefined
+    - north: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - rain: undefined
+    - raining: undefined
+    - russia: undefined
+    - see: undefined
+    - shine: undefined
+    - shining: undefined
+    - smell: undefined
+    - smells: undefined
+    - snow: undefined
+    - strong: undefined
+    - strongly: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - to: undefined
+    - today: undefined
+    - us: undefined
+    - warm: undefined
+    - weather: undefined
+    - wind: undefined

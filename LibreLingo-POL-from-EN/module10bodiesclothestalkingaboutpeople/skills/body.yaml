@@ -1,0 +1,229 @@
+Skill:
+  Name: Body
+  Id: 35
+
+New words:
+  - Word: ręka
+    Translation: hand
+  - Word: noga
+    Translation: leg
+  - Word: głowa
+    Translation: head
+  - Word: oko
+    Translation: eye
+  - Word: mózg
+    Translation: brain
+  - Word: stopa
+    Translation: foot
+  - Word: ucho
+    Translation: ear
+  - Word: nos
+    Translation: nose
+  - Word: twarz
+    Translation: face
+  - Word: serce
+    Translation: heart
+  - Word: palec
+    Translation: finger
+  - Word: żołądek
+    Translation: stomach
+  - Word: ciało
+    Translation: body
+  - Word: boleć (boli)
+    Translation: to hurt
+  - Word: włosy
+    Translation: hair
+  - Word: podobny
+    Translation: similar
+  - Word: słyszeć (słyszy)
+    Translation: to hear
+
+Phrases:
+  - Phrase: Moja ręka boli.
+    Translation: My hand hurts.
+  - Phrase: Ona ma długą nogę.
+    Translation: She has a long leg.
+  - Phrase: Głowa jest na ciele.
+    Translation: The head is on the body.
+  - Phrase: On ma niebieskie piękne oczy.
+    Translation: He has beautiful blue eyes.
+  - Phrase: Jej ucho nie słyszy dobrze.
+    Translation: Her ear does not hear well.
+  - Phrase: Nos jest czerwony od mrozu.
+    Translation: The nose is red from the cold.
+  - Phrase: Twarz jest podobna.
+    Translation: The face is similar.
+  - Phrase: Jej serce bije szybko.
+    Translation: Her heart beats fast.
+  - Phrase: Żołądek cię boli.
+    Translation: My stomach hurts.
+  - Phrase: Ciało u mnie zdrowe.
+    Translation: My body is healthy.
+  - Phrase: Ja mam dwie ręce i dwie nogi i też dwie stopy.
+    Translation: I have two hands and two legs, and also two feet.
+  - Phrase: Oczy patrzą w książkę.
+    Translation: The eyes are looking at the book.
+  - Phrase: Ucho słyszy muzykę.
+    Translation: The ear hears music.
+  - Phrase: Jego mózg jest szybki.
+    Translation: His brain is quick.
+  - Phrase: Jej twarz jest piękna.
+    Translation: Her face is beautiful.
+  - Phrase: Serce jest symbolem miłości.
+    Translation: The heart is a symbol of love.
+  - Phrase: Mój żołądek jest po prostu pełny po kolacji.
+    Translation: My stomach is just full after dinner.
+  - Phrase: Ciało potrzebuje odpoczynku.
+    Translation: The body needs rest.
+  - Phrase: On ma kasztanowe włosy na głowie.
+    Translation: He has chestnut-colored hair on his head.
+  - Phrase: Ona słyszy cię tylko jednym uchem.
+    Translation: She hears you only with one ear.
+
+Mini-dictionary:
+  Polish:
+    - bije: undefined
+    - boleć: undefined
+    - boli: undefined
+    - ciało: undefined
+    - ciele: undefined
+    - cię: undefined
+    - czerwony: undefined
+    - dobrze: undefined
+    - dwie: undefined
+    - długą: undefined
+    - głowa: undefined
+    - głowie: undefined
+    - i: undefined
+    - ja: undefined
+    - jednym: undefined
+    - jego: undefined
+    - jej: undefined
+    - jest: undefined
+    - kasztanowe: undefined
+    - kolacji: undefined
+    - książkę: undefined
+    - ma: undefined
+    - mam: undefined
+    - miłości: undefined
+    - mnie: undefined
+    - moja: undefined
+    - mrozu: undefined
+    - muzykę: undefined
+    - mój: undefined
+    - mózg: undefined
+    - na: undefined
+    - nie: undefined
+    - niebieskie: undefined
+    - noga: undefined
+    - nogi: undefined
+    - nogę: undefined
+    - nos: undefined
+    - oczy: undefined
+    - od: undefined
+    - odpoczynku: undefined
+    - oko: undefined
+    - on: undefined
+    - ona: undefined
+    - palec: undefined
+    - patrzą: undefined
+    - pełny: undefined
+    - piękna: undefined
+    - piękne: undefined
+    - po: undefined
+    - podobna: undefined
+    - podobny: undefined
+    - potrzebuje: undefined
+    - prostu: undefined
+    - ręce: undefined
+    - ręka: undefined
+    - serce: undefined
+    - stopa: undefined
+    - stopy: undefined
+    - symbolem: undefined
+    - szybki: undefined
+    - szybko: undefined
+    - słyszeć: undefined
+    - słyszy: undefined
+    - też: undefined
+    - twarz: undefined
+    - tylko: undefined
+    - u: undefined
+    - uchem: undefined
+    - ucho: undefined
+    - w: undefined
+    - włosy: undefined
+    - zdrowe: undefined
+    - żołądek: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beats: undefined
+    - beautiful: undefined
+    - blue: undefined
+    - body: undefined
+    - book: undefined
+    - brain: undefined
+    - chestnut-colored: undefined
+    - cold: undefined
+    - dinner: undefined
+    - does: undefined
+    - ear: undefined
+    - eye: undefined
+    - eyes: undefined
+    - face: undefined
+    - fast: undefined
+    - feet: undefined
+    - finger: undefined
+    - foot: undefined
+    - from: undefined
+    - full: undefined
+    - hair: undefined
+    - hand: undefined
+    - hands: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - head: undefined
+    - healthy: undefined
+    - hear: undefined
+    - hears: undefined
+    - heart: undefined
+    - her: undefined
+    - his: undefined
+    - hurt: undefined
+    - hurts: undefined
+    - i: undefined
+    - is: undefined
+    - just: undefined
+    - leg: undefined
+    - legs: undefined
+    - long: undefined
+    - looking: undefined
+    - love: undefined
+    - music: undefined
+    - my: undefined
+    - needs: undefined
+    - nose: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - one: undefined
+    - only: undefined
+    - quick: undefined
+    - red: undefined
+    - rest: undefined
+    - she: undefined
+    - similar: undefined
+    - stomach: undefined
+    - symbol: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - well: undefined
+    - with: undefined
+    - you: undefined

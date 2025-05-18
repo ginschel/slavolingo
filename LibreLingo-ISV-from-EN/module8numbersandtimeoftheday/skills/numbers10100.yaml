@@ -1,0 +1,129 @@
+Skill:
+  Name: Numbers 10-100
+  Id: 28
+
+New words:
+  - Word: deset
+    Translation: ten
+  - Word: dvadeset
+    Translation: twenty
+  - Word: trideset
+    Translation: thirty
+  - Word: četyrideset
+    Translation: forty
+  - Word: petdeset
+    Translation: fifty
+  - Word: šestdeset
+    Translation: sixty
+  - Word: sedmdeset
+    Translation: seventy
+  - Word: osmdeset
+    Translation: eighty
+  - Word: devetdeset
+    Translation: ninety
+  - Word: sto
+    Translation: one hundred
+
+Phrases:
+  - Phrase: sto časovnikov
+    Translation: one hundred clocks
+  - Phrase: deset hlapcev
+    Translation: ten boys
+  - Phrase: dvadeset žen
+    Translation: twenty women
+  - Phrase: trideset polej
+    Translation: thirty fields
+  - Phrase: četyrideset mužev
+    Translation: forty men
+  - Phrase: petdeset žen
+    Translation: fifty women
+  - Phrase: šestdeset kotov
+    Translation: sixty cats
+  - Phrase: sto jedin velosipedov
+    Translation: one hundred one bicycles
+  - Phrase: osmdeset hlapcev
+    Translation: eighty boys
+  - Phrase: devetdeset velosipedov
+    Translation: ninety bicycles
+  - Phrase: sedmdeset osm rubljev
+    Translation: seventy eight rubles
+  - Phrase: osmdeset sedm dolarov
+    Translation: eighty seven dollars
+  - Phrase: devetdeset tri kompjuterov
+    Translation: ninety three computers
+  - Phrase: petdeset jedin časovnikov
+    Translation: fifty one clocks
+  - Phrase: dvadeset četyri věčij
+    Translation: twenty four things
+  - Phrase: sto dva solnc
+    Translation: one hundred two suns
+  - Phrase: šestdeset velosipedov
+    Translation: sixty bicycles
+  - Phrase: četyrideset dolarov
+    Translation: forty dollars
+  - Phrase: trideset psov
+    Translation: thirty dogs
+  - Phrase: dvadeset kotov
+    Translation: twenty cats
+
+Mini-dictionary:
+  Interslavic:
+    - deset: undefined
+    - devetdeset: undefined
+    - dolarov: undefined
+    - dva: undefined
+    - dvadeset: undefined
+    - hlapcev: undefined
+    - jedin: undefined
+    - kompjuterov: undefined
+    - kotov: undefined
+    - mužev: undefined
+    - osm: undefined
+    - osmdeset: undefined
+    - petdeset: undefined
+    - polej: undefined
+    - psov: undefined
+    - rubljev: undefined
+    - sedm: undefined
+    - sedmdeset: undefined
+    - solnc: undefined
+    - sto: undefined
+    - tri: undefined
+    - trideset: undefined
+    - velosipedov: undefined
+    - věčij: undefined
+    - časovnikov: undefined
+    - četyri: undefined
+    - četyrideset: undefined
+    - šestdeset: undefined
+    - žen: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - eighty: undefined
+    - fields: undefined
+    - fifty: undefined
+    - forty: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - ninety: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - seventy: undefined
+    - sixty: undefined
+    - suns: undefined
+    - ten: undefined
+    - things: undefined
+    - thirty: undefined
+    - three: undefined
+    - twenty: undefined
+    - two: undefined
+    - women: undefined

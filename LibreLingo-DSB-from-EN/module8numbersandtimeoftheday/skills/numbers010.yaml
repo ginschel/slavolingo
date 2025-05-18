@@ -1,0 +1,166 @@
+Skill:
+  Name: Numbers 0-10
+  Id: 26
+
+New words:
+  - Word: nul
+    Translation: zero
+  - Word: jaden
+    Translation: one
+  - Word: jadna
+    Translation: one
+  - Word: jadno
+    Translation: one
+  - Word: dwa
+    Translation: two
+  - Word: dwě
+    Translation: two
+  - Word: tśi
+    Translation: three
+  - Word: styrjo
+    Translation: four
+  - Word: pěś
+    Translation: five
+  - Word: šesć
+    Translation: six
+  - Word: sedym
+    Translation: seven
+  - Word: wosym
+    Translation: eight
+  - Word: źewjeś
+    Translation: nine
+  - Word: źaset
+    Translation: ten
+  - Word: goźinik
+    Translation: clock/watch
+  - Word: gólc
+    Translation: boy
+  - Word: kompjutér
+    Translation: computer
+  - Word: kólo
+    Translation: bicycle
+  - Word: rubl
+    Translation: ruble
+  - Word: žona
+    Translation: woman
+  - Word: pólo
+    Translation: field
+  - Word: kócka
+    Translation: cat
+  - Word: dolar
+    Translation: dollar
+
+Phrases:
+  - Phrase: nul goźinikow
+    Translation: zero clocks
+  - Phrase: jaden gólc
+    Translation: one boy
+  - Phrase: jadna žona
+    Translation: one woman
+  - Phrase: jadno pólo
+    Translation: one field
+  - Phrase: dwaj gólca
+    Translation: two boys
+  - Phrase: dwě žoni
+    Translation: two women
+  - Phrase: tśi kócki
+    Translation: three cats
+  - Phrase: styrjo kóła
+    Translation: four bicycles
+  - Phrase: pěś gólcow
+    Translation: five boys
+  - Phrase: šesć kółow
+    Translation: six bicycles
+  - Phrase: sedym rublow
+    Translation: seven rubles
+  - Phrase: wosym dolarow
+    Translation: eight dollars
+  - Phrase: źewjeś kompjutérow
+    Translation: nine computers
+  - Phrase: źaset goźinikow
+    Translation: ten clocks
+  - Phrase: dwě wěcy
+    Translation: two things
+  - Phrase: jadno słyńco
+    Translation: one sun
+  - Phrase: jaden kóło
+    Translation: one bicycle
+  - Phrase: styrjo dolary
+    Translation: four dollars
+  - Phrase: tśi kócki
+    Translation: three cats
+  - Phrase: pěś kóckow
+    Translation: five cats
+
+Mini-dictionary:
+  Lower Sorbian:
+    - dolar: undefined
+    - dolarow: undefined
+    - dolary: undefined
+    - dwa: undefined
+    - dwaj: undefined
+    - dwě: undefined
+    - goźinik: undefined
+    - goźinikow: undefined
+    - gólc: undefined
+    - gólca: undefined
+    - gólcow: undefined
+    - jaden: undefined
+    - jadna: undefined
+    - jadno: undefined
+    - kompjutér: undefined
+    - kompjutérow: undefined
+    - kócka: undefined
+    - kócki: undefined
+    - kóckow: undefined
+    - kólo: undefined
+    - kóła: undefined
+    - kóło: undefined
+    - kółow: undefined
+    - nul: undefined
+    - pólo: undefined
+    - pěś: undefined
+    - rubl: undefined
+    - rublow: undefined
+    - sedym: undefined
+    - styrjo: undefined
+    - słyńco: undefined
+    - tśi: undefined
+    - wosym: undefined
+    - wěcy: undefined
+    - šesć: undefined
+    - źaset: undefined
+    - źewjeś: undefined
+    - žona: undefined
+    - žoni: undefined
+  English:
+    - bicycle: undefined
+    - bicycles: undefined
+    - boy: undefined
+    - boys: undefined
+    - cat: undefined
+    - cats: undefined
+    - clock/watch: undefined
+    - clocks: undefined
+    - computer: undefined
+    - computers: undefined
+    - dollar: undefined
+    - dollars: undefined
+    - eight: undefined
+    - field: undefined
+    - five: undefined
+    - four: undefined
+    - nine: undefined
+    - one: undefined
+    - ruble: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - sun: undefined
+    - ten: undefined
+    - things: undefined
+    - three: undefined
+    - two: undefined
+    - woman: undefined
+    - women: undefined
+    - zero: undefined

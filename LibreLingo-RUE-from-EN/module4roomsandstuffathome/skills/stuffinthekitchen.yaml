@@ -1,0 +1,211 @@
+Skill:
+  Name: Stuff in the kitchen
+  Id: 13
+
+New words:
+  - Word: нож
+    Translation: knife
+  - Word: вилка
+    Translation: fork
+  - Word: ложка
+    Translation: spoon
+  - Word: талїр
+    Translation: plate
+  - Word: шолїк
+    Translation: cup
+  - Word: сіль
+    Translation: salt
+  - Word: перець
+    Translation: pepper
+  - Word: цукор
+    Translation: sugar
+  - Word: сковородка
+    Translation: frying pan
+  - Word: горїчый
+    Translation: hot
+  - Word: горнець
+    Translation: pot
+  - Word: кухня
+    Translation: kitchen
+  - Word: варити
+    Translation: to cook
+  - Word: паланка
+    Translation: pancake
+  - Word: пиріг
+    Translation: dumpling
+  - Word: миска
+    Translation: bowl
+
+Phrases:
+  - Phrase: Нож лежить на столї.
+    Translation: The knife is lying on the table.
+  - Phrase: Виллка є серебряна.
+    Translation: The fork is silver.
+  - Phrase: Ложка є в соли.
+    Translation: The spoon is in the salt.
+  - Phrase: Талїр є повный їды.
+    Translation: The plate is full of food.
+  - Phrase: Шолїк є наполненый водов.
+    Translation: The cup is filled with water.
+  - Phrase: Дам до чаю цукор.
+    Translation: I will add sugar to the tea.
+  - Phrase: Много цукру є в мисці
+    Translation: There is a lot of sugar in the bowl.
+  - Phrase: На сковородці ся варить моя паланка.
+    Translation: My pancake is cooking on the frying pan.
+  - Phrase: Горнець є горїчый.
+    Translation: The pot is hot
+  - Phrase: Горнець є на огни.
+    Translation: The pot is on the flame.
+  - Phrase: Кухня є чіста.
+    Translation: The kitchen is clean.
+  - Phrase: Он є з вилков.
+    Translation: He eats with a fork.
+  - Phrase: Она пиє из шолїка.
+    Translation: She drinks from a cup.
+  - Phrase: Мы готовиме в горнці.
+    Translation: We cook in a pot.
+  - Phrase: На сковородці є мясо.
+    Translation: There is meat in the frying pan.
+  - Phrase: Нож є острый.
+    Translation: The knife is sharp.
+  - Phrase: Вилкы і ножы суть на столї.
+    Translation: Forks and knives are on the table.
+  - Phrase: Ложка є повна перцю.
+    Translation: The spoon is full of pepper.
+  - Phrase: Талїр лежить на подлозі.
+    Translation: The plate is lying on the floor.
+  - Phrase: Конзерва є пуста.
+    Translation: The can is empty.
+  - Phrase: Кухня має добрый запах вечером.
+    Translation: The kitchen has a good smell in the evening.
+
+Mini-dictionary:
+  Rusin:
+    - в: undefined
+    - варити: undefined
+    - варить: undefined
+    - вечером: undefined
+    - вилка: undefined
+    - вилков: undefined
+    - вилкы: undefined
+    - виллка: undefined
+    - водов: undefined
+    - горнець: undefined
+    - горнці: undefined
+    - горїчый: undefined
+    - готовиме: undefined
+    - дам: undefined
+    - до: undefined
+    - добрый: undefined
+    - з: undefined
+    - запах: undefined
+    - из: undefined
+    - конзерва: undefined
+    - кухня: undefined
+    - лежить: undefined
+    - ложка: undefined
+    - має: undefined
+    - миска: undefined
+    - мисці: undefined
+    - много: undefined
+    - моя: undefined
+    - мы: undefined
+    - мясо: undefined
+    - на: undefined
+    - наполненый: undefined
+    - нож: undefined
+    - ножы: undefined
+    - огни: undefined
+    - он: undefined
+    - она: undefined
+    - острый: undefined
+    - паланка: undefined
+    - перець: undefined
+    - перцю: undefined
+    - пиріг: undefined
+    - пиє: undefined
+    - повна: undefined
+    - повный: undefined
+    - подлозі: undefined
+    - пуста: undefined
+    - серебряна: undefined
+    - сковородка: undefined
+    - сковородці: undefined
+    - соли: undefined
+    - столї: undefined
+    - суть: undefined
+    - ся: undefined
+    - сіль: undefined
+    - талїр: undefined
+    - цукор: undefined
+    - цукру: undefined
+    - чаю: undefined
+    - чіста: undefined
+    - шолїк: undefined
+    - шолїка: undefined
+    - є: undefined
+    - і: undefined
+    - їды: undefined
+  English:
+    - a: undefined
+    - add: undefined
+    - and: undefined
+    - are: undefined
+    - bowl: undefined
+    - can: undefined
+    - clean: undefined
+    - cook: undefined
+    - cooking: undefined
+    - cup: undefined
+    - drinks: undefined
+    - dumpling: undefined
+    - eats: undefined
+    - empty: undefined
+    - evening: undefined
+    - filled: undefined
+    - flame: undefined
+    - floor: undefined
+    - food: undefined
+    - fork: undefined
+    - forks: undefined
+    - from: undefined
+    - frying: undefined
+    - full: undefined
+    - good: undefined
+    - has: undefined
+    - he: undefined
+    - hot: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - kitchen: undefined
+    - knife: undefined
+    - knives: undefined
+    - lot: undefined
+    - lying: undefined
+    - meat: undefined
+    - my: undefined
+    - of: undefined
+    - on: undefined
+    - pan: undefined
+    - pancake: undefined
+    - pepper: undefined
+    - plate: undefined
+    - pot: undefined
+    - salt: undefined
+    - sharp: undefined
+    - she: undefined
+    - silver: undefined
+    - smell: undefined
+    - spoon: undefined
+    - sugar: undefined
+    - table: undefined
+    - tea: undefined
+    - the: undefined
+    - there: undefined
+    - to: undefined
+    - water: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined

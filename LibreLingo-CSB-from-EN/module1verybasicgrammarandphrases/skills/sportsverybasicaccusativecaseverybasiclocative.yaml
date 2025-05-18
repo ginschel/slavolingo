@@ -1,0 +1,184 @@
+Skill:
+  Name: Sports (very basic accusative case + very basic locative)
+  Id: 5
+
+New words:
+  - Word: bal
+    Translation: football
+  - Word: kòszôrtã
+    Translation: basketball
+  - Word: tenis
+    Translation: tennis
+  - Word: pławanié
+    Translation: swimming
+  - Word: pławac
+    Translation: to swim
+  - Word: bieg
+    Translation: running
+  - Word: biedz
+    Translation: to run
+  - Word: zôranô
+    Translation: in the morning
+  - Word: miłowac
+    Translation: to love/like
+  - Word: hokej
+    Translation: hockey
+  - Word: sport
+    Translation: sport
+  - Word: gra
+    Translation: game
+  - Word: trenowac
+    Translation: to train
+  - Word: stadion
+    Translation: stadium
+  - Word: chùtczi
+    Translation: fast
+  - Word: cãżczi
+    Translation: difficult
+
+Phrases:
+  - Phrase: Gróm w bal.
+    Translation: I play football.
+  - Phrase: Òna grô w kòszôrtã.
+    Translation: She plays basketball.
+  - Phrase: On grô w tenis.
+    Translation: He plays tennis.
+  - Phrase: Më pławómë w rzékã.
+    Translation: We swim in the river.
+  - Phrase: Òni biégają zôranô.
+    Translation: They run in the morning.
+  - Phrase: On trenuje czéżdë dzéń.
+    Translation: He trains every day.
+  - Phrase: Sport je wôżny.
+    Translation: Sport is important.
+  - Phrase: Òna grô na stadiónie.
+    Translation: She plays at the stadium.
+  - Phrase: Trzeba trenowac.
+    Translation: It is necessary to train.
+  - Phrase: Òni miłują sport.
+    Translation: They love sport.
+  - Phrase: Ja nie gróm w hokej.
+    Translation: I do not play hockey.
+  - Phrase: Stadion je w gardze.
+    Translation: The stadium is in the city.
+  - Phrase: Kòszôrtã to je jinteresanti sport.
+    Translation: Basketball is an interesting sport.
+  - Phrase: Pławanié je dobré dlô zdrowiô.
+    Translation: Swimming is good for health.
+  - Phrase: Chto grô w tenis?
+    Translation: Who plays tennis?
+  - Phrase: On biégô chùtczi.
+    Translation: He runs fast.
+  - Phrase: Më pławómë czãsto.
+    Translation: We swim often.
+  - Phrase: On trenuje z przëjacelã.
+    Translation: He trains with a friend.
+  - Phrase: Ja gróm z bratama.
+    Translation: I play with my brothers.
+  - Phrase: Hokej je cãżczi.
+    Translation: Hockey is difficult.
+
+Mini-dictionary:
+  Kashubian:
+    - bal: undefined
+    - biedz: undefined
+    - bieg: undefined
+    - biégają: undefined
+    - biégô: undefined
+    - bratama: undefined
+    - chto: undefined
+    - chùtczi: undefined
+    - czãsto: undefined
+    - czéżdë: undefined
+    - cãżczi: undefined
+    - dlô: undefined
+    - dobré: undefined
+    - dzéń: undefined
+    - gardze: undefined
+    - gra: undefined
+    - gróm: undefined
+    - grô: undefined
+    - hokej: undefined
+    - ja: undefined
+    - je: undefined
+    - jinteresanti: undefined
+    - kòszôrtã: undefined
+    - miłowac: undefined
+    - miłują: undefined
+    - më: undefined
+    - na: undefined
+    - nie: undefined
+    - on: undefined
+    - przëjacelã: undefined
+    - pławac: undefined
+    - pławanié: undefined
+    - pławómë: undefined
+    - rzékã: undefined
+    - sport: undefined
+    - stadion: undefined
+    - stadiónie: undefined
+    - tenis: undefined
+    - to: undefined
+    - trenowac: undefined
+    - trenuje: undefined
+    - trzeba: undefined
+    - w: undefined
+    - wôżny: undefined
+    - z: undefined
+    - zdrowiô: undefined
+    - zôranô: undefined
+    - òna: undefined
+    - òni: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - at: undefined
+    - basketball: undefined
+    - brothers: undefined
+    - city: undefined
+    - day: undefined
+    - difficult: undefined
+    - do: undefined
+    - every: undefined
+    - fast: undefined
+    - football: undefined
+    - for: undefined
+    - friend: undefined
+    - game: undefined
+    - good: undefined
+    - he: undefined
+    - health: undefined
+    - hockey: undefined
+    - i: undefined
+    - important: undefined
+    - in: undefined
+    - interesting: undefined
+    - is: undefined
+    - it: undefined
+    - love: undefined
+    - love/like: undefined
+    - morning: undefined
+    - my: undefined
+    - necessary: undefined
+    - not: undefined
+    - often: undefined
+    - play: undefined
+    - plays: undefined
+    - river: undefined
+    - run: undefined
+    - running: undefined
+    - runs: undefined
+    - she: undefined
+    - sport: undefined
+    - stadium: undefined
+    - swim: undefined
+    - swimming: undefined
+    - tennis: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - train: undefined
+    - trains: undefined
+    - we: undefined
+    - who: undefined
+    - with: undefined

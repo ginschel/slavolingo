@@ -1,0 +1,175 @@
+Skill:
+  Name: Nationalities / Languages
+  Id: 11
+
+New words:
+  - Word: Słowiôrz
+    Translation: Slav
+  - Word: jãzëk
+    Translation: language
+  - Word: państwò
+    Translation: country
+  - Word: nôród
+    Translation: nation
+  - Word: miono
+    Translation: name
+  - Word: Charwatka
+    Translation: Croat
+  - Word: Rusk
+    Translation: Russian
+  - Word: Pòlôch
+    Translation: Pole
+  - Word: Niemc
+    Translation: German
+  - Word: Anielczón
+    Translation: Englishman
+
+Phrases:
+  - Phrase: On je Słowiôrzã.
+    Translation: He is a Slav.
+  - Phrase: Òna gôdô pò słowiańskù.
+    Translation: She speaks the Slavic language.
+  - Phrase: To je mój jãzëk.
+    Translation: This is my language.
+  - Phrase: Państwò je Pòlskô.
+    Translation: The country is Poland.
+  - Phrase: Ja jem Pòlôchã.
+    Translation: I am a Pole.
+  - Phrase: Òna je Charwatkòj.
+    Translation: She is a Croat.
+  - Phrase: On je Ruskã.
+    Translation: He is a Russian.
+  - Phrase: Gôdôsz pò niemieckù?
+    Translation: Do you speak the German language?
+  - Phrase: Anielczón gôdô pò anielskù.
+    Translation: An Englishman speaks the English language.
+  - Phrase: Më miłujemë swóji nôród.
+    Translation: We love our nation.
+  - Phrase: To je miono mòjegò państwô.
+    Translation: This is the name of my country.
+  - Phrase: On wié trzë jãzëczi.
+    Translation: He knows three languages.
+  - Phrase: Charwat gôdô pò charwackù.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Niemc żëje w Miemcama.
+    Translation: A German lives in Germany.
+  - Phrase: Òna znô pò rusczi i pò słowiańskù.
+    Translation: She knows Russian and Slavic.
+  - Phrase: To je nôród z bògatą kùlturã.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Jes të Anielczónã?
+    Translation: Are you an Englishman?
+  - Phrase: On gôdô czéżdë jãzëk dobri.
+    Translation: He speaks every language well.
+  - Phrase: Më ùczimë sã rusczi jãzëk.
+    Translation: We are learning the Russian language.
+  - Phrase: Òna znô wiele nôrodów.
+    Translation: She knows many nations.
+
+Mini-dictionary:
+  Kashubian:
+    - anielczón: undefined
+    - anielczónã: undefined
+    - anielskù: undefined
+    - bògatą: undefined
+    - charwackù: undefined
+    - charwat: undefined
+    - charwatka: undefined
+    - charwatkòj: undefined
+    - czéżdë: undefined
+    - dobri: undefined
+    - gôdô: undefined
+    - gôdôsz: undefined
+    - i: undefined
+    - ja: undefined
+    - je: undefined
+    - jem: undefined
+    - jes: undefined
+    - jãzëczi: undefined
+    - jãzëk: undefined
+    - kùlturã: undefined
+    - miemcama: undefined
+    - miono: undefined
+    - miłujemë: undefined
+    - më: undefined
+    - mòjegò: undefined
+    - mój: undefined
+    - niemc: undefined
+    - niemieckù: undefined
+    - nôrodów: undefined
+    - nôród: undefined
+    - on: undefined
+    - państwò: undefined
+    - państwô: undefined
+    - pò: undefined
+    - pòlskô: undefined
+    - pòlôch: undefined
+    - pòlôchã: undefined
+    - rusczi: undefined
+    - rusk: undefined
+    - ruskã: undefined
+    - swóji: undefined
+    - sã: undefined
+    - słowiańskù: undefined
+    - słowiôrz: undefined
+    - słowiôrzã: undefined
+    - to: undefined
+    - trzë: undefined
+    - të: undefined
+    - w: undefined
+    - wiele: undefined
+    - wié: undefined
+    - z: undefined
+    - znô: undefined
+    - òna: undefined
+    - ùczimë: undefined
+    - żëje: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - an: undefined
+    - and: undefined
+    - are: undefined
+    - country: undefined
+    - croat: undefined
+    - croatian: undefined
+    - culture: undefined
+    - do: undefined
+    - english: undefined
+    - englishman: undefined
+    - every: undefined
+    - german: undefined
+    - germany: undefined
+    - he: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - knows: undefined
+    - language: undefined
+    - languages: undefined
+    - learning: undefined
+    - lives: undefined
+    - love: undefined
+    - many: undefined
+    - my: undefined
+    - name: undefined
+    - nation: undefined
+    - nations: undefined
+    - of: undefined
+    - our: undefined
+    - poland: undefined
+    - pole: undefined
+    - rich: undefined
+    - russian: undefined
+    - she: undefined
+    - slav: undefined
+    - slavic: undefined
+    - speak: undefined
+    - speaks: undefined
+    - the: undefined
+    - this: undefined
+    - three: undefined
+    - we: undefined
+    - well: undefined
+    - with: undefined
+    - you: undefined

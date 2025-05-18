@@ -1,0 +1,126 @@
+Skill:
+  Name: Numbers 100-1000
+  Id: 29
+
+New words:
+  - Word: sto
+    Translation: one hundred
+  - Word: dwiesce
+    Translation: two hundred
+  - Word: trzësta
+    Translation: three hundred
+  - Word: sztëresta
+    Translation: four hundred
+  - Word: piãcсот
+    Translation: five hundred
+  - Word: sześсот
+    Translation: six hundred
+  - Word: sedemсот
+    Translation: seven hundred
+  - Word: òsemсот
+    Translation: eight hundred
+  - Word: dzewiãcсот
+    Translation: nine hundred
+  - Word: tësąc
+    Translation: thousand
+
+Phrases:
+  - Phrase: tësąc jeden gòdzënków
+    Translation: one thousand one clocks
+  - Phrase: sto chłôpczów
+    Translation: one hundred boys
+  - Phrase: dwiesce białków
+    Translation: two hundred women
+  - Phrase: trzësta poldów
+    Translation: three hundred fields
+  - Phrase: sztëresta chłopów
+    Translation: four hundred men
+  - Phrase: piãcsot białków
+    Translation: five hundred women
+  - Phrase: sześсот kòtów
+    Translation: six hundred cats
+  - Phrase: sedemсот jeden kòłów
+    Translation: seven hundred one bicycles
+  - Phrase: òsemсот chłôpczów
+    Translation: eight hundred boys
+  - Phrase: dzewiãcсот kòłów
+    Translation: nine hundred bicycles
+  - Phrase: tësąc òsem rublów
+    Translation: one thousand eight rubles
+  - Phrase: sztërešta sedem dolarów
+    Translation: four hundred seven dollars
+  - Phrase: dwiesce trzë kòmpùterów
+    Translation: two hundred three computers
+  - Phrase: sedemсот jeden gòdzënków
+    Translation: seven hundred one clocks
+  - Phrase: trzësta sztërë wieszczów
+    Translation: three hundred four things
+  - Phrase: sto dwa słunzków
+    Translation: one hundred two suns
+  - Phrase: sześсот kòłów
+    Translation: six hundred bicycles
+  - Phrase: òsemсот dolarów
+    Translation: eight hundred dollars
+  - Phrase: dwa tësąc dzewiãcсот pisów
+    Translation: two thousand nine hundred dogs
+  - Phrase: sztërešta kòtów
+    Translation: four hundred cats
+
+Mini-dictionary:
+  Kashubian:
+    - białków: undefined
+    - chłopów: undefined
+    - chłôpczów: undefined
+    - dolarów: undefined
+    - dwa: undefined
+    - dwiesce: undefined
+    - dzewiãcсот: undefined
+    - gòdzënków: undefined
+    - jeden: undefined
+    - kòmpùterów: undefined
+    - kòtów: undefined
+    - kòłów: undefined
+    - pisów: undefined
+    - piãcsot: undefined
+    - piãcсот: undefined
+    - poldów: undefined
+    - rublów: undefined
+    - sedem: undefined
+    - sedemсот: undefined
+    - sto: undefined
+    - sześсот: undefined
+    - sztëresta: undefined
+    - sztërešta: undefined
+    - sztërë: undefined
+    - słunzków: undefined
+    - trzë: undefined
+    - trzësta: undefined
+    - tësąc: undefined
+    - wieszczów: undefined
+    - òsem: undefined
+    - òsemсот: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - fields: undefined
+    - five: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - nine: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - suns: undefined
+    - things: undefined
+    - thousand: undefined
+    - three: undefined
+    - two: undefined
+    - women: undefined

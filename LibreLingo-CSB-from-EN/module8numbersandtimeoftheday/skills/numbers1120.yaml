@@ -1,0 +1,121 @@
+Skill:
+  Name: Numbers 11-20
+  Id: 27
+
+New words:
+  - Word: jednasce
+    Translation: eleven
+  - Word: dwanasce
+    Translation: twelve
+  - Word: trzenasce
+    Translation: thirteen
+  - Word: sztërnasce
+    Translation: fourteen
+  - Word: piãcnasce
+    Translation: fifteen
+  - Word: szesnasce
+    Translation: sixteen
+  - Word: sedemnasc
+    Translation: seventeen
+  - Word: osemnasc
+    Translation: eighteen
+  - Word: dzewiãtnasc
+    Translation: nineteen
+  - Word: dwadzescãt
+    Translation: twenty
+
+Phrases:
+  - Phrase: dwadzescãt gòdzënków
+    Translation: twenty clocks
+  - Phrase: jednasce chłôpczów
+    Translation: eleven boys
+  - Phrase: jednasce białków
+    Translation: eleven women
+  - Phrase: jednasce poldów
+    Translation: eleven fields
+  - Phrase: dwanasce chłopów
+    Translation: twelve men
+  - Phrase: dwanasce szesc białków
+    Translation: twelve women
+  - Phrase: trzenasce kòtów
+    Translation: thirteen cats
+  - Phrase: sztërnasce kòłów
+    Translation: fourteen bicycles
+  - Phrase: piãcnasce chłôpczów
+    Translation: fifteen boys
+  - Phrase: szesnasce kółów
+    Translation: sixteen bicycles
+  - Phrase: sedemnasc rublów
+    Translation: seventeen rubles
+  - Phrase: osemnasc dolarów
+    Translation: eighteen dollars
+  - Phrase: dzewiãtnasc piãc kòmpùterów
+    Translation: nineteen computers
+  - Phrase: szesnasce gòdzënków
+    Translation: twenty clocks
+  - Phrase: dwanasce wieszczów
+    Translation: twelve things
+  - Phrase: jednasce słunzków
+    Translation: eleven suns
+  - Phrase: szesnasce kòłów
+    Translation: sixteen bicycles
+  - Phrase: sztërnasce dolarów
+    Translation: fourteen dollars
+  - Phrase: trzenasce dwa pisów
+    Translation: thirteen dogs
+  - Phrase: dwadzescãt kòtów
+    Translation: twenty cats
+
+Mini-dictionary:
+  Kashubian:
+    - białków: undefined
+    - chłopów: undefined
+    - chłôpczów: undefined
+    - dolarów: undefined
+    - dwa: undefined
+    - dwadzescãt: undefined
+    - dwanasce: undefined
+    - dzewiãtnasc: undefined
+    - gòdzënków: undefined
+    - jednasce: undefined
+    - kòmpùterów: undefined
+    - kòtów: undefined
+    - kòłów: undefined
+    - kółów: undefined
+    - osemnasc: undefined
+    - pisów: undefined
+    - piãc: undefined
+    - piãcnasce: undefined
+    - poldów: undefined
+    - rublów: undefined
+    - sedemnasc: undefined
+    - szesc: undefined
+    - szesnasce: undefined
+    - sztërnasce: undefined
+    - słunzków: undefined
+    - trzenasce: undefined
+    - wieszczów: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eighteen: undefined
+    - eleven: undefined
+    - fields: undefined
+    - fifteen: undefined
+    - fourteen: undefined
+    - men: undefined
+    - nineteen: undefined
+    - rubles: undefined
+    - seventeen: undefined
+    - sixteen: undefined
+    - suns: undefined
+    - things: undefined
+    - thirteen: undefined
+    - twelve: undefined
+    - twenty: undefined
+    - women: undefined

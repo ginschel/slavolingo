@@ -1,0 +1,124 @@
+Skill:
+  Name: Numbers 100-1000
+  Id: 29
+
+New words:
+  - Word: sto
+    Translation: one hundred
+  - Word: dvěsto
+    Translation: two hundred
+  - Word: tristo
+    Translation: three hundred
+  - Word: četyristo
+    Translation: four hundred
+  - Word: petsto
+    Translation: five hundred
+  - Word: šeststo
+    Translation: six hundred
+  - Word: sedmsto
+    Translation: seven hundred
+  - Word: osmsto
+    Translation: eight hundred
+  - Word: devetsto
+    Translation: nine hundred
+  - Word: tyseč
+    Translation: thousand
+
+Phrases:
+  - Phrase: tyseč jedin časovnikov
+    Translation: one thousand one clocks
+  - Phrase: sto hlapcev
+    Translation: one hundred boys
+  - Phrase: dvěsto žen
+    Translation: two hundred women
+  - Phrase: tristo polej
+    Translation: three hundred fields
+  - Phrase: četyristo mužev
+    Translation: four hundred men
+  - Phrase: petsto žen
+    Translation: five hundred women
+  - Phrase: šeststo kotov
+    Translation: six hundred cats
+  - Phrase: sedmsto jedin velosipedov
+    Translation: seven hundred one bicycles
+  - Phrase: osmsto hlapcev
+    Translation: eight hundred boys
+  - Phrase: devetsto velosipedov
+    Translation: nine hundred bicycles
+  - Phrase: tyseč osm rubljev
+    Translation: one thousand eight rubles
+  - Phrase: četyristo sedm dolarov
+    Translation: four hundred seven dollars
+  - Phrase: dvěsto tri kompjuterov
+    Translation: two hundred three computers
+  - Phrase: sedmsto jedin časovnikov
+    Translation: seven hundred one clocks
+  - Phrase: tristo četyri věčij
+    Translation: three hundred four things
+  - Phrase: sto dva solnc
+    Translation: one hundred two suns
+  - Phrase: šeststo velosipedov
+    Translation: six hundred bicycles
+  - Phrase: osmsto dolarov
+    Translation: eight hundred dollars
+  - Phrase: dva tyseč devetsto psov
+    Translation: two thousand nine hundred dogs
+  - Phrase: četyristo kotov
+    Translation: four hundred cats
+
+Mini-dictionary:
+  Interslavic:
+    - devetsto: undefined
+    - dolarov: undefined
+    - dva: undefined
+    - dvěsto: undefined
+    - hlapcev: undefined
+    - jedin: undefined
+    - kompjuterov: undefined
+    - kotov: undefined
+    - mužev: undefined
+    - osm: undefined
+    - osmsto: undefined
+    - petsto: undefined
+    - polej: undefined
+    - psov: undefined
+    - rubljev: undefined
+    - sedm: undefined
+    - sedmsto: undefined
+    - solnc: undefined
+    - sto: undefined
+    - tri: undefined
+    - tristo: undefined
+    - tyseč: undefined
+    - velosipedov: undefined
+    - věčij: undefined
+    - časovnikov: undefined
+    - četyri: undefined
+    - četyristo: undefined
+    - šeststo: undefined
+    - žen: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - fields: undefined
+    - five: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - nine: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - suns: undefined
+    - things: undefined
+    - thousand: undefined
+    - three: undefined
+    - two: undefined
+    - women: undefined

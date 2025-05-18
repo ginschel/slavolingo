@@ -1,0 +1,200 @@
+Skill:
+  Name: Grammar revision pronouncs
+  Id: 20
+
+New words:
+  - Word: "знаць (факты)"
+    Translation: to know
+  - Word: "ведаць (па знаёмстве)"
+    Translation: to know
+  - Word: "сон"
+    Translation: dream
+  - Word: "рэч"
+    Translation: thing
+
+Phrases:
+  - Phrase: Таго не знаю.
+    Translation: I don't know that.
+  - Phrase: Пра тое ўжо даўно ведаю.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Каго ты бачыш?.
+    Translation: Who do you see?.
+  - Phrase: Тым, хто ляжыць спаць, спакойнага сну.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: Пра тую рэч я нічога не ведаю.
+    Translation: I know nothing about that thing.
+  - Phrase: Гавару з табой.
+    Translation: I am talking with you.
+  - Phrase: Я бачу вас.
+    Translation: I see you.
+  - Phrase: Ён любіць быць сам з сабой.
+    Translation: He likes to be alone with himself.
+  - Phrase: Дай мне ваду.
+    Translation: Give me water.
+  - Phrase: З намі заўсёды ўсё весела.
+    Translation: With us everything is always cheerful.
+  - Phrase: Мяне не бачыш.
+    Translation: You don't see me.
+  - Phrase: Каму дасі дар?
+    Translation: Who do you give a gift to?
+  - Phrase: Пра мяне гаворыш?
+    Translation: Are you talking about me?
+  - Phrase: Не, я не гавару пра цябе.
+    Translation: No, I don't talt about you.
+  - Phrase: Пра што ты гаворыш?
+    Translation: What are you talking about?
+  - Phrase: Гэтыя жанчыны ёсць прыгожыя.
+    Translation: These women are beautiful.
+  - Phrase: Гэтых сяброў не маеш.
+    Translation: You do not have those friends.
+  - Phrase: Ён дае сабе спакой.
+    Translation: He stops troubling others.
+  - Phrase: Чаго тут няма ў доме?
+    Translation: What isn't at this house here?
+  - Phrase: Таму сабаку ты даеш косткі.
+    Translation: You give to this dog bones.
+  - Phrase: Гэта ваша кава ці яе?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Belarusian:
+    - бачу: undefined
+    - бачыш: undefined
+    - быць: undefined
+    - ваду: undefined
+    - вас: undefined
+    - ваша: undefined
+    - ведаць: undefined
+    - ведаю: undefined
+    - весела: undefined
+    - гавару: undefined
+    - гаворыш: undefined
+    - гэта: undefined
+    - гэтых: undefined
+    - гэтыя: undefined
+    - дае: undefined
+    - даеш: undefined
+    - дай: undefined
+    - дар: undefined
+    - дасі: undefined
+    - даўно: undefined
+    - доме: undefined
+    - жанчыны: undefined
+    - з: undefined
+    - заўсёды: undefined
+    - знаць: undefined
+    - знаю: undefined
+    - знаёмстве: undefined
+    - кава: undefined
+    - каго: undefined
+    - каму: undefined
+    - косткі: undefined
+    - любіць: undefined
+    - ляжыць: undefined
+    - маеш: undefined
+    - мне: undefined
+    - мяне: undefined
+    - намі: undefined
+    - не: undefined
+    - няма: undefined
+    - нічога: undefined
+    - па: undefined
+    - пра: undefined
+    - прыгожыя: undefined
+    - рэч: undefined
+    - сабаку: undefined
+    - сабе: undefined
+    - сабой: undefined
+    - сам: undefined
+    - сну: undefined
+    - сон: undefined
+    - спакой: undefined
+    - спакойнага: undefined
+    - спаць: undefined
+    - сяброў: undefined
+    - табой: undefined
+    - таго: undefined
+    - таму: undefined
+    - тое: undefined
+    - тут: undefined
+    - тую: undefined
+    - ты: undefined
+    - тым: undefined
+    - факты: undefined
+    - хто: undefined
+    - цябе: undefined
+    - ці: undefined
+    - чаго: undefined
+    - што: undefined
+    - я: undefined
+    - яе: undefined
+    - ён: undefined
+    - ёсць: undefined
+    - ў: undefined
+    - ўжо: undefined
+    - ўсё: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - alone: undefined
+    - always: undefined
+    - am: undefined
+    - are: undefined
+    - at: undefined
+    - be: undefined
+    - beautiful: undefined
+    - bones: undefined
+    - cheerful: undefined
+    - coffee: undefined
+    - do: undefined
+    - dog: undefined
+    - don't: undefined
+    - dream: undefined
+    - everything: undefined
+    - for: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - going: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - himself: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - isn't: undefined
+    - it: undefined
+    - know: undefined
+    - known: undefined
+    - likes: undefined
+    - long: undefined
+    - me: undefined
+    - no: undefined
+    - not: undefined
+    - nothing: undefined
+    - or: undefined
+    - others: undefined
+    - peaceful: undefined
+    - see: undefined
+    - sleep: undefined
+    - stops: undefined
+    - talking: undefined
+    - talt: undefined
+    - that: undefined
+    - these: undefined
+    - thing: undefined
+    - this: undefined
+    - those: undefined
+    - time: undefined
+    - to: undefined
+    - troubling: undefined
+    - us: undefined
+    - water: undefined
+    - what: undefined
+    - who: undefined
+    - with: undefined
+    - women: undefined
+    - you: undefined
+    - your: undefined

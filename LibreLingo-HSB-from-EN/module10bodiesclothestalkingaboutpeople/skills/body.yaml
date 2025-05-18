@@ -1,0 +1,232 @@
+Skill:
+  Name: Body
+  Id: 35
+
+New words:
+  - Word: ruka
+    Translation: hand
+  - Word: noha
+    Translation: leg
+  - Word: hłowa
+    Translation: head
+  - Word: woko
+    Translation: eye
+  - Word: móždźany
+    Translation: brain
+  - Word: stopa
+    Translation: foot
+  - Word: wucho
+    Translation: ear
+  - Word: nóš
+    Translation: nose
+  - Word: wobličo
+    Translation: face
+  - Word: wutroba
+    Translation: heart
+  - Word: porst
+    Translation: finger
+  - Word: žołdk
+    Translation: stomach
+  - Word: ćěło
+    Translation: body
+  - Word: bolosć (boli)
+    Translation: to hurt
+  - Word: wóski
+    Translation: hair
+  - Word: podobny
+    Translation: similar
+  - Word: słysać (słysy)
+    Translation: to hear
+
+Phrases:
+  - Phrase: Moja ruka boli.
+    Translation: My hand hurts.
+  - Phrase: Wona ma dołhu nohu.
+    Translation: She has a long leg.
+  - Phrase: Hłowa je na ćěle.
+    Translation: The head is on the body.
+  - Phrase: Wón ma módre rjane woči.
+    Translation: He has beautiful blue eyes.
+  - Phrase: Jeje wucho njeposłucha derje.
+    Translation: Her ear does not hear well.
+  - Phrase: Nóš je čerwjeny wot mróza.
+    Translation: The nose is red from the cold.
+  - Phrase: Wobličo je podobne.
+    Translation: The face is similar.
+  - Phrase: Jeje wutroba biha spěšnje.
+    Translation: Her heart beats fast.
+  - Phrase: Žołdk tebje boli.
+    Translation: My stomach hurts.
+  - Phrase: Ćěło pola mnje je strowe.
+    Translation: My body is healthy.
+  - Phrase: Ja mam dwě ruce a dwě noze a tež dwě stopaj.
+    Translation: I have two hands and two legs, and also two feet.
+  - Phrase: Woči hledaja do knihy.
+    Translation: The eyes are looking at the book.
+  - Phrase: Wucho słysy muziku.
+    Translation: The ear hears music.
+  - Phrase: Jeho móždźany su spěšne.
+    Translation: His brain is quick.
+  - Phrase: Jeje wobličo je rjane.
+    Translation: Her face is beautiful.
+  - Phrase: Wutroba je symbol lubosće.
+    Translation: The heart is a symbol of love.
+  - Phrase: Mój žołdk je proste połny po wječerji.
+    Translation: My stomach is just full after dinner.
+  - Phrase: Ćěłu trjeba wotpočink.
+    Translation: The body needs rest.
+  - Phrase: Wón ma kastanowe wóski na hłowi.
+    Translation: He has chestnut-colored hair on his head.
+  - Phrase: Wona će słysy jenož z jednym wuchom.
+    Translation: She hears you only with one ear.
+
+Mini-dictionary:
+  Upper Sorbian:
+    - a: undefined
+    - biha: undefined
+    - boli: undefined
+    - bolosć: undefined
+    - derje: undefined
+    - do: undefined
+    - dołhu: undefined
+    - dwě: undefined
+    - hledaja: undefined
+    - hłowa: undefined
+    - hłowi: undefined
+    - ja: undefined
+    - je: undefined
+    - jednym: undefined
+    - jeho: undefined
+    - jeje: undefined
+    - jenož: undefined
+    - kastanowe: undefined
+    - knihy: undefined
+    - lubosće: undefined
+    - ma: undefined
+    - mam: undefined
+    - mnje: undefined
+    - moja: undefined
+    - mróza: undefined
+    - muziku: undefined
+    - módre: undefined
+    - mój: undefined
+    - móždźany: undefined
+    - na: undefined
+    - njeposłucha: undefined
+    - noha: undefined
+    - nohu: undefined
+    - noze: undefined
+    - nóš: undefined
+    - po: undefined
+    - podobne: undefined
+    - podobny: undefined
+    - pola: undefined
+    - porst: undefined
+    - połny: undefined
+    - proste: undefined
+    - rjane: undefined
+    - ruce: undefined
+    - ruka: undefined
+    - spěšne: undefined
+    - spěšnje: undefined
+    - stopa: undefined
+    - stopaj: undefined
+    - strowe: undefined
+    - su: undefined
+    - symbol: undefined
+    - słysać: undefined
+    - słysy: undefined
+    - tebje: undefined
+    - tež: undefined
+    - trjeba: undefined
+    - wječerji: undefined
+    - wobličo: undefined
+    - woko: undefined
+    - wona: undefined
+    - wot: undefined
+    - wotpočink: undefined
+    - woči: undefined
+    - wucho: undefined
+    - wuchom: undefined
+    - wutroba: undefined
+    - wón: undefined
+    - wóski: undefined
+    - z: undefined
+    - će: undefined
+    - ćěle: undefined
+    - ćěło: undefined
+    - ćěłu: undefined
+    - čerwjeny: undefined
+    - žołdk: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beats: undefined
+    - beautiful: undefined
+    - blue: undefined
+    - body: undefined
+    - book: undefined
+    - brain: undefined
+    - chestnut-colored: undefined
+    - cold: undefined
+    - dinner: undefined
+    - does: undefined
+    - ear: undefined
+    - eye: undefined
+    - eyes: undefined
+    - face: undefined
+    - fast: undefined
+    - feet: undefined
+    - finger: undefined
+    - foot: undefined
+    - from: undefined
+    - full: undefined
+    - hair: undefined
+    - hand: undefined
+    - hands: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - head: undefined
+    - healthy: undefined
+    - hear: undefined
+    - hears: undefined
+    - heart: undefined
+    - her: undefined
+    - his: undefined
+    - hurt: undefined
+    - hurts: undefined
+    - i: undefined
+    - is: undefined
+    - just: undefined
+    - leg: undefined
+    - legs: undefined
+    - long: undefined
+    - looking: undefined
+    - love: undefined
+    - music: undefined
+    - my: undefined
+    - needs: undefined
+    - nose: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - one: undefined
+    - only: undefined
+    - quick: undefined
+    - red: undefined
+    - rest: undefined
+    - she: undefined
+    - similar: undefined
+    - stomach: undefined
+    - symbol: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - well: undefined
+    - with: undefined
+    - you: undefined

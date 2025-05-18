@@ -1,0 +1,167 @@
+Skill:
+  Name: Asking for Directions
+  Id: 25
+
+New words:
+  - Word: hdźe
+    Translation: where
+  - Word: kudaž
+    Translation: which way
+  - Word: woprawdźe
+    Translation: to the right
+  - Word: nalěwo
+    Translation: to the left
+  - Word: runje
+    Translation: straight
+  - Word: blisko
+    Translation: near
+  - Word: zdaloka
+    Translation: far
+  - Word: prašeć
+    Translation: to ask
+  - Word: pokazać
+    Translation: to show
+  - Word: puć
+    Translation: path/way
+
+Phrases:
+  - Phrase: Hdźe je dwórnišćo?
+    Translation: Where is the station?
+  - Phrase: Kudaž dźe dróha?
+    Translation: Which way does the road go?
+  - Phrase: Dźemy woprawdźe.
+    Translation: We are going to the right.
+  - Phrase: Potom nalěwo.
+    Translation: Then to the left.
+  - Phrase: Dźi runje do mosta.
+    Translation: Go straight to the bridge.
+  - Phrase: Přemost je blisko torhošća.
+    Translation: The avenue is near the square.
+  - Phrase: Knihownja je zdaloka.
+    Translation: The library is far away.
+  - Phrase: Prašam jich za dróhu.
+    Translation: I ask them for the way.
+  - Phrase: Móžeće pokazać puć?
+    Translation: Can you show me the way?
+  - Phrase: Hasa dźe do centrum.
+    Translation: The street goes to the center.
+  - Phrase: Hdźe je bliski hotel?
+    Translation: Where is the nearest hotel?
+  - Phrase: Kudaž dźeće?
+    Translation: Which way are you going?
+  - Phrase: Dźeće runje a potom woprawdźe.
+    Translation: Go straight and then to the right.
+  - Phrase: Dwórnišćo je nalěwo.
+    Translation: The station is on the left.
+  - Phrase: Wobchod je blisko knihownje.
+    Translation: The shop is near the library.
+  - Phrase: Torhošćo je zdaloka wot hotela.
+    Translation: The square is far from the hotel.
+  - Phrase: Prašam staru žonu.
+    Translation: I ask the old woman.
+  - Phrase: Wón mi pokazuje dróhu.
+    Translation: He shows me the way.
+  - Phrase: Hasa je dołha.
+    Translation: The street is long.
+  - Phrase: Kudaž jězdźi tón ćah?
+    Translation: Where is that train going?
+
+Mini-dictionary:
+  Upper Sorbian:
+    - a: undefined
+    - bliski: undefined
+    - blisko: undefined
+    - centrum: undefined
+    - do: undefined
+    - dołha: undefined
+    - dróha: undefined
+    - dróhu: undefined
+    - dwórnišćo: undefined
+    - dźe: undefined
+    - dźemy: undefined
+    - dźeće: undefined
+    - dźi: undefined
+    - hasa: undefined
+    - hdźe: undefined
+    - hotel: undefined
+    - hotela: undefined
+    - je: undefined
+    - jich: undefined
+    - jězdźi: undefined
+    - knihownja: undefined
+    - knihownje: undefined
+    - kudaž: undefined
+    - mi: undefined
+    - mosta: undefined
+    - móžeće: undefined
+    - nalěwo: undefined
+    - pokazać: undefined
+    - pokazuje: undefined
+    - potom: undefined
+    - prašam: undefined
+    - prašeć: undefined
+    - puć: undefined
+    - přemost: undefined
+    - runje: undefined
+    - staru: undefined
+    - torhošća: undefined
+    - torhošćo: undefined
+    - tón: undefined
+    - wobchod: undefined
+    - woprawdźe: undefined
+    - wot: undefined
+    - wón: undefined
+    - za: undefined
+    - zdaloka: undefined
+    - ćah: undefined
+    - žonu: undefined
+  English:
+    - and: undefined
+    - are: undefined
+    - ask: undefined
+    - avenue: undefined
+    - away: undefined
+    - bridge: undefined
+    - can: undefined
+    - center: undefined
+    - does: undefined
+    - far: undefined
+    - for: undefined
+    - from: undefined
+    - go: undefined
+    - goes: undefined
+    - going: undefined
+    - he: undefined
+    - hotel: undefined
+    - i: undefined
+    - is: undefined
+    - left: undefined
+    - library: undefined
+    - long: undefined
+    - me: undefined
+    - near: undefined
+    - nearest: undefined
+    - old: undefined
+    - on: undefined
+    - path/way: undefined
+    - right: undefined
+    - road: undefined
+    - shop: undefined
+    - show: undefined
+    - shows: undefined
+    - square: undefined
+    - station: undefined
+    - straight: undefined
+    - street: undefined
+    - that: undefined
+    - the: undefined
+    - them: undefined
+    - then: undefined
+    - to: undefined
+    - train: undefined
+    - way: undefined
+    - we: undefined
+    - where: undefined
+    - which: undefined
+    - woman: undefined
+    - you: undefined

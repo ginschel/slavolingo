@@ -1,0 +1,206 @@
+Skill:
+  Name: Cardinal points/directions
+  Id: 18
+
+New words:
+  - Word: сївер
+    Translation: north
+  - Word: юг
+    Translation: south
+  - Word: запад
+    Translation: west
+  - Word: выход
+    Translation: east
+  - Word: сїверный
+    Translation: northern
+  - Word: южный
+    Translation: southern
+  - Word: западный
+    Translation: western
+  - Word: выходный
+    Translation: eastern
+  - Word: компас
+    Translation: compass
+  - Word: сторона
+    Translation: side
+  - Word: де
+    Translation: where
+  - Word: встати (встане)
+    Translation: to rise
+  - Word: показовати
+    Translation: to show
+  - Word: мапа
+    Translation: map
+  - Word: путовати
+    Translation: to travel
+  - Word: вправо
+    Translation: right
+  - Word: влїво
+    Translation: left
+  - Word: прямо
+    Translation: straight
+
+Phrases:
+  - Phrase: Сївер є хладный.
+    Translation: The north is cold.
+  - Phrase: Юг є теплый.
+    Translation: The south is warm.
+  - Phrase: Сонце встане на выходї.
+    Translation: The sun rises in the east.
+  - Phrase: Оно западає на западї.
+    Translation: It sets in the west.
+  - Phrase: Тото є сїверна сторона.
+    Translation: This is the northern side.
+  - Phrase: Жиєме на югу.
+    Translation: We live in the south.
+  - Phrase: Компас показує сївер.
+    Translation: The compass shows north.
+  - Phrase: Выход є там.
+    Translation: The east is there.
+  - Phrase: Западный вїтер дує.
+    Translation: A western wind is blowing.
+  - Phrase: Ідеме до юго-запада.
+    Translation: We are going to the southwest.
+  - Phrase: Тото є сїверо-западный реґіон.
+    Translation: This is the northwestern region.
+  - Phrase: Сторона на мапі показує запад.
+    Translation: The side on the map shows west.
+  - Phrase: Юго-выход є там, де грїє сонце.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Ідеме до южної стороны.
+    Translation: We are going to the southern side.
+  - Phrase: Он путує выходно.
+    Translation: He travels eastward.
+  - Phrase: На сївері є снїг.
+    Translation: In the north there is snow.
+  - Phrase: Южны краі суть теплы.
+    Translation: The southern regions are warm.
+  - Phrase: Запад є влїво на мапі.
+    Translation: West is left on the map.
+  - Phrase: Выходна музика є інтересна.
+    Translation: Eastern music is interesting.
+  - Phrase: Позераєме на сївер.
+    Translation: We are looking to the north.
+  - Phrase: Ідеме тотчас вправо і потом прямо.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Rusin:
+    - влїво: undefined
+    - вправо: undefined
+    - встане: undefined
+    - встати: undefined
+    - выход: undefined
+    - выходна: undefined
+    - выходно: undefined
+    - выходный: undefined
+    - выходї: undefined
+    - вїтер: undefined
+    - грїє: undefined
+    - де: undefined
+    - до: undefined
+    - дує: undefined
+    - жиєме: undefined
+    - запад: undefined
+    - западає: undefined
+    - западный: undefined
+    - западї: undefined
+    - компас: undefined
+    - краі: undefined
+    - мапа: undefined
+    - мапі: undefined
+    - музика: undefined
+    - на: undefined
+    - он: undefined
+    - оно: undefined
+    - позераєме: undefined
+    - показовати: undefined
+    - показує: undefined
+    - потом: undefined
+    - прямо: undefined
+    - путовати: undefined
+    - путує: undefined
+    - реґіон: undefined
+    - снїг: undefined
+    - сонце: undefined
+    - сторона: undefined
+    - стороны: undefined
+    - суть: undefined
+    - сївер: undefined
+    - сїверна: undefined
+    - сїверный: undefined
+    - сїверо-западный: undefined
+    - сївері: undefined
+    - там: undefined
+    - теплы: undefined
+    - теплый: undefined
+    - тото: undefined
+    - тотчас: undefined
+    - хладный: undefined
+    - юг: undefined
+    - юго-выход: undefined
+    - юго-запада: undefined
+    - югу: undefined
+    - южної: undefined
+    - южны: undefined
+    - южный: undefined
+    - є: undefined
+    - і: undefined
+    - ідеме: undefined
+    - інтересна: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - blowing: undefined
+    - cold: undefined
+    - compass: undefined
+    - east: undefined
+    - eastern: undefined
+    - eastward: undefined
+    - going: undefined
+    - he: undefined
+    - in: undefined
+    - interesting: undefined
+    - is: undefined
+    - it: undefined
+    - left: undefined
+    - live: undefined
+    - looking: undefined
+    - map: undefined
+    - music: undefined
+    - north: undefined
+    - northern: undefined
+    - northwestern: undefined
+    - now: undefined
+    - on: undefined
+    - region: undefined
+    - regions: undefined
+    - right: undefined
+    - rise: undefined
+    - rises: undefined
+    - sets: undefined
+    - show: undefined
+    - shows: undefined
+    - side: undefined
+    - snow: undefined
+    - south: undefined
+    - southeast: undefined
+    - southern: undefined
+    - southwest: undefined
+    - straight: undefined
+    - sun: undefined
+    - the: undefined
+    - then: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - travel: undefined
+    - travels: undefined
+    - warm: undefined
+    - warms: undefined
+    - we: undefined
+    - west: undefined
+    - western: undefined
+    - where: undefined
+    - wind: undefined

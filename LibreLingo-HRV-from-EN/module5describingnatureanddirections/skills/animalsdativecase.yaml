@@ -1,0 +1,186 @@
+Skill:
+  Name: Animals (Dative case)
+  Id: 14
+
+New words:
+  - Word: mačka
+    Translation: cat
+  - Word: pas
+    Translation: dog
+  - Word: ptica
+    Translation: bird
+  - Word: pomagati
+    Translation: to help
+  - Word: pokazati (pokazuje)
+    Translation: to show
+  - Word: konj
+    Translation: horse
+  - Word: dati (daje)
+    Translation: to give
+  - Word: riba
+    Translation: fish
+  - Word: žaba
+    Translation: frog
+  - Word: medvjed
+    Translation: bear
+  - Word: vuk
+    Translation: wolf
+  - Word: miš
+    Translation: mouse
+  - Word: životinja
+    Translation: animal
+
+Phrases:
+  - Phrase: Ja dajem mački ribu.
+    Translation: I give the cat a fish.
+  - Phrase: Ona pokazuje psu.
+    Translation: She says to the dog.
+  - Phrase: On pomaže ptici.
+    Translation: He helps the bird.
+  - Phrase: Dajemo konju vodu.
+    Translation: We give the horse water.
+  - Phrase: Ona nosi mišu sir.
+    Translation: She carries cheese to the mouse.
+  - Phrase: On pomaže medvjedu.
+    Translation: He helps the bear.
+  - Phrase: Mi dajemo žabi kruh.
+    Translation: We give bread to the frog.
+  - Phrase: Oni daju životinji ruku.
+    Translation: They give their hand to the animal.
+  - Phrase: Pomažemo vuku.
+    Translation: We help the wolf.
+  - Phrase: Hoćeš li mi dati ribu?
+    Translation: Will you give me a fish?
+  - Phrase: Ja ću dati mački ime.
+    Translation: I give the cat a name.
+  - Phrase: On će dati mišu sir.
+    Translation: On da myši syr.
+  - Phrase: Mi pomažemo pticama.
+    Translation: We help the birds.
+  - Phrase: Dajemo žabama vodu.
+    Translation: We give the frog water.
+  - Phrase: Oni nose medvjedima hranu.
+    Translation: They are carrying food to the bear.
+  - Phrase: Ona će dati psu dobro ime.
+    Translation: She gives the dog a good name.
+  - Phrase: Vi ćete dati konju.
+    Translation: You will give the horse.
+  - Phrase: Ja ću dati ribi vodu.
+    Translation: I give the fish water.
+  - Phrase: Ona mu je pomogla sa životinjom.
+    Translation: She helped him with the animal.
+  - Phrase: Hoćeš li dati psu ukusnu kost?
+    Translation: Will you give the dog a tasty bone?
+
+Mini-dictionary:
+  Croatian:
+    - daje: undefined
+    - dajem: undefined
+    - dajemo: undefined
+    - daju: undefined
+    - dati: undefined
+    - dobro: undefined
+    - hoćeš: undefined
+    - hranu: undefined
+    - ime: undefined
+    - ja: undefined
+    - je: undefined
+    - konj: undefined
+    - konju: undefined
+    - kost: undefined
+    - kruh: undefined
+    - li: undefined
+    - mačka: undefined
+    - mački: undefined
+    - medvjed: undefined
+    - medvjedima: undefined
+    - medvjedu: undefined
+    - mi: undefined
+    - miš: undefined
+    - mišu: undefined
+    - mu: undefined
+    - nose: undefined
+    - nosi: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - pas: undefined
+    - pokazati: undefined
+    - pokazuje: undefined
+    - pomagati: undefined
+    - pomaže: undefined
+    - pomažemo: undefined
+    - pomogla: undefined
+    - psu: undefined
+    - ptica: undefined
+    - pticama: undefined
+    - ptici: undefined
+    - riba: undefined
+    - ribi: undefined
+    - ribu: undefined
+    - ruku: undefined
+    - sa: undefined
+    - sir: undefined
+    - ukusnu: undefined
+    - vi: undefined
+    - vodu: undefined
+    - vuk: undefined
+    - vuku: undefined
+    - će: undefined
+    - ćete: undefined
+    - ću: undefined
+    - žaba: undefined
+    - žabama: undefined
+    - žabi: undefined
+    - životinja: undefined
+    - životinji: undefined
+    - životinjom: undefined
+  English:
+    - a: undefined
+    - animal: undefined
+    - are: undefined
+    - bear: undefined
+    - bird: undefined
+    - birds: undefined
+    - bone: undefined
+    - bread: undefined
+    - carries: undefined
+    - carrying: undefined
+    - cat: undefined
+    - cheese: undefined
+    - da: undefined
+    - dog: undefined
+    - fish: undefined
+    - food: undefined
+    - frog: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - hand: undefined
+    - he: undefined
+    - help: undefined
+    - helped: undefined
+    - helps: undefined
+    - him: undefined
+    - horse: undefined
+    - i: undefined
+    - me: undefined
+    - mouse: undefined
+    - myši: undefined
+    - name: undefined
+    - on: undefined
+    - says: undefined
+    - she: undefined
+    - show: undefined
+    - syr: undefined
+    - tasty: undefined
+    - the: undefined
+    - their: undefined
+    - they: undefined
+    - to: undefined
+    - water: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined
+    - wolf: undefined
+    - you: undefined

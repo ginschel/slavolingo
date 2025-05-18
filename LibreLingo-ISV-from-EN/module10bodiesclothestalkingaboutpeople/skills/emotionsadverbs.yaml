@@ -1,0 +1,235 @@
+Skill:
+  Name: Emotions (adverbs)
+  Id: 37
+
+New words:
+  - Word: radostny
+    Translation: joyful
+  - Word: žalostny
+    Translation: sad
+  - Word: gněvny
+    Translation: angry
+  - Word: ljubov
+    Translation: love
+  - Word: prěstrašeny
+    Translation: frightened
+  - Word: spokoj
+    Translation: peace
+  - Word: zavist
+    Translation: envy
+  - Word: sramny
+    Translation: ashamed
+  - Word: styd
+    Translation: shame
+  - Word: gordy
+    Translation: proud
+  - Word: vesely
+    Translation: cheerful
+  - Word: trěpet
+    Translation: tremor
+  - Word: čuti (čuje)
+    Translation: to feel
+  - Word: skryvati
+    Translation: to hide
+  - Word: uběgati
+    Translation: to run away
+
+Phrases:
+  - Phrase: Čujem se radostno tutdenj.
+    Translation: We feel joyful this week.
+  - Phrase: Žalostno on govoril.
+    Translation: He spoke sadly.
+  - Phrase: On gněvno jemu kaže rabotati.
+    Translation: He angrily tells him to work.
+  - Phrase: Ljubov to silna emocija.
+    Translation: Love is a strong emotion.
+  - Phrase: Strah to naturalna reakcija.
+    Translation: Fear is a natural reaction.
+  - Phrase: Spokoj jest važny za duše.
+    Translation: Peace is important for the soul.
+  - Phrase: Zavist to črna emocija.
+    Translation: Envy is a dark emotion.
+  - Phrase: Stydno on čuje sram.
+    Translation: He feels ashamed.
+  - Phrase: Veselo jemu se napolnilo srdce.
+    Translation: His heart was filled with joy.
+  - Phrase: Zavisno on glěda na njego.
+    Translation: He is jealous of him.
+  - Phrase: Ja imam žalost v srci.
+    Translation: I have sadness in my heart.
+  - Phrase: Ona pokazuje im svoju rabotu veselo.
+    Translation: She shows them her work joyfully.
+  - Phrase: On skryva gordo svoj gněv.
+    Translation: He hides his anger proudly.
+  - Phrase: My čujemo spokoj.
+    Translation: We feel peaceful.
+  - Phrase: Strah jest v nas.
+    Translation: Fear is inside us.
+  - Phrase: Prěstrašeno on uběgal.
+    Translation: He was frightened and ran away.
+  - Phrase: Styd jest mnogo silny.
+    Translation: Shame is very strong.
+  - Phrase: Radostno šel do doma.
+    Translation: He joyfully went home.
+  - Phrase: Radost ide izvnutra.
+    Translation: Joy comes from within.
+  - Phrase: Trpěti toliko hčemo kogda ljubimo.
+    Translation: We only suffer when we love.
+
+Mini-dictionary:
+  Interslavic:
+    - do: undefined
+    - doma: undefined
+    - duše: undefined
+    - emocija: undefined
+    - glěda: undefined
+    - gněv: undefined
+    - gněvno: undefined
+    - gněvny: undefined
+    - gordo: undefined
+    - gordy: undefined
+    - govoril: undefined
+    - hčemo: undefined
+    - ide: undefined
+    - im: undefined
+    - imam: undefined
+    - izvnutra: undefined
+    - ja: undefined
+    - jemu: undefined
+    - jest: undefined
+    - kaže: undefined
+    - kogda: undefined
+    - ljubimo: undefined
+    - ljubov: undefined
+    - mnogo: undefined
+    - my: undefined
+    - na: undefined
+    - napolnilo: undefined
+    - nas: undefined
+    - naturalna: undefined
+    - njego: undefined
+    - on: undefined
+    - ona: undefined
+    - pokazuje: undefined
+    - prěstrašeno: undefined
+    - prěstrašeny: undefined
+    - rabotati: undefined
+    - rabotu: undefined
+    - radost: undefined
+    - radostno: undefined
+    - radostny: undefined
+    - reakcija: undefined
+    - se: undefined
+    - silna: undefined
+    - silny: undefined
+    - skryva: undefined
+    - skryvati: undefined
+    - spokoj: undefined
+    - sram: undefined
+    - sramny: undefined
+    - srci: undefined
+    - srdce: undefined
+    - strah: undefined
+    - styd: undefined
+    - stydno: undefined
+    - svoj: undefined
+    - svoju: undefined
+    - to: undefined
+    - toliko: undefined
+    - trpěti: undefined
+    - trěpet: undefined
+    - tutdenj: undefined
+    - uběgal: undefined
+    - uběgati: undefined
+    - v: undefined
+    - važny: undefined
+    - veselo: undefined
+    - vesely: undefined
+    - za: undefined
+    - zavisno: undefined
+    - zavist: undefined
+    - črna: undefined
+    - čuje: undefined
+    - čujem: undefined
+    - čujemo: undefined
+    - čuti: undefined
+    - šel: undefined
+    - žalost: undefined
+    - žalostno: undefined
+    - žalostny: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - anger: undefined
+    - angrily: undefined
+    - angry: undefined
+    - ashamed: undefined
+    - away: undefined
+    - cheerful: undefined
+    - comes: undefined
+    - dark: undefined
+    - emotion: undefined
+    - envy: undefined
+    - fear: undefined
+    - feel: undefined
+    - feels: undefined
+    - filled: undefined
+    - for: undefined
+    - frightened: undefined
+    - from: undefined
+    - have: undefined
+    - he: undefined
+    - heart: undefined
+    - her: undefined
+    - hide: undefined
+    - hides: undefined
+    - him: undefined
+    - his: undefined
+    - home: undefined
+    - i: undefined
+    - important: undefined
+    - in: undefined
+    - inside: undefined
+    - is: undefined
+    - jealous: undefined
+    - joy: undefined
+    - joyful: undefined
+    - joyfully: undefined
+    - love: undefined
+    - my: undefined
+    - natural: undefined
+    - of: undefined
+    - only: undefined
+    - peace: undefined
+    - peaceful: undefined
+    - proud: undefined
+    - proudly: undefined
+    - ran: undefined
+    - reaction: undefined
+    - run: undefined
+    - sad: undefined
+    - sadly: undefined
+    - sadness: undefined
+    - shame: undefined
+    - she: undefined
+    - shows: undefined
+    - soul: undefined
+    - spoke: undefined
+    - strong: undefined
+    - suffer: undefined
+    - tells: undefined
+    - the: undefined
+    - them: undefined
+    - this: undefined
+    - to: undefined
+    - tremor: undefined
+    - us: undefined
+    - very: undefined
+    - was: undefined
+    - we: undefined
+    - week: undefined
+    - went: undefined
+    - when: undefined
+    - with: undefined
+    - within: undefined
+    - work: undefined

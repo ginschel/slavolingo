@@ -1,0 +1,182 @@
+Skill:
+  Name: City/Buildings
+  Id: 21
+
+New words:
+  - Word: mesto
+    Translation: city
+  - Word: dom
+    Translation: house
+  - Word: trg
+    Translation: square/market
+  - Word: postaja
+    Translation: station
+  - Word: most
+    Translation: bridge
+  - Word: trgovina
+    Translation: shop/store
+  - Word: tržnica
+    Translation: market
+  - Word: knjižnica
+    Translation: library
+  - Word: cerkev
+    Translation: church
+  - Word: ulica
+    Translation: street
+  - Word: voditi (vodi)
+    Translation: to lead
+
+Phrases:
+  - Phrase: To je veliko mesto.
+    Translation: This is a big city.
+  - Phrase: Dom stoji na ulici.
+    Translation: The house stands on the street.
+  - Phrase: Gremo na trg.
+    Translation: We are going to the square.
+  - Phrase: Postaja je blizu centra.
+    Translation: The station is near the center.
+  - Phrase: Most gre čez reko.
+    Translation: The bridge goes over the river.
+  - Phrase: Kupujemo kruh v trgovini.
+    Translation: We buy bread in the shop.
+  - Phrase: Na tržnici je veliko ljudi.
+    Translation: There are many people at the market.
+  - Phrase: Berem knjigo v knjižnici.
+    Translation: I read a book in the library.
+  - Phrase: Cerkev je stara in bela.
+    Translation: The church is old and white.
+  - Phrase: Ulica je dolga in topla.
+    Translation: The street is long and warm.
+  - Phrase: Mesto ima veliko domov.
+    Translation: The city has many houses.
+  - Phrase: Trgovina je odprta danes.
+    Translation: The shop is open today.
+  - Phrase: Cerkev stoji blizu knjižnice.
+    Translation: The church stands near the library.
+  - Phrase: Ulica vodi na trg.
+    Translation: The street leads to the square.
+  - Phrase: Na trgu stoji fontana.
+    Translation: A fountain stands in the square.
+  - Phrase: Most je lep in nov.
+    Translation: The bridge is beautiful and new.
+  - Phrase: To je moj dom v mestu.
+    Translation: This is my house in the city.
+  - Phrase: Postaja ima veliko vlakov.
+    Translation: The station has many trains.
+  - Phrase: Ulica gre do trgovine.
+    Translation: The street goes to the shop.
+  - Phrase: Trg je poln ljudi.
+    Translation: The square is full of people.
+
+Mini-dictionary:
+  Slovenian:
+    - bela: undefined
+    - berem: undefined
+    - blizu: undefined
+    - centra: undefined
+    - cerkev: undefined
+    - danes: undefined
+    - do: undefined
+    - dolga: undefined
+    - dom: undefined
+    - domov: undefined
+    - fontana: undefined
+    - gre: undefined
+    - gremo: undefined
+    - ima: undefined
+    - in: undefined
+    - je: undefined
+    - knjigo: undefined
+    - knjižnica: undefined
+    - knjižnice: undefined
+    - knjižnici: undefined
+    - kruh: undefined
+    - kupujemo: undefined
+    - lep: undefined
+    - ljudi: undefined
+    - mesto: undefined
+    - mestu: undefined
+    - moj: undefined
+    - most: undefined
+    - na: undefined
+    - nov: undefined
+    - odprta: undefined
+    - poln: undefined
+    - postaja: undefined
+    - reko: undefined
+    - stara: undefined
+    - stoji: undefined
+    - to: undefined
+    - topla: undefined
+    - trg: undefined
+    - trgovina: undefined
+    - trgovine: undefined
+    - trgovini: undefined
+    - trgu: undefined
+    - tržnica: undefined
+    - tržnici: undefined
+    - ulica: undefined
+    - ulici: undefined
+    - v: undefined
+    - veliko: undefined
+    - vlakov: undefined
+    - vodi: undefined
+    - voditi: undefined
+    - čez: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beautiful: undefined
+    - big: undefined
+    - book: undefined
+    - bread: undefined
+    - bridge: undefined
+    - buy: undefined
+    - center: undefined
+    - church: undefined
+    - city: undefined
+    - fountain: undefined
+    - full: undefined
+    - goes: undefined
+    - going: undefined
+    - has: undefined
+    - house: undefined
+    - houses: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - lead: undefined
+    - leads: undefined
+    - library: undefined
+    - long: undefined
+    - many: undefined
+    - market: undefined
+    - my: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - over: undefined
+    - people: undefined
+    - read: undefined
+    - river: undefined
+    - shop: undefined
+    - shop/store: undefined
+    - square: undefined
+    - square/market: undefined
+    - stands: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - today: undefined
+    - trains: undefined
+    - warm: undefined
+    - we: undefined
+    - white: undefined

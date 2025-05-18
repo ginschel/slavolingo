@@ -1,0 +1,188 @@
+Skill:
+  Name: Colours
+  Id: 17
+
+New words:
+  - Word: чьрнъ
+    Translation: black
+  - Word: бѣлъ
+    Translation: white
+  - Word: зєлєнъ
+    Translation: green
+  - Word: модръ
+    Translation: blue
+  - Word: чрьвєнъ
+    Translation: red
+  - Word: жълтъ
+    Translation: yellow
+  - Word: сивъ
+    Translation: grey
+  - Word: каштановъ
+    Translation: brown
+  - Word: ораньжєвъ
+    Translation: orange
+  - Word: чрьвєнъ
+    Translation: red
+
+Phrases:
+  - Phrase: Мои пєсъ ѥстъ чьрнъ.
+    Translation: My dog is black.
+  - Phrase: Мꙑшь ѥстъ бѣла.
+    Translation: The mouse is white.
+  - Phrase: Трава ѥстъ зєлєна.
+    Translation: The grass is green.
+  - Phrase: Нєбо ѥстъ модро.
+    Translation: The sky is blue.
+  - Phrase: Цвѣтꙑ сѫтъ чрьвєнє.
+    Translation: The flowers are red.
+  - Phrase: Слъньцє ѥстъ жълто.
+    Translation: The sun is yellow.
+  - Phrase: Облаци сѫтъ сиви.
+    Translation: The clouds are grey.
+  - Phrase: Онъ носитъ каштаново палѥто.
+    Translation: He wears a brown coat.
+  - Phrase: Листъ ѥстъ ораньжєвъ.
+    Translation: The leaf is orange.
+  - Phrase: Сь ѥстъ чрьвєно морѥ.
+    Translation: This is the Red Sea.
+  - Phrase: Моѥ очи сѫтъ модрє.
+    Translation: My eyes are blue.
+  - Phrase: Она имаѥтъ зєлєнѫ травѫ.
+    Translation: She has green grass.
+  - Phrase: Азъ любимъ чрьвєнъи колоръ.
+    Translation: I like the red color.
+  - Phrase: Ѥго аѵто ѥстъ чьрно.
+    Translation: His car is black.
+  - Phrase: Дѣва нєсєтъ бѣлꙋ сꙋкънѭ.
+    Translation: The girl is wearing a white dress.
+  - Phrase: Ѥстъ ли сь сивъ власъ?
+    Translation: Is that grey hair?
+  - Phrase: Онъ имаѥтъ ораньжєвѫ торбѫ.
+    Translation: He has an orange bag.
+  - Phrase: Каштановъи конь стои въ стаи.
+    Translation: The brown horse stands in the stable.
+  - Phrase: Жълто слъньцє грѣѥтъ зємлѭ.
+    Translation: The yellow sun warms the earth.
+  - Phrase: Чрьвєна роза растєтъ тѫ.
+    Translation: A red rose grows here.
+
+Mini-dictionary:
+  Church Slavonic:
+    - азъ: undefined
+    - аѵто: undefined
+    - бѣла: undefined
+    - бѣлъ: undefined
+    - бѣлꙋ: undefined
+    - власъ: undefined
+    - въ: undefined
+    - грѣѥтъ: undefined
+    - дѣва: undefined
+    - жълто: undefined
+    - жълтъ: undefined
+    - зєлєна: undefined
+    - зєлєнъ: undefined
+    - зєлєнѫ: undefined
+    - зємлѭ: undefined
+    - имаѥтъ: undefined
+    - каштаново: undefined
+    - каштановъ: undefined
+    - каштановъи: undefined
+    - колоръ: undefined
+    - конь: undefined
+    - ли: undefined
+    - листъ: undefined
+    - любимъ: undefined
+    - модро: undefined
+    - модръ: undefined
+    - модрє: undefined
+    - мои: undefined
+    - морѥ: undefined
+    - моѥ: undefined
+    - мꙑшь: undefined
+    - носитъ: undefined
+    - нєбо: undefined
+    - нєсєтъ: undefined
+    - облаци: undefined
+    - она: undefined
+    - онъ: undefined
+    - ораньжєвъ: undefined
+    - ораньжєвѫ: undefined
+    - очи: undefined
+    - палѥто: undefined
+    - пєсъ: undefined
+    - растєтъ: undefined
+    - роза: undefined
+    - сиви: undefined
+    - сивъ: undefined
+    - слъньцє: undefined
+    - стаи: undefined
+    - стои: undefined
+    - сь: undefined
+    - сѫтъ: undefined
+    - сꙋкънѭ: undefined
+    - торбѫ: undefined
+    - трава: undefined
+    - травѫ: undefined
+    - тѫ: undefined
+    - цвѣтꙑ: undefined
+    - чрьвєна: undefined
+    - чрьвєно: undefined
+    - чрьвєнъ: undefined
+    - чрьвєнъи: undefined
+    - чрьвєнє: undefined
+    - чьрно: undefined
+    - чьрнъ: undefined
+    - ѥго: undefined
+    - ѥстъ: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - are: undefined
+    - bag: undefined
+    - black: undefined
+    - blue: undefined
+    - brown: undefined
+    - car: undefined
+    - clouds: undefined
+    - coat: undefined
+    - color: undefined
+    - dog: undefined
+    - dress: undefined
+    - earth: undefined
+    - eyes: undefined
+    - flowers: undefined
+    - girl: undefined
+    - grass: undefined
+    - green: undefined
+    - grey: undefined
+    - grows: undefined
+    - hair: undefined
+    - has: undefined
+    - he: undefined
+    - here: undefined
+    - his: undefined
+    - horse: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - leaf: undefined
+    - like: undefined
+    - mouse: undefined
+    - my: undefined
+    - orange: undefined
+    - red: undefined
+    - rose: undefined
+    - sea: undefined
+    - she: undefined
+    - sky: undefined
+    - stable: undefined
+    - stands: undefined
+    - sun: undefined
+    - that: undefined
+    - the: undefined
+    - this: undefined
+    - warms: undefined
+    - wearing: undefined
+    - wears: undefined
+    - white: undefined
+    - yellow: undefined

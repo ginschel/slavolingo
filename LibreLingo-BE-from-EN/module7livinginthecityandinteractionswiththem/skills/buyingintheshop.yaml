@@ -1,0 +1,183 @@
+Skill:
+  Name: Buying in the Shop
+  Id: 24
+
+New words:
+  - Word: купіць
+    Translation: to buy
+  - Word: прадаваць
+    Translation: to sell
+  - Word: цана
+    Translation: price
+  - Word: адзенне
+    Translation: clothes
+  - Word: торба/сумка
+    Translation: bag
+  - Word: кавалак/шматок
+    Translation: piece
+  - Word: пакупнік
+    Translation: customer
+  - Word: вяртанне
+    Translation: return
+  - Word: чэк
+    Translation: receipt
+  - Word: пытаць
+    Translation: to ask
+  - Word: свежы
+    Translation: fresh
+
+Phrases:
+  - Phrase: Хачу купіць хлеб.
+    Translation: I want to buy bread.
+  - Phrase: Ён прадае мяса.
+    Translation: He sells meat.
+  - Phrase: Цана ёсць высокая.
+    Translation: The price is high.
+  - Phrase: Адзенне ёсць новае.
+    Translation: The clothes are new.
+  - Phrase: Прадавец ёсць стомлены сёння.
+    Translation: The seller is tired today.
+  - Phrase: Торба/Сумка ёсць цяжкая.
+    Translation: The bag is heavy.
+  - Phrase: Кавалак/Шматок сыру ёсць добры.
+    Translation: A piece of cheese is good.
+  - Phrase: Пакупнік пытае пра зніжку.
+    Translation: The customer asks for a discount.
+  - Phrase: Вяртання няма. Гэта дрэнны магазін.
+    Translation: No returns. This is a bad shop.
+  - Phrase: Дам чэк прадаўцу.
+    Translation: I give the receipt to the seller.
+  - Phrase: Яна купляе кнігу.
+    Translation: She is buying a book.
+  - Phrase: Ён прадае малако.
+    Translation: He sells milk.
+  - Phrase: Цана масла ёсць добрая.
+    Translation: The price of butter is good.
+  - Phrase: Калбаса ёсць свежая.
+    Translation: The sausage is fresh.
+  - Phrase: Прадавец дасць кавалак/шматок калбасы.
+    Translation: The seller gives a piece of sausage.
+  - Phrase: Торба/Сумка стаіць на падлозе.
+    Translation: The bag is on the floor.
+  - Phrase: Кавалак/Шматок хлеба ёсць малы.
+    Translation: The piece of bread is small.
+  - Phrase: Пакупнік пытае пра цану.
+    Translation: The customer asks about the price.
+  - Phrase: Вяртанне ёсць да сямі дзён.
+    Translation: Return is within seven days.
+  - Phrase: Чэк ёсць падпісаны.
+    Translation: The receipt is signed.
+
+Mini-dictionary:
+  Belarusian:
+    - адзенне: undefined
+    - высокая: undefined
+    - вяртанне: undefined
+    - вяртання: undefined
+    - гэта: undefined
+    - да: undefined
+    - дам: undefined
+    - дасць: undefined
+    - дзён: undefined
+    - добрая: undefined
+    - добры: undefined
+    - дрэнны: undefined
+    - зніжку: undefined
+    - кавалак/шматок: undefined
+    - калбаса: undefined
+    - калбасы: undefined
+    - кнігу: undefined
+    - купляе: undefined
+    - купіць: undefined
+    - магазін: undefined
+    - малако: undefined
+    - малы: undefined
+    - масла: undefined
+    - мяса: undefined
+    - на: undefined
+    - новае: undefined
+    - няма: undefined
+    - падлозе: undefined
+    - падпісаны: undefined
+    - пакупнік: undefined
+    - пра: undefined
+    - прадаваць: undefined
+    - прадавец: undefined
+    - прадае: undefined
+    - прадаўцу: undefined
+    - пытае: undefined
+    - пытаць: undefined
+    - свежая: undefined
+    - свежы: undefined
+    - стаіць: undefined
+    - стомлены: undefined
+    - сыру: undefined
+    - сямі: undefined
+    - сёння: undefined
+    - торба/сумка: undefined
+    - хачу: undefined
+    - хлеб: undefined
+    - хлеба: undefined
+    - цана: undefined
+    - цану: undefined
+    - цяжкая: undefined
+    - чэк: undefined
+    - яна: undefined
+    - ён: undefined
+    - ёсць: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - are: undefined
+    - ask: undefined
+    - asks: undefined
+    - bad: undefined
+    - bag: undefined
+    - book: undefined
+    - bread: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - cheese: undefined
+    - clothes: undefined
+    - customer: undefined
+    - days: undefined
+    - discount: undefined
+    - floor: undefined
+    - for: undefined
+    - fresh: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - i: undefined
+    - is: undefined
+    - meat: undefined
+    - milk: undefined
+    - new: undefined
+    - no: undefined
+    - of: undefined
+    - on: undefined
+    - piece: undefined
+    - price: undefined
+    - receipt: undefined
+    - return: undefined
+    - returns: undefined
+    - sausage: undefined
+    - sell: undefined
+    - seller: undefined
+    - sells: undefined
+    - seven: undefined
+    - she: undefined
+    - shop: undefined
+    - signed: undefined
+    - small: undefined
+    - the: undefined
+    - this: undefined
+    - tired: undefined
+    - to: undefined
+    - today: undefined
+    - want: undefined
+    - within: undefined

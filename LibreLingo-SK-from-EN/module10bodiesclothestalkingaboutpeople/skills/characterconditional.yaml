@@ -1,0 +1,229 @@
+Skill:
+  Name: Character (Conditional)
+  Id: 36
+
+New words:
+  - Word: dobrý
+    Translation: good
+  - Word: zlý
+    Translation: bad
+  - Word: silný
+    Translation: strong
+  - Word: slabý
+    Translation: weak
+  - Word: smelý
+    Translation: brave
+  - Word: tichý
+    Translation: quiet
+  - Word: múdry
+    Translation: wise
+  - Word: hlúpy
+    Translation: stupid
+  - Word: úprimný
+    Translation: sincere
+  - Word: lenivý
+    Translation: lazy
+  - Word: bol by som
+    Translation: I would be
+  - Word: bol by si
+    Translation: you would be
+  - Word: bol by
+    Translation: he/she/it would be
+  - Word: boli by sme
+    Translation: we would be
+  - Word: boli by ste
+    Translation: you would be
+  - Word: boli by
+    Translation: they would be
+  - Word: mlčať (mlčí)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: On je dobrý človek.
+    Translation: He is a good person.
+  - Phrase: Ona je niekedy zlá.
+    Translation: She is sometimes bad.
+  - Phrase: Silný duch je dôležitý.
+    Translation: A strong spirit is important.
+  - Phrase: On je slabý v športe.
+    Translation: He is weak in sports.
+  - Phrase: Smelý hovorí pravdu.
+    Translation: Brave people speak the truth.
+  - Phrase: Ako by si ty počul, tak oni by boli tichí.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Múdry vie veľa.
+    Translation: A smart person knows much.
+  - Phrase: Ak by si ty nebol hlúpy, tak by si nerobil hlúposti.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Úprimný priateľ je drahocenný.
+    Translation: A sincere friend is valuable.
+  - Phrase: Ak by oni neboli leniví, tak by sme im pomáhali.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Ona je dobrá a úprimná.
+    Translation: She is good and sincere.
+  - Phrase: On je silný, ale smelý.
+    Translation: He is strong but brave.
+  - Phrase: Deti sú múdre na svoj vek.
+    Translation: Children are wiser for their age.
+  - Phrase: Ak by ste vy neboli slabí, tak by ste pracovali.
+    Translation: If you were not weak, you would work.
+  - Phrase: Zlé slová bolia.
+    Translation: Bad words hurt.
+  - Phrase: Hlúpy sa neučí.
+    Translation: Stupid people do not learn.
+  - Phrase: Lenivý nechce nič robiť.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Úprimný hovorí, čo si myslí.
+    Translation: A sincere person says what they think.
+  - Phrase: Múdry mlčí, keď treba.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Ak by som ja bol smelý, tak by som sa nebál.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Slovak:
+    - a: undefined
+    - ak: undefined
+    - ako: undefined
+    - ale: undefined
+    - bol: undefined
+    - boli: undefined
+    - bolia: undefined
+    - by: undefined
+    - deti: undefined
+    - dobrá: undefined
+    - dobrý: undefined
+    - drahocenný: undefined
+    - duch: undefined
+    - dôležitý: undefined
+    - hlúposti: undefined
+    - hlúpy: undefined
+    - hovorí: undefined
+    - im: undefined
+    - ja: undefined
+    - je: undefined
+    - keď: undefined
+    - leniví: undefined
+    - lenivý: undefined
+    - mlčať: undefined
+    - mlčí: undefined
+    - myslí: undefined
+    - múdre: undefined
+    - múdry: undefined
+    - na: undefined
+    - nebol: undefined
+    - neboli: undefined
+    - nebál: undefined
+    - nechce: undefined
+    - nerobil: undefined
+    - neučí: undefined
+    - niekedy: undefined
+    - nič: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - pomáhali: undefined
+    - počul: undefined
+    - pracovali: undefined
+    - pravdu: undefined
+    - priateľ: undefined
+    - robiť: undefined
+    - sa: undefined
+    - si: undefined
+    - silný: undefined
+    - slabí: undefined
+    - slabý: undefined
+    - slová: undefined
+    - sme: undefined
+    - smelý: undefined
+    - som: undefined
+    - ste: undefined
+    - svoj: undefined
+    - sú: undefined
+    - tak: undefined
+    - tichí: undefined
+    - tichý: undefined
+    - treba: undefined
+    - ty: undefined
+    - v: undefined
+    - vek: undefined
+    - veľa: undefined
+    - vie: undefined
+    - vy: undefined
+    - zlá: undefined
+    - zlé: undefined
+    - zlý: undefined
+    - úprimná: undefined
+    - úprimný: undefined
+    - človek: undefined
+    - čo: undefined
+    - športe: undefined
+  English:
+    - a: undefined
+    - afraid: undefined
+    - age: undefined
+    - and: undefined
+    - anything: undefined
+    - are: undefined
+    - bad: undefined
+    - be: undefined
+    - brave: undefined
+    - but: undefined
+    - children: undefined
+    - do: undefined
+    - foolish: undefined
+    - for: undefined
+    - friend: undefined
+    - good: undefined
+    - he: undefined
+    - he/she/it: undefined
+    - hear: undefined
+    - help: undefined
+    - hurt: undefined
+    - i: undefined
+    - if: undefined
+    - important: undefined
+    - in: undefined
+    - is: undefined
+    - knows: undefined
+    - lazy: undefined
+    - learn: undefined
+    - much: undefined
+    - needed: undefined
+    - not: undefined
+    - people: undefined
+    - person: undefined
+    - quiet: undefined
+    - says: undefined
+    - she: undefined
+    - silent: undefined
+    - sincere: undefined
+    - smart: undefined
+    - sometimes: undefined
+    - speak: undefined
+    - spirit: undefined
+    - sports: undefined
+    - stays: undefined
+    - strong: undefined
+    - stupid: undefined
+    - the: undefined
+    - their: undefined
+    - them: undefined
+    - they: undefined
+    - things: undefined
+    - think: undefined
+    - to: undefined
+    - truth: undefined
+    - valuable: undefined
+    - want: undefined
+    - we: undefined
+    - weak: undefined
+    - were: undefined
+    - what: undefined
+    - when: undefined
+    - wise: undefined
+    - wiser: undefined
+    - words: undefined
+    - work: undefined
+    - would: undefined
+    - you: undefined

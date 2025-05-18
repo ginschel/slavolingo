@@ -1,0 +1,181 @@
+Skill:
+  Name: Colours
+  Id: 17
+
+New words:
+  - Word: czôrny
+    Translation: black
+  - Word: biôłi
+    Translation: white
+  - Word: zieloni
+    Translation: green
+  - Word: mòdri
+    Translation: blue
+  - Word: czôrni
+    Translation: red
+  - Word: żôłti
+    Translation: yellow
+  - Word: szari
+    Translation: grey
+  - Word: brunétni
+    Translation: brown
+  - Word: òrańczowi
+    Translation: orange
+  - Word: czôrni
+    Translation: red
+
+Phrases:
+  - Phrase: Mój pies je czôrny.
+    Translation: My dog is black.
+  - Phrase: Mësz je biôłô.
+    Translation: The mouse is white.
+  - Phrase: Trawa je zelenô.
+    Translation: The grass is green.
+  - Phrase: Niebo je mòdré.
+    Translation: The sky is blue.
+  - Phrase: Kwiatë są czôrné.
+    Translation: The flowers are red.
+  - Phrase: Słuncé je żôłté.
+    Translation: The sun is yellow.
+  - Phrase: Chmùrë są szarë.
+    Translation: The clouds are grey.
+  - Phrase: On nosy brunétni płôszcz.
+    Translation: He wears a brown coat.
+  - Phrase: Lëst je òrańczowi.
+    Translation: The leaf is orange.
+  - Phrase: To je Czôrné Mòrze.
+    Translation: This is the Red Sea.
+  - Phrase: Mòje òczë są mòdré.
+    Translation: My eyes are blue.
+  - Phrase: Òna mô zeloną trawã.
+    Translation: She has green grass.
+  - Phrase: Ja miłëjã czôrni kòlor.
+    Translation: I like the red color.
+  - Phrase: Jegò aùto je czôrné.
+    Translation: His car is black.
+  - Phrase: Dzëwczã niese biôłą suknią.
+    Translation: The girl is wearing a white dress.
+  - Phrase: Je to szari włos?
+    Translation: Is that grey hair?
+  - Phrase: On mô òrańczową torbã.
+    Translation: He has an orange bag.
+  - Phrase: Brunétni kòń stoji w stajni.
+    Translation: The brown horse stands in the stable.
+  - Phrase: Żôłté słuncé grzeje zemiã.
+    Translation: The yellow sun warms the earth.
+  - Phrase: Czôrná róża ròsce tu.
+    Translation: A red rose grows here.
+
+Mini-dictionary:
+  Kashubian:
+    - aùto: undefined
+    - biôłi: undefined
+    - biôłô: undefined
+    - biôłą: undefined
+    - brunétni: undefined
+    - chmùrë: undefined
+    - czôrni: undefined
+    - czôrny: undefined
+    - czôrná: undefined
+    - czôrné: undefined
+    - dzëwczã: undefined
+    - grzeje: undefined
+    - ja: undefined
+    - je: undefined
+    - jegò: undefined
+    - kwiatë: undefined
+    - kòlor: undefined
+    - kòń: undefined
+    - lëst: undefined
+    - miłëjã: undefined
+    - mësz: undefined
+    - mòdri: undefined
+    - mòdré: undefined
+    - mòje: undefined
+    - mòrze: undefined
+    - mój: undefined
+    - mô: undefined
+    - niebo: undefined
+    - niese: undefined
+    - nosy: undefined
+    - on: undefined
+    - pies: undefined
+    - płôszcz: undefined
+    - ròsce: undefined
+    - róża: undefined
+    - stajni: undefined
+    - stoji: undefined
+    - suknią: undefined
+    - szari: undefined
+    - szarë: undefined
+    - są: undefined
+    - słuncé: undefined
+    - to: undefined
+    - torbã: undefined
+    - trawa: undefined
+    - trawã: undefined
+    - tu: undefined
+    - w: undefined
+    - włos: undefined
+    - zelenô: undefined
+    - zeloną: undefined
+    - zemiã: undefined
+    - zieloni: undefined
+    - òczë: undefined
+    - òna: undefined
+    - òrańczowi: undefined
+    - òrańczową: undefined
+    - żôłti: undefined
+    - żôłté: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - are: undefined
+    - bag: undefined
+    - black: undefined
+    - blue: undefined
+    - brown: undefined
+    - car: undefined
+    - clouds: undefined
+    - coat: undefined
+    - color: undefined
+    - dog: undefined
+    - dress: undefined
+    - earth: undefined
+    - eyes: undefined
+    - flowers: undefined
+    - girl: undefined
+    - grass: undefined
+    - green: undefined
+    - grey: undefined
+    - grows: undefined
+    - hair: undefined
+    - has: undefined
+    - he: undefined
+    - here: undefined
+    - his: undefined
+    - horse: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - leaf: undefined
+    - like: undefined
+    - mouse: undefined
+    - my: undefined
+    - orange: undefined
+    - red: undefined
+    - rose: undefined
+    - sea: undefined
+    - she: undefined
+    - sky: undefined
+    - stable: undefined
+    - stands: undefined
+    - sun: undefined
+    - that: undefined
+    - the: undefined
+    - this: undefined
+    - warms: undefined
+    - wearing: undefined
+    - wears: undefined
+    - white: undefined
+    - yellow: undefined

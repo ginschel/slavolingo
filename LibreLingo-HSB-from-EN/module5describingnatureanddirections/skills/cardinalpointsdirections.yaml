@@ -1,0 +1,208 @@
+Skill:
+  Name: Cardinal points/directions
+  Id: 18
+
+New words:
+  - Word: sewjer
+    Translation: north
+  - Word: juh
+    Translation: south
+  - Word: zapad
+    Translation: west
+  - Word: wuchod
+    Translation: east
+  - Word: sewjerny
+    Translation: northern
+  - Word: južny
+    Translation: southern
+  - Word: zapadny
+    Translation: western
+  - Word: wuchodny
+    Translation: eastern
+  - Word: kompas
+    Translation: compass
+  - Word: strona
+    Translation: side
+  - Word: hdźe
+    Translation: where
+  - Word: wstać (wostanje)
+    Translation: to rise
+  - Word: pokazać
+    Translation: to show
+  - Word: mapa
+    Translation: map
+  - Word: pućować
+    Translation: to travel
+  - Word: woprawdźe
+    Translation: right
+  - Word: nalěwo
+    Translation: left
+  - Word: runje
+    Translation: straight
+
+Phrases:
+  - Phrase: Sewjer je zymny.
+    Translation: The north is cold.
+  - Phrase: Juh je ćopły.
+    Translation: The south is warm.
+  - Phrase: Słónco wostanje na wuchodźe.
+    Translation: The sun rises in the east.
+  - Phrase: Wone zapada na zapadźe.
+    Translation: It sets in the west.
+  - Phrase: To je sewjerna strona.
+    Translation: This is the northern side.
+  - Phrase: Bydlimy na juhu.
+    Translation: We live in the south.
+  - Phrase: Kompas pokazuje sewjer.
+    Translation: The compass shows north.
+  - Phrase: Wuchod je tam.
+    Translation: The east is there.
+  - Phrase: Zapadny wětřik duje.
+    Translation: A western wind is blowing.
+  - Phrase: Dźemy k juhozapadej.
+    Translation: We are going to the southwest.
+  - Phrase: To je sewjerozapadny region.
+    Translation: This is the northwestern region.
+  - Phrase: Strona na mapje pokazuje zapad.
+    Translation: The side on the map shows west.
+  - Phrase: Juhowuchod je tam, hdźež słónco hrěje.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Dźemy k južnej stronje.
+    Translation: We are going to the southern side.
+  - Phrase: Wón pućuje wuchodnje.
+    Translation: He travels eastward.
+  - Phrase: Na sewjeru je sněh.
+    Translation: In the north there is snow.
+  - Phrase: Južne kraje su ćopłe.
+    Translation: The southern regions are warm.
+  - Phrase: Zapad je nalěwo na mapje.
+    Translation: West is left on the map.
+  - Phrase: Wuchodna muzika je zajimawa.
+    Translation: Eastern music is interesting.
+  - Phrase: Hladamy k sewjerej.
+    Translation: We are looking to the north.
+  - Phrase: Dźemy hnydom woprawdźe a potom runje.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Upper Sorbian:
+    - a: undefined
+    - bydlimy: undefined
+    - duje: undefined
+    - dźemy: undefined
+    - hdźe: undefined
+    - hdźež: undefined
+    - hladamy: undefined
+    - hnydom: undefined
+    - hrěje: undefined
+    - je: undefined
+    - juh: undefined
+    - juhowuchod: undefined
+    - juhozapadej: undefined
+    - juhu: undefined
+    - južne: undefined
+    - južnej: undefined
+    - južny: undefined
+    - k: undefined
+    - kompas: undefined
+    - kraje: undefined
+    - mapa: undefined
+    - mapje: undefined
+    - muzika: undefined
+    - na: undefined
+    - nalěwo: undefined
+    - pokazać: undefined
+    - pokazuje: undefined
+    - potom: undefined
+    - pućować: undefined
+    - pućuje: undefined
+    - region: undefined
+    - runje: undefined
+    - sewjer: undefined
+    - sewjerej: undefined
+    - sewjerna: undefined
+    - sewjerny: undefined
+    - sewjerozapadny: undefined
+    - sewjeru: undefined
+    - sněh: undefined
+    - strona: undefined
+    - stronje: undefined
+    - su: undefined
+    - słónco: undefined
+    - tam: undefined
+    - to: undefined
+    - wone: undefined
+    - woprawdźe: undefined
+    - wostanje: undefined
+    - wstać: undefined
+    - wuchod: undefined
+    - wuchodna: undefined
+    - wuchodnje: undefined
+    - wuchodny: undefined
+    - wuchodźe: undefined
+    - wón: undefined
+    - wětřik: undefined
+    - zajimawa: undefined
+    - zapad: undefined
+    - zapada: undefined
+    - zapadny: undefined
+    - zapadźe: undefined
+    - zymny: undefined
+    - ćopłe: undefined
+    - ćopły: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - blowing: undefined
+    - cold: undefined
+    - compass: undefined
+    - east: undefined
+    - eastern: undefined
+    - eastward: undefined
+    - going: undefined
+    - he: undefined
+    - in: undefined
+    - interesting: undefined
+    - is: undefined
+    - it: undefined
+    - left: undefined
+    - live: undefined
+    - looking: undefined
+    - map: undefined
+    - music: undefined
+    - north: undefined
+    - northern: undefined
+    - northwestern: undefined
+    - now: undefined
+    - on: undefined
+    - region: undefined
+    - regions: undefined
+    - right: undefined
+    - rise: undefined
+    - rises: undefined
+    - sets: undefined
+    - show: undefined
+    - shows: undefined
+    - side: undefined
+    - snow: undefined
+    - south: undefined
+    - southeast: undefined
+    - southern: undefined
+    - southwest: undefined
+    - straight: undefined
+    - sun: undefined
+    - the: undefined
+    - then: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - travel: undefined
+    - travels: undefined
+    - warm: undefined
+    - warms: undefined
+    - we: undefined
+    - west: undefined
+    - western: undefined
+    - where: undefined
+    - wind: undefined

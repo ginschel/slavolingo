@@ -1,0 +1,236 @@
+Skill:
+  Name: Weekdays/Months
+  Id: 32
+
+New words:
+  - Word: tidzéń
+    Translation: week
+  - Word: pòlëdzôłk
+    Translation: Monday
+  - Word: wtórk
+    Translation: Tuesday
+  - Word: strzódka
+    Translation: Wednesday
+  - Word: czwiôrtk
+    Translation: Thursday
+  - Word: piątk
+    Translation: Friday
+  - Word: sobòta
+    Translation: Saturday
+  - Word: niedzela
+    Translation: Sunday
+  - Word: miesąc
+    Translation: month
+  - Word: stëcznik
+    Translation: January
+  - Word: gromicznik
+    Translation: February
+  - Word: strëmiannik
+    Translation: March
+  - Word: łżëkwiat
+    Translation: April
+  - Word: môj
+    Translation: May
+  - Word: czerwińc
+    Translation: June
+  - Word: lëpińc
+    Translation: July
+  - Word: zélnik
+    Translation: August
+  - Word: séwnik
+    Translation: September
+  - Word: rujan
+    Translation: October
+  - Word: lëstopadnik
+    Translation: November
+  - Word: gòdnik
+    Translation: December
+
+Phrases:
+  - Phrase: Pòlëdzôłk je pierszi dzéń w tidzéniu.
+    Translation: Monday is the first day of the week.
+  - Phrase: Wtórk je pò pòlëdzôłkù.
+    Translation: Tuesday is after Monday.
+  - Phrase: Strzódka je w pòstrzódkù tidzénia.
+    Translation: Wednesday is in the middle of the week.
+  - Phrase: Czwiôrtk je przed piątkã.
+    Translation: Thursday is before Friday.
+  - Phrase: Piątk je slédni robòtni dzéń.
+    Translation: Friday is the last working day.
+  - Phrase: Sobòta to je weekend.
+    Translation: Saturday is the weekend.
+  - Phrase: Niedzelô to je dzéń òdpòczënkù.
+    Translation: Sunday is the day of rest.
+  - Phrase: Móm w stëcznikù warkòwé.
+    Translation: I have vacation in January.
+  - Phrase: Nowi rok je w gòdnikù.
+    Translation: New Year's is in December.
+  - Phrase: W zélnikù jidzemë do Honduras.
+    Translation: In August, I am going to Honduras.
+  - Phrase: W gromicznikù je wiele sniegù.
+    Translation: In February there is a lot of snow.
+  - Phrase: W strzódkã mò zadanié.
+    Translation: On Wednesday, I have an assignment.
+  - Phrase: W czwiôrtk je mój miłi dzéń.
+    Translation: Thursday is my favorite day.
+  - Phrase: W piątk wieczór jidzemë na film.
+    Translation: On Friday evening we are going to the movies.
+  - Phrase: Sobòta je bez robòtë.
+    Translation: Saturday is without work.
+  - Phrase: Niedzelô je czas dlô rodzëznë.
+    Translation: Sunday is time for family.
+  - Phrase: Nie czéżdë miesąc mô trzidzescãt dzéniów.
+    Translation: Not every month has thirty days.
+  - Phrase: Rujan je snôżi miesąc.
+    Translation: October is a beautiful month.
+  - Phrase: Wtórk je dzéniã sportu.
+    Translation: Tuesday is the day for sports.
+  - Phrase: Lëpińc je miesãcã lata.
+    Translation: July is the month of summer.
+
+Mini-dictionary:
+  Kashubian:
+    - bez: undefined
+    - czas: undefined
+    - czerwińc: undefined
+    - czwiôrtk: undefined
+    - czéżdë: undefined
+    - dlô: undefined
+    - do: undefined
+    - dzéniã: undefined
+    - dzéniów: undefined
+    - dzéń: undefined
+    - film: undefined
+    - gromicznik: undefined
+    - gromicznikù: undefined
+    - gòdnik: undefined
+    - gòdnikù: undefined
+    - honduras: undefined
+    - je: undefined
+    - jidzemë: undefined
+    - lata: undefined
+    - lëpińc: undefined
+    - lëstopadnik: undefined
+    - miesãcã: undefined
+    - miesąc: undefined
+    - miłi: undefined
+    - mò: undefined
+    - mój: undefined
+    - móm: undefined
+    - mô: undefined
+    - môj: undefined
+    - na: undefined
+    - nie: undefined
+    - niedzela: undefined
+    - niedzelô: undefined
+    - nowi: undefined
+    - pierszi: undefined
+    - piątk: undefined
+    - piątkã: undefined
+    - przed: undefined
+    - pò: undefined
+    - pòlëdzôłk: undefined
+    - pòlëdzôłkù: undefined
+    - pòstrzódkù: undefined
+    - robòtni: undefined
+    - robòtë: undefined
+    - rodzëznë: undefined
+    - rok: undefined
+    - rujan: undefined
+    - slédni: undefined
+    - sniegù: undefined
+    - snôżi: undefined
+    - sobòta: undefined
+    - sportu: undefined
+    - strzódka: undefined
+    - strzódkã: undefined
+    - strëmiannik: undefined
+    - stëcznik: undefined
+    - stëcznikù: undefined
+    - séwnik: undefined
+    - tidzénia: undefined
+    - tidzéniu: undefined
+    - tidzéń: undefined
+    - to: undefined
+    - trzidzescãt: undefined
+    - w: undefined
+    - warkòwé: undefined
+    - weekend: undefined
+    - wieczór: undefined
+    - wiele: undefined
+    - wtórk: undefined
+    - zadanié: undefined
+    - zélnik: undefined
+    - zélnikù: undefined
+    - òdpòczënkù: undefined
+    - łżëkwiat: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - am: undefined
+    - an: undefined
+    - april: undefined
+    - are: undefined
+    - assignment: undefined
+    - august: undefined
+    - beautiful: undefined
+    - before: undefined
+    - day: undefined
+    - days: undefined
+    - december: undefined
+    - evening: undefined
+    - every: undefined
+    - family: undefined
+    - favorite: undefined
+    - february: undefined
+    - first: undefined
+    - for: undefined
+    - friday: undefined
+    - going: undefined
+    - has: undefined
+    - have: undefined
+    - honduras: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - january: undefined
+    - july: undefined
+    - june: undefined
+    - last: undefined
+    - lot: undefined
+    - march: undefined
+    - may: undefined
+    - middle: undefined
+    - monday: undefined
+    - month: undefined
+    - movies: undefined
+    - my: undefined
+    - new: undefined
+    - not: undefined
+    - november: undefined
+    - october: undefined
+    - of: undefined
+    - on: undefined
+    - rest: undefined
+    - saturday: undefined
+    - september: undefined
+    - snow: undefined
+    - sports: undefined
+    - summer: undefined
+    - sunday: undefined
+    - the: undefined
+    - there: undefined
+    - thirty: undefined
+    - thursday: undefined
+    - time: undefined
+    - to: undefined
+    - tuesday: undefined
+    - vacation: undefined
+    - we: undefined
+    - wednesday: undefined
+    - week: undefined
+    - weekend: undefined
+    - without: undefined
+    - work: undefined
+    - working: undefined
+    - year's: undefined

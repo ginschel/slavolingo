@@ -1,0 +1,201 @@
+Skill:
+  Name: Grammar revision pronouncs
+  Id: 20
+
+New words:
+  - Word: "znać (fakty)"
+    Translation: to know
+  - Word: "wiedzieć (znać kogoś/coś)"
+    Translation: to know
+  - Word: "sen"
+    Translation: dream
+  - Word: "rzecz"
+    Translation: thing
+
+Phrases:
+  - Phrase: Tego nie znam.
+    Translation: I don't know that.
+  - Phrase: O tym już długo wiem.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Kogo widzisz?.
+    Translation: Who do you see?.
+  - Phrase: Tym, którzy kładą się spać, spokojnego snu.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: O tej rzeczy ja nic nie wiem.
+    Translation: I know nothing about that thing.
+  - Phrase: Rozmawiam z tobą.
+    Translation: I am talking with you.
+  - Phrase: Ja widzę was.
+    Translation: I see you.
+  - Phrase: On lubi być sam ze sobą.
+    Translation: He likes to be alone with himself.
+  - Phrase: Daj mi wodę.
+    Translation: Give me water.
+  - Phrase: Z nami zawsze wszystko wesoło.
+    Translation: With us everything is always cheerful.
+  - Phrase: Mnie nie widzisz.
+    Translation: You don't see me.
+  - Phrase: Komu dasz prezent?
+    Translation: Who do you give a gift to?
+  - Phrase: O mnie mówisz?
+    Translation: Are you talking about me?
+  - Phrase: Nie, ja nie mówię o tobie.
+    Translation: No, I don't talt about you.
+  - Phrase: O czym mówisz?
+    Translation: What are you talking about?
+  - Phrase: Te kobiety są piękne.
+    Translation: These women are beautiful.
+  - Phrase: Tych przyjaciół nie masz.
+    Translation: You do not have those friends.
+  - Phrase: On daje sobie spokój.
+    Translation: He stops troubling others.
+  - Phrase: Czego tu nie ma w domu?
+    Translation: What isn't at this house here?
+  - Phrase: Temu psu dajesz kości.
+    Translation: You give to this dog bones.
+  - Phrase: To wasza kawa czy jej?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Polish:
+    - być: undefined
+    - czego: undefined
+    - czy: undefined
+    - czym: undefined
+    - daj: undefined
+    - daje: undefined
+    - dajesz: undefined
+    - dasz: undefined
+    - domu: undefined
+    - długo: undefined
+    - fakty: undefined
+    - ja: undefined
+    - jej: undefined
+    - już: undefined
+    - kawa: undefined
+    - kobiety: undefined
+    - kogo: undefined
+    - kogoś/coś: undefined
+    - komu: undefined
+    - kości: undefined
+    - którzy: undefined
+    - kładą: undefined
+    - lubi: undefined
+    - ma: undefined
+    - masz: undefined
+    - mi: undefined
+    - mnie: undefined
+    - mówisz: undefined
+    - mówię: undefined
+    - nami: undefined
+    - nic: undefined
+    - nie: undefined
+    - o: undefined
+    - on: undefined
+    - piękne: undefined
+    - prezent: undefined
+    - przyjaciół: undefined
+    - psu: undefined
+    - rozmawiam: undefined
+    - rzecz: undefined
+    - rzeczy: undefined
+    - sam: undefined
+    - sen: undefined
+    - się: undefined
+    - snu: undefined
+    - sobie: undefined
+    - sobą: undefined
+    - spać: undefined
+    - spokojnego: undefined
+    - spokój: undefined
+    - są: undefined
+    - te: undefined
+    - tego: undefined
+    - tej: undefined
+    - temu: undefined
+    - to: undefined
+    - tobie: undefined
+    - tobą: undefined
+    - tu: undefined
+    - tych: undefined
+    - tym: undefined
+    - w: undefined
+    - was: undefined
+    - wasza: undefined
+    - wesoło: undefined
+    - widzisz: undefined
+    - widzę: undefined
+    - wiedzieć: undefined
+    - wiem: undefined
+    - wodę: undefined
+    - wszystko: undefined
+    - z: undefined
+    - zawsze: undefined
+    - ze: undefined
+    - znam: undefined
+    - znać: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - alone: undefined
+    - always: undefined
+    - am: undefined
+    - are: undefined
+    - at: undefined
+    - be: undefined
+    - beautiful: undefined
+    - bones: undefined
+    - cheerful: undefined
+    - coffee: undefined
+    - do: undefined
+    - dog: undefined
+    - don't: undefined
+    - dream: undefined
+    - everything: undefined
+    - for: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - going: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - himself: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - isn't: undefined
+    - it: undefined
+    - know: undefined
+    - known: undefined
+    - likes: undefined
+    - long: undefined
+    - me: undefined
+    - no: undefined
+    - not: undefined
+    - nothing: undefined
+    - or: undefined
+    - others: undefined
+    - peaceful: undefined
+    - see: undefined
+    - sleep: undefined
+    - stops: undefined
+    - talking: undefined
+    - talt: undefined
+    - that: undefined
+    - these: undefined
+    - thing: undefined
+    - this: undefined
+    - those: undefined
+    - time: undefined
+    - to: undefined
+    - troubling: undefined
+    - us: undefined
+    - water: undefined
+    - what: undefined
+    - who: undefined
+    - with: undefined
+    - women: undefined
+    - you: undefined
+    - your: undefined

@@ -1,0 +1,249 @@
+Skill:
+  Name: Greetings & Phrases for conversations
+  Id: 2
+
+New words:
+  - Word: pózdraw
+    Translation: greeting
+  - Word: zdråw
+    Translation: healthy/hello
+  - Word: powěźeńka
+    Translation: conversation
+  - Word: ranjo
+    Translation: morning
+  - Word: wjacor
+    Translation: evening
+  - Word: źeń
+    Translation: day
+  - Word: noc
+    Translation: night
+  - Word: źěkuju
+    Translation: thanks
+  - Word: pardón
+    Translation: pardon
+  - Word: wódaj
+    Translation: excuse me
+  - Word: dobry
+    Translation: good
+  - Word: lěpšy
+    Translation: better
+  - Word: móžno
+    Translation: possible
+  - Word: škoda
+    Translation: pity
+  - Word: tak
+    Translation: so
+  - Word: což
+    Translation: what
+  - Word: nje
+    Translation: no
+  - Word: jo
+    Translation: yes
+  - Word: snano
+    Translation: maybe/can
+  - Word: daj
+    Translation: let's go
+
+Phrases:
+  - Phrase: Dobro ranjo!
+    Translation: Good morning!
+  - Phrase: Dobry wjacor!
+    Translation: Good evening!
+  - Phrase: Dobry źeń!
+    Translation: Good day!
+  - Phrase: Dobra noc!
+    Translation: Good night!
+  - Phrase: Kak sy?
+    Translation: How are you?
+  - Phrase: Som dobry, źěkuju!
+    Translation: I am well, thank you!
+  - Phrase: A ty?
+    Translation: And you?
+  - Phrase: Źěkuju śi wjele.
+    Translation: Thank you very much.
+  - Phrase: Pardón, nje rozmějom.
+    Translation: Excuse me, I don't understand.
+  - Phrase: Pózdraw!
+    Translation: Greetings!
+  - Phrase: Zdråw!
+    Translation: Hello!
+  - Phrase: Dobry źeń, kak sy?
+    Translation: Good day, how are you?
+  - Phrase: Sy lě ty zdråw?
+    Translation: Are you healthy?
+  - Phrase: Witajśo!
+    Translation: Welcome!
+  - Phrase: Na zdråwje!
+    Translation: To your health!
+  - Phrase: Pózdraw twóju sotšu.
+    Translation: Greet your sister.
+  - Phrase: Kak se gronjo?
+    Translation: What is your name?
+  - Phrase: Mójo mě jo Bartek.
+    Translation: My name is Bartek.
+  - Phrase: Źěkuju za powěźeńku.
+    Translation: Thank you for the conversation.
+  - Phrase: Tak jo.
+    Translation: That is so.
+  - Phrase: Nje tak.
+    Translation: Not so.
+  - Phrase: Snano.
+    Translation: Maybe.
+  - Phrase: Nje móžno.
+    Translation: Not possible.
+  - Phrase: Škoda!
+    Translation: What a pity!
+  - Phrase: Dobro!
+    Translation: Good!
+  - Phrase: Nje dobro.
+    Translation: Not good.
+  - Phrase: To jo lěpšy.
+    Translation: This is better.
+  - Phrase: To nje jo lěpšy.
+    Translation: This is not better.
+  - Phrase: Jo, móžno.
+    Translation: Yes, it is possible.
+  - Phrase: Nje, nje móžno.
+    Translation: No, it is not possible.
+  - Phrase: Jo to móžno?
+    Translation: Is this possible?
+  - Phrase: Což to wóznamjenja?
+    Translation: What does this mean?
+  - Phrase: Teke ja.
+    Translation: Me too.
+  - Phrase: Z Bogom!
+    Translation: Go with God!
+  - Phrase: Nje wěm.
+    Translation: I don't know.
+  - Phrase: Chiba.
+    Translation: Perhaps.
+  - Phrase: Hyšći raz! Ja som něrozměł.
+    Translation: Repeat. I didn't understand.
+  - Phrase: Sy lě gotowy?
+    Translation: Are you ready?
+  - Phrase: Daj!
+    Translation: Let's go!
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: undefined
+    - bartek: undefined
+    - bogom: undefined
+    - chiba: undefined
+    - což: undefined
+    - daj: undefined
+    - dobra: undefined
+    - dobro: undefined
+    - dobry: undefined
+    - gotowy: undefined
+    - gronjo: undefined
+    - hyšći: undefined
+    - ja: undefined
+    - jo: undefined
+    - kak: undefined
+    - lě: undefined
+    - lěpšy: undefined
+    - mójo: undefined
+    - móžno: undefined
+    - mě: undefined
+    - na: undefined
+    - nje: undefined
+    - noc: undefined
+    - něrozměł: undefined
+    - pardón: undefined
+    - powěźeńka: undefined
+    - powěźeńku: undefined
+    - pózdraw: undefined
+    - ranjo: undefined
+    - raz: undefined
+    - rozmějom: undefined
+    - se: undefined
+    - snano: undefined
+    - som: undefined
+    - sotšu: undefined
+    - sy: undefined
+    - tak: undefined
+    - teke: undefined
+    - to: undefined
+    - twóju: undefined
+    - ty: undefined
+    - witajśo: undefined
+    - wjacor: undefined
+    - wjele: undefined
+    - wódaj: undefined
+    - wóznamjenja: undefined
+    - wěm: undefined
+    - z: undefined
+    - za: undefined
+    - zdråw: undefined
+    - zdråwje: undefined
+    - śi: undefined
+    - škoda: undefined
+    - źeń: undefined
+    - źěkuju: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - bartek: undefined
+    - better: undefined
+    - conversation: undefined
+    - day: undefined
+    - didn't: undefined
+    - does: undefined
+    - don't: undefined
+    - evening: undefined
+    - excuse: undefined
+    - for: undefined
+    - go: undefined
+    - god: undefined
+    - good: undefined
+    - greet: undefined
+    - greeting: undefined
+    - greetings: undefined
+    - health: undefined
+    - healthy: undefined
+    - healthy/hello: undefined
+    - hello: undefined
+    - how: undefined
+    - i: undefined
+    - is: undefined
+    - it: undefined
+    - know: undefined
+    - let's: undefined
+    - maybe: undefined
+    - maybe/can: undefined
+    - me: undefined
+    - mean: undefined
+    - morning: undefined
+    - much: undefined
+    - my: undefined
+    - name: undefined
+    - night: undefined
+    - no: undefined
+    - not: undefined
+    - pardon: undefined
+    - perhaps: undefined
+    - pity: undefined
+    - possible: undefined
+    - ready: undefined
+    - repeat: undefined
+    - sister: undefined
+    - so: undefined
+    - thank: undefined
+    - thanks: undefined
+    - that: undefined
+    - the: undefined
+    - this: undefined
+    - to: undefined
+    - too: undefined
+    - understand: undefined
+    - very: undefined
+    - welcome: undefined
+    - well: undefined
+    - what: undefined
+    - with: undefined
+    - yes: undefined
+    - you: undefined
+    - your: undefined

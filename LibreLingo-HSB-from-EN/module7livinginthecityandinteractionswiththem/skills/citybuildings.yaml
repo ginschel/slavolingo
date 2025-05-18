@@ -1,0 +1,181 @@
+Skill:
+  Name: City/Buildings
+  Id: 21
+
+New words:
+  - Word: město
+    Translation: city
+  - Word: dom
+    Translation: house
+  - Word: torhošćo
+    Translation: square/market
+  - Word: dwórnišćo
+    Translation: station
+  - Word: móst
+    Translation: bridge
+  - Word: wobchod
+    Translation: shop/store
+  - Word: torhošćo
+    Translation: market
+  - Word: knihownja
+    Translation: library
+  - Word: cyrkej
+    Translation: church
+  - Word: hasa
+    Translation: street
+  - Word: wjesć (wjedźe)
+    Translation: to lead
+
+Phrases:
+  - Phrase: To je wulke město.
+    Translation: This is a big city.
+  - Phrase: Dom stoji na hasy.
+    Translation: The house stands on the street.
+  - Phrase: Dźemy na torhošćo.
+    Translation: We are going to the square.
+  - Phrase: Dwórnišćo je blisko centrum.
+    Translation: The station is near the center.
+  - Phrase: Móst dźe přez rěku.
+    Translation: The bridge goes over the river.
+  - Phrase: Kupujemy chlěb w wobchodźe.
+    Translation: We buy bread in the shop.
+  - Phrase: Na torhošću je mnoho ludźi.
+    Translation: There are many people at the market.
+  - Phrase: Čitam knihu w knihowni.
+    Translation: I read a book in the library.
+  - Phrase: Cyrkej je stara a běła.
+    Translation: The church is old and white.
+  - Phrase: Hasa je dołha a ćopła.
+    Translation: The street is long and warm.
+  - Phrase: Město ma mnoho domow.
+    Translation: The city has many houses.
+  - Phrase: Wobchod je wotewrjeny dźensa.
+    Translation: The shop is open today.
+  - Phrase: Cyrkej stoji blisko knihownje.
+    Translation: The church stands near the library.
+  - Phrase: Hasa wjedźe na torhošćo.
+    Translation: The street leads to the square.
+  - Phrase: Na torhošću stoji studnja.
+    Translation: A fountain stands in the square.
+  - Phrase: Móst je rjany a nowy.
+    Translation: The bridge is beautiful and new.
+  - Phrase: To je mój dom w měsće.
+    Translation: This is my house in the city.
+  - Phrase: Dwórnišćo ma mnoho ćahow.
+    Translation: The station has many trains.
+  - Phrase: Hasa dźe do wobchodu.
+    Translation: The street goes to the shop.
+  - Phrase: Torhošćo je połne ludźi.
+    Translation: The square is full of people.
+
+Mini-dictionary:
+  Upper Sorbian:
+    - a: undefined
+    - blisko: undefined
+    - běła: undefined
+    - centrum: undefined
+    - chlěb: undefined
+    - cyrkej: undefined
+    - do: undefined
+    - dom: undefined
+    - domow: undefined
+    - dołha: undefined
+    - dwórnišćo: undefined
+    - dźe: undefined
+    - dźemy: undefined
+    - dźensa: undefined
+    - hasa: undefined
+    - hasy: undefined
+    - je: undefined
+    - knihowni: undefined
+    - knihownja: undefined
+    - knihownje: undefined
+    - knihu: undefined
+    - kupujemy: undefined
+    - ludźi: undefined
+    - ma: undefined
+    - mnoho: undefined
+    - mój: undefined
+    - móst: undefined
+    - město: undefined
+    - měsće: undefined
+    - na: undefined
+    - nowy: undefined
+    - połne: undefined
+    - přez: undefined
+    - rjany: undefined
+    - rěku: undefined
+    - stara: undefined
+    - stoji: undefined
+    - studnja: undefined
+    - to: undefined
+    - torhošćo: undefined
+    - torhošću: undefined
+    - w: undefined
+    - wjedźe: undefined
+    - wjesć: undefined
+    - wobchod: undefined
+    - wobchodu: undefined
+    - wobchodźe: undefined
+    - wotewrjeny: undefined
+    - wulke: undefined
+    - ćahow: undefined
+    - ćopła: undefined
+    - čitam: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beautiful: undefined
+    - big: undefined
+    - book: undefined
+    - bread: undefined
+    - bridge: undefined
+    - buy: undefined
+    - center: undefined
+    - church: undefined
+    - city: undefined
+    - fountain: undefined
+    - full: undefined
+    - goes: undefined
+    - going: undefined
+    - has: undefined
+    - house: undefined
+    - houses: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - lead: undefined
+    - leads: undefined
+    - library: undefined
+    - long: undefined
+    - many: undefined
+    - market: undefined
+    - my: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - over: undefined
+    - people: undefined
+    - read: undefined
+    - river: undefined
+    - shop: undefined
+    - shop/store: undefined
+    - square: undefined
+    - square/market: undefined
+    - stands: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - today: undefined
+    - trains: undefined
+    - warm: undefined
+    - we: undefined
+    - white: undefined

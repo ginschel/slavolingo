@@ -1,0 +1,201 @@
+Skill:
+  Name: Drinks (Genitive case)
+  Id: 7
+
+New words:
+  - Word: voda
+    Translation: water
+  - Word: pivo
+    Translation: beer
+  - Word: piti
+    Translation: to drink
+  - Word: vino
+    Translation: wine
+  - Word: kava
+    Translation: coffee
+  - Word: sok
+    Translation: juice
+  - Word: hoteti (hoče)
+    Translation: to want
+  - Word: steklenica
+    Translation: bottle
+  - Word: poskusiti najti
+    Translation: to try to find
+  - Word: skodelica
+    Translation: glass
+  - Word: steklenica
+    Translation: bottle
+  - Word: čaj
+    Translation: tea
+  - Word: mleko
+    Translation: milk
+  - Word: brez
+    Translation: without
+  - Word: za
+    Translation: for
+  - Word: iz
+    Translation: from
+  - Word: pri
+    Translation: at/by
+
+Phrases:
+  - Phrase: Jaz nimam vode.
+    Translation: I do not have water.
+  - Phrase: Ona ne pije vina.
+    Translation: She does not drink wine.
+  - Phrase: Mi ne pijemo piva.
+    Translation: We do not drink beer.
+  - Phrase: Ti imaš steklenico soka?
+    Translation: Do you have a bottle of juice?
+  - Phrase: Oni ne kupujejo steklenic piva.
+    Translation: They are not buying bottles of beer.
+  - Phrase: On nima kave.
+    Translation: He does not have coffee.
+  - Phrase: Piješ brez mleka?
+    Translation: Do you drink without milk?
+  - Phrase: Ona ne pije čaja.
+    Translation: She does not drink tea.
+  - Phrase: Kozarec vina zame, prosim.
+    Translation: A glass of wine for me, please.
+  - Phrase: Steklenica vode leži na mizi.
+    Translation: A bottle of water is lying on the table.
+  - Phrase: Jaz ljubim sok brez sladkorja.
+    Translation: I like juice without sugar.
+  - Phrase: On nima rad kave brez mleka.
+    Translation: He does not like coffee without milk.
+  - Phrase: Si ti brez steklenice?
+    Translation: Are you without a bottle?
+  - Phrase: Ona poskuša najti skodelico brez vina.
+    Translation: She is trying to find a glass without wine.
+  - Phrase: On noče piti soka.
+    Translation: He does not want to drink juice.
+  - Phrase: Ti piješ vino?
+    Translation: Do you drink wine?
+  - Phrase: To vino je iz Poljske.
+    Translation: This wine is from Poland.
+  - Phrase: Pri Franku ni vodke.
+    Translation: Frank has no vodka.
+  - Phrase: Mi pijemo iz steklenice pivo.
+    Translation: We are drinking beer from the bottle.
+  - Phrase: Dajte mi kozarec vina, prosim.
+    Translation: Give me a glass of wine, please.
+  - Phrase: On pije za tebe
+    Translation: He is drinking for you
+
+Mini-dictionary:
+  Slovenian:
+    - brez: undefined
+    - dajte: undefined
+    - franku: undefined
+    - hoteti: undefined
+    - hoče: undefined
+    - imaš: undefined
+    - iz: undefined
+    - jaz: undefined
+    - je: undefined
+    - kava: undefined
+    - kave: undefined
+    - kozarec: undefined
+    - kupujejo: undefined
+    - leži: undefined
+    - ljubim: undefined
+    - mi: undefined
+    - mizi: undefined
+    - mleka: undefined
+    - mleko: undefined
+    - na: undefined
+    - najti: undefined
+    - ne: undefined
+    - ni: undefined
+    - nima: undefined
+    - nimam: undefined
+    - noče: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - pije: undefined
+    - pijemo: undefined
+    - piješ: undefined
+    - piti: undefined
+    - piva: undefined
+    - pivo: undefined
+    - poljske: undefined
+    - poskusiti: undefined
+    - poskuša: undefined
+    - pri: undefined
+    - prosim: undefined
+    - rad: undefined
+    - si: undefined
+    - skodelica: undefined
+    - skodelico: undefined
+    - sladkorja: undefined
+    - sok: undefined
+    - soka: undefined
+    - steklenic: undefined
+    - steklenica: undefined
+    - steklenice: undefined
+    - steklenico: undefined
+    - tebe: undefined
+    - ti: undefined
+    - to: undefined
+    - vina: undefined
+    - vino: undefined
+    - voda: undefined
+    - vode: undefined
+    - vodke: undefined
+    - za: undefined
+    - zame: undefined
+    - čaj: undefined
+    - čaja: undefined
+  English:
+    - a: undefined
+    - are: undefined
+    - at/by: undefined
+    - beer: undefined
+    - bottle: undefined
+    - bottles: undefined
+    - buying: undefined
+    - coffee: undefined
+    - do: undefined
+    - does: undefined
+    - drink: undefined
+    - drinking: undefined
+    - find: undefined
+    - for: undefined
+    - frank: undefined
+    - from: undefined
+    - give: undefined
+    - glass: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - i: undefined
+    - is: undefined
+    - juice: undefined
+    - like: undefined
+    - lying: undefined
+    - me: undefined
+    - milk: undefined
+    - no: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - please: undefined
+    - poland: undefined
+    - she: undefined
+    - sugar: undefined
+    - table: undefined
+    - tea: undefined
+    - the: undefined
+    - they: undefined
+    - this: undefined
+    - to: undefined
+    - try: undefined
+    - trying: undefined
+    - vodka: undefined
+    - want: undefined
+    - water: undefined
+    - we: undefined
+    - wine: undefined
+    - without: undefined
+    - you: undefined

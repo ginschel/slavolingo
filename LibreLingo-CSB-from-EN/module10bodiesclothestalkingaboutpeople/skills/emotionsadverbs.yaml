@@ -1,0 +1,235 @@
+Skill:
+  Name: Emotions (adverbs)
+  Id: 37
+
+New words:
+  - Word: rôdostni
+    Translation: joyful
+  - Word: żôłostni
+    Translation: sad
+  - Word: gniewni
+    Translation: angry
+  - Word: miłota
+    Translation: love
+  - Word: przestrażony
+    Translation: frightened
+  - Word: spòkój
+    Translation: peace
+  - Word: zawiésc
+    Translation: envy
+  - Word: sromòtni
+    Translation: ashamed
+  - Word: srom
+    Translation: shame
+  - Word: gòrdi
+    Translation: proud
+  - Word: wiesôłi
+    Translation: cheerful
+  - Word: trzemienié
+    Translation: tremor
+  - Word: czëc (czëje)
+    Translation: to feel
+  - Word: skrëwac
+    Translation: to hide
+  - Word: ùcekac
+    Translation: to run away
+
+Phrases:
+  - Phrase: Czëjã sã rôdostno dzysô.
+    Translation: We feel joyful this week.
+  - Phrase: Żôłostno on gôdôł.
+    Translation: He spoke sadly.
+  - Phrase: On gniewno jemu kôże robòtac.
+    Translation: He angrily tells him to work.
+  - Phrase: Miłota to sëlnô emòcëjô.
+    Translation: Love is a strong emotion.
+  - Phrase: Strach to nôtëralnô reakcëjô.
+    Translation: Fear is a natural reaction.
+  - Phrase: Spòkój je wôżni dlô dëszë.
+    Translation: Peace is important for the soul.
+  - Phrase: Zawiésc to czôrnô emòcëjô.
+    Translation: Envy is a dark emotion.
+  - Phrase: Sromòtno on czëje srom.
+    Translation: He feels ashamed.
+  - Phrase: Wiesôło jemu sã napełniło serce.
+    Translation: His heart was filled with joy.
+  - Phrase: Zawiéscno on òbzérô na jegò.
+    Translation: He is jealous of him.
+  - Phrase: Ja mëm żôłosc w sercu.
+    Translation: I have sadness in my heart.
+  - Phrase: Òna pòkôzëje jim swòją robòtã wiesôło.
+    Translation: She shows them her work joyfully.
+  - Phrase: On skriwô gòrdo swój gniew.
+    Translation: He hides his anger proudly.
+  - Phrase: Më czëjemë spòkój.
+    Translation: We feel peaceful.
+  - Phrase: Strach je w nama.
+    Translation: Fear is inside us.
+  - Phrase: Przestrażono on ùcekôł.
+    Translation: He was frightened and ran away.
+  - Phrase: Srom je wiele sëlni.
+    Translation: Shame is very strong.
+  - Phrase: Rôdostno szedł do dodomù.
+    Translation: He joyfully went home.
+  - Phrase: Rôdosc jidze z wnątrz.
+    Translation: Joy comes from within.
+  - Phrase: Czerpiec blós chceme czej miłujemë.
+    Translation: We only suffer when we love.
+
+Mini-dictionary:
+  Kashubian:
+    - blós: undefined
+    - chceme: undefined
+    - czej: undefined
+    - czerpiec: undefined
+    - czëc: undefined
+    - czëje: undefined
+    - czëjemë: undefined
+    - czëjã: undefined
+    - czôrnô: undefined
+    - dlô: undefined
+    - do: undefined
+    - dodomù: undefined
+    - dzysô: undefined
+    - dëszë: undefined
+    - emòcëjô: undefined
+    - gniew: undefined
+    - gniewni: undefined
+    - gniewno: undefined
+    - gòrdi: undefined
+    - gòrdo: undefined
+    - gôdôł: undefined
+    - ja: undefined
+    - je: undefined
+    - jegò: undefined
+    - jemu: undefined
+    - jidze: undefined
+    - jim: undefined
+    - kôże: undefined
+    - miłota: undefined
+    - miłujemë: undefined
+    - më: undefined
+    - mëm: undefined
+    - na: undefined
+    - nama: undefined
+    - napełniło: undefined
+    - nôtëralnô: undefined
+    - on: undefined
+    - przestrażono: undefined
+    - przestrażony: undefined
+    - pòkôzëje: undefined
+    - reakcëjô: undefined
+    - robòtac: undefined
+    - robòtã: undefined
+    - rôdosc: undefined
+    - rôdostni: undefined
+    - rôdostno: undefined
+    - serce: undefined
+    - sercu: undefined
+    - skriwô: undefined
+    - skrëwac: undefined
+    - spòkój: undefined
+    - srom: undefined
+    - sromòtni: undefined
+    - sromòtno: undefined
+    - strach: undefined
+    - swòją: undefined
+    - swój: undefined
+    - szedł: undefined
+    - sã: undefined
+    - sëlni: undefined
+    - sëlnô: undefined
+    - to: undefined
+    - trzemienié: undefined
+    - w: undefined
+    - wiele: undefined
+    - wiesôłi: undefined
+    - wiesôło: undefined
+    - wnątrz: undefined
+    - wôżni: undefined
+    - z: undefined
+    - zawiésc: undefined
+    - zawiéscno: undefined
+    - òbzérô: undefined
+    - òna: undefined
+    - ùcekac: undefined
+    - ùcekôł: undefined
+    - żôłosc: undefined
+    - żôłostni: undefined
+    - żôłostno: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - anger: undefined
+    - angrily: undefined
+    - angry: undefined
+    - ashamed: undefined
+    - away: undefined
+    - cheerful: undefined
+    - comes: undefined
+    - dark: undefined
+    - emotion: undefined
+    - envy: undefined
+    - fear: undefined
+    - feel: undefined
+    - feels: undefined
+    - filled: undefined
+    - for: undefined
+    - frightened: undefined
+    - from: undefined
+    - have: undefined
+    - he: undefined
+    - heart: undefined
+    - her: undefined
+    - hide: undefined
+    - hides: undefined
+    - him: undefined
+    - his: undefined
+    - home: undefined
+    - i: undefined
+    - important: undefined
+    - in: undefined
+    - inside: undefined
+    - is: undefined
+    - jealous: undefined
+    - joy: undefined
+    - joyful: undefined
+    - joyfully: undefined
+    - love: undefined
+    - my: undefined
+    - natural: undefined
+    - of: undefined
+    - only: undefined
+    - peace: undefined
+    - peaceful: undefined
+    - proud: undefined
+    - proudly: undefined
+    - ran: undefined
+    - reaction: undefined
+    - run: undefined
+    - sad: undefined
+    - sadly: undefined
+    - sadness: undefined
+    - shame: undefined
+    - she: undefined
+    - shows: undefined
+    - soul: undefined
+    - spoke: undefined
+    - strong: undefined
+    - suffer: undefined
+    - tells: undefined
+    - the: undefined
+    - them: undefined
+    - this: undefined
+    - to: undefined
+    - tremor: undefined
+    - us: undefined
+    - very: undefined
+    - was: undefined
+    - we: undefined
+    - week: undefined
+    - went: undefined
+    - when: undefined
+    - with: undefined
+    - within: undefined
+    - work: undefined

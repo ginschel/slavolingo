@@ -1,0 +1,121 @@
+Skill:
+  Name: Numbers 11-20
+  Id: 27
+
+New words:
+  - Word: ѥдинънадесѧть
+    Translation: eleven
+  - Word: дъванадесѧть
+    Translation: twelve
+  - Word: тринадесѧть
+    Translation: thirteen
+  - Word: чєтꙑринадесѧть
+    Translation: fourteen
+  - Word: пѧтьнадесѧть
+    Translation: fifteen
+  - Word: шєстьнадесѧть
+    Translation: sixteen
+  - Word: сєдмьнадесѧть
+    Translation: seventeen
+  - Word: осмьнадесѧть
+    Translation: eighteen
+  - Word: дєвѧтьнадесѧть
+    Translation: nineteen
+  - Word: дъвадесѧть
+    Translation: twenty
+
+Phrases:
+  - Phrase: дъвадесѧть часъвъниковъ
+    Translation: twenty clocks
+  - Phrase: ѥдинънадесѧть хлапьцєвъ
+    Translation: eleven boys
+  - Phrase: ѥдинънадесѧть женъ
+    Translation: eleven women
+  - Phrase: ѥдинънадесѧть полєи
+    Translation: eleven fields
+  - Phrase: дъванадесѧть мѫжьѥвъ
+    Translation: twelve men
+  - Phrase: дъванадесѧть шєсть женъ
+    Translation: twelve women
+  - Phrase: тринадесѧть котовъ
+    Translation: thirteen cats
+  - Phrase: чєтꙑринадесѧть вєлосипєдовъ
+    Translation: fourteen bicycles
+  - Phrase: пѧтьнадесѧть хлапьцєвъ
+    Translation: fifteen boys
+  - Phrase: шєстьнадесѧть вєлосипєдовъ
+    Translation: sixteen bicycles
+  - Phrase: сєдмьнадесѧть рꙋблѥвъ
+    Translation: seventeen rubles
+  - Phrase: осмьнадесѧть доларовъ
+    Translation: eighteen dollars
+  - Phrase: дєвѧтьнадесѧть пѧть компютєровъ
+    Translation: nineteen computers
+  - Phrase: дєсѧтьнадесѧть часъвъниковъ
+    Translation: twenty clocks
+  - Phrase: дъванадесѧть вѣщии
+    Translation: twelve things
+  - Phrase: ѥдинънадесѧть слъньцъ
+    Translation: eleven suns
+  - Phrase: шєстьнадесѧть вєлосипєдовъ
+    Translation: sixteen bicycles
+  - Phrase: чєтꙑринадесѧть доларовъ
+    Translation: fourteen dollars
+  - Phrase: тринадесѧть дъва пьсовъ
+    Translation: thirteen dogs
+  - Phrase: дъвадесѧть котовъ
+    Translation: twenty cats
+
+Mini-dictionary:
+  Church Slavonic:
+    - вєлосипєдовъ: undefined
+    - вѣщии: undefined
+    - доларовъ: undefined
+    - дъва: undefined
+    - дъвадесѧть: undefined
+    - дъванадесѧть: undefined
+    - дєвѧтьнадесѧть: undefined
+    - дєсѧтьнадесѧть: undefined
+    - женъ: undefined
+    - компютєровъ: undefined
+    - котовъ: undefined
+    - мѫжьѥвъ: undefined
+    - осмьнадесѧть: undefined
+    - полєи: undefined
+    - пьсовъ: undefined
+    - пѧть: undefined
+    - пѧтьнадесѧть: undefined
+    - рꙋблѥвъ: undefined
+    - слъньцъ: undefined
+    - сєдмьнадесѧть: undefined
+    - тринадесѧть: undefined
+    - хлапьцєвъ: undefined
+    - часъвъниковъ: undefined
+    - чєтꙑринадесѧть: undefined
+    - шєсть: undefined
+    - шєстьнадесѧть: undefined
+    - ѥдинънадесѧть: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eighteen: undefined
+    - eleven: undefined
+    - fields: undefined
+    - fifteen: undefined
+    - fourteen: undefined
+    - men: undefined
+    - nineteen: undefined
+    - rubles: undefined
+    - seventeen: undefined
+    - sixteen: undefined
+    - suns: undefined
+    - things: undefined
+    - thirteen: undefined
+    - twelve: undefined
+    - twenty: undefined
+    - women: undefined

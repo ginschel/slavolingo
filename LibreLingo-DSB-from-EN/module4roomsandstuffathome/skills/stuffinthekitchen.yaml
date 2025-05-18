@@ -1,0 +1,208 @@
+Skill:
+  Name: Stuff in the kitchen
+  Id: 13
+
+New words:
+  - Word: nož
+    Translation: knife
+  - Word: widły
+    Translation: fork
+  - Word: łžyca
+    Translation: spoon
+  - Word: śalarka
+    Translation: plate
+  - Word: cokel
+    Translation: cup
+  - Word: sol
+    Translation: salt
+  - Word: pjeźw
+    Translation: pepper
+  - Word: cukor
+    Translation: sugar
+  - Word: škórkowka
+    Translation: frying pan
+  - Word: gorěcy
+    Translation: hot
+  - Word: garšk
+    Translation: pot
+  - Word: kuchnja
+    Translation: kitchen
+  - Word: wariś
+    Translation: to cook
+  - Word: blinc
+    Translation: pancake
+  - Word: kulka
+    Translation: dumpling
+  - Word: miska
+    Translation: bowl
+
+Phrases:
+  - Phrase: Nož ležy na blidźe.
+    Translation: The knife is lying on the table.
+  - Phrase: Widły su slěborne.
+    Translation: The fork is silver.
+  - Phrase: Łžyca jo we soli.
+    Translation: The spoon is in the salt.
+  - Phrase: Śalarka jo pełna jědł.
+    Translation: The plate is full of food.
+  - Phrase: Cokel jo napołnjeny wódu.
+    Translation: The cup is filled with water.
+  - Phrase: Dam do caja cukor.
+    Translation: I will add sugar to the tea.
+  - Phrase: Wjele cukora jo we misce.
+    Translation: There is a lot of sugar in the bowl.
+  - Phrase: Na škórkowce se wari mój blinc.
+    Translation: My pancake is cooking on the frying pan.
+  - Phrase: Garšk jo gorěcy.
+    Translation: The pot is hot
+  - Phrase: Garšk jo na wógnju.
+    Translation: The pot is on the flame.
+  - Phrase: Kuchnja jo cyšća.
+    Translation: The kitchen is clean.
+  - Phrase: Wón jě z widłami.
+    Translation: He eats with a fork.
+  - Phrase: Wóna pijo z cokela.
+    Translation: She drinks from a cup.
+  - Phrase: My warimy we garšku.
+    Translation: We cook in a pot.
+  - Phrase: Na škórkowce jo měso.
+    Translation: There is meat in the frying pan.
+  - Phrase: Nož jo wóstšy.
+    Translation: The knife is sharp.
+  - Phrase: Widły a nože su na blidźe.
+    Translation: Forks and knives are on the table.
+  - Phrase: Łžyca jo pełna pjeźwa.
+    Translation: The spoon is full of pepper.
+  - Phrase: Śalarka ležy na podłojze.
+    Translation: The plate is lying on the floor.
+  - Phrase: Konzerwa jo prozna.
+    Translation: The can is empty.
+  - Phrase: Kuchnja ma dobry wóń wjacorim.
+    Translation: The kitchen has a good smell in the evening.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: undefined
+    - blidźe: undefined
+    - blinc: undefined
+    - caja: undefined
+    - cokel: undefined
+    - cokela: undefined
+    - cukor: undefined
+    - cukora: undefined
+    - cyšća: undefined
+    - dam: undefined
+    - do: undefined
+    - dobry: undefined
+    - garšk: undefined
+    - garšku: undefined
+    - gorěcy: undefined
+    - jo: undefined
+    - jě: undefined
+    - jědł: undefined
+    - konzerwa: undefined
+    - kuchnja: undefined
+    - kulka: undefined
+    - ležy: undefined
+    - ma: undefined
+    - misce: undefined
+    - miska: undefined
+    - my: undefined
+    - mój: undefined
+    - měso: undefined
+    - na: undefined
+    - napołnjeny: undefined
+    - nož: undefined
+    - nože: undefined
+    - pełna: undefined
+    - pijo: undefined
+    - pjeźw: undefined
+    - pjeźwa: undefined
+    - podłojze: undefined
+    - prozna: undefined
+    - se: undefined
+    - slěborne: undefined
+    - sol: undefined
+    - soli: undefined
+    - su: undefined
+    - wari: undefined
+    - warimy: undefined
+    - wariś: undefined
+    - we: undefined
+    - widłami: undefined
+    - widły: undefined
+    - wjacorim: undefined
+    - wjele: undefined
+    - wódu: undefined
+    - wógnju: undefined
+    - wón: undefined
+    - wóna: undefined
+    - wóstšy: undefined
+    - wóń: undefined
+    - z: undefined
+    - łžyca: undefined
+    - śalarka: undefined
+    - škórkowce: undefined
+    - škórkowka: undefined
+  English:
+    - a: undefined
+    - add: undefined
+    - and: undefined
+    - are: undefined
+    - bowl: undefined
+    - can: undefined
+    - clean: undefined
+    - cook: undefined
+    - cooking: undefined
+    - cup: undefined
+    - drinks: undefined
+    - dumpling: undefined
+    - eats: undefined
+    - empty: undefined
+    - evening: undefined
+    - filled: undefined
+    - flame: undefined
+    - floor: undefined
+    - food: undefined
+    - fork: undefined
+    - forks: undefined
+    - from: undefined
+    - frying: undefined
+    - full: undefined
+    - good: undefined
+    - has: undefined
+    - he: undefined
+    - hot: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - kitchen: undefined
+    - knife: undefined
+    - knives: undefined
+    - lot: undefined
+    - lying: undefined
+    - meat: undefined
+    - my: undefined
+    - of: undefined
+    - on: undefined
+    - pan: undefined
+    - pancake: undefined
+    - pepper: undefined
+    - plate: undefined
+    - pot: undefined
+    - salt: undefined
+    - sharp: undefined
+    - she: undefined
+    - silver: undefined
+    - smell: undefined
+    - spoon: undefined
+    - sugar: undefined
+    - table: undefined
+    - tea: undefined
+    - the: undefined
+    - there: undefined
+    - to: undefined
+    - water: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined

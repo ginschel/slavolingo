@@ -1,0 +1,129 @@
+Skill:
+  Name: Numbers 10-100
+  Id: 28
+
+New words:
+  - Word: дєсѧть
+    Translation: ten
+  - Word: дъвадесѧть
+    Translation: twenty
+  - Word: тридесѧть
+    Translation: thirty
+  - Word: чєтꙑридесѧть
+    Translation: forty
+  - Word: пѧтьдесѧть
+    Translation: fifty
+  - Word: шєстьдесѧть
+    Translation: sixty
+  - Word: сєдмьдесѧть
+    Translation: seventy
+  - Word: осмьдесѧть
+    Translation: eighty
+  - Word: дєвѧтьдесѧть
+    Translation: ninety
+  - Word: съто
+    Translation: one hundred
+
+Phrases:
+  - Phrase: съто часъвъниковъ
+    Translation: one hundred clocks
+  - Phrase: дєсѧть хлапьцєвъ
+    Translation: ten boys
+  - Phrase: дъвадесѧть женъ
+    Translation: twenty women
+  - Phrase: тридесѧть полєи
+    Translation: thirty fields
+  - Phrase: чєтꙑридесѧть мѫжьѥвъ
+    Translation: forty men
+  - Phrase: пѧтьдесѧть женъ
+    Translation: fifty women
+  - Phrase: шєстьдесѧть котовъ
+    Translation: sixty cats
+  - Phrase: съто ѥдинъ вєлосипєдовъ
+    Translation: one hundred one bicycles
+  - Phrase: осмьдесѧть хлапьцєвъ
+    Translation: eighty boys
+  - Phrase: дєвѧтьдесѧть вєлосипєдовъ
+    Translation: ninety bicycles
+  - Phrase: сєдмьдесѧть осмь рꙋблѥвъ
+    Translation: seventy eight rubles
+  - Phrase: осмьдесѧть сєдмь доларовъ
+    Translation: eighty seven dollars
+  - Phrase: дєвѧтьдесѧть три компютєровъ
+    Translation: ninety three computers
+  - Phrase: пѧтьдесѧть ѥдинъ часъвъниковъ
+    Translation: fifty one clocks
+  - Phrase: дъвадесѧть чєтꙑри вѣщии
+    Translation: twenty four things
+  - Phrase: съто дъва слъньцъ
+    Translation: one hundred two suns
+  - Phrase: шєстьдесѧть вєлосипєдовъ
+    Translation: sixty bicycles
+  - Phrase: чєтꙑридесѧть доларовъ
+    Translation: forty dollars
+  - Phrase: тридесѧть пьсовъ
+    Translation: thirty dogs
+  - Phrase: дъвадесѧть котовъ
+    Translation: twenty cats
+
+Mini-dictionary:
+  Church Slavonic:
+    - вєлосипєдовъ: undefined
+    - вѣщии: undefined
+    - доларовъ: undefined
+    - дъва: undefined
+    - дъвадесѧть: undefined
+    - дєвѧтьдесѧть: undefined
+    - дєсѧть: undefined
+    - женъ: undefined
+    - компютєровъ: undefined
+    - котовъ: undefined
+    - мѫжьѥвъ: undefined
+    - осмь: undefined
+    - осмьдесѧть: undefined
+    - полєи: undefined
+    - пьсовъ: undefined
+    - пѧтьдесѧть: undefined
+    - рꙋблѥвъ: undefined
+    - слъньцъ: undefined
+    - съто: undefined
+    - сєдмь: undefined
+    - сєдмьдесѧть: undefined
+    - три: undefined
+    - тридесѧть: undefined
+    - хлапьцєвъ: undefined
+    - часъвъниковъ: undefined
+    - чєтꙑри: undefined
+    - чєтꙑридесѧть: undefined
+    - шєстьдесѧть: undefined
+    - ѥдинъ: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - eighty: undefined
+    - fields: undefined
+    - fifty: undefined
+    - forty: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - ninety: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - seventy: undefined
+    - sixty: undefined
+    - suns: undefined
+    - ten: undefined
+    - things: undefined
+    - thirty: undefined
+    - three: undefined
+    - twenty: undefined
+    - two: undefined
+    - women: undefined

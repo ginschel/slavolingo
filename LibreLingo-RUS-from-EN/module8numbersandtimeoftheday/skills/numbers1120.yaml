@@ -1,0 +1,121 @@
+Skill:
+  Name: Numbers 11-20
+  Id: 27
+
+New words:
+  - Word: одиннадцать
+    Translation: eleven
+  - Word: двенадцать
+    Translation: twelve
+  - Word: тринадцать
+    Translation: thirteen
+  - Word: четырнадцать
+    Translation: fourteen
+  - Word: пятнадцать
+    Translation: fifteen
+  - Word: шестнадцать
+    Translation: sixteen
+  - Word: семнадцать
+    Translation: seventeen
+  - Word: восемнадцать
+    Translation: eighteen
+  - Word: девятнадцать
+    Translation: nineteen
+  - Word: двадцать
+    Translation: twenty
+
+Phrases:
+  - Phrase: двадцать наручных часов
+    Translation: twenty clocks
+  - Phrase: одиннадцать парней
+    Translation: eleven boys
+  - Phrase: одиннадцать женщин
+    Translation: eleven women
+  - Phrase: одиннадцать полей
+    Translation: eleven fields
+  - Phrase: двенадцать мужчин
+    Translation: twelve men
+  - Phrase: двенадцать шесть женщин
+    Translation: twelve women
+  - Phrase: тринадцать котов
+    Translation: thirteen cats
+  - Phrase: четырнадцать велосипедов
+    Translation: fourteen bicycles
+  - Phrase: пятнадцать парней
+    Translation: fifteen boys
+  - Phrase: шестнадцать велосипедов
+    Translation: sixteen bicycles
+  - Phrase: семнадцать рублей
+    Translation: seventeen rubles
+  - Phrase: восемнадцать долларов
+    Translation: eighteen dollars
+  - Phrase: девятнадцать пять компьютеров
+    Translation: nineteen computers
+  - Phrase: шестнадцать наручных часов
+    Translation: twenty clocks
+  - Phrase: двенадцать вещей
+    Translation: twelve things
+  - Phrase: одиннадцать солнц
+    Translation: eleven suns
+  - Phrase: шестнадцать велосипедов
+    Translation: sixteen bicycles
+  - Phrase: четырнадцать долларов
+    Translation: fourteen dollars
+  - Phrase: тринадцать два пса
+    Translation: thirteen dogs
+  - Phrase: двадцать котов
+    Translation: twenty cats
+
+Mini-dictionary:
+  Russian:
+    - велосипедов: undefined
+    - вещей: undefined
+    - восемнадцать: undefined
+    - два: undefined
+    - двадцать: undefined
+    - двенадцать: undefined
+    - девятнадцать: undefined
+    - долларов: undefined
+    - женщин: undefined
+    - компьютеров: undefined
+    - котов: undefined
+    - мужчин: undefined
+    - наручных: undefined
+    - одиннадцать: undefined
+    - парней: undefined
+    - полей: undefined
+    - пса: undefined
+    - пятнадцать: undefined
+    - пять: undefined
+    - рублей: undefined
+    - семнадцать: undefined
+    - солнц: undefined
+    - тринадцать: undefined
+    - часов: undefined
+    - четырнадцать: undefined
+    - шестнадцать: undefined
+    - шесть: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eighteen: undefined
+    - eleven: undefined
+    - fields: undefined
+    - fifteen: undefined
+    - fourteen: undefined
+    - men: undefined
+    - nineteen: undefined
+    - rubles: undefined
+    - seventeen: undefined
+    - sixteen: undefined
+    - suns: undefined
+    - things: undefined
+    - thirteen: undefined
+    - twelve: undefined
+    - twenty: undefined
+    - women: undefined

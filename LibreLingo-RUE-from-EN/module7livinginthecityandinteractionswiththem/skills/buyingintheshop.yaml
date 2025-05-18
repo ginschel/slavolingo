@@ -1,0 +1,183 @@
+Skill:
+  Name: Buying in the Shop
+  Id: 24
+
+New words:
+  - Word: купити
+    Translation: to buy
+  - Word: продавати
+    Translation: to sell
+  - Word: цїна
+    Translation: price
+  - Word: одїня
+    Translation: clothes
+  - Word: торба
+    Translation: bag
+  - Word: кіс
+    Translation: piece
+  - Word: купець
+    Translation: customer
+  - Word: наверненя
+    Translation: return
+  - Word: чек
+    Translation: receipt
+  - Word: просити
+    Translation: to ask
+  - Word: свіжый
+    Translation: fresh
+
+Phrases:
+  - Phrase: Хочу купити хлїб.
+    Translation: I want to buy bread.
+  - Phrase: Он продає мясо.
+    Translation: He sells meat.
+  - Phrase: Цїна є высока.
+    Translation: The price is high.
+  - Phrase: Одїня є новое.
+    Translation: The clothes are new.
+  - Phrase: Продавець є умореный сьогодні.
+    Translation: The seller is tired today.
+  - Phrase: Торба є тяжка.
+    Translation: The bag is heavy.
+  - Phrase: Кіс сыра є добрый.
+    Translation: A piece of cheese is good.
+  - Phrase: Купець просить за знижку.
+    Translation: The customer asks for a discount.
+  - Phrase: Наверненя не є. Тото злый магазін.
+    Translation: No returns. This is a bad shop.
+  - Phrase: Дам чек продавцьови.
+    Translation: I give the receipt to the seller.
+  - Phrase: Она купує кнїгу.
+    Translation: She is buying a book.
+  - Phrase: Он продає молоко.
+    Translation: He sells milk.
+  - Phrase: Цїна масла є добра.
+    Translation: The price of butter is good.
+  - Phrase: Колбаса є свіжа.
+    Translation: The sausage is fresh.
+  - Phrase: Продавець дасть кіс колбасы.
+    Translation: The seller gives a piece of sausage.
+  - Phrase: Торба стоїть на підлозі.
+    Translation: The bag is on the floor.
+  - Phrase: Кіс хлїба є малый.
+    Translation: The piece of bread is small.
+  - Phrase: Купець просить о цїну.
+    Translation: The customer asks about the price.
+  - Phrase: Наверненя є до седем днїв.
+    Translation: Return is within seven days.
+  - Phrase: Чек є підписаный.
+    Translation: The receipt is signed.
+
+Mini-dictionary:
+  Rusin:
+    - высока: undefined
+    - дам: undefined
+    - дасть: undefined
+    - днїв: undefined
+    - до: undefined
+    - добра: undefined
+    - добрый: undefined
+    - за: undefined
+    - злый: undefined
+    - знижку: undefined
+    - кнїгу: undefined
+    - колбаса: undefined
+    - колбасы: undefined
+    - купець: undefined
+    - купити: undefined
+    - купує: undefined
+    - кіс: undefined
+    - магазін: undefined
+    - малый: undefined
+    - масла: undefined
+    - молоко: undefined
+    - мясо: undefined
+    - на: undefined
+    - наверненя: undefined
+    - не: undefined
+    - новое: undefined
+    - о: undefined
+    - одїня: undefined
+    - он: undefined
+    - она: undefined
+    - продавати: undefined
+    - продавець: undefined
+    - продавцьови: undefined
+    - продає: undefined
+    - просити: undefined
+    - просить: undefined
+    - підлозі: undefined
+    - підписаный: undefined
+    - свіжа: undefined
+    - свіжый: undefined
+    - седем: undefined
+    - стоїть: undefined
+    - сыра: undefined
+    - сьогодні: undefined
+    - торба: undefined
+    - тото: undefined
+    - тяжка: undefined
+    - умореный: undefined
+    - хлїб: undefined
+    - хлїба: undefined
+    - хочу: undefined
+    - цїна: undefined
+    - цїну: undefined
+    - чек: undefined
+    - є: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - are: undefined
+    - ask: undefined
+    - asks: undefined
+    - bad: undefined
+    - bag: undefined
+    - book: undefined
+    - bread: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - cheese: undefined
+    - clothes: undefined
+    - customer: undefined
+    - days: undefined
+    - discount: undefined
+    - floor: undefined
+    - for: undefined
+    - fresh: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - i: undefined
+    - is: undefined
+    - meat: undefined
+    - milk: undefined
+    - new: undefined
+    - no: undefined
+    - of: undefined
+    - on: undefined
+    - piece: undefined
+    - price: undefined
+    - receipt: undefined
+    - return: undefined
+    - returns: undefined
+    - sausage: undefined
+    - sell: undefined
+    - seller: undefined
+    - sells: undefined
+    - seven: undefined
+    - she: undefined
+    - shop: undefined
+    - signed: undefined
+    - small: undefined
+    - the: undefined
+    - this: undefined
+    - tired: undefined
+    - to: undefined
+    - today: undefined
+    - want: undefined
+    - within: undefined

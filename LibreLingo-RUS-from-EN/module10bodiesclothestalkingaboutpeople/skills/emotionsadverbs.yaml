@@ -1,0 +1,233 @@
+Skill:
+  Name: Emotions (adverbs)
+  Id: 37
+
+New words:
+  - Word: радостный
+    Translation: joyful
+  - Word: печальный
+    Translation: sad
+  - Word: гневный
+    Translation: angry
+  - Word: любовь
+    Translation: love
+  - Word: испуганный
+    Translation: frightened
+  - Word: покой
+    Translation: peace
+  - Word: зависть
+    Translation: envy
+  - Word: стыдливый
+    Translation: ashamed
+  - Word: стыд
+    Translation: shame
+  - Word: гордый
+    Translation: proud
+  - Word: весёлый
+    Translation: cheerful
+  - Word: трепет
+    Translation: tremor
+  - Word: чувствовать (чувствует)
+    Translation: to feel
+  - Word: скрывать
+    Translation: to hide
+  - Word: убегать
+    Translation: to run away
+
+Phrases:
+  - Phrase: Чувствую себя радостно сегодня.
+    Translation: We feel joyful this week.
+  - Phrase: Печально он говорил.
+    Translation: He spoke sadly.
+  - Phrase: Он гневно ему кажет работать.
+    Translation: He angrily tells him to work.
+  - Phrase: Любовь то сильная эмоция.
+    Translation: Love is a strong emotion.
+  - Phrase: Страх то натуральная реакция.
+    Translation: Fear is a natural reaction.
+  - Phrase: Покой есть важный для души.
+    Translation: Peace is important for the soul.
+  - Phrase: Зависть то чёрная эмоция.
+    Translation: Envy is a dark emotion.
+  - Phrase: Стыдливо он чувствует стыд.
+    Translation: He feels ashamed.
+  - Phrase: Весело ему наполнилось сердце.
+    Translation: His heart was filled with joy.
+  - Phrase: Завистливо он смотрит на него.
+    Translation: He is jealous of him.
+  - Phrase: Я имею печаль в сердце.
+    Translation: I have sadness in my heart.
+  - Phrase: Она показывает им свою работу весело.
+    Translation: She shows them her work joyfully.
+  - Phrase: Он скрывает гордо свой гнев.
+    Translation: He hides his anger proudly.
+  - Phrase: Мы чувствуем покой.
+    Translation: We feel peaceful.
+  - Phrase: Страх есть в нас.
+    Translation: Fear is inside us.
+  - Phrase: Испуганно он убегал.
+    Translation: He was frightened and ran away.
+  - Phrase: Стыд есть много сильный.
+    Translation: Shame is very strong.
+  - Phrase: Радостно шёл до дома.
+    Translation: He joyfully went home.
+  - Phrase: Радость идёт изнутри.
+    Translation: Joy comes from within.
+  - Phrase: Страдать только хотим когда любим.
+    Translation: We only suffer when we love.
+
+Mini-dictionary:
+  Russian:
+    - в: undefined
+    - важный: undefined
+    - весело: undefined
+    - весёлый: undefined
+    - гнев: undefined
+    - гневно: undefined
+    - гневный: undefined
+    - говорил: undefined
+    - гордо: undefined
+    - гордый: undefined
+    - для: undefined
+    - до: undefined
+    - дома: undefined
+    - души: undefined
+    - ему: undefined
+    - есть: undefined
+    - завистливо: undefined
+    - зависть: undefined
+    - идёт: undefined
+    - изнутри: undefined
+    - им: undefined
+    - имею: undefined
+    - испуганно: undefined
+    - испуганный: undefined
+    - кажет: undefined
+    - когда: undefined
+    - любим: undefined
+    - любовь: undefined
+    - много: undefined
+    - мы: undefined
+    - на: undefined
+    - наполнилось: undefined
+    - нас: undefined
+    - натуральная: undefined
+    - него: undefined
+    - он: undefined
+    - она: undefined
+    - печаль: undefined
+    - печально: undefined
+    - печальный: undefined
+    - показывает: undefined
+    - покой: undefined
+    - работать: undefined
+    - работу: undefined
+    - радостно: undefined
+    - радостный: undefined
+    - радость: undefined
+    - реакция: undefined
+    - свой: undefined
+    - свою: undefined
+    - себя: undefined
+    - сегодня: undefined
+    - сердце: undefined
+    - сильная: undefined
+    - сильный: undefined
+    - скрывает: undefined
+    - скрывать: undefined
+    - смотрит: undefined
+    - страдать: undefined
+    - страх: undefined
+    - стыд: undefined
+    - стыдливо: undefined
+    - стыдливый: undefined
+    - то: undefined
+    - только: undefined
+    - трепет: undefined
+    - убегал: undefined
+    - убегать: undefined
+    - хотим: undefined
+    - чувствовать: undefined
+    - чувствуем: undefined
+    - чувствует: undefined
+    - чувствую: undefined
+    - чёрная: undefined
+    - шёл: undefined
+    - эмоция: undefined
+    - я: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - anger: undefined
+    - angrily: undefined
+    - angry: undefined
+    - ashamed: undefined
+    - away: undefined
+    - cheerful: undefined
+    - comes: undefined
+    - dark: undefined
+    - emotion: undefined
+    - envy: undefined
+    - fear: undefined
+    - feel: undefined
+    - feels: undefined
+    - filled: undefined
+    - for: undefined
+    - frightened: undefined
+    - from: undefined
+    - have: undefined
+    - he: undefined
+    - heart: undefined
+    - her: undefined
+    - hide: undefined
+    - hides: undefined
+    - him: undefined
+    - his: undefined
+    - home: undefined
+    - i: undefined
+    - important: undefined
+    - in: undefined
+    - inside: undefined
+    - is: undefined
+    - jealous: undefined
+    - joy: undefined
+    - joyful: undefined
+    - joyfully: undefined
+    - love: undefined
+    - my: undefined
+    - natural: undefined
+    - of: undefined
+    - only: undefined
+    - peace: undefined
+    - peaceful: undefined
+    - proud: undefined
+    - proudly: undefined
+    - ran: undefined
+    - reaction: undefined
+    - run: undefined
+    - sad: undefined
+    - sadly: undefined
+    - sadness: undefined
+    - shame: undefined
+    - she: undefined
+    - shows: undefined
+    - soul: undefined
+    - spoke: undefined
+    - strong: undefined
+    - suffer: undefined
+    - tells: undefined
+    - the: undefined
+    - them: undefined
+    - this: undefined
+    - to: undefined
+    - tremor: undefined
+    - us: undefined
+    - very: undefined
+    - was: undefined
+    - we: undefined
+    - week: undefined
+    - went: undefined
+    - when: undefined
+    - with: undefined
+    - within: undefined
+    - work: undefined

@@ -1,0 +1,189 @@
+Skill:
+  Name: Transport/Vehicles/Car
+  Id: 23
+
+New words:
+  - Word: аўта
+    Translation: car
+  - Word: аўтобус
+    Translation: bus
+  - Word: цягнік
+    Translation: train
+  - Word: кола/ровар
+    Translation: bicycle
+  - Word: вакзал
+    Translation: station
+  - Word: шафёр
+    Translation: driver
+  - Word: дарога
+    Translation: road
+  - Word: мост
+    Translation: bridge
+  - Word: хуткасць
+    Translation: speed
+  - Word: святлафор
+    Translation: traffic light
+  - Word: ехаць (едзе)
+    Translation: to go/drive
+  - Word: сесці (сядае)
+    Translation: to sit
+  - Word: звязаць (звязвае)
+    Translation: to connect/tie
+  - Word: разбіты/зламаны
+    Translation: broken
+  - Word: асцярожны
+    Translation: careful
+
+Phrases:
+  - Phrase: Аўта стаіць на вуліцы.
+    Translation: The car is standing on the street.
+  - Phrase: Аўтобус едзе да цэнтра.
+    Translation: The bus goes to the center.
+  - Phrase: Цягнік едзе на вакзал.
+    Translation: The train goes to the station.
+  - Phrase: Тут ёсць сядзенне. Можна сесці.
+    Translation: Here is a seat. One can sit.
+  - Phrase: Вакзал ёсць вялікі.
+    Translation: The station is big.
+  - Phrase: Шафёр едзе хутка.
+    Translation: The driver drives fast.
+  - Phrase: Дарога ідзе праз лес.
+    Translation: The road goes through the forest.
+  - Phrase: Мост звязвае два гарады.
+    Translation: The bridge connects two cities.
+  - Phrase: Хуткасць ёсць важная для бяспекі на вуліцы.
+    Translation: A speed limit is important for the security on the street.
+  - Phrase: Святлафор паказвае чырвонае.
+    Translation: The traffic light shows red.
+  - Phrase: Аўта ёсць новае і прыгожае.
+    Translation: The car is new and beautiful.
+  - Phrase: Аўтобус вязе шмат людзей.
+    Translation: The bus carries many people.
+  - Phrase: Цягнік едзе на поўнач.
+    Translation: The train goes to the north.
+  - Phrase: Кола ёсць разбітае.
+    Translation: The bicycle is broken.
+  - Phrase: Вакзал ёсць адкрыты.
+    Translation: The station is open.
+  - Phrase: Шафёр ёсць асцярожны.
+    Translation: The driver is careful.
+  - Phrase: Дарога ёсць шырокая.
+    Translation: The road is wide.
+  - Phrase: Мост ёсць высокі.
+    Translation: The bridge is high.
+  - Phrase: Хуткасць ёсць абмежаваная.
+    Translation: The speed is limited.
+  - Phrase: Святлафор паказвае зялёнае.
+    Translation: The traffic light shows green.
+
+Mini-dictionary:
+  Belarusian:
+    - абмежаваная: undefined
+    - адкрыты: undefined
+    - асцярожны: undefined
+    - аўта: undefined
+    - аўтобус: undefined
+    - бяспекі: undefined
+    - важная: undefined
+    - вакзал: undefined
+    - вуліцы: undefined
+    - высокі: undefined
+    - вязе: undefined
+    - вялікі: undefined
+    - гарады: undefined
+    - да: undefined
+    - дарога: undefined
+    - два: undefined
+    - для: undefined
+    - едзе: undefined
+    - ехаць: undefined
+    - звязаць: undefined
+    - звязвае: undefined
+    - зялёнае: undefined
+    - кола: undefined
+    - кола/ровар: undefined
+    - лес: undefined
+    - людзей: undefined
+    - можна: undefined
+    - мост: undefined
+    - на: undefined
+    - новае: undefined
+    - паказвае: undefined
+    - поўнач: undefined
+    - праз: undefined
+    - прыгожае: undefined
+    - разбітае: undefined
+    - разбіты/зламаны: undefined
+    - святлафор: undefined
+    - сесці: undefined
+    - стаіць: undefined
+    - сядае: undefined
+    - сядзенне: undefined
+    - тут: undefined
+    - хутка: undefined
+    - хуткасць: undefined
+    - цэнтра: undefined
+    - цягнік: undefined
+    - чырвонае: undefined
+    - шафёр: undefined
+    - шмат: undefined
+    - шырокая: undefined
+    - ёсць: undefined
+    - і: undefined
+    - ідзе: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - beautiful: undefined
+    - bicycle: undefined
+    - big: undefined
+    - bridge: undefined
+    - broken: undefined
+    - bus: undefined
+    - can: undefined
+    - car: undefined
+    - careful: undefined
+    - carries: undefined
+    - center: undefined
+    - cities: undefined
+    - connect/tie: undefined
+    - connects: undefined
+    - driver: undefined
+    - drives: undefined
+    - fast: undefined
+    - for: undefined
+    - forest: undefined
+    - go/drive: undefined
+    - goes: undefined
+    - green: undefined
+    - here: undefined
+    - high: undefined
+    - important: undefined
+    - is: undefined
+    - light: undefined
+    - limit: undefined
+    - limited: undefined
+    - many: undefined
+    - new: undefined
+    - north: undefined
+    - on: undefined
+    - one: undefined
+    - open: undefined
+    - people: undefined
+    - red: undefined
+    - road: undefined
+    - seat: undefined
+    - security: undefined
+    - shows: undefined
+    - sit: undefined
+    - speed: undefined
+    - standing: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - through: undefined
+    - to: undefined
+    - traffic: undefined
+    - train: undefined
+    - two: undefined
+    - wide: undefined

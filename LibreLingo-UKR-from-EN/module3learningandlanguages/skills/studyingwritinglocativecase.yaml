@@ -1,0 +1,191 @@
+Skill:
+  Name: Studying & Writing (Locative case)
+  Id: 9
+
+New words:
+  - Word: школа
+    Translation: school
+  - Word: вчителька
+    Translation: female teacher
+  - Word: вчитель
+    Translation: male teacher
+  - Word: запис
+    Translation: note
+  - Word: учень
+    Translation: student
+  - Word: книжка
+    Translation: book
+  - Word: завдання
+    Translation: assignment
+  - Word: стіл
+    Translation: table
+  - Word: туш
+    Translation: ink
+  - Word: папір
+    Translation: paper
+  - Word: предмет
+    Translation: subject
+  - Word: метод
+    Translation: method
+  - Word: перо
+    Translation: pen
+  - Word: записник/зошит
+    Translation: notebook
+  - Word: на
+    Translation: on
+
+Phrases:
+  - Phrase: Це моя школа.
+    Translation: This is my school.
+  - Phrase: Вона є вчителькою.
+    Translation: She is a teacher.
+  - Phrase: Він є учнем.
+    Translation: He is a student.
+  - Phrase: Книжка є на столі.
+    Translation: The book is on the table.
+  - Phrase: Я маю завдання.
+    Translation: I have an assignment.
+  - Phrase: Туш є ще мокрий.
+    Translation: The ink is still wet.
+  - Phrase: Папір є білий.
+    Translation: The paper is white.
+  - Phrase: Той предмет то математика.
+    Translation: This subject is mathematics.
+  - Phrase: Та метод є добра.
+    Translation: This method is good.
+  - Phrase: Учень має книжку.
+    Translation: The student has a book.
+  - Phrase: Це є мій стіл.
+    Translation: This is my desk.
+  - Phrase: Мій записник є повний записів з пером
+    Translation: My notebook is full of notes with a pen
+  - Phrase: Пишу на папері пером.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Школа є в центрі.
+    Translation: The school is in the center.
+  - Phrase: Ми пишемо завдання.
+    Translation: We are writing the assignment.
+  - Phrase: Вчитель говорить зі студентами.
+    Translation: The teacher is talking with students.
+  - Phrase: Вона має багато завдань.
+    Translation: She has many assignments.
+  - Phrase: Я швидко пишу цим пером.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Предмет є складний.
+    Translation: The subject is complex.
+  - Phrase: Книжка є нова.
+    Translation: The book is new.
+  - Phrase: Він є моїм вчителем.
+    Translation: He is my teacher.
+
+Mini-dictionary:
+  Ukrainian:
+    - багато: undefined
+    - білий: undefined
+    - в: undefined
+    - вона: undefined
+    - вчителем: undefined
+    - вчитель: undefined
+    - вчителька: undefined
+    - вчителькою: undefined
+    - він: undefined
+    - говорить: undefined
+    - добра: undefined
+    - з: undefined
+    - завдання: undefined
+    - завдань: undefined
+    - запис: undefined
+    - записник: undefined
+    - записник/зошит: undefined
+    - записів: undefined
+    - зі: undefined
+    - книжка: undefined
+    - книжку: undefined
+    - математика: undefined
+    - маю: undefined
+    - має: undefined
+    - метод: undefined
+    - ми: undefined
+    - мокрий: undefined
+    - моя: undefined
+    - моїм: undefined
+    - мій: undefined
+    - на: undefined
+    - нова: undefined
+    - папері: undefined
+    - папір: undefined
+    - перо: undefined
+    - пером: undefined
+    - пишемо: undefined
+    - пишу: undefined
+    - повний: undefined
+    - предмет: undefined
+    - складний: undefined
+    - столі: undefined
+    - студентами: undefined
+    - стіл: undefined
+    - та: undefined
+    - то: undefined
+    - той: undefined
+    - туш: undefined
+    - учень: undefined
+    - учнем: undefined
+    - це: undefined
+    - центрі: undefined
+    - цим: undefined
+    - швидко: undefined
+    - школа: undefined
+    - ще: undefined
+    - я: undefined
+    - є: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - an: undefined
+    - are: undefined
+    - assignment: undefined
+    - assignments: undefined
+    - book: undefined
+    - center: undefined
+    - complex: undefined
+    - desk: undefined
+    - female: undefined
+    - full: undefined
+    - good: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - i: undefined
+    - in: undefined
+    - ink: undefined
+    - is: undefined
+    - male: undefined
+    - many: undefined
+    - mathematics: undefined
+    - method: undefined
+    - my: undefined
+    - new: undefined
+    - note: undefined
+    - notebook: undefined
+    - notes: undefined
+    - of: undefined
+    - on: undefined
+    - paper: undefined
+    - pen: undefined
+    - quickly: undefined
+    - school: undefined
+    - she: undefined
+    - still: undefined
+    - student: undefined
+    - students: undefined
+    - subject: undefined
+    - table: undefined
+    - talking: undefined
+    - teacher: undefined
+    - the: undefined
+    - this: undefined
+    - we: undefined
+    - wet: undefined
+    - white: undefined
+    - with: undefined
+    - writing: undefined

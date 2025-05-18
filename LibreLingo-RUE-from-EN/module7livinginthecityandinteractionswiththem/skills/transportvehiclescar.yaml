@@ -1,0 +1,190 @@
+Skill:
+  Name: Transport/Vehicles/Car
+  Id: 23
+
+New words:
+  - Word: авто
+    Translation: car
+  - Word: автобус
+    Translation: bus
+  - Word: поїзд
+    Translation: train
+  - Word: колесо
+    Translation: bicycle
+  - Word: станція
+    Translation: station
+  - Word: шофер
+    Translation: driver
+  - Word: дорога
+    Translation: road
+  - Word: мост
+    Translation: bridge
+  - Word: баржіна
+    Translation: speed
+  - Word: світлофор
+    Translation: traffic light
+  - Word: їхати (їде)
+    Translation: to go/drive
+  - Word: сїсти (сїде)
+    Translation: to sit
+  - Word: связати (свяже)
+    Translation: to connect/tie
+  - Word: розбитый
+    Translation: broken
+  - Word: осторожный
+    Translation: careful
+
+Phrases:
+  - Phrase: Авто стоїть на вулиці.
+    Translation: The car is standing on the street.
+  - Phrase: Автобус їде до центра.
+    Translation: The bus goes to the center.
+  - Phrase: Поїзд їде на станцію.
+    Translation: The train goes to the station.
+  - Phrase: Ту є сїдїня. Можна сїсти
+    Translation: Here is a seat. One can sit.
+  - Phrase: Станція є велика.
+    Translation: The station is big.
+  - Phrase: Шофер їде барже.
+    Translation: The driver drives fast.
+  - Phrase: Дорога іде через лїс.
+    Translation: The road goes through the forest.
+  - Phrase: Мост свяже дві міста.
+    Translation: The bridge connects two cities.
+  - Phrase: Баржіна є важна за безпеку на улиці.
+    Translation: A speed limit is important for the security on the street.
+  - Phrase: Світлофор показує червеноє.
+    Translation: The traffic light shows red.
+  - Phrase: Авто є новое і красное.
+    Translation: The car is new and beautiful.
+  - Phrase: Автобус веде много люди.
+    Translation: The bus carries many people.
+  - Phrase: Поїзд їде на сївер.
+    Translation: The train goes to the north.
+  - Phrase: Колесо є розбитоє.
+    Translation: The bicycle is broken.
+  - Phrase: Станція є отворена.
+    Translation: The station is open.
+  - Phrase: Шофер є осторожный.
+    Translation: The driver is careful.
+  - Phrase: Дорога є широка.
+    Translation: The road is wide.
+  - Phrase: Мост є высокый.
+    Translation: The bridge is high.
+  - Phrase: Баржіна є ограничена.
+    Translation: The speed is limited.
+  - Phrase: Світлофор показує зелене.
+    Translation: The traffic light shows green.
+
+Mini-dictionary:
+  Rusin:
+    - авто: undefined
+    - автобус: undefined
+    - барже: undefined
+    - баржіна: undefined
+    - безпеку: undefined
+    - важна: undefined
+    - веде: undefined
+    - велика: undefined
+    - вулиці: undefined
+    - высокый: undefined
+    - дві: undefined
+    - до: undefined
+    - дорога: undefined
+    - за: undefined
+    - зелене: undefined
+    - колесо: undefined
+    - красное: undefined
+    - люди: undefined
+    - лїс: undefined
+    - много: undefined
+    - можна: undefined
+    - мост: undefined
+    - міста: undefined
+    - на: undefined
+    - новое: undefined
+    - ограничена: undefined
+    - осторожный: undefined
+    - отворена: undefined
+    - показує: undefined
+    - поїзд: undefined
+    - розбитоє: undefined
+    - розбитый: undefined
+    - свяже: undefined
+    - связати: undefined
+    - світлофор: undefined
+    - станцію: undefined
+    - станція: undefined
+    - стоїть: undefined
+    - сївер: undefined
+    - сїде: undefined
+    - сїдїня: undefined
+    - сїсти: undefined
+    - ту: undefined
+    - улиці: undefined
+    - центра: undefined
+    - червеноє: undefined
+    - через: undefined
+    - широка: undefined
+    - шофер: undefined
+    - є: undefined
+    - і: undefined
+    - іде: undefined
+    - їде: undefined
+    - їхати: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - beautiful: undefined
+    - bicycle: undefined
+    - big: undefined
+    - bridge: undefined
+    - broken: undefined
+    - bus: undefined
+    - can: undefined
+    - car: undefined
+    - careful: undefined
+    - carries: undefined
+    - center: undefined
+    - cities: undefined
+    - connect/tie: undefined
+    - connects: undefined
+    - driver: undefined
+    - drives: undefined
+    - fast: undefined
+    - for: undefined
+    - forest: undefined
+    - go/drive: undefined
+    - goes: undefined
+    - green: undefined
+    - here: undefined
+    - high: undefined
+    - important: undefined
+    - is: undefined
+    - light: undefined
+    - limit: undefined
+    - limited: undefined
+    - many: undefined
+    - new: undefined
+    - north: undefined
+    - on: undefined
+    - one: undefined
+    - open: undefined
+    - people: undefined
+    - red: undefined
+    - road: undefined
+    - seat: undefined
+    - security: undefined
+    - shows: undefined
+    - sit: undefined
+    - speed: undefined
+    - standing: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - through: undefined
+    - to: undefined
+    - traffic: undefined
+    - train: undefined
+    - two: undefined
+    - wide: undefined

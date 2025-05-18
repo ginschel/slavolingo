@@ -1,0 +1,164 @@
+Skill:
+  Name: Numbers 0-10
+  Id: 26
+
+New words:
+  - Word: zérod
+    Translation: zero
+  - Word: jeden
+    Translation: one
+  - Word: jednô
+    Translation: one
+  - Word: jedné
+    Translation: one
+  - Word: dwa
+    Translation: two
+  - Word: dwie
+    Translation: two
+  - Word: trzë
+    Translation: three
+  - Word: sztërë
+    Translation: four
+  - Word: piãc
+    Translation: five
+  - Word: szesc
+    Translation: six
+  - Word: sedem
+    Translation: seven
+  - Word: òsem
+    Translation: eight
+  - Word: dzevec
+    Translation: nine
+  - Word: dzesãc
+    Translation: ten
+  - Word: gòdzynk
+    Translation: clock/watch
+  - Word: chłôpczã
+    Translation: boy
+  - Word: kòmpùter
+    Translation: computer
+  - Word: kòło
+    Translation: bicycle
+  - Word: rubel
+    Translation: ruble
+  - Word: białka
+    Translation: woman
+  - Word: pòle
+    Translation: field
+  - Word: kòt
+    Translation: cat
+  - Word: dolar
+    Translation: dollar
+
+Phrases:
+  - Phrase: zérod gòdzënków
+    Translation: zero clocks
+  - Phrase: jeden chłôpczã
+    Translation: one boy
+  - Phrase: jednô białka
+    Translation: one woman
+  - Phrase: jedné pòle
+    Translation: one field
+  - Phrase: dwa chłôpce
+    Translation: two boys
+  - Phrase: dwie białczi
+    Translation: two women
+  - Phrase: trzë kòtë
+    Translation: three cats
+  - Phrase: sztërë kòła
+    Translation: four bicycles
+  - Phrase: piãc chłôpczów
+    Translation: five boys
+  - Phrase: szesc kółów
+    Translation: six bicycles
+  - Phrase: sedem rublów
+    Translation: seven rubles
+  - Phrase: òsem dolarów
+    Translation: eight dollars
+  - Phrase: dzevec kòmpùterów
+    Translation: nine computers
+  - Phrase: dzesãc gòdzënków
+    Translation: ten clocks
+  - Phrase: dwie wieszczë
+    Translation: two things
+  - Phrase: jedné słuncé
+    Translation: one sun
+  - Phrase: jeden kòło
+    Translation: one bicycle
+  - Phrase: sztërë dolary
+    Translation: four dollars
+  - Phrase: trzë kòtë
+    Translation: three cats
+  - Phrase: piãc kòtów
+    Translation: five cats
+
+Mini-dictionary:
+  Kashubian:
+    - białczi: undefined
+    - białka: undefined
+    - chłôpce: undefined
+    - chłôpczã: undefined
+    - chłôpczów: undefined
+    - dolar: undefined
+    - dolary: undefined
+    - dolarów: undefined
+    - dwa: undefined
+    - dwie: undefined
+    - dzesãc: undefined
+    - dzevec: undefined
+    - gòdzynk: undefined
+    - gòdzënków: undefined
+    - jeden: undefined
+    - jedné: undefined
+    - jednô: undefined
+    - kòmpùter: undefined
+    - kòmpùterów: undefined
+    - kòt: undefined
+    - kòtë: undefined
+    - kòtów: undefined
+    - kòła: undefined
+    - kòło: undefined
+    - kółów: undefined
+    - piãc: undefined
+    - pòle: undefined
+    - rubel: undefined
+    - rublów: undefined
+    - sedem: undefined
+    - szesc: undefined
+    - sztërë: undefined
+    - słuncé: undefined
+    - trzë: undefined
+    - wieszczë: undefined
+    - zérod: undefined
+    - òsem: undefined
+  English:
+    - bicycle: undefined
+    - bicycles: undefined
+    - boy: undefined
+    - boys: undefined
+    - cat: undefined
+    - cats: undefined
+    - clock/watch: undefined
+    - clocks: undefined
+    - computer: undefined
+    - computers: undefined
+    - dollar: undefined
+    - dollars: undefined
+    - eight: undefined
+    - field: undefined
+    - five: undefined
+    - four: undefined
+    - nine: undefined
+    - one: undefined
+    - ruble: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - sun: undefined
+    - ten: undefined
+    - things: undefined
+    - three: undefined
+    - two: undefined
+    - woman: undefined
+    - women: undefined
+    - zero: undefined

@@ -1,0 +1,209 @@
+Skill:
+  Name: Stuff in the kitchen
+  Id: 13
+
+New words:
+  - Word: nôż
+    Translation: knife
+  - Word: widelc
+    Translation: fork
+  - Word: lëżka
+    Translation: spoon
+  - Word: talérz
+    Translation: plate
+  - Word: czôszka
+    Translation: cup
+  - Word: sól
+    Translation: salt
+  - Word: pieprz
+    Translation: pepper
+  - Word: cëker
+    Translation: sugar
+  - Word: rëskwierka
+    Translation: frying pan
+  - Word: gòrący
+    Translation: hot
+  - Word: rondel
+    Translation: pot
+  - Word: kùchnia
+    Translation: kitchen
+  - Word: warzëc
+    Translation: to cook
+  - Word: plindza
+    Translation: pancake
+  - Word: plińc
+    Translation: dumpling
+  - Word: miska
+    Translation: bowl
+
+Phrases:
+  - Phrase: Nôż leżi na stole.
+    Translation: The knife is lying on the table.
+  - Phrase: Widelc je srebrni.
+    Translation: The fork is silver.
+  - Phrase: Lëżka je w soli.
+    Translation: The spoon is in the salt.
+  - Phrase: Talérz je peļni jiedzë.
+    Translation: The plate is full of food.
+  - Phrase: Czôszka je napełnionô wòdą.
+    Translation: The cup is filled with water.
+  - Phrase: Dóm do czaju cëker.
+    Translation: I will add sugar to the tea.
+  - Phrase: Wiele cëkrù je w misce
+    Translation: There is a lot of sugar in the bowl.
+  - Phrase: Na rëskwierce warzi sã mòja plindza.
+    Translation: My pancake is cooking on the frying pan.
+  - Phrase: Rondel je gòrący.
+    Translation: The pot is hot
+  - Phrase: Rondel je na plomeniu.
+    Translation: The pot is on the flame.
+  - Phrase: Kùchnia je czëstô.
+    Translation: The kitchen is clean.
+  - Phrase: On je z wideleczkã.
+    Translation: He eats with a fork.
+  - Phrase: Òna pije z czôszki.
+    Translation: She drinks from a cup.
+  - Phrase: Më gotujemë w rondlu.
+    Translation: We cook in a pot.
+  - Phrase: Na rëskwierce je miãso.
+    Translation: There is meat in the frying pan.
+  - Phrase: Nôż je ostrë.
+    Translation: The knife is sharp.
+  - Phrase: Widele i noże są na stole.
+    Translation: Forks and knives are on the table.
+  - Phrase: Lëżka je peļnô pieprzu.
+    Translation: The spoon is full of pepper.
+  - Phrase: Talérz leżi na pòdłodze.
+    Translation: The plate is lying on the floor.
+  - Phrase: Kònserwa je pùstô.
+    Translation: The can is empty.
+  - Phrase: Kùchnia mô dobri zôpach wieczór.
+    Translation: The kitchen has a good smell in the evening.
+
+Mini-dictionary:
+  Kashubian:
+    - czaju: undefined
+    - czëstô: undefined
+    - czôszka: undefined
+    - czôszki: undefined
+    - cëker: undefined
+    - cëkrù: undefined
+    - do: undefined
+    - dobri: undefined
+    - dóm: undefined
+    - gotujemë: undefined
+    - gòrący: undefined
+    - i: undefined
+    - je: undefined
+    - jiedzë: undefined
+    - kònserwa: undefined
+    - kùchnia: undefined
+    - leżi: undefined
+    - lëżka: undefined
+    - misce: undefined
+    - miska: undefined
+    - miãso: undefined
+    - më: undefined
+    - mòja: undefined
+    - mô: undefined
+    - na: undefined
+    - napełnionô: undefined
+    - noże: undefined
+    - nôż: undefined
+    - on: undefined
+    - ostrë: undefined
+    - peļni: undefined
+    - peļnô: undefined
+    - pieprz: undefined
+    - pieprzu: undefined
+    - pije: undefined
+    - plindza: undefined
+    - plińc: undefined
+    - plomeniu: undefined
+    - pòdłodze: undefined
+    - pùstô: undefined
+    - rondel: undefined
+    - rondlu: undefined
+    - rëskwierce: undefined
+    - rëskwierka: undefined
+    - soli: undefined
+    - srebrni: undefined
+    - stole: undefined
+    - sã: undefined
+    - sól: undefined
+    - są: undefined
+    - talérz: undefined
+    - w: undefined
+    - warzi: undefined
+    - warzëc: undefined
+    - widelc: undefined
+    - widele: undefined
+    - wideleczkã: undefined
+    - wieczór: undefined
+    - wiele: undefined
+    - wòdą: undefined
+    - z: undefined
+    - zôpach: undefined
+    - òna: undefined
+  English:
+    - a: undefined
+    - add: undefined
+    - and: undefined
+    - are: undefined
+    - bowl: undefined
+    - can: undefined
+    - clean: undefined
+    - cook: undefined
+    - cooking: undefined
+    - cup: undefined
+    - drinks: undefined
+    - dumpling: undefined
+    - eats: undefined
+    - empty: undefined
+    - evening: undefined
+    - filled: undefined
+    - flame: undefined
+    - floor: undefined
+    - food: undefined
+    - fork: undefined
+    - forks: undefined
+    - from: undefined
+    - frying: undefined
+    - full: undefined
+    - good: undefined
+    - has: undefined
+    - he: undefined
+    - hot: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - kitchen: undefined
+    - knife: undefined
+    - knives: undefined
+    - lot: undefined
+    - lying: undefined
+    - meat: undefined
+    - my: undefined
+    - of: undefined
+    - on: undefined
+    - pan: undefined
+    - pancake: undefined
+    - pepper: undefined
+    - plate: undefined
+    - pot: undefined
+    - salt: undefined
+    - sharp: undefined
+    - she: undefined
+    - silver: undefined
+    - smell: undefined
+    - spoon: undefined
+    - sugar: undefined
+    - table: undefined
+    - tea: undefined
+    - the: undefined
+    - there: undefined
+    - to: undefined
+    - water: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined

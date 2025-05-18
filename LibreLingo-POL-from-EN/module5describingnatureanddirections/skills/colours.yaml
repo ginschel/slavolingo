@@ -1,0 +1,183 @@
+Skill:
+  Name: Colours
+  Id: 17
+
+New words:
+  - Word: czarny
+    Translation: black
+  - Word: biały
+    Translation: white
+  - Word: zielony
+    Translation: green
+  - Word: niebieski
+    Translation: blue
+  - Word: czerwony
+    Translation: red
+  - Word: żółty
+    Translation: yellow
+  - Word: szary
+    Translation: grey
+  - Word: kasztanowy
+    Translation: brown
+  - Word: pomarańczowy
+    Translation: orange
+  - Word: czerwony
+    Translation: red
+
+Phrases:
+  - Phrase: Mój pies jest czarny.
+    Translation: My dog is black.
+  - Phrase: Mysz jest biała.
+    Translation: The mouse is white.
+  - Phrase: Trawa jest zielona.
+    Translation: The grass is green.
+  - Phrase: Niebo jest niebieskie.
+    Translation: The sky is blue.
+  - Phrase: Kwiaty są czerwone.
+    Translation: The flowers are red.
+  - Phrase: Słońce jest żółte.
+    Translation: The sun is yellow.
+  - Phrase: Chmury są szare.
+    Translation: The clouds are grey.
+  - Phrase: On nosi kasztanowy płaszcz.
+    Translation: He wears a brown coat.
+  - Phrase: Liść jest pomarańczowy.
+    Translation: The leaf is orange.
+  - Phrase: To jest Morze Czerwone.
+    Translation: This is the Red Sea.
+  - Phrase: Moje oczy są niebieskie.
+    Translation: My eyes are blue.
+  - Phrase: Ona ma zieloną trawę.
+    Translation: She has green grass.
+  - Phrase: Ja lubię czerwony kolor.
+    Translation: I like the red color.
+  - Phrase: Jego auto jest czarne.
+    Translation: His car is black.
+  - Phrase: Dziewczyna nosi białą sukienkę.
+    Translation: The girl is wearing a white dress.
+  - Phrase: Czy to siwy włos?
+    Translation: Is that grey hair?
+  - Phrase: On ma pomarańczową torbę.
+    Translation: He has an orange bag.
+  - Phrase: Kasztanowy koń stoi w stajni.
+    Translation: The brown horse stands in the stable.
+  - Phrase: Żółte słońce grzeje ziemię.
+    Translation: The yellow sun warms the earth.
+  - Phrase: Czerwona róża rośnie tutaj.
+    Translation: A red rose grows here.
+
+Mini-dictionary:
+  Polish:
+    - auto: undefined
+    - biała: undefined
+    - biały: undefined
+    - białą: undefined
+    - chmury: undefined
+    - czarne: undefined
+    - czarny: undefined
+    - czerwona: undefined
+    - czerwone: undefined
+    - czerwony: undefined
+    - czy: undefined
+    - dziewczyna: undefined
+    - grzeje: undefined
+    - ja: undefined
+    - jego: undefined
+    - jest: undefined
+    - kasztanowy: undefined
+    - kolor: undefined
+    - koń: undefined
+    - kwiaty: undefined
+    - liść: undefined
+    - lubię: undefined
+    - ma: undefined
+    - moje: undefined
+    - morze: undefined
+    - mysz: undefined
+    - mój: undefined
+    - niebieski: undefined
+    - niebieskie: undefined
+    - niebo: undefined
+    - nosi: undefined
+    - oczy: undefined
+    - on: undefined
+    - ona: undefined
+    - pies: undefined
+    - pomarańczowy: undefined
+    - pomarańczową: undefined
+    - płaszcz: undefined
+    - rośnie: undefined
+    - róża: undefined
+    - siwy: undefined
+    - stajni: undefined
+    - stoi: undefined
+    - sukienkę: undefined
+    - szare: undefined
+    - szary: undefined
+    - są: undefined
+    - słońce: undefined
+    - to: undefined
+    - torbę: undefined
+    - trawa: undefined
+    - trawę: undefined
+    - tutaj: undefined
+    - w: undefined
+    - włos: undefined
+    - zielona: undefined
+    - zielony: undefined
+    - zieloną: undefined
+    - ziemię: undefined
+    - żółte: undefined
+    - żółty: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - are: undefined
+    - bag: undefined
+    - black: undefined
+    - blue: undefined
+    - brown: undefined
+    - car: undefined
+    - clouds: undefined
+    - coat: undefined
+    - color: undefined
+    - dog: undefined
+    - dress: undefined
+    - earth: undefined
+    - eyes: undefined
+    - flowers: undefined
+    - girl: undefined
+    - grass: undefined
+    - green: undefined
+    - grey: undefined
+    - grows: undefined
+    - hair: undefined
+    - has: undefined
+    - he: undefined
+    - here: undefined
+    - his: undefined
+    - horse: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - leaf: undefined
+    - like: undefined
+    - mouse: undefined
+    - my: undefined
+    - orange: undefined
+    - red: undefined
+    - rose: undefined
+    - sea: undefined
+    - she: undefined
+    - sky: undefined
+    - stable: undefined
+    - stands: undefined
+    - sun: undefined
+    - that: undefined
+    - the: undefined
+    - this: undefined
+    - warms: undefined
+    - wearing: undefined
+    - wears: undefined
+    - white: undefined
+    - yellow: undefined

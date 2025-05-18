@@ -1,0 +1,243 @@
+Skill:
+  Name: Talking about Time (past tense)
+  Id: 31
+
+New words:
+  - Word: час
+    Translation: time
+  - Word: хвіліна
+    Translation: minute
+  - Word: секунда
+    Translation: second
+  - Word: гадзіна (працягласць)
+    Translation: hour
+  - Word: сёння
+    Translation: today
+  - Word: быў
+    Translation: was
+  - Word: была
+    Translation: was
+  - Word: было
+    Translation: was
+  - Word: былі
+    Translation: were
+  - Word: ішоў
+    Translation: went/walked
+  - Word: ішла
+    Translation: went/walked
+  - Word: ішло
+    Translation: went/walked
+  - Word: ішлі
+    Translation: went/walked
+  - Word: учора
+    Translation: yesterday
+  - Word: заўтра
+    Translation: tomorrow
+  - Word: вечар
+    Translation: evening
+  - Word: поўнач
+    Translation: midnight
+  - Word: колькі
+    Translation: how much
+  - Word: спаць (спіць)
+    Translation: to sleep
+  - Word: доўжыцца
+    Translation: to last
+
+Phrases:
+  - Phrase: Колькі ёсць часу?
+    Translation: What time is it?
+  - Phrase: Ён меў адну гадзіну.
+    Translation: He had one hour.
+  - Phrase: Заўтра ёсць занадта позна.
+    Translation: Tomorrow is too late.
+  - Phrase: Учора быў панядзелак.
+    Translation: Yesterday was Monday.
+  - Phrase: Учора яна была дома ў восем гадзін.
+    Translation: Yesterday she was at home at the eighth hour.
+  - Phrase: Раніцай не было вельмі цёпла.
+    Translation: In the morning it was not very warm.
+  - Phrase: У тры гадзіны дваццаць было холадна.
+    Translation: At twenty past the third hour it was cold.
+  - Phrase: Поўнач ёсць ціхая.
+    Translation: Midnight is quiet.
+  - Phrase: Ён пайшоў дадому.
+    Translation: He went home.
+  - Phrase: Вы ішлі ў кіно?
+    Translation: Have you gone to the cinema?
+  - Phrase: Яны нічога не рабілі.
+    Translation: They did nothing.
+  - Phrase: Хвіліна ёсць малая адзінка часу.
+    Translation: A minute is a small unit of time.
+  - Phrase: Секунда ёсць кароткая.
+    Translation: A second is short.
+  - Phrase: Сёння ты не меў/мела часу на тое.
+    Translation: Today you did not have an hour for that.
+  - Phrase: Бачымся ўвечары ў дзевяць гадзін.
+    Translation: We will see each other in the evening at the ninth hour.
+  - Phrase: Учора ў адну гадзіну было лепш.
+    Translation: Yesterday at the first hour it was better.
+  - Phrase: Колькі хвілін доўжыцца фільм?
+    Translation: How many minutes does the film last?
+  - Phrase: Я быў дома раніцай.
+    Translation: I was at home in the morning.
+  - Phrase: Ён спіць да поўначы.
+    Translation: He sleeps until midnight.
+  - Phrase: Колькі секунд мае хвіліна?
+    Translation: How many seconds are in a minute?
+  - Phrase: Увечары мы пайшлі ў рэстаран.
+    Translation: In the evening we went to the restaurant.
+
+Mini-dictionary:
+  Belarusian:
+    - адзінка: undefined
+    - адну: undefined
+    - бачымся: undefined
+    - была: undefined
+    - было: undefined
+    - былі: undefined
+    - быў: undefined
+    - вельмі: undefined
+    - вечар: undefined
+    - восем: undefined
+    - вы: undefined
+    - гадзін: undefined
+    - гадзіна: undefined
+    - гадзіну: undefined
+    - гадзіны: undefined
+    - да: undefined
+    - дадому: undefined
+    - дваццаць: undefined
+    - дзевяць: undefined
+    - дома: undefined
+    - доўжыцца: undefined
+    - занадта: undefined
+    - заўтра: undefined
+    - кароткая: undefined
+    - колькі: undefined
+    - кіно: undefined
+    - лепш: undefined
+    - мае: undefined
+    - малая: undefined
+    - меў: undefined
+    - меў/мела: undefined
+    - мы: undefined
+    - на: undefined
+    - не: undefined
+    - нічога: undefined
+    - пайшлі: undefined
+    - пайшоў: undefined
+    - панядзелак: undefined
+    - позна: undefined
+    - поўнач: undefined
+    - поўначы: undefined
+    - працягласць: undefined
+    - рабілі: undefined
+    - раніцай: undefined
+    - рэстаран: undefined
+    - секунд: undefined
+    - секунда: undefined
+    - спаць: undefined
+    - спіць: undefined
+    - сёння: undefined
+    - тое: undefined
+    - тры: undefined
+    - ты: undefined
+    - у: undefined
+    - увечары: undefined
+    - учора: undefined
+    - фільм: undefined
+    - хвілін: undefined
+    - хвіліна: undefined
+    - холадна: undefined
+    - цёпла: undefined
+    - ціхая: undefined
+    - час: undefined
+    - часу: undefined
+    - я: undefined
+    - яна: undefined
+    - яны: undefined
+    - ён: undefined
+    - ёсць: undefined
+    - ішла: undefined
+    - ішло: undefined
+    - ішлі: undefined
+    - ішоў: undefined
+    - ў: undefined
+    - ўвечары: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - are: undefined
+    - at: undefined
+    - better: undefined
+    - cinema: undefined
+    - cold: undefined
+    - did: undefined
+    - does: undefined
+    - each: undefined
+    - eighth: undefined
+    - evening: undefined
+    - film: undefined
+    - first: undefined
+    - for: undefined
+    - gone: undefined
+    - had: undefined
+    - have: undefined
+    - he: undefined
+    - home: undefined
+    - hour: undefined
+    - how: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - last: undefined
+    - late: undefined
+    - many: undefined
+    - midnight: undefined
+    - minute: undefined
+    - minutes: undefined
+    - monday: undefined
+    - morning: undefined
+    - much: undefined
+    - ninth: undefined
+    - not: undefined
+    - nothing: undefined
+    - of: undefined
+    - one: undefined
+    - other: undefined
+    - past: undefined
+    - quiet: undefined
+    - restaurant: undefined
+    - second: undefined
+    - seconds: undefined
+    - see: undefined
+    - she: undefined
+    - short: undefined
+    - sleep: undefined
+    - sleeps: undefined
+    - small: undefined
+    - that: undefined
+    - the: undefined
+    - they: undefined
+    - third: undefined
+    - time: undefined
+    - to: undefined
+    - today: undefined
+    - tomorrow: undefined
+    - too: undefined
+    - twenty: undefined
+    - unit: undefined
+    - until: undefined
+    - very: undefined
+    - warm: undefined
+    - was: undefined
+    - we: undefined
+    - went: undefined
+    - went/walked: undefined
+    - were: undefined
+    - what: undefined
+    - will: undefined
+    - yesterday: undefined
+    - you: undefined

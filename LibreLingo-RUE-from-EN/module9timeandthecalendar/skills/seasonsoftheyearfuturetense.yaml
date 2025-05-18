@@ -1,0 +1,201 @@
+Skill:
+  Name: Seasons of the year (future tense)
+  Id: 33
+
+New words:
+  - Word: лїто
+    Translation: summer
+  - Word: ясень
+    Translation: autumn
+  - Word: зима
+    Translation: winter
+  - Word: ярь
+    Translation: spring
+  - Word: час року
+    Translation: season
+  - Word: быти
+    Translation: to be
+  - Word: буду
+    Translation: I will be
+  - Word: будеш
+    Translation: you will be
+  - Word: буде
+    Translation: he/she/it will be
+  - Word: будеме
+    Translation: we will be
+  - Word: будете
+    Translation: you will be
+  - Word: будуть
+    Translation: they will be
+
+Phrases:
+  - Phrase: В лїті буде тепло.
+    Translation: In the summer it will be warm.
+  - Phrase: В яснї будеме видіти падаючі листя.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: В зимї будете грати зі снїгом.
+    Translation: In the winter you will play with snow.
+  - Phrase: Ярь принесе цвїты.
+    Translation: Spring will bring flowers.
+  - Phrase: Час року ся буде змінювати штири разы.
+    Translation: The season will change four times.
+  - Phrase: В зимї буде падати снїг.
+    Translation: In the winter it will snow.
+  - Phrase: На ярї ростуть цвїты.
+    Translation: In spring, flowers grow.
+  - Phrase: В лїті є много сонця.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: В яснї будеш много терпіти через дождь.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Воздух в зимї буде хладный.
+    Translation: The air in winter will be cold.
+  - Phrase: Лїто є час року одпочінку при озері.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Ясень має много кольорів.
+    Translation: Autumn has many colors.
+  - Phrase: Зима не є добра за шпортовцїв.
+    Translation: Winter is not good for sports.
+  - Phrase: Ярь є нудна.
+    Translation: Spring is boring.
+  - Phrase: Часы року ся міняють штири разы в роцї.
+    Translation: The seasons change four times a year.
+  - Phrase: Скоро кончить ся лїто.
+    Translation: Summer will soon end.
+  - Phrase: В яснї тыж падає дождь.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Зима має много снїга.
+    Translation: Winter has a lot of snow.
+  - Phrase: Они будуть видіти зеленый краєвид.
+    Translation: They will see a green landscape.
+  - Phrase: Сонце буде світити сильно в лїті.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Rusin:
+    - буде: undefined
+    - будеме: undefined
+    - будете: undefined
+    - будеш: undefined
+    - буду: undefined
+    - будуть: undefined
+    - быти: undefined
+    - в: undefined
+    - видіти: undefined
+    - воздух: undefined
+    - грати: undefined
+    - добра: undefined
+    - дождь: undefined
+    - за: undefined
+    - зеленый: undefined
+    - зима: undefined
+    - зимї: undefined
+    - змінювати: undefined
+    - зі: undefined
+    - кольорів: undefined
+    - кончить: undefined
+    - краєвид: undefined
+    - листя: undefined
+    - лїто: undefined
+    - лїті: undefined
+    - має: undefined
+    - много: undefined
+    - міняють: undefined
+    - на: undefined
+    - не: undefined
+    - нудна: undefined
+    - одпочінку: undefined
+    - озері: undefined
+    - они: undefined
+    - падати: undefined
+    - падаючі: undefined
+    - падає: undefined
+    - при: undefined
+    - принесе: undefined
+    - разы: undefined
+    - року: undefined
+    - ростуть: undefined
+    - роцї: undefined
+    - світити: undefined
+    - сильно: undefined
+    - скоро: undefined
+    - снїг: undefined
+    - снїга: undefined
+    - снїгом: undefined
+    - сонце: undefined
+    - сонця: undefined
+    - ся: undefined
+    - тепло: undefined
+    - терпіти: undefined
+    - тыж: undefined
+    - хладный: undefined
+    - цвїты: undefined
+    - час: undefined
+    - часы: undefined
+    - через: undefined
+    - шпортовцїв: undefined
+    - штири: undefined
+    - ярь: undefined
+    - ярї: undefined
+    - ясень: undefined
+    - яснї: undefined
+    - є: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - autumn: undefined
+    - be: undefined
+    - because: undefined
+    - boring: undefined
+    - bring: undefined
+    - by: undefined
+    - change: undefined
+    - cold: undefined
+    - colors: undefined
+    - end: undefined
+    - falling: undefined
+    - flowers: undefined
+    - for: undefined
+    - four: undefined
+    - good: undefined
+    - green: undefined
+    - grow: undefined
+    - has: undefined
+    - he/she/it: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lake: undefined
+    - landscape: undefined
+    - leaves: undefined
+    - lot: undefined
+    - many: undefined
+    - not: undefined
+    - of: undefined
+    - play: undefined
+    - rain: undefined
+    - rest: undefined
+    - season: undefined
+    - seasons: undefined
+    - see: undefined
+    - shine: undefined
+    - snow: undefined
+    - soon: undefined
+    - sports: undefined
+    - spring: undefined
+    - strongly: undefined
+    - suffer: undefined
+    - summer: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - they: undefined
+    - times: undefined
+    - to: undefined
+    - warm: undefined
+    - we: undefined
+    - will: undefined
+    - winter: undefined
+    - with: undefined
+    - year: undefined
+    - you: undefined

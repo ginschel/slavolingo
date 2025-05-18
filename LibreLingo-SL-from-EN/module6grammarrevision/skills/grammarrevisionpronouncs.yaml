@@ -1,0 +1,200 @@
+Skill:
+  Name: Grammar revision pronouncs
+  Id: 20
+
+New words:
+  - Word: "vedeti"
+    Translation: to know
+  - Word: "vedeti (ve)"
+    Translation: to know
+  - Word: "sanje"
+    Translation: dream
+  - Word: "stvar"
+    Translation: thing
+
+Phrases:
+  - Phrase: Tega ne vem.
+    Translation: I don't know that.
+  - Phrase: O tem že dolgo ve.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Koga ti vidiš?.
+    Translation: Who do you see?.
+  - Phrase: Tistim, ki ležijo spat, mirne sanje.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: O tej stvari jaz nič ne vem.
+    Translation: I know nothing about that thing.
+  - Phrase: Govorim s teboj.
+    Translation: I am talking with you.
+  - Phrase: Jaz vidim vas.
+    Translation: I see you.
+  - Phrase: On rad biti sam s seboj.
+    Translation: He likes to be alone with himself.
+  - Phrase: Daj mi vodo.
+    Translation: Give me water.
+  - Phrase: Z nami je vedno vse veselo.
+    Translation: With us everything is always cheerful.
+  - Phrase: Mene ne vidiš.
+    Translation: You don't see me.
+  - Phrase: Komu boš dal darilo?
+    Translation: Who do you give a gift to?
+  - Phrase: O meni govoriš?
+    Translation: Are you talking about me?
+  - Phrase: Ne, jaz ne govorim o tebi.
+    Translation: No, I don't talt about you.
+  - Phrase: O čem ti govoriš?
+    Translation: What are you talking about?
+  - Phrase: Te ženske so lepe.
+    Translation: These women are beautiful.
+  - Phrase: Teh prijateljev nimaš.
+    Translation: You do not have those friends.
+  - Phrase: On daje sebi mir.
+    Translation: He stops troubling others.
+  - Phrase: Česa tu ni v hiši?
+    Translation: What isn't at this house here?
+  - Phrase: Temu psu ti daješ kosti.
+    Translation: You give to this dog bones.
+  - Phrase: To je vaša kava ali njena?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Slovenian:
+    - ali: undefined
+    - biti: undefined
+    - boš: undefined
+    - daj: undefined
+    - daje: undefined
+    - daješ: undefined
+    - dal: undefined
+    - darilo: undefined
+    - dolgo: undefined
+    - govorim: undefined
+    - govoriš: undefined
+    - hiši: undefined
+    - jaz: undefined
+    - je: undefined
+    - kava: undefined
+    - ki: undefined
+    - koga: undefined
+    - komu: undefined
+    - kosti: undefined
+    - lepe: undefined
+    - ležijo: undefined
+    - mene: undefined
+    - meni: undefined
+    - mi: undefined
+    - mir: undefined
+    - mirne: undefined
+    - nami: undefined
+    - ne: undefined
+    - ni: undefined
+    - nimaš: undefined
+    - nič: undefined
+    - njena: undefined
+    - o: undefined
+    - on: undefined
+    - prijateljev: undefined
+    - psu: undefined
+    - rad: undefined
+    - s: undefined
+    - sam: undefined
+    - sanje: undefined
+    - sebi: undefined
+    - seboj: undefined
+    - so: undefined
+    - spat: undefined
+    - stvar: undefined
+    - stvari: undefined
+    - te: undefined
+    - tebi: undefined
+    - teboj: undefined
+    - tega: undefined
+    - teh: undefined
+    - tej: undefined
+    - tem: undefined
+    - temu: undefined
+    - ti: undefined
+    - tistim: undefined
+    - to: undefined
+    - tu: undefined
+    - v: undefined
+    - vas: undefined
+    - vaša: undefined
+    - ve: undefined
+    - vedeti: undefined
+    - vedno: undefined
+    - vem: undefined
+    - veselo: undefined
+    - vidim: undefined
+    - vidiš: undefined
+    - vodo: undefined
+    - vse: undefined
+    - z: undefined
+    - čem: undefined
+    - česa: undefined
+    - že: undefined
+    - ženske: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - alone: undefined
+    - always: undefined
+    - am: undefined
+    - are: undefined
+    - at: undefined
+    - be: undefined
+    - beautiful: undefined
+    - bones: undefined
+    - cheerful: undefined
+    - coffee: undefined
+    - do: undefined
+    - dog: undefined
+    - don't: undefined
+    - dream: undefined
+    - everything: undefined
+    - for: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - going: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - himself: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - isn't: undefined
+    - it: undefined
+    - know: undefined
+    - known: undefined
+    - likes: undefined
+    - long: undefined
+    - me: undefined
+    - no: undefined
+    - not: undefined
+    - nothing: undefined
+    - or: undefined
+    - others: undefined
+    - peaceful: undefined
+    - see: undefined
+    - sleep: undefined
+    - stops: undefined
+    - talking: undefined
+    - talt: undefined
+    - that: undefined
+    - these: undefined
+    - thing: undefined
+    - this: undefined
+    - those: undefined
+    - time: undefined
+    - to: undefined
+    - troubling: undefined
+    - us: undefined
+    - water: undefined
+    - what: undefined
+    - who: undefined
+    - with: undefined
+    - women: undefined
+    - you: undefined
+    - your: undefined

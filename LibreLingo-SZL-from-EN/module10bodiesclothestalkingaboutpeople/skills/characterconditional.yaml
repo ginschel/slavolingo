@@ -1,0 +1,227 @@
+Skill:
+  Name: Character (Conditional)
+  Id: 36
+
+New words:
+  - Word: dobry
+    Translation: good
+  - Word: złe
+    Translation: bad
+  - Word: srogi
+    Translation: strong
+  - Word: słaby
+    Translation: weak
+  - Word: ôdwŏżny
+    Translation: brave
+  - Word: cichy
+    Translation: quiet
+  - Word: mondry
+    Translation: wise
+  - Word: głupi
+    Translation: stupid
+  - Word: szczery
+    Translation: sincere
+  - Word: lyńiwy
+    Translation: lazy
+  - Word: bōł bych
+    Translation: I would be
+  - Word: bōł byś
+    Translation: you would be
+  - Word: bōł by
+    Translation: he/she/it would be
+  - Word: byli byśmy
+    Translation: we would be
+  - Word: byli byście
+    Translation: you would be
+  - Word: byli by
+    Translation: they would be
+  - Word: milczeć (milczy)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: Ôn to dobry czowiek.
+    Translation: He is a good person.
+  - Phrase: Ôna je zło czasym.
+    Translation: She is sometimes bad.
+  - Phrase: Srogi duch je ważny.
+    Translation: A strong spirit is important.
+  - Phrase: Ôn je słaby we szporcie.
+    Translation: He is weak in sports.
+  - Phrase: Ôdwŏżny godo prawdã.
+    Translation: Brave people speak the truth.
+  - Phrase: Jak ty bōł bych słyszał, to ôni byli by ciche.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Mondry wia moc.
+    Translation: A smart person knows much.
+  - Phrase: Jak ty bōł byś niy bōł głupi, to byś niy robiōł głupot.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Szczery kamrat je drogi.
+    Translation: A sincere friend is valuable.
+  - Phrase: Jakby ôni niy byli lyńiwi, to my byli byśmy jim pōmŏgali.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Ôna je dobro a szczero.
+    Translation: She is good and sincere.
+  - Phrase: Ôn je srogi ale ôdwŏżny.
+    Translation: He is strong but brave.
+  - Phrase: Dziecie som mondre na jich wiek.
+    Translation: Children are wiser for their age.
+  - Phrase: Jak wy niy byli byście słabe, to wy byście robotowali.
+    Translation: If you were not weak, you would work.
+  - Phrase: Złe słowa bolōm.
+    Translation: Bad words hurt.
+  - Phrase: Głupi sie niy uczy.
+    Translation: Stupid people do not learn.
+  - Phrase: Lyńiwy niy chce nic robić.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Szczery godo co myśli.
+    Translation: A sincere person says what they think.
+  - Phrase: Mondry milczy jak trza.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Jak jo bōł bych ôdwŏżny, to jo bōł bych sie niy bojoł.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Silesian:
+    - a: undefined
+    - ale: undefined
+    - bojoł: undefined
+    - bolōm: undefined
+    - by: undefined
+    - bych: undefined
+    - byli: undefined
+    - byś: undefined
+    - byście: undefined
+    - byśmy: undefined
+    - bōł: undefined
+    - chce: undefined
+    - ciche: undefined
+    - cichy: undefined
+    - co: undefined
+    - czasym: undefined
+    - czowiek: undefined
+    - dobro: undefined
+    - dobry: undefined
+    - drogi: undefined
+    - duch: undefined
+    - dziecie: undefined
+    - godo: undefined
+    - głupi: undefined
+    - głupot: undefined
+    - jak: undefined
+    - jakby: undefined
+    - je: undefined
+    - jich: undefined
+    - jim: undefined
+    - jo: undefined
+    - kamrat: undefined
+    - lyńiwi: undefined
+    - lyńiwy: undefined
+    - milczeć: undefined
+    - milczy: undefined
+    - moc: undefined
+    - mondre: undefined
+    - mondry: undefined
+    - my: undefined
+    - myśli: undefined
+    - na: undefined
+    - nic: undefined
+    - niy: undefined
+    - prawdã: undefined
+    - pōmŏgali: undefined
+    - robić: undefined
+    - robiōł: undefined
+    - robotowali: undefined
+    - sie: undefined
+    - som: undefined
+    - srogi: undefined
+    - szczero: undefined
+    - szczery: undefined
+    - szporcie: undefined
+    - słabe: undefined
+    - słaby: undefined
+    - słowa: undefined
+    - słyszał: undefined
+    - to: undefined
+    - trza: undefined
+    - ty: undefined
+    - uczy: undefined
+    - ważny: undefined
+    - we: undefined
+    - wia: undefined
+    - wiek: undefined
+    - wy: undefined
+    - złe: undefined
+    - zło: undefined
+    - ôdwŏżny: undefined
+    - ôn: undefined
+    - ôna: undefined
+    - ôni: undefined
+  English:
+    - a: undefined
+    - afraid: undefined
+    - age: undefined
+    - and: undefined
+    - anything: undefined
+    - are: undefined
+    - bad: undefined
+    - be: undefined
+    - brave: undefined
+    - but: undefined
+    - children: undefined
+    - do: undefined
+    - foolish: undefined
+    - for: undefined
+    - friend: undefined
+    - good: undefined
+    - he: undefined
+    - he/she/it: undefined
+    - hear: undefined
+    - help: undefined
+    - hurt: undefined
+    - i: undefined
+    - if: undefined
+    - important: undefined
+    - in: undefined
+    - is: undefined
+    - knows: undefined
+    - lazy: undefined
+    - learn: undefined
+    - much: undefined
+    - needed: undefined
+    - not: undefined
+    - people: undefined
+    - person: undefined
+    - quiet: undefined
+    - says: undefined
+    - she: undefined
+    - silent: undefined
+    - sincere: undefined
+    - smart: undefined
+    - sometimes: undefined
+    - speak: undefined
+    - spirit: undefined
+    - sports: undefined
+    - stays: undefined
+    - strong: undefined
+    - stupid: undefined
+    - the: undefined
+    - their: undefined
+    - them: undefined
+    - they: undefined
+    - things: undefined
+    - think: undefined
+    - to: undefined
+    - truth: undefined
+    - valuable: undefined
+    - want: undefined
+    - we: undefined
+    - weak: undefined
+    - were: undefined
+    - what: undefined
+    - when: undefined
+    - wise: undefined
+    - wiser: undefined
+    - words: undefined
+    - work: undefined
+    - would: undefined
+    - you: undefined

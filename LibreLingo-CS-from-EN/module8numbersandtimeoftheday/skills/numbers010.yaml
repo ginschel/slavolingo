@@ -1,0 +1,170 @@
+Skill:
+  Name: Numbers 0-10
+  Id: 26
+
+New words:
+  - Word: nula
+    Translation: zero
+  - Word: jeden (m)
+    Translation: one
+  - Word: jedna (ž)
+    Translation: one
+  - Word: jedno (s)
+    Translation: one
+  - Word: dva (m/s)
+    Translation: two
+  - Word: dvě (ž)
+    Translation: two
+  - Word: tři
+    Translation: three
+  - Word: čtyři
+    Translation: four
+  - Word: pět
+    Translation: five
+  - Word: šest
+    Translation: six
+  - Word: sedm
+    Translation: seven
+  - Word: osm
+    Translation: eight
+  - Word: devět
+    Translation: nine
+  - Word: deset
+    Translation: ten
+  - Word: hodinky
+    Translation: clock/watch
+  - Word: chlapec
+    Translation: boy
+  - Word: počítač
+    Translation: computer
+  - Word: jízdní kolo
+    Translation: bicycle
+  - Word: rubl
+    Translation: ruble
+  - Word: žena
+    Translation: woman
+  - Word: pole
+    Translation: field
+  - Word: kočka
+    Translation: cat
+  - Word: dolar
+    Translation: dollar
+
+Phrases:
+  - Phrase: nula hodinek
+    Translation: zero clocks
+  - Phrase: jeden chlapec
+    Translation: one boy
+  - Phrase: jedna žena
+    Translation: one woman
+  - Phrase: jedno pole
+    Translation: one field
+  - Phrase: dva chlapci
+    Translation: two boys
+  - Phrase: dvě ženy
+    Translation: two women
+  - Phrase: tři kočky
+    Translation: three cats
+  - Phrase: čtyři jízdní kola
+    Translation: four bicycles
+  - Phrase: pět chlapců
+    Translation: five boys
+  - Phrase: šest jízdních kol
+    Translation: six bicycles
+  - Phrase: sedm rublů
+    Translation: seven rubles
+  - Phrase: osm dolarů
+    Translation: eight dollars
+  - Phrase: devět počítačů
+    Translation: nine computers
+  - Phrase: deset hodinek
+    Translation: ten clocks
+  - Phrase: dvě věci
+    Translation: two things
+  - Phrase: jedno slunce
+    Translation: one sun
+  - Phrase: jeden jízdní kolo
+    Translation: one bicycle
+  - Phrase: čtyři dolary
+    Translation: four dollars
+  - Phrase: tři kočky
+    Translation: three cats
+  - Phrase: pět koček
+    Translation: five cats
+
+Mini-dictionary:
+  Czech:
+    - chlapci: undefined
+    - chlapců: undefined
+    - chlapec: undefined
+    - deset: undefined
+    - devět: undefined
+    - dolar: undefined
+    - dolary: undefined
+    - dolarů: undefined
+    - dva: undefined
+    - dvě: undefined
+    - hodinek: undefined
+    - hodinky: undefined
+    - jeden: undefined
+    - jedna: undefined
+    - jedno: undefined
+    - jízdní: undefined
+    - jízdních: undefined
+    - kol: undefined
+    - kola: undefined
+    - kolo: undefined
+    - koček: undefined
+    - kočka: undefined
+    - kočky: undefined
+    - m: undefined
+    - m/s: undefined
+    - nula: undefined
+    - osm: undefined
+    - pole: undefined
+    - počítač: undefined
+    - počítačů: undefined
+    - pět: undefined
+    - rubl: undefined
+    - rublů: undefined
+    - s: undefined
+    - sedm: undefined
+    - slunce: undefined
+    - tři: undefined
+    - věci: undefined
+    - čtyři: undefined
+    - šest: undefined
+    - ž: undefined
+    - žena: undefined
+    - ženy: undefined
+  English:
+    - bicycle: undefined
+    - bicycles: undefined
+    - boy: undefined
+    - boys: undefined
+    - cat: undefined
+    - cats: undefined
+    - clock/watch: undefined
+    - clocks: undefined
+    - computer: undefined
+    - computers: undefined
+    - dollar: undefined
+    - dollars: undefined
+    - eight: undefined
+    - field: undefined
+    - five: undefined
+    - four: undefined
+    - nine: undefined
+    - one: undefined
+    - ruble: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - sun: undefined
+    - ten: undefined
+    - things: undefined
+    - three: undefined
+    - two: undefined
+    - woman: undefined
+    - women: undefined
+    - zero: undefined

@@ -1,0 +1,168 @@
+Skill:
+  Name: Numbers 0-10
+  Id: 26
+
+New words:
+  - Word: нуль
+    Translation: zero
+  - Word: адзін (м)
+    Translation: one
+  - Word: адна (ж)
+    Translation: one
+  - Word: адно (с)
+    Translation: one
+  - Word: два (м/с)
+    Translation: two
+  - Word: дзве (ж)
+    Translation: two
+  - Word: тры
+    Translation: three
+  - Word: чатыры
+    Translation: four
+  - Word: пяць
+    Translation: five
+  - Word: шэсць
+    Translation: six
+  - Word: сем
+    Translation: seven
+  - Word: восем
+    Translation: eight
+  - Word: дзевяць
+    Translation: nine
+  - Word: дзесяць
+    Translation: ten
+  - Word: гадзіннік
+    Translation: clock/watch
+  - Word: хлопчык
+    Translation: boy
+  - Word: камп'ютар
+    Translation: computer
+  - Word: ровар
+    Translation: bicycle
+  - Word: рубель
+    Translation: ruble
+  - Word: жанчына
+    Translation: woman
+  - Word: поле
+    Translation: field
+  - Word: кот
+    Translation: cat
+  - Word: долар
+    Translation: dollar
+
+Phrases:
+  - Phrase: нуль гадзіннікаў
+    Translation: zero clocks
+  - Phrase: адзін хлопчык
+    Translation: one boy
+  - Phrase: адна жанчына
+    Translation: one woman
+  - Phrase: адно поле
+    Translation: one field
+  - Phrase: два хлопчыкі
+    Translation: two boys
+  - Phrase: дзве жанчыны
+    Translation: two women
+  - Phrase: тры каты
+    Translation: three cats
+  - Phrase: чатыры ровары
+    Translation: four bicycles
+  - Phrase: пяць хлопчыкаў
+    Translation: five boys
+  - Phrase: шэсць ровараў
+    Translation: six bicycles
+  - Phrase: сем рублёў
+    Translation: seven rubles
+  - Phrase: восем долараў
+    Translation: eight dollars
+  - Phrase: дзевяць камп'ютараў
+    Translation: nine computers
+  - Phrase: дзесяць гадзіннікаў
+    Translation: ten clocks
+  - Phrase: дзве рэчы
+    Translation: two things
+  - Phrase: адно сонца
+    Translation: one sun
+  - Phrase: адзін ровар
+    Translation: one bicycle
+  - Phrase: чатыры долары
+    Translation: four dollars
+  - Phrase: тры каты
+    Translation: three cats
+  - Phrase: пяць катоў
+    Translation: five cats
+
+Mini-dictionary:
+  Belarusian:
+    - адзін: undefined
+    - адна: undefined
+    - адно: undefined
+    - восем: undefined
+    - гадзіннік: undefined
+    - гадзіннікаў: undefined
+    - два: undefined
+    - дзве: undefined
+    - дзевяць: undefined
+    - дзесяць: undefined
+    - долар: undefined
+    - долараў: undefined
+    - долары: undefined
+    - ж: undefined
+    - жанчына: undefined
+    - жанчыны: undefined
+    - камп'ютар: undefined
+    - камп'ютараў: undefined
+    - катоў: undefined
+    - каты: undefined
+    - кот: undefined
+    - м: undefined
+    - м/с: undefined
+    - нуль: undefined
+    - поле: undefined
+    - пяць: undefined
+    - ровар: undefined
+    - ровараў: undefined
+    - ровары: undefined
+    - рубель: undefined
+    - рублёў: undefined
+    - рэчы: undefined
+    - с: undefined
+    - сем: undefined
+    - сонца: undefined
+    - тры: undefined
+    - хлопчык: undefined
+    - хлопчыкаў: undefined
+    - хлопчыкі: undefined
+    - чатыры: undefined
+    - шэсць: undefined
+  English:
+    - bicycle: undefined
+    - bicycles: undefined
+    - boy: undefined
+    - boys: undefined
+    - cat: undefined
+    - cats: undefined
+    - clock/watch: undefined
+    - clocks: undefined
+    - computer: undefined
+    - computers: undefined
+    - dollar: undefined
+    - dollars: undefined
+    - eight: undefined
+    - field: undefined
+    - five: undefined
+    - four: undefined
+    - nine: undefined
+    - one: undefined
+    - ruble: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - sun: undefined
+    - ten: undefined
+    - things: undefined
+    - three: undefined
+    - two: undefined
+    - woman: undefined
+    - women: undefined
+    - zero: undefined

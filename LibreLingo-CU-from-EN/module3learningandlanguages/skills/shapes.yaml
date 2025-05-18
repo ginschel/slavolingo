@@ -1,0 +1,189 @@
+Skill:
+  Name: Shapes
+  Id: 10
+
+New words:
+  - Word: крꙋгъ
+    Translation: circle
+  - Word: квадратъ
+    Translation: square
+  - Word: чєтꙑрє
+    Translation: four
+  - Word: дълъгъ
+    Translation: long
+  - Word: три
+    Translation: three
+  - Word: трикѫтьникъ
+    Translation: triangle
+  - Word: стоꙗти (стои)
+    Translation: to stand
+  - Word: равьнъ
+    Translation: straight
+  - Word: форма
+    Translation: shape
+  - Word: линиꙗ
+    Translation: line
+  - Word: точка
+    Translation: point
+  - Word: обрꙑсъ
+    Translation: outline
+  - Word: страна
+    Translation: side
+  - Word: фигꙋра
+    Translation: figure
+  - Word: обликъ
+    Translation: shape
+
+Phrases:
+  - Phrase: Сь ѥстъ крꙋгъ.
+    Translation: This is a circle.
+  - Phrase: Квадратъ имаѥтъ чєтꙑрє странъ.
+    Translation: A square has four sides.
+  - Phrase: Трикѫтьникъ имаѥтъ три странъ.
+    Translation: A triangle has three sides.
+  - Phrase: Си линиꙗ ѥстъ дълъга.
+    Translation: This line is long.
+  - Phrase: Сь ѥстъ моꙗ форма.
+    Translation: This is my shape.
+  - Phrase: Линиꙗ ѥстъ равьна.
+    Translation: The line is straight.
+  - Phrase: Точка тъ малъи пꙋнктъ.
+    Translation: A point is a small dot.
+  - Phrase: Видимъ обрꙑсъ квадрата.
+    Translation: We see the outline of a square.
+  - Phrase: Фигꙋра ѥстъ комплєксьна.
+    Translation: The figure is complex.
+  - Phrase: Сь ѥстъ простъи обликъ.
+    Translation: This is a simple shape.
+  - Phrase: Азъ малѥѭ вєликъи крꙋгъ.
+    Translation: I am drawing a big circle.
+  - Phrase: Квадратъ и крꙋгъ сѫтъ основьнє формꙑ.
+    Translation: Square and circle are basic shapes.
+  - Phrase: Линиꙗ идєтъ чрѣзъ странѫ.
+    Translation: The line goes through the side.
+  - Phrase: Точка лєжитъ на линиѥи.
+    Translation: The point lies on the line.
+  - Phrase: Она знаѥтъ въсѧкъи обрꙑсъ Аньглиѥ.
+    Translation: She knows every outline of England.
+  - Phrase: Сь ѥстъ простъи трикѫтьникъ.
+    Translation: This is a simple triangle.
+  - Phrase: Онъ малѥѥтъ фигꙋрꙑ на папирꙋ.
+    Translation: He is drawing figures on paper.
+  - Phrase: Форма ѥстъ интєрєсьна.
+    Translation: The shape is interesting.
+  - Phrase: Столъ имаѥтъ обликъ квадрата.
+    Translation: The table has the shape of a square.
+  - Phrase: Красьна фигꙋра стои на столѣ.
+    Translation: A beautiful figure is standing on the table.
+
+Mini-dictionary:
+  Church Slavonic:
+    - азъ: undefined
+    - аньглиѥ: undefined
+    - видимъ: undefined
+    - въсѧкъи: undefined
+    - вєликъи: undefined
+    - дълъга: undefined
+    - дълъгъ: undefined
+    - знаѥтъ: undefined
+    - и: undefined
+    - идєтъ: undefined
+    - имаѥтъ: undefined
+    - интєрєсьна: undefined
+    - квадрата: undefined
+    - квадратъ: undefined
+    - комплєксьна: undefined
+    - красьна: undefined
+    - крꙋгъ: undefined
+    - линиѥи: undefined
+    - линиꙗ: undefined
+    - лєжитъ: undefined
+    - малъи: undefined
+    - малѥѥтъ: undefined
+    - малѥѭ: undefined
+    - моꙗ: undefined
+    - на: undefined
+    - обликъ: undefined
+    - обрꙑсъ: undefined
+    - она: undefined
+    - онъ: undefined
+    - основьнє: undefined
+    - папирꙋ: undefined
+    - простъи: undefined
+    - пꙋнктъ: undefined
+    - равьна: undefined
+    - равьнъ: undefined
+    - си: undefined
+    - стои: undefined
+    - столъ: undefined
+    - столѣ: undefined
+    - стоꙗти: undefined
+    - страна: undefined
+    - странъ: undefined
+    - странѫ: undefined
+    - сь: undefined
+    - сѫтъ: undefined
+    - точка: undefined
+    - три: undefined
+    - трикѫтьникъ: undefined
+    - тъ: undefined
+    - фигꙋра: undefined
+    - фигꙋрꙑ: undefined
+    - форма: undefined
+    - формꙑ: undefined
+    - чрѣзъ: undefined
+    - чєтꙑрє: undefined
+    - ѥстъ: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - basic: undefined
+    - beautiful: undefined
+    - big: undefined
+    - circle: undefined
+    - complex: undefined
+    - dot: undefined
+    - drawing: undefined
+    - england: undefined
+    - every: undefined
+    - figure: undefined
+    - figures: undefined
+    - four: undefined
+    - goes: undefined
+    - has: undefined
+    - he: undefined
+    - i: undefined
+    - interesting: undefined
+    - is: undefined
+    - knows: undefined
+    - lies: undefined
+    - line: undefined
+    - long: undefined
+    - my: undefined
+    - of: undefined
+    - on: undefined
+    - outline: undefined
+    - paper: undefined
+    - point: undefined
+    - see: undefined
+    - shape: undefined
+    - shapes: undefined
+    - she: undefined
+    - side: undefined
+    - sides: undefined
+    - simple: undefined
+    - small: undefined
+    - square: undefined
+    - stand: undefined
+    - standing: undefined
+    - straight: undefined
+    - table: undefined
+    - the: undefined
+    - this: undefined
+    - three: undefined
+    - through: undefined
+    - to: undefined
+    - triangle: undefined
+    - we: undefined

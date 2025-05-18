@@ -1,0 +1,190 @@
+Skill:
+  Name: Shapes
+  Id: 10
+
+New words:
+  - Word: коло
+    Translation: circle
+  - Word: квадрат
+    Translation: square
+  - Word: чотири
+    Translation: four
+  - Word: довгий
+    Translation: long
+  - Word: три
+    Translation: three
+  - Word: трикутник
+    Translation: triangle
+  - Word: стояти (стоїть)
+    Translation: to stand
+  - Word: рівний
+    Translation: straight
+  - Word: форма
+    Translation: shape
+  - Word: лінія
+    Translation: line
+  - Word: точка
+    Translation: point
+  - Word: обрис
+    Translation: outline
+  - Word: сторона
+    Translation: side
+  - Word: фігура
+    Translation: figure
+  - Word: форма/вигляд
+    Translation: shape
+
+Phrases:
+  - Phrase: Це є коло.
+    Translation: This is a circle.
+  - Phrase: Квадрат має чотири сторони.
+    Translation: A square has four sides.
+  - Phrase: Трикутник має три сторони.
+    Translation: A triangle has three sides.
+  - Phrase: Та лінія є довга.
+    Translation: This line is long.
+  - Phrase: Це є моя форма.
+    Translation: This is my shape.
+  - Phrase: Лінія є рівна.
+    Translation: The line is straight.
+  - Phrase: Точка то малий пункт.
+    Translation: A point is a small dot.
+  - Phrase: Бачимо обрис квадрата.
+    Translation: We see the outline of a square.
+  - Phrase: Фігура є комплексна.
+    Translation: The figure is complex.
+  - Phrase: Це є простий вигляд.
+    Translation: This is a simple shape.
+  - Phrase: Я малюю велике коло.
+    Translation: I am drawing a big circle.
+  - Phrase: Квадрат і коло є основні форми.
+    Translation: Square and circle are basic shapes.
+  - Phrase: Лінія йде через сторону.
+    Translation: The line goes through the side.
+  - Phrase: Точка лежить на лінії.
+    Translation: The point lies on the line.
+  - Phrase: Вона знає кожен обрис Англії.
+    Translation: She knows every outline of England.
+  - Phrase: Це є простий трикутник.
+    Translation: This is a simple triangle.
+  - Phrase: Він малює фігури на папері.
+    Translation: He is drawing figures on paper.
+  - Phrase: Форма є цікава.
+    Translation: The shape is interesting.
+  - Phrase: Стіл має форму квадрата.
+    Translation: The table has the shape of a square.
+  - Phrase: Красива фігура стоїть на столі.
+    Translation: A beautiful figure is standing on the table.
+
+Mini-dictionary:
+  Ukrainian:
+    - англії: undefined
+    - бачимо: undefined
+    - велике: undefined
+    - вигляд: undefined
+    - вона: undefined
+    - він: undefined
+    - довга: undefined
+    - довгий: undefined
+    - знає: undefined
+    - йде: undefined
+    - квадрат: undefined
+    - квадрата: undefined
+    - кожен: undefined
+    - коло: undefined
+    - комплексна: undefined
+    - красива: undefined
+    - лежить: undefined
+    - лінія: undefined
+    - лінії: undefined
+    - малий: undefined
+    - малюю: undefined
+    - малює: undefined
+    - має: undefined
+    - моя: undefined
+    - на: undefined
+    - обрис: undefined
+    - основні: undefined
+    - папері: undefined
+    - простий: undefined
+    - пункт: undefined
+    - рівна: undefined
+    - рівний: undefined
+    - столі: undefined
+    - сторона: undefined
+    - сторони: undefined
+    - сторону: undefined
+    - стояти: undefined
+    - стоїть: undefined
+    - стіл: undefined
+    - та: undefined
+    - то: undefined
+    - точка: undefined
+    - три: undefined
+    - трикутник: undefined
+    - форма: undefined
+    - форма/вигляд: undefined
+    - форми: undefined
+    - форму: undefined
+    - фігура: undefined
+    - фігури: undefined
+    - це: undefined
+    - цікава: undefined
+    - через: undefined
+    - чотири: undefined
+    - я: undefined
+    - є: undefined
+    - і: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - basic: undefined
+    - beautiful: undefined
+    - big: undefined
+    - circle: undefined
+    - complex: undefined
+    - dot: undefined
+    - drawing: undefined
+    - england: undefined
+    - every: undefined
+    - figure: undefined
+    - figures: undefined
+    - four: undefined
+    - goes: undefined
+    - has: undefined
+    - he: undefined
+    - i: undefined
+    - interesting: undefined
+    - is: undefined
+    - knows: undefined
+    - lies: undefined
+    - line: undefined
+    - long: undefined
+    - my: undefined
+    - of: undefined
+    - on: undefined
+    - outline: undefined
+    - paper: undefined
+    - point: undefined
+    - see: undefined
+    - shape: undefined
+    - shapes: undefined
+    - she: undefined
+    - side: undefined
+    - sides: undefined
+    - simple: undefined
+    - small: undefined
+    - square: undefined
+    - stand: undefined
+    - standing: undefined
+    - straight: undefined
+    - table: undefined
+    - the: undefined
+    - this: undefined
+    - three: undefined
+    - through: undefined
+    - to: undefined
+    - triangle: undefined
+    - we: undefined

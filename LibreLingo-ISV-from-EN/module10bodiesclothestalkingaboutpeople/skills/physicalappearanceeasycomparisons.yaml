@@ -1,0 +1,253 @@
+Skill:
+  Name: Physical Appearance (Easy comparisons)
+  Id: 38
+
+New words:
+  - Word: vysoky
+    Translation: tall
+  - Word: nizky
+    Translation: short
+  - Word: debely
+    Translation: fat
+  - Word: chudy
+    Translation: thin
+  - Word: maly
+    Translation: small
+  - Word: krasivy
+    Translation: beautiful
+  - Word: bridky
+    Translation: ugly
+  - Word: stary
+    Translation: old
+  - Word: mlady
+    Translation: young
+  - Word: vlasy
+    Translation: hair
+  - Word: oči
+    Translation: eyes
+  - Word: než
+    Translation: than
+  - Word: vyše
+    Translation: taller/higher
+  - Word: koža
+    Translation: skin
+  - Word: menje
+    Translation: less
+  - Word: smějati se (směje)
+    Translation: to laugh
+  - Word: blěskati
+    Translation: to shine
+  - Word: zvězda
+    Translation: star
+  - Word: světly
+    Translation: light
+  - Word: temny
+    Translation: dark
+
+Phrases:
+  - Phrase: On jest vyše vysoky i silny než on.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Ona jest nizka i chuda kak on.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Debely muž ide po ulici.
+    Translation: The fat man is walking down the street.
+  - Phrase: Chudy ima menje tělesnoj masy než debely.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: To jest vyše krasivy člověk než toj.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Stari ljudi sut vyše mudri než my.
+    Translation: Old people are wiser than us.
+  - Phrase: Mlada ima mnogo energiji.
+    Translation: The young one has a lot of energy.
+  - Phrase: Jego vlasy sut plave.
+    Translation: His hair is blonde.
+  - Phrase: Oči sut vyše zelene než u njego.
+    Translation: Her eyes are greener than his.
+  - Phrase: Koža jego jest běla.
+    Translation: His skin is white.
+  - Phrase: On ima dolge vlosy.
+    Translation: He has long hair.
+  - Phrase: Ona ima zelene oči.
+    Translation: She has green eyes.
+  - Phrase: Koža jest gladka.
+    Translation: Her skin is smooth.
+  - Phrase: Stara žena nosi šapku.
+    Translation: The old woman wears a hat.
+  - Phrase: Mladi ljudi často sportujut.
+    Translation: Young people often play sports.
+  - Phrase: Debely muž směje se vyše než toj bridky muž.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Nizka děvka ide do doma.
+    Translation: The short girl is going home.
+  - Phrase: Krasive oči blěskajut kak zvězdy na nebu.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Chudy nosi vyše veliku košulju než ja.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Jej vlasy sut světle i dolge.
+    Translation: Her hair is light and long.
+  - Phrase: A jego krasne vlasy sut temne kak noč.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Interslavic:
+    - a: undefined
+    - blěskajut: undefined
+    - blěskati: undefined
+    - bridky: undefined
+    - běla: undefined
+    - chuda: undefined
+    - chudy: undefined
+    - debely: undefined
+    - do: undefined
+    - dolge: undefined
+    - doma: undefined
+    - děvka: undefined
+    - energiji: undefined
+    - gladka: undefined
+    - i: undefined
+    - ide: undefined
+    - ima: undefined
+    - ja: undefined
+    - jego: undefined
+    - jej: undefined
+    - jest: undefined
+    - kak: undefined
+    - košulju: undefined
+    - koža: undefined
+    - krasive: undefined
+    - krasivy: undefined
+    - krasne: undefined
+    - ljudi: undefined
+    - maly: undefined
+    - masy: undefined
+    - menje: undefined
+    - mlada: undefined
+    - mladi: undefined
+    - mlady: undefined
+    - mnogo: undefined
+    - mudri: undefined
+    - muž: undefined
+    - my: undefined
+    - na: undefined
+    - nebu: undefined
+    - než: undefined
+    - nizka: undefined
+    - nizky: undefined
+    - njego: undefined
+    - nosi: undefined
+    - noč: undefined
+    - on: undefined
+    - ona: undefined
+    - oči: undefined
+    - plave: undefined
+    - po: undefined
+    - se: undefined
+    - silny: undefined
+    - smějati: undefined
+    - směje: undefined
+    - sportujut: undefined
+    - stara: undefined
+    - stari: undefined
+    - stary: undefined
+    - sut: undefined
+    - světle: undefined
+    - světly: undefined
+    - temne: undefined
+    - temny: undefined
+    - to: undefined
+    - toj: undefined
+    - tělesnoj: undefined
+    - u: undefined
+    - ulici: undefined
+    - veliku: undefined
+    - vlasy: undefined
+    - vlosy: undefined
+    - vysoky: undefined
+    - vyše: undefined
+    - zelene: undefined
+    - zvězda: undefined
+    - zvězdy: undefined
+    - často: undefined
+    - člověk: undefined
+    - šapku: undefined
+    - žena: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - as: undefined
+    - beautiful: undefined
+    - blonde: undefined
+    - body: undefined
+    - dark: undefined
+    - do: undefined
+    - down: undefined
+    - energy: undefined
+    - eyes: undefined
+    - fat: undefined
+    - girl: undefined
+    - going: undefined
+    - green: undefined
+    - greener: undefined
+    - hair: undefined
+    - has: undefined
+    - hat: undefined
+    - he: undefined
+    - her: undefined
+    - him: undefined
+    - his: undefined
+    - home: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - larger: undefined
+    - laugh: undefined
+    - laughs: undefined
+    - less: undefined
+    - light: undefined
+    - like: undefined
+    - long: undefined
+    - lot: undefined
+    - louder: undefined
+    - man: undefined
+    - mass: undefined
+    - more: undefined
+    - night: undefined
+    - of: undefined
+    - often: undefined
+    - old: undefined
+    - one: undefined
+    - people: undefined
+    - person: undefined
+    - play: undefined
+    - she: undefined
+    - shine: undefined
+    - shirt: undefined
+    - short: undefined
+    - shorter: undefined
+    - skin: undefined
+    - sky: undefined
+    - small: undefined
+    - smooth: undefined
+    - sports: undefined
+    - star: undefined
+    - stars: undefined
+    - street: undefined
+    - stronger: undefined
+    - tall: undefined
+    - taller: undefined
+    - taller/higher: undefined
+    - than: undefined
+    - that: undefined
+    - the: undefined
+    - thin: undefined
+    - thinner: undefined
+    - to: undefined
+    - ugly: undefined
+    - us: undefined
+    - walking: undefined
+    - wears: undefined
+    - white: undefined
+    - wiser: undefined
+    - woman: undefined
+    - young: undefined

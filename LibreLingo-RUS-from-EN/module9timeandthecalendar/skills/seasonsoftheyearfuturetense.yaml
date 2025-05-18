@@ -1,0 +1,199 @@
+Skill:
+  Name: Seasons of the year (future tense)
+  Id: 33
+
+New words:
+  - Word: лето
+    Translation: summer
+  - Word: осень
+    Translation: autumn
+  - Word: зима
+    Translation: winter
+  - Word: весна
+    Translation: spring
+  - Word: сезон
+    Translation: season
+  - Word: быть
+    Translation: to be
+  - Word: буду
+    Translation: I will be
+  - Word: будешь
+    Translation: you will be
+  - Word: будет
+    Translation: he/she/it will be
+  - Word: будем
+    Translation: we will be
+  - Word: будете
+    Translation: you will be
+  - Word: будут
+    Translation: they will be
+
+Phrases:
+  - Phrase: В лете будет тепло.
+    Translation: In the summer it will be warm.
+  - Phrase: В осени будем видеть падающие листья.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: В зиме будете играть со снегом.
+    Translation: In the winter you will play with snow.
+  - Phrase: Весна принесёт цветы.
+    Translation: Spring will bring flowers.
+  - Phrase: Сезон будет изменяться четыре раза.
+    Translation: The season will change four times.
+  - Phrase: В зиме будет падать снег.
+    Translation: In the winter it will snow.
+  - Phrase: Весной растут цветы.
+    Translation: In spring, flowers grow.
+  - Phrase: В лете есть много солнца.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: В осени будешь много страдать через дождь.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Воздух в зиме будет холодный.
+    Translation: The air in winter will be cold.
+  - Phrase: Лето есть сезоном отдыха при озере.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Осень имеет много цветов.
+    Translation: Autumn has many colors.
+  - Phrase: Зима не есть добра для спортсменов.
+    Translation: Winter is not good for sports.
+  - Phrase: Весна есть скучная.
+    Translation: Spring is boring.
+  - Phrase: Сезоны меняются четыре раза в году.
+    Translation: The seasons change four times a year.
+  - Phrase: Скоро кончается лето.
+    Translation: Summer will soon end.
+  - Phrase: В осени только падает дождь.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Зима имеет много снега.
+    Translation: Winter has a lot of snow.
+  - Phrase: Они будут видеть зелёный пейзаж.
+    Translation: They will see a green landscape.
+  - Phrase: Солнце будет светить сильно в лете.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Russian:
+    - будем: undefined
+    - будет: undefined
+    - будете: undefined
+    - будешь: undefined
+    - буду: undefined
+    - будут: undefined
+    - быть: undefined
+    - в: undefined
+    - весна: undefined
+    - весной: undefined
+    - видеть: undefined
+    - воздух: undefined
+    - году: undefined
+    - для: undefined
+    - добра: undefined
+    - дождь: undefined
+    - есть: undefined
+    - зелёный: undefined
+    - зима: undefined
+    - зиме: undefined
+    - играть: undefined
+    - изменяться: undefined
+    - имеет: undefined
+    - кончается: undefined
+    - лете: undefined
+    - лето: undefined
+    - листья: undefined
+    - меняются: undefined
+    - много: undefined
+    - не: undefined
+    - озере: undefined
+    - они: undefined
+    - осени: undefined
+    - осень: undefined
+    - отдыха: undefined
+    - падает: undefined
+    - падать: undefined
+    - падающие: undefined
+    - пейзаж: undefined
+    - при: undefined
+    - принесёт: undefined
+    - раза: undefined
+    - растут: undefined
+    - светить: undefined
+    - сезон: undefined
+    - сезоном: undefined
+    - сезоны: undefined
+    - сильно: undefined
+    - скоро: undefined
+    - скучная: undefined
+    - снег: undefined
+    - снега: undefined
+    - снегом: undefined
+    - со: undefined
+    - солнца: undefined
+    - солнце: undefined
+    - спортсменов: undefined
+    - страдать: undefined
+    - тепло: undefined
+    - только: undefined
+    - холодный: undefined
+    - цветов: undefined
+    - цветы: undefined
+    - через: undefined
+    - четыре: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - autumn: undefined
+    - be: undefined
+    - because: undefined
+    - boring: undefined
+    - bring: undefined
+    - by: undefined
+    - change: undefined
+    - cold: undefined
+    - colors: undefined
+    - end: undefined
+    - falling: undefined
+    - flowers: undefined
+    - for: undefined
+    - four: undefined
+    - good: undefined
+    - green: undefined
+    - grow: undefined
+    - has: undefined
+    - he/she/it: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lake: undefined
+    - landscape: undefined
+    - leaves: undefined
+    - lot: undefined
+    - many: undefined
+    - not: undefined
+    - of: undefined
+    - play: undefined
+    - rain: undefined
+    - rest: undefined
+    - season: undefined
+    - seasons: undefined
+    - see: undefined
+    - shine: undefined
+    - snow: undefined
+    - soon: undefined
+    - sports: undefined
+    - spring: undefined
+    - strongly: undefined
+    - suffer: undefined
+    - summer: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - they: undefined
+    - times: undefined
+    - to: undefined
+    - warm: undefined
+    - we: undefined
+    - will: undefined
+    - winter: undefined
+    - with: undefined
+    - year: undefined
+    - you: undefined

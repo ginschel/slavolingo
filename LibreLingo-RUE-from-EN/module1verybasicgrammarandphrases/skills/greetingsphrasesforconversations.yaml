@@ -1,0 +1,251 @@
+Skill:
+  Name: Greetings & Phrases for conversations
+  Id: 2
+
+New words:
+  - Word: поздрав
+    Translation: greeting
+  - Word: здоровый
+    Translation: healthy/hello
+  - Word: бесїда
+    Translation: conversation
+  - Word: утро
+    Translation: morning
+  - Word: вечер
+    Translation: evening
+  - Word: дїнь
+    Translation: day
+  - Word: ніч
+    Translation: night
+  - Word: хвала
+    Translation: thanks
+  - Word: пардон
+    Translation: pardon
+  - Word: простїт
+    Translation: excuse me
+  - Word: добрый
+    Translation: good
+  - Word: лїпше
+    Translation: better
+  - Word: можно
+    Translation: possible
+  - Word: шкода
+    Translation: pity
+  - Word: так
+    Translation: so
+  - Word: што
+    Translation: what
+  - Word: не
+    Translation: no
+  - Word: да
+    Translation: yes
+  - Word: може
+    Translation: maybe/can
+  - Word: давай
+    Translation: let's go
+
+Phrases:
+  - Phrase: Доброє утро!
+    Translation: Good morning!
+  - Phrase: Добрый вечер!
+    Translation: Good evening!
+  - Phrase: Добрый дїнь!
+    Translation: Good day!
+  - Phrase: Добра ніч!
+    Translation: Good night!
+  - Phrase: Яко єси?
+    Translation: How are you?
+  - Phrase: Єм добрe, хвала!
+    Translation: I am well, thank you!
+  - Phrase: І ты?
+    Translation: And you?
+  - Phrase: Хвала тобі много.
+    Translation: Thank you very much.
+  - Phrase: Пардон, не розумїю.
+    Translation: Excuse me, I don't understand.
+  - Phrase: Поздрав!
+    Translation: Greetings!
+  - Phrase: Здоровый!
+    Translation: Hello!
+  - Phrase: Добрый дїнь, яко єси?
+    Translation: Good day, how are you?
+  - Phrase: Єси ли ты здоровый?
+    Translation: Are you healthy?
+  - Phrase: Вітайтe!
+    Translation: Welcome!
+  - Phrase: На здоровя!
+    Translation: To your health!
+  - Phrase: Поздрав твою сестру.
+    Translation: Greet your sister.
+  - Phrase: Як ся зовеш?
+    Translation: What is your name?
+  - Phrase: Я ся зову Бартек.
+    Translation: My name is Bartek.
+  - Phrase: Благодарю за бесїду.
+    Translation: Thank you for the conversation.
+  - Phrase: Так є.
+    Translation: That is so.
+  - Phrase: Не так.
+    Translation: Not so.
+  - Phrase: Може быти.
+    Translation: Maybe.
+  - Phrase: Не можно.
+    Translation: Not possible.
+  - Phrase: Шкода!
+    Translation: What a pity!
+  - Phrase: Добрe!
+    Translation: Good!
+  - Phrase: Не добрe.
+    Translation: Not good.
+  - Phrase: Тото є лїпше.
+    Translation: This is better.
+  - Phrase: Тото не є лїпше.
+    Translation: This is not better.
+  - Phrase: Да, може.
+    Translation: Yes, it is possible.
+  - Phrase: Не, не можно.
+    Translation: No, it is not possible.
+  - Phrase: Є тото можно?
+    Translation: Is this possible?
+  - Phrase: Што тото значіт?
+    Translation: What does this mean?
+  - Phrase: Тоже я.
+    Translation: Me too.
+  - Phrase: З Богом!
+    Translation: Go with God!
+  - Phrase: Не знам.
+    Translation: I don't know.
+  - Phrase: Може.
+    Translation: Perhaps.
+  - Phrase: Повторїт. Не розумїв.
+    Translation: Repeat. I didn't understand.
+  - Phrase: Єси ли готовый?
+    Translation: Are you ready?
+  - Phrase: Давай!
+    Translation: Let's go!
+
+Mini-dictionary:
+  Rusin:
+    - бартек: undefined
+    - бесїда: undefined
+    - бесїду: undefined
+    - благодарю: undefined
+    - богом: undefined
+    - быти: undefined
+    - вечер: undefined
+    - вітайтe: undefined
+    - готовый: undefined
+    - да: undefined
+    - давай: undefined
+    - добрe: undefined
+    - добра: undefined
+    - доброє: undefined
+    - добрый: undefined
+    - дїнь: undefined
+    - з: undefined
+    - за: undefined
+    - здоровый: undefined
+    - здоровя: undefined
+    - знам: undefined
+    - значіт: undefined
+    - зовеш: undefined
+    - зову: undefined
+    - ли: undefined
+    - лїпше: undefined
+    - много: undefined
+    - може: undefined
+    - можно: undefined
+    - на: undefined
+    - не: undefined
+    - ніч: undefined
+    - пардон: undefined
+    - повторїт: undefined
+    - поздрав: undefined
+    - простїт: undefined
+    - розумїв: undefined
+    - розумїю: undefined
+    - сестру: undefined
+    - ся: undefined
+    - так: undefined
+    - твою: undefined
+    - тобі: undefined
+    - тоже: undefined
+    - тото: undefined
+    - ты: undefined
+    - утро: undefined
+    - хвала: undefined
+    - шкода: undefined
+    - што: undefined
+    - я: undefined
+    - як: undefined
+    - яко: undefined
+    - є: undefined
+    - єм: undefined
+    - єси: undefined
+    - і: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - bartek: undefined
+    - better: undefined
+    - conversation: undefined
+    - day: undefined
+    - didn't: undefined
+    - does: undefined
+    - don't: undefined
+    - evening: undefined
+    - excuse: undefined
+    - for: undefined
+    - go: undefined
+    - god: undefined
+    - good: undefined
+    - greet: undefined
+    - greeting: undefined
+    - greetings: undefined
+    - health: undefined
+    - healthy: undefined
+    - healthy/hello: undefined
+    - hello: undefined
+    - how: undefined
+    - i: undefined
+    - is: undefined
+    - it: undefined
+    - know: undefined
+    - let's: undefined
+    - maybe: undefined
+    - maybe/can: undefined
+    - me: undefined
+    - mean: undefined
+    - morning: undefined
+    - much: undefined
+    - my: undefined
+    - name: undefined
+    - night: undefined
+    - no: undefined
+    - not: undefined
+    - pardon: undefined
+    - perhaps: undefined
+    - pity: undefined
+    - possible: undefined
+    - ready: undefined
+    - repeat: undefined
+    - sister: undefined
+    - so: undefined
+    - thank: undefined
+    - thanks: undefined
+    - that: undefined
+    - the: undefined
+    - this: undefined
+    - to: undefined
+    - too: undefined
+    - understand: undefined
+    - very: undefined
+    - welcome: undefined
+    - well: undefined
+    - what: undefined
+    - with: undefined
+    - yes: undefined
+    - you: undefined
+    - your: undefined

@@ -1,0 +1,233 @@
+Skill:
+  Name: Emotions (adverbs)
+  Id: 37
+
+New words:
+  - Word: radostny
+    Translation: joyful
+  - Word: žałostny
+    Translation: sad
+  - Word: zajećany
+    Translation: angry
+  - Word: lubosć
+    Translation: love
+  - Word: přestrašeny
+    Translation: frightened
+  - Word: měr
+    Translation: peace
+  - Word: zawěsć
+    Translation: envy
+  - Word: zahanbjeny
+    Translation: ashamed
+  - Word: hanba
+    Translation: shame
+  - Word: hórdy
+    Translation: proud
+  - Word: wjesoły
+    Translation: cheerful
+  - Word: třěsnjenje
+    Translation: tremor
+  - Word: čuć (čuje)
+    Translation: to feel
+  - Word: schować
+    Translation: to hide
+  - Word: ćěžeć
+    Translation: to run away
+
+Phrases:
+  - Phrase: Čuju so radostnje dźensa.
+    Translation: We feel joyful this week.
+  - Phrase: Žałostnje wón rěčeše.
+    Translation: He spoke sadly.
+  - Phrase: Wón zajećano jemu kaže dźěłać.
+    Translation: He angrily tells him to work.
+  - Phrase: Lubosć to je sylna emocija.
+    Translation: Love is a strong emotion.
+  - Phrase: Strah to je přirodna reakcija.
+    Translation: Fear is a natural reaction.
+  - Phrase: Měr je wažny za dušu.
+    Translation: Peace is important for the soul.
+  - Phrase: Zawěsć to je čorna emocija.
+    Translation: Envy is a dark emotion.
+  - Phrase: Zahanbjenje wón čuje hanbu.
+    Translation: He feels ashamed.
+  - Phrase: Wjesoło so jemu napołni wutroba.
+    Translation: His heart was filled with joy.
+  - Phrase: Z zawěsću wón hlada na njeho.
+    Translation: He is jealous of him.
+  - Phrase: Ja mam žałosć w wutroby.
+    Translation: I have sadness in my heart.
+  - Phrase: Wona pokazuje jim swoju dźěło wjesoło.
+    Translation: She shows them her work joyfully.
+  - Phrase: Wón schowa hórdy swoj hniew.
+    Translation: He hides his anger proudly.
+  - Phrase: My čujemy měr.
+    Translation: We feel peaceful.
+  - Phrase: Strah je w nas.
+    Translation: Fear is inside us.
+  - Phrase: Přestrašeny wón ćěžeše.
+    Translation: He was frightened and ran away.
+  - Phrase: Hanba je wulcesylna.
+    Translation: Shame is very strong.
+  - Phrase: Radostnje šoł do doma.
+    Translation: He joyfully went home.
+  - Phrase: Radost dźe znutřka.
+    Translation: Joy comes from within.
+  - Phrase: Ćerpjeć chcemy jenož, hdyž lubimy.
+    Translation: We only suffer when we love.
+
+Mini-dictionary:
+  Upper Sorbian:
+    - chcemy: undefined
+    - do: undefined
+    - doma: undefined
+    - dušu: undefined
+    - dźe: undefined
+    - dźensa: undefined
+    - dźěłać: undefined
+    - dźěło: undefined
+    - emocija: undefined
+    - hanba: undefined
+    - hanbu: undefined
+    - hdyž: undefined
+    - hlada: undefined
+    - hniew: undefined
+    - hórdy: undefined
+    - ja: undefined
+    - je: undefined
+    - jemu: undefined
+    - jenož: undefined
+    - jim: undefined
+    - kaže: undefined
+    - lubimy: undefined
+    - lubosć: undefined
+    - mam: undefined
+    - my: undefined
+    - měr: undefined
+    - na: undefined
+    - napołni: undefined
+    - nas: undefined
+    - njeho: undefined
+    - pokazuje: undefined
+    - přestrašeny: undefined
+    - přirodna: undefined
+    - radost: undefined
+    - radostnje: undefined
+    - radostny: undefined
+    - reakcija: undefined
+    - rěčeše: undefined
+    - schowa: undefined
+    - schować: undefined
+    - so: undefined
+    - strah: undefined
+    - swoj: undefined
+    - swoju: undefined
+    - sylna: undefined
+    - to: undefined
+    - třěsnjenje: undefined
+    - w: undefined
+    - wažny: undefined
+    - wjesoło: undefined
+    - wjesoły: undefined
+    - wona: undefined
+    - wulcesylna: undefined
+    - wutroba: undefined
+    - wutroby: undefined
+    - wón: undefined
+    - z: undefined
+    - za: undefined
+    - zahanbjenje: undefined
+    - zahanbjeny: undefined
+    - zajećano: undefined
+    - zajećany: undefined
+    - zawěsć: undefined
+    - zawěsću: undefined
+    - znutřka: undefined
+    - ćerpjeć: undefined
+    - ćěžeć: undefined
+    - ćěžeše: undefined
+    - čorna: undefined
+    - čuje: undefined
+    - čujemy: undefined
+    - čuju: undefined
+    - čuć: undefined
+    - šoł: undefined
+    - žałostnje: undefined
+    - žałostny: undefined
+    - žałosć: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - anger: undefined
+    - angrily: undefined
+    - angry: undefined
+    - ashamed: undefined
+    - away: undefined
+    - cheerful: undefined
+    - comes: undefined
+    - dark: undefined
+    - emotion: undefined
+    - envy: undefined
+    - fear: undefined
+    - feel: undefined
+    - feels: undefined
+    - filled: undefined
+    - for: undefined
+    - frightened: undefined
+    - from: undefined
+    - have: undefined
+    - he: undefined
+    - heart: undefined
+    - her: undefined
+    - hide: undefined
+    - hides: undefined
+    - him: undefined
+    - his: undefined
+    - home: undefined
+    - i: undefined
+    - important: undefined
+    - in: undefined
+    - inside: undefined
+    - is: undefined
+    - jealous: undefined
+    - joy: undefined
+    - joyful: undefined
+    - joyfully: undefined
+    - love: undefined
+    - my: undefined
+    - natural: undefined
+    - of: undefined
+    - only: undefined
+    - peace: undefined
+    - peaceful: undefined
+    - proud: undefined
+    - proudly: undefined
+    - ran: undefined
+    - reaction: undefined
+    - run: undefined
+    - sad: undefined
+    - sadly: undefined
+    - sadness: undefined
+    - shame: undefined
+    - she: undefined
+    - shows: undefined
+    - soul: undefined
+    - spoke: undefined
+    - strong: undefined
+    - suffer: undefined
+    - tells: undefined
+    - the: undefined
+    - them: undefined
+    - this: undefined
+    - to: undefined
+    - tremor: undefined
+    - us: undefined
+    - very: undefined
+    - was: undefined
+    - we: undefined
+    - week: undefined
+    - went: undefined
+    - when: undefined
+    - with: undefined
+    - within: undefined
+    - work: undefined

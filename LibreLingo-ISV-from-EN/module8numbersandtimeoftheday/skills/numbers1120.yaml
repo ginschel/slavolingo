@@ -1,0 +1,121 @@
+Skill:
+  Name: Numbers 11-20
+  Id: 27
+
+New words:
+  - Word: jedinnadset
+    Translation: eleven
+  - Word: dvanadset
+    Translation: twelve
+  - Word: trinadset
+    Translation: thirteen
+  - Word: četyrinadset
+    Translation: fourteen
+  - Word: petnadset
+    Translation: fifteen
+  - Word: šestnadset
+    Translation: sixteen
+  - Word: sedmnadset
+    Translation: seventeen
+  - Word: osmnadset
+    Translation: eighteen
+  - Word: devetnadset
+    Translation: nineteen
+  - Word: dvadeset
+    Translation: twenty
+
+Phrases:
+  - Phrase: dvadeset časovnikov
+    Translation: twenty clocks
+  - Phrase: jedinnadset hlapcev
+    Translation: eleven boys
+  - Phrase: jedinnadset žen
+    Translation: eleven women
+  - Phrase: jedinnadset polej
+    Translation: eleven fields
+  - Phrase: dvanadset mužev
+    Translation: twelve men
+  - Phrase: dvanadset šest žen
+    Translation: twelve women
+  - Phrase: trinadset kotov
+    Translation: thirteen cats
+  - Phrase: četyrinadset velosipedov
+    Translation: fourteen bicycles
+  - Phrase: petnadset hlapcev
+    Translation: fifteen boys
+  - Phrase: šestnadset velosipedov
+    Translation: sixteen bicycles
+  - Phrase: sedmnadset rubljev
+    Translation: seventeen rubles
+  - Phrase: osmnadset dolarov
+    Translation: eighteen dollars
+  - Phrase: devetnadset pet kompjuterov
+    Translation: nineteen computers
+  - Phrase: desetnadset časovnikov
+    Translation: twenty clocks
+  - Phrase: dvanadset věčij
+    Translation: twelve things
+  - Phrase: jedinnadset solnc
+    Translation: eleven suns
+  - Phrase: šestnadset velosipedov
+    Translation: sixteen bicycles
+  - Phrase: četyrinadset dolarov
+    Translation: fourteen dollars
+  - Phrase: trinadset dva psov
+    Translation: thirteen dogs
+  - Phrase: dvadeset kotov
+    Translation: twenty cats
+
+Mini-dictionary:
+  Interslavic:
+    - desetnadset: undefined
+    - devetnadset: undefined
+    - dolarov: undefined
+    - dva: undefined
+    - dvadeset: undefined
+    - dvanadset: undefined
+    - hlapcev: undefined
+    - jedinnadset: undefined
+    - kompjuterov: undefined
+    - kotov: undefined
+    - mužev: undefined
+    - osmnadset: undefined
+    - pet: undefined
+    - petnadset: undefined
+    - polej: undefined
+    - psov: undefined
+    - rubljev: undefined
+    - sedmnadset: undefined
+    - solnc: undefined
+    - trinadset: undefined
+    - velosipedov: undefined
+    - věčij: undefined
+    - časovnikov: undefined
+    - četyrinadset: undefined
+    - šest: undefined
+    - šestnadset: undefined
+    - žen: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eighteen: undefined
+    - eleven: undefined
+    - fields: undefined
+    - fifteen: undefined
+    - fourteen: undefined
+    - men: undefined
+    - nineteen: undefined
+    - rubles: undefined
+    - seventeen: undefined
+    - sixteen: undefined
+    - suns: undefined
+    - things: undefined
+    - thirteen: undefined
+    - twelve: undefined
+    - twenty: undefined
+    - women: undefined

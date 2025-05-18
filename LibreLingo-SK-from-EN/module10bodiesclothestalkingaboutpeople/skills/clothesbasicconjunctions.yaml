@@ -1,0 +1,243 @@
+Skill:
+  Name: Clothes  (basic conjunctions)
+  Id: 34
+
+New words:
+  - Word: košeľa
+    Translation: shirt
+  - Word: nosiť
+    Translation: to wear
+  - Word: nohavice
+    Translation: trousers
+  - Word: tričko
+    Translation: t-shirt
+  - Word: šál
+    Translation: scarf
+  - Word: čiapka
+    Translation: hat
+  - Word: kabát
+    Translation: coat
+  - Word: rukavica
+    Translation: glove
+  - Word: nohavičky
+    Translation: underwear
+  - Word: ponožka
+    Translation: sock
+  - Word: obuv
+    Translation: footwear
+  - Word: oblečenie
+    Translation: clothes
+  - Word: škaredý
+    Translation: ugly
+  - Word: obliekať sa
+    Translation: to dress
+  - Word: pyžamo
+    Translation: pajamas
+
+Phrases:
+  - Phrase: On nosí modrú košeľu.
+    Translation: He wears a blue shirt.
+  - Phrase: Ona má čierne nohavice, a on biele.
+    Translation: She has black trousers, and he has white.
+  - Phrase: Obuv a kabát ležia pri dverách.
+    Translation: Shoes and the coat are lying by the door.
+  - Phrase: Šál je ťažký a teplý.
+    Translation: The scarf is heavy and warm.
+  - Phrase: V zime nosím vždy čiapku, a v lete nie.
+    Translation: In winter, I always wear a hat, but not in summer.
+  - Phrase: Nohavičky sú krásne alebo škaredé?
+    Translation: Are the shorts beautiful or ugly?
+  - Phrase: Nosím rukavice v zime.
+    Translation: We wear gloves in winter.
+  - Phrase: Tamtá pyžama je zelená.
+    Translation: That pajama is green.
+  - Phrase: Nové nohavičky sú pohodlné.
+    Translation: New shorts are comfortable.
+  - Phrase: Nové oblečenie je drahé.
+    Translation: New clothes are expensive.
+  - Phrase: Košeľa je v skrini.
+    Translation: The shirt is in the drawer.
+  - Phrase: Čiapka visí na stene.
+    Translation: The hat hangs on the wall.
+  - Phrase: On sa obliekal a nosil včera o druhej hodine zelené tričko alebo košeľu. Ja si nie som istý teraz.
+    Translation: He wore and put on a green tennis shoe or shirt yesterday at two AM. I'm not sure right now.
+  - Phrase: Ty chceš šál alebo košeľu.
+    Translation: You want a scarf or a shirt.
+  - Phrase: Škaredé rukavice ležia na stole, a krásny kabát nosím.
+    Translation: The ugly gloves are lying on the table, and I wear the red coat.
+  - Phrase: Ona kúpila teplú obuv.
+    Translation: She bought warm shoes.
+  - Phrase: On si oblieka novú košeľu.
+    Translation: He is putting on a new shirt.
+  - Phrase: Moje ponožky sú krátke.
+    Translation: My socks are short.
+  - Phrase: V zime budem potrebovať čiapku a rukavice.
+    Translation: In winter I will need a hat and gloves.
+  - Phrase: Oblečenie je čisté a už len biele.
+    Translation: The clothes are clean and only the underwear is white.
+
+Mini-dictionary:
+  Slovak:
+    - a: undefined
+    - alebo: undefined
+    - biele: undefined
+    - budem: undefined
+    - chceš: undefined
+    - drahé: undefined
+    - druhej: undefined
+    - dverách: undefined
+    - hodine: undefined
+    - istý: undefined
+    - ja: undefined
+    - je: undefined
+    - kabát: undefined
+    - košeľa: undefined
+    - košeľu: undefined
+    - krásne: undefined
+    - krásny: undefined
+    - krátke: undefined
+    - kúpila: undefined
+    - len: undefined
+    - lete: undefined
+    - ležia: undefined
+    - modrú: undefined
+    - moje: undefined
+    - má: undefined
+    - na: undefined
+    - nie: undefined
+    - nohavice: undefined
+    - nohavičky: undefined
+    - nosil: undefined
+    - nosiť: undefined
+    - nosí: undefined
+    - nosím: undefined
+    - nové: undefined
+    - novú: undefined
+    - o: undefined
+    - oblečenie: undefined
+    - oblieka: undefined
+    - obliekal: undefined
+    - obliekať: undefined
+    - obuv: undefined
+    - on: undefined
+    - ona: undefined
+    - pohodlné: undefined
+    - ponožka: undefined
+    - ponožky: undefined
+    - potrebovať: undefined
+    - pri: undefined
+    - pyžama: undefined
+    - pyžamo: undefined
+    - rukavica: undefined
+    - rukavice: undefined
+    - sa: undefined
+    - si: undefined
+    - skrini: undefined
+    - som: undefined
+    - stene: undefined
+    - stole: undefined
+    - sú: undefined
+    - tamtá: undefined
+    - teplú: undefined
+    - teplý: undefined
+    - teraz: undefined
+    - tričko: undefined
+    - ty: undefined
+    - už: undefined
+    - v: undefined
+    - visí: undefined
+    - včera: undefined
+    - vždy: undefined
+    - zelená: undefined
+    - zelené: undefined
+    - zime: undefined
+    - čiapka: undefined
+    - čiapku: undefined
+    - čierne: undefined
+    - čisté: undefined
+    - škaredé: undefined
+    - škaredý: undefined
+    - šál: undefined
+    - ťažký: undefined
+  English:
+    - a: undefined
+    - always: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beautiful: undefined
+    - black: undefined
+    - blue: undefined
+    - bought: undefined
+    - but: undefined
+    - by: undefined
+    - clean: undefined
+    - clothes: undefined
+    - coat: undefined
+    - comfortable: undefined
+    - door: undefined
+    - drawer: undefined
+    - dress: undefined
+    - expensive: undefined
+    - footwear: undefined
+    - glove: undefined
+    - gloves: undefined
+    - green: undefined
+    - hangs: undefined
+    - has: undefined
+    - hat: undefined
+    - he: undefined
+    - heavy: undefined
+    - i: undefined
+    - i'm: undefined
+    - in: undefined
+    - is: undefined
+    - lying: undefined
+    - my: undefined
+    - need: undefined
+    - new: undefined
+    - not: undefined
+    - now: undefined
+    - on: undefined
+    - only: undefined
+    - or: undefined
+    - pajama: undefined
+    - pajamas: undefined
+    - put: undefined
+    - putting: undefined
+    - red: undefined
+    - right: undefined
+    - scarf: undefined
+    - she: undefined
+    - shirt: undefined
+    - shoe: undefined
+    - shoes: undefined
+    - short: undefined
+    - shorts: undefined
+    - sock: undefined
+    - socks: undefined
+    - summer: undefined
+    - sure: undefined
+    - t-shirt: undefined
+    - table: undefined
+    - tennis: undefined
+    - that: undefined
+    - the: undefined
+    - to: undefined
+    - trousers: undefined
+    - two: undefined
+    - ugly: undefined
+    - underwear: undefined
+    - wall: undefined
+    - want: undefined
+    - warm: undefined
+    - we: undefined
+    - wear: undefined
+    - wears: undefined
+    - white: undefined
+    - will: undefined
+    - winter: undefined
+    - wore: undefined
+    - yesterday: undefined
+    - you: undefined

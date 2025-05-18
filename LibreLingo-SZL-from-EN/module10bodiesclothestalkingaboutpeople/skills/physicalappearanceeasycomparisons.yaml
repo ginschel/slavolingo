@@ -1,0 +1,247 @@
+Skill:
+  Name: Physical Appearance (Easy comparisons)
+  Id: 38
+
+New words:
+  - Word: wysoki
+    Translation: tall
+  - Word: niski
+    Translation: short
+  - Word: gruby
+    Translation: fat
+  - Word: chudy
+    Translation: thin
+  - Word: mały
+    Translation: small
+  - Word: piykny
+    Translation: beautiful
+  - Word: brzidki
+    Translation: ugly
+  - Word: stary
+    Translation: old
+  - Word: młody
+    Translation: young
+  - Word: włosy
+    Translation: hair
+  - Word: ôczy
+    Translation: eyes
+  - Word: niż
+    Translation: than
+  - Word: wyżej
+    Translation: taller/higher
+  - Word: skōra
+    Translation: skin
+  - Word: mynij
+    Translation: less
+  - Word: śmiŏć sie (śmieje sie)
+    Translation: to laugh
+  - Word: bliszczeć
+    Translation: to shine
+  - Word: gwiazda
+    Translation: star
+  - Word: jasno
+    Translation: light
+  - Word: ćmawo
+    Translation: dark
+
+Phrases:
+  - Phrase: Ôn je wyżej wysoki a srogi niż ôn.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Ôna je nisko a chudo jak ôn.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Gruby chop idzie po banhofie.
+    Translation: The fat man is walking down the street.
+  - Phrase: Chudy mo mynij ciała niż gruby.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: To je wyżej piykny czowiek niż tamtyn.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Stare ludzie som wyżej mondre niż my.
+    Translation: Old people are wiser than us.
+  - Phrase: Młody mo moc ynergije.
+    Translation: The young one has a lot of energy.
+  - Phrase: Jego włosy som jasne.
+    Translation: His hair is blonde.
+  - Phrase: Ôczy som wyżej zielōne niż u jymu.
+    Translation: Her eyes are greener than his.
+  - Phrase: Jego skōra je bioło.
+    Translation: His skin is white.
+  - Phrase: Ôn mo duge włosy.
+    Translation: He has long hair.
+  - Phrase: Ôna mo zielōne ôczy.
+    Translation: She has green eyes.
+  - Phrase: Skōra je gladko.
+    Translation: Her skin is smooth.
+  - Phrase: Stara baba nosi czopka.
+    Translation: The old woman wears a hat.
+  - Phrase: Młode ludzie często szportujōm.
+    Translation: Young people often play sports.
+  - Phrase: Gruby chop śmieje sie wyżej niż tamtyn brzidki chop.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Nisko dziecha idzie do dōmu.
+    Translation: The short girl is going home.
+  - Phrase: Piykne ôczy bliszczōm jak gwiazdy na niybie.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Chudy nosi wyżej wielgo heja niż jo.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Jej włosy som jasne a duge.
+    Translation: Her hair is light and long.
+  - Phrase: A jego piykne włosy som ćmawe jak noc.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Silesian:
+    - a: undefined
+    - baba: undefined
+    - banhofie: undefined
+    - bioło: undefined
+    - bliszczeć: undefined
+    - bliszczōm: undefined
+    - brzidki: undefined
+    - chop: undefined
+    - chudo: undefined
+    - chudy: undefined
+    - ciała: undefined
+    - czopka: undefined
+    - czowiek: undefined
+    - często: undefined
+    - do: undefined
+    - duge: undefined
+    - dziecha: undefined
+    - dōmu: undefined
+    - gladko: undefined
+    - gruby: undefined
+    - gwiazda: undefined
+    - gwiazdy: undefined
+    - heja: undefined
+    - idzie: undefined
+    - jak: undefined
+    - jasne: undefined
+    - jasno: undefined
+    - je: undefined
+    - jego: undefined
+    - jej: undefined
+    - jo: undefined
+    - jymu: undefined
+    - ludzie: undefined
+    - mały: undefined
+    - mo: undefined
+    - moc: undefined
+    - mondre: undefined
+    - my: undefined
+    - mynij: undefined
+    - młode: undefined
+    - młody: undefined
+    - na: undefined
+    - niski: undefined
+    - nisko: undefined
+    - niybie: undefined
+    - niż: undefined
+    - noc: undefined
+    - nosi: undefined
+    - piykne: undefined
+    - piykny: undefined
+    - po: undefined
+    - sie: undefined
+    - skōra: undefined
+    - som: undefined
+    - srogi: undefined
+    - stara: undefined
+    - stare: undefined
+    - stary: undefined
+    - szportujōm: undefined
+    - tamtyn: undefined
+    - to: undefined
+    - u: undefined
+    - wielgo: undefined
+    - wysoki: undefined
+    - wyżej: undefined
+    - włosy: undefined
+    - ynergije: undefined
+    - zielōne: undefined
+    - ôczy: undefined
+    - ôn: undefined
+    - ôna: undefined
+    - ćmawe: undefined
+    - ćmawo: undefined
+    - śmieje: undefined
+    - śmiŏć: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - as: undefined
+    - beautiful: undefined
+    - blonde: undefined
+    - body: undefined
+    - dark: undefined
+    - do: undefined
+    - down: undefined
+    - energy: undefined
+    - eyes: undefined
+    - fat: undefined
+    - girl: undefined
+    - going: undefined
+    - green: undefined
+    - greener: undefined
+    - hair: undefined
+    - has: undefined
+    - hat: undefined
+    - he: undefined
+    - her: undefined
+    - him: undefined
+    - his: undefined
+    - home: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - larger: undefined
+    - laugh: undefined
+    - laughs: undefined
+    - less: undefined
+    - light: undefined
+    - like: undefined
+    - long: undefined
+    - lot: undefined
+    - louder: undefined
+    - man: undefined
+    - mass: undefined
+    - more: undefined
+    - night: undefined
+    - of: undefined
+    - often: undefined
+    - old: undefined
+    - one: undefined
+    - people: undefined
+    - person: undefined
+    - play: undefined
+    - she: undefined
+    - shine: undefined
+    - shirt: undefined
+    - short: undefined
+    - shorter: undefined
+    - skin: undefined
+    - sky: undefined
+    - small: undefined
+    - smooth: undefined
+    - sports: undefined
+    - star: undefined
+    - stars: undefined
+    - street: undefined
+    - stronger: undefined
+    - tall: undefined
+    - taller: undefined
+    - taller/higher: undefined
+    - than: undefined
+    - that: undefined
+    - the: undefined
+    - thin: undefined
+    - thinner: undefined
+    - to: undefined
+    - ugly: undefined
+    - us: undefined
+    - walking: undefined
+    - wears: undefined
+    - white: undefined
+    - wiser: undefined
+    - woman: undefined
+    - young: undefined

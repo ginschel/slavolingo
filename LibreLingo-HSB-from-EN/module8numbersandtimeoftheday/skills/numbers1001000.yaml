@@ -1,0 +1,125 @@
+Skill:
+  Name: Numbers 100-1000
+  Id: 29
+
+New words:
+  - Word: sto
+    Translation: one hundred
+  - Word: dwěsćě
+    Translation: two hundred
+  - Word: tři sta
+    Translation: three hundred
+  - Word: štyri sta
+    Translation: four hundred
+  - Word: pěsć stow
+    Translation: five hundred
+  - Word: šěsć stow
+    Translation: six hundred
+  - Word: sydom stow
+    Translation: seven hundred
+  - Word: wosom stow
+    Translation: eight hundred
+  - Word: dźewjeć stow
+    Translation: nine hundred
+  - Word: tysac
+    Translation: thousand
+
+Phrases:
+  - Phrase: tysac jedyn časnikow
+    Translation: one thousand one clocks
+  - Phrase: sto hólcow
+    Translation: one hundred boys
+  - Phrase: dwěsćě žonow
+    Translation: two hundred women
+  - Phrase: trista polow
+    Translation: three hundred fields
+  - Phrase: štyri sta mužow
+    Translation: four hundred men
+  - Phrase: pěsć stow žonow
+    Translation: five hundred women
+  - Phrase: šěsć stow kóčkow
+    Translation: six hundred cats
+  - Phrase: sydom stow jedyn kolesow
+    Translation: seven hundred one bicycles
+  - Phrase: wosom stow hólcow
+    Translation: eight hundred boys
+  - Phrase: dźewjeć stow kolesow
+    Translation: nine hundred bicycles
+  - Phrase: tysac wosom rublow
+    Translation: one thousand eight rubles
+  - Phrase: štyristo sydom dolarow
+    Translation: four hundred seven dollars
+  - Phrase: dwěsćě tři ličaki
+    Translation: two hundred three computers
+  - Phrase: sydom stow jedyn časnik
+    Translation: seven hundred one clocks
+  - Phrase: trista štyri wěcow
+    Translation: three hundred four things
+  - Phrase: sto dwaj słóncow
+    Translation: one hundred two suns
+  - Phrase: šěsć stow kolesow
+    Translation: six hundred bicycles
+  - Phrase: wosom stow dolarow
+    Translation: eight hundred dollars
+  - Phrase: dwaj tysac dźewjeć stow posow
+    Translation: two thousand nine hundred dogs
+  - Phrase: štyristo kóčkow
+    Translation: four hundred cats
+
+Mini-dictionary:
+  Upper Sorbian:
+    - dolarow: undefined
+    - dwaj: undefined
+    - dwěsćě: undefined
+    - dźewjeć: undefined
+    - hólcow: undefined
+    - jedyn: undefined
+    - kolesow: undefined
+    - kóčkow: undefined
+    - ličaki: undefined
+    - mužow: undefined
+    - polow: undefined
+    - posow: undefined
+    - pěsć: undefined
+    - rublow: undefined
+    - sta: undefined
+    - sto: undefined
+    - stow: undefined
+    - sydom: undefined
+    - słóncow: undefined
+    - trista: undefined
+    - tysac: undefined
+    - tři: undefined
+    - wosom: undefined
+    - wěcow: undefined
+    - časnik: undefined
+    - časnikow: undefined
+    - štyri: undefined
+    - štyristo: undefined
+    - šěsć: undefined
+    - žonow: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - fields: undefined
+    - five: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - nine: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - suns: undefined
+    - things: undefined
+    - thousand: undefined
+    - three: undefined
+    - two: undefined
+    - women: undefined

@@ -1,0 +1,201 @@
+Skill:
+  Name: Food (Accusative case)
+  Id: 6
+
+New words:
+  - Word: хлїб
+    Translation: bread
+  - Word: готовити
+    Translation: to prepare
+  - Word: нести
+    Translation: to carry
+  - Word: їсти (їсть)
+    Translation: to eat
+  - Word: масло
+    Translation: butter
+  - Word: молокo
+    Translation: milk
+  - Word: мясо
+    Translation: meat
+  - Word: яйце
+    Translation: egg
+  - Word: завтрак
+    Translation: breakfast
+  - Word: обід
+    Translation: lunch
+  - Word: купити
+    Translation: to buy
+  - Word: вечеря
+    Translation: dinner
+  - Word: блюдо
+    Translation: dish
+  - Word: кнїга
+    Translation: book
+  - Word: солодкый
+    Translation: sweet
+  - Word: їда
+    Translation: food
+
+Phrases:
+  - Phrase: Я їм хлїб.
+    Translation: I am eating bread.
+  - Phrase: Она їсть мясо.
+    Translation: She is eating meat.
+  - Phrase: Он любить молоко.
+    Translation: He likes milk.
+  - Phrase: Я вижу Влада з їдов
+    Translation: I see Vlad with food
+  - Phrase: Ты їси яйце?
+    Translation: Are you eating an egg?
+  - Phrase: Мы їме вечерю.
+    Translation: We are eating dinner.
+  - Phrase: Они мають завтрак.
+    Translation: They are having breakfast.
+  - Phrase: Я куплю масло.
+    Translation: I will buy butter.
+  - Phrase: Он готовить обід.
+    Translation: He is preparing lunch.
+  - Phrase: Она несе блюдо.
+    Translation: She is carrying a dish.
+  - Phrase: Они купують масло і хлїб.
+    Translation: They are buying butter and bread.
+  - Phrase: Он пиє молоко і їсть мясо.
+    Translation: He is drinking milk and eating meat.
+  - Phrase: Чітаєш ты кнїгу і їси завтрак?
+    Translation: Are you reading a book and eating breakfast?
+  - Phrase: Я вижу обід на столї.
+    Translation: I see lunch on the table.
+  - Phrase: Ты маєш масло?
+    Translation: Do you have butter?
+  - Phrase: Мы готовиме вечерю кажный дїнь.
+    Translation: We prepare dinner every day.
+  - Phrase: Я знаю, што ты любиш яйця.
+    Translation: I know that you like eggs.
+  - Phrase: Он їсть солодку їду.
+    Translation: He eats sweet food.
+  - Phrase: Она любить готовити вечерю.
+    Translation: She likes to prepare dinner.
+  - Phrase: Мы видиме твою піцу на столї.
+    Translation: We see your pizza on the table.
+  - Phrase: Они знають, што я все їм хлїб з маслом.
+    Translation: They know that I always eat bread with butter.
+
+Mini-dictionary:
+  Rusin:
+    - блюдо: undefined
+    - вечерю: undefined
+    - вечеря: undefined
+    - видиме: undefined
+    - вижу: undefined
+    - влада: undefined
+    - все: undefined
+    - готовиме: undefined
+    - готовити: undefined
+    - готовить: undefined
+    - дїнь: undefined
+    - з: undefined
+    - завтрак: undefined
+    - знаю: undefined
+    - знають: undefined
+    - кажный: undefined
+    - кнїга: undefined
+    - кнїгу: undefined
+    - купити: undefined
+    - куплю: undefined
+    - купують: undefined
+    - любить: undefined
+    - любиш: undefined
+    - масло: undefined
+    - маслом: undefined
+    - мають: undefined
+    - маєш: undefined
+    - молокo: undefined
+    - молоко: undefined
+    - мы: undefined
+    - мясо: undefined
+    - на: undefined
+    - несе: undefined
+    - нести: undefined
+    - обід: undefined
+    - он: undefined
+    - она: undefined
+    - они: undefined
+    - пиє: undefined
+    - піцу: undefined
+    - солодку: undefined
+    - солодкый: undefined
+    - столї: undefined
+    - твою: undefined
+    - ты: undefined
+    - хлїб: undefined
+    - чітаєш: undefined
+    - што: undefined
+    - я: undefined
+    - яйце: undefined
+    - яйця: undefined
+    - і: undefined
+    - їда: undefined
+    - їдов: undefined
+    - їду: undefined
+    - їм: undefined
+    - їме: undefined
+    - їси: undefined
+    - їсти: undefined
+    - їсть: undefined
+  English:
+    - a: undefined
+    - always: undefined
+    - am: undefined
+    - an: undefined
+    - and: undefined
+    - are: undefined
+    - book: undefined
+    - bread: undefined
+    - breakfast: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - carry: undefined
+    - carrying: undefined
+    - day: undefined
+    - dinner: undefined
+    - dish: undefined
+    - do: undefined
+    - drinking: undefined
+    - eat: undefined
+    - eating: undefined
+    - eats: undefined
+    - egg: undefined
+    - eggs: undefined
+    - every: undefined
+    - food: undefined
+    - have: undefined
+    - having: undefined
+    - he: undefined
+    - i: undefined
+    - is: undefined
+    - know: undefined
+    - like: undefined
+    - likes: undefined
+    - lunch: undefined
+    - meat: undefined
+    - milk: undefined
+    - on: undefined
+    - pizza: undefined
+    - prepare: undefined
+    - preparing: undefined
+    - reading: undefined
+    - see: undefined
+    - she: undefined
+    - sweet: undefined
+    - table: undefined
+    - that: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - vlad: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined
+    - you: undefined
+    - your: undefined

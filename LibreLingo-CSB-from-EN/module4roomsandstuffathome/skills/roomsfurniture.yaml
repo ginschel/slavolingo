@@ -1,0 +1,198 @@
+Skill:
+  Name: Rooms/furniture
+  Id: 12
+
+New words:
+  - Word: pòkój
+    Translation: room
+  - Word: stół
+    Translation: table
+  - Word: stólc
+    Translation: chair
+  - Word: pòduszka
+    Translation: pillow
+  - Word: łóżko
+    Translation: bed
+  - Word: òkno
+    Translation: window
+  - Word: dzwierzé
+    Translation: doors
+  - Word: szôfa
+    Translation: wardrobe
+  - Word: skrinia
+    Translation: chest
+  - Word: pòłca
+    Translation: shelf
+  - Word: trzëmac (trzëmô)
+    Translation: to hold
+  - Word: wiszec (wisy)
+    Translation: to hang
+  - Word: scana
+    Translation: wall
+  - Word: lampa
+    Translation: lamp
+  - Word: dawac
+    Translation: to give
+
+Phrases:
+  - Phrase: Pòkój je ciepłi i cëchi.
+    Translation: The room is warm and quiet.
+  - Phrase: Stół stoji w pòstrzódku pòkoju.
+    Translation: The table stands in the middle of the room.
+  - Phrase: Stólc je bliskò stola.
+    Translation: The chair is near the table.
+  - Phrase: Łóżko je miãtczi.
+    Translation: The bed is soft.
+  - Phrase: Òkno je òdemkłé.
+    Translation: The window is open.
+  - Phrase: Dzwierzé są zamkłé.
+    Translation: The doors are closed.
+  - Phrase: Szôfa mô wiele òdzeniô.
+    Translation: The wardrobe has many clothes.
+  - Phrase: Skrinia je pòd łóżkã.
+    Translation: The chest is under the bed.
+  - Phrase: Pòłca trzëmô knégë.
+    Translation: The shelf holds books.
+  - Phrase: Lampa swiécy nad stolã.
+    Translation: The lamp shines above the table.
+  - Phrase: Pòkój mô dwa òkna.
+    Translation: The room has two windows.
+  - Phrase: Na stole leżi knéga.
+    Translation: A book is lying on the table.
+  - Phrase: Stólc je stôri, le wëgodni.
+    Translation: The chair is old, but comfortable.
+  - Phrase: Łóżko je nowé.
+    Translation: The bed is new.
+  - Phrase: Dzwierzé wiodą do kùchnie.
+    Translation: The doors lead to the kitchen.
+  - Phrase: Szôfa je peļnô.
+    Translation: The wardrobe is full.
+  - Phrase: Skrinia je z drzewa.
+    Translation: The chest is made of wood.
+  - Phrase: Pòłca wisy na scanie.
+    Translation: The shelf hangs on the wall.
+  - Phrase: Lampa dawié swiôtło.
+    Translation: The lamp gives light.
+  - Phrase: W pòkoju je spòkój.
+    Translation: It is quiet in the room.
+
+Mini-dictionary:
+  Kashubian:
+    - bliskò: undefined
+    - ciepłi: undefined
+    - cëchi: undefined
+    - dawac: undefined
+    - dawié: undefined
+    - do: undefined
+    - drzewa: undefined
+    - dwa: undefined
+    - dzwierzé: undefined
+    - i: undefined
+    - je: undefined
+    - knéga: undefined
+    - knégë: undefined
+    - kùchnie: undefined
+    - lampa: undefined
+    - le: undefined
+    - leżi: undefined
+    - miãtczi: undefined
+    - mô: undefined
+    - na: undefined
+    - nad: undefined
+    - nowé: undefined
+    - peļnô: undefined
+    - pòd: undefined
+    - pòduszka: undefined
+    - pòkoju: undefined
+    - pòkój: undefined
+    - pòstrzódku: undefined
+    - pòłca: undefined
+    - scana: undefined
+    - scanie: undefined
+    - skrinia: undefined
+    - spòkój: undefined
+    - stoji: undefined
+    - stola: undefined
+    - stole: undefined
+    - stolã: undefined
+    - stólc: undefined
+    - stół: undefined
+    - stôri: undefined
+    - swiécy: undefined
+    - swiôtło: undefined
+    - szôfa: undefined
+    - są: undefined
+    - trzëmac: undefined
+    - trzëmô: undefined
+    - w: undefined
+    - wiele: undefined
+    - wiodą: undefined
+    - wisy: undefined
+    - wiszec: undefined
+    - wëgodni: undefined
+    - z: undefined
+    - zamkłé: undefined
+    - òdemkłé: undefined
+    - òdzeniô: undefined
+    - òkna: undefined
+    - òkno: undefined
+    - łóżko: undefined
+    - łóżkã: undefined
+  English:
+    - a: undefined
+    - above: undefined
+    - and: undefined
+    - are: undefined
+    - bed: undefined
+    - book: undefined
+    - books: undefined
+    - but: undefined
+    - chair: undefined
+    - chest: undefined
+    - closed: undefined
+    - clothes: undefined
+    - comfortable: undefined
+    - doors: undefined
+    - full: undefined
+    - give: undefined
+    - gives: undefined
+    - hang: undefined
+    - hangs: undefined
+    - has: undefined
+    - hold: undefined
+    - holds: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - kitchen: undefined
+    - lamp: undefined
+    - lead: undefined
+    - light: undefined
+    - lying: undefined
+    - made: undefined
+    - many: undefined
+    - middle: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - pillow: undefined
+    - quiet: undefined
+    - room: undefined
+    - shelf: undefined
+    - shines: undefined
+    - soft: undefined
+    - stands: undefined
+    - table: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - under: undefined
+    - wall: undefined
+    - wardrobe: undefined
+    - warm: undefined
+    - window: undefined
+    - windows: undefined
+    - wood: undefined

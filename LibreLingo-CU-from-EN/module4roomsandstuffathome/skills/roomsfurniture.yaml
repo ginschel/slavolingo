@@ -1,0 +1,199 @@
+Skill:
+  Name: Rooms/furniture
+  Id: 12
+
+New words:
+  - Word: покои
+    Translation: room
+  - Word: столъ
+    Translation: table
+  - Word: стꙋлъ
+    Translation: chair
+  - Word: подꙋшька
+    Translation: pillow
+  - Word: постєлѥ
+    Translation: bed
+  - Word: окно
+    Translation: window
+  - Word: двєри
+    Translation: doors
+  - Word: шафа
+    Translation: wardrobe
+  - Word: скринѥ
+    Translation: chest
+  - Word: полица
+    Translation: shelf
+  - Word: дрьжати (дрьжитъ)
+    Translation: to hold
+  - Word: висѣти (виситъ)
+    Translation: to hang
+  - Word: стѣна
+    Translation: wall
+  - Word: лампа
+    Translation: lamp
+  - Word: давати
+    Translation: to give
+
+Phrases:
+  - Phrase: Покои ѥстъ тєплъи и тихъи.
+    Translation: The room is warm and quiet.
+  - Phrase: Столъ стои въ срєдъинѣ покоꙗ.
+    Translation: The table stands in the middle of the room.
+  - Phrase: Стꙋлъ ѥстъ близъко стола.
+    Translation: The chair is near the table.
+  - Phrase: Постєлѥ ѥстъ мѧкъка.
+    Translation: The bed is soft.
+  - Phrase: Окно ѥстъ отъкрꙑто.
+    Translation: The window is open.
+  - Phrase: Двєри сѫтъ закрьтє.
+    Translation: The doors are closed.
+  - Phrase: Шафа имаѥтъ мьного одєждꙑ.
+    Translation: The wardrobe has many clothes.
+  - Phrase: Скринѥ ѥстъ подъ постєлѭ.
+    Translation: The chest is under the bed.
+  - Phrase: Полица дрьжитъ кънигꙑ.
+    Translation: The shelf holds books.
+  - Phrase: Лампа свѣтитъ надъ столомъ.
+    Translation: The lamp shines above the table.
+  - Phrase: Покои имаѥтъ дъвѣ окна.
+    Translation: The room has two windows.
+  - Phrase: На столѣ лєжитъ книга.
+    Translation: A book is lying on the table.
+  - Phrase: Столица ѥстъ стара, нъ комфортьна.
+    Translation: The chair is old, but comfortable.
+  - Phrase: Постєлѥ ѥстъ нова.
+    Translation: The bed is new.
+  - Phrase: Двєри вєдѫтъ до кꙋхъниѥ.
+    Translation: The doors lead to the kitchen.
+  - Phrase: Шафа ѥстъ пълъна.
+    Translation: The wardrobe is full.
+  - Phrase: Скринѥ ѥстъ съ дрєва.
+    Translation: The chest is made of wood.
+  - Phrase: Полица виситъ на стѣнѣ.
+    Translation: The shelf hangs on the wall.
+  - Phrase: Лампа даѥтъ свѣтъло.
+    Translation: The lamp gives light.
+  - Phrase: Въ покои ѥстъ спокойно.
+    Translation: It is quiet in the room.
+
+Mini-dictionary:
+  Church Slavonic:
+    - близъко: undefined
+    - виситъ: undefined
+    - висѣти: undefined
+    - въ: undefined
+    - вєдѫтъ: undefined
+    - давати: undefined
+    - даѥтъ: undefined
+    - двєри: undefined
+    - до: undefined
+    - дрьжати: undefined
+    - дрьжитъ: undefined
+    - дрєва: undefined
+    - дъвѣ: undefined
+    - закрьтє: undefined
+    - и: undefined
+    - имаѥтъ: undefined
+    - книга: undefined
+    - комфортьна: undefined
+    - кънигꙑ: undefined
+    - кꙋхъниѥ: undefined
+    - лампа: undefined
+    - лєжитъ: undefined
+    - мьного: undefined
+    - мѧкъка: undefined
+    - на: undefined
+    - надъ: undefined
+    - нова: undefined
+    - нъ: undefined
+    - одєждꙑ: undefined
+    - окна: undefined
+    - окно: undefined
+    - отъкрꙑто: undefined
+    - подъ: undefined
+    - подꙋшька: undefined
+    - покои: undefined
+    - покоꙗ: undefined
+    - полица: undefined
+    - постєлѥ: undefined
+    - постєлѭ: undefined
+    - пълъна: undefined
+    - свѣтитъ: undefined
+    - свѣтъло: undefined
+    - скринѥ: undefined
+    - спокойно: undefined
+    - срєдъинѣ: undefined
+    - стара: undefined
+    - стои: undefined
+    - стола: undefined
+    - столица: undefined
+    - столомъ: undefined
+    - столъ: undefined
+    - столѣ: undefined
+    - стѣна: undefined
+    - стѣнѣ: undefined
+    - стꙋлъ: undefined
+    - съ: undefined
+    - сѫтъ: undefined
+    - тихъи: undefined
+    - тєплъи: undefined
+    - шафа: undefined
+    - ѥстъ: undefined
+  English:
+    - a: undefined
+    - above: undefined
+    - and: undefined
+    - are: undefined
+    - bed: undefined
+    - book: undefined
+    - books: undefined
+    - but: undefined
+    - chair: undefined
+    - chest: undefined
+    - closed: undefined
+    - clothes: undefined
+    - comfortable: undefined
+    - doors: undefined
+    - full: undefined
+    - give: undefined
+    - gives: undefined
+    - hang: undefined
+    - hangs: undefined
+    - has: undefined
+    - hold: undefined
+    - holds: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - kitchen: undefined
+    - lamp: undefined
+    - lead: undefined
+    - light: undefined
+    - lying: undefined
+    - made: undefined
+    - many: undefined
+    - middle: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - pillow: undefined
+    - quiet: undefined
+    - room: undefined
+    - shelf: undefined
+    - shines: undefined
+    - soft: undefined
+    - stands: undefined
+    - table: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - under: undefined
+    - wall: undefined
+    - wardrobe: undefined
+    - warm: undefined
+    - window: undefined
+    - windows: undefined
+    - wood: undefined

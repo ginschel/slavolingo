@@ -1,0 +1,204 @@
+Skill:
+  Name: Drinks (Genitive case)
+  Id: 7
+
+New words:
+  - Word: woda
+    Translation: water
+  - Word: piwo
+    Translation: beer
+  - Word: pić
+    Translation: to drink
+  - Word: wino
+    Translation: wine
+  - Word: kawa
+    Translation: coffee
+  - Word: sok
+    Translation: juice
+  - Word: chcieć (chce)
+    Translation: to want
+  - Word: flaszka
+    Translation: bottle
+  - Word: próbować znaleźć
+    Translation: to try to find
+  - Word: filiżanka/kubek
+    Translation: glass
+  - Word: butelka
+    Translation: bottle
+  - Word: herbata
+    Translation: tea
+  - Word: mleko
+    Translation: milk
+  - Word: bez
+    Translation: without
+  - Word: za
+    Translation: for
+  - Word: z/ze (pochodzenie)
+    Translation: from
+  - Word: u
+    Translation: at/by
+
+Phrases:
+  - Phrase: Ja nie mam wody.
+    Translation: I do not have water.
+  - Phrase: Ona nie pije wina.
+    Translation: She does not drink wine.
+  - Phrase: My nie pijemy piwa.
+    Translation: We do not drink beer.
+  - Phrase: Ty masz flaszkę soku?
+    Translation: Do you have a bottle of juice?
+  - Phrase: Oni nie kupują butelek piwa.
+    Translation: They are not buying bottles of beer.
+  - Phrase: On nie ma kawy.
+    Translation: He does not have coffee.
+  - Phrase: Pijesz bez mleka?
+    Translation: Do you drink without milk?
+  - Phrase: Ona nie pije herbaty.
+    Translation: She does not drink tea.
+  - Phrase: Filiżanka wina dla mnie, proszę.
+    Translation: A glass of wine for me, please.
+  - Phrase: Butelka wody leży na stole.
+    Translation: A bottle of water is lying on the table.
+  - Phrase: Ja lubię sok bez cukru.
+    Translation: I like juice without sugar.
+  - Phrase: On nie lubi kawy bez mleka.
+    Translation: He does not like coffee without milk.
+  - Phrase: Jesteś bez flaszki?
+    Translation: Are you without a bottle?
+  - Phrase: Ona próbuje znaleźć filiżankę bez wina.
+    Translation: She is trying to find a glass without wine.
+  - Phrase: On nie chce pić soku.
+    Translation: He does not want to drink juice.
+  - Phrase: Ty pijesz wino?
+    Translation: Do you drink wine?
+  - Phrase: To wino z Polski.
+    Translation: This wine is from Poland.
+  - Phrase: Frank nie ma wódki.
+    Translation: Frank has no vodka.
+  - Phrase: My pijemy piwo z butelki.
+    Translation: We are drinking beer from the bottle.
+  - Phrase: Dajcie mi filiżankę wina, proszę.
+    Translation: Give me a glass of wine, please.
+  - Phrase: On pije za ciebie
+    Translation: He is drinking for you
+
+Mini-dictionary:
+  Polish:
+    - bez: undefined
+    - butelek: undefined
+    - butelka: undefined
+    - butelki: undefined
+    - chce: undefined
+    - chcieć: undefined
+    - ciebie: undefined
+    - cukru: undefined
+    - dajcie: undefined
+    - dla: undefined
+    - filiżanka: undefined
+    - filiżanka/kubek: undefined
+    - filiżankę: undefined
+    - flaszka: undefined
+    - flaszki: undefined
+    - flaszkę: undefined
+    - frank: undefined
+    - herbata: undefined
+    - herbaty: undefined
+    - ja: undefined
+    - jesteś: undefined
+    - kawa: undefined
+    - kawy: undefined
+    - kupują: undefined
+    - leży: undefined
+    - lubi: undefined
+    - lubię: undefined
+    - ma: undefined
+    - mam: undefined
+    - masz: undefined
+    - mi: undefined
+    - mleka: undefined
+    - mleko: undefined
+    - mnie: undefined
+    - my: undefined
+    - na: undefined
+    - nie: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - pije: undefined
+    - pijemy: undefined
+    - pijesz: undefined
+    - piwa: undefined
+    - piwo: undefined
+    - pić: undefined
+    - pochodzenie: undefined
+    - polski: undefined
+    - proszę: undefined
+    - próbować: undefined
+    - próbuje: undefined
+    - sok: undefined
+    - soku: undefined
+    - stole: undefined
+    - to: undefined
+    - ty: undefined
+    - u: undefined
+    - wina: undefined
+    - wino: undefined
+    - woda: undefined
+    - wody: undefined
+    - wódki: undefined
+    - z: undefined
+    - z/ze: undefined
+    - za: undefined
+    - znaleźć: undefined
+  English:
+    - a: undefined
+    - are: undefined
+    - at/by: undefined
+    - beer: undefined
+    - bottle: undefined
+    - bottles: undefined
+    - buying: undefined
+    - coffee: undefined
+    - do: undefined
+    - does: undefined
+    - drink: undefined
+    - drinking: undefined
+    - find: undefined
+    - for: undefined
+    - frank: undefined
+    - from: undefined
+    - give: undefined
+    - glass: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - i: undefined
+    - is: undefined
+    - juice: undefined
+    - like: undefined
+    - lying: undefined
+    - me: undefined
+    - milk: undefined
+    - no: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - please: undefined
+    - poland: undefined
+    - she: undefined
+    - sugar: undefined
+    - table: undefined
+    - tea: undefined
+    - the: undefined
+    - they: undefined
+    - this: undefined
+    - to: undefined
+    - try: undefined
+    - trying: undefined
+    - vodka: undefined
+    - want: undefined
+    - water: undefined
+    - we: undefined
+    - wine: undefined
+    - without: undefined
+    - you: undefined

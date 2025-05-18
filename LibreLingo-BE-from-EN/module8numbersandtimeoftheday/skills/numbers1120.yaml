@@ -1,0 +1,120 @@
+Skill:
+  Name: Numbers 11-20
+  Id: 27
+
+New words:
+  - Word: адзінаццаць
+    Translation: eleven
+  - Word: дванаццаць
+    Translation: twelve
+  - Word: трынаццаць
+    Translation: thirteen
+  - Word: чатырнаццаць
+    Translation: fourteen
+  - Word: пятнаццаць
+    Translation: fifteen
+  - Word: шаснаццаць
+    Translation: sixteen
+  - Word: семнаццаць
+    Translation: seventeen
+  - Word: васемнаццаць
+    Translation: eighteen
+  - Word: дзевятнаццаць
+    Translation: nineteen
+  - Word: дваццаць
+    Translation: twenty
+
+Phrases:
+  - Phrase: дваццаць гадзіннікаў
+    Translation: twenty clocks
+  - Phrase: адзінаццаць хлопчыкаў
+    Translation: eleven boys
+  - Phrase: адзінаццаць жанчын
+    Translation: eleven women
+  - Phrase: адзінаццаць палёў
+    Translation: eleven fields
+  - Phrase: дванаццаць мужчын
+    Translation: twelve men
+  - Phrase: дванаццаць шэсць жанчын
+    Translation: twelve women
+  - Phrase: трынаццаць катоў
+    Translation: thirteen cats
+  - Phrase: чатырнаццаць ровараў
+    Translation: fourteen bicycles
+  - Phrase: пятнаццаць хлопчыкаў
+    Translation: fifteen boys
+  - Phrase: шаснаццаць ровараў
+    Translation: sixteen bicycles
+  - Phrase: семнаццаць рублёў
+    Translation: seventeen rubles
+  - Phrase: васемнаццаць долараў
+    Translation: eighteen dollars
+  - Phrase: дзевятнаццаць пяць камп'ютараў
+    Translation: nineteen computers
+  - Phrase: шаснаццаць гадзіннікаў
+    Translation: twenty clocks
+  - Phrase: дванаццаць рэчаў
+    Translation: twelve things
+  - Phrase: адзінаццаць сонцаў
+    Translation: eleven suns
+  - Phrase: шаснаццаць ровараў
+    Translation: sixteen bicycles
+  - Phrase: чатырнаццаць долараў
+    Translation: fourteen dollars
+  - Phrase: трынаццаць два сабакі
+    Translation: thirteen dogs
+  - Phrase: дваццаць катоў
+    Translation: twenty cats
+
+Mini-dictionary:
+  Belarusian:
+    - адзінаццаць: undefined
+    - васемнаццаць: undefined
+    - гадзіннікаў: undefined
+    - два: undefined
+    - дванаццаць: undefined
+    - дваццаць: undefined
+    - дзевятнаццаць: undefined
+    - долараў: undefined
+    - жанчын: undefined
+    - камп'ютараў: undefined
+    - катоў: undefined
+    - мужчын: undefined
+    - палёў: undefined
+    - пятнаццаць: undefined
+    - пяць: undefined
+    - ровараў: undefined
+    - рублёў: undefined
+    - рэчаў: undefined
+    - сабакі: undefined
+    - семнаццаць: undefined
+    - сонцаў: undefined
+    - трынаццаць: undefined
+    - хлопчыкаў: undefined
+    - чатырнаццаць: undefined
+    - шаснаццаць: undefined
+    - шэсць: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eighteen: undefined
+    - eleven: undefined
+    - fields: undefined
+    - fifteen: undefined
+    - fourteen: undefined
+    - men: undefined
+    - nineteen: undefined
+    - rubles: undefined
+    - seventeen: undefined
+    - sixteen: undefined
+    - suns: undefined
+    - things: undefined
+    - thirteen: undefined
+    - twelve: undefined
+    - twenty: undefined
+    - women: undefined

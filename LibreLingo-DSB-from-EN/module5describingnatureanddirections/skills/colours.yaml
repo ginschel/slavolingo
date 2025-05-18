@@ -1,0 +1,184 @@
+Skill:
+  Name: Colours
+  Id: 17
+
+New words:
+  - Word: carny
+    Translation: black
+  - Word: běły
+    Translation: white
+  - Word: zeleny
+    Translation: green
+  - Word: módry
+    Translation: blue
+  - Word: cerwjeny
+    Translation: red
+  - Word: žołty
+    Translation: yellow
+  - Word: šery
+    Translation: grey
+  - Word: kastanowy
+    Translation: brown
+  - Word: oranžowy
+    Translation: orange
+  - Word: cerwjeny
+    Translation: red
+
+Phrases:
+  - Phrase: Mój pjas jo carny.
+    Translation: My dog is black.
+  - Phrase: Myš jo běła.
+    Translation: The mouse is white.
+  - Phrase: Tšawa jo zelena.
+    Translation: The grass is green.
+  - Phrase: Njebjo jo módre.
+    Translation: The sky is blue.
+  - Phrase: Kwěśeń su cerwjene.
+    Translation: The flowers are red.
+  - Phrase: Słyńco jo žołte.
+    Translation: The sun is yellow.
+  - Phrase: Mrokawy su šere.
+    Translation: The clouds are grey.
+  - Phrase: Wón nosy kastanowy płasć.
+    Translation: He wears a brown coat.
+  - Phrase: Łopjeno jo oranžowe.
+    Translation: The leaf is orange.
+  - Phrase: To jo Cerwjene móře.
+    Translation: This is the Red Sea.
+  - Phrase: Móje wocy su módre.
+    Translation: My eyes are blue.
+  - Phrase: Wóna ma zelenu tšawu.
+    Translation: She has green grass.
+  - Phrase: Ja lubijom cerwjeny kólor.
+    Translation: I like the red color.
+  - Phrase: Jej awto jo carne.
+    Translation: His car is black.
+  - Phrase: Źowćo njaso běłu sukńu.
+    Translation: The girl is wearing a white dress.
+  - Phrase: Jo lě to šery włos?
+    Translation: Is that grey hair?
+  - Phrase: Wón ma oranžowu tascynu.
+    Translation: He has an orange bag.
+  - Phrase: Kastanowy kóń stoja we staji.
+    Translation: The brown horse stands in the stable.
+  - Phrase: Žołte słyńco grějo zemju.
+    Translation: The yellow sun warms the earth.
+  - Phrase: Cerwjena róža rosćo how.
+    Translation: A red rose grows here.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - awto: undefined
+    - běła: undefined
+    - běłu: undefined
+    - běły: undefined
+    - carne: undefined
+    - carny: undefined
+    - cerwjena: undefined
+    - cerwjene: undefined
+    - cerwjeny: undefined
+    - grějo: undefined
+    - how: undefined
+    - ja: undefined
+    - jej: undefined
+    - jo: undefined
+    - kastanowy: undefined
+    - kwěśeń: undefined
+    - kólor: undefined
+    - kóń: undefined
+    - lubijom: undefined
+    - lě: undefined
+    - ma: undefined
+    - mrokawy: undefined
+    - myš: undefined
+    - módre: undefined
+    - módry: undefined
+    - mój: undefined
+    - móje: undefined
+    - móře: undefined
+    - njaso: undefined
+    - njebjo: undefined
+    - nosy: undefined
+    - oranžowe: undefined
+    - oranžowu: undefined
+    - oranžowy: undefined
+    - pjas: undefined
+    - płasć: undefined
+    - rosćo: undefined
+    - róža: undefined
+    - staji: undefined
+    - stoja: undefined
+    - su: undefined
+    - sukńu: undefined
+    - słyńco: undefined
+    - tascynu: undefined
+    - to: undefined
+    - tšawa: undefined
+    - tšawu: undefined
+    - we: undefined
+    - wocy: undefined
+    - wón: undefined
+    - wóna: undefined
+    - włos: undefined
+    - zelena: undefined
+    - zelenu: undefined
+    - zeleny: undefined
+    - zemju: undefined
+    - łopjeno: undefined
+    - šere: undefined
+    - šery: undefined
+    - źowćo: undefined
+    - žołte: undefined
+    - žołty: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - are: undefined
+    - bag: undefined
+    - black: undefined
+    - blue: undefined
+    - brown: undefined
+    - car: undefined
+    - clouds: undefined
+    - coat: undefined
+    - color: undefined
+    - dog: undefined
+    - dress: undefined
+    - earth: undefined
+    - eyes: undefined
+    - flowers: undefined
+    - girl: undefined
+    - grass: undefined
+    - green: undefined
+    - grey: undefined
+    - grows: undefined
+    - hair: undefined
+    - has: undefined
+    - he: undefined
+    - here: undefined
+    - his: undefined
+    - horse: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - leaf: undefined
+    - like: undefined
+    - mouse: undefined
+    - my: undefined
+    - orange: undefined
+    - red: undefined
+    - rose: undefined
+    - sea: undefined
+    - she: undefined
+    - sky: undefined
+    - stable: undefined
+    - stands: undefined
+    - sun: undefined
+    - that: undefined
+    - the: undefined
+    - this: undefined
+    - warms: undefined
+    - wearing: undefined
+    - wears: undefined
+    - white: undefined
+    - yellow: undefined

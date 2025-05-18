@@ -1,0 +1,131 @@
+Skill:
+  Name: Numbers 10-100
+  Id: 28
+
+New words:
+  - Word: десять
+    Translation: ten
+  - Word: двадцять
+    Translation: twenty
+  - Word: тридцять
+    Translation: thirty
+  - Word: сорок
+    Translation: forty
+  - Word: пятдесят
+    Translation: fifty
+  - Word: шістдесят
+    Translation: sixty
+  - Word: сімдесят
+    Translation: seventy
+  - Word: вісімдесят
+    Translation: eighty
+  - Word: девяносто
+    Translation: ninety
+  - Word: сто
+    Translation: one hundred
+
+Phrases:
+  - Phrase: сто годинників
+    Translation: one hundred clocks
+  - Phrase: десять хлопців
+    Translation: ten boys
+  - Phrase: двадцять жінок
+    Translation: twenty women
+  - Phrase: тридцять полів
+    Translation: thirty fields
+  - Phrase: сорок чоловіків
+    Translation: forty men
+  - Phrase: пятдесят жінок
+    Translation: fifty women
+  - Phrase: шістдесят котів
+    Translation: sixty cats
+  - Phrase: сто один велосипед
+    Translation: one hundred one bicycles
+  - Phrase: вісімдесят хлопців
+    Translation: eighty boys
+  - Phrase: девяносто велосипедів
+    Translation: ninety bicycles
+  - Phrase: сімдесят вісім рублів
+    Translation: seventy eight rubles
+  - Phrase: вісімдесят сім доларів
+    Translation: eighty seven dollars
+  - Phrase: девяносто три комп'ютери
+    Translation: ninety three computers
+  - Phrase: пятдесят один годинник
+    Translation: fifty one clocks
+  - Phrase: двадцять чотири речі
+    Translation: twenty four things
+  - Phrase: сто два сонця
+    Translation: one hundred two suns
+  - Phrase: шістдесят велосипедів
+    Translation: sixty bicycles
+  - Phrase: сорок доларів
+    Translation: forty dollars
+  - Phrase: тридцять собак
+    Translation: thirty dogs
+  - Phrase: двадцять котів
+    Translation: twenty cats
+
+Mini-dictionary:
+  Ukrainian:
+    - велосипед: undefined
+    - велосипедів: undefined
+    - вісім: undefined
+    - вісімдесят: undefined
+    - годинник: undefined
+    - годинників: undefined
+    - два: undefined
+    - двадцять: undefined
+    - девяносто: undefined
+    - десять: undefined
+    - доларів: undefined
+    - жінок: undefined
+    - комп'ютери: undefined
+    - котів: undefined
+    - один: undefined
+    - полів: undefined
+    - пятдесят: undefined
+    - речі: undefined
+    - рублів: undefined
+    - собак: undefined
+    - сонця: undefined
+    - сорок: undefined
+    - сто: undefined
+    - сім: undefined
+    - сімдесят: undefined
+    - три: undefined
+    - тридцять: undefined
+    - хлопців: undefined
+    - чоловіків: undefined
+    - чотири: undefined
+    - шістдесят: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - eighty: undefined
+    - fields: undefined
+    - fifty: undefined
+    - forty: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - ninety: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - seventy: undefined
+    - sixty: undefined
+    - suns: undefined
+    - ten: undefined
+    - things: undefined
+    - thirty: undefined
+    - three: undefined
+    - twenty: undefined
+    - two: undefined
+    - women: undefined

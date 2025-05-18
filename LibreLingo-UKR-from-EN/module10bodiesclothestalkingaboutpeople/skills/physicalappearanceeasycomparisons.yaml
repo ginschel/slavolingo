@@ -1,0 +1,254 @@
+Skill:
+  Name: Physical Appearance (Easy comparisons)
+  Id: 38
+
+New words:
+  - Word: високий
+    Translation: tall
+  - Word: низький
+    Translation: short
+  - Word: товстий
+    Translation: fat
+  - Word: худий
+    Translation: thin
+  - Word: малий
+    Translation: small
+  - Word: красивий
+    Translation: beautiful
+  - Word: бридкий/поганий
+    Translation: ugly
+  - Word: старий
+    Translation: old
+  - Word: молодий
+    Translation: young
+  - Word: волосся
+    Translation: hair
+  - Word: очі
+    Translation: eyes
+  - Word: ніж
+    Translation: than
+  - Word: вище
+    Translation: taller/higher
+  - Word: шкіра
+    Translation: skin
+  - Word: менше
+    Translation: less
+  - Word: сміятися (сміється)
+    Translation: to laugh
+  - Word: блищати
+    Translation: to shine
+  - Word: зірка
+    Translation: star
+  - Word: світлий
+    Translation: light
+  - Word: темний
+    Translation: dark
+
+Phrases:
+  - Phrase: Він є вище/більш високий і сильний ніж він.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Вона є нижча і худа як він.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Товстий чоловік йде по вулиці.
+    Translation: The fat man is walking down the street.
+  - Phrase: Худий має менше тілесної маси ніж товстий.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: Це є вище/більш красива людина ніж та.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Старі люди є вище/більш мудрі ніж ми.
+    Translation: Old people are wiser than us.
+  - Phrase: Молода має багато енергії.
+    Translation: The young one has a lot of energy.
+  - Phrase: Його волосся є світле.
+    Translation: His hair is blonde.
+  - Phrase: Очі є вище/більш зелені ніж у нього.
+    Translation: Her eyes are greener than his.
+  - Phrase: Шкіра його є біла.
+    Translation: His skin is white.
+  - Phrase: Він має довге волосся.
+    Translation: He has long hair.
+  - Phrase: Вона має зелені очі.
+    Translation: She has green eyes.
+  - Phrase: Шкіра є гладка.
+    Translation: Her skin is smooth.
+  - Phrase: Стара жінка носить шапку.
+    Translation: The old woman wears a hat.
+  - Phrase: Молоді люди часто займаються спортом.
+    Translation: Young people often play sports.
+  - Phrase: Товстий чоловік сміється більше ніж той бридкий/поганий чоловік.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Низька дівчина йде додому.
+    Translation: The short girl is going home.
+  - Phrase: Красиві очі блищать як зірки на небі.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Худий носить вище/більш велику сорочку ніж я.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Її волосся є світле і довге.
+    Translation: Her hair is light and long.
+  - Phrase: А його красиве волосся є темне як ніч.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Ukrainian:
+    - а: undefined
+    - багато: undefined
+    - блищати: undefined
+    - блищать: undefined
+    - бридкий/поганий: undefined
+    - біла: undefined
+    - більше: undefined
+    - велику: undefined
+    - високий: undefined
+    - вище: undefined
+    - вище/більш: undefined
+    - волосся: undefined
+    - вона: undefined
+    - вулиці: undefined
+    - він: undefined
+    - гладка: undefined
+    - довге: undefined
+    - додому: undefined
+    - дівчина: undefined
+    - енергії: undefined
+    - жінка: undefined
+    - займаються: undefined
+    - зелені: undefined
+    - зірка: undefined
+    - зірки: undefined
+    - йде: undefined
+    - його: undefined
+    - красива: undefined
+    - красиве: undefined
+    - красивий: undefined
+    - красиві: undefined
+    - люди: undefined
+    - людина: undefined
+    - малий: undefined
+    - маси: undefined
+    - має: undefined
+    - менше: undefined
+    - ми: undefined
+    - молода: undefined
+    - молодий: undefined
+    - молоді: undefined
+    - мудрі: undefined
+    - на: undefined
+    - небі: undefined
+    - нижча: undefined
+    - низька: undefined
+    - низький: undefined
+    - носить: undefined
+    - нього: undefined
+    - ніж: undefined
+    - ніч: undefined
+    - очі: undefined
+    - по: undefined
+    - світле: undefined
+    - світлий: undefined
+    - сильний: undefined
+    - сміятися: undefined
+    - сміється: undefined
+    - сорочку: undefined
+    - спортом: undefined
+    - стара: undefined
+    - старий: undefined
+    - старі: undefined
+    - та: undefined
+    - темне: undefined
+    - темний: undefined
+    - товстий: undefined
+    - той: undefined
+    - тілесної: undefined
+    - у: undefined
+    - худа: undefined
+    - худий: undefined
+    - це: undefined
+    - часто: undefined
+    - чоловік: undefined
+    - шапку: undefined
+    - шкіра: undefined
+    - я: undefined
+    - як: undefined
+    - є: undefined
+    - і: undefined
+    - її: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - as: undefined
+    - beautiful: undefined
+    - blonde: undefined
+    - body: undefined
+    - dark: undefined
+    - do: undefined
+    - down: undefined
+    - energy: undefined
+    - eyes: undefined
+    - fat: undefined
+    - girl: undefined
+    - going: undefined
+    - green: undefined
+    - greener: undefined
+    - hair: undefined
+    - has: undefined
+    - hat: undefined
+    - he: undefined
+    - her: undefined
+    - him: undefined
+    - his: undefined
+    - home: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - larger: undefined
+    - laugh: undefined
+    - laughs: undefined
+    - less: undefined
+    - light: undefined
+    - like: undefined
+    - long: undefined
+    - lot: undefined
+    - louder: undefined
+    - man: undefined
+    - mass: undefined
+    - more: undefined
+    - night: undefined
+    - of: undefined
+    - often: undefined
+    - old: undefined
+    - one: undefined
+    - people: undefined
+    - person: undefined
+    - play: undefined
+    - she: undefined
+    - shine: undefined
+    - shirt: undefined
+    - short: undefined
+    - shorter: undefined
+    - skin: undefined
+    - sky: undefined
+    - small: undefined
+    - smooth: undefined
+    - sports: undefined
+    - star: undefined
+    - stars: undefined
+    - street: undefined
+    - stronger: undefined
+    - tall: undefined
+    - taller: undefined
+    - taller/higher: undefined
+    - than: undefined
+    - that: undefined
+    - the: undefined
+    - thin: undefined
+    - thinner: undefined
+    - to: undefined
+    - ugly: undefined
+    - us: undefined
+    - walking: undefined
+    - wears: undefined
+    - white: undefined
+    - wiser: undefined
+    - woman: undefined
+    - young: undefined

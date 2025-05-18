@@ -1,0 +1,167 @@
+Skill:
+  Name: Ordinal Numbers
+  Id: 30
+
+New words:
+  - Word: први
+    Translation: first
+  - Word: втори
+    Translation: second
+  - Word: трећи
+    Translation: third
+  - Word: четврти
+    Translation: fourth
+  - Word: пети
+    Translation: fifth
+  - Word: шести
+    Translation: sixth
+  - Word: седам
+    Translation: seventh
+  - Word: осми
+    Translation: eighth
+  - Word: девети
+    Translation: ninth
+  - Word: тисечни
+    Translation: thousandth
+  - Word: сотни
+    Translation: hundredth
+  - Word: пет тисечни
+    Translation: five thousandth
+  - Word: седам тисечни
+    Translation: seven thousandth
+  - Word: часина
+    Translation: hour
+
+Phrases:
+  - Phrase: о првој часине двадесет
+    Translation: at twenty past the first hour
+  - Phrase: о второј часине десет пет
+    Translation: at fifteen past the second hour
+  - Phrase: о трећеј часине два
+    Translation: at two past the third hour
+  - Phrase: о четвртој часине седам
+    Translation: at seven past the fourth hour
+  - Phrase: о петој часине
+    Translation: at the fifth hour
+  - Phrase: о шестој часине
+    Translation: at the sixth hour
+  - Phrase: о осмој часине педесет пет
+    Translation: at fifty five past the eighth hour
+  - Phrase: о деветој часине
+    Translation: at the ninth hour
+  - Phrase: о десетој часине
+    Translation: at the tenth hour
+  - Phrase: о дванаестој часине
+    Translation: at the twelfth hour
+  - Phrase: о једанаестој часине тридесет три
+    Translation: at thirty three past the eleventh hour
+  - Phrase: сотни долар
+    Translation: hundredth dollar
+  - Phrase: двеста трећи компјутер
+    Translation: two hundred third computer
+  - Phrase: двесотни часовник
+    Translation: two hundredth clock
+  - Phrase: тридесети муж
+    Translation: thirtieth man
+  - Phrase: двеста први брат
+    Translation: two hundred first brother
+  - Phrase: шестсотни велосипед
+    Translation: six hundredth bicycle
+  - Phrase: осамсто втори долар
+    Translation: eight hundred second dollar
+  - Phrase: деветсотни пес
+    Translation: nine hundredth dog
+  - Phrase: четиристо пета гора
+    Translation: four hundred fifth mountain
+
+Mini-dictionary:
+  Serbian:
+    - брат: undefined
+    - велосипед: undefined
+    - втори: undefined
+    - второј: undefined
+    - гора: undefined
+    - два: undefined
+    - двадесет: undefined
+    - дванаестој: undefined
+    - двесотни: undefined
+    - двеста: undefined
+    - девети: undefined
+    - деветој: undefined
+    - деветсотни: undefined
+    - десет: undefined
+    - десетој: undefined
+    - долар: undefined
+    - компјутер: undefined
+    - муж: undefined
+    - о: undefined
+    - осамсто: undefined
+    - осми: undefined
+    - осмој: undefined
+    - педесет: undefined
+    - пес: undefined
+    - пет: undefined
+    - пета: undefined
+    - пети: undefined
+    - петој: undefined
+    - први: undefined
+    - првој: undefined
+    - седам: undefined
+    - сотни: undefined
+    - тисечни: undefined
+    - трећеј: undefined
+    - трећи: undefined
+    - три: undefined
+    - тридесет: undefined
+    - тридесети: undefined
+    - часина: undefined
+    - часине: undefined
+    - часовник: undefined
+    - четврти: undefined
+    - четвртој: undefined
+    - четиристо: undefined
+    - шести: undefined
+    - шестој: undefined
+    - шестсотни: undefined
+    - једанаестој: undefined
+  English:
+    - at: undefined
+    - bicycle: undefined
+    - brother: undefined
+    - clock: undefined
+    - computer: undefined
+    - dog: undefined
+    - dollar: undefined
+    - eight: undefined
+    - eighth: undefined
+    - eleventh: undefined
+    - fifteen: undefined
+    - fifth: undefined
+    - fifty: undefined
+    - first: undefined
+    - five: undefined
+    - four: undefined
+    - fourth: undefined
+    - hour: undefined
+    - hundred: undefined
+    - hundredth: undefined
+    - man: undefined
+    - mountain: undefined
+    - nine: undefined
+    - ninth: undefined
+    - past: undefined
+    - second: undefined
+    - seven: undefined
+    - seventh: undefined
+    - six: undefined
+    - sixth: undefined
+    - tenth: undefined
+    - the: undefined
+    - third: undefined
+    - thirtieth: undefined
+    - thirty: undefined
+    - thousandth: undefined
+    - three: undefined
+    - twelfth: undefined
+    - twenty: undefined
+    - two: undefined

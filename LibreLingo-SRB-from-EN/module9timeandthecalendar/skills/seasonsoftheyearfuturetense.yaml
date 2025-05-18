@@ -1,0 +1,200 @@
+Skill:
+  Name: Seasons of the year (future tense)
+  Id: 33
+
+New words:
+  - Word: лето
+    Translation: summer
+  - Word: јесењ
+    Translation: autumn
+  - Word: зима
+    Translation: winter
+  - Word: весна
+    Translation: spring
+  - Word: сезон
+    Translation: season
+  - Word: бити
+    Translation: to be
+  - Word: бућу
+    Translation: I will be
+  - Word: будеш
+    Translation: you will be
+  - Word: буде
+    Translation: he/she/it will be
+  - Word: будемо
+    Translation: we will be
+  - Word: будете
+    Translation: you will be
+  - Word: буду
+    Translation: they will be
+
+Phrases:
+  - Phrase: В лету буде тепло.
+    Translation: In the summer it will be warm.
+  - Phrase: В јесени будемо видети падајучи листи.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: В зиме будете играти с снегом.
+    Translation: In the winter you will play with snow.
+  - Phrase: Весна принесе цвети.
+    Translation: Spring will bring flowers.
+  - Phrase: Сезон буде измењати се четири рази.
+    Translation: The season will change four times.
+  - Phrase: В зиме буде падати снег.
+    Translation: In the winter it will snow.
+  - Phrase: Весној растут цвети.
+    Translation: In spring, flowers grow.
+  - Phrase: В лету јест много слонца.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: В јесени будеш много трпети чрез дожд.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Воздух в зиме буде хладни.
+    Translation: The air in winter will be cold.
+  - Phrase: Лето јест сезоном одморинга при језеру.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Јесењ има много колоров.
+    Translation: Autumn has many colors.
+  - Phrase: Зима не јест добра за спортова.
+    Translation: Winter is not good for sports.
+  - Phrase: Весна јест нудна.
+    Translation: Spring is boring.
+  - Phrase: Сезони се мењају четири рази в року.
+    Translation: The seasons change four times a year.
+  - Phrase: Скоро кончаје се лето.
+    Translation: Summer will soon end.
+  - Phrase: В јесени толико пада дожд.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Зима има много снега.
+    Translation: Winter has a lot of snow.
+  - Phrase: Они буду видети зелени крајообраз.
+    Translation: They will see a green landscape.
+  - Phrase: Солнце буде светити силно в лету.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Serbian:
+    - бити: undefined
+    - буде: undefined
+    - будемо: undefined
+    - будете: undefined
+    - будеш: undefined
+    - буду: undefined
+    - бућу: undefined
+    - в: undefined
+    - весна: undefined
+    - весној: undefined
+    - видети: undefined
+    - воздух: undefined
+    - добра: undefined
+    - дожд: undefined
+    - за: undefined
+    - зелени: undefined
+    - зима: undefined
+    - зиме: undefined
+    - играти: undefined
+    - измењати: undefined
+    - има: undefined
+    - колоров: undefined
+    - кончаје: undefined
+    - крајообраз: undefined
+    - лето: undefined
+    - лету: undefined
+    - листи: undefined
+    - мењају: undefined
+    - много: undefined
+    - не: undefined
+    - нудна: undefined
+    - одморинга: undefined
+    - они: undefined
+    - пада: undefined
+    - падати: undefined
+    - падајучи: undefined
+    - при: undefined
+    - принесе: undefined
+    - рази: undefined
+    - растут: undefined
+    - року: undefined
+    - с: undefined
+    - светити: undefined
+    - се: undefined
+    - сезон: undefined
+    - сезони: undefined
+    - сезоном: undefined
+    - силно: undefined
+    - скоро: undefined
+    - слонца: undefined
+    - снег: undefined
+    - снега: undefined
+    - снегом: undefined
+    - солнце: undefined
+    - спортова: undefined
+    - тепло: undefined
+    - толико: undefined
+    - трпети: undefined
+    - хладни: undefined
+    - цвети: undefined
+    - четири: undefined
+    - чрез: undefined
+    - језеру: undefined
+    - јесени: undefined
+    - јесењ: undefined
+    - јест: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - autumn: undefined
+    - be: undefined
+    - because: undefined
+    - boring: undefined
+    - bring: undefined
+    - by: undefined
+    - change: undefined
+    - cold: undefined
+    - colors: undefined
+    - end: undefined
+    - falling: undefined
+    - flowers: undefined
+    - for: undefined
+    - four: undefined
+    - good: undefined
+    - green: undefined
+    - grow: undefined
+    - has: undefined
+    - he/she/it: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lake: undefined
+    - landscape: undefined
+    - leaves: undefined
+    - lot: undefined
+    - many: undefined
+    - not: undefined
+    - of: undefined
+    - play: undefined
+    - rain: undefined
+    - rest: undefined
+    - season: undefined
+    - seasons: undefined
+    - see: undefined
+    - shine: undefined
+    - snow: undefined
+    - soon: undefined
+    - sports: undefined
+    - spring: undefined
+    - strongly: undefined
+    - suffer: undefined
+    - summer: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - they: undefined
+    - times: undefined
+    - to: undefined
+    - warm: undefined
+    - we: undefined
+    - will: undefined
+    - winter: undefined
+    - with: undefined
+    - year: undefined
+    - you: undefined

@@ -1,0 +1,229 @@
+Skill:
+  Name: Conjugation of to be and the Nominative Case
+  Id: 1
+
+New words:
+  - Word: це (середній рід)
+    Translation: this
+  - Word: ця (жіночий рід)
+    Translation: this
+  - Word: цей (чоловічий рід)
+    Translation: that
+  - Word: тамтой (чоловічий рід)
+    Translation: that over there
+  - Word: тамта (жіночий рід)
+    Translation: that over there
+  - Word: я є
+    Translation: am
+  - Word: ти є
+    Translation: are
+  - Word: він/вона/воно є
+    Translation: is
+  - Word: ми є
+    Translation: are
+  - Word: ви є
+    Translation: are
+  - Word: вони є
+    Translation: are
+  - Word: я
+    Translation: I
+  - Word: ти
+    Translation: you
+  - Word: він
+    Translation: he
+  - Word: вона
+    Translation: she
+  - Word: воно
+    Translation: it
+  - Word: ми
+    Translation: we
+  - Word: ви
+    Translation: you
+  - Word: вони (чол. р.)
+    Translation: they
+  - Word: вони (жін. р.)
+    Translation: they
+  - Word: людина
+    Translation: person
+  - Word: жінка
+    Translation: woman
+  - Word: чоловік
+    Translation: man
+  - Word: дитина
+    Translation: child
+  - Word: друг
+    Translation: friend
+  - Word: сестра
+    Translation: sister
+  - Word: батько/мати (один з батьків)
+    Translation: parent
+  - Word: дім
+    Translation: house
+  - Word: місто
+    Translation: city
+  - Word: день
+    Translation: day
+  - Word: також
+    Translation: also
+  - Word: хто
+    Translation: who
+
+Phrases:
+  - Phrase: Я є мудрий.
+    Translation: I am wise.
+  - Phrase: Це моя сестра.
+    Translation: This is my sister.
+  - Phrase: Вона дуже мудра
+    Translation: She is very wise
+  - Phrase: Ми дуже мудрі
+    Translation: We are very wise
+  - Phrase: Ви також мудрі?
+    Translation: Are you also wise?
+  - Phrase: Це добра людина.
+    Translation: This is a good person.
+  - Phrase: Та жінка є добра.
+    Translation: This woman is good.
+  - Phrase: Це є мій дім.
+    Translation: This is my house.
+  - Phrase: Він також добрий друг
+    Translation: He is a good friend
+  - Phrase: Ви є добрі.
+    Translation: You are good.
+  - Phrase: Це є друзі.
+    Translation: These are friends.
+  - Phrase: Хто ти є?
+    Translation: Who are you?
+  - Phrase: Той чоловік милий.
+    Translation: That man is kind.
+  - Phrase: Це є приємне місто.
+    Translation: This is a pleasant city.
+  - Phrase: Та жінка є висока.
+    Translation: That woman is tall.
+  - Phrase: Той день є холодний.
+    Translation: That day is cold.
+  - Phrase: Тамтой дім є красивий.
+    Translation: That house over there is beautiful.
+  - Phrase: Це моє дитя.
+    Translation: This is my child.
+  - Phrase: Тамтой ранок є холодний.
+    Translation: That morning over there is cold.
+  - Phrase: Це не моя сестра.
+    Translation: This is not my sister.
+  - Phrase: Це не твій дім.
+    Translation: This is not your house.
+  - Phrase: Це добре авто?
+    Translation: Is this a good car?
+  - Phrase: Це добрі друзі?
+    Translation: Are these good friends?
+  - Phrase: Вони є дуже милі.
+    Translation: They are very kind.
+  - Phrase: Вони є дуже милі.
+    Translation: They are very kind
+
+Mini-dictionary:
+  Ukrainian:
+    - авто: undefined
+    - батько/мати: undefined
+    - батьків: undefined
+    - ви: undefined
+    - висока: undefined
+    - вона: undefined
+    - вони: undefined
+    - воно: undefined
+    - він: undefined
+    - він/вона/воно: undefined
+    - день: undefined
+    - дитина: undefined
+    - дитя: undefined
+    - добра: undefined
+    - добре: undefined
+    - добрий: undefined
+    - добрі: undefined
+    - друг: undefined
+    - друзі: undefined
+    - дуже: undefined
+    - дім: undefined
+    - жін: undefined
+    - жінка: undefined
+    - жіночий: undefined
+    - з: undefined
+    - красивий: undefined
+    - людина: undefined
+    - ми: undefined
+    - милий: undefined
+    - милі: undefined
+    - моя: undefined
+    - моє: undefined
+    - мудра: undefined
+    - мудрий: undefined
+    - мудрі: undefined
+    - мій: undefined
+    - місто: undefined
+    - не: undefined
+    - один: undefined
+    - приємне: undefined
+    - р: undefined
+    - ранок: undefined
+    - рід: undefined
+    - середній: undefined
+    - сестра: undefined
+    - та: undefined
+    - також: undefined
+    - тамта: undefined
+    - тамтой: undefined
+    - твій: undefined
+    - ти: undefined
+    - той: undefined
+    - холодний: undefined
+    - хто: undefined
+    - це: undefined
+    - цей: undefined
+    - ця: undefined
+    - чол: undefined
+    - чоловік: undefined
+    - чоловічий: undefined
+    - я: undefined
+    - є: undefined
+  English:
+    - a: undefined
+    - also: undefined
+    - am: undefined
+    - are: undefined
+    - beautiful: undefined
+    - car: undefined
+    - child: undefined
+    - city: undefined
+    - cold: undefined
+    - day: undefined
+    - friend: undefined
+    - friends: undefined
+    - good: undefined
+    - he: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - it: undefined
+    - kind: undefined
+    - man: undefined
+    - morning: undefined
+    - my: undefined
+    - not: undefined
+    - over: undefined
+    - parent: undefined
+    - person: undefined
+    - pleasant: undefined
+    - she: undefined
+    - sister: undefined
+    - tall: undefined
+    - that: undefined
+    - there: undefined
+    - these: undefined
+    - they: undefined
+    - this: undefined
+    - very: undefined
+    - we: undefined
+    - who: undefined
+    - wise: undefined
+    - woman: undefined
+    - you: undefined
+    - your: undefined

@@ -1,0 +1,196 @@
+Skill:
+  Name: Grammar revision pronouncs
+  Id: 20
+
+New words:
+  - Word: "wiedzieć"
+    Translation: to know
+  - Word: "znać"
+    Translation: to know
+  - Word: "sny"
+    Translation: dream
+  - Word: "rzecz"
+    Translation: thing
+
+Phrases:
+  - Phrase: Tego niy wia.
+    Translation: I don't know that.
+  - Phrase: Ô tym juž dugo zna.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Kogo ty widzisz?.
+    Translation: Who do you see?.
+  - Phrase: Tym kierzy leżōm spać spokojnego sny.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: Ô tej rzecy jo nic niy wia.
+    Translation: I know nothing about that thing.
+  - Phrase: Godōm z tobōm.
+    Translation: I am talking with you.
+  - Phrase: Jo widza wos.
+    Translation: I see you.
+  - Phrase: Ôn lubi być sam ze sobōm.
+    Translation: He likes to be alone with himself.
+  - Phrase: Dej mi woda.
+    Translation: Give me water.
+  - Phrase: Z nami zawżdy wszyjsko wesoło.
+    Translation: With us everything is always cheerful.
+  - Phrase: Mnie niy widzisz.
+    Translation: You don't see me.
+  - Phrase: Komu dōsz darōnek?
+    Translation: Who do you give a gift to?
+  - Phrase: Ô mnie godosz?
+    Translation: Are you talking about me?
+  - Phrase: Niy, jo niy godōm ô tobie.
+    Translation: No, I don't talt about you.
+  - Phrase: Ô czym ty godosz?
+    Translation: What are you talking about?
+  - Phrase: Te baby som piykne.
+    Translation: These women are beautiful.
+  - Phrase: Tych kamratōw niy mosz.
+    Translation: You do not have those friends.
+  - Phrase: Ôn dowo sobie pokōj.
+    Translation: He stops troubling others.
+  - Phrase: Czego sam niy mo we dōmu?
+    Translation: What isn't at this house here?
+  - Phrase: Tymu psowi ty dajesz kości.
+    Translation: You give to this dog bones.
+  - Phrase: To woszo kafa abo jej?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Silesian:
+    - abo: undefined
+    - baby: undefined
+    - być: undefined
+    - czego: undefined
+    - czym: undefined
+    - dajesz: undefined
+    - darōnek: undefined
+    - dej: undefined
+    - dowo: undefined
+    - dugo: undefined
+    - dōmu: undefined
+    - dōsz: undefined
+    - godosz: undefined
+    - godōm: undefined
+    - jej: undefined
+    - jo: undefined
+    - juž: undefined
+    - kafa: undefined
+    - kamratōw: undefined
+    - kierzy: undefined
+    - kogo: undefined
+    - komu: undefined
+    - kości: undefined
+    - leżōm: undefined
+    - lubi: undefined
+    - mi: undefined
+    - mnie: undefined
+    - mo: undefined
+    - mosz: undefined
+    - nami: undefined
+    - nic: undefined
+    - niy: undefined
+    - piykne: undefined
+    - pokōj: undefined
+    - psowi: undefined
+    - rzecy: undefined
+    - rzecz: undefined
+    - sam: undefined
+    - sny: undefined
+    - sobie: undefined
+    - sobōm: undefined
+    - som: undefined
+    - spać: undefined
+    - spokojnego: undefined
+    - te: undefined
+    - tego: undefined
+    - tej: undefined
+    - to: undefined
+    - tobie: undefined
+    - tobōm: undefined
+    - ty: undefined
+    - tych: undefined
+    - tym: undefined
+    - tymu: undefined
+    - we: undefined
+    - wesoło: undefined
+    - wia: undefined
+    - widza: undefined
+    - widzisz: undefined
+    - wiedzieć: undefined
+    - woda: undefined
+    - wos: undefined
+    - woszo: undefined
+    - wszyjsko: undefined
+    - z: undefined
+    - zawżdy: undefined
+    - ze: undefined
+    - zna: undefined
+    - znać: undefined
+    - ô: undefined
+    - ôn: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - alone: undefined
+    - always: undefined
+    - am: undefined
+    - are: undefined
+    - at: undefined
+    - be: undefined
+    - beautiful: undefined
+    - bones: undefined
+    - cheerful: undefined
+    - coffee: undefined
+    - do: undefined
+    - dog: undefined
+    - don't: undefined
+    - dream: undefined
+    - everything: undefined
+    - for: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - going: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - himself: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - isn't: undefined
+    - it: undefined
+    - know: undefined
+    - known: undefined
+    - likes: undefined
+    - long: undefined
+    - me: undefined
+    - no: undefined
+    - not: undefined
+    - nothing: undefined
+    - or: undefined
+    - others: undefined
+    - peaceful: undefined
+    - see: undefined
+    - sleep: undefined
+    - stops: undefined
+    - talking: undefined
+    - talt: undefined
+    - that: undefined
+    - these: undefined
+    - thing: undefined
+    - this: undefined
+    - those: undefined
+    - time: undefined
+    - to: undefined
+    - troubling: undefined
+    - us: undefined
+    - water: undefined
+    - what: undefined
+    - who: undefined
+    - with: undefined
+    - women: undefined
+    - you: undefined
+    - your: undefined

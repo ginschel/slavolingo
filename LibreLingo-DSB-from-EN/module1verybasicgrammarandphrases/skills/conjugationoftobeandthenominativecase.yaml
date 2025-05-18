@@ -1,0 +1,225 @@
+Skill:
+  Name: Conjugation of to be and the Nominative Case
+  Id: 1
+
+New words:
+  - Word: to (srjejźny rod)
+    Translation: this
+  - Word: ta (žeński rod)
+    Translation: this
+  - Word: ten (muski rod)
+    Translation: that
+  - Word: tamten (muski rod)
+    Translation: that over there
+  - Word: tamta (žeński rod)
+    Translation: that over there
+  - Word: som
+    Translation: am
+  - Word: sy
+    Translation: are
+  - Word: jo
+    Translation: is
+  - Word: smy
+    Translation: are
+  - Word: sćo
+    Translation: are
+  - Word: su
+    Translation: are
+  - Word: ja
+    Translation: I
+  - Word: ty
+    Translation: you
+  - Word: wón
+    Translation: he
+  - Word: wóna
+    Translation: she
+  - Word: wóno
+    Translation: it
+  - Word: my
+    Translation: we
+  - Word: wy
+    Translation: you
+  - Word: wóni
+    Translation: they
+  - Word: wone
+    Translation: they
+  - Word: cłowjek
+    Translation: person
+  - Word: žona
+    Translation: woman
+  - Word: muž
+    Translation: man
+  - Word: źiśe
+    Translation: child
+  - Word: pśijaśel
+    Translation: friend
+  - Word: sotša
+    Translation: sister
+  - Word: staršy
+    Translation: parent
+  - Word: dom
+    Translation: house
+  - Word: město
+    Translation: city
+  - Word: źeń
+    Translation: day
+  - Word: teke
+    Translation: also
+  - Word: chto
+    Translation: who
+
+Phrases:
+  - Phrase: Ja som mudry.
+    Translation: I am wise.
+  - Phrase: To moja sotša.
+    Translation: This is my sister.
+  - Phrase: Wóna wjele mudra
+    Translation: She is very wise
+  - Phrase: My wjele mudre
+    Translation: We are very wise
+  - Phrase: Wy teke mudre?
+    Translation: Are you also wise?
+  - Phrase: To dobry cłowjek.
+    Translation: This is a good person.
+  - Phrase: Ta žona jo dobra.
+    Translation: This woman is good.
+  - Phrase: To jo mójo dom.
+    Translation: This is my house.
+  - Phrase: Wón teke dobry pśijaśel
+    Translation: He is a good friend
+  - Phrase: Wy sćo dobre.
+    Translation: You are good.
+  - Phrase: To su pśijaśele.
+    Translation: These are friends.
+  - Phrase: Chto ty sy?
+    Translation: Who are you?
+  - Phrase: Tamten muž mjelny.
+    Translation: That man is kind.
+  - Phrase: To jo pśijazne město.
+    Translation: This is a pleasant city.
+  - Phrase: Ta žona jo wusoka.
+    Translation: That woman is tall.
+  - Phrase: Tamten źeń jo zymny.
+    Translation: That day is cold.
+  - Phrase: Tamten dom jo krasny.
+    Translation: That house over there is beautiful.
+  - Phrase: To mójo źiśe.
+    Translation: This is my child.
+  - Phrase: Tamto ranjo jo zymne.
+    Translation: That morning over there is cold.
+  - Phrase: To nje moja sotša.
+    Translation: This is not my sister.
+  - Phrase: To nje twój dom.
+    Translation: This is not your house.
+  - Phrase: To dobre awto?
+    Translation: Is this a good car?
+  - Phrase: To dobre pśijaśele?
+    Translation: Are these good friends?
+  - Phrase: Wone su wjele mjase.
+    Translation: They are very kind.
+  - Phrase: Wóni su wjele mjase
+    Translation: They are very kind
+
+Mini-dictionary:
+  Lower Sorbian:
+    - awto: undefined
+    - chto: undefined
+    - cłowjek: undefined
+    - dobra: undefined
+    - dobre: undefined
+    - dobry: undefined
+    - dom: undefined
+    - ja: undefined
+    - jo: undefined
+    - krasny: undefined
+    - mjase: undefined
+    - mjelny: undefined
+    - moja: undefined
+    - mudra: undefined
+    - mudre: undefined
+    - mudry: undefined
+    - muski: undefined
+    - muž: undefined
+    - my: undefined
+    - mójo: undefined
+    - město: undefined
+    - nje: undefined
+    - pśijazne: undefined
+    - pśijaśel: undefined
+    - pśijaśele: undefined
+    - ranjo: undefined
+    - rod: undefined
+    - smy: undefined
+    - som: undefined
+    - sotša: undefined
+    - srjejźny: undefined
+    - staršy: undefined
+    - su: undefined
+    - sy: undefined
+    - sćo: undefined
+    - ta: undefined
+    - tamta: undefined
+    - tamten: undefined
+    - tamto: undefined
+    - teke: undefined
+    - ten: undefined
+    - to: undefined
+    - twój: undefined
+    - ty: undefined
+    - wjele: undefined
+    - wone: undefined
+    - wusoka: undefined
+    - wy: undefined
+    - wón: undefined
+    - wóna: undefined
+    - wóni: undefined
+    - wóno: undefined
+    - zymne: undefined
+    - zymny: undefined
+    - źeń: undefined
+    - źiśe: undefined
+    - žeński: undefined
+    - žona: undefined
+  English:
+    - a: undefined
+    - also: undefined
+    - am: undefined
+    - are: undefined
+    - beautiful: undefined
+    - car: undefined
+    - child: undefined
+    - city: undefined
+    - cold: undefined
+    - day: undefined
+    - friend: undefined
+    - friends: undefined
+    - good: undefined
+    - he: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - it: undefined
+    - kind: undefined
+    - man: undefined
+    - morning: undefined
+    - my: undefined
+    - not: undefined
+    - over: undefined
+    - parent: undefined
+    - person: undefined
+    - pleasant: undefined
+    - she: undefined
+    - sister: undefined
+    - tall: undefined
+    - that: undefined
+    - there: undefined
+    - these: undefined
+    - they: undefined
+    - this: undefined
+    - very: undefined
+    - we: undefined
+    - who: undefined
+    - wise: undefined
+    - woman: undefined
+    - you: undefined
+    - your: undefined

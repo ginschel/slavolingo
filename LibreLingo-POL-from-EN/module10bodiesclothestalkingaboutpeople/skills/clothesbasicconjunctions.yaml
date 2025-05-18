@@ -1,0 +1,248 @@
+Skill:
+  Name: Clothes  (basic conjunctions)
+  Id: 34
+
+New words:
+  - Word: koszula
+    Translation: shirt
+  - Word: nosić
+    Translation: to wear
+  - Word: spodnie
+    Translation: trousers
+  - Word: koszulka (T-shirt)
+    Translation: t-shirt
+  - Word: szalik
+    Translation: scarf
+  - Word: czapka
+    Translation: hat
+  - Word: płaszcz
+    Translation: coat
+  - Word: rękawiczka
+    Translation: glove
+  - Word: majtki/gacie
+    Translation: underwear
+  - Word: skarpetka
+    Translation: sock
+  - Word: obuwie
+    Translation: footwear
+  - Word: odzież
+    Translation: clothes
+  - Word: brzydki
+    Translation: ugly
+  - Word: ubierać
+    Translation: to dress
+  - Word: piżama
+    Translation: pajamas
+
+Phrases:
+  - Phrase: On nosi niebieską koszulę.
+    Translation: He wears a blue shirt.
+  - Phrase: Ona ma czarne spodnie, a on białe.
+    Translation: She has black trousers, and he has white.
+  - Phrase: Obuwie i płaszcz leżą przy drzwiach.
+    Translation: Shoes and the coat are lying by the door.
+  - Phrase: Szalik jest ciężki i ciepły.
+    Translation: The scarf is heavy and warm.
+  - Phrase: Zimą noszę zawsze czapkę, a w lecie nie.
+    Translation: In winter, I always wear a hat, but not in summer.
+  - Phrase: Majtki są ładne czy brzydkie?
+    Translation: Are the shorts beautiful or ugly?
+  - Phrase: Noszę rękawiczki w zimie.
+    Translation: We wear gloves in winter.
+  - Phrase: Tamta piżama jest zielona.
+    Translation: That pajama is green.
+  - Phrase: Nowe majtki są wygodne.
+    Translation: New shorts are comfortable.
+  - Phrase: Nowa odzież jest droga.
+    Translation: New clothes are expensive.
+  - Phrase: Koszula jest w skrzyni.
+    Translation: The shirt is in the drawer.
+  - Phrase: Czapka wisi na ścianie.
+    Translation: The hat hangs on the wall.
+  - Phrase: On ubierał i nosił wczoraj o drugiej godzinie zieloną koszulkę czy koszulę. Ja nie jestem pewien teraz.
+    Translation: He wore and put on a green tennis shoe or shirt yesterday at two AM. I'm not sure right now.
+  - Phrase: Chcesz szalik czy koszulę.
+    Translation: You want a scarf or a shirt.
+  - Phrase: Brzydkie rękawiczki leżą na stole, a piękny płaszcz noszę.
+    Translation: The ugly gloves are lying on the table, and I wear the red coat.
+  - Phrase: Ona kupiła ciepłe obuwie.
+    Translation: She bought warm shoes.
+  - Phrase: On ubiera nową koszulę.
+    Translation: He is putting on a new shirt.
+  - Phrase: Moje skarpetki są krótkie.
+    Translation: My socks are short.
+  - Phrase: W zimie będę potrzebować czapki i rękawiczek.
+    Translation: In winter I will need a hat and gloves.
+  - Phrase: Odzież jest czysta i tylko już biała.
+    Translation: The clothes are clean and only the underwear is white.
+
+Mini-dictionary:
+  Polish:
+    - a: undefined
+    - biała: undefined
+    - białe: undefined
+    - brzydki: undefined
+    - brzydkie: undefined
+    - będę: undefined
+    - chcesz: undefined
+    - ciepłe: undefined
+    - ciepły: undefined
+    - ciężki: undefined
+    - czapka: undefined
+    - czapki: undefined
+    - czapkę: undefined
+    - czarne: undefined
+    - czy: undefined
+    - czysta: undefined
+    - droga: undefined
+    - drugiej: undefined
+    - drzwiach: undefined
+    - godzinie: undefined
+    - i: undefined
+    - ja: undefined
+    - jest: undefined
+    - jestem: undefined
+    - już: undefined
+    - koszula: undefined
+    - koszulka: undefined
+    - koszulkę: undefined
+    - koszulę: undefined
+    - krótkie: undefined
+    - kupiła: undefined
+    - lecie: undefined
+    - leżą: undefined
+    - ma: undefined
+    - majtki: undefined
+    - majtki/gacie: undefined
+    - moje: undefined
+    - na: undefined
+    - nie: undefined
+    - niebieską: undefined
+    - nosi: undefined
+    - nosić: undefined
+    - nosił: undefined
+    - noszę: undefined
+    - nowa: undefined
+    - nowe: undefined
+    - nową: undefined
+    - o: undefined
+    - obuwie: undefined
+    - odzież: undefined
+    - on: undefined
+    - ona: undefined
+    - pewien: undefined
+    - piękny: undefined
+    - piżama: undefined
+    - potrzebować: undefined
+    - przy: undefined
+    - płaszcz: undefined
+    - rękawiczek: undefined
+    - rękawiczka: undefined
+    - rękawiczki: undefined
+    - skarpetka: undefined
+    - skarpetki: undefined
+    - skrzyni: undefined
+    - spodnie: undefined
+    - stole: undefined
+    - szalik: undefined
+    - są: undefined
+    - t-shirt: undefined
+    - tamta: undefined
+    - teraz: undefined
+    - tylko: undefined
+    - ubiera: undefined
+    - ubierać: undefined
+    - ubierał: undefined
+    - w: undefined
+    - wczoraj: undefined
+    - wisi: undefined
+    - wygodne: undefined
+    - zawsze: undefined
+    - zielona: undefined
+    - zieloną: undefined
+    - zimie: undefined
+    - zimą: undefined
+    - ładne: undefined
+    - ścianie: undefined
+  English:
+    - a: undefined
+    - always: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beautiful: undefined
+    - black: undefined
+    - blue: undefined
+    - bought: undefined
+    - but: undefined
+    - by: undefined
+    - clean: undefined
+    - clothes: undefined
+    - coat: undefined
+    - comfortable: undefined
+    - door: undefined
+    - drawer: undefined
+    - dress: undefined
+    - expensive: undefined
+    - footwear: undefined
+    - glove: undefined
+    - gloves: undefined
+    - green: undefined
+    - hangs: undefined
+    - has: undefined
+    - hat: undefined
+    - he: undefined
+    - heavy: undefined
+    - i: undefined
+    - i'm: undefined
+    - in: undefined
+    - is: undefined
+    - lying: undefined
+    - my: undefined
+    - need: undefined
+    - new: undefined
+    - not: undefined
+    - now: undefined
+    - on: undefined
+    - only: undefined
+    - or: undefined
+    - pajama: undefined
+    - pajamas: undefined
+    - put: undefined
+    - putting: undefined
+    - red: undefined
+    - right: undefined
+    - scarf: undefined
+    - she: undefined
+    - shirt: undefined
+    - shoe: undefined
+    - shoes: undefined
+    - short: undefined
+    - shorts: undefined
+    - sock: undefined
+    - socks: undefined
+    - summer: undefined
+    - sure: undefined
+    - t-shirt: undefined
+    - table: undefined
+    - tennis: undefined
+    - that: undefined
+    - the: undefined
+    - to: undefined
+    - trousers: undefined
+    - two: undefined
+    - ugly: undefined
+    - underwear: undefined
+    - wall: undefined
+    - want: undefined
+    - warm: undefined
+    - we: undefined
+    - wear: undefined
+    - wears: undefined
+    - white: undefined
+    - will: undefined
+    - winter: undefined
+    - wore: undefined
+    - yesterday: undefined
+    - you: undefined

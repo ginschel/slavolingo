@@ -1,0 +1,124 @@
+Skill:
+  Name: Numbers 100-1000
+  Id: 29
+
+New words:
+  - Word: сто
+    Translation: one hundred
+  - Word: двеста
+    Translation: two hundred
+  - Word: триста
+    Translation: three hundred
+  - Word: четиристо
+    Translation: four hundred
+  - Word: петсто
+    Translation: five hundred
+  - Word: шестсто
+    Translation: six hundred
+  - Word: седамсто
+    Translation: seven hundred
+  - Word: осамсто
+    Translation: eight hundred
+  - Word: деветсто
+    Translation: nine hundred
+  - Word: тисеч
+    Translation: thousand
+
+Phrases:
+  - Phrase: тисеч један часовников
+    Translation: one thousand one clocks
+  - Phrase: сто хлапцев
+    Translation: one hundred boys
+  - Phrase: двеста жен
+    Translation: two hundred women
+  - Phrase: триста полеј
+    Translation: three hundred fields
+  - Phrase: четиристо мужев
+    Translation: four hundred men
+  - Phrase: петсто жен
+    Translation: five hundred women
+  - Phrase: шестсто котов
+    Translation: six hundred cats
+  - Phrase: седамсто један велосипедов
+    Translation: seven hundred one bicycles
+  - Phrase: осамсто хлапцев
+    Translation: eight hundred boys
+  - Phrase: деветсто велосипедов
+    Translation: nine hundred bicycles
+  - Phrase: тисеч осам рубљев
+    Translation: one thousand eight rubles
+  - Phrase: четиристо седам доларов
+    Translation: four hundred seven dollars
+  - Phrase: двеста три компјутеров
+    Translation: two hundred three computers
+  - Phrase: седамсто један часовников
+    Translation: seven hundred one clocks
+  - Phrase: триста четири вечиј
+    Translation: three hundred four things
+  - Phrase: сто два солнц
+    Translation: one hundred two suns
+  - Phrase: шестсто велосипедов
+    Translation: six hundred bicycles
+  - Phrase: осамсто доларов
+    Translation: eight hundred dollars
+  - Phrase: два тисеч деветсто псов
+    Translation: two thousand nine hundred dogs
+  - Phrase: четиристо котов
+    Translation: four hundred cats
+
+Mini-dictionary:
+  Serbian:
+    - велосипедов: undefined
+    - вечиј: undefined
+    - два: undefined
+    - двеста: undefined
+    - деветсто: undefined
+    - доларов: undefined
+    - жен: undefined
+    - компјутеров: undefined
+    - котов: undefined
+    - мужев: undefined
+    - осам: undefined
+    - осамсто: undefined
+    - петсто: undefined
+    - полеј: undefined
+    - псов: undefined
+    - рубљев: undefined
+    - седам: undefined
+    - седамсто: undefined
+    - солнц: undefined
+    - сто: undefined
+    - тисеч: undefined
+    - три: undefined
+    - триста: undefined
+    - хлапцев: undefined
+    - часовников: undefined
+    - четири: undefined
+    - четиристо: undefined
+    - шестсто: undefined
+    - један: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - fields: undefined
+    - five: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - nine: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - suns: undefined
+    - things: undefined
+    - thousand: undefined
+    - three: undefined
+    - two: undefined
+    - women: undefined

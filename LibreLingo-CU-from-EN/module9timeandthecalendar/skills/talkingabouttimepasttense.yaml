@@ -1,0 +1,243 @@
+Skill:
+  Name: Talking about Time (past tense)
+  Id: 31
+
+New words:
+  - Word: часъ
+    Translation: time
+  - Word: минꙋта
+    Translation: minute
+  - Word: сєкꙋнда
+    Translation: second
+  - Word: частъ
+    Translation: hour
+  - Word: тꙋ дьнь
+    Translation: today
+  - Word: бꙑлъ
+    Translation: was
+  - Word: бꙑла
+    Translation: was
+  - Word: бꙑло
+    Translation: was
+  - Word: бꙑли
+    Translation: were
+  - Word: шєлъ
+    Translation: went/walked
+  - Word: шьла
+    Translation: went/walked
+  - Word: шьло
+    Translation: went/walked
+  - Word: шьли
+    Translation: went/walked
+  - Word: въчєра
+    Translation: yesterday
+  - Word: завътъра
+    Translation: tomorrow
+  - Word: вєчєръ
+    Translation: evening
+  - Word: полънощь
+    Translation: midnight
+  - Word: колико
+    Translation: how much
+  - Word: спати (спитъ)
+    Translation: to sleep
+  - Word: тръвати
+    Translation: to last
+
+Phrases:
+  - Phrase: Колико ѥстъ часа?
+    Translation: What time is it?
+  - Phrase: Онъ имѣлъ ѥдинѫ частъ.
+    Translation: He had one hour.
+  - Phrase: Завътъра ѥстъ за поздьно.
+    Translation: Tomorrow is too late.
+  - Phrase: Въчєра бꙑлъ понєдѣлъкъ.
+    Translation: Yesterday was Monday.
+  - Phrase: Въчєра она бꙑла въ домꙋ о осмои части.
+    Translation: Yesterday she was at home at the eighth hour.
+  - Phrase: Оутромъ нє бꙑло мьного тєпло.
+    Translation: In the morning it was not very warm.
+  - Phrase: О трєтьѥмъ части дъвадесѧть бꙑло хладьно.
+    Translation: At twenty past the third hour it was cold.
+  - Phrase: Полънощь ѥстъ тиха.
+    Translation: Midnight is quiet.
+  - Phrase: Онъ шєлъ до дома.
+    Translation: He went home.
+  - Phrase: Вꙑ ѥстє шьли до кина?
+    Translation: Have you gone to the cinema?
+  - Phrase: Они ничьто нє дѣлали.
+    Translation: They did nothing.
+  - Phrase: Минꙋта ѥстъ мала ѥдиница часа.
+    Translation: A minute is a small unit of time.
+  - Phrase: Сєкꙋнда ѥстъ кратъка.
+    Translation: A second is short.
+  - Phrase: Тꙋ дьнь тꙑ ѥси нє имѣлъ частинꙑ за тъ.
+    Translation: Today you did not have an hour for that.
+  - Phrase: Видимъ сѧ вєчєромъ о дєвѧтои части.
+    Translation: We will see each other in the evening at the ninth hour.
+  - Phrase: Въчєра о пръвомъ части бꙑло лѣпьѥ.
+    Translation: Yesterday at the first hour it was better.
+  - Phrase: Колико минꙋтъ тръваѥтъ фильмъ?
+    Translation: How many minutes does the film last?
+  - Phrase: Азъ ѥсмь бꙑлъ въ домꙋ оутромъ.
+    Translation: I was at home in the morning.
+  - Phrase: Онъ спитъ до полънощи.
+    Translation: He sleeps until midnight.
+  - Phrase: Колико сєкꙋндъ имаѥтъ минꙋта?
+    Translation: How many seconds are in a minute?
+  - Phrase: Вєчєромъ мꙑ шьли въ рєсторанъ.
+    Translation: In the evening we went to the restaurant.
+
+Mini-dictionary:
+  Church Slavonic:
+    - азъ: undefined
+    - бꙑла: undefined
+    - бꙑли: undefined
+    - бꙑло: undefined
+    - бꙑлъ: undefined
+    - видимъ: undefined
+    - въ: undefined
+    - въчєра: undefined
+    - вєчєромъ: undefined
+    - вєчєръ: undefined
+    - вꙑ: undefined
+    - до: undefined
+    - дома: undefined
+    - домꙋ: undefined
+    - дъвадесѧть: undefined
+    - дьнь: undefined
+    - дєвѧтои: undefined
+    - дѣлали: undefined
+    - за: undefined
+    - завътъра: undefined
+    - имаѥтъ: undefined
+    - имѣлъ: undefined
+    - кина: undefined
+    - колико: undefined
+    - кратъка: undefined
+    - лѣпьѥ: undefined
+    - мала: undefined
+    - минꙋта: undefined
+    - минꙋтъ: undefined
+    - мьного: undefined
+    - мꙑ: undefined
+    - ничьто: undefined
+    - нє: undefined
+    - о: undefined
+    - она: undefined
+    - они: undefined
+    - онъ: undefined
+    - осмои: undefined
+    - оутромъ: undefined
+    - поздьно: undefined
+    - полънощи: undefined
+    - полънощь: undefined
+    - понєдѣлъкъ: undefined
+    - пръвомъ: undefined
+    - рєсторанъ: undefined
+    - спати: undefined
+    - спитъ: undefined
+    - сєкꙋнда: undefined
+    - сєкꙋндъ: undefined
+    - сѧ: undefined
+    - тиха: undefined
+    - тръвати: undefined
+    - тръваѥтъ: undefined
+    - трєтьѥмъ: undefined
+    - тъ: undefined
+    - тєпло: undefined
+    - тꙋ: undefined
+    - тꙑ: undefined
+    - фильмъ: undefined
+    - хладьно: undefined
+    - часа: undefined
+    - части: undefined
+    - частинꙑ: undefined
+    - частъ: undefined
+    - часъ: undefined
+    - шьла: undefined
+    - шьли: undefined
+    - шьло: undefined
+    - шєлъ: undefined
+    - ѥдиница: undefined
+    - ѥдинѫ: undefined
+    - ѥси: undefined
+    - ѥсмь: undefined
+    - ѥстъ: undefined
+    - ѥстє: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - are: undefined
+    - at: undefined
+    - better: undefined
+    - cinema: undefined
+    - cold: undefined
+    - did: undefined
+    - does: undefined
+    - each: undefined
+    - eighth: undefined
+    - evening: undefined
+    - film: undefined
+    - first: undefined
+    - for: undefined
+    - gone: undefined
+    - had: undefined
+    - have: undefined
+    - he: undefined
+    - home: undefined
+    - hour: undefined
+    - how: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - last: undefined
+    - late: undefined
+    - many: undefined
+    - midnight: undefined
+    - minute: undefined
+    - minutes: undefined
+    - monday: undefined
+    - morning: undefined
+    - much: undefined
+    - ninth: undefined
+    - not: undefined
+    - nothing: undefined
+    - of: undefined
+    - one: undefined
+    - other: undefined
+    - past: undefined
+    - quiet: undefined
+    - restaurant: undefined
+    - second: undefined
+    - seconds: undefined
+    - see: undefined
+    - she: undefined
+    - short: undefined
+    - sleep: undefined
+    - sleeps: undefined
+    - small: undefined
+    - that: undefined
+    - the: undefined
+    - they: undefined
+    - third: undefined
+    - time: undefined
+    - to: undefined
+    - today: undefined
+    - tomorrow: undefined
+    - too: undefined
+    - twenty: undefined
+    - unit: undefined
+    - until: undefined
+    - very: undefined
+    - warm: undefined
+    - was: undefined
+    - we: undefined
+    - went: undefined
+    - went/walked: undefined
+    - were: undefined
+    - what: undefined
+    - will: undefined
+    - yesterday: undefined
+    - you: undefined

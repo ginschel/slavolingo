@@ -1,0 +1,188 @@
+Skill:
+  Name: Animals (Dative case)
+  Id: 14
+
+New words:
+  - Word: kočka
+    Translation: cat
+  - Word: pes
+    Translation: dog
+  - Word: pták
+    Translation: bird
+  - Word: pomáhat
+    Translation: to help
+  - Word: ukazovat/říkat (ukazuje/říká)
+    Translation: to show
+  - Word: kůň
+    Translation: horse
+  - Word: dát (dá)
+    Translation: to give
+  - Word: ryba
+    Translation: fish
+  - Word: žába
+    Translation: frog
+  - Word: medvěd
+    Translation: bear
+  - Word: vlk
+    Translation: wolf
+  - Word: myš
+    Translation: mouse
+  - Word: zvíře
+    Translation: animal
+
+Phrases:
+  - Phrase: Já dávám kočce rybu.
+    Translation: I give the cat a fish.
+  - Phrase: Ona ukazuje psovi.
+    Translation: She says to the dog.
+  - Phrase: On pomáhá ptákovi.
+    Translation: He helps the bird.
+  - Phrase: Dáváme koni vodu.
+    Translation: We give the horse water.
+  - Phrase: Ona nese myši sýr.
+    Translation: She carries cheese to the mouse.
+  - Phrase: On pomáhá medvědovi.
+    Translation: He helps the bear.
+  - Phrase: My dáváme žábě chléb.
+    Translation: We give bread to the frog.
+  - Phrase: Oni dávají zvířeti ruku.
+    Translation: They give their hand to the animal.
+  - Phrase: Pomáháme vlkovi.
+    Translation: We help the wolf.
+  - Phrase: Ty dáš mně rybu?
+    Translation: Will you give me a fish?
+  - Phrase: Já dám kočce jméno.
+    Translation: I give the cat a name.
+  - Phrase: On dá myši sýr.
+    Translation: On da myši syr.
+  - Phrase: My pomáháme ptákům.
+    Translation: We help the birds.
+  - Phrase: Dáváme žábám vodu.
+    Translation: We give the frog water.
+  - Phrase: Oni nesou medvědům jídlo.
+    Translation: They are carrying food to the bear.
+  - Phrase: Ona dá psu dobré jméno.
+    Translation: She gives the dog a good name.
+  - Phrase: Vy dáte koni.
+    Translation: You will give the horse.
+  - Phrase: Já dám rybě vodu.
+    Translation: I give the fish water.
+  - Phrase: Ona pomohla jemu se zvířetem.
+    Translation: She helped him with the animal.
+  - Phrase: Dáš li psu chutnou kost?
+    Translation: Will you give the dog a tasty bone?
+
+Mini-dictionary:
+  Czech:
+    - chléb: undefined
+    - chutnou: undefined
+    - dobré: undefined
+    - dá: undefined
+    - dám: undefined
+    - dát: undefined
+    - dáte: undefined
+    - dávají: undefined
+    - dávám: undefined
+    - dáváme: undefined
+    - dáš: undefined
+    - jemu: undefined
+    - jméno: undefined
+    - já: undefined
+    - jídlo: undefined
+    - koni: undefined
+    - kost: undefined
+    - kočce: undefined
+    - kočka: undefined
+    - kůň: undefined
+    - li: undefined
+    - medvěd: undefined
+    - medvědovi: undefined
+    - medvědům: undefined
+    - mně: undefined
+    - my: undefined
+    - myš: undefined
+    - myši: undefined
+    - nese: undefined
+    - nesou: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - pes: undefined
+    - pomohla: undefined
+    - pomáhat: undefined
+    - pomáhá: undefined
+    - pomáháme: undefined
+    - psovi: undefined
+    - psu: undefined
+    - pták: undefined
+    - ptákovi: undefined
+    - ptákům: undefined
+    - ruku: undefined
+    - ryba: undefined
+    - rybu: undefined
+    - rybě: undefined
+    - se: undefined
+    - sýr: undefined
+    - ty: undefined
+    - ukazovat/říkat: undefined
+    - ukazuje: undefined
+    - ukazuje/říká: undefined
+    - vlk: undefined
+    - vlkovi: undefined
+    - vodu: undefined
+    - vy: undefined
+    - zvíře: undefined
+    - zvířetem: undefined
+    - zvířeti: undefined
+    - žába: undefined
+    - žábám: undefined
+    - žábě: undefined
+  English:
+    - a: undefined
+    - animal: undefined
+    - are: undefined
+    - bear: undefined
+    - bird: undefined
+    - birds: undefined
+    - bone: undefined
+    - bread: undefined
+    - carries: undefined
+    - carrying: undefined
+    - cat: undefined
+    - cheese: undefined
+    - da: undefined
+    - dog: undefined
+    - fish: undefined
+    - food: undefined
+    - frog: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - hand: undefined
+    - he: undefined
+    - help: undefined
+    - helped: undefined
+    - helps: undefined
+    - him: undefined
+    - horse: undefined
+    - i: undefined
+    - me: undefined
+    - mouse: undefined
+    - myši: undefined
+    - name: undefined
+    - on: undefined
+    - says: undefined
+    - she: undefined
+    - show: undefined
+    - syr: undefined
+    - tasty: undefined
+    - the: undefined
+    - their: undefined
+    - they: undefined
+    - to: undefined
+    - water: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined
+    - wolf: undefined
+    - you: undefined

@@ -1,0 +1,197 @@
+Skill:
+  Name: Grammar revision cases
+  Id: 19
+
+New words:
+  - Word: "ciąć (tnie)"
+    Translation: to cut
+  - Word: "prezent"
+    Translation: gift
+  - Word: "wszechświat"
+    Translation: universe
+  - Word: "lustro"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Nie ma tu kości.
+    Translation: There is no bone here.
+  - Phrase: Dam kobiecie.
+    Translation: I give to the woman.
+  - Phrase: Ona jest w mieście.
+    Translation: She is in the city.
+  - Phrase: Rozmawiamy z przyjaciółmi.
+    Translation: I talk with friends.
+  - Phrase: Imienia on nie ma.
+    Translation: He has no name.
+  - Phrase: Ty duszy nie masz?!
+    Translation: You don't have a soul?!
+  - Phrase: On widzi swoją żonę.
+    Translation: He sees his wife.
+  - Phrase: Brata tu nie ma.
+    Translation: There is no brother here.
+  - Phrase: To można ciąć nożem.
+    Translation: This can be cut with a knife.
+  - Phrase: Ona rozmawia z mężem.
+    Translation: She talks with her husband.
+  - Phrase: Ona mówi o braciach.
+    Translation: She talks about brothers.
+  - Phrase: Ona daje prezent braciom.
+    Translation: She gives a gift to the brothers.
+  - Phrase: Na polu dużo pracuję/pracujemy.
+    Translation: I work a lot in the field.
+  - Phrase: Jest dużo słońc we wszechświecie.
+    Translation: There are many suns in the universe.
+  - Phrase: I też jest dużo gwiazd.
+    Translation: And there are also many stars.
+  - Phrase: On lubi rozmawiać ze swoją żoną.
+    Translation: He likes to talk with his wife.
+  - Phrase: Już nie ma bananów w domu.
+    Translation: There are no more bananas in the house.
+  - Phrase: W oczach widzę duszę twoją.
+    Translation: In the eyes I see your soul.
+  - Phrase: Oczy są zwierciadłem duszy.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Mężów tu nie widzę.
+    Translation: I do not see men here.
+  - Phrase: W miastach zobaczysz dużo ludzi.
+    Translation: In the cities you will see many people.
+  - Phrase: Spokojnej nocy!
+    Translation: Good night!
+
+Mini-dictionary:
+  Polish:
+    - bananów: undefined
+    - braciach: undefined
+    - braciom: undefined
+    - brata: undefined
+    - ciąć: undefined
+    - daje: undefined
+    - dam: undefined
+    - domu: undefined
+    - duszy: undefined
+    - duszę: undefined
+    - dużo: undefined
+    - gwiazd: undefined
+    - i: undefined
+    - imienia: undefined
+    - jest: undefined
+    - już: undefined
+    - kobiecie: undefined
+    - kości: undefined
+    - lubi: undefined
+    - ludzi: undefined
+    - lustro: undefined
+    - ma: undefined
+    - masz: undefined
+    - miastach: undefined
+    - mieście: undefined
+    - można: undefined
+    - mówi: undefined
+    - mężem: undefined
+    - mężów: undefined
+    - na: undefined
+    - nie: undefined
+    - nocy: undefined
+    - nożem: undefined
+    - o: undefined
+    - oczach: undefined
+    - oczy: undefined
+    - on: undefined
+    - ona: undefined
+    - polu: undefined
+    - pracuję/pracujemy: undefined
+    - prezent: undefined
+    - przyjaciółmi: undefined
+    - rozmawia: undefined
+    - rozmawiamy: undefined
+    - rozmawiać: undefined
+    - spokojnej: undefined
+    - swoją: undefined
+    - są: undefined
+    - słońc: undefined
+    - też: undefined
+    - tnie: undefined
+    - to: undefined
+    - tu: undefined
+    - twoją: undefined
+    - ty: undefined
+    - w: undefined
+    - we: undefined
+    - widzi: undefined
+    - widzę: undefined
+    - wszechświat: undefined
+    - wszechświecie: undefined
+    - z: undefined
+    - ze: undefined
+    - zobaczysz: undefined
+    - zwierciadłem: undefined
+    - żoną: undefined
+    - żonę: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - bananas: undefined
+    - be: undefined
+    - bone: undefined
+    - brother: undefined
+    - brothers: undefined
+    - can: undefined
+    - cities: undefined
+    - city: undefined
+    - cut: undefined
+    - do: undefined
+    - don't: undefined
+    - eyes: undefined
+    - field: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - his: undefined
+    - house: undefined
+    - husband: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - knife: undefined
+    - likes: undefined
+    - lot: undefined
+    - many: undefined
+    - men: undefined
+    - mirror: undefined
+    - more: undefined
+    - name: undefined
+    - night: undefined
+    - no: undefined
+    - not: undefined
+    - of: undefined
+    - people: undefined
+    - see: undefined
+    - sees: undefined
+    - she: undefined
+    - soul: undefined
+    - stars: undefined
+    - suns: undefined
+    - talk: undefined
+    - talks: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - universe: undefined
+    - wife: undefined
+    - will: undefined
+    - with: undefined
+    - woman: undefined
+    - work: undefined
+    - you: undefined
+    - your: undefined

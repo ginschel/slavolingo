@@ -1,0 +1,231 @@
+Skill:
+  Name: Weekdays/Months
+  Id: 32
+
+New words:
+  - Word: teden
+    Translation: week
+  - Word: ponedeljek
+    Translation: Monday
+  - Word: torek
+    Translation: Tuesday
+  - Word: sreda
+    Translation: Wednesday
+  - Word: četrtek
+    Translation: Thursday
+  - Word: petek
+    Translation: Friday
+  - Word: sobota
+    Translation: Saturday
+  - Word: nedelja
+    Translation: Sunday
+  - Word: mesec
+    Translation: month
+  - Word: januar
+    Translation: January
+  - Word: februar
+    Translation: February
+  - Word: marec
+    Translation: March
+  - Word: april
+    Translation: April
+  - Word: maj
+    Translation: May
+  - Word: junij
+    Translation: June
+  - Word: julij
+    Translation: July
+  - Word: avgust
+    Translation: August
+  - Word: september
+    Translation: September
+  - Word: oktober
+    Translation: October
+  - Word: november
+    Translation: November
+  - Word: december
+    Translation: December
+
+Phrases:
+  - Phrase: Ponedeljek je prvi dan v tednu.
+    Translation: Monday is the first day of the week.
+  - Phrase: Torek je po ponedeljku.
+    Translation: Tuesday is after Monday.
+  - Phrase: Sreda je v sredini tedna.
+    Translation: Wednesday is in the middle of the week.
+  - Phrase: Četrtek je pred petkom.
+    Translation: Thursday is before Friday.
+  - Phrase: Petek je zadnji delovni dan.
+    Translation: Friday is the last working day.
+  - Phrase: Sobota je vikend.
+    Translation: Saturday is the weekend.
+  - Phrase: Nedelja je dan počitka.
+    Translation: Sunday is the day of rest.
+  - Phrase: Imam v januarju počitnice.
+    Translation: I have vacation in January.
+  - Phrase: Novo leto je v decembru.
+    Translation: New Year's is in December.
+  - Phrase: V avgustu grem v Honduras.
+    Translation: In August, I am going to Honduras.
+  - Phrase: V februarju je veliko snega.
+    Translation: In February there is a lot of snow.
+  - Phrase: V sredo imam nalogo.
+    Translation: On Wednesday, I have an assignment.
+  - Phrase: V četrtek je moj najljubši dan.
+    Translation: Thursday is my favorite day.
+  - Phrase: V petek zvečer gremo na film.
+    Translation: On Friday evening we are going to the movies.
+  - Phrase: Sobota je brez dela.
+    Translation: Saturday is without work.
+  - Phrase: Nedelja je čas za družino.
+    Translation: Sunday is time for family.
+  - Phrase: Ni vsak mesec ima trideset dni.
+    Translation: Not every month has thirty days.
+  - Phrase: Oktober je lep mesec.
+    Translation: October is a beautiful month.
+  - Phrase: Torek je dan športa.
+    Translation: Tuesday is the day for sports.
+  - Phrase: Julij je mesec poletja.
+    Translation: July is the month of summer.
+
+Mini-dictionary:
+  Slovenian:
+    - april: undefined
+    - avgust: undefined
+    - avgustu: undefined
+    - brez: undefined
+    - dan: undefined
+    - december: undefined
+    - decembru: undefined
+    - dela: undefined
+    - delovni: undefined
+    - dni: undefined
+    - družino: undefined
+    - februar: undefined
+    - februarju: undefined
+    - film: undefined
+    - grem: undefined
+    - gremo: undefined
+    - honduras: undefined
+    - ima: undefined
+    - imam: undefined
+    - januar: undefined
+    - januarju: undefined
+    - je: undefined
+    - julij: undefined
+    - junij: undefined
+    - lep: undefined
+    - leto: undefined
+    - maj: undefined
+    - marec: undefined
+    - mesec: undefined
+    - moj: undefined
+    - na: undefined
+    - najljubši: undefined
+    - nalogo: undefined
+    - nedelja: undefined
+    - ni: undefined
+    - november: undefined
+    - novo: undefined
+    - oktober: undefined
+    - petek: undefined
+    - petkom: undefined
+    - po: undefined
+    - poletja: undefined
+    - ponedeljek: undefined
+    - ponedeljku: undefined
+    - počitka: undefined
+    - počitnice: undefined
+    - pred: undefined
+    - prvi: undefined
+    - september: undefined
+    - snega: undefined
+    - sobota: undefined
+    - sreda: undefined
+    - sredini: undefined
+    - sredo: undefined
+    - teden: undefined
+    - tedna: undefined
+    - tednu: undefined
+    - torek: undefined
+    - trideset: undefined
+    - v: undefined
+    - veliko: undefined
+    - vikend: undefined
+    - vsak: undefined
+    - za: undefined
+    - zadnji: undefined
+    - zvečer: undefined
+    - čas: undefined
+    - četrtek: undefined
+    - športa: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - am: undefined
+    - an: undefined
+    - april: undefined
+    - are: undefined
+    - assignment: undefined
+    - august: undefined
+    - beautiful: undefined
+    - before: undefined
+    - day: undefined
+    - days: undefined
+    - december: undefined
+    - evening: undefined
+    - every: undefined
+    - family: undefined
+    - favorite: undefined
+    - february: undefined
+    - first: undefined
+    - for: undefined
+    - friday: undefined
+    - going: undefined
+    - has: undefined
+    - have: undefined
+    - honduras: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - january: undefined
+    - july: undefined
+    - june: undefined
+    - last: undefined
+    - lot: undefined
+    - march: undefined
+    - may: undefined
+    - middle: undefined
+    - monday: undefined
+    - month: undefined
+    - movies: undefined
+    - my: undefined
+    - new: undefined
+    - not: undefined
+    - november: undefined
+    - october: undefined
+    - of: undefined
+    - on: undefined
+    - rest: undefined
+    - saturday: undefined
+    - september: undefined
+    - snow: undefined
+    - sports: undefined
+    - summer: undefined
+    - sunday: undefined
+    - the: undefined
+    - there: undefined
+    - thirty: undefined
+    - thursday: undefined
+    - time: undefined
+    - to: undefined
+    - tuesday: undefined
+    - vacation: undefined
+    - we: undefined
+    - wednesday: undefined
+    - week: undefined
+    - weekend: undefined
+    - without: undefined
+    - work: undefined
+    - working: undefined
+    - year's: undefined

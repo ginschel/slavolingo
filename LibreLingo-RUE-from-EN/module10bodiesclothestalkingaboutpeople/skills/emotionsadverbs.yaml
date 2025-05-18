@@ -1,0 +1,234 @@
+Skill:
+  Name: Emotions (adverbs)
+  Id: 37
+
+New words:
+  - Word: радостный
+    Translation: joyful
+  - Word: жалостный
+    Translation: sad
+  - Word: гнївный
+    Translation: angry
+  - Word: любов
+    Translation: love
+  - Word: перестрашеный
+    Translation: frightened
+  - Word: спокой
+    Translation: peace
+  - Word: зависть
+    Translation: envy
+  - Word: соромный
+    Translation: ashamed
+  - Word: сором
+    Translation: shame
+  - Word: гордый
+    Translation: proud
+  - Word: веселый
+    Translation: cheerful
+  - Word: трипеня
+    Translation: tremor
+  - Word: чути (чує)
+    Translation: to feel
+  - Word: скрывати
+    Translation: to hide
+  - Word: утїкати
+    Translation: to run away
+
+Phrases:
+  - Phrase: Чую ся радостно сьогодні.
+    Translation: We feel joyful this week.
+  - Phrase: Жалостно он говорив.
+    Translation: He spoke sadly.
+  - Phrase: Он гнївно ёму каже роботати.
+    Translation: He angrily tells him to work.
+  - Phrase: Любов то сильна емоція.
+    Translation: Love is a strong emotion.
+  - Phrase: Страх то натурална реакція.
+    Translation: Fear is a natural reaction.
+  - Phrase: Спокой є важный за душу.
+    Translation: Peace is important for the soul.
+  - Phrase: Зависть то чорна емоція.
+    Translation: Envy is a dark emotion.
+  - Phrase: Соромно он чує сором.
+    Translation: He feels ashamed.
+  - Phrase: Весело ёму ся наповнило сердце.
+    Translation: His heart was filled with joy.
+  - Phrase: Завидно он позерає на него.
+    Translation: He is jealous of him.
+  - Phrase: Я маю жалость в сердци.
+    Translation: I have sadness in my heart.
+  - Phrase: Она показує їм свою роботу весело.
+    Translation: She shows them her work joyfully.
+  - Phrase: Он скрыває гордо свой гнїв.
+    Translation: He hides his anger proudly.
+  - Phrase: Мы чуєме спокой.
+    Translation: We feel peaceful.
+  - Phrase: Страх є в нас.
+    Translation: Fear is inside us.
+  - Phrase: Перестрашено он утїкав.
+    Translation: He was frightened and ran away.
+  - Phrase: Сором є много сильный.
+    Translation: Shame is very strong.
+  - Phrase: Радостно ішов до дому.
+    Translation: He joyfully went home.
+  - Phrase: Радость іде изнутри.
+    Translation: Joy comes from within.
+  - Phrase: Терпіти лиш хочеме кед любиме.
+    Translation: We only suffer when we love.
+
+Mini-dictionary:
+  Rusin:
+    - в: undefined
+    - важный: undefined
+    - весело: undefined
+    - веселый: undefined
+    - гнїв: undefined
+    - гнївно: undefined
+    - гнївный: undefined
+    - говорив: undefined
+    - гордо: undefined
+    - гордый: undefined
+    - до: undefined
+    - дому: undefined
+    - душу: undefined
+    - емоція: undefined
+    - жалостно: undefined
+    - жалостный: undefined
+    - жалость: undefined
+    - за: undefined
+    - завидно: undefined
+    - зависть: undefined
+    - изнутри: undefined
+    - каже: undefined
+    - кед: undefined
+    - лиш: undefined
+    - любиме: undefined
+    - любов: undefined
+    - маю: undefined
+    - много: undefined
+    - мы: undefined
+    - на: undefined
+    - наповнило: undefined
+    - нас: undefined
+    - натурална: undefined
+    - него: undefined
+    - он: undefined
+    - она: undefined
+    - перестрашено: undefined
+    - перестрашеный: undefined
+    - позерає: undefined
+    - показує: undefined
+    - радостно: undefined
+    - радостный: undefined
+    - радость: undefined
+    - реакція: undefined
+    - роботати: undefined
+    - роботу: undefined
+    - свой: undefined
+    - свою: undefined
+    - сердце: undefined
+    - сердци: undefined
+    - сильна: undefined
+    - сильный: undefined
+    - скрывати: undefined
+    - скрыває: undefined
+    - сором: undefined
+    - соромно: undefined
+    - соромный: undefined
+    - спокой: undefined
+    - страх: undefined
+    - сьогодні: undefined
+    - ся: undefined
+    - терпіти: undefined
+    - то: undefined
+    - трипеня: undefined
+    - утїкав: undefined
+    - утїкати: undefined
+    - хочеме: undefined
+    - чорна: undefined
+    - чути: undefined
+    - чую: undefined
+    - чує: undefined
+    - чуєме: undefined
+    - я: undefined
+    - ёму: undefined
+    - є: undefined
+    - іде: undefined
+    - ішов: undefined
+    - їм: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - anger: undefined
+    - angrily: undefined
+    - angry: undefined
+    - ashamed: undefined
+    - away: undefined
+    - cheerful: undefined
+    - comes: undefined
+    - dark: undefined
+    - emotion: undefined
+    - envy: undefined
+    - fear: undefined
+    - feel: undefined
+    - feels: undefined
+    - filled: undefined
+    - for: undefined
+    - frightened: undefined
+    - from: undefined
+    - have: undefined
+    - he: undefined
+    - heart: undefined
+    - her: undefined
+    - hide: undefined
+    - hides: undefined
+    - him: undefined
+    - his: undefined
+    - home: undefined
+    - i: undefined
+    - important: undefined
+    - in: undefined
+    - inside: undefined
+    - is: undefined
+    - jealous: undefined
+    - joy: undefined
+    - joyful: undefined
+    - joyfully: undefined
+    - love: undefined
+    - my: undefined
+    - natural: undefined
+    - of: undefined
+    - only: undefined
+    - peace: undefined
+    - peaceful: undefined
+    - proud: undefined
+    - proudly: undefined
+    - ran: undefined
+    - reaction: undefined
+    - run: undefined
+    - sad: undefined
+    - sadly: undefined
+    - sadness: undefined
+    - shame: undefined
+    - she: undefined
+    - shows: undefined
+    - soul: undefined
+    - spoke: undefined
+    - strong: undefined
+    - suffer: undefined
+    - tells: undefined
+    - the: undefined
+    - them: undefined
+    - this: undefined
+    - to: undefined
+    - tremor: undefined
+    - us: undefined
+    - very: undefined
+    - was: undefined
+    - we: undefined
+    - week: undefined
+    - went: undefined
+    - when: undefined
+    - with: undefined
+    - within: undefined
+    - work: undefined

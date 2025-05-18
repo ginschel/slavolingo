@@ -1,0 +1,199 @@
+Skill:
+  Name: Seasons of the year (future tense)
+  Id: 33
+
+New words:
+  - Word: літо
+    Translation: summer
+  - Word: осінь
+    Translation: autumn
+  - Word: зима
+    Translation: winter
+  - Word: весна
+    Translation: spring
+  - Word: сезон
+    Translation: season
+  - Word: бути
+    Translation: to be
+  - Word: буду
+    Translation: I will be
+  - Word: будеш
+    Translation: you will be
+  - Word: буде
+    Translation: he/she/it will be
+  - Word: будемо
+    Translation: we will be
+  - Word: будете
+    Translation: you will be
+  - Word: будуть
+    Translation: they will be
+
+Phrases:
+  - Phrase: Влітку буде тепло.
+    Translation: In the summer it will be warm.
+  - Phrase: Восени будемо бачити падаюче листя.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: Взимку будете грати зі снігом.
+    Translation: In the winter you will play with snow.
+  - Phrase: Весна принесе квіти.
+    Translation: Spring will bring flowers.
+  - Phrase: Сезон буде змінюватися чотири рази.
+    Translation: The season will change four times.
+  - Phrase: Взимку буде падати сніг.
+    Translation: In the winter it will snow.
+  - Phrase: Навесні ростуть квіти.
+    Translation: In spring, flowers grow.
+  - Phrase: Влітку є багато сонця.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: Восени будеш багато терпіти через дощ.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Повітря взимку буде холодне.
+    Translation: The air in winter will be cold.
+  - Phrase: Літо є сезоном відпочинку біля озера.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Осінь має багато кольорів.
+    Translation: Autumn has many colors.
+  - Phrase: Зима не є добра для спортсменів.
+    Translation: Winter is not good for sports.
+  - Phrase: Весна є нудна.
+    Translation: Spring is boring.
+  - Phrase: Сезони змінюються чотири рази на рік.
+    Translation: The seasons change four times a year.
+  - Phrase: Скоро закінчується літо.
+    Translation: Summer will soon end.
+  - Phrase: Восени тільки падає дощ.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Зима має багато снігу.
+    Translation: Winter has a lot of snow.
+  - Phrase: Вони будуть бачити зелений краєвид.
+    Translation: They will see a green landscape.
+  - Phrase: Сонце буде світити сильно влітку.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Ukrainian:
+    - багато: undefined
+    - бачити: undefined
+    - буде: undefined
+    - будемо: undefined
+    - будете: undefined
+    - будеш: undefined
+    - буду: undefined
+    - будуть: undefined
+    - бути: undefined
+    - біля: undefined
+    - весна: undefined
+    - взимку: undefined
+    - влітку: undefined
+    - вони: undefined
+    - восени: undefined
+    - відпочинку: undefined
+    - грати: undefined
+    - для: undefined
+    - добра: undefined
+    - дощ: undefined
+    - закінчується: undefined
+    - зелений: undefined
+    - зима: undefined
+    - змінюватися: undefined
+    - змінюються: undefined
+    - зі: undefined
+    - квіти: undefined
+    - кольорів: undefined
+    - краєвид: undefined
+    - листя: undefined
+    - літо: undefined
+    - має: undefined
+    - на: undefined
+    - навесні: undefined
+    - не: undefined
+    - нудна: undefined
+    - озера: undefined
+    - осінь: undefined
+    - падати: undefined
+    - падаюче: undefined
+    - падає: undefined
+    - повітря: undefined
+    - принесе: undefined
+    - рази: undefined
+    - ростуть: undefined
+    - рік: undefined
+    - світити: undefined
+    - сезон: undefined
+    - сезони: undefined
+    - сезоном: undefined
+    - сильно: undefined
+    - скоро: undefined
+    - сніг: undefined
+    - снігом: undefined
+    - снігу: undefined
+    - сонце: undefined
+    - сонця: undefined
+    - спортсменів: undefined
+    - тепло: undefined
+    - терпіти: undefined
+    - тільки: undefined
+    - холодне: undefined
+    - через: undefined
+    - чотири: undefined
+    - є: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - autumn: undefined
+    - be: undefined
+    - because: undefined
+    - boring: undefined
+    - bring: undefined
+    - by: undefined
+    - change: undefined
+    - cold: undefined
+    - colors: undefined
+    - end: undefined
+    - falling: undefined
+    - flowers: undefined
+    - for: undefined
+    - four: undefined
+    - good: undefined
+    - green: undefined
+    - grow: undefined
+    - has: undefined
+    - he/she/it: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lake: undefined
+    - landscape: undefined
+    - leaves: undefined
+    - lot: undefined
+    - many: undefined
+    - not: undefined
+    - of: undefined
+    - play: undefined
+    - rain: undefined
+    - rest: undefined
+    - season: undefined
+    - seasons: undefined
+    - see: undefined
+    - shine: undefined
+    - snow: undefined
+    - soon: undefined
+    - sports: undefined
+    - spring: undefined
+    - strongly: undefined
+    - suffer: undefined
+    - summer: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - they: undefined
+    - times: undefined
+    - to: undefined
+    - warm: undefined
+    - we: undefined
+    - will: undefined
+    - winter: undefined
+    - with: undefined
+    - year: undefined
+    - you: undefined

@@ -1,0 +1,164 @@
+Skill:
+  Name: Numbers 0-10
+  Id: 26
+
+New words:
+  - Word: нꙋла
+    Translation: zero
+  - Word: ѥдинъ
+    Translation: one
+  - Word: ѥдина
+    Translation: one
+  - Word: ѥдино
+    Translation: one
+  - Word: дъва
+    Translation: two
+  - Word: дъвѣ
+    Translation: two
+  - Word: три
+    Translation: three
+  - Word: чєтꙑри
+    Translation: four
+  - Word: пѧть
+    Translation: five
+  - Word: шєсть
+    Translation: six
+  - Word: сєдмь
+    Translation: seven
+  - Word: осмь
+    Translation: eight
+  - Word: дєвѧть
+    Translation: nine
+  - Word: дєсѧть
+    Translation: ten
+  - Word: часъвъникъ
+    Translation: clock/watch
+  - Word: хлапьць
+    Translation: boy
+  - Word: компютєр
+    Translation: computer
+  - Word: вєлосипєдъ
+    Translation: bicycle
+  - Word: рꙋблꙗ
+    Translation: ruble
+  - Word: жена
+    Translation: woman
+  - Word: полиѥ
+    Translation: field
+  - Word: котъ
+    Translation: cat
+  - Word: доларъ
+    Translation: dollar
+
+Phrases:
+  - Phrase: нꙋла часъвъниковъ
+    Translation: zero clocks
+  - Phrase: ѥдинъ хлапьць
+    Translation: one boy
+  - Phrase: ѥдина жена
+    Translation: one woman
+  - Phrase: ѥдино полиѥ
+    Translation: one field
+  - Phrase: дъва хлапъци
+    Translation: two boys
+  - Phrase: дъвѣ женꙑ
+    Translation: two women
+  - Phrase: три коти
+    Translation: three cats
+  - Phrase: чєтꙑри вєлосипєдꙑ
+    Translation: four bicycles
+  - Phrase: пѧть хлапьцєвъ
+    Translation: five boys
+  - Phrase: шєсть вєлосипєдовъ
+    Translation: six bicycles
+  - Phrase: сєдмь рꙋблѥвъ
+    Translation: seven rubles
+  - Phrase: осмь доларовъ
+    Translation: eight dollars
+  - Phrase: дєвѧть компютєровъ
+    Translation: nine computers
+  - Phrase: дєсѧть часъвъниковъ
+    Translation: ten clocks
+  - Phrase: дъвѣ вѣщи
+    Translation: two things
+  - Phrase: ѥдино слъньцє
+    Translation: one sun
+  - Phrase: ѥдинъ вєлосипєдъ
+    Translation: one bicycle
+  - Phrase: чєтꙑри доларꙑ
+    Translation: four dollars
+  - Phrase: три коти
+    Translation: three cats
+  - Phrase: пѧть котовъ
+    Translation: five cats
+
+Mini-dictionary:
+  Church Slavonic:
+    - вєлосипєдовъ: undefined
+    - вєлосипєдъ: undefined
+    - вєлосипєдꙑ: undefined
+    - вѣщи: undefined
+    - доларовъ: undefined
+    - доларъ: undefined
+    - доларꙑ: undefined
+    - дъва: undefined
+    - дъвѣ: undefined
+    - дєвѧть: undefined
+    - дєсѧть: undefined
+    - жена: undefined
+    - женꙑ: undefined
+    - компютєр: undefined
+    - компютєровъ: undefined
+    - коти: undefined
+    - котовъ: undefined
+    - котъ: undefined
+    - нꙋла: undefined
+    - осмь: undefined
+    - полиѥ: undefined
+    - пѧть: undefined
+    - рꙋблѥвъ: undefined
+    - рꙋблꙗ: undefined
+    - слъньцє: undefined
+    - сєдмь: undefined
+    - три: undefined
+    - хлапъци: undefined
+    - хлапьць: undefined
+    - хлапьцєвъ: undefined
+    - часъвъниковъ: undefined
+    - часъвъникъ: undefined
+    - чєтꙑри: undefined
+    - шєсть: undefined
+    - ѥдина: undefined
+    - ѥдино: undefined
+    - ѥдинъ: undefined
+  English:
+    - bicycle: undefined
+    - bicycles: undefined
+    - boy: undefined
+    - boys: undefined
+    - cat: undefined
+    - cats: undefined
+    - clock/watch: undefined
+    - clocks: undefined
+    - computer: undefined
+    - computers: undefined
+    - dollar: undefined
+    - dollars: undefined
+    - eight: undefined
+    - field: undefined
+    - five: undefined
+    - four: undefined
+    - nine: undefined
+    - one: undefined
+    - ruble: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - sun: undefined
+    - ten: undefined
+    - things: undefined
+    - three: undefined
+    - two: undefined
+    - woman: undefined
+    - women: undefined
+    - zero: undefined

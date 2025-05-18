@@ -1,0 +1,188 @@
+Skill:
+  Name: Transport/Vehicles/Car
+  Id: 23
+
+New words:
+  - Word: auto
+    Translation: car
+  - Word: autobus
+    Translation: bus
+  - Word: cug
+    Translation: train
+  - Word: koło
+    Translation: bicycle
+  - Word: banhof
+    Translation: station
+  - Word: szofer
+    Translation: driver
+  - Word: cesta
+    Translation: road
+  - Word: most
+    Translation: bridge
+  - Word: gibkość
+    Translation: speed
+  - Word: światła
+    Translation: traffic light
+  - Word: jechać (jedzie)
+    Translation: to go/drive
+  - Word: siōńść (siōńdzie)
+    Translation: to sit
+  - Word: zwiōńzać (zwiōńże)
+    Translation: to connect/tie
+  - Word: rozbity
+    Translation: broken
+  - Word: ôpaczny
+    Translation: careful
+
+Phrases:
+  - Phrase: Auto stoji na banhofie.
+    Translation: The car is standing on the street.
+  - Phrase: Autobus jedzie do cyntrum.
+    Translation: The bus goes to the center.
+  - Phrase: Cug jedzie na banhof.
+    Translation: The train goes to the station.
+  - Phrase: Sam je siedzenie. Możno siōńść
+    Translation: Here is a seat. One can sit.
+  - Phrase: Banhof je wielgi.
+    Translation: The station is big.
+  - Phrase: Szofer jedzie wartko.
+    Translation: The driver drives fast.
+  - Phrase: Cesta idzie bez las.
+    Translation: The road goes through the forest.
+  - Phrase: Most zwiōńże dwa miasta.
+    Translation: The bridge connects two cities.
+  - Phrase: Gibkość je ważno dlo bezpiyczyństwa na banhofie.
+    Translation: A speed limit is important for the security on the street.
+  - Phrase: Światła pokazujōm czyrwōne.
+    Translation: The traffic light shows red.
+  - Phrase: Auto je nowe a piykne.
+    Translation: The car is new and beautiful.
+  - Phrase: Autobus wiedzie moc ludzi.
+    Translation: The bus carries many people.
+  - Phrase: Cug jedzie na pōłnoc.
+    Translation: The train goes to the north.
+  - Phrase: Koło je rozbite.
+    Translation: The bicycle is broken.
+  - Phrase: Banhof je ôdewrzōny.
+    Translation: The station is open.
+  - Phrase: Szofer je ôpaczny.
+    Translation: The driver is careful.
+  - Phrase: Cesta je szyroko.
+    Translation: The road is wide.
+  - Phrase: Most je wysoki.
+    Translation: The bridge is high.
+  - Phrase: Gibkość je ôgraniczōno.
+    Translation: The speed is limited.
+  - Phrase: Światła pokazujōm zielōne.
+    Translation: The traffic light shows green.
+
+Mini-dictionary:
+  Silesian:
+    - a: undefined
+    - auto: undefined
+    - autobus: undefined
+    - banhof: undefined
+    - banhofie: undefined
+    - bez: undefined
+    - bezpiyczyństwa: undefined
+    - cesta: undefined
+    - cug: undefined
+    - cyntrum: undefined
+    - czyrwōne: undefined
+    - dlo: undefined
+    - do: undefined
+    - dwa: undefined
+    - gibkość: undefined
+    - idzie: undefined
+    - je: undefined
+    - jechać: undefined
+    - jedzie: undefined
+    - koło: undefined
+    - las: undefined
+    - ludzi: undefined
+    - miasta: undefined
+    - moc: undefined
+    - most: undefined
+    - możno: undefined
+    - na: undefined
+    - nowe: undefined
+    - piykne: undefined
+    - pokazujōm: undefined
+    - pōłnoc: undefined
+    - rozbite: undefined
+    - rozbity: undefined
+    - sam: undefined
+    - siedzenie: undefined
+    - siōńdzie: undefined
+    - siōńść: undefined
+    - stoji: undefined
+    - szofer: undefined
+    - szyroko: undefined
+    - wartko: undefined
+    - ważno: undefined
+    - wiedzie: undefined
+    - wielgi: undefined
+    - wysoki: undefined
+    - zielōne: undefined
+    - zwiōńzać: undefined
+    - zwiōńże: undefined
+    - ôdewrzōny: undefined
+    - ôgraniczōno: undefined
+    - ôpaczny: undefined
+    - światła: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - beautiful: undefined
+    - bicycle: undefined
+    - big: undefined
+    - bridge: undefined
+    - broken: undefined
+    - bus: undefined
+    - can: undefined
+    - car: undefined
+    - careful: undefined
+    - carries: undefined
+    - center: undefined
+    - cities: undefined
+    - connect/tie: undefined
+    - connects: undefined
+    - driver: undefined
+    - drives: undefined
+    - fast: undefined
+    - for: undefined
+    - forest: undefined
+    - go/drive: undefined
+    - goes: undefined
+    - green: undefined
+    - here: undefined
+    - high: undefined
+    - important: undefined
+    - is: undefined
+    - light: undefined
+    - limit: undefined
+    - limited: undefined
+    - many: undefined
+    - new: undefined
+    - north: undefined
+    - on: undefined
+    - one: undefined
+    - open: undefined
+    - people: undefined
+    - red: undefined
+    - road: undefined
+    - seat: undefined
+    - security: undefined
+    - shows: undefined
+    - sit: undefined
+    - speed: undefined
+    - standing: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - through: undefined
+    - to: undefined
+    - traffic: undefined
+    - train: undefined
+    - two: undefined
+    - wide: undefined

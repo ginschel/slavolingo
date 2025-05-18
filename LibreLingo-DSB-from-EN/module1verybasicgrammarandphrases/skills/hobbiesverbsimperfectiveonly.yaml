@@ -1,0 +1,195 @@
+Skill:
+  Name: Hobbies (Verbs – Imperfective only)
+  Id: 4
+
+New words:
+  - Word: cytaś
+    Translation: to read
+  - Word: pisaś (pišo)
+    Translation: to write
+  - Word: graś
+    Translation: to play
+  - Word: glědaś
+    Translation: to watch
+  - Word: słuchaś
+    Translation: to listen
+  - Word: mólowaś
+    Translation: to paint
+  - Word: spiwaś
+    Translation: to sing
+  - Word: wuknuś se
+    Translation: to learn
+  - Word: sedźeś (sedźi)
+    Translation: to sit
+  - Word: šyś (šyjo)
+    Translation: to sew
+  - Word: tancyrowaś
+    Translation: to dance
+
+Phrases:
+  - Phrase: Ja cytam knigłu.
+    Translation: I am reading a book.
+  - Phrase: Wóna pišo listy.
+    Translation: She is writing letters.
+  - Phrase: Wón gra we football.
+    Translation: He is playing football.
+  - Phrase: My glědomy film.
+    Translation: We are watching a film.
+  - Phrase: Wóni słuchaju muziku.
+    Translation: They are listening to music.
+  - Phrase: Wóna sedźi a cyta.
+    Translation: She is sitting and reading.
+  - Phrase: Ja mólojom wobraz.
+    Translation: I am painting a picture.
+  - Phrase: Wón spiwa spiwnki.
+    Translation: He is singing songs.
+  - Phrase: Wy wuknuśo se rěcy.
+    Translation: You are learning a language.
+  - Phrase: Ja šyjom woblac.
+    Translation: I am sewing clothes.
+  - Phrase: Ty glědaš seriju?
+    Translation: Are you watching a series?
+  - Phrase: My gramy w šach.
+    Translation: We are playing chess.
+  - Phrase: Wóni słuchaju radio.
+    Translation: They are listening to the radio.
+  - Phrase: Cytaš ty romany?
+    Translation: Do you read novels?
+  - Phrase: Wón pišo źiśownick.
+    Translation: He is writing a diary.
+  - Phrase: Wuknomy se how.
+    Translation: We are learning here.
+  - Phrase: Mólojomy z pśijaśelami wobraze.
+    Translation: We are painting pictures with friends.
+  - Phrase: Ty šyješ?
+    Translation: Are you sewing?
+  - Phrase: Ja spiwyjom z grupu.
+    Translation: I am singing with a group.
+  - Phrase: Ja tancyrujom wjele
+    Translation: I dance a lot
+  - Phrase: Wóna gra na gitaru.
+    Translation: She is playing the guitar.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: undefined
+    - cyta: undefined
+    - cytam: undefined
+    - cytaś: undefined
+    - cytaš: undefined
+    - film: undefined
+    - football: undefined
+    - gitaru: undefined
+    - glědaś: undefined
+    - glědaš: undefined
+    - glědomy: undefined
+    - gra: undefined
+    - gramy: undefined
+    - graś: undefined
+    - grupu: undefined
+    - how: undefined
+    - ja: undefined
+    - knigłu: undefined
+    - listy: undefined
+    - muziku: undefined
+    - my: undefined
+    - mólojom: undefined
+    - mólojomy: undefined
+    - mólowaś: undefined
+    - na: undefined
+    - pisaś: undefined
+    - pišo: undefined
+    - pśijaśelami: undefined
+    - radio: undefined
+    - romany: undefined
+    - rěcy: undefined
+    - se: undefined
+    - sedźeś: undefined
+    - sedźi: undefined
+    - seriju: undefined
+    - spiwa: undefined
+    - spiwaś: undefined
+    - spiwnki: undefined
+    - spiwyjom: undefined
+    - słuchaju: undefined
+    - słuchaś: undefined
+    - tancyrowaś: undefined
+    - tancyrujom: undefined
+    - ty: undefined
+    - w: undefined
+    - we: undefined
+    - wjele: undefined
+    - woblac: undefined
+    - wobraz: undefined
+    - wobraze: undefined
+    - wuknomy: undefined
+    - wuknuś: undefined
+    - wuknuśo: undefined
+    - wy: undefined
+    - wón: undefined
+    - wóna: undefined
+    - wóni: undefined
+    - z: undefined
+    - šach: undefined
+    - šyješ: undefined
+    - šyjo: undefined
+    - šyjom: undefined
+    - šyś: undefined
+    - źiśownick: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - book: undefined
+    - chess: undefined
+    - clothes: undefined
+    - dance: undefined
+    - diary: undefined
+    - do: undefined
+    - film: undefined
+    - football: undefined
+    - friends: undefined
+    - group: undefined
+    - guitar: undefined
+    - he: undefined
+    - here: undefined
+    - i: undefined
+    - is: undefined
+    - language: undefined
+    - learn: undefined
+    - learning: undefined
+    - letters: undefined
+    - listen: undefined
+    - listening: undefined
+    - lot: undefined
+    - music: undefined
+    - novels: undefined
+    - paint: undefined
+    - painting: undefined
+    - picture: undefined
+    - pictures: undefined
+    - play: undefined
+    - playing: undefined
+    - radio: undefined
+    - read: undefined
+    - reading: undefined
+    - series: undefined
+    - sew: undefined
+    - sewing: undefined
+    - she: undefined
+    - sing: undefined
+    - singing: undefined
+    - sit: undefined
+    - sitting: undefined
+    - songs: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - watch: undefined
+    - watching: undefined
+    - we: undefined
+    - with: undefined
+    - write: undefined
+    - writing: undefined
+    - you: undefined

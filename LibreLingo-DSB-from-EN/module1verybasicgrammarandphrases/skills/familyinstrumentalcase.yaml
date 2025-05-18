@@ -1,0 +1,201 @@
+Skill:
+  Name: Family (Instrumental case)
+  Id: 3
+
+New words:
+  - Word: bratš
+    Translation: brother
+  - Word: źěd
+    Translation: grandfather
+  - Word: babka
+    Translation: grandmother
+  - Word: śěśka
+    Translation: aunt
+  - Word: wnuk
+    Translation: grandson
+  - Word: wnucka
+    Translation: granddaughter
+  - Word: maś
+    Translation: mother
+  - Word: wótšc
+    Translation: father
+  - Word: familija
+    Translation: family
+  - Word: syn
+    Translation: son
+  - Word: źowka
+    Translation: daughter
+  - Word: wuj (wótcowy bratš)
+    Translation: uncle
+  - Word: powěda
+    Translation: speaks
+  - Word: źe
+    Translation: goes
+  - Word: źomy
+    Translation: we go
+  - Word: źiwe
+    Translation: lives
+
+Phrases:
+  - Phrase: Wón jo z mójim bratšom.
+    Translation: He is my brother.
+  - Phrase: Wón jo z twójim wótšcom
+    Translation: He is your father
+  - Phrase: Wóna źe z maśoju.
+    Translation: She is going with her mother.
+  - Phrase: Wón powěda z źědom.
+    Translation: He is talking with his grandfather.
+  - Phrase: My gramy z našymi źiśimi.
+    Translation: We are playing with our children.
+  - Phrase: Wóni jězu z śěśkoju.
+    Translation: They are going with their aunt.
+  - Phrase: Powědam z twójeju sotšu.
+    Translation: I am talking with your sister.
+  - Phrase: Źom do parka z familiju.
+    Translation: We are going to the park with the family.
+  - Phrase: Wón jo z wnukom.
+    Translation: He is with his grandson.
+  - Phrase: Wóna gra z wnucku.
+    Translation: She is playing with her granddaughter.
+  - Phrase: Piś piwo z maśoju jo lěpše.
+    Translation: Drinking tea with mother is better.
+  - Phrase: Z kim ty źeš?
+    Translation: Who are you going with?
+  - Phrase: Wóna powěda z mójeju babku.
+    Translation: She is talking with my grandmother.
+  - Phrase: To jo z domom z familiju.
+    Translation: This is a house with a family.
+  - Phrase: Wón źiwe z synom.
+    Translation: He lives with his son.
+  - Phrase: Źomy na spacer z bratšami.
+    Translation: We are going for a walk with brothers.
+  - Phrase: Źomy z źowku.
+    Translation: We are going with our daughter.
+  - Phrase: Wóni su tu z źědom.
+    Translation: They are here with their grandfather.
+  - Phrase: Wón źiwe z śěśkoju a z wujom.
+    Translation: He lives with his aunt and uncle.
+  - Phrase: Wóna powěda z wnukom cesto.
+    Translation: She talks with her grandson often.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: undefined
+    - babka: undefined
+    - babku: undefined
+    - bratš: undefined
+    - bratšami: undefined
+    - bratšom: undefined
+    - cesto: undefined
+    - do: undefined
+    - domom: undefined
+    - familija: undefined
+    - familiju: undefined
+    - gra: undefined
+    - gramy: undefined
+    - jo: undefined
+    - jězu: undefined
+    - kim: undefined
+    - lěpše: undefined
+    - maś: undefined
+    - maśoju: undefined
+    - my: undefined
+    - mójeju: undefined
+    - mójim: undefined
+    - na: undefined
+    - našymi: undefined
+    - parka: undefined
+    - piwo: undefined
+    - piś: undefined
+    - powěda: undefined
+    - powědam: undefined
+    - sotšu: undefined
+    - spacer: undefined
+    - su: undefined
+    - syn: undefined
+    - synom: undefined
+    - to: undefined
+    - tu: undefined
+    - twójeju: undefined
+    - twójim: undefined
+    - ty: undefined
+    - wnucka: undefined
+    - wnucku: undefined
+    - wnuk: undefined
+    - wnukom: undefined
+    - wuj: undefined
+    - wujom: undefined
+    - wón: undefined
+    - wóna: undefined
+    - wóni: undefined
+    - wótcowy: undefined
+    - wótšc: undefined
+    - wótšcom: undefined
+    - z: undefined
+    - śěśka: undefined
+    - śěśkoju: undefined
+    - źe: undefined
+    - źeš: undefined
+    - źiwe: undefined
+    - źiśimi: undefined
+    - źom: undefined
+    - źomy: undefined
+    - źowka: undefined
+    - źowku: undefined
+    - źěd: undefined
+    - źědom: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - aunt: undefined
+    - better: undefined
+    - brother: undefined
+    - brothers: undefined
+    - children: undefined
+    - daughter: undefined
+    - drinking: undefined
+    - family: undefined
+    - father: undefined
+    - for: undefined
+    - go: undefined
+    - goes: undefined
+    - going: undefined
+    - granddaughter: undefined
+    - grandfather: undefined
+    - grandmother: undefined
+    - grandson: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - his: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - lives: undefined
+    - mother: undefined
+    - my: undefined
+    - often: undefined
+    - our: undefined
+    - park: undefined
+    - playing: undefined
+    - she: undefined
+    - sister: undefined
+    - son: undefined
+    - speaks: undefined
+    - talking: undefined
+    - talks: undefined
+    - tea: undefined
+    - the: undefined
+    - their: undefined
+    - they: undefined
+    - this: undefined
+    - to: undefined
+    - uncle: undefined
+    - walk: undefined
+    - we: undefined
+    - who: undefined
+    - with: undefined
+    - you: undefined
+    - your: undefined

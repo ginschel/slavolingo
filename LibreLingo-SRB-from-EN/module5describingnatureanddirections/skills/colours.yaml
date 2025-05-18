@@ -1,0 +1,185 @@
+Skill:
+  Name: Colours
+  Id: 17
+
+New words:
+  - Word: црни
+    Translation: black
+  - Word: бели
+    Translation: white
+  - Word: зелени
+    Translation: green
+  - Word: модри
+    Translation: blue
+  - Word: црвени
+    Translation: red
+  - Word: жолти
+    Translation: yellow
+  - Word: сиви
+    Translation: grey
+  - Word: каштанови
+    Translation: brown
+  - Word: оранжеви
+    Translation: orange
+  - Word: црвени
+    Translation: red
+
+Phrases:
+  - Phrase: Мој пес јест црни.
+    Translation: My dog is black.
+  - Phrase: Миш јест бела.
+    Translation: The mouse is white.
+  - Phrase: Трава јест зелена.
+    Translation: The grass is green.
+  - Phrase: Небо јест модро.
+    Translation: The sky is blue.
+  - Phrase: Цвети сут црвене.
+    Translation: The flowers are red.
+  - Phrase: Солнце јест жолто.
+    Translation: The sun is yellow.
+  - Phrase: Облаки сут сиви.
+    Translation: The clouds are grey.
+  - Phrase: Он носи каштаново паљто.
+    Translation: He wears a brown coat.
+  - Phrase: Лист јест оранжеви.
+    Translation: The leaf is orange.
+  - Phrase: То јест црвено море.
+    Translation: This is the Red Sea.
+  - Phrase: Моје очи сут модре.
+    Translation: My eyes are blue.
+  - Phrase: Она има зелену траву.
+    Translation: She has green grass.
+  - Phrase: Ја љубим црвени колор.
+    Translation: I like the red color.
+  - Phrase: Његов ауто јест црно.
+    Translation: His car is black.
+  - Phrase: Дева несе белу сукњу.
+    Translation: The girl is wearing a white dress.
+  - Phrase: Јест ли то сиви влас?
+    Translation: Is that grey hair?
+  - Phrase: Он има оранжеву торбу.
+    Translation: He has an orange bag.
+  - Phrase: Каштанови коњ стоји в стаји.
+    Translation: The brown horse stands in the stable.
+  - Phrase: Жолто солнце греје земју.
+    Translation: The yellow sun warms the earth.
+  - Phrase: Црвена роза расте ту.
+    Translation: A red rose grows here.
+
+Mini-dictionary:
+  Serbian:
+    - ауто: undefined
+    - бела: undefined
+    - бели: undefined
+    - белу: undefined
+    - в: undefined
+    - влас: undefined
+    - греје: undefined
+    - дева: undefined
+    - жолти: undefined
+    - жолто: undefined
+    - зелена: undefined
+    - зелени: undefined
+    - зелену: undefined
+    - земју: undefined
+    - има: undefined
+    - каштанови: undefined
+    - каштаново: undefined
+    - колор: undefined
+    - коњ: undefined
+    - ли: undefined
+    - лист: undefined
+    - миш: undefined
+    - модре: undefined
+    - модри: undefined
+    - модро: undefined
+    - море: undefined
+    - мој: undefined
+    - моје: undefined
+    - небо: undefined
+    - несе: undefined
+    - носи: undefined
+    - облаки: undefined
+    - он: undefined
+    - она: undefined
+    - оранжеви: undefined
+    - оранжеву: undefined
+    - очи: undefined
+    - паљто: undefined
+    - пес: undefined
+    - расте: undefined
+    - роза: undefined
+    - сиви: undefined
+    - солнце: undefined
+    - стаји: undefined
+    - стоји: undefined
+    - сукњу: undefined
+    - сут: undefined
+    - то: undefined
+    - торбу: undefined
+    - трава: undefined
+    - траву: undefined
+    - ту: undefined
+    - цвети: undefined
+    - црвена: undefined
+    - црвене: undefined
+    - црвени: undefined
+    - црвено: undefined
+    - црни: undefined
+    - црно: undefined
+    - ја: undefined
+    - јест: undefined
+    - љубим: undefined
+    - његов: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - are: undefined
+    - bag: undefined
+    - black: undefined
+    - blue: undefined
+    - brown: undefined
+    - car: undefined
+    - clouds: undefined
+    - coat: undefined
+    - color: undefined
+    - dog: undefined
+    - dress: undefined
+    - earth: undefined
+    - eyes: undefined
+    - flowers: undefined
+    - girl: undefined
+    - grass: undefined
+    - green: undefined
+    - grey: undefined
+    - grows: undefined
+    - hair: undefined
+    - has: undefined
+    - he: undefined
+    - here: undefined
+    - his: undefined
+    - horse: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - leaf: undefined
+    - like: undefined
+    - mouse: undefined
+    - my: undefined
+    - orange: undefined
+    - red: undefined
+    - rose: undefined
+    - sea: undefined
+    - she: undefined
+    - sky: undefined
+    - stable: undefined
+    - stands: undefined
+    - sun: undefined
+    - that: undefined
+    - the: undefined
+    - this: undefined
+    - warms: undefined
+    - wearing: undefined
+    - wears: undefined
+    - white: undefined
+    - yellow: undefined

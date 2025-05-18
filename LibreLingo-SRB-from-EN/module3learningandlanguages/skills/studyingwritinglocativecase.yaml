@@ -1,0 +1,189 @@
+Skill:
+  Name: Studying & Writing (Locative case)
+  Id: 9
+
+New words:
+  - Word: школа
+    Translation: school
+  - Word: учитељка
+    Translation: female teacher
+  - Word: учитељ
+    Translation: male teacher
+  - Word: запис
+    Translation: note
+  - Word: ученик
+    Translation: student
+  - Word: книга
+    Translation: book
+  - Word: задање
+    Translation: assignment
+  - Word: стол
+    Translation: table
+  - Word: туш
+    Translation: ink
+  - Word: папир
+    Translation: paper
+  - Word: предмет
+    Translation: subject
+  - Word: метода
+    Translation: method
+  - Word: перо
+    Translation: pen
+  - Word: записник
+    Translation: notebook
+  - Word: на
+    Translation: on
+
+Phrases:
+  - Phrase: То моја школа.
+    Translation: This is my school.
+  - Phrase: Она јест учитељем.
+    Translation: She is a teacher.
+  - Phrase: Он јест учеником.
+    Translation: He is a student.
+  - Phrase: Книга јест на столу.
+    Translation: The book is on the table.
+  - Phrase: Ја имам задање.
+    Translation: I have an assignment.
+  - Phrase: Туш јест јешче мокро.
+    Translation: The ink is still wet.
+  - Phrase: Папир јест бели.
+    Translation: The paper is white.
+  - Phrase: Тај предмет то математика.
+    Translation: This subject is mathematics.
+  - Phrase: Та метода јест добра.
+    Translation: This method is good.
+  - Phrase: Ученик има книгу.
+    Translation: The student has a book.
+  - Phrase: То јест мој стол.
+    Translation: This is my desk.
+  - Phrase: Мој записник јест полни записов ц пером
+    Translation: My notebook is full of notes with a pen
+  - Phrase: Пишу на папире пером.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Школа јест в центру.
+    Translation: The school is in the center.
+  - Phrase: Ми пишемо задање.
+    Translation: We are writing the assignment.
+  - Phrase: Учитељ говори с студентами.
+    Translation: The teacher is talking with students.
+  - Phrase: Она има много задањ.
+    Translation: She has many assignments.
+  - Phrase: Ја брзу пишем ц тим пером.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Предмет јест сложни.
+    Translation: The subject is complex.
+  - Phrase: Книга јест нова.
+    Translation: The book is new.
+  - Phrase: Он јест мојим учитељем.
+    Translation: He is my teacher.
+
+Mini-dictionary:
+  Serbian:
+    - бели: undefined
+    - брзу: undefined
+    - в: undefined
+    - говори: undefined
+    - добра: undefined
+    - задањ: undefined
+    - задање: undefined
+    - запис: undefined
+    - записник: undefined
+    - записов: undefined
+    - има: undefined
+    - имам: undefined
+    - книга: undefined
+    - книгу: undefined
+    - математика: undefined
+    - метода: undefined
+    - ми: undefined
+    - много: undefined
+    - мокро: undefined
+    - мој: undefined
+    - моја: undefined
+    - мојим: undefined
+    - на: undefined
+    - нова: undefined
+    - он: undefined
+    - она: undefined
+    - папир: undefined
+    - папире: undefined
+    - перо: undefined
+    - пером: undefined
+    - пишем: undefined
+    - пишемо: undefined
+    - пишу: undefined
+    - полни: undefined
+    - предмет: undefined
+    - с: undefined
+    - сложни: undefined
+    - стол: undefined
+    - столу: undefined
+    - студентами: undefined
+    - та: undefined
+    - тај: undefined
+    - тим: undefined
+    - то: undefined
+    - туш: undefined
+    - ученик: undefined
+    - учеником: undefined
+    - учитељ: undefined
+    - учитељем: undefined
+    - учитељка: undefined
+    - ц: undefined
+    - центру: undefined
+    - школа: undefined
+    - ја: undefined
+    - јест: undefined
+    - јешче: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - an: undefined
+    - are: undefined
+    - assignment: undefined
+    - assignments: undefined
+    - book: undefined
+    - center: undefined
+    - complex: undefined
+    - desk: undefined
+    - female: undefined
+    - full: undefined
+    - good: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - i: undefined
+    - in: undefined
+    - ink: undefined
+    - is: undefined
+    - male: undefined
+    - many: undefined
+    - mathematics: undefined
+    - method: undefined
+    - my: undefined
+    - new: undefined
+    - note: undefined
+    - notebook: undefined
+    - notes: undefined
+    - of: undefined
+    - on: undefined
+    - paper: undefined
+    - pen: undefined
+    - quickly: undefined
+    - school: undefined
+    - she: undefined
+    - still: undefined
+    - student: undefined
+    - students: undefined
+    - subject: undefined
+    - table: undefined
+    - talking: undefined
+    - teacher: undefined
+    - the: undefined
+    - this: undefined
+    - we: undefined
+    - wet: undefined
+    - white: undefined
+    - with: undefined
+    - writing: undefined

@@ -1,0 +1,195 @@
+Skill:
+  Name: Grammar revision cases
+  Id: 19
+
+New words:
+  - Word: "резати (реже)"
+    Translation: to cut
+  - Word: "дар"
+    Translation: gift
+  - Word: "всесвет"
+    Translation: universe
+  - Word: "зирало"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Кости ту нема.
+    Translation: There is no bone here.
+  - Phrase: Дам жене.
+    Translation: I give to the woman.
+  - Phrase: Она јест в граду.
+    Translation: She is in the city.
+  - Phrase: Говорим с пријатељами.
+    Translation: I talk with friends.
+  - Phrase: Имена он нема.
+    Translation: He has no name.
+  - Phrase: Ти душе не имаш?!
+    Translation: You don't have a soul?!
+  - Phrase: Он види своју жену.
+    Translation: He sees his wife.
+  - Phrase: Брата ту нема.
+    Translation: There is no brother here.
+  - Phrase: То можна резати ножем.
+    Translation: This can be cut with a knife.
+  - Phrase: Она с мужем говори.
+    Translation: She talks with her husband.
+  - Phrase: Она говори о братах.
+    Translation: She talks about brothers.
+  - Phrase: Она даје дар братам.
+    Translation: She gives a gift to the brothers.
+  - Phrase: На пољу много работам.
+    Translation: I work a lot in the field.
+  - Phrase: Јест много солнц в всесвету.
+    Translation: There are many suns in the universe.
+  - Phrase: И тож јест много звезд.
+    Translation: And there are also many stars.
+  - Phrase: Он љуби говорити с својеју женоју.
+    Translation: He likes to talk with his wife.
+  - Phrase: Уже нема бананов в дому.
+    Translation: There are no more bananas in the house.
+  - Phrase: В очима видим душу твоју.
+    Translation: In the eyes I see your soul.
+  - Phrase: Очи сут зиралом душе.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Мужев ту не видим.
+    Translation: I do not see men here.
+  - Phrase: В градама увидиш много људи.
+    Translation: In the cities you will see many people.
+  - Phrase: Спокојној ноћи!
+    Translation: Good night!
+
+Mini-dictionary:
+  Serbian:
+    - бананов: undefined
+    - брата: undefined
+    - братам: undefined
+    - братах: undefined
+    - в: undefined
+    - види: undefined
+    - видим: undefined
+    - всесвет: undefined
+    - всесвету: undefined
+    - говори: undefined
+    - говорим: undefined
+    - говорити: undefined
+    - градама: undefined
+    - граду: undefined
+    - дам: undefined
+    - дар: undefined
+    - даје: undefined
+    - дому: undefined
+    - душе: undefined
+    - душу: undefined
+    - жене: undefined
+    - женоју: undefined
+    - жену: undefined
+    - звезд: undefined
+    - зирало: undefined
+    - зиралом: undefined
+    - и: undefined
+    - имаш: undefined
+    - имена: undefined
+    - кости: undefined
+    - много: undefined
+    - можна: undefined
+    - мужев: undefined
+    - мужем: undefined
+    - на: undefined
+    - не: undefined
+    - нема: undefined
+    - ножем: undefined
+    - ноћи: undefined
+    - о: undefined
+    - он: undefined
+    - она: undefined
+    - очи: undefined
+    - очима: undefined
+    - пољу: undefined
+    - пријатељами: undefined
+    - работам: undefined
+    - реже: undefined
+    - резати: undefined
+    - с: undefined
+    - својеју: undefined
+    - своју: undefined
+    - солнц: undefined
+    - спокојној: undefined
+    - сут: undefined
+    - твоју: undefined
+    - ти: undefined
+    - то: undefined
+    - тож: undefined
+    - ту: undefined
+    - увидиш: undefined
+    - уже: undefined
+    - јест: undefined
+    - љуби: undefined
+    - људи: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - bananas: undefined
+    - be: undefined
+    - bone: undefined
+    - brother: undefined
+    - brothers: undefined
+    - can: undefined
+    - cities: undefined
+    - city: undefined
+    - cut: undefined
+    - do: undefined
+    - don't: undefined
+    - eyes: undefined
+    - field: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - his: undefined
+    - house: undefined
+    - husband: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - knife: undefined
+    - likes: undefined
+    - lot: undefined
+    - many: undefined
+    - men: undefined
+    - mirror: undefined
+    - more: undefined
+    - name: undefined
+    - night: undefined
+    - no: undefined
+    - not: undefined
+    - of: undefined
+    - people: undefined
+    - see: undefined
+    - sees: undefined
+    - she: undefined
+    - soul: undefined
+    - stars: undefined
+    - suns: undefined
+    - talk: undefined
+    - talks: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - universe: undefined
+    - wife: undefined
+    - will: undefined
+    - with: undefined
+    - woman: undefined
+    - work: undefined
+    - you: undefined
+    - your: undefined

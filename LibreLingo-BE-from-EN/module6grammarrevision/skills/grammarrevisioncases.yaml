@@ -1,0 +1,195 @@
+Skill:
+  Name: Grammar revision cases
+  Id: 19
+
+New words:
+  - Word: "рэзаць (рэжа)"
+    Translation: to cut
+  - Word: "дар"
+    Translation: gift
+  - Word: "сусвет"
+    Translation: universe
+  - Word: "люстэрка"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Костак тут няма.
+    Translation: There is no bone here.
+  - Phrase: Дам жанчыне.
+    Translation: I give to the woman.
+  - Phrase: Яна ёсць у горадзе.
+    Translation: She is in the city.
+  - Phrase: Гаворым з сябрамі.
+    Translation: I talk with friends.
+  - Phrase: Імя ён не мае.
+    Translation: He has no name.
+  - Phrase: Ты душы не маеш?!
+    Translation: You don't have a soul?!
+  - Phrase: Ён бачыць сваю жонку.
+    Translation: He sees his wife.
+  - Phrase: Брата тут няма.
+    Translation: There is no brother here.
+  - Phrase: Гэта можна рэзаць нажом.
+    Translation: This can be cut with a knife.
+  - Phrase: Яна з мужам гаворыць.
+    Translation: She talks with her husband.
+  - Phrase: Яна гаворыць пра братоў.
+    Translation: She talks about brothers.
+  - Phrase: Яна дае дар братам.
+    Translation: She gives a gift to the brothers.
+  - Phrase: На полі многа працуем.
+    Translation: I work a lot in the field.
+  - Phrase: Ёсць многа сонцаў у сусвеце.
+    Translation: There are many suns in the universe.
+  - Phrase: І таксама ёсць многа зорак.
+    Translation: And there are also many stars.
+  - Phrase: Ён любіць гаварыць са сваёй жонкай.
+    Translation: He likes to talk with his wife.
+  - Phrase: Ужо няма бананаў у доме.
+    Translation: There are no more bananas in the house.
+  - Phrase: У вачах бачу душу тваю.
+    Translation: In the eyes I see your soul.
+  - Phrase: Вочы ёсць люстэркам душы.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Мужчын тут не бачу.
+    Translation: I do not see men here.
+  - Phrase: У гарадах убачыш многа людзей.
+    Translation: In the cities you will see many people.
+  - Phrase: Дабранач!
+    Translation: Good night!
+
+Mini-dictionary:
+  Belarusian:
+    - бананаў: undefined
+    - бачу: undefined
+    - бачыць: undefined
+    - брата: undefined
+    - братам: undefined
+    - братоў: undefined
+    - вачах: undefined
+    - вочы: undefined
+    - гаварыць: undefined
+    - гаворым: undefined
+    - гаворыць: undefined
+    - гарадах: undefined
+    - горадзе: undefined
+    - гэта: undefined
+    - дабранач: undefined
+    - дае: undefined
+    - дам: undefined
+    - дар: undefined
+    - доме: undefined
+    - душу: undefined
+    - душы: undefined
+    - жанчыне: undefined
+    - жонкай: undefined
+    - жонку: undefined
+    - з: undefined
+    - зорак: undefined
+    - костак: undefined
+    - любіць: undefined
+    - людзей: undefined
+    - люстэрка: undefined
+    - люстэркам: undefined
+    - мае: undefined
+    - маеш: undefined
+    - многа: undefined
+    - можна: undefined
+    - мужам: undefined
+    - мужчын: undefined
+    - на: undefined
+    - нажом: undefined
+    - не: undefined
+    - няма: undefined
+    - полі: undefined
+    - пра: undefined
+    - працуем: undefined
+    - рэжа: undefined
+    - рэзаць: undefined
+    - са: undefined
+    - сваю: undefined
+    - сваёй: undefined
+    - сонцаў: undefined
+    - сусвет: undefined
+    - сусвеце: undefined
+    - сябрамі: undefined
+    - таксама: undefined
+    - тваю: undefined
+    - тут: undefined
+    - ты: undefined
+    - у: undefined
+    - убачыш: undefined
+    - ужо: undefined
+    - яна: undefined
+    - ён: undefined
+    - ёсць: undefined
+    - і: undefined
+    - імя: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - bananas: undefined
+    - be: undefined
+    - bone: undefined
+    - brother: undefined
+    - brothers: undefined
+    - can: undefined
+    - cities: undefined
+    - city: undefined
+    - cut: undefined
+    - do: undefined
+    - don't: undefined
+    - eyes: undefined
+    - field: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - his: undefined
+    - house: undefined
+    - husband: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - knife: undefined
+    - likes: undefined
+    - lot: undefined
+    - many: undefined
+    - men: undefined
+    - mirror: undefined
+    - more: undefined
+    - name: undefined
+    - night: undefined
+    - no: undefined
+    - not: undefined
+    - of: undefined
+    - people: undefined
+    - see: undefined
+    - sees: undefined
+    - she: undefined
+    - soul: undefined
+    - stars: undefined
+    - suns: undefined
+    - talk: undefined
+    - talks: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - universe: undefined
+    - wife: undefined
+    - will: undefined
+    - with: undefined
+    - woman: undefined
+    - work: undefined
+    - you: undefined
+    - your: undefined

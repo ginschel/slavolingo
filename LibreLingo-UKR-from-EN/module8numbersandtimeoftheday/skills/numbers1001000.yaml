@@ -1,0 +1,127 @@
+Skill:
+  Name: Numbers 100-1000
+  Id: 29
+
+New words:
+  - Word: сто
+    Translation: one hundred
+  - Word: двісті
+    Translation: two hundred
+  - Word: триста
+    Translation: three hundred
+  - Word: чотириста
+    Translation: four hundred
+  - Word: пятсот
+    Translation: five hundred
+  - Word: шістсот
+    Translation: six hundred
+  - Word: сімсот
+    Translation: seven hundred
+  - Word: вісімсот
+    Translation: eight hundred
+  - Word: девятсот
+    Translation: nine hundred
+  - Word: тисяча
+    Translation: thousand
+
+Phrases:
+  - Phrase: тисяча один годинник
+    Translation: one thousand one clocks
+  - Phrase: сто хлопців
+    Translation: one hundred boys
+  - Phrase: двісті жінок
+    Translation: two hundred women
+  - Phrase: триста полів
+    Translation: three hundred fields
+  - Phrase: чотириста чоловіків
+    Translation: four hundred men
+  - Phrase: пятсот жінок
+    Translation: five hundred women
+  - Phrase: шістсот котів
+    Translation: six hundred cats
+  - Phrase: сімсот один велосипед
+    Translation: seven hundred one bicycles
+  - Phrase: вісімсот хлопців
+    Translation: eight hundred boys
+  - Phrase: девятсот велосипедів
+    Translation: nine hundred bicycles
+  - Phrase: тисяча вісім рублів
+    Translation: one thousand eight rubles
+  - Phrase: чотириста сім доларів
+    Translation: four hundred seven dollars
+  - Phrase: двісті три комп'ютери
+    Translation: two hundred three computers
+  - Phrase: сімсот один годинник
+    Translation: seven hundred one clocks
+  - Phrase: триста чотири речі
+    Translation: three hundred four things
+  - Phrase: сто два сонця
+    Translation: one hundred two suns
+  - Phrase: шістсот велосипедів
+    Translation: six hundred bicycles
+  - Phrase: вісімсот доларів
+    Translation: eight hundred dollars
+  - Phrase: дві тисячі девятсот собак
+    Translation: two thousand nine hundred dogs
+  - Phrase: чотириста котів
+    Translation: four hundred cats
+
+Mini-dictionary:
+  Ukrainian:
+    - велосипед: undefined
+    - велосипедів: undefined
+    - вісім: undefined
+    - вісімсот: undefined
+    - годинник: undefined
+    - два: undefined
+    - дві: undefined
+    - двісті: undefined
+    - девятсот: undefined
+    - доларів: undefined
+    - жінок: undefined
+    - комп'ютери: undefined
+    - котів: undefined
+    - один: undefined
+    - полів: undefined
+    - пятсот: undefined
+    - речі: undefined
+    - рублів: undefined
+    - собак: undefined
+    - сонця: undefined
+    - сто: undefined
+    - сім: undefined
+    - сімсот: undefined
+    - тисяча: undefined
+    - тисячі: undefined
+    - три: undefined
+    - триста: undefined
+    - хлопців: undefined
+    - чоловіків: undefined
+    - чотири: undefined
+    - чотириста: undefined
+    - шістсот: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - fields: undefined
+    - five: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - nine: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - suns: undefined
+    - things: undefined
+    - thousand: undefined
+    - three: undefined
+    - two: undefined
+    - women: undefined

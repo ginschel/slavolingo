@@ -1,0 +1,182 @@
+Skill:
+  Name: City/Buildings
+  Id: 21
+
+New words:
+  - Word: gard
+    Translation: city
+  - Word: dom
+    Translation: house
+  - Word: tôrg
+    Translation: square/market
+  - Word: stacëjô
+    Translation: station
+  - Word: môst
+    Translation: bridge
+  - Word: skłôd
+    Translation: shop/store
+  - Word: tôrgòwiszcze
+    Translation: market
+  - Word: knéżnica
+    Translation: library
+  - Word: kòscoł
+    Translation: church
+  - Word: ùlica
+    Translation: street
+  - Word: wiesc (wiedze)
+    Translation: to lead
+
+Phrases:
+  - Phrase: To je wiôldżi gard.
+    Translation: This is a big city.
+  - Phrase: Dom stoji na ùlicë.
+    Translation: The house stands on the street.
+  - Phrase: Jidzemë do tôrgu.
+    Translation: We are going to the square.
+  - Phrase: Stacëjô je bliskò centra.
+    Translation: The station is near the center.
+  - Phrase: Môst jidze przez rzékã.
+    Translation: The bridge goes over the river.
+  - Phrase: Kùpùjemë chléb w skłôdze.
+    Translation: We buy bread in the shop.
+  - Phrase: Na tôrgòwiszczu je wiele lëdzy.
+    Translation: There are many people at the market.
+  - Phrase: Czëtóm knégã w knéżnicë.
+    Translation: I read a book in the library.
+  - Phrase: Kòscoł je stôri i biôłi.
+    Translation: The church is old and white.
+  - Phrase: Ùlica je długa i ciepłô.
+    Translation: The street is long and warm.
+  - Phrase: Gard mô wiele domów.
+    Translation: The city has many houses.
+  - Phrase: Skłôd je òdemkłi dzysô.
+    Translation: The shop is open today.
+  - Phrase: Kòscoł stoji bliskò knéżnicë.
+    Translation: The church stands near the library.
+  - Phrase: Ùlica wiedze do tôrgu.
+    Translation: The street leads to the square.
+  - Phrase: Na tôrgu stoji fontana.
+    Translation: A fountain stands in the square.
+  - Phrase: Môst je snôżi i nowi.
+    Translation: The bridge is beautiful and new.
+  - Phrase: To je mój dom w gardze.
+    Translation: This is my house in the city.
+  - Phrase: Stacëjô mô wiele banów.
+    Translation: The station has many trains.
+  - Phrase: Ùlica jidze do skłôdu.
+    Translation: The street goes to the shop.
+  - Phrase: Tôrg je peļni lëdzy.
+    Translation: The square is full of people.
+
+Mini-dictionary:
+  Kashubian:
+    - banów: undefined
+    - biôłi: undefined
+    - bliskò: undefined
+    - centra: undefined
+    - chléb: undefined
+    - ciepłô: undefined
+    - czëtóm: undefined
+    - do: undefined
+    - dom: undefined
+    - domów: undefined
+    - dzysô: undefined
+    - długa: undefined
+    - fontana: undefined
+    - gard: undefined
+    - gardze: undefined
+    - i: undefined
+    - je: undefined
+    - jidze: undefined
+    - jidzemë: undefined
+    - knégã: undefined
+    - knéżnica: undefined
+    - knéżnicë: undefined
+    - kòscoł: undefined
+    - kùpùjemë: undefined
+    - lëdzy: undefined
+    - mój: undefined
+    - mô: undefined
+    - môst: undefined
+    - na: undefined
+    - nowi: undefined
+    - peļni: undefined
+    - przez: undefined
+    - rzékã: undefined
+    - skłôd: undefined
+    - skłôdu: undefined
+    - skłôdze: undefined
+    - snôżi: undefined
+    - stacëjô: undefined
+    - stoji: undefined
+    - stôri: undefined
+    - to: undefined
+    - tôrg: undefined
+    - tôrgu: undefined
+    - tôrgòwiszcze: undefined
+    - tôrgòwiszczu: undefined
+    - w: undefined
+    - wiedze: undefined
+    - wiele: undefined
+    - wiesc: undefined
+    - wiôldżi: undefined
+    - òdemkłi: undefined
+    - ùlica: undefined
+    - ùlicë: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beautiful: undefined
+    - big: undefined
+    - book: undefined
+    - bread: undefined
+    - bridge: undefined
+    - buy: undefined
+    - center: undefined
+    - church: undefined
+    - city: undefined
+    - fountain: undefined
+    - full: undefined
+    - goes: undefined
+    - going: undefined
+    - has: undefined
+    - house: undefined
+    - houses: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - lead: undefined
+    - leads: undefined
+    - library: undefined
+    - long: undefined
+    - many: undefined
+    - market: undefined
+    - my: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - over: undefined
+    - people: undefined
+    - read: undefined
+    - river: undefined
+    - shop: undefined
+    - shop/store: undefined
+    - square: undefined
+    - square/market: undefined
+    - stands: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - today: undefined
+    - trains: undefined
+    - warm: undefined
+    - we: undefined
+    - white: undefined

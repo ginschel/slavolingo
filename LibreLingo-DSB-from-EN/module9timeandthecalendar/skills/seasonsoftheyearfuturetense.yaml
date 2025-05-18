@@ -1,0 +1,197 @@
+Skill:
+  Name: Seasons of the year (future tense)
+  Id: 33
+
+New words:
+  - Word: lěśo
+    Translation: summer
+  - Word: nazymje
+    Translation: autumn
+  - Word: zyma
+    Translation: winter
+  - Word: nalěśe
+    Translation: spring
+  - Word: sezon
+    Translation: season
+  - Word: byś
+    Translation: to be
+  - Word: budu
+    Translation: I will be
+  - Word: buźoš
+    Translation: you will be
+  - Word: buźe
+    Translation: he/she/it will be
+  - Word: buźomy
+    Translation: we will be
+  - Word: buźośo
+    Translation: you will be
+  - Word: budu
+    Translation: they will be
+
+Phrases:
+  - Phrase: We lěśe buźe śopło.
+    Translation: In the summer it will be warm.
+  - Phrase: Na nazymje buźomy wiźeś padajuce łopjena.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: We zymje buźośo graś ze sněgom.
+    Translation: In the winter you will play with snow.
+  - Phrase: Nalěśe pśinjaso kwěśeń.
+    Translation: Spring will bring flowers.
+  - Phrase: Sezon buźe se wuzměniś styrjo raza.
+    Translation: The season will change four times.
+  - Phrase: We zymje buźe padaś sněg.
+    Translation: In the winter it will snow.
+  - Phrase: Nalěśe rosćo kwěśeń.
+    Translation: In spring, flowers grow.
+  - Phrase: We lěśe jo wjele słyńca.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: Na nazymje buźoš wjele śarpiś pśez dešć.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Powětš we zymje buźe zymne.
+    Translation: The air in winter will be cold.
+  - Phrase: Lěśo jo ze sezonem wótpocynka pśi jazorje.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Nazymje ma wjele kólorow.
+    Translation: Autumn has many colors.
+  - Phrase: Zyma nje jo dobra za sport.
+    Translation: Winter is not good for sports.
+  - Phrase: Nalěśe jo nudne.
+    Translation: Spring is boring.
+  - Phrase: Sezony se wuzměnjaju styrjo raza we lěśe.
+    Translation: The seasons change four times a year.
+  - Phrase: Snadnje se kóńcy lěśo.
+    Translation: Summer will soon end.
+  - Phrase: Na nazymje jano pada dešć.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Zyma ma wjele sněga.
+    Translation: Winter has a lot of snow.
+  - Phrase: Wóni budu wiźeś zeleznu krajinu.
+    Translation: They will see a green landscape.
+  - Phrase: Słyńco buźe swěśiś sylnje we lěśe.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - budu: undefined
+    - buźe: undefined
+    - buźomy: undefined
+    - buźośo: undefined
+    - buźoš: undefined
+    - byś: undefined
+    - dešć: undefined
+    - dobra: undefined
+    - graś: undefined
+    - jano: undefined
+    - jazorje: undefined
+    - jo: undefined
+    - krajinu: undefined
+    - kwěśeń: undefined
+    - kólorow: undefined
+    - kóńcy: undefined
+    - lěśe: undefined
+    - lěśo: undefined
+    - ma: undefined
+    - na: undefined
+    - nalěśe: undefined
+    - nazymje: undefined
+    - nje: undefined
+    - nudne: undefined
+    - pada: undefined
+    - padajuce: undefined
+    - padaś: undefined
+    - powětš: undefined
+    - pśez: undefined
+    - pśi: undefined
+    - pśinjaso: undefined
+    - raza: undefined
+    - rosćo: undefined
+    - se: undefined
+    - sezon: undefined
+    - sezonem: undefined
+    - sezony: undefined
+    - snadnje: undefined
+    - sněg: undefined
+    - sněga: undefined
+    - sněgom: undefined
+    - sport: undefined
+    - styrjo: undefined
+    - swěśiś: undefined
+    - sylnje: undefined
+    - słyńca: undefined
+    - słyńco: undefined
+    - we: undefined
+    - wiźeś: undefined
+    - wjele: undefined
+    - wuzměniś: undefined
+    - wuzměnjaju: undefined
+    - wóni: undefined
+    - wótpocynka: undefined
+    - za: undefined
+    - ze: undefined
+    - zeleznu: undefined
+    - zyma: undefined
+    - zymje: undefined
+    - zymne: undefined
+    - łopjena: undefined
+    - śarpiś: undefined
+    - śopło: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - autumn: undefined
+    - be: undefined
+    - because: undefined
+    - boring: undefined
+    - bring: undefined
+    - by: undefined
+    - change: undefined
+    - cold: undefined
+    - colors: undefined
+    - end: undefined
+    - falling: undefined
+    - flowers: undefined
+    - for: undefined
+    - four: undefined
+    - good: undefined
+    - green: undefined
+    - grow: undefined
+    - has: undefined
+    - he/she/it: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lake: undefined
+    - landscape: undefined
+    - leaves: undefined
+    - lot: undefined
+    - many: undefined
+    - not: undefined
+    - of: undefined
+    - play: undefined
+    - rain: undefined
+    - rest: undefined
+    - season: undefined
+    - seasons: undefined
+    - see: undefined
+    - shine: undefined
+    - snow: undefined
+    - soon: undefined
+    - sports: undefined
+    - spring: undefined
+    - strongly: undefined
+    - suffer: undefined
+    - summer: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - they: undefined
+    - times: undefined
+    - to: undefined
+    - warm: undefined
+    - we: undefined
+    - will: undefined
+    - winter: undefined
+    - with: undefined
+    - year: undefined
+    - you: undefined

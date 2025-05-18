@@ -1,0 +1,164 @@
+Skill:
+  Name: Numbers 0-10
+  Id: 26
+
+New words:
+  - Word: nič
+    Translation: zero
+  - Word: ena
+    Translation: one
+  - Word: ena
+    Translation: one
+  - Word: eno
+    Translation: one
+  - Word: dva
+    Translation: two
+  - Word: dve
+    Translation: two
+  - Word: tri
+    Translation: three
+  - Word: štiri
+    Translation: four
+  - Word: pet
+    Translation: five
+  - Word: šest
+    Translation: six
+  - Word: sedem
+    Translation: seven
+  - Word: osem
+    Translation: eight
+  - Word: devet
+    Translation: nine
+  - Word: deset
+    Translation: ten
+  - Word: ura
+    Translation: clock/watch
+  - Word: fant
+    Translation: boy
+  - Word: računalnik
+    Translation: computer
+  - Word: kolo
+    Translation: bicycle
+  - Word: rubelj
+    Translation: ruble
+  - Word: ženska
+    Translation: woman
+  - Word: polje
+    Translation: field
+  - Word: mačka
+    Translation: cat
+  - Word: dolar
+    Translation: dollar
+
+Phrases:
+  - Phrase: nič ur
+    Translation: zero clocks
+  - Phrase: en fant
+    Translation: one boy
+  - Phrase: ena ženska
+    Translation: one woman
+  - Phrase: eno polje
+    Translation: one field
+  - Phrase: dva fanta
+    Translation: two boys
+  - Phrase: dve ženski
+    Translation: two women
+  - Phrase: tri mačke
+    Translation: three cats
+  - Phrase: štiri kolesa
+    Translation: four bicycles
+  - Phrase: pet fantov
+    Translation: five boys
+  - Phrase: šest koles
+    Translation: six bicycles
+  - Phrase: sedem rubljev
+    Translation: seven rubles
+  - Phrase: osem dolarjev
+    Translation: eight dollars
+  - Phrase: devet računalnikov
+    Translation: nine computers
+  - Phrase: deset ur
+    Translation: ten clocks
+  - Phrase: dve stvari
+    Translation: two things
+  - Phrase: eno sonce
+    Translation: one sun
+  - Phrase: eno kolo
+    Translation: one bicycle
+  - Phrase: štiri dolarje
+    Translation: four dollars
+  - Phrase: tri mačke
+    Translation: three cats
+  - Phrase: pet mačk
+    Translation: five cats
+
+Mini-dictionary:
+  Slovenian:
+    - deset: undefined
+    - devet: undefined
+    - dolar: undefined
+    - dolarje: undefined
+    - dolarjev: undefined
+    - dva: undefined
+    - dve: undefined
+    - en: undefined
+    - ena: undefined
+    - eno: undefined
+    - fant: undefined
+    - fanta: undefined
+    - fantov: undefined
+    - koles: undefined
+    - kolesa: undefined
+    - kolo: undefined
+    - mačk: undefined
+    - mačka: undefined
+    - mačke: undefined
+    - nič: undefined
+    - osem: undefined
+    - pet: undefined
+    - polje: undefined
+    - računalnik: undefined
+    - računalnikov: undefined
+    - rubelj: undefined
+    - rubljev: undefined
+    - sedem: undefined
+    - sonce: undefined
+    - stvari: undefined
+    - tri: undefined
+    - ur: undefined
+    - ura: undefined
+    - šest: undefined
+    - štiri: undefined
+    - ženska: undefined
+    - ženski: undefined
+  English:
+    - bicycle: undefined
+    - bicycles: undefined
+    - boy: undefined
+    - boys: undefined
+    - cat: undefined
+    - cats: undefined
+    - clock/watch: undefined
+    - clocks: undefined
+    - computer: undefined
+    - computers: undefined
+    - dollar: undefined
+    - dollars: undefined
+    - eight: undefined
+    - field: undefined
+    - five: undefined
+    - four: undefined
+    - nine: undefined
+    - one: undefined
+    - ruble: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - sun: undefined
+    - ten: undefined
+    - things: undefined
+    - three: undefined
+    - two: undefined
+    - woman: undefined
+    - women: undefined
+    - zero: undefined

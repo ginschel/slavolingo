@@ -1,0 +1,235 @@
+Skill:
+  Name: Emotions (adverbs)
+  Id: 37
+
+New words:
+  - Word: radosny
+    Translation: joyful
+  - Word: żałosny/smutny
+    Translation: sad
+  - Word: gniewny/zły
+    Translation: angry
+  - Word: miłość
+    Translation: love
+  - Word: przestraszony
+    Translation: frightened
+  - Word: spokój
+    Translation: peace
+  - Word: zazdrość
+    Translation: envy
+  - Word: wstydliwy
+    Translation: ashamed
+  - Word: wstyd
+    Translation: shame
+  - Word: dumny
+    Translation: proud
+  - Word: wesoły
+    Translation: cheerful
+  - Word: drżenie/strach
+    Translation: tremor
+  - Word: czuć (czuje)
+    Translation: to feel
+  - Word: ukrywać
+    Translation: to hide
+  - Word: uciekać
+    Translation: to run away
+
+Phrases:
+  - Phrase: Czuję się radośnie dzisiaj.
+    Translation: We feel joyful this week.
+  - Phrase: Żałośnie/Smutno on mówił.
+    Translation: He spoke sadly.
+  - Phrase: On gniewnie/źle każe mu pracować.
+    Translation: He angrily tells him to work.
+  - Phrase: Miłość to silna emocja.
+    Translation: Love is a strong emotion.
+  - Phrase: Strach to naturalna reakcja.
+    Translation: Fear is a natural reaction.
+  - Phrase: Spokój jest ważny dla duszy.
+    Translation: Peace is important for the soul.
+  - Phrase: Zazdrość to czarna emocja.
+    Translation: Envy is a dark emotion.
+  - Phrase: Wstydliwie on czuje wstyd.
+    Translation: He feels ashamed.
+  - Phrase: Wesoło jemu się napełniło serce.
+    Translation: His heart was filled with joy.
+  - Phrase: Zazdrośnie on patrzy na niego.
+    Translation: He is jealous of him.
+  - Phrase: Ja mam żal w sercu.
+    Translation: I have sadness in my heart.
+  - Phrase: Ona pokazuje im swoją pracę wesoło.
+    Translation: She shows them her work joyfully.
+  - Phrase: On ukrywa dumnie swój gniew.
+    Translation: He hides his anger proudly.
+  - Phrase: My czujemy spokój.
+    Translation: We feel peaceful.
+  - Phrase: Strach jest w nas.
+    Translation: Fear is inside us.
+  - Phrase: Przestraszony on uciekał.
+    Translation: He was frightened and ran away.
+  - Phrase: Wstyd jest dużo silny.
+    Translation: Shame is very strong.
+  - Phrase: Radośnie szedł do domu.
+    Translation: He joyfully went home.
+  - Phrase: Radość idzie z wewnątrz.
+    Translation: Joy comes from within.
+  - Phrase: Cierpieć chcemy tylko, kiedy kochamy.
+    Translation: We only suffer when we love.
+
+Mini-dictionary:
+  Polish:
+    - chcemy: undefined
+    - cierpieć: undefined
+    - czarna: undefined
+    - czuje: undefined
+    - czujemy: undefined
+    - czuję: undefined
+    - czuć: undefined
+    - dla: undefined
+    - do: undefined
+    - domu: undefined
+    - drżenie/strach: undefined
+    - dumnie: undefined
+    - dumny: undefined
+    - duszy: undefined
+    - dużo: undefined
+    - dzisiaj: undefined
+    - emocja: undefined
+    - gniew: undefined
+    - gniewnie/źle: undefined
+    - gniewny/zły: undefined
+    - idzie: undefined
+    - im: undefined
+    - ja: undefined
+    - jemu: undefined
+    - jest: undefined
+    - każe: undefined
+    - kiedy: undefined
+    - kochamy: undefined
+    - mam: undefined
+    - miłość: undefined
+    - mu: undefined
+    - my: undefined
+    - mówił: undefined
+    - na: undefined
+    - napełniło: undefined
+    - nas: undefined
+    - naturalna: undefined
+    - niego: undefined
+    - on: undefined
+    - ona: undefined
+    - patrzy: undefined
+    - pokazuje: undefined
+    - pracować: undefined
+    - pracę: undefined
+    - przestraszony: undefined
+    - radosny: undefined
+    - radośnie: undefined
+    - radość: undefined
+    - reakcja: undefined
+    - serce: undefined
+    - sercu: undefined
+    - silna: undefined
+    - silny: undefined
+    - się: undefined
+    - spokój: undefined
+    - strach: undefined
+    - swoją: undefined
+    - swój: undefined
+    - szedł: undefined
+    - to: undefined
+    - tylko: undefined
+    - uciekać: undefined
+    - uciekał: undefined
+    - ukrywa: undefined
+    - ukrywać: undefined
+    - w: undefined
+    - ważny: undefined
+    - wesoło: undefined
+    - wesoły: undefined
+    - wewnątrz: undefined
+    - wstyd: undefined
+    - wstydliwie: undefined
+    - wstydliwy: undefined
+    - z: undefined
+    - zazdrośnie: undefined
+    - zazdrość: undefined
+    - żal: undefined
+    - żałosny/smutny: undefined
+    - żałośnie/smutno: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - anger: undefined
+    - angrily: undefined
+    - angry: undefined
+    - ashamed: undefined
+    - away: undefined
+    - cheerful: undefined
+    - comes: undefined
+    - dark: undefined
+    - emotion: undefined
+    - envy: undefined
+    - fear: undefined
+    - feel: undefined
+    - feels: undefined
+    - filled: undefined
+    - for: undefined
+    - frightened: undefined
+    - from: undefined
+    - have: undefined
+    - he: undefined
+    - heart: undefined
+    - her: undefined
+    - hide: undefined
+    - hides: undefined
+    - him: undefined
+    - his: undefined
+    - home: undefined
+    - i: undefined
+    - important: undefined
+    - in: undefined
+    - inside: undefined
+    - is: undefined
+    - jealous: undefined
+    - joy: undefined
+    - joyful: undefined
+    - joyfully: undefined
+    - love: undefined
+    - my: undefined
+    - natural: undefined
+    - of: undefined
+    - only: undefined
+    - peace: undefined
+    - peaceful: undefined
+    - proud: undefined
+    - proudly: undefined
+    - ran: undefined
+    - reaction: undefined
+    - run: undefined
+    - sad: undefined
+    - sadly: undefined
+    - sadness: undefined
+    - shame: undefined
+    - she: undefined
+    - shows: undefined
+    - soul: undefined
+    - spoke: undefined
+    - strong: undefined
+    - suffer: undefined
+    - tells: undefined
+    - the: undefined
+    - them: undefined
+    - this: undefined
+    - to: undefined
+    - tremor: undefined
+    - us: undefined
+    - very: undefined
+    - was: undefined
+    - we: undefined
+    - week: undefined
+    - went: undefined
+    - when: undefined
+    - with: undefined
+    - within: undefined
+    - work: undefined

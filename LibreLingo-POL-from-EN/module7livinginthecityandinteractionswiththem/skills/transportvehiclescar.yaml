@@ -1,0 +1,191 @@
+Skill:
+  Name: Transport/Vehicles/Car
+  Id: 23
+
+New words:
+  - Word: auto
+    Translation: car
+  - Word: autobus
+    Translation: bus
+  - Word: pociąg
+    Translation: train
+  - Word: koło/rower
+    Translation: bicycle
+  - Word: stacja
+    Translation: station
+  - Word: szofer/kierowca
+    Translation: driver
+  - Word: droga
+    Translation: road
+  - Word: most
+    Translation: bridge
+  - Word: prędkość
+    Translation: speed
+  - Word: światła drogowe
+    Translation: traffic light
+  - Word: jechać (jedzie)
+    Translation: to go/drive
+  - Word: usiąść (siada)
+    Translation: to sit
+  - Word: połączyć (łączy)
+    Translation: to connect/tie
+  - Word: rozbity/zepsuty
+    Translation: broken
+  - Word: ostrożny
+    Translation: careful
+
+Phrases:
+  - Phrase: Auto stoi na ulicy.
+    Translation: The car is standing on the street.
+  - Phrase: Autobus jedzie do centrum.
+    Translation: The bus goes to the center.
+  - Phrase: Pociąg jedzie na stację.
+    Translation: The train goes to the station.
+  - Phrase: Tu jest siedzenie. Można usiąść.
+    Translation: Here is a seat. One can sit.
+  - Phrase: Stacja jest duża.
+    Translation: The station is big.
+  - Phrase: Szofer/Kierowca jedzie szybko.
+    Translation: The driver drives fast.
+  - Phrase: Droga idzie przez las.
+    Translation: The road goes through the forest.
+  - Phrase: Most łączy dwa miasta.
+    Translation: The bridge connects two cities.
+  - Phrase: Prędkość jest ważna dla bezpieczeństwa na ulicy.
+    Translation: A speed limit is important for the security on the street.
+  - Phrase: Światła drogowe pokazują czerwone.
+    Translation: The traffic light shows red.
+  - Phrase: Auto jest nowe i piękne.
+    Translation: The car is new and beautiful.
+  - Phrase: Autobus wiezie dużo ludzi.
+    Translation: The bus carries many people.
+  - Phrase: Pociąg jedzie na północ.
+    Translation: The train goes to the north.
+  - Phrase: Koło jest rozbite/zepsute.
+    Translation: The bicycle is broken.
+  - Phrase: Stacja jest otwarta.
+    Translation: The station is open.
+  - Phrase: Szofer/Kierowca jest ostrożny.
+    Translation: The driver is careful.
+  - Phrase: Droga jest szeroka.
+    Translation: The road is wide.
+  - Phrase: Most jest wysoki.
+    Translation: The bridge is high.
+  - Phrase: Prędkość jest ograniczona.
+    Translation: The speed is limited.
+  - Phrase: Światła drogowe pokazują zielone.
+    Translation: The traffic light shows green.
+
+Mini-dictionary:
+  Polish:
+    - auto: undefined
+    - autobus: undefined
+    - bezpieczeństwa: undefined
+    - centrum: undefined
+    - czerwone: undefined
+    - dla: undefined
+    - do: undefined
+    - droga: undefined
+    - drogowe: undefined
+    - duża: undefined
+    - dużo: undefined
+    - dwa: undefined
+    - i: undefined
+    - idzie: undefined
+    - jechać: undefined
+    - jedzie: undefined
+    - jest: undefined
+    - koło: undefined
+    - koło/rower: undefined
+    - las: undefined
+    - ludzi: undefined
+    - miasta: undefined
+    - most: undefined
+    - można: undefined
+    - na: undefined
+    - nowe: undefined
+    - ograniczona: undefined
+    - ostrożny: undefined
+    - otwarta: undefined
+    - piękne: undefined
+    - pociąg: undefined
+    - pokazują: undefined
+    - połączyć: undefined
+    - przez: undefined
+    - prędkość: undefined
+    - północ: undefined
+    - rozbite/zepsute: undefined
+    - rozbity/zepsuty: undefined
+    - siada: undefined
+    - siedzenie: undefined
+    - stacja: undefined
+    - stację: undefined
+    - stoi: undefined
+    - szeroka: undefined
+    - szofer/kierowca: undefined
+    - szybko: undefined
+    - tu: undefined
+    - ulicy: undefined
+    - usiąść: undefined
+    - ważna: undefined
+    - wiezie: undefined
+    - wysoki: undefined
+    - zielone: undefined
+    - łączy: undefined
+    - światła: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - beautiful: undefined
+    - bicycle: undefined
+    - big: undefined
+    - bridge: undefined
+    - broken: undefined
+    - bus: undefined
+    - can: undefined
+    - car: undefined
+    - careful: undefined
+    - carries: undefined
+    - center: undefined
+    - cities: undefined
+    - connect/tie: undefined
+    - connects: undefined
+    - driver: undefined
+    - drives: undefined
+    - fast: undefined
+    - for: undefined
+    - forest: undefined
+    - go/drive: undefined
+    - goes: undefined
+    - green: undefined
+    - here: undefined
+    - high: undefined
+    - important: undefined
+    - is: undefined
+    - light: undefined
+    - limit: undefined
+    - limited: undefined
+    - many: undefined
+    - new: undefined
+    - north: undefined
+    - on: undefined
+    - one: undefined
+    - open: undefined
+    - people: undefined
+    - red: undefined
+    - road: undefined
+    - seat: undefined
+    - security: undefined
+    - shows: undefined
+    - sit: undefined
+    - speed: undefined
+    - standing: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - through: undefined
+    - to: undefined
+    - traffic: undefined
+    - train: undefined
+    - two: undefined
+    - wide: undefined

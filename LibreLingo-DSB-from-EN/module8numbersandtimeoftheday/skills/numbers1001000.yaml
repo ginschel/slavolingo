@@ -1,0 +1,125 @@
+Skill:
+  Name: Numbers 100-1000
+  Id: 29
+
+New words:
+  - Word: sto
+    Translation: one hundred
+  - Word: dwěsćo
+    Translation: two hundred
+  - Word: tśisćo
+    Translation: three hundred
+  - Word: styrěsćo
+    Translation: four hundred
+  - Word: pěśsćo
+    Translation: five hundred
+  - Word: šesćsćo
+    Translation: six hundred
+  - Word: sedymsćo
+    Translation: seven hundred
+  - Word: wosymsćo
+    Translation: eight hundred
+  - Word: źewjeśsćo
+    Translation: nine hundred
+  - Word: tysac
+    Translation: thousand
+
+Phrases:
+  - Phrase: tysac jaden goźinikow
+    Translation: one thousand one clocks
+  - Phrase: sto gólcow
+    Translation: one hundred boys
+  - Phrase: dwěsćo žonow
+    Translation: two hundred women
+  - Phrase: tśisćo pól
+    Translation: three hundred fields
+  - Phrase: styrěsćo mužow
+    Translation: four hundred men
+  - Phrase: pěśsćo žonow
+    Translation: five hundred women
+  - Phrase: šesćsćo kóckow
+    Translation: six hundred cats
+  - Phrase: sedymsćo jaden kółow
+    Translation: seven hundred one bicycles
+  - Phrase: wosymsćo gólcow
+    Translation: eight hundred boys
+  - Phrase: źewjeśsćo kółow
+    Translation: nine hundred bicycles
+  - Phrase: tysac wosym rublow
+    Translation: one thousand eight rubles
+  - Phrase: styrěsćo sedym dolarow
+    Translation: four hundred seven dollars
+  - Phrase: dwěsćo tśi kompjutéry
+    Translation: two hundred three computers
+  - Phrase: sedymsćo jaden goźinikow
+    Translation: seven hundred one clocks
+  - Phrase: tśisćo styrjo wěcy
+    Translation: three hundred four things
+  - Phrase: sto dwa słyńcy
+    Translation: one hundred two suns
+  - Phrase: šesćsćo kółow
+    Translation: six hundred bicycles
+  - Phrase: wosymsćo dolarow
+    Translation: eight hundred dollars
+  - Phrase: dwě tysac źewjeśsćo psu
+    Translation: two thousand nine hundred dogs
+  - Phrase: styrěsćo kóckow
+    Translation: four hundred cats
+
+Mini-dictionary:
+  Lower Sorbian:
+    - dolarow: undefined
+    - dwa: undefined
+    - dwě: undefined
+    - dwěsćo: undefined
+    - goźinikow: undefined
+    - gólcow: undefined
+    - jaden: undefined
+    - kompjutéry: undefined
+    - kóckow: undefined
+    - kółow: undefined
+    - mužow: undefined
+    - psu: undefined
+    - pól: undefined
+    - pěśsćo: undefined
+    - rublow: undefined
+    - sedym: undefined
+    - sedymsćo: undefined
+    - sto: undefined
+    - styrjo: undefined
+    - styrěsćo: undefined
+    - słyńcy: undefined
+    - tysac: undefined
+    - tśi: undefined
+    - tśisćo: undefined
+    - wosym: undefined
+    - wosymsćo: undefined
+    - wěcy: undefined
+    - šesćsćo: undefined
+    - źewjeśsćo: undefined
+    - žonow: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - fields: undefined
+    - five: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - nine: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - suns: undefined
+    - things: undefined
+    - thousand: undefined
+    - three: undefined
+    - two: undefined
+    - women: undefined

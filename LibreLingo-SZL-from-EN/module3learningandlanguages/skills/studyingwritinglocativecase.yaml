@@ -1,0 +1,188 @@
+Skill:
+  Name: Studying & Writing (Locative case)
+  Id: 9
+
+New words:
+  - Word: szkōła
+    Translation: school
+  - Word: rechtōrka
+    Translation: female teacher
+  - Word: rechtōr
+    Translation: male teacher
+  - Word: zapisek
+    Translation: note
+  - Word: uczeń
+    Translation: student
+  - Word: ksiónżka
+    Translation: book
+  - Word: zadańy
+    Translation: assignment
+  - Word: stōł
+    Translation: table
+  - Word: tusz
+    Translation: ink
+  - Word: papjōr
+    Translation: paper
+  - Word: przymiōt
+    Translation: subject
+  - Word: metoda
+    Translation: method
+  - Word: pjyro
+    Translation: pen
+  - Word: zeszyt
+    Translation: notebook
+  - Word: na
+    Translation: on
+
+Phrases:
+  - Phrase: To moja szkōła.
+    Translation: This is my school.
+  - Phrase: Ôna je rechtōrkōm.
+    Translation: She is a teacher.
+  - Phrase: Ôn je uczńym.
+    Translation: He is a student.
+  - Phrase: Ksiónżka je na stole.
+    Translation: The book is on the table.
+  - Phrase: Jo mōm zadańy.
+    Translation: I have an assignment.
+  - Phrase: Tusz je jeszcze mokry.
+    Translation: The ink is still wet.
+  - Phrase: Papjōr je bioły.
+    Translation: The paper is white.
+  - Phrase: Tyn przymiōt to matymatyka.
+    Translation: This subject is mathematics.
+  - Phrase: Ta metoda je dobro.
+    Translation: This method is good.
+  - Phrase: Uczeń mo ksiónżka.
+    Translation: The student has a book.
+  - Phrase: To je mój stōł.
+    Translation: This is my desk.
+  - Phrase: Mój zeszyt je pełny zapisōw z pjyrym
+    Translation: My notebook is full of notes with a pen
+  - Phrase: pisza na papjōrze z pjyrym.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Szkōła je we centrum.
+    Translation: The school is in the center.
+  - Phrase: My piszymy zadańy.
+    Translation: We are writing the assignment.
+  - Phrase: Rechtōr godo ze sztudyntami.
+    Translation: The teacher is talking with students.
+  - Phrase: Ôna mo moc zadańōw.
+    Translation: She has many assignments.
+  - Phrase: Jo wartko pisza z tym pjyrym.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Przymiōt je skōmplikowany.
+    Translation: The subject is complex.
+  - Phrase: Ksiónżka je nowo.
+    Translation: The book is new.
+  - Phrase: Ôn je moim rechtōrym.
+    Translation: He is my teacher.
+
+Mini-dictionary:
+  Silesian:
+    - bioły: undefined
+    - centrum: undefined
+    - dobro: undefined
+    - godo: undefined
+    - je: undefined
+    - jeszcze: undefined
+    - jo: undefined
+    - ksiónżka: undefined
+    - matymatyka: undefined
+    - metoda: undefined
+    - mo: undefined
+    - moc: undefined
+    - moim: undefined
+    - moja: undefined
+    - mokry: undefined
+    - my: undefined
+    - mój: undefined
+    - mōm: undefined
+    - na: undefined
+    - nowo: undefined
+    - papjōr: undefined
+    - papjōrze: undefined
+    - pełny: undefined
+    - pisza: undefined
+    - piszymy: undefined
+    - pjyro: undefined
+    - pjyrym: undefined
+    - przymiōt: undefined
+    - rechtōr: undefined
+    - rechtōrka: undefined
+    - rechtōrkōm: undefined
+    - rechtōrym: undefined
+    - skōmplikowany: undefined
+    - stole: undefined
+    - stōł: undefined
+    - szkōła: undefined
+    - sztudyntami: undefined
+    - ta: undefined
+    - to: undefined
+    - tusz: undefined
+    - tym: undefined
+    - tyn: undefined
+    - uczeń: undefined
+    - uczńym: undefined
+    - wartko: undefined
+    - we: undefined
+    - z: undefined
+    - zadańy: undefined
+    - zadańōw: undefined
+    - zapisek: undefined
+    - zapisōw: undefined
+    - ze: undefined
+    - zeszyt: undefined
+    - ôn: undefined
+    - ôna: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - an: undefined
+    - are: undefined
+    - assignment: undefined
+    - assignments: undefined
+    - book: undefined
+    - center: undefined
+    - complex: undefined
+    - desk: undefined
+    - female: undefined
+    - full: undefined
+    - good: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - i: undefined
+    - in: undefined
+    - ink: undefined
+    - is: undefined
+    - male: undefined
+    - many: undefined
+    - mathematics: undefined
+    - method: undefined
+    - my: undefined
+    - new: undefined
+    - note: undefined
+    - notebook: undefined
+    - notes: undefined
+    - of: undefined
+    - on: undefined
+    - paper: undefined
+    - pen: undefined
+    - quickly: undefined
+    - school: undefined
+    - she: undefined
+    - still: undefined
+    - student: undefined
+    - students: undefined
+    - subject: undefined
+    - table: undefined
+    - talking: undefined
+    - teacher: undefined
+    - the: undefined
+    - this: undefined
+    - we: undefined
+    - wet: undefined
+    - white: undefined
+    - with: undefined
+    - writing: undefined

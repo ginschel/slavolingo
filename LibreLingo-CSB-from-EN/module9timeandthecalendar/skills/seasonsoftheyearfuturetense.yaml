@@ -1,0 +1,200 @@
+Skill:
+  Name: Seasons of the year (future tense)
+  Id: 33
+
+New words:
+  - Word: lato
+    Translation: summer
+  - Word: jeséń
+    Translation: autumn
+  - Word: zëma
+    Translation: winter
+  - Word: zymk
+    Translation: spring
+  - Word: pòrô rokù
+    Translation: season
+  - Word: bëc
+    Translation: to be
+  - Word: będã
+    Translation: I will be
+  - Word: bãdzësz
+    Translation: you will be
+  - Word: bãdze
+    Translation: he/she/it will be
+  - Word: bãdzemë
+    Translation: we will be
+  - Word: bãdzëce
+    Translation: you will be
+  - Word: bãdą
+    Translation: they will be
+
+Phrases:
+  - Phrase: W lece bãdze ciepło.
+    Translation: In the summer it will be warm.
+  - Phrase: Na jeseni bãdzemë widzec padające lëste.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: W zëmie bãdzëce grac ze sniege.
+    Translation: In the winter you will play with snow.
+  - Phrase: Zymk przëniese kwiatë.
+    Translation: Spring will bring flowers.
+  - Phrase: Pòrô rokù sã bãdze zmiéniac sztërë razë.
+    Translation: The season will change four times.
+  - Phrase: W zëmie bãdze padac sniég.
+    Translation: In the winter it will snow.
+  - Phrase: Na zymk ròsną kwiatë.
+    Translation: In spring, flowers grow.
+  - Phrase: W lece je wiele słunka.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: Na jeseni bãdzësz wiele czerpiec przez deszcz.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Pòwiôtr w zëmie bãdze zëmni.
+    Translation: The air in winter will be cold.
+  - Phrase: Lato je pòrą òdpòczënkù przë jezórze.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Jeséń mô wiele kòlorów.
+    Translation: Autumn has many colors.
+  - Phrase: Zëma nie je dobrô dlô sportowców.
+    Translation: Winter is not good for sports.
+  - Phrase: Zymk je nudni.
+    Translation: Spring is boring.
+  - Phrase: Pòrë rokù sã zmiéniają sztërë razë w rokù.
+    Translation: The seasons change four times a year.
+  - Phrase: Chùtkò kùńczi sã lato.
+    Translation: Summer will soon end.
+  - Phrase: Na jeseni blós pôdô deszcz.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Zëma mô wiele sniegù.
+    Translation: Winter has a lot of snow.
+  - Phrase: Òni bãdą widzec zieleną krajãòbraz.
+    Translation: They will see a green landscape.
+  - Phrase: Słuncé bãdze swiecëc sëlno w lece.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Kashubian:
+    - blós: undefined
+    - bãdze: undefined
+    - bãdzemë: undefined
+    - bãdzëce: undefined
+    - bãdzësz: undefined
+    - bãdą: undefined
+    - bëc: undefined
+    - będã: undefined
+    - chùtkò: undefined
+    - ciepło: undefined
+    - czerpiec: undefined
+    - deszcz: undefined
+    - dlô: undefined
+    - dobrô: undefined
+    - grac: undefined
+    - je: undefined
+    - jeseni: undefined
+    - jeséń: undefined
+    - jezórze: undefined
+    - krajãòbraz: undefined
+    - kwiatë: undefined
+    - kòlorów: undefined
+    - kùńczi: undefined
+    - lato: undefined
+    - lece: undefined
+    - lëste: undefined
+    - mô: undefined
+    - na: undefined
+    - nie: undefined
+    - nudni: undefined
+    - padac: undefined
+    - padające: undefined
+    - przez: undefined
+    - przë: undefined
+    - przëniese: undefined
+    - pòrë: undefined
+    - pòrô: undefined
+    - pòrą: undefined
+    - pòwiôtr: undefined
+    - pôdô: undefined
+    - razë: undefined
+    - rokù: undefined
+    - ròsną: undefined
+    - sniege: undefined
+    - sniegù: undefined
+    - sniég: undefined
+    - sportowców: undefined
+    - swiecëc: undefined
+    - sztërë: undefined
+    - sã: undefined
+    - sëlno: undefined
+    - słuncé: undefined
+    - słunka: undefined
+    - w: undefined
+    - widzec: undefined
+    - wiele: undefined
+    - ze: undefined
+    - zieleną: undefined
+    - zmiéniac: undefined
+    - zmiéniają: undefined
+    - zymk: undefined
+    - zëma: undefined
+    - zëmie: undefined
+    - zëmni: undefined
+    - òdpòczënkù: undefined
+    - òni: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - autumn: undefined
+    - be: undefined
+    - because: undefined
+    - boring: undefined
+    - bring: undefined
+    - by: undefined
+    - change: undefined
+    - cold: undefined
+    - colors: undefined
+    - end: undefined
+    - falling: undefined
+    - flowers: undefined
+    - for: undefined
+    - four: undefined
+    - good: undefined
+    - green: undefined
+    - grow: undefined
+    - has: undefined
+    - he/she/it: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lake: undefined
+    - landscape: undefined
+    - leaves: undefined
+    - lot: undefined
+    - many: undefined
+    - not: undefined
+    - of: undefined
+    - play: undefined
+    - rain: undefined
+    - rest: undefined
+    - season: undefined
+    - seasons: undefined
+    - see: undefined
+    - shine: undefined
+    - snow: undefined
+    - soon: undefined
+    - sports: undefined
+    - spring: undefined
+    - strongly: undefined
+    - suffer: undefined
+    - summer: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - they: undefined
+    - times: undefined
+    - to: undefined
+    - warm: undefined
+    - we: undefined
+    - will: undefined
+    - winter: undefined
+    - with: undefined
+    - year: undefined
+    - you: undefined

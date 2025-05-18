@@ -1,0 +1,236 @@
+Skill:
+  Name: Weekdays/Months
+  Id: 32
+
+New words:
+  - Word: тиждень
+    Translation: week
+  - Word: понеділок
+    Translation: Monday
+  - Word: вівторок
+    Translation: Tuesday
+  - Word: середа
+    Translation: Wednesday
+  - Word: четвер
+    Translation: Thursday
+  - Word: пятниця
+    Translation: Friday
+  - Word: субота
+    Translation: Saturday
+  - Word: неділя
+    Translation: Sunday
+  - Word: місяць
+    Translation: month
+  - Word: січень
+    Translation: January
+  - Word: лютий
+    Translation: February
+  - Word: березень
+    Translation: March
+  - Word: квітень
+    Translation: April
+  - Word: травень
+    Translation: May
+  - Word: червень
+    Translation: June
+  - Word: липень
+    Translation: July
+  - Word: серпень
+    Translation: August
+  - Word: вересень
+    Translation: September
+  - Word: жовтень
+    Translation: October
+  - Word: листопад
+    Translation: November
+  - Word: грудень
+    Translation: December
+
+Phrases:
+  - Phrase: Понеділок є першим днем в тижні.
+    Translation: Monday is the first day of the week.
+  - Phrase: Вівторок є після понеділка.
+    Translation: Tuesday is after Monday.
+  - Phrase: Середа є посередині тижня.
+    Translation: Wednesday is in the middle of the week.
+  - Phrase: Четвер є перед п'ятницею.
+    Translation: Thursday is before Friday.
+  - Phrase: Пятниця є останній робочий день.
+    Translation: Friday is the last working day.
+  - Phrase: Субота то вихідний.
+    Translation: Saturday is the weekend.
+  - Phrase: Неділя то день відпочинку.
+    Translation: Sunday is the day of rest.
+  - Phrase: Маю відпустку в січні.
+    Translation: I have vacation in January.
+  - Phrase: Новий рік є в грудні.
+    Translation: New Year's is in December.
+  - Phrase: В серпні їду до Гондурасу.
+    Translation: In August, I am going to Honduras.
+  - Phrase: В лютому є багато снігу.
+    Translation: In February there is a lot of snow.
+  - Phrase: В середу маю завдання.
+    Translation: On Wednesday, I have an assignment.
+  - Phrase: В четвер є мій улюблений день.
+    Translation: Thursday is my favorite day.
+  - Phrase: В п'ятницю ввечері йдемо на фільм.
+    Translation: On Friday evening we are going to the movies.
+  - Phrase: Субота є без роботи.
+    Translation: Saturday is without work.
+  - Phrase: Неділя є час для родини.
+    Translation: Sunday is time for family.
+  - Phrase: Не кожен місяць має тридцять днів.
+    Translation: Not every month has thirty days.
+  - Phrase: Жовтень є красивий місяць.
+    Translation: October is a beautiful month.
+  - Phrase: Вівторок є днем спорту.
+    Translation: Tuesday is the day for sports.
+  - Phrase: Липень є місяцем літа.
+    Translation: July is the month of summer.
+
+Mini-dictionary:
+  Ukrainian:
+    - багато: undefined
+    - без: undefined
+    - березень: undefined
+    - в: undefined
+    - ввечері: undefined
+    - вересень: undefined
+    - вихідний: undefined
+    - вівторок: undefined
+    - відпочинку: undefined
+    - відпустку: undefined
+    - гондурасу: undefined
+    - грудень: undefined
+    - грудні: undefined
+    - день: undefined
+    - для: undefined
+    - днем: undefined
+    - днів: undefined
+    - до: undefined
+    - жовтень: undefined
+    - завдання: undefined
+    - йдемо: undefined
+    - квітень: undefined
+    - кожен: undefined
+    - красивий: undefined
+    - липень: undefined
+    - листопад: undefined
+    - лютий: undefined
+    - лютому: undefined
+    - літа: undefined
+    - маю: undefined
+    - має: undefined
+    - мій: undefined
+    - місяцем: undefined
+    - місяць: undefined
+    - на: undefined
+    - не: undefined
+    - неділя: undefined
+    - новий: undefined
+    - останній: undefined
+    - п'ятницею: undefined
+    - п'ятницю: undefined
+    - перед: undefined
+    - першим: undefined
+    - понеділка: undefined
+    - понеділок: undefined
+    - посередині: undefined
+    - пятниця: undefined
+    - після: undefined
+    - роботи: undefined
+    - робочий: undefined
+    - родини: undefined
+    - рік: undefined
+    - середа: undefined
+    - середу: undefined
+    - серпень: undefined
+    - серпні: undefined
+    - снігу: undefined
+    - спорту: undefined
+    - субота: undefined
+    - січень: undefined
+    - січні: undefined
+    - тиждень: undefined
+    - тижня: undefined
+    - тижні: undefined
+    - то: undefined
+    - травень: undefined
+    - тридцять: undefined
+    - улюблений: undefined
+    - фільм: undefined
+    - час: undefined
+    - червень: undefined
+    - четвер: undefined
+    - є: undefined
+    - їду: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - am: undefined
+    - an: undefined
+    - april: undefined
+    - are: undefined
+    - assignment: undefined
+    - august: undefined
+    - beautiful: undefined
+    - before: undefined
+    - day: undefined
+    - days: undefined
+    - december: undefined
+    - evening: undefined
+    - every: undefined
+    - family: undefined
+    - favorite: undefined
+    - february: undefined
+    - first: undefined
+    - for: undefined
+    - friday: undefined
+    - going: undefined
+    - has: undefined
+    - have: undefined
+    - honduras: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - january: undefined
+    - july: undefined
+    - june: undefined
+    - last: undefined
+    - lot: undefined
+    - march: undefined
+    - may: undefined
+    - middle: undefined
+    - monday: undefined
+    - month: undefined
+    - movies: undefined
+    - my: undefined
+    - new: undefined
+    - not: undefined
+    - november: undefined
+    - october: undefined
+    - of: undefined
+    - on: undefined
+    - rest: undefined
+    - saturday: undefined
+    - september: undefined
+    - snow: undefined
+    - sports: undefined
+    - summer: undefined
+    - sunday: undefined
+    - the: undefined
+    - there: undefined
+    - thirty: undefined
+    - thursday: undefined
+    - time: undefined
+    - to: undefined
+    - tuesday: undefined
+    - vacation: undefined
+    - we: undefined
+    - wednesday: undefined
+    - week: undefined
+    - weekend: undefined
+    - without: undefined
+    - work: undefined
+    - working: undefined
+    - year's: undefined

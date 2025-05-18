@@ -1,0 +1,201 @@
+Skill:
+  Name: Grammar revision pronouncs
+  Id: 20
+
+New words:
+  - Word: "знати"
+    Translation: to know
+  - Word: "вѣдѣти (вѣсть)"
+    Translation: to know
+  - Word: "сънъ"
+    Translation: dream
+  - Word: "вѣщь"
+    Translation: thing
+
+Phrases:
+  - Phrase: Того нє знаѭ.
+    Translation: I don't know that.
+  - Phrase: О томъ оужє дълъго ває вѣсть.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Кого тꙑ видиши?.
+    Translation: Who do you see?.
+  - Phrase: Тꙑмъ кътори лєжѧтъ сѧ спати спокойноѥго съна.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: О тои вѣщи ꙗ ничьто нє знаѭ.
+    Translation: I know nothing about that thing.
+  - Phrase: Глаголимъ съ тобоѭ.
+    Translation: I am talking with you.
+  - Phrase: Азъ видимъ васъ.
+    Translation: I see you.
+  - Phrase: Онъ любитъ бꙑти самъ съ собоѭ.
+    Translation: He likes to be alone with himself.
+  - Phrase: Даи мьнѣ водѫ.
+    Translation: Give me water.
+  - Phrase: Съ нами всєгда въсє вєсєло.
+    Translation: With us everything is always cheerful.
+  - Phrase: Мєнє нє видиши.
+    Translation: You don't see me.
+  - Phrase: Комꙋ даси даръ?
+    Translation: Who do you give a gift to?
+  - Phrase: О мьнѣ глаголиши?
+    Translation: Are you talking about me?
+  - Phrase: Нє, азъ нє глаголимъ о тобѣ.
+    Translation: No, I don't talt about you.
+  - Phrase: О чьмь тꙑ глаголиши?
+    Translation: What are you talking about?
+  - Phrase: Сє женꙑ сѫтъ красьнє.
+    Translation: These women are beautiful.
+  - Phrase: Тꙑхъ приꙗтєльѥвъ нє имаши.
+    Translation: You do not have those friends.
+  - Phrase: Онъ даѥтъ собѣ покои.
+    Translation: He stops troubling others.
+  - Phrase: Чьсєго тѫ нємаѥтъ въ домꙋ?
+    Translation: What isn't at this house here?
+  - Phrase: Томꙋ пьсꙋ тꙑ даѥши кости.
+    Translation: You give to this dog bones.
+  - Phrase: Сь ваша кава или ѥѩ?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Church Slavonic:
+    - азъ: undefined
+    - бꙑти: undefined
+    - васъ: undefined
+    - ваша: undefined
+    - ває: undefined
+    - видимъ: undefined
+    - видиши: undefined
+    - водѫ: undefined
+    - всєгда: undefined
+    - въ: undefined
+    - въсє: undefined
+    - вєсєло: undefined
+    - вѣдѣти: undefined
+    - вѣсть: undefined
+    - вѣщи: undefined
+    - вѣщь: undefined
+    - глаголимъ: undefined
+    - глаголиши: undefined
+    - даи: undefined
+    - даръ: undefined
+    - даси: undefined
+    - даѥтъ: undefined
+    - даѥши: undefined
+    - домꙋ: undefined
+    - дълъго: undefined
+    - женꙑ: undefined
+    - знати: undefined
+    - знаѭ: undefined
+    - или: undefined
+    - имаши: undefined
+    - кава: undefined
+    - кого: undefined
+    - комꙋ: undefined
+    - кости: undefined
+    - красьнє: undefined
+    - кътори: undefined
+    - любитъ: undefined
+    - лєжѧтъ: undefined
+    - мьнѣ: undefined
+    - мєнє: undefined
+    - нами: undefined
+    - ничьто: undefined
+    - нє: undefined
+    - нємаѥтъ: undefined
+    - о: undefined
+    - онъ: undefined
+    - оужє: undefined
+    - покои: undefined
+    - приꙗтєльѥвъ: undefined
+    - пьсꙋ: undefined
+    - самъ: undefined
+    - собоѭ: undefined
+    - собѣ: undefined
+    - спати: undefined
+    - спокойноѥго: undefined
+    - съ: undefined
+    - съна: undefined
+    - сънъ: undefined
+    - сь: undefined
+    - сє: undefined
+    - сѧ: undefined
+    - сѫтъ: undefined
+    - тобоѭ: undefined
+    - тобѣ: undefined
+    - того: undefined
+    - тои: undefined
+    - томъ: undefined
+    - томꙋ: undefined
+    - тѫ: undefined
+    - тꙑ: undefined
+    - тꙑмъ: undefined
+    - тꙑхъ: undefined
+    - чьмь: undefined
+    - чьсєго: undefined
+    - ѥѩ: undefined
+    - ꙗ: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - alone: undefined
+    - always: undefined
+    - am: undefined
+    - are: undefined
+    - at: undefined
+    - be: undefined
+    - beautiful: undefined
+    - bones: undefined
+    - cheerful: undefined
+    - coffee: undefined
+    - do: undefined
+    - dog: undefined
+    - don't: undefined
+    - dream: undefined
+    - everything: undefined
+    - for: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - going: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - himself: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - isn't: undefined
+    - it: undefined
+    - know: undefined
+    - known: undefined
+    - likes: undefined
+    - long: undefined
+    - me: undefined
+    - no: undefined
+    - not: undefined
+    - nothing: undefined
+    - or: undefined
+    - others: undefined
+    - peaceful: undefined
+    - see: undefined
+    - sleep: undefined
+    - stops: undefined
+    - talking: undefined
+    - talt: undefined
+    - that: undefined
+    - these: undefined
+    - thing: undefined
+    - this: undefined
+    - those: undefined
+    - time: undefined
+    - to: undefined
+    - troubling: undefined
+    - us: undefined
+    - water: undefined
+    - what: undefined
+    - who: undefined
+    - with: undefined
+    - women: undefined
+    - you: undefined
+    - your: undefined

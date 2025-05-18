@@ -1,0 +1,198 @@
+Skill:
+  Name: Rooms/furniture
+  Id: 12
+
+New words:
+  - Word: кімната
+    Translation: room
+  - Word: стіл
+    Translation: table
+  - Word: стілець
+    Translation: chair
+  - Word: подушка
+    Translation: pillow
+  - Word: ліжко
+    Translation: bed
+  - Word: вікно
+    Translation: window
+  - Word: двері
+    Translation: doors
+  - Word: шафа
+    Translation: wardrobe
+  - Word: скриня
+    Translation: chest
+  - Word: полиця
+    Translation: shelf
+  - Word: тримати (тримає)
+    Translation: to hold
+  - Word: висіти (висить)
+    Translation: to hang
+  - Word: стіна
+    Translation: wall
+  - Word: лампа
+    Translation: lamp
+  - Word: давати
+    Translation: to give
+
+Phrases:
+  - Phrase: Кімната є тепла і тиха.
+    Translation: The room is warm and quiet.
+  - Phrase: Стіл стоїть посередині кімнати.
+    Translation: The table stands in the middle of the room.
+  - Phrase: Стілець є близько столу.
+    Translation: The chair is near the table.
+  - Phrase: Ліжко є м'яке.
+    Translation: The bed is soft.
+  - Phrase: Вікно є відкрите.
+    Translation: The window is open.
+  - Phrase: Двері є закриті.
+    Translation: The doors are closed.
+  - Phrase: Шафа має багато одягу.
+    Translation: The wardrobe has many clothes.
+  - Phrase: Скриня є під ліжком.
+    Translation: The chest is under the bed.
+  - Phrase: Полиця тримає книжки.
+    Translation: The shelf holds books.
+  - Phrase: Лампа світить над столом.
+    Translation: The lamp shines above the table.
+  - Phrase: Кімната має два вікна.
+    Translation: The room has two windows.
+  - Phrase: На столі лежить книжка.
+    Translation: A book is lying on the table.
+  - Phrase: Стілець є старий, але комфортний.
+    Translation: The chair is old, but comfortable.
+  - Phrase: Ліжко є нове.
+    Translation: The bed is new.
+  - Phrase: Двері ведуть до кухні.
+    Translation: The doors lead to the kitchen.
+  - Phrase: Шафа є повна.
+    Translation: The wardrobe is full.
+  - Phrase: Скриня є з дерева.
+    Translation: The chest is made of wood.
+  - Phrase: Полиця висить на стіні.
+    Translation: The shelf hangs on the wall.
+  - Phrase: Лампа дає світло.
+    Translation: The lamp gives light.
+  - Phrase: В кімнаті є спокійно.
+    Translation: It is quiet in the room.
+
+Mini-dictionary:
+  Ukrainian:
+    - але: undefined
+    - багато: undefined
+    - близько: undefined
+    - в: undefined
+    - ведуть: undefined
+    - висить: undefined
+    - висіти: undefined
+    - відкрите: undefined
+    - вікна: undefined
+    - вікно: undefined
+    - давати: undefined
+    - дає: undefined
+    - два: undefined
+    - двері: undefined
+    - дерева: undefined
+    - до: undefined
+    - з: undefined
+    - закриті: undefined
+    - книжка: undefined
+    - книжки: undefined
+    - комфортний: undefined
+    - кухні: undefined
+    - кімната: undefined
+    - кімнати: undefined
+    - кімнаті: undefined
+    - лампа: undefined
+    - лежить: undefined
+    - ліжко: undefined
+    - ліжком: undefined
+    - м'яке: undefined
+    - має: undefined
+    - на: undefined
+    - над: undefined
+    - нове: undefined
+    - одягу: undefined
+    - повна: undefined
+    - подушка: undefined
+    - полиця: undefined
+    - посередині: undefined
+    - під: undefined
+    - світить: undefined
+    - світло: undefined
+    - скриня: undefined
+    - спокійно: undefined
+    - старий: undefined
+    - столом: undefined
+    - столу: undefined
+    - столі: undefined
+    - стоїть: undefined
+    - стіл: undefined
+    - стілець: undefined
+    - стіна: undefined
+    - стіні: undefined
+    - тепла: undefined
+    - тиха: undefined
+    - тримати: undefined
+    - тримає: undefined
+    - шафа: undefined
+    - є: undefined
+    - і: undefined
+  English:
+    - a: undefined
+    - above: undefined
+    - and: undefined
+    - are: undefined
+    - bed: undefined
+    - book: undefined
+    - books: undefined
+    - but: undefined
+    - chair: undefined
+    - chest: undefined
+    - closed: undefined
+    - clothes: undefined
+    - comfortable: undefined
+    - doors: undefined
+    - full: undefined
+    - give: undefined
+    - gives: undefined
+    - hang: undefined
+    - hangs: undefined
+    - has: undefined
+    - hold: undefined
+    - holds: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - kitchen: undefined
+    - lamp: undefined
+    - lead: undefined
+    - light: undefined
+    - lying: undefined
+    - made: undefined
+    - many: undefined
+    - middle: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - pillow: undefined
+    - quiet: undefined
+    - room: undefined
+    - shelf: undefined
+    - shines: undefined
+    - soft: undefined
+    - stands: undefined
+    - table: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - under: undefined
+    - wall: undefined
+    - wardrobe: undefined
+    - warm: undefined
+    - window: undefined
+    - windows: undefined
+    - wood: undefined

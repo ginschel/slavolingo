@@ -1,0 +1,183 @@
+Skill:
+  Name: Fruits
+  Id: 8
+
+New words:
+  - Word: jabolko
+    Translation: apple
+  - Word: hruška
+    Translation: pear
+  - Word: banana
+    Translation: banana
+  - Word: pomaranča
+    Translation: orange
+  - Word: višnja
+    Translation: cherry
+  - Word: jagoda
+    Translation: strawberry
+  - Word: zrel
+    Translation: ripe
+  - Word: grozdje
+    Translation: grapes
+  - Word: sliva
+    Translation: plum
+  - Word: limona
+    Translation: lemon
+  - Word: kisel
+    Translation: sour
+  - Word: sladek
+    Translation: sweet
+  - Word: melona
+    Translation: melon
+
+Phrases:
+  - Phrase: Jabolko je rdeče.
+    Translation: The apple is red.
+  - Phrase: Hruška je okusna.
+    Translation: The pear is tasty.
+  - Phrase: Banana je rumena.
+    Translation: The banana is yellow.
+  - Phrase: Pomaranče so sladke.
+    Translation: The oranges are sweet.
+  - Phrase: Višnja je kisla.
+    Translation: The cherry is sour.
+  - Phrase: Jagoda je majhna in okusna.
+    Translation: The strawberry is small and tasty.
+  - Phrase: Grozdje raste na vinogradu.
+    Translation: Grapes grow on a vineyard.
+  - Phrase: Sliva je temna.
+    Translation: The plum is dark.
+  - Phrase: Limona je kisla in rumena.
+    Translation: The lemon is sour and yellow.
+  - Phrase: Melona je velika in sladka.
+    Translation: The melon is big and sweet.
+  - Phrase: On kuha slivovko iz sliv.
+    Translation: He is preparing plum brandy from plums.
+  - Phrase: Ona pije sok iz pomaranč.
+    Translation: She is drinking orange juice.
+  - Phrase: Mi kupujemo grozdje.
+    Translation: We are buying grapes.
+  - Phrase: Jagode so v skledi.
+    Translation: The strawberries are in the bowl.
+  - Phrase: Sliva je že zrela.
+    Translation: The plum is already ripe.
+  - Phrase: Hruške ležijo na mizi.
+    Translation: The pears are lying on the table.
+  - Phrase: Limona se doda v čaj.
+    Translation: Lemon is added to tea.
+  - Phrase: Banana je v torbi.
+    Translation: The banana is in the bag.
+  - Phrase: Višnja raste na drevesu.
+    Translation: The cherry grows on a tree.
+  - Phrase: Melona je zelo okusna.
+    Translation: The melon is very tasty.
+
+Mini-dictionary:
+  Slovenian:
+    - banana: undefined
+    - doda: undefined
+    - drevesu: undefined
+    - grozdje: undefined
+    - hruška: undefined
+    - hruške: undefined
+    - in: undefined
+    - iz: undefined
+    - jabolko: undefined
+    - jagoda: undefined
+    - jagode: undefined
+    - je: undefined
+    - kisel: undefined
+    - kisla: undefined
+    - kuha: undefined
+    - kupujemo: undefined
+    - ležijo: undefined
+    - limona: undefined
+    - majhna: undefined
+    - melona: undefined
+    - mi: undefined
+    - mizi: undefined
+    - na: undefined
+    - okusna: undefined
+    - on: undefined
+    - ona: undefined
+    - pije: undefined
+    - pomaranč: undefined
+    - pomaranča: undefined
+    - pomaranče: undefined
+    - raste: undefined
+    - rdeče: undefined
+    - rumena: undefined
+    - se: undefined
+    - skledi: undefined
+    - sladek: undefined
+    - sladka: undefined
+    - sladke: undefined
+    - sliv: undefined
+    - sliva: undefined
+    - slivovko: undefined
+    - so: undefined
+    - sok: undefined
+    - temna: undefined
+    - torbi: undefined
+    - v: undefined
+    - velika: undefined
+    - vinogradu: undefined
+    - višnja: undefined
+    - zelo: undefined
+    - zrel: undefined
+    - zrela: undefined
+    - čaj: undefined
+    - že: undefined
+  English:
+    - a: undefined
+    - added: undefined
+    - already: undefined
+    - and: undefined
+    - apple: undefined
+    - are: undefined
+    - bag: undefined
+    - banana: undefined
+    - big: undefined
+    - bowl: undefined
+    - brandy: undefined
+    - buying: undefined
+    - cherry: undefined
+    - dark: undefined
+    - drinking: undefined
+    - from: undefined
+    - grapes: undefined
+    - grow: undefined
+    - grows: undefined
+    - he: undefined
+    - in: undefined
+    - is: undefined
+    - juice: undefined
+    - lemon: undefined
+    - lying: undefined
+    - melon: undefined
+    - on: undefined
+    - orange: undefined
+    - oranges: undefined
+    - pear: undefined
+    - pears: undefined
+    - plum: undefined
+    - plums: undefined
+    - preparing: undefined
+    - red: undefined
+    - ripe: undefined
+    - she: undefined
+    - small: undefined
+    - sour: undefined
+    - strawberries: undefined
+    - strawberry: undefined
+    - sweet: undefined
+    - table: undefined
+    - tasty: undefined
+    - tea: undefined
+    - the: undefined
+    - to: undefined
+    - tree: undefined
+    - very: undefined
+    - vineyard: undefined
+    - we: undefined
+    - yellow: undefined

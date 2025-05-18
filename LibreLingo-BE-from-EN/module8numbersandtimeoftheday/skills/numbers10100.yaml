@@ -1,0 +1,131 @@
+Skill:
+  Name: Numbers 10-100
+  Id: 28
+
+New words:
+  - Word: дзесяць
+    Translation: ten
+  - Word: дваццаць
+    Translation: twenty
+  - Word: трыццаць
+    Translation: thirty
+  - Word: сорак
+    Translation: forty
+  - Word: пяцьдзясят
+    Translation: fifty
+  - Word: шэсцьдзясят
+    Translation: sixty
+  - Word: семдзесят
+    Translation: seventy
+  - Word: восемдзесят
+    Translation: eighty
+  - Word: дзевяноста
+    Translation: ninety
+  - Word: сто
+    Translation: one hundred
+
+Phrases:
+  - Phrase: сто гадзіннікаў
+    Translation: one hundred clocks
+  - Phrase: дзесяць хлопчыкаў
+    Translation: ten boys
+  - Phrase: дваццаць жанчын
+    Translation: twenty women
+  - Phrase: трыццаць палёў
+    Translation: thirty fields
+  - Phrase: сорак мужчын
+    Translation: forty men
+  - Phrase: пяцьдзясят жанчын
+    Translation: fifty women
+  - Phrase: шэсцьдзясят катоў
+    Translation: sixty cats
+  - Phrase: сто адзін ровар
+    Translation: one hundred one bicycles
+  - Phrase: восемдзесят хлопчыкаў
+    Translation: eighty boys
+  - Phrase: дзевяноста ровараў
+    Translation: ninety bicycles
+  - Phrase: семдзесят восем рублёў
+    Translation: seventy eight rubles
+  - Phrase: восемдзесят сем долараў
+    Translation: eighty seven dollars
+  - Phrase: дзевяноста тры камп'ютары
+    Translation: ninety three computers
+  - Phrase: пяцьдзясят адзін гадзіннік
+    Translation: fifty one clocks
+  - Phrase: дваццаць чатыры рэчы
+    Translation: twenty four things
+  - Phrase: сто два сонцы
+    Translation: one hundred two suns
+  - Phrase: шэсцьдзясят ровараў
+    Translation: sixty bicycles
+  - Phrase: сорак долараў
+    Translation: forty dollars
+  - Phrase: трыццаць сабак
+    Translation: thirty dogs
+  - Phrase: дваццаць катоў
+    Translation: twenty cats
+
+Mini-dictionary:
+  Belarusian:
+    - адзін: undefined
+    - восем: undefined
+    - восемдзесят: undefined
+    - гадзіннік: undefined
+    - гадзіннікаў: undefined
+    - два: undefined
+    - дваццаць: undefined
+    - дзевяноста: undefined
+    - дзесяць: undefined
+    - долараў: undefined
+    - жанчын: undefined
+    - камп'ютары: undefined
+    - катоў: undefined
+    - мужчын: undefined
+    - палёў: undefined
+    - пяцьдзясят: undefined
+    - ровар: undefined
+    - ровараў: undefined
+    - рублёў: undefined
+    - рэчы: undefined
+    - сабак: undefined
+    - сем: undefined
+    - семдзесят: undefined
+    - сонцы: undefined
+    - сорак: undefined
+    - сто: undefined
+    - тры: undefined
+    - трыццаць: undefined
+    - хлопчыкаў: undefined
+    - чатыры: undefined
+    - шэсцьдзясят: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - eighty: undefined
+    - fields: undefined
+    - fifty: undefined
+    - forty: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - ninety: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - seventy: undefined
+    - sixty: undefined
+    - suns: undefined
+    - ten: undefined
+    - things: undefined
+    - thirty: undefined
+    - three: undefined
+    - twenty: undefined
+    - two: undefined
+    - women: undefined

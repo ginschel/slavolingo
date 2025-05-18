@@ -1,0 +1,201 @@
+Skill:
+  Name: Drinks (Genitive case)
+  Id: 7
+
+New words:
+  - Word: wòda
+    Translation: water
+  - Word: piwò
+    Translation: beer
+  - Word: pic
+    Translation: to drink
+  - Word: winò
+    Translation: wine
+  - Word: kawa
+    Translation: coffee
+  - Word: sok
+    Translation: juice
+  - Word: chòce (chce)
+    Translation: to want
+  - Word: flaszka
+    Translation: bottle
+  - Word: skùszëc nalezc
+    Translation: to try to find
+  - Word: czôszka
+    Translation: glass
+  - Word: bùtelka
+    Translation: bottle
+  - Word: czaj
+    Translation: tea
+  - Word: mlékò
+    Translation: milk
+  - Word: bez
+    Translation: without
+  - Word: za
+    Translation: for
+  - Word: z
+    Translation: from
+  - Word: przë
+    Translation: at/by
+
+Phrases:
+  - Phrase: Ja nie mô wòdë.
+    Translation: I do not have water.
+  - Phrase: Òna nie pije wina.
+    Translation: She does not drink wine.
+  - Phrase: Më nie pijemë piwa.
+    Translation: We do not drink beer.
+  - Phrase: Të mësz flaszkã sokù?
+    Translation: Do you have a bottle of juice?
+  - Phrase: Òni nie kùpùją bùtelk piwa.
+    Translation: They are not buying bottles of beer.
+  - Phrase: On nie mô kawë.
+    Translation: He does not have coffee.
+  - Phrase: Pijesz bez mléka?
+    Translation: Do you drink without milk?
+  - Phrase: Òna nie pije czaju.
+    Translation: She does not drink tea.
+  - Phrase: Czôszka wina dlô mie, proszã.
+    Translation: A glass of wine for me, please.
+  - Phrase: Bùtelka wòdë leżi na stole.
+    Translation: A bottle of water is lying on the table.
+  - Phrase: Ja miłëjã sok bez cëkrù.
+    Translation: I like juice without sugar.
+  - Phrase: On nie miłuje kawë bez mléka.
+    Translation: He does not like coffee without milk.
+  - Phrase: Jes të bez flaszki?
+    Translation: Are you without a bottle?
+  - Phrase: Òna skùszëje nalezc czôszkã bez wina.
+    Translation: She is trying to find a glass without wine.
+  - Phrase: On nie chce pic sokù.
+    Translation: He does not want to drink juice.
+  - Phrase: Të piješ winò?
+    Translation: Do you drink wine?
+  - Phrase: To winò z Pòlsczi.
+    Translation: This wine is from Poland.
+  - Phrase: Przë Franku wòdczi nie je.
+    Translation: Frank has no vodka.
+  - Phrase: Më pijemë z bùtelki piwò.
+    Translation: We are drinking beer from the bottle.
+  - Phrase: Dôjce mie czôszkã wina, proszã.
+    Translation: Give me a glass of wine, please.
+  - Phrase: On pije za cébie
+    Translation: He is drinking for you
+
+Mini-dictionary:
+  Kashubian:
+    - bez: undefined
+    - bùtelk: undefined
+    - bùtelka: undefined
+    - bùtelki: undefined
+    - chce: undefined
+    - chòce: undefined
+    - czaj: undefined
+    - czaju: undefined
+    - czôszka: undefined
+    - czôszkã: undefined
+    - cébie: undefined
+    - cëkrù: undefined
+    - dlô: undefined
+    - dôjce: undefined
+    - flaszka: undefined
+    - flaszki: undefined
+    - flaszkã: undefined
+    - franku: undefined
+    - ja: undefined
+    - je: undefined
+    - jes: undefined
+    - kawa: undefined
+    - kawë: undefined
+    - kùpùją: undefined
+    - leżi: undefined
+    - mie: undefined
+    - miłuje: undefined
+    - miłëjã: undefined
+    - mléka: undefined
+    - mlékò: undefined
+    - më: undefined
+    - mësz: undefined
+    - mô: undefined
+    - na: undefined
+    - nalezc: undefined
+    - nie: undefined
+    - on: undefined
+    - pic: undefined
+    - pije: undefined
+    - pijemë: undefined
+    - pijesz: undefined
+    - piješ: undefined
+    - piwa: undefined
+    - piwò: undefined
+    - proszã: undefined
+    - przë: undefined
+    - pòlsczi: undefined
+    - skùszëc: undefined
+    - skùszëje: undefined
+    - sok: undefined
+    - sokù: undefined
+    - stole: undefined
+    - to: undefined
+    - të: undefined
+    - wina: undefined
+    - winò: undefined
+    - wòda: undefined
+    - wòdczi: undefined
+    - wòdë: undefined
+    - z: undefined
+    - za: undefined
+    - òna: undefined
+    - òni: undefined
+  English:
+    - a: undefined
+    - are: undefined
+    - at/by: undefined
+    - beer: undefined
+    - bottle: undefined
+    - bottles: undefined
+    - buying: undefined
+    - coffee: undefined
+    - do: undefined
+    - does: undefined
+    - drink: undefined
+    - drinking: undefined
+    - find: undefined
+    - for: undefined
+    - frank: undefined
+    - from: undefined
+    - give: undefined
+    - glass: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - i: undefined
+    - is: undefined
+    - juice: undefined
+    - like: undefined
+    - lying: undefined
+    - me: undefined
+    - milk: undefined
+    - no: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - please: undefined
+    - poland: undefined
+    - she: undefined
+    - sugar: undefined
+    - table: undefined
+    - tea: undefined
+    - the: undefined
+    - they: undefined
+    - this: undefined
+    - to: undefined
+    - try: undefined
+    - trying: undefined
+    - vodka: undefined
+    - want: undefined
+    - water: undefined
+    - we: undefined
+    - wine: undefined
+    - without: undefined
+    - you: undefined

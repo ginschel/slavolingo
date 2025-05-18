@@ -1,0 +1,235 @@
+Skill:
+  Name: Weekdays/Months
+  Id: 32
+
+New words:
+  - Word: тидањ
+    Translation: week
+  - Word: понедељак
+    Translation: Monday
+  - Word: вторак
+    Translation: Tuesday
+  - Word: среда
+    Translation: Wednesday
+  - Word: четвртак
+    Translation: Thursday
+  - Word: петок
+    Translation: Friday
+  - Word: субота
+    Translation: Saturday
+  - Word: недеља
+    Translation: Sunday
+  - Word: месец
+    Translation: month
+  - Word: јануар
+    Translation: January
+  - Word: фебруар
+    Translation: February
+  - Word: март
+    Translation: March
+  - Word: април
+    Translation: April
+  - Word: мај
+    Translation: May
+  - Word: јуни
+    Translation: June
+  - Word: јули
+    Translation: July
+  - Word: август
+    Translation: August
+  - Word: септембар
+    Translation: September
+  - Word: октобар
+    Translation: October
+  - Word: новембар
+    Translation: November
+  - Word: децембар
+    Translation: December
+
+Phrases:
+  - Phrase: Понедељак јест први дањ в тидњу.
+    Translation: Monday is the first day of the week.
+  - Phrase: Вторак јест по понедељку.
+    Translation: Tuesday is after Monday.
+  - Phrase: Среда јест в средини тидња.
+    Translation: Wednesday is in the middle of the week.
+  - Phrase: Четвртак јест пред петком.
+    Translation: Thursday is before Friday.
+  - Phrase: Петок јест последни роботни дањ.
+    Translation: Friday is the last working day.
+  - Phrase: Субота то викенд.
+    Translation: Saturday is the weekend.
+  - Phrase: Недеља то дањ одморинга.
+    Translation: Sunday is the day of rest.
+  - Phrase: Имам в јануару вакације.
+    Translation: I have vacation in January.
+  - Phrase: Нови рок јест в децембру.
+    Translation: New Year's is in December.
+  - Phrase: В августу идем до Хондурас.
+    Translation: In August, I am going to Honduras.
+  - Phrase: В фебруару јест много снега.
+    Translation: In February there is a lot of snow.
+  - Phrase: В среду имам задање.
+    Translation: On Wednesday, I have an assignment.
+  - Phrase: В Четвртак јест мој љубими дањ.
+    Translation: Thursday is my favorite day.
+  - Phrase: В петок вечером идемо на филм.
+    Translation: On Friday evening we are going to the movies.
+  - Phrase: Субота јест без роботе.
+    Translation: Saturday is without work.
+  - Phrase: Недеља јест час за родину.
+    Translation: Sunday is time for family.
+  - Phrase: Не кажди месец има тридесет данов.
+    Translation: Not every month has thirty days.
+  - Phrase: Октобар јест красни месец.
+    Translation: October is a beautiful month.
+  - Phrase: Вторак јест дањем спорта.
+    Translation: Tuesday is the day for sports.
+  - Phrase: Јули јест месецем лета.
+    Translation: July is the month of summer.
+
+Mini-dictionary:
+  Serbian:
+    - август: undefined
+    - августу: undefined
+    - април: undefined
+    - без: undefined
+    - в: undefined
+    - вакације: undefined
+    - вечером: undefined
+    - викенд: undefined
+    - вторак: undefined
+    - данов: undefined
+    - дањ: undefined
+    - дањем: undefined
+    - децембар: undefined
+    - децембру: undefined
+    - до: undefined
+    - за: undefined
+    - задање: undefined
+    - идем: undefined
+    - идемо: undefined
+    - има: undefined
+    - имам: undefined
+    - кажди: undefined
+    - красни: undefined
+    - лета: undefined
+    - март: undefined
+    - мај: undefined
+    - месец: undefined
+    - месецем: undefined
+    - много: undefined
+    - мој: undefined
+    - на: undefined
+    - не: undefined
+    - недеља: undefined
+    - новембар: undefined
+    - нови: undefined
+    - одморинга: undefined
+    - октобар: undefined
+    - петком: undefined
+    - петок: undefined
+    - по: undefined
+    - понедељак: undefined
+    - понедељку: undefined
+    - последни: undefined
+    - први: undefined
+    - пред: undefined
+    - роботе: undefined
+    - роботни: undefined
+    - родину: undefined
+    - рок: undefined
+    - септембар: undefined
+    - снега: undefined
+    - спорта: undefined
+    - среда: undefined
+    - средини: undefined
+    - среду: undefined
+    - субота: undefined
+    - тидањ: undefined
+    - тидња: undefined
+    - тидњу: undefined
+    - то: undefined
+    - тридесет: undefined
+    - фебруар: undefined
+    - фебруару: undefined
+    - филм: undefined
+    - хондурас: undefined
+    - час: undefined
+    - четвртак: undefined
+    - јануар: undefined
+    - јануару: undefined
+    - јест: undefined
+    - јули: undefined
+    - јуни: undefined
+    - љубими: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - am: undefined
+    - an: undefined
+    - april: undefined
+    - are: undefined
+    - assignment: undefined
+    - august: undefined
+    - beautiful: undefined
+    - before: undefined
+    - day: undefined
+    - days: undefined
+    - december: undefined
+    - evening: undefined
+    - every: undefined
+    - family: undefined
+    - favorite: undefined
+    - february: undefined
+    - first: undefined
+    - for: undefined
+    - friday: undefined
+    - going: undefined
+    - has: undefined
+    - have: undefined
+    - honduras: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - january: undefined
+    - july: undefined
+    - june: undefined
+    - last: undefined
+    - lot: undefined
+    - march: undefined
+    - may: undefined
+    - middle: undefined
+    - monday: undefined
+    - month: undefined
+    - movies: undefined
+    - my: undefined
+    - new: undefined
+    - not: undefined
+    - november: undefined
+    - october: undefined
+    - of: undefined
+    - on: undefined
+    - rest: undefined
+    - saturday: undefined
+    - september: undefined
+    - snow: undefined
+    - sports: undefined
+    - summer: undefined
+    - sunday: undefined
+    - the: undefined
+    - there: undefined
+    - thirty: undefined
+    - thursday: undefined
+    - time: undefined
+    - to: undefined
+    - tuesday: undefined
+    - vacation: undefined
+    - we: undefined
+    - wednesday: undefined
+    - week: undefined
+    - weekend: undefined
+    - without: undefined
+    - work: undefined
+    - working: undefined
+    - year's: undefined

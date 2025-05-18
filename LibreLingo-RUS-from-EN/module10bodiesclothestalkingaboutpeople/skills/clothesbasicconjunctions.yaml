@@ -1,0 +1,248 @@
+Skill:
+  Name: Clothes  (basic conjunctions)
+  Id: 34
+
+New words:
+  - Word: рубашка
+    Translation: shirt
+  - Word: носить
+    Translation: to wear
+  - Word: брюки/штаны
+    Translation: trousers
+  - Word: футболка
+    Translation: t-shirt
+  - Word: шарф
+    Translation: scarf
+  - Word: шапка
+    Translation: hat
+  - Word: пальто
+    Translation: coat
+  - Word: перчатка
+    Translation: glove
+  - Word: трусы
+    Translation: underwear
+  - Word: носок
+    Translation: sock
+  - Word: обувь
+    Translation: footwear
+  - Word: одежда
+    Translation: clothes
+  - Word: некрасивый
+    Translation: ugly
+  - Word: одевать
+    Translation: to dress
+  - Word: пижама
+    Translation: pajamas
+
+Phrases:
+  - Phrase: Он носит синюю рубашку.
+    Translation: He wears a blue shirt.
+  - Phrase: Она имеет чёрные брюки, а он белые.
+    Translation: She has black trousers, and he has white.
+  - Phrase: Обувь и пальто лежат при дверях.
+    Translation: Shoes and the coat are lying by the door.
+  - Phrase: Шарф есть тяжёлый и тёплый.
+    Translation: The scarf is heavy and warm.
+  - Phrase: Зимою носим всегда шапку, а в лете нет.
+    Translation: In winter, I always wear a hat, but not in summer.
+  - Phrase: Трусы суть красивые или некрасивые?
+    Translation: Are the shorts beautiful or ugly?
+  - Phrase: Носим перчатки в зиме.
+    Translation: We wear gloves in winter.
+  - Phrase: Та пижама есть зелёная.
+    Translation: That pajama is green.
+  - Phrase: Новые трусы суть комфортные.
+    Translation: New shorts are comfortable.
+  - Phrase: Новая одежда есть дорогая.
+    Translation: New clothes are expensive.
+  - Phrase: Рубашка есть в сундуке.
+    Translation: The shirt is in the drawer.
+  - Phrase: Шапка висит на стене.
+    Translation: The hat hangs on the wall.
+  - Phrase: Он одевал и носил вчера о втором часе зелёную футболку или рубашку. Я не уверен сейчас.
+    Translation: He wore and put on a green tennis shoe or shirt yesterday at two AM. I'm not sure right now.
+  - Phrase: Ты хочешь шарф или рубашку.
+    Translation: You want a scarf or a shirt.
+  - Phrase: Некрасивые перчатки лежат на столе, а красивое пальто носим.
+    Translation: The ugly gloves are lying on the table, and I wear the red coat.
+  - Phrase: Она купила тёплую обувь.
+    Translation: She bought warm shoes.
+  - Phrase: Он одевает новую рубашку.
+    Translation: He is putting on a new shirt.
+  - Phrase: Носки мои суть краткие.
+    Translation: My socks are short.
+  - Phrase: В зиме буду нуждаться в шапке и перчатках.
+    Translation: In winter I will need a hat and gloves.
+  - Phrase: Одежда есть чистая и только уже белая.
+    Translation: The clothes are clean and only the underwear is white.
+
+Mini-dictionary:
+  Russian:
+    - а: undefined
+    - белая: undefined
+    - белые: undefined
+    - брюки: undefined
+    - брюки/штаны: undefined
+    - буду: undefined
+    - в: undefined
+    - висит: undefined
+    - всегда: undefined
+    - втором: undefined
+    - вчера: undefined
+    - дверях: undefined
+    - дорогая: undefined
+    - есть: undefined
+    - зелёная: undefined
+    - зелёную: undefined
+    - зиме: undefined
+    - зимою: undefined
+    - и: undefined
+    - или: undefined
+    - имеет: undefined
+    - комфортные: undefined
+    - красивое: undefined
+    - красивые: undefined
+    - краткие: undefined
+    - купила: undefined
+    - лежат: undefined
+    - лете: undefined
+    - мои: undefined
+    - на: undefined
+    - не: undefined
+    - некрасивые: undefined
+    - некрасивый: undefined
+    - нет: undefined
+    - новая: undefined
+    - новую: undefined
+    - новые: undefined
+    - носил: undefined
+    - носим: undefined
+    - носит: undefined
+    - носить: undefined
+    - носки: undefined
+    - носок: undefined
+    - нуждаться: undefined
+    - о: undefined
+    - обувь: undefined
+    - одевает: undefined
+    - одевал: undefined
+    - одевать: undefined
+    - одежда: undefined
+    - он: undefined
+    - она: undefined
+    - пальто: undefined
+    - перчатка: undefined
+    - перчатках: undefined
+    - перчатки: undefined
+    - пижама: undefined
+    - при: undefined
+    - рубашка: undefined
+    - рубашку: undefined
+    - сейчас: undefined
+    - синюю: undefined
+    - стене: undefined
+    - столе: undefined
+    - сундуке: undefined
+    - суть: undefined
+    - та: undefined
+    - только: undefined
+    - трусы: undefined
+    - ты: undefined
+    - тяжёлый: undefined
+    - тёплую: undefined
+    - тёплый: undefined
+    - уверен: undefined
+    - уже: undefined
+    - футболка: undefined
+    - футболку: undefined
+    - хочешь: undefined
+    - часе: undefined
+    - чистая: undefined
+    - чёрные: undefined
+    - шапка: undefined
+    - шапке: undefined
+    - шапку: undefined
+    - шарф: undefined
+    - я: undefined
+  English:
+    - a: undefined
+    - always: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beautiful: undefined
+    - black: undefined
+    - blue: undefined
+    - bought: undefined
+    - but: undefined
+    - by: undefined
+    - clean: undefined
+    - clothes: undefined
+    - coat: undefined
+    - comfortable: undefined
+    - door: undefined
+    - drawer: undefined
+    - dress: undefined
+    - expensive: undefined
+    - footwear: undefined
+    - glove: undefined
+    - gloves: undefined
+    - green: undefined
+    - hangs: undefined
+    - has: undefined
+    - hat: undefined
+    - he: undefined
+    - heavy: undefined
+    - i: undefined
+    - i'm: undefined
+    - in: undefined
+    - is: undefined
+    - lying: undefined
+    - my: undefined
+    - need: undefined
+    - new: undefined
+    - not: undefined
+    - now: undefined
+    - on: undefined
+    - only: undefined
+    - or: undefined
+    - pajama: undefined
+    - pajamas: undefined
+    - put: undefined
+    - putting: undefined
+    - red: undefined
+    - right: undefined
+    - scarf: undefined
+    - she: undefined
+    - shirt: undefined
+    - shoe: undefined
+    - shoes: undefined
+    - short: undefined
+    - shorts: undefined
+    - sock: undefined
+    - socks: undefined
+    - summer: undefined
+    - sure: undefined
+    - t-shirt: undefined
+    - table: undefined
+    - tennis: undefined
+    - that: undefined
+    - the: undefined
+    - to: undefined
+    - trousers: undefined
+    - two: undefined
+    - ugly: undefined
+    - underwear: undefined
+    - wall: undefined
+    - want: undefined
+    - warm: undefined
+    - we: undefined
+    - wear: undefined
+    - wears: undefined
+    - white: undefined
+    - will: undefined
+    - winter: undefined
+    - wore: undefined
+    - yesterday: undefined
+    - you: undefined

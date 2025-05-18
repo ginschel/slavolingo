@@ -1,0 +1,196 @@
+Skill:
+  Name: Hobbies (Verbs – Imperfective only)
+  Id: 4
+
+New words:
+  - Word: czytać
+    Translation: to read
+  - Word: pisać (pisze)
+    Translation: to write
+  - Word: grać
+    Translation: to play
+  - Word: patrzeć
+    Translation: to watch
+  - Word: słuchać
+    Translation: to listen
+  - Word: malować
+    Translation: to paint
+  - Word: śpiewać
+    Translation: to sing
+  - Word: uczyć się
+    Translation: to learn
+  - Word: siedzieć (siedzi)
+    Translation: to sit
+  - Word: szyć (szyje)
+    Translation: to sew
+  - Word: tańczyć
+    Translation: to dance
+
+Phrases:
+  - Phrase: Ja czytam książkę.
+    Translation: I am reading a book.
+  - Phrase: Ona pisze listy.
+    Translation: She is writing letters.
+  - Phrase: On gra w piłkę nożną.
+    Translation: He is playing football.
+  - Phrase: My oglądamy film.
+    Translation: We are watching a film.
+  - Phrase: Oni słuchają muzyki.
+    Translation: They are listening to music.
+  - Phrase: Ona siedzi i czyta.
+    Translation: She is sitting and reading.
+  - Phrase: Ja maluję obraz.
+    Translation: I am painting a picture.
+  - Phrase: On śpiewa piosenki.
+    Translation: He is singing songs.
+  - Phrase: Wy uczycie się języka.
+    Translation: You are learning a language.
+  - Phrase: Ja szyję odzież.
+    Translation: I am sewing clothes.
+  - Phrase: Ty oglądasz serial?
+    Translation: Are you watching a series?
+  - Phrase: My gramy w szachy.
+    Translation: We are playing chess.
+  - Phrase: Oni słuchają radia.
+    Translation: They are listening to the radio.
+  - Phrase: Czy czytasz romanse?
+    Translation: Do you read novels?
+  - Phrase: On pisze pamiętnik.
+    Translation: He is writing a diary.
+  - Phrase: Uczymy się tutaj.
+    Translation: We are learning here.
+  - Phrase: Malujemy z przyjaciółmi obrazy.
+    Translation: We are painting pictures with friends.
+  - Phrase: Ty szyjesz?
+    Translation: Are you sewing?
+  - Phrase: Ja śpiewam z grupą.
+    Translation: I am singing with a group.
+  - Phrase: Ja tańczę dużo
+    Translation: I dance a lot
+  - Phrase: Ona gra na gitarze.
+    Translation: She is playing the guitar.
+
+Mini-dictionary:
+  Polish:
+    - czy: undefined
+    - czyta: undefined
+    - czytam: undefined
+    - czytasz: undefined
+    - czytać: undefined
+    - dużo: undefined
+    - film: undefined
+    - gitarze: undefined
+    - gra: undefined
+    - gramy: undefined
+    - grać: undefined
+    - grupą: undefined
+    - i: undefined
+    - ja: undefined
+    - języka: undefined
+    - książkę: undefined
+    - listy: undefined
+    - malować: undefined
+    - malujemy: undefined
+    - maluję: undefined
+    - muzyki: undefined
+    - my: undefined
+    - na: undefined
+    - nożną: undefined
+    - obraz: undefined
+    - obrazy: undefined
+    - odzież: undefined
+    - oglądamy: undefined
+    - oglądasz: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - pamiętnik: undefined
+    - patrzeć: undefined
+    - piosenki: undefined
+    - pisać: undefined
+    - pisze: undefined
+    - piłkę: undefined
+    - przyjaciółmi: undefined
+    - radia: undefined
+    - romanse: undefined
+    - serial: undefined
+    - siedzi: undefined
+    - siedzieć: undefined
+    - się: undefined
+    - szachy: undefined
+    - szyje: undefined
+    - szyjesz: undefined
+    - szyję: undefined
+    - szyć: undefined
+    - słuchają: undefined
+    - słuchać: undefined
+    - tańczyć: undefined
+    - tańczę: undefined
+    - tutaj: undefined
+    - ty: undefined
+    - uczycie: undefined
+    - uczymy: undefined
+    - uczyć: undefined
+    - w: undefined
+    - wy: undefined
+    - z: undefined
+    - śpiewa: undefined
+    - śpiewam: undefined
+    - śpiewać: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - book: undefined
+    - chess: undefined
+    - clothes: undefined
+    - dance: undefined
+    - diary: undefined
+    - do: undefined
+    - film: undefined
+    - football: undefined
+    - friends: undefined
+    - group: undefined
+    - guitar: undefined
+    - he: undefined
+    - here: undefined
+    - i: undefined
+    - is: undefined
+    - language: undefined
+    - learn: undefined
+    - learning: undefined
+    - letters: undefined
+    - listen: undefined
+    - listening: undefined
+    - lot: undefined
+    - music: undefined
+    - novels: undefined
+    - paint: undefined
+    - painting: undefined
+    - picture: undefined
+    - pictures: undefined
+    - play: undefined
+    - playing: undefined
+    - radio: undefined
+    - read: undefined
+    - reading: undefined
+    - series: undefined
+    - sew: undefined
+    - sewing: undefined
+    - she: undefined
+    - sing: undefined
+    - singing: undefined
+    - sit: undefined
+    - sitting: undefined
+    - songs: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - watch: undefined
+    - watching: undefined
+    - we: undefined
+    - with: undefined
+    - write: undefined
+    - writing: undefined
+    - you: undefined

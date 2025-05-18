@@ -1,0 +1,211 @@
+Skill:
+  Name: Stuff in the kitchen
+  Id: 13
+
+New words:
+  - Word: nóż
+    Translation: knife
+  - Word: widelec
+    Translation: fork
+  - Word: łyżka
+    Translation: spoon
+  - Word: talerz
+    Translation: plate
+  - Word: filiżanka/kubek
+    Translation: cup
+  - Word: sól
+    Translation: salt
+  - Word: pieprz
+    Translation: pepper
+  - Word: cukier
+    Translation: sugar
+  - Word: patelnia
+    Translation: frying pan
+  - Word: gorący
+    Translation: hot
+  - Word: garnek
+    Translation: pot
+  - Word: kuchnia
+    Translation: kitchen
+  - Word: gotować/warzyć
+    Translation: to cook
+  - Word: naleśnik
+    Translation: pancake
+  - Word: pieróg
+    Translation: dumpling
+  - Word: miska
+    Translation: bowl
+
+Phrases:
+  - Phrase: Nóż leży na stole.
+    Translation: The knife is lying on the table.
+  - Phrase: Widelec jest srebrny.
+    Translation: The fork is silver.
+  - Phrase: Łyżka jest w soli.
+    Translation: The spoon is in the salt.
+  - Phrase: Talerz jest pełny jedzenia.
+    Translation: The plate is full of food.
+  - Phrase: Filiżanka jest napełniona wodą.
+    Translation: The cup is filled with water.
+  - Phrase: Dam do herbaty cukier.
+    Translation: I will add sugar to the tea.
+  - Phrase: Dużo cukru jest w misce.
+    Translation: There is a lot of sugar in the bowl.
+  - Phrase: Na patelni gotuje się mój naleśnik.
+    Translation: My pancake is cooking on the frying pan.
+  - Phrase: Garnek jest gorący.
+    Translation: The pot is hot
+  - Phrase: Garnek jest na ogniu.
+    Translation: The pot is on the flame.
+  - Phrase: Kuchnia jest czysta.
+    Translation: The kitchen is clean.
+  - Phrase: On je widelcem.
+    Translation: He eats with a fork.
+  - Phrase: Ona pije z filiżanki.
+    Translation: She drinks from a cup.
+  - Phrase: My gotujemy w garnku.
+    Translation: We cook in a pot.
+  - Phrase: Na patelni jest mięso.
+    Translation: There is meat in the frying pan.
+  - Phrase: Nóż jest ostry.
+    Translation: The knife is sharp.
+  - Phrase: Widelce i noże są na stole.
+    Translation: Forks and knives are on the table.
+  - Phrase: Łyżka jest pełna pieprzu.
+    Translation: The spoon is full of pepper.
+  - Phrase: Talerz leży na podłodze.
+    Translation: The plate is lying on the floor.
+  - Phrase: Puszka jest pusta.
+    Translation: The can is empty.
+  - Phrase: Kuchnia ma dobry zapach wieczorem.
+    Translation: The kitchen has a good smell in the evening.
+
+Mini-dictionary:
+  Polish:
+    - cukier: undefined
+    - cukru: undefined
+    - czysta: undefined
+    - dam: undefined
+    - do: undefined
+    - dobry: undefined
+    - dużo: undefined
+    - filiżanka: undefined
+    - filiżanka/kubek: undefined
+    - filiżanki: undefined
+    - garnek: undefined
+    - garnku: undefined
+    - gorący: undefined
+    - gotować/warzyć: undefined
+    - gotuje: undefined
+    - gotujemy: undefined
+    - herbaty: undefined
+    - i: undefined
+    - je: undefined
+    - jedzenia: undefined
+    - jest: undefined
+    - kuchnia: undefined
+    - leży: undefined
+    - ma: undefined
+    - misce: undefined
+    - miska: undefined
+    - mięso: undefined
+    - my: undefined
+    - mój: undefined
+    - na: undefined
+    - naleśnik: undefined
+    - napełniona: undefined
+    - noże: undefined
+    - nóż: undefined
+    - ogniu: undefined
+    - on: undefined
+    - ona: undefined
+    - ostry: undefined
+    - patelni: undefined
+    - patelnia: undefined
+    - pełna: undefined
+    - pełny: undefined
+    - pieprz: undefined
+    - pieprzu: undefined
+    - pieróg: undefined
+    - pije: undefined
+    - podłodze: undefined
+    - pusta: undefined
+    - puszka: undefined
+    - się: undefined
+    - soli: undefined
+    - srebrny: undefined
+    - stole: undefined
+    - sól: undefined
+    - są: undefined
+    - talerz: undefined
+    - w: undefined
+    - widelce: undefined
+    - widelcem: undefined
+    - widelec: undefined
+    - wieczorem: undefined
+    - wodą: undefined
+    - z: undefined
+    - zapach: undefined
+    - łyżka: undefined
+  English:
+    - a: undefined
+    - add: undefined
+    - and: undefined
+    - are: undefined
+    - bowl: undefined
+    - can: undefined
+    - clean: undefined
+    - cook: undefined
+    - cooking: undefined
+    - cup: undefined
+    - drinks: undefined
+    - dumpling: undefined
+    - eats: undefined
+    - empty: undefined
+    - evening: undefined
+    - filled: undefined
+    - flame: undefined
+    - floor: undefined
+    - food: undefined
+    - fork: undefined
+    - forks: undefined
+    - from: undefined
+    - frying: undefined
+    - full: undefined
+    - good: undefined
+    - has: undefined
+    - he: undefined
+    - hot: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - kitchen: undefined
+    - knife: undefined
+    - knives: undefined
+    - lot: undefined
+    - lying: undefined
+    - meat: undefined
+    - my: undefined
+    - of: undefined
+    - on: undefined
+    - pan: undefined
+    - pancake: undefined
+    - pepper: undefined
+    - plate: undefined
+    - pot: undefined
+    - salt: undefined
+    - sharp: undefined
+    - she: undefined
+    - silver: undefined
+    - smell: undefined
+    - spoon: undefined
+    - sugar: undefined
+    - table: undefined
+    - tea: undefined
+    - the: undefined
+    - there: undefined
+    - to: undefined
+    - water: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined

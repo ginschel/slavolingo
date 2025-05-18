@@ -1,0 +1,223 @@
+Skill:
+  Name: Character (Conditional)
+  Id: 36
+
+New words:
+  - Word: добрый
+    Translation: good
+  - Word: злой
+    Translation: bad
+  - Word: сильный
+    Translation: strong
+  - Word: слабый
+    Translation: weak
+  - Word: смелый
+    Translation: brave
+  - Word: тихий
+    Translation: quiet
+  - Word: мудрый
+    Translation: wise
+  - Word: глупый
+    Translation: stupid
+  - Word: искренний
+    Translation: sincere
+  - Word: ленивый
+    Translation: lazy
+  - Word: был бы
+    Translation: I would be
+  - Word: был бы
+    Translation: you would be
+  - Word: был бы
+    Translation: he/she/it would be
+  - Word: были бы
+    Translation: we would be
+  - Word: были бы
+    Translation: you would be
+  - Word: были бы
+    Translation: they would be
+  - Word: молчать (молчит)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: Он то добрый человек.
+    Translation: He is a good person.
+  - Phrase: Она есть злая иногда.
+    Translation: She is sometimes bad.
+  - Phrase: Сильный дух есть важный.
+    Translation: A strong spirit is important.
+  - Phrase: Он есть слабый в спорте.
+    Translation: He is weak in sports.
+  - Phrase: Смелый говорит правду.
+    Translation: Brave people speak the truth.
+  - Phrase: Как ты был бы слышал, то они были бы тихи.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Мудрый знает много.
+    Translation: A smart person knows much.
+  - Phrase: Как ты был бы не глупый, то бы ты не делал глупостей.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Искренний друг есть драгоценный.
+    Translation: A sincere friend is valuable.
+  - Phrase: Как они были бы не ленивы, то мы были бы им помогали.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Она есть добрая и искренняя.
+    Translation: She is good and sincere.
+  - Phrase: Он есть сильный, но смелый.
+    Translation: He is strong but brave.
+  - Phrase: Дети суть мудрые для их возраста.
+    Translation: Children are wiser for their age.
+  - Phrase: Как вы не были бы слабы, то вы были бы работали.
+    Translation: If you were not weak, you would work.
+  - Phrase: Злые слова болят.
+    Translation: Bad words hurt.
+  - Phrase: Глупый не учится.
+    Translation: Stupid people do not learn.
+  - Phrase: Ленивый не хочет ничего делать.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Искренний говорит что думает.
+    Translation: A sincere person says what they think.
+  - Phrase: Мудрый молчит когда надо.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Как я был бы смелый, то я был бы не боялся.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Russian:
+    - болят: undefined
+    - боялся: undefined
+    - бы: undefined
+    - был: undefined
+    - были: undefined
+    - в: undefined
+    - важный: undefined
+    - возраста: undefined
+    - вы: undefined
+    - глупостей: undefined
+    - глупый: undefined
+    - говорит: undefined
+    - делал: undefined
+    - делать: undefined
+    - дети: undefined
+    - для: undefined
+    - добрая: undefined
+    - добрый: undefined
+    - драгоценный: undefined
+    - друг: undefined
+    - думает: undefined
+    - дух: undefined
+    - есть: undefined
+    - злая: undefined
+    - злой: undefined
+    - злые: undefined
+    - знает: undefined
+    - и: undefined
+    - им: undefined
+    - иногда: undefined
+    - искренний: undefined
+    - искренняя: undefined
+    - их: undefined
+    - как: undefined
+    - когда: undefined
+    - ленивы: undefined
+    - ленивый: undefined
+    - много: undefined
+    - молчать: undefined
+    - молчит: undefined
+    - мудрые: undefined
+    - мудрый: undefined
+    - мы: undefined
+    - надо: undefined
+    - не: undefined
+    - ничего: undefined
+    - но: undefined
+    - он: undefined
+    - она: undefined
+    - они: undefined
+    - помогали: undefined
+    - правду: undefined
+    - работали: undefined
+    - сильный: undefined
+    - слабы: undefined
+    - слабый: undefined
+    - слова: undefined
+    - слышал: undefined
+    - смелый: undefined
+    - спорте: undefined
+    - суть: undefined
+    - тихи: undefined
+    - тихий: undefined
+    - то: undefined
+    - ты: undefined
+    - учится: undefined
+    - хочет: undefined
+    - человек: undefined
+    - что: undefined
+    - я: undefined
+  English:
+    - a: undefined
+    - afraid: undefined
+    - age: undefined
+    - and: undefined
+    - anything: undefined
+    - are: undefined
+    - bad: undefined
+    - be: undefined
+    - brave: undefined
+    - but: undefined
+    - children: undefined
+    - do: undefined
+    - foolish: undefined
+    - for: undefined
+    - friend: undefined
+    - good: undefined
+    - he: undefined
+    - he/she/it: undefined
+    - hear: undefined
+    - help: undefined
+    - hurt: undefined
+    - i: undefined
+    - if: undefined
+    - important: undefined
+    - in: undefined
+    - is: undefined
+    - knows: undefined
+    - lazy: undefined
+    - learn: undefined
+    - much: undefined
+    - needed: undefined
+    - not: undefined
+    - people: undefined
+    - person: undefined
+    - quiet: undefined
+    - says: undefined
+    - she: undefined
+    - silent: undefined
+    - sincere: undefined
+    - smart: undefined
+    - sometimes: undefined
+    - speak: undefined
+    - spirit: undefined
+    - sports: undefined
+    - stays: undefined
+    - strong: undefined
+    - stupid: undefined
+    - the: undefined
+    - their: undefined
+    - them: undefined
+    - they: undefined
+    - things: undefined
+    - think: undefined
+    - to: undefined
+    - truth: undefined
+    - valuable: undefined
+    - want: undefined
+    - we: undefined
+    - weak: undefined
+    - were: undefined
+    - what: undefined
+    - when: undefined
+    - wise: undefined
+    - wiser: undefined
+    - words: undefined
+    - work: undefined
+    - would: undefined
+    - you: undefined

@@ -1,0 +1,185 @@
+Skill:
+  Name: Colours
+  Id: 17
+
+New words:
+  - Word: crn
+    Translation: black
+  - Word: bijel
+    Translation: white
+  - Word: zelen
+    Translation: green
+  - Word: plav
+    Translation: blue
+  - Word: crven
+    Translation: red
+  - Word: žut
+    Translation: yellow
+  - Word: siv
+    Translation: grey
+  - Word: kestenjast
+    Translation: brown
+  - Word: narančast
+    Translation: orange
+  - Word: crven
+    Translation: red
+
+Phrases:
+  - Phrase: Moj pas je crn.
+    Translation: My dog is black.
+  - Phrase: Miš je bijela.
+    Translation: The mouse is white.
+  - Phrase: Trava je zelena.
+    Translation: The grass is green.
+  - Phrase: Nebo je plavo.
+    Translation: The sky is blue.
+  - Phrase: Cvijeće je crveno.
+    Translation: The flowers are red.
+  - Phrase: Sunce je žuto.
+    Translation: The sun is yellow.
+  - Phrase: Oblaci su sivi.
+    Translation: The clouds are grey.
+  - Phrase: On nosi kestenjasti kaput.
+    Translation: He wears a brown coat.
+  - Phrase: List je narančast.
+    Translation: The leaf is orange.
+  - Phrase: To je Crveno more.
+    Translation: This is the Red Sea.
+  - Phrase: Moje oči su plave.
+    Translation: My eyes are blue.
+  - Phrase: Ona ima zelenu travu.
+    Translation: She has green grass.
+  - Phrase: Ja volim crvenu boju.
+    Translation: I like the red color.
+  - Phrase: Njegov auto je crn.
+    Translation: His car is black.
+  - Phrase: Djevojka nosi bijelu haljinu.
+    Translation: The girl is wearing a white dress.
+  - Phrase: Je li to siva kosa?
+    Translation: Is that grey hair?
+  - Phrase: On ima narančastu torbu.
+    Translation: He has an orange bag.
+  - Phrase: Kestenjasti konj stoji u staji.
+    Translation: The brown horse stands in the stable.
+  - Phrase: Žuto sunce grije zemlju.
+    Translation: The yellow sun warms the earth.
+  - Phrase: Crvena ruža raste ovdje.
+    Translation: A red rose grows here.
+
+Mini-dictionary:
+  Croatian:
+    - auto: undefined
+    - bijel: undefined
+    - bijela: undefined
+    - bijelu: undefined
+    - boju: undefined
+    - crn: undefined
+    - crven: undefined
+    - crvena: undefined
+    - crveno: undefined
+    - crvenu: undefined
+    - cvijeće: undefined
+    - djevojka: undefined
+    - grije: undefined
+    - haljinu: undefined
+    - ima: undefined
+    - ja: undefined
+    - je: undefined
+    - kaput: undefined
+    - kestenjast: undefined
+    - kestenjasti: undefined
+    - konj: undefined
+    - kosa: undefined
+    - li: undefined
+    - list: undefined
+    - miš: undefined
+    - moj: undefined
+    - moje: undefined
+    - more: undefined
+    - narančast: undefined
+    - narančastu: undefined
+    - nebo: undefined
+    - njegov: undefined
+    - nosi: undefined
+    - oblaci: undefined
+    - on: undefined
+    - ona: undefined
+    - ovdje: undefined
+    - oči: undefined
+    - pas: undefined
+    - plav: undefined
+    - plave: undefined
+    - plavo: undefined
+    - raste: undefined
+    - ruža: undefined
+    - siv: undefined
+    - siva: undefined
+    - sivi: undefined
+    - staji: undefined
+    - stoji: undefined
+    - su: undefined
+    - sunce: undefined
+    - to: undefined
+    - torbu: undefined
+    - trava: undefined
+    - travu: undefined
+    - u: undefined
+    - volim: undefined
+    - zelen: undefined
+    - zelena: undefined
+    - zelenu: undefined
+    - zemlju: undefined
+    - žut: undefined
+    - žuto: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - are: undefined
+    - bag: undefined
+    - black: undefined
+    - blue: undefined
+    - brown: undefined
+    - car: undefined
+    - clouds: undefined
+    - coat: undefined
+    - color: undefined
+    - dog: undefined
+    - dress: undefined
+    - earth: undefined
+    - eyes: undefined
+    - flowers: undefined
+    - girl: undefined
+    - grass: undefined
+    - green: undefined
+    - grey: undefined
+    - grows: undefined
+    - hair: undefined
+    - has: undefined
+    - he: undefined
+    - here: undefined
+    - his: undefined
+    - horse: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - leaf: undefined
+    - like: undefined
+    - mouse: undefined
+    - my: undefined
+    - orange: undefined
+    - red: undefined
+    - rose: undefined
+    - sea: undefined
+    - she: undefined
+    - sky: undefined
+    - stable: undefined
+    - stands: undefined
+    - sun: undefined
+    - that: undefined
+    - the: undefined
+    - this: undefined
+    - warms: undefined
+    - wearing: undefined
+    - wears: undefined
+    - white: undefined
+    - yellow: undefined

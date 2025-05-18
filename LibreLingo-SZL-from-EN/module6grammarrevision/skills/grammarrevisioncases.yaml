@@ -1,0 +1,195 @@
+Skill:
+  Name: Grammar revision cases
+  Id: 19
+
+New words:
+  - Word: "rzōńzać (rzōńże)"
+    Translation: to cut
+  - Word: "darōnek"
+    Translation: gift
+  - Word: "świat"
+    Translation: universe
+  - Word: "źwierciadło"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Kości sam niy mo.
+    Translation: There is no bone here.
+  - Phrase: Dōm baba.
+    Translation: I give to the woman.
+  - Phrase: Ôna je we mieście.
+    Translation: She is in the city.
+  - Phrase: Godōmy ze kamratami.
+    Translation: I talk with friends.
+  - Phrase: Miana ôn niy mo.
+    Translation: He has no name.
+  - Phrase: Ty dusze niy mosz?!
+    Translation: You don't have a soul?!
+  - Phrase: Ôn widzi swoja baba.
+    Translation: He sees his wife.
+  - Phrase: Brata sam niy mo.
+    Translation: There is no brother here.
+  - Phrase: To idzie rzōńzać nōżym.
+    Translation: This can be cut with a knife.
+  - Phrase: Ôna z chopym godo.
+    Translation: She talks with her husband.
+  - Phrase: Ôna godo ô bratach.
+    Translation: She talks about brothers.
+  - Phrase: Ôna dowo darōnek bratōm.
+    Translation: She gives a gift to the brothers.
+  - Phrase: Na pōlu moc robia.
+    Translation: I work a lot in the field.
+  - Phrase: Je moc słōńc we świecie.
+    Translation: There are many suns in the universe.
+  - Phrase: I tyż je moc gwiazd.
+    Translation: And there are also many stars.
+  - Phrase: Ôn lubi godać ze swojōm babōm.
+    Translation: He likes to talk with his wife.
+  - Phrase: Już niy mo bananōw we dōmu.
+    Translation: There are no more bananas in the house.
+  - Phrase: We ôczach widza dusza twoja.
+    Translation: In the eyes I see your soul.
+  - Phrase: Ôczy som źwierciadłym dusze.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Chopōw sam niy widza.
+    Translation: I do not see men here.
+  - Phrase: We miastach ôbaczysz moc ludzi.
+    Translation: In the cities you will see many people.
+  - Phrase: Dobrej nocy!
+    Translation: Good night!
+
+Mini-dictionary:
+  Silesian:
+    - baba: undefined
+    - babōm: undefined
+    - bananōw: undefined
+    - brata: undefined
+    - bratach: undefined
+    - bratōm: undefined
+    - chopym: undefined
+    - chopōw: undefined
+    - darōnek: undefined
+    - dobrej: undefined
+    - dowo: undefined
+    - dusza: undefined
+    - dusze: undefined
+    - dōm: undefined
+    - dōmu: undefined
+    - godać: undefined
+    - godo: undefined
+    - godōmy: undefined
+    - gwiazd: undefined
+    - i: undefined
+    - idzie: undefined
+    - je: undefined
+    - już: undefined
+    - kamratami: undefined
+    - kości: undefined
+    - lubi: undefined
+    - ludzi: undefined
+    - miana: undefined
+    - miastach: undefined
+    - mieście: undefined
+    - mo: undefined
+    - moc: undefined
+    - mosz: undefined
+    - na: undefined
+    - niy: undefined
+    - nocy: undefined
+    - nōżym: undefined
+    - pōlu: undefined
+    - robia: undefined
+    - rzōńzać: undefined
+    - rzōńże: undefined
+    - sam: undefined
+    - som: undefined
+    - swoja: undefined
+    - swojōm: undefined
+    - słōńc: undefined
+    - to: undefined
+    - twoja: undefined
+    - ty: undefined
+    - tyż: undefined
+    - we: undefined
+    - widza: undefined
+    - widzi: undefined
+    - z: undefined
+    - ze: undefined
+    - ô: undefined
+    - ôbaczysz: undefined
+    - ôczach: undefined
+    - ôczy: undefined
+    - ôn: undefined
+    - ôna: undefined
+    - świat: undefined
+    - świecie: undefined
+    - źwierciadło: undefined
+    - źwierciadłym: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - bananas: undefined
+    - be: undefined
+    - bone: undefined
+    - brother: undefined
+    - brothers: undefined
+    - can: undefined
+    - cities: undefined
+    - city: undefined
+    - cut: undefined
+    - do: undefined
+    - don't: undefined
+    - eyes: undefined
+    - field: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - his: undefined
+    - house: undefined
+    - husband: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - knife: undefined
+    - likes: undefined
+    - lot: undefined
+    - many: undefined
+    - men: undefined
+    - mirror: undefined
+    - more: undefined
+    - name: undefined
+    - night: undefined
+    - no: undefined
+    - not: undefined
+    - of: undefined
+    - people: undefined
+    - see: undefined
+    - sees: undefined
+    - she: undefined
+    - soul: undefined
+    - stars: undefined
+    - suns: undefined
+    - talk: undefined
+    - talks: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - universe: undefined
+    - wife: undefined
+    - will: undefined
+    - with: undefined
+    - woman: undefined
+    - work: undefined
+    - you: undefined
+    - your: undefined

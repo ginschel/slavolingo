@@ -1,0 +1,126 @@
+Skill:
+  Name: Numbers 100-1000
+  Id: 29
+
+New words:
+  - Word: sto
+    Translation: one hundred
+  - Word: dwieście
+    Translation: two hundred
+  - Word: trzysta
+    Translation: three hundred
+  - Word: czterysta
+    Translation: four hundred
+  - Word: piyńćset
+    Translation: five hundred
+  - Word: sześćset
+    Translation: six hundred
+  - Word: siedymset
+    Translation: seven hundred
+  - Word: ôziymset
+    Translation: eight hundred
+  - Word: dziewiyńćset
+    Translation: nine hundred
+  - Word: tysiōnc
+    Translation: thousand
+
+Phrases:
+  - Phrase: tysiōnc jedyn zegarkōw
+    Translation: one thousand one clocks
+  - Phrase: sto synkōw
+    Translation: one hundred boys
+  - Phrase: dwieście bab
+    Translation: two hundred women
+  - Phrase: trzysta pōl
+    Translation: three hundred fields
+  - Phrase: czterysta chopōw
+    Translation: four hundred men
+  - Phrase: piyńćset bab
+    Translation: five hundred women
+  - Phrase: sześćset kōtōw
+    Translation: six hundred cats
+  - Phrase: siedymset jedyn rajzrkōło
+    Translation: seven hundred one bicycles
+  - Phrase: ôziymset synkōw
+    Translation: eight hundred boys
+  - Phrase: dziewiyńćset rajzrkōł
+    Translation: nine hundred bicycles
+  - Phrase: tysiōnc ôziym rublōw
+    Translation: one thousand eight rubles
+  - Phrase: czterysta siedym dolarōw
+    Translation: four hundred seven dollars
+  - Phrase: dwieście trzi kōmputry
+    Translation: two hundred three computers
+  - Phrase: siedymset jedyn zegarkōw
+    Translation: seven hundred one clocks
+  - Phrase: trzysta sztyry rzeczy
+    Translation: three hundred four things
+  - Phrase: sto dwa słōńca
+    Translation: one hundred two suns
+  - Phrase: sześćset rajzrkōł
+    Translation: six hundred bicycles
+  - Phrase: ôziymset dolarōw
+    Translation: eight hundred dollars
+  - Phrase: dwa tysiōnce dziewiyńćset psōw
+    Translation: two thousand nine hundred dogs
+  - Phrase: czterysta kōtōw
+    Translation: four hundred cats
+
+Mini-dictionary:
+  Silesian:
+    - bab: undefined
+    - chopōw: undefined
+    - czterysta: undefined
+    - dolarōw: undefined
+    - dwa: undefined
+    - dwieście: undefined
+    - dziewiyńćset: undefined
+    - jedyn: undefined
+    - kōmputry: undefined
+    - kōtōw: undefined
+    - piyńćset: undefined
+    - psōw: undefined
+    - pōl: undefined
+    - rajzrkōł: undefined
+    - rajzrkōło: undefined
+    - rublōw: undefined
+    - rzeczy: undefined
+    - siedym: undefined
+    - siedymset: undefined
+    - sto: undefined
+    - synkōw: undefined
+    - sześćset: undefined
+    - sztyry: undefined
+    - słōńca: undefined
+    - trzi: undefined
+    - trzysta: undefined
+    - tysiōnc: undefined
+    - tysiōnce: undefined
+    - zegarkōw: undefined
+    - ôziym: undefined
+    - ôziymset: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - fields: undefined
+    - five: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - nine: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - suns: undefined
+    - things: undefined
+    - thousand: undefined
+    - three: undefined
+    - two: undefined
+    - women: undefined

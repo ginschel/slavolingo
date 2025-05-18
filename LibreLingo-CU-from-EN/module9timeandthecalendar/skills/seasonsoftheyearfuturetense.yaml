@@ -1,0 +1,200 @@
+Skill:
+  Name: Seasons of the year (future tense)
+  Id: 33
+
+New words:
+  - Word: лѣто
+    Translation: summer
+  - Word: ѥсєнь
+    Translation: autumn
+  - Word: зима
+    Translation: winter
+  - Word: вєсьна
+    Translation: spring
+  - Word: сєзонъ
+    Translation: season
+  - Word: бꙑти
+    Translation: to be
+  - Word: бꙋдѫ
+    Translation: I will be
+  - Word: бꙋдєши
+    Translation: you will be
+  - Word: бꙋдєтъ
+    Translation: he/she/it will be
+  - Word: бꙋдємъ
+    Translation: we will be
+  - Word: бꙋдєтє
+    Translation: you will be
+  - Word: бꙋдѫтъ
+    Translation: they will be
+
+Phrases:
+  - Phrase: Въ лѣтꙋ бꙋдєтъ тєпло.
+    Translation: In the summer it will be warm.
+  - Phrase: Въ ѥсєни бꙋдємъ видѣти падаѭщи листꙑ.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: Въ зимѣ бꙋдєтє играти съ снѣгомъ.
+    Translation: In the winter you will play with snow.
+  - Phrase: Вєсьна принесєтъ цвѣтꙑ.
+    Translation: Spring will bring flowers.
+  - Phrase: Сєзонъ бꙋдєтъ измѣнѧти сѧ чєтꙑри разꙑ.
+    Translation: The season will change four times.
+  - Phrase: Въ зимѣ бꙋдєтъ падати снѣгъ.
+    Translation: In the winter it will snow.
+  - Phrase: Вєсноѭ растꙋтъ цвѣтꙑ.
+    Translation: In spring, flowers grow.
+  - Phrase: Въ лѣтꙋ ѥстъ мьного слъньца.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: Въ ѥсєни бꙋдєши мьного тръпѣти чрѣзъ дъждь.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Възъдꙋхъ въ зимѣ бꙋдєтъ хладьнъ.
+    Translation: The air in winter will be cold.
+  - Phrase: Лѣто ѥстъ сєзономъ отьпочинька при ѥзєрꙋ.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Ѥсєнь имаѥтъ мьного кологовъ.
+    Translation: Autumn has many colors.
+  - Phrase: Зима нє ѥстъ добра за спортъовъ.
+    Translation: Winter is not good for sports.
+  - Phrase: Вєсьна ѥстъ нꙋдьна.
+    Translation: Spring is boring.
+  - Phrase: Сєзонꙑ сѧ мѣнѧѭтъ чєтꙑри разꙑ въ рокꙋ.
+    Translation: The seasons change four times a year.
+  - Phrase: Скоро коньчаѥтъ сѧ лѣто.
+    Translation: Summer will soon end.
+  - Phrase: Въ ѥсєни тълико падаѥтъ дъждь.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Зима имаѥтъ мьного снѣга.
+    Translation: Winter has a lot of snow.
+  - Phrase: Онъи бꙋдѫтъ видѣти зєлєнъи краиобразъ.
+    Translation: They will see a green landscape.
+  - Phrase: Слъньцє бꙋдєтъ свѣтити силььно въ лѣтꙋ.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Church Slavonic:
+    - бꙋдємъ: undefined
+    - бꙋдєтъ: undefined
+    - бꙋдєтє: undefined
+    - бꙋдєши: undefined
+    - бꙋдѫ: undefined
+    - бꙋдѫтъ: undefined
+    - бꙑти: undefined
+    - видѣти: undefined
+    - въ: undefined
+    - възъдꙋхъ: undefined
+    - вєсноѭ: undefined
+    - вєсьна: undefined
+    - добра: undefined
+    - дъждь: undefined
+    - за: undefined
+    - зима: undefined
+    - зимѣ: undefined
+    - зєлєнъи: undefined
+    - играти: undefined
+    - измѣнѧти: undefined
+    - имаѥтъ: undefined
+    - кологовъ: undefined
+    - коньчаѥтъ: undefined
+    - краиобразъ: undefined
+    - листꙑ: undefined
+    - лѣто: undefined
+    - лѣтꙋ: undefined
+    - мьного: undefined
+    - мѣнѧѭтъ: undefined
+    - нє: undefined
+    - нꙋдьна: undefined
+    - онъи: undefined
+    - отьпочинька: undefined
+    - падати: undefined
+    - падаѥтъ: undefined
+    - падаѭщи: undefined
+    - при: undefined
+    - принесєтъ: undefined
+    - разꙑ: undefined
+    - растꙋтъ: undefined
+    - рокꙋ: undefined
+    - свѣтити: undefined
+    - силььно: undefined
+    - скоро: undefined
+    - слъньца: undefined
+    - слъньцє: undefined
+    - снѣга: undefined
+    - снѣгомъ: undefined
+    - снѣгъ: undefined
+    - спортъовъ: undefined
+    - съ: undefined
+    - сєзономъ: undefined
+    - сєзонъ: undefined
+    - сєзонꙑ: undefined
+    - сѧ: undefined
+    - тръпѣти: undefined
+    - тълико: undefined
+    - тєпло: undefined
+    - хладьнъ: undefined
+    - цвѣтꙑ: undefined
+    - чрѣзъ: undefined
+    - чєтꙑри: undefined
+    - ѥзєрꙋ: undefined
+    - ѥстъ: undefined
+    - ѥсєни: undefined
+    - ѥсєнь: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - autumn: undefined
+    - be: undefined
+    - because: undefined
+    - boring: undefined
+    - bring: undefined
+    - by: undefined
+    - change: undefined
+    - cold: undefined
+    - colors: undefined
+    - end: undefined
+    - falling: undefined
+    - flowers: undefined
+    - for: undefined
+    - four: undefined
+    - good: undefined
+    - green: undefined
+    - grow: undefined
+    - has: undefined
+    - he/she/it: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lake: undefined
+    - landscape: undefined
+    - leaves: undefined
+    - lot: undefined
+    - many: undefined
+    - not: undefined
+    - of: undefined
+    - play: undefined
+    - rain: undefined
+    - rest: undefined
+    - season: undefined
+    - seasons: undefined
+    - see: undefined
+    - shine: undefined
+    - snow: undefined
+    - soon: undefined
+    - sports: undefined
+    - spring: undefined
+    - strongly: undefined
+    - suffer: undefined
+    - summer: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - they: undefined
+    - times: undefined
+    - to: undefined
+    - warm: undefined
+    - we: undefined
+    - will: undefined
+    - winter: undefined
+    - with: undefined
+    - year: undefined
+    - you: undefined

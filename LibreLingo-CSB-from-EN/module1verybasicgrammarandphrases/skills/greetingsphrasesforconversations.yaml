@@ -1,0 +1,252 @@
+Skill:
+  Name: Greetings & Phrases for conversations
+  Id: 2
+
+New words:
+  - Word: pòzdrowienié
+    Translation: greeting
+  - Word: zdrowi
+    Translation: healthy/hello
+  - Word: gôdka
+    Translation: conversation
+  - Word: zôranô
+    Translation: morning
+  - Word: wieczór
+    Translation: evening
+  - Word: dzéń
+    Translation: day
+  - Word: noc
+    Translation: night
+  - Word: chwała
+    Translation: thanks
+  - Word: przeproszenié
+    Translation: pardon
+  - Word: wëbaczë
+    Translation: excuse me
+  - Word: dobri
+    Translation: good
+  - Word: lëpszô
+    Translation: better
+  - Word: mòżebné
+    Translation: possible
+  - Word: szkòda
+    Translation: pity
+  - Word: tak
+    Translation: so
+  - Word: co
+    Translation: what
+  - Word: nie
+    Translation: no
+  - Word: jo
+    Translation: yes
+  - Word: mòże
+    Translation: maybe/can
+  - Word: dôj
+    Translation: let's go
+
+Phrases:
+  - Phrase: Dobré zôranô!
+    Translation: Good morning!
+  - Phrase: Dobri wieczór!
+    Translation: Good evening!
+  - Phrase: Dobri dzéń!
+    Translation: Good day!
+  - Phrase: Dobru noc!
+    Translation: Good night!
+  - Phrase: Jak sã môsz?
+    Translation: How are you?
+  - Phrase: Jem dobri, dzãka!
+    Translation: I am well, thank you!
+  - Phrase: Òdżãknienié!
+    Translation: And you?
+  - Phrase: Dzãka wam wiele.
+    Translation: Thank you very much.
+  - Phrase: Przeproszenié, nie rozmiem.
+    Translation: Excuse me, I don't understand.
+  - Phrase: Pòzdrowienié!
+    Translation: Greetings!
+  - Phrase: Zdrowi!
+    Translation: Hello!
+  - Phrase: Dobri dzéń, jak sã môsz?
+    Translation: Good day, how are you?
+  - Phrase: Jes të zdrowi?
+    Translation: Are you healthy?
+  - Phrase: Witajce!
+    Translation: Welcome!
+  - Phrase: Na zdrowié!
+    Translation: To your health!
+  - Phrase: Pòzdrowi twòja sostrã.
+    Translation: Greet your sister.
+  - Phrase: Jak sã nazëwôsz?
+    Translation: What is your name?
+  - Phrase: Ja sã nazëwôm Bartek.
+    Translation: My name is Bartek.
+  - Phrase: Dzãkùjã za gôdkã.
+    Translation: Thank you for the conversation.
+  - Phrase: Tak je.
+    Translation: That is so.
+  - Phrase: Nie tak.
+    Translation: Not so.
+  - Phrase: Mòże bëc.
+    Translation: Maybe.
+  - Phrase: Nie je mòżebné.
+    Translation: Not possible.
+  - Phrase: Szkòda!
+    Translation: What a pity!
+  - Phrase: Dobrze!
+    Translation: Good!
+  - Phrase: Nie dobrze.
+    Translation: Not good.
+  - Phrase: To je lëpszô.
+    Translation: This is better.
+  - Phrase: To nie je lëpszô.
+    Translation: This is not better.
+  - Phrase: Jo, mòże.
+    Translation: Yes, it is possible.
+  - Phrase: Nie, nie je mòżebné.
+    Translation: No, it is not possible.
+  - Phrase: Je to mòżebné?
+    Translation: Is this possible?
+  - Phrase: Co to znôczô?
+    Translation: What does this mean?
+  - Phrase: Téż ja.
+    Translation: Me too.
+  - Phrase: Z Bògã!
+    Translation: Go with God!
+  - Phrase: Nie wiém.
+    Translation: I don't know.
+  - Phrase: Mòże.
+    Translation: Perhaps.
+  - Phrase: Pòwtórzë. Nie rozmiôł.
+    Translation: Repeat. I didn't understand.
+  - Phrase: Jes të gotowi?
+    Translation: Are you ready?
+  - Phrase: Dôj!
+    Translation: Let's go!
+
+Mini-dictionary:
+  Kashubian:
+    - bartek: undefined
+    - bëc: undefined
+    - bògã: undefined
+    - chwała: undefined
+    - co: undefined
+    - dobri: undefined
+    - dobru: undefined
+    - dobrze: undefined
+    - dobré: undefined
+    - dzãka: undefined
+    - dzãkùjã: undefined
+    - dzéń: undefined
+    - dôj: undefined
+    - gotowi: undefined
+    - gôdka: undefined
+    - gôdkã: undefined
+    - ja: undefined
+    - jak: undefined
+    - je: undefined
+    - jem: undefined
+    - jes: undefined
+    - jo: undefined
+    - lëpszô: undefined
+    - mòże: undefined
+    - mòżebné: undefined
+    - môsz: undefined
+    - na: undefined
+    - nazëwôm: undefined
+    - nazëwôsz: undefined
+    - nie: undefined
+    - noc: undefined
+    - przeproszenié: undefined
+    - pòwtórzë: undefined
+    - pòzdrowi: undefined
+    - pòzdrowienié: undefined
+    - rozmiem: undefined
+    - rozmiôł: undefined
+    - sostrã: undefined
+    - szkòda: undefined
+    - sã: undefined
+    - tak: undefined
+    - to: undefined
+    - twòja: undefined
+    - téż: undefined
+    - të: undefined
+    - wam: undefined
+    - wieczór: undefined
+    - wiele: undefined
+    - witajce: undefined
+    - wiém: undefined
+    - wëbaczë: undefined
+    - z: undefined
+    - za: undefined
+    - zdrowi: undefined
+    - zdrowié: undefined
+    - znôczô: undefined
+    - zôranô: undefined
+    - òdżãknienié: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - bartek: undefined
+    - better: undefined
+    - conversation: undefined
+    - day: undefined
+    - didn't: undefined
+    - does: undefined
+    - don't: undefined
+    - evening: undefined
+    - excuse: undefined
+    - for: undefined
+    - go: undefined
+    - god: undefined
+    - good: undefined
+    - greet: undefined
+    - greeting: undefined
+    - greetings: undefined
+    - health: undefined
+    - healthy: undefined
+    - healthy/hello: undefined
+    - hello: undefined
+    - how: undefined
+    - i: undefined
+    - is: undefined
+    - it: undefined
+    - know: undefined
+    - let's: undefined
+    - maybe: undefined
+    - maybe/can: undefined
+    - me: undefined
+    - mean: undefined
+    - morning: undefined
+    - much: undefined
+    - my: undefined
+    - name: undefined
+    - night: undefined
+    - no: undefined
+    - not: undefined
+    - pardon: undefined
+    - perhaps: undefined
+    - pity: undefined
+    - possible: undefined
+    - ready: undefined
+    - repeat: undefined
+    - sister: undefined
+    - so: undefined
+    - thank: undefined
+    - thanks: undefined
+    - that: undefined
+    - the: undefined
+    - this: undefined
+    - to: undefined
+    - too: undefined
+    - understand: undefined
+    - very: undefined
+    - welcome: undefined
+    - well: undefined
+    - what: undefined
+    - with: undefined
+    - yes: undefined
+    - you: undefined
+    - your: undefined

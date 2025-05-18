@@ -1,0 +1,199 @@
+Skill:
+  Name: Rooms/furniture
+  Id: 12
+
+New words:
+  - Word: rum
+    Translation: room
+  - Word: blido
+    Translation: table
+  - Word: stoł
+    Translation: chair
+  - Word: poduška
+    Translation: pillow
+  - Word: łóżko
+    Translation: bed
+  - Word: wokno
+    Translation: window
+  - Word: wrota
+    Translation: doors
+  - Word: šafa
+    Translation: wardrobe
+  - Word: skrinja
+    Translation: chest
+  - Word: połica
+    Translation: shelf
+  - Word: źaržaś (źaržy)
+    Translation: to hold
+  - Word: wisaś (wisi)
+    Translation: to hang
+  - Word: stěna
+    Translation: wall
+  - Word: lampa
+    Translation: lamp
+  - Word: daś
+    Translation: to give
+
+Phrases:
+  - Phrase: Rum jo śopły a śichy.
+    Translation: The room is warm and quiet.
+  - Phrase: Blido stoja we srjejźi ruma.
+    Translation: The table stands in the middle of the room.
+  - Phrase: Stoł jo blisko blida.
+    Translation: The chair is near the table.
+  - Phrase: Łóżko jo měke.
+    Translation: The bed is soft.
+  - Phrase: Wokno jo wótwórjone.
+    Translation: The window is open.
+  - Phrase: Wrota su zawrěśe.
+    Translation: The doors are closed.
+  - Phrase: Šafa ma wjele woblaca.
+    Translation: The wardrobe has many clothes.
+  - Phrase: Skrinja jo pód łóżkom.
+    Translation: The chest is under the bed.
+  - Phrase: Połica źaržy knigły.
+    Translation: The shelf holds books.
+  - Phrase: Lampa swěśi nad blidom.
+    Translation: The lamp shines above the table.
+  - Phrase: Rum ma dwě wokna.
+    Translation: The room has two windows.
+  - Phrase: Na blidźe ležy knigła.
+    Translation: A book is lying on the table.
+  - Phrase: Stoł jo stary, ale komfortny.
+    Translation: The chair is old, but comfortable.
+  - Phrase: Łóżko jo nowe.
+    Translation: The bed is new.
+  - Phrase: Wrota wjedu do kuchnje.
+    Translation: The doors lead to the kitchen.
+  - Phrase: Šafa jo pełna.
+    Translation: The wardrobe is full.
+  - Phrase: Skrinja jo z boka.
+    Translation: The chest is made of wood.
+  - Phrase: Połica wisi na stěnje.
+    Translation: The shelf hangs on the wall.
+  - Phrase: Lampa dajo swětło.
+    Translation: The lamp gives light.
+  - Phrase: We rumje jo měrno.
+    Translation: It is quiet in the room.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: undefined
+    - ale: undefined
+    - blida: undefined
+    - blido: undefined
+    - blidom: undefined
+    - blidźe: undefined
+    - blisko: undefined
+    - boka: undefined
+    - dajo: undefined
+    - daś: undefined
+    - do: undefined
+    - dwě: undefined
+    - jo: undefined
+    - knigła: undefined
+    - knigły: undefined
+    - komfortny: undefined
+    - kuchnje: undefined
+    - lampa: undefined
+    - ležy: undefined
+    - ma: undefined
+    - měke: undefined
+    - měrno: undefined
+    - na: undefined
+    - nad: undefined
+    - nowe: undefined
+    - pełna: undefined
+    - poduška: undefined
+    - połica: undefined
+    - pód: undefined
+    - rum: undefined
+    - ruma: undefined
+    - rumje: undefined
+    - skrinja: undefined
+    - srjejźi: undefined
+    - stary: undefined
+    - stoja: undefined
+    - stoł: undefined
+    - stěna: undefined
+    - stěnje: undefined
+    - su: undefined
+    - swětło: undefined
+    - swěśi: undefined
+    - we: undefined
+    - wisaś: undefined
+    - wisi: undefined
+    - wjedu: undefined
+    - wjele: undefined
+    - woblaca: undefined
+    - wokna: undefined
+    - wokno: undefined
+    - wrota: undefined
+    - wótwórjone: undefined
+    - z: undefined
+    - zawrěśe: undefined
+    - łóżko: undefined
+    - łóżkom: undefined
+    - śichy: undefined
+    - śopły: undefined
+    - šafa: undefined
+    - źaržaś: undefined
+    - źaržy: undefined
+  English:
+    - a: undefined
+    - above: undefined
+    - and: undefined
+    - are: undefined
+    - bed: undefined
+    - book: undefined
+    - books: undefined
+    - but: undefined
+    - chair: undefined
+    - chest: undefined
+    - closed: undefined
+    - clothes: undefined
+    - comfortable: undefined
+    - doors: undefined
+    - full: undefined
+    - give: undefined
+    - gives: undefined
+    - hang: undefined
+    - hangs: undefined
+    - has: undefined
+    - hold: undefined
+    - holds: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - kitchen: undefined
+    - lamp: undefined
+    - lead: undefined
+    - light: undefined
+    - lying: undefined
+    - made: undefined
+    - many: undefined
+    - middle: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - pillow: undefined
+    - quiet: undefined
+    - room: undefined
+    - shelf: undefined
+    - shines: undefined
+    - soft: undefined
+    - stands: undefined
+    - table: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - under: undefined
+    - wall: undefined
+    - wardrobe: undefined
+    - warm: undefined
+    - window: undefined
+    - windows: undefined
+    - wood: undefined

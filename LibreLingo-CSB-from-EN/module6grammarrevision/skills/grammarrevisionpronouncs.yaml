@@ -1,0 +1,200 @@
+Skill:
+  Name: Grammar revision pronouncs
+  Id: 20
+
+New words:
+  - Word: "znac"
+    Translation: to know
+  - Word: " wiedzëc (wie)"
+    Translation: to know
+  - Word: " sen"
+    Translation: dream
+  - Word: " wieszcz"
+    Translation: thing
+
+Phrases:
+  - Phrase: Tiégò nie znam.
+    Translation: I don't know that.
+  - Phrase: Ò tim ju òd dłudżi czasë wie.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Chtôgò të widzyjiesz?.
+    Translation: Who do you see?.
+  - Phrase: Tim chtërni leżą spac spòkòjnégò sënã.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: Ò ti wieszczë ja nic nie znam.
+    Translation: I know nothing about that thing.
+  - Phrase: Gôdómë z tobą.
+    Translation: I am talking with you.
+  - Phrase: Ja widzyjã was.
+    Translation: I see you.
+  - Phrase: On miłuje bëc sam ze sobã.
+    Translation: He likes to be alone with himself.
+  - Phrase: Dôj mie wòdã.
+    Translation: Give me water.
+  - Phrase: Z nama wszëtkã wszëtkò wiesôłô.
+    Translation: With us everything is always cheerful.
+  - Phrase: Mnie nie widzyjiesz.
+    Translation: You don't see me.
+  - Phrase: Chtômu dôsz dar?
+    Translation: Who do you give a gift to?
+  - Phrase: Ò mnie gôdôsz?
+    Translation: Are you talking about me?
+  - Phrase: Nie, ja nie gôdóm ò tobie.
+    Translation: No, I don't talt about you.
+  - Phrase: Ò czim të gôdôsz?
+    Translation: What are you talking about?
+  - Phrase: Ti białczi są snôżé.
+    Translation: These women are beautiful.
+  - Phrase: Tëch przëjacelów nie mësz.
+    Translation: You do not have those friends.
+  - Phrase: On dôwô sobie spòkój.
+    Translation: He stops troubling others.
+  - Phrase: Czégò tu nie je w dodomù?
+    Translation: What isn't at this house here?
+  - Phrase: Temù psowi të dôwôsz kòsce.
+    Translation: You give to this dog bones.
+  - Phrase: To je waża kawa czë jegò?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Kashubian:
+    - białczi: undefined
+    - bëc: undefined
+    - chtërni: undefined
+    - chtôgò: undefined
+    - chtômu: undefined
+    - czasë: undefined
+    - czim: undefined
+    - czégò: undefined
+    - czë: undefined
+    - dar: undefined
+    - dodomù: undefined
+    - dôj: undefined
+    - dôsz: undefined
+    - dôwô: undefined
+    - dôwôsz: undefined
+    - dłudżi: undefined
+    - gôdóm: undefined
+    - gôdómë: undefined
+    - gôdôsz: undefined
+    - ja: undefined
+    - je: undefined
+    - jegò: undefined
+    - ju: undefined
+    - kawa: undefined
+    - kòsce: undefined
+    - leżą: undefined
+    - mie: undefined
+    - miłuje: undefined
+    - mnie: undefined
+    - mësz: undefined
+    - nama: undefined
+    - nic: undefined
+    - nie: undefined
+    - on: undefined
+    - przëjacelów: undefined
+    - psowi: undefined
+    - sam: undefined
+    - sen: undefined
+    - snôżé: undefined
+    - sobie: undefined
+    - sobã: undefined
+    - spac: undefined
+    - spòkòjnégò: undefined
+    - spòkój: undefined
+    - sënã: undefined
+    - są: undefined
+    - temù: undefined
+    - ti: undefined
+    - tim: undefined
+    - tiégò: undefined
+    - to: undefined
+    - tobie: undefined
+    - tobą: undefined
+    - tu: undefined
+    - të: undefined
+    - tëch: undefined
+    - w: undefined
+    - was: undefined
+    - waża: undefined
+    - widzyjiesz: undefined
+    - widzyjã: undefined
+    - wie: undefined
+    - wiedzëc: undefined
+    - wieszcz: undefined
+    - wieszczë: undefined
+    - wiesôłô: undefined
+    - wszëtkã: undefined
+    - wszëtkò: undefined
+    - wòdã: undefined
+    - z: undefined
+    - ze: undefined
+    - znac: undefined
+    - znam: undefined
+    - ò: undefined
+    - òd: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - alone: undefined
+    - always: undefined
+    - am: undefined
+    - are: undefined
+    - at: undefined
+    - be: undefined
+    - beautiful: undefined
+    - bones: undefined
+    - cheerful: undefined
+    - coffee: undefined
+    - do: undefined
+    - dog: undefined
+    - don't: undefined
+    - dream: undefined
+    - everything: undefined
+    - for: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - going: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - himself: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - isn't: undefined
+    - it: undefined
+    - know: undefined
+    - known: undefined
+    - likes: undefined
+    - long: undefined
+    - me: undefined
+    - no: undefined
+    - not: undefined
+    - nothing: undefined
+    - or: undefined
+    - others: undefined
+    - peaceful: undefined
+    - see: undefined
+    - sleep: undefined
+    - stops: undefined
+    - talking: undefined
+    - talt: undefined
+    - that: undefined
+    - these: undefined
+    - thing: undefined
+    - this: undefined
+    - those: undefined
+    - time: undefined
+    - to: undefined
+    - troubling: undefined
+    - us: undefined
+    - water: undefined
+    - what: undefined
+    - who: undefined
+    - with: undefined
+    - women: undefined
+    - you: undefined
+    - your: undefined

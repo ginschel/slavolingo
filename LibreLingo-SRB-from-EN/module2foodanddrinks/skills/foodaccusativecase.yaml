@@ -1,0 +1,201 @@
+Skill:
+  Name: Food (Accusative case)
+  Id: 6
+
+New words:
+  - Word: хлеб
+    Translation: bread
+  - Word: готовити
+    Translation: to prepare
+  - Word: нести
+    Translation: to carry
+  - Word: јести (је)
+    Translation: to eat
+  - Word: масло
+    Translation: butter
+  - Word: млеко
+    Translation: milk
+  - Word: месо
+    Translation: meat
+  - Word: јајце
+    Translation: egg
+  - Word: завтрака
+    Translation: breakfast
+  - Word: обед
+    Translation: lunch
+  - Word: купити
+    Translation: to buy
+  - Word: вечерја
+    Translation: dinner
+  - Word: бљудо
+    Translation: dish
+  - Word: книга
+    Translation: book
+  - Word: солодкy
+    Translation: sweet
+  - Word: једа
+    Translation: food
+
+Phrases:
+  - Phrase: Ја јем хлеб.
+    Translation: I am eating bread.
+  - Phrase: Она је месо.
+    Translation: She is eating meat.
+  - Phrase: Он љуби млеко.
+    Translation: He likes milk.
+  - Phrase: Ја видим Влада с једоју
+    Translation: I see Vlad with food
+  - Phrase: Ти јеш јајце?
+    Translation: Are you eating an egg?
+  - Phrase: Ми јемо вечерју.
+    Translation: We are eating dinner.
+  - Phrase: Они имају завтраку.
+    Translation: They are having breakfast.
+  - Phrase: Ја купим масло.
+    Translation: I will buy butter.
+  - Phrase: Он готови обед.
+    Translation: He is preparing lunch.
+  - Phrase: Она несе бљудо.
+    Translation: She is carrying a dish.
+  - Phrase: Они купују масло и хлеб.
+    Translation: They are buying butter and bread.
+  - Phrase: Он пије млеко и је месо.
+    Translation: He is drinking milk and eating meat.
+  - Phrase: Читаш ти книгу и јеш завтраку?
+    Translation: Are you reading a book and eating breakfast?
+  - Phrase: Ја видим обед на столу.
+    Translation: I see lunch on the table.
+  - Phrase: Ти имаш масло?
+    Translation: Do you have butter?
+  - Phrase: Ми готовимо вечерју кажди дањ.
+    Translation: We prepare dinner every day.
+  - Phrase: Ја знам, что ти љубиш јајца.
+    Translation: I know that you like eggs.
+  - Phrase: Он је солодку једу.
+    Translation: He eats sweet food.
+  - Phrase: Она љуби готовити вечерју.
+    Translation: She likes to prepare dinner.
+  - Phrase: Ми видимо твоју пицу на столу.
+    Translation: We see your pizza on the table.
+  - Phrase: Они знају, что ја всегда јем хлеб с маслом.
+    Translation: They know that I always eat bread with butter.
+
+Mini-dictionary:
+  Serbian:
+    - бљудо: undefined
+    - вечерја: undefined
+    - вечерју: undefined
+    - видим: undefined
+    - видимо: undefined
+    - влада: undefined
+    - всегда: undefined
+    - готови: undefined
+    - готовимо: undefined
+    - готовити: undefined
+    - дањ: undefined
+    - завтрака: undefined
+    - завтраку: undefined
+    - знам: undefined
+    - знају: undefined
+    - и: undefined
+    - имаш: undefined
+    - имају: undefined
+    - кажди: undefined
+    - книга: undefined
+    - книгу: undefined
+    - купим: undefined
+    - купити: undefined
+    - купују: undefined
+    - масло: undefined
+    - маслом: undefined
+    - месо: undefined
+    - ми: undefined
+    - млеко: undefined
+    - на: undefined
+    - несе: undefined
+    - нести: undefined
+    - обед: undefined
+    - он: undefined
+    - она: undefined
+    - они: undefined
+    - пицу: undefined
+    - пије: undefined
+    - с: undefined
+    - солодкy: undefined
+    - солодку: undefined
+    - столу: undefined
+    - твоју: undefined
+    - ти: undefined
+    - хлеб: undefined
+    - читаш: undefined
+    - что: undefined
+    - ја: undefined
+    - јајца: undefined
+    - јајце: undefined
+    - је: undefined
+    - једа: undefined
+    - једоју: undefined
+    - једу: undefined
+    - јем: undefined
+    - јемо: undefined
+    - јести: undefined
+    - јеш: undefined
+    - љуби: undefined
+    - љубиш: undefined
+  English:
+    - a: undefined
+    - always: undefined
+    - am: undefined
+    - an: undefined
+    - and: undefined
+    - are: undefined
+    - book: undefined
+    - bread: undefined
+    - breakfast: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - carry: undefined
+    - carrying: undefined
+    - day: undefined
+    - dinner: undefined
+    - dish: undefined
+    - do: undefined
+    - drinking: undefined
+    - eat: undefined
+    - eating: undefined
+    - eats: undefined
+    - egg: undefined
+    - eggs: undefined
+    - every: undefined
+    - food: undefined
+    - have: undefined
+    - having: undefined
+    - he: undefined
+    - i: undefined
+    - is: undefined
+    - know: undefined
+    - like: undefined
+    - likes: undefined
+    - lunch: undefined
+    - meat: undefined
+    - milk: undefined
+    - on: undefined
+    - pizza: undefined
+    - prepare: undefined
+    - preparing: undefined
+    - reading: undefined
+    - see: undefined
+    - she: undefined
+    - sweet: undefined
+    - table: undefined
+    - that: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - vlad: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined
+    - you: undefined
+    - your: undefined

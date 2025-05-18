@@ -1,0 +1,209 @@
+Skill:
+  Name: Stuff in the kitchen
+  Id: 13
+
+New words:
+  - Word: ножь
+    Translation: knife
+  - Word: вилица
+    Translation: fork
+  - Word: ложька
+    Translation: spoon
+  - Word: талирька
+    Translation: plate
+  - Word: чаша
+    Translation: cup
+  - Word: соли
+    Translation: salt
+  - Word: пєпрьць
+    Translation: pepper
+  - Word: цꙋкръ
+    Translation: sugar
+  - Word: сковъродъка
+    Translation: frying pan
+  - Word: горѧшти
+    Translation: hot
+  - Word: гръньць
+    Translation: pot
+  - Word: кꙋхъниꙗ
+    Translation: kitchen
+  - Word: варити
+    Translation: to cook
+  - Word: палачинька
+    Translation: pancake
+  - Word: палмєнь
+    Translation: dumpling
+  - Word: миска
+    Translation: bowl
+
+Phrases:
+  - Phrase: Ножь лєжитъ на столѣ.
+    Translation: The knife is lying on the table.
+  - Phrase: Вилица ѥстъ срєбръна.
+    Translation: The fork is silver.
+  - Phrase: Ложька ѥстъ въ соли.
+    Translation: The spoon is in the salt.
+  - Phrase: Талирька ѥстъ пълъна ѥдꙑ.
+    Translation: The plate is full of food.
+  - Phrase: Чашька ѥстъ наполънѥна водоѭ.
+    Translation: The cup is filled with water.
+  - Phrase: Дамъ до чаꙗ цꙋкръ.
+    Translation: I will add sugar to the tea.
+  - Phrase: Мьного цꙋкра ѥстъ въ мискѣ
+    Translation: There is a lot of sugar in the bowl.
+  - Phrase: На сковъродъцѣ варитъ моꙗ палачинька.
+    Translation: My pancake is cooking on the frying pan.
+  - Phrase: Гръньць ѥстъ горѧшти.
+    Translation: The pot is hot
+  - Phrase: Гръньць ѥстъ на пламєни.
+    Translation: The pot is on the flame.
+  - Phrase: Кꙋхъниꙗ ѥстъ чиста.
+    Translation: The kitchen is clean.
+  - Phrase: Онъ ѥстъ съ вилѥцєѭ.
+    Translation: He eats with a fork.
+  - Phrase: Она пиѥтъ изъ чашькꙑ.
+    Translation: She drinks from a cup.
+  - Phrase: Мꙑ готовимъ въ гръньци.
+    Translation: We cook in a pot.
+  - Phrase: На сковъродъцѣ ѥстъ мѧсо.
+    Translation: There is meat in the frying pan.
+  - Phrase: Ножь ѥстъ остръи.
+    Translation: The knife is sharp.
+  - Phrase: Вилѥцє и ножє сѫтъ на столѣ.
+    Translation: Forks and knives are on the table.
+  - Phrase: Ложька ѥстъ пълъна пєпрьца.
+    Translation: The spoon is full of pepper.
+  - Phrase: Талирька ложитъ на подлогѣ.
+    Translation: The plate is lying on the floor.
+  - Phrase: Консєрва ѥстъ пꙋста.
+    Translation: The can is empty.
+  - Phrase: Кꙋхъниꙗ имаѥтъ добръи запахъ въ вєчєрꙋ.
+    Translation: The kitchen has a good smell in the evening.
+
+Mini-dictionary:
+  Church Slavonic:
+    - варити: undefined
+    - варитъ: undefined
+    - вилица: undefined
+    - вилѥцє: undefined
+    - вилѥцєѭ: undefined
+    - водоѭ: undefined
+    - въ: undefined
+    - вєчєрꙋ: undefined
+    - горѧшти: undefined
+    - готовимъ: undefined
+    - гръньци: undefined
+    - гръньць: undefined
+    - дамъ: undefined
+    - до: undefined
+    - добръи: undefined
+    - запахъ: undefined
+    - и: undefined
+    - изъ: undefined
+    - имаѥтъ: undefined
+    - консєрва: undefined
+    - кꙋхъниꙗ: undefined
+    - ложитъ: undefined
+    - ложька: undefined
+    - лєжитъ: undefined
+    - миска: undefined
+    - мискѣ: undefined
+    - моꙗ: undefined
+    - мьного: undefined
+    - мѧсо: undefined
+    - мꙑ: undefined
+    - на: undefined
+    - наполънѥна: undefined
+    - ножь: undefined
+    - ножє: undefined
+    - она: undefined
+    - онъ: undefined
+    - остръи: undefined
+    - палачинька: undefined
+    - палмєнь: undefined
+    - пиѥтъ: undefined
+    - пламєни: undefined
+    - подлогѣ: undefined
+    - пълъна: undefined
+    - пєпрьца: undefined
+    - пєпрьць: undefined
+    - пꙋста: undefined
+    - сковъродъка: undefined
+    - сковъродъцѣ: undefined
+    - соли: undefined
+    - срєбръна: undefined
+    - столѣ: undefined
+    - съ: undefined
+    - сѫтъ: undefined
+    - талирька: undefined
+    - цꙋкра: undefined
+    - цꙋкръ: undefined
+    - чаша: undefined
+    - чашька: undefined
+    - чашькꙑ: undefined
+    - чаꙗ: undefined
+    - чиста: undefined
+    - ѥдꙑ: undefined
+    - ѥстъ: undefined
+  English:
+    - a: undefined
+    - add: undefined
+    - and: undefined
+    - are: undefined
+    - bowl: undefined
+    - can: undefined
+    - clean: undefined
+    - cook: undefined
+    - cooking: undefined
+    - cup: undefined
+    - drinks: undefined
+    - dumpling: undefined
+    - eats: undefined
+    - empty: undefined
+    - evening: undefined
+    - filled: undefined
+    - flame: undefined
+    - floor: undefined
+    - food: undefined
+    - fork: undefined
+    - forks: undefined
+    - from: undefined
+    - frying: undefined
+    - full: undefined
+    - good: undefined
+    - has: undefined
+    - he: undefined
+    - hot: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - kitchen: undefined
+    - knife: undefined
+    - knives: undefined
+    - lot: undefined
+    - lying: undefined
+    - meat: undefined
+    - my: undefined
+    - of: undefined
+    - on: undefined
+    - pan: undefined
+    - pancake: undefined
+    - pepper: undefined
+    - plate: undefined
+    - pot: undefined
+    - salt: undefined
+    - sharp: undefined
+    - she: undefined
+    - silver: undefined
+    - smell: undefined
+    - spoon: undefined
+    - sugar: undefined
+    - table: undefined
+    - tea: undefined
+    - the: undefined
+    - there: undefined
+    - to: undefined
+    - water: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined

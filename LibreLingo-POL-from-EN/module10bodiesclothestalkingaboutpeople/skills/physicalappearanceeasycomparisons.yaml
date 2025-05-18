@@ -1,0 +1,254 @@
+Skill:
+  Name: Physical Appearance (Easy comparisons)
+  Id: 38
+
+New words:
+  - Word: wysoki
+    Translation: tall
+  - Word: niski
+    Translation: short
+  - Word: gruby
+    Translation: fat
+  - Word: chudy
+    Translation: thin
+  - Word: mały
+    Translation: small
+  - Word: piękny
+    Translation: beautiful
+  - Word: brzydki
+    Translation: ugly
+  - Word: stary
+    Translation: old
+  - Word: młody
+    Translation: young
+  - Word: włosy
+    Translation: hair
+  - Word: oczy
+    Translation: eyes
+  - Word: niż
+    Translation: than
+  - Word: wyżej
+    Translation: taller/higher
+  - Word: skóra
+    Translation: skin
+  - Word: mniej
+    Translation: less
+  - Word: śmiać się (śmieje się)
+    Translation: to laugh
+  - Word: błyszczeć
+    Translation: to shine
+  - Word: gwiazda
+    Translation: star
+  - Word: jasny
+    Translation: light
+  - Word: ciemny
+    Translation: dark
+
+Phrases:
+  - Phrase: On jest wyżej/bardziej wysoki i silny niż on.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Ona jest niższa i chuda jak on.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Gruby mąż idzie po ulicy.
+    Translation: The fat man is walking down the street.
+  - Phrase: Chudy ma mniej masy ciała niż gruby.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: To jest wyżej/bardziej piękny człowiek niż tamten.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Starzy ludzie są wyżej/bardziej mądrzy niż my.
+    Translation: Old people are wiser than us.
+  - Phrase: Młody ma dużo energii.
+    Translation: The young one has a lot of energy.
+  - Phrase: Jego włosy są jasne/blond.
+    Translation: His hair is blonde.
+  - Phrase: Oczy są wyżej/bardziej zielone niż u niego.
+    Translation: Her eyes are greener than his.
+  - Phrase: Skóra jego jest biała.
+    Translation: His skin is white.
+  - Phrase: On ma długie włosy.
+    Translation: He has long hair.
+  - Phrase: Ona ma zielone oczy.
+    Translation: She has green eyes.
+  - Phrase: Skóra jest gładka.
+    Translation: Her skin is smooth.
+  - Phrase: Stara kobieta nosi czapkę.
+    Translation: The old woman wears a hat.
+  - Phrase: Młodzi ludzie często uprawiają sport.
+    Translation: Young people often play sports.
+  - Phrase: Gruby mąż śmieje się więcej niż tamten brzydki mąż.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Niska dziewczyna idzie do domu.
+    Translation: The short girl is going home.
+  - Phrase: Piękne oczy błyszczą jak gwiazdy na niebie.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Chudy nosi wyżej/bardziej dużą koszulę niż ja.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Jej włosy są jasne i długie.
+    Translation: Her hair is light and long.
+  - Phrase: A jego piękne włosy są ciemne jak noc.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Polish:
+    - a: undefined
+    - biała: undefined
+    - brzydki: undefined
+    - błyszczeć: undefined
+    - błyszczą: undefined
+    - chuda: undefined
+    - chudy: undefined
+    - ciała: undefined
+    - ciemne: undefined
+    - ciemny: undefined
+    - czapkę: undefined
+    - często: undefined
+    - człowiek: undefined
+    - do: undefined
+    - domu: undefined
+    - dużo: undefined
+    - dużą: undefined
+    - dziewczyna: undefined
+    - długie: undefined
+    - energii: undefined
+    - gruby: undefined
+    - gwiazda: undefined
+    - gwiazdy: undefined
+    - gładka: undefined
+    - i: undefined
+    - idzie: undefined
+    - ja: undefined
+    - jak: undefined
+    - jasne: undefined
+    - jasne/blond: undefined
+    - jasny: undefined
+    - jego: undefined
+    - jej: undefined
+    - jest: undefined
+    - kobieta: undefined
+    - koszulę: undefined
+    - ludzie: undefined
+    - ma: undefined
+    - masy: undefined
+    - mały: undefined
+    - mniej: undefined
+    - my: undefined
+    - mądrzy: undefined
+    - mąż: undefined
+    - młody: undefined
+    - młodzi: undefined
+    - na: undefined
+    - niebie: undefined
+    - niego: undefined
+    - niska: undefined
+    - niski: undefined
+    - niż: undefined
+    - niższa: undefined
+    - noc: undefined
+    - nosi: undefined
+    - oczy: undefined
+    - on: undefined
+    - ona: undefined
+    - piękne: undefined
+    - piękny: undefined
+    - po: undefined
+    - silny: undefined
+    - się: undefined
+    - skóra: undefined
+    - sport: undefined
+    - stara: undefined
+    - stary: undefined
+    - starzy: undefined
+    - są: undefined
+    - tamten: undefined
+    - to: undefined
+    - u: undefined
+    - ulicy: undefined
+    - uprawiają: undefined
+    - więcej: undefined
+    - wysoki: undefined
+    - wyżej: undefined
+    - wyżej/bardziej: undefined
+    - włosy: undefined
+    - zielone: undefined
+    - śmiać: undefined
+    - śmieje: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - as: undefined
+    - beautiful: undefined
+    - blonde: undefined
+    - body: undefined
+    - dark: undefined
+    - do: undefined
+    - down: undefined
+    - energy: undefined
+    - eyes: undefined
+    - fat: undefined
+    - girl: undefined
+    - going: undefined
+    - green: undefined
+    - greener: undefined
+    - hair: undefined
+    - has: undefined
+    - hat: undefined
+    - he: undefined
+    - her: undefined
+    - him: undefined
+    - his: undefined
+    - home: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - larger: undefined
+    - laugh: undefined
+    - laughs: undefined
+    - less: undefined
+    - light: undefined
+    - like: undefined
+    - long: undefined
+    - lot: undefined
+    - louder: undefined
+    - man: undefined
+    - mass: undefined
+    - more: undefined
+    - night: undefined
+    - of: undefined
+    - often: undefined
+    - old: undefined
+    - one: undefined
+    - people: undefined
+    - person: undefined
+    - play: undefined
+    - she: undefined
+    - shine: undefined
+    - shirt: undefined
+    - short: undefined
+    - shorter: undefined
+    - skin: undefined
+    - sky: undefined
+    - small: undefined
+    - smooth: undefined
+    - sports: undefined
+    - star: undefined
+    - stars: undefined
+    - street: undefined
+    - stronger: undefined
+    - tall: undefined
+    - taller: undefined
+    - taller/higher: undefined
+    - than: undefined
+    - that: undefined
+    - the: undefined
+    - thin: undefined
+    - thinner: undefined
+    - to: undefined
+    - ugly: undefined
+    - us: undefined
+    - walking: undefined
+    - wears: undefined
+    - white: undefined
+    - wiser: undefined
+    - woman: undefined
+    - young: undefined

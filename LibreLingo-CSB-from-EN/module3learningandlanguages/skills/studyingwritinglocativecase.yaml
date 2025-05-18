@@ -1,0 +1,188 @@
+Skill:
+  Name: Studying & Writing (Locative case)
+  Id: 9
+
+New words:
+  - Word: szkòła
+    Translation: school
+  - Word: ùczëcelka
+    Translation: female teacher
+  - Word: ùczëcel
+    Translation: male teacher
+  - Word: zôpisk
+    Translation: note
+  - Word: ùcznik
+    Translation: student
+  - Word: knéga
+    Translation: book
+  - Word: zadanié
+    Translation: assignment
+  - Word: stół
+    Translation: table
+  - Word: tusz
+    Translation: ink
+  - Word: papiór
+    Translation: paper
+  - Word: przedmiot
+    Translation: subject
+  - Word: metoda
+    Translation: method
+  - Word: pióro
+    Translation: pen
+  - Word: zôpisk
+    Translation: notebook
+  - Word: na
+    Translation: on
+
+Phrases:
+  - Phrase: To je mòja szkòła.
+    Translation: This is my school.
+  - Phrase: Òna je ùczëcelką.
+    Translation: She is a teacher.
+  - Phrase: On je ùcznikã.
+    Translation: He is a student.
+  - Phrase: Knéga je na stole.
+    Translation: The book is on the table.
+  - Phrase: Ja mëm zadanié.
+    Translation: I have an assignment.
+  - Phrase: Tusz je jesce mòkri.
+    Translation: The ink is still wet.
+  - Phrase: Papiór je biôłi.
+    Translation: The paper is white.
+  - Phrase: Ten przedmiot to matematiczô.
+    Translation: This subject is mathematics.
+  - Phrase: Ta metoda je dobrô.
+    Translation: This method is good.
+  - Phrase: Ùcznik mô knégã.
+    Translation: The student has a book.
+  - Phrase: To je mój stół.
+    Translation: This is my desk.
+  - Phrase: Mój zôpisk je peļni zôpisków z piórã
+    Translation: My notebook is full of notes with a pen
+  - Phrase: Pisze na papiórze piórã.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Szkòła je w centrom.
+    Translation: The school is in the center.
+  - Phrase: Më piszemë zadanié.
+    Translation: We are writing the assignment.
+  - Phrase: Ùczëcel gôdô ze studentama.
+    Translation: The teacher is talking with students.
+  - Phrase: Òna mô wiele zadaniów.
+    Translation: She has many assignments.
+  - Phrase: Ja chùtczi pisze z tim piórã.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Przedmiot je cãżczi.
+    Translation: The subject is complex.
+  - Phrase: Knéga je nowô.
+    Translation: The book is new.
+  - Phrase: On je mòjim ùczëcelã.
+    Translation: He is my teacher.
+
+Mini-dictionary:
+  Kashubian:
+    - biôłi: undefined
+    - centrom: undefined
+    - chùtczi: undefined
+    - cãżczi: undefined
+    - dobrô: undefined
+    - gôdô: undefined
+    - ja: undefined
+    - je: undefined
+    - jesce: undefined
+    - knéga: undefined
+    - knégã: undefined
+    - matematiczô: undefined
+    - metoda: undefined
+    - më: undefined
+    - mëm: undefined
+    - mòja: undefined
+    - mòjim: undefined
+    - mòkri: undefined
+    - mój: undefined
+    - mô: undefined
+    - na: undefined
+    - nowô: undefined
+    - on: undefined
+    - papiór: undefined
+    - papiórze: undefined
+    - peļni: undefined
+    - pisze: undefined
+    - piszemë: undefined
+    - pióro: undefined
+    - piórã: undefined
+    - przedmiot: undefined
+    - stole: undefined
+    - studentama: undefined
+    - stół: undefined
+    - szkòła: undefined
+    - ta: undefined
+    - ten: undefined
+    - tim: undefined
+    - to: undefined
+    - tusz: undefined
+    - w: undefined
+    - wiele: undefined
+    - z: undefined
+    - zadanié: undefined
+    - zadaniów: undefined
+    - ze: undefined
+    - zôpisk: undefined
+    - zôpisków: undefined
+    - òna: undefined
+    - ùcznik: undefined
+    - ùcznikã: undefined
+    - ùczëcel: undefined
+    - ùczëcelka: undefined
+    - ùczëcelką: undefined
+    - ùczëcelã: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - an: undefined
+    - are: undefined
+    - assignment: undefined
+    - assignments: undefined
+    - book: undefined
+    - center: undefined
+    - complex: undefined
+    - desk: undefined
+    - female: undefined
+    - full: undefined
+    - good: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - i: undefined
+    - in: undefined
+    - ink: undefined
+    - is: undefined
+    - male: undefined
+    - many: undefined
+    - mathematics: undefined
+    - method: undefined
+    - my: undefined
+    - new: undefined
+    - note: undefined
+    - notebook: undefined
+    - notes: undefined
+    - of: undefined
+    - on: undefined
+    - paper: undefined
+    - pen: undefined
+    - quickly: undefined
+    - school: undefined
+    - she: undefined
+    - still: undefined
+    - student: undefined
+    - students: undefined
+    - subject: undefined
+    - table: undefined
+    - talking: undefined
+    - teacher: undefined
+    - the: undefined
+    - this: undefined
+    - we: undefined
+    - wet: undefined
+    - white: undefined
+    - with: undefined
+    - writing: undefined

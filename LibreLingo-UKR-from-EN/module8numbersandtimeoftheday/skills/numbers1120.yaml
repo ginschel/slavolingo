@@ -1,0 +1,120 @@
+Skill:
+  Name: Numbers 11-20
+  Id: 27
+
+New words:
+  - Word: одинадцять
+    Translation: eleven
+  - Word: дванадцять
+    Translation: twelve
+  - Word: тринадцять
+    Translation: thirteen
+  - Word: чотирнадцять
+    Translation: fourteen
+  - Word: пятнадцять
+    Translation: fifteen
+  - Word: шістнадцять
+    Translation: sixteen
+  - Word: сімнадцять
+    Translation: seventeen
+  - Word: вісімнадцять
+    Translation: eighteen
+  - Word: девятнадцять
+    Translation: nineteen
+  - Word: двадцять
+    Translation: twenty
+
+Phrases:
+  - Phrase: двадцять годинників
+    Translation: twenty clocks
+  - Phrase: одинадцять хлопців
+    Translation: eleven boys
+  - Phrase: одинадцять жінок
+    Translation: eleven women
+  - Phrase: одинадцять полів
+    Translation: eleven fields
+  - Phrase: дванадцять чоловіків
+    Translation: twelve men
+  - Phrase: дванадцять шість жінок
+    Translation: twelve women
+  - Phrase: тринадцять котів
+    Translation: thirteen cats
+  - Phrase: чотирнадцять велосипедів
+    Translation: fourteen bicycles
+  - Phrase: пятнадцять хлопців
+    Translation: fifteen boys
+  - Phrase: шістнадцять велосипедів
+    Translation: sixteen bicycles
+  - Phrase: сімнадцять рублів
+    Translation: seventeen rubles
+  - Phrase: вісімнадцять доларів
+    Translation: eighteen dollars
+  - Phrase: девятнадцять пять комп'ютерів
+    Translation: nineteen computers
+  - Phrase: шістнадцять годинників
+    Translation: twenty clocks
+  - Phrase: дванадцять речей
+    Translation: twelve things
+  - Phrase: одинадцять сонць
+    Translation: eleven suns
+  - Phrase: шістнадцять велосипедів
+    Translation: sixteen bicycles
+  - Phrase: чотирнадцять доларів
+    Translation: fourteen dollars
+  - Phrase: тринадцять два собаки
+    Translation: thirteen dogs
+  - Phrase: двадцять котів
+    Translation: twenty cats
+
+Mini-dictionary:
+  Ukrainian:
+    - велосипедів: undefined
+    - вісімнадцять: undefined
+    - годинників: undefined
+    - два: undefined
+    - двадцять: undefined
+    - дванадцять: undefined
+    - девятнадцять: undefined
+    - доларів: undefined
+    - жінок: undefined
+    - комп'ютерів: undefined
+    - котів: undefined
+    - одинадцять: undefined
+    - полів: undefined
+    - пятнадцять: undefined
+    - пять: undefined
+    - речей: undefined
+    - рублів: undefined
+    - собаки: undefined
+    - сонць: undefined
+    - сімнадцять: undefined
+    - тринадцять: undefined
+    - хлопців: undefined
+    - чоловіків: undefined
+    - чотирнадцять: undefined
+    - шістнадцять: undefined
+    - шість: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eighteen: undefined
+    - eleven: undefined
+    - fields: undefined
+    - fifteen: undefined
+    - fourteen: undefined
+    - men: undefined
+    - nineteen: undefined
+    - rubles: undefined
+    - seventeen: undefined
+    - sixteen: undefined
+    - suns: undefined
+    - things: undefined
+    - thirteen: undefined
+    - twelve: undefined
+    - twenty: undefined
+    - women: undefined

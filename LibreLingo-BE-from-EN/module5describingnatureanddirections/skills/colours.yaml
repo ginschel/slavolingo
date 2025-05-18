@@ -1,0 +1,183 @@
+Skill:
+  Name: Colours
+  Id: 17
+
+New words:
+  - Word: чорны
+    Translation: black
+  - Word: белы
+    Translation: white
+  - Word: зялёны
+    Translation: green
+  - Word: сіні
+    Translation: blue
+  - Word: чырвоны
+    Translation: red
+  - Word: жоўты
+    Translation: yellow
+  - Word: шэры
+    Translation: grey
+  - Word: каштанавы
+    Translation: brown
+  - Word: аранжавы
+    Translation: orange
+  - Word: чырвоны
+    Translation: red
+
+Phrases:
+  - Phrase: Мой сабака ёсць чорны.
+    Translation: My dog is black.
+  - Phrase: Мыш ёсць белая.
+    Translation: The mouse is white.
+  - Phrase: Трава ёсць зялёная.
+    Translation: The grass is green.
+  - Phrase: Неба ёсць сіняе.
+    Translation: The sky is blue.
+  - Phrase: Кветкі ёсць чырвоныя.
+    Translation: The flowers are red.
+  - Phrase: Сонца ёсць жоўтае.
+    Translation: The sun is yellow.
+  - Phrase: Хмары ёсць шэрыя.
+    Translation: The clouds are grey.
+  - Phrase: Ён носіць каштанавы плашч.
+    Translation: He wears a brown coat.
+  - Phrase: Ліст ёсць аранжавы.
+    Translation: The leaf is orange.
+  - Phrase: Гэта ёсць Чырвонае мора.
+    Translation: This is the Red Sea.
+  - Phrase: Мае вочы ёсць сінія.
+    Translation: My eyes are blue.
+  - Phrase: Яна мае зялёную траву.
+    Translation: She has green grass.
+  - Phrase: Я люблю чырвоны колер.
+    Translation: I like the red color.
+  - Phrase: Яго аўта ёсць чорнае.
+    Translation: His car is black.
+  - Phrase: Дзяўчына нясе белую сукенку.
+    Translation: The girl is wearing a white dress.
+  - Phrase: Ці гэта шэры волас?
+    Translation: Is that grey hair?
+  - Phrase: Ён мае аранжавую сумку.
+    Translation: He has an orange bag.
+  - Phrase: Каштанавы конь стаіць у стайні.
+    Translation: The brown horse stands in the stable.
+  - Phrase: Жоўтае сонца грэе зямлю.
+    Translation: The yellow sun warms the earth.
+  - Phrase: Чырвоная ружа расце тут.
+    Translation: A red rose grows here.
+
+Mini-dictionary:
+  Belarusian:
+    - аранжавую: undefined
+    - аранжавы: undefined
+    - аўта: undefined
+    - белая: undefined
+    - белую: undefined
+    - белы: undefined
+    - волас: undefined
+    - вочы: undefined
+    - грэе: undefined
+    - гэта: undefined
+    - дзяўчына: undefined
+    - жоўтае: undefined
+    - жоўты: undefined
+    - зялёная: undefined
+    - зялёную: undefined
+    - зялёны: undefined
+    - зямлю: undefined
+    - каштанавы: undefined
+    - кветкі: undefined
+    - колер: undefined
+    - конь: undefined
+    - люблю: undefined
+    - ліст: undefined
+    - мае: undefined
+    - мой: undefined
+    - мора: undefined
+    - мыш: undefined
+    - неба: undefined
+    - носіць: undefined
+    - нясе: undefined
+    - плашч: undefined
+    - расце: undefined
+    - ружа: undefined
+    - сабака: undefined
+    - сонца: undefined
+    - стайні: undefined
+    - стаіць: undefined
+    - сукенку: undefined
+    - сумку: undefined
+    - сіняе: undefined
+    - сіні: undefined
+    - сінія: undefined
+    - трава: undefined
+    - траву: undefined
+    - тут: undefined
+    - у: undefined
+    - хмары: undefined
+    - ці: undefined
+    - чорнае: undefined
+    - чорны: undefined
+    - чырвонае: undefined
+    - чырвоная: undefined
+    - чырвоны: undefined
+    - чырвоныя: undefined
+    - шэры: undefined
+    - шэрыя: undefined
+    - я: undefined
+    - яго: undefined
+    - яна: undefined
+    - ён: undefined
+    - ёсць: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - are: undefined
+    - bag: undefined
+    - black: undefined
+    - blue: undefined
+    - brown: undefined
+    - car: undefined
+    - clouds: undefined
+    - coat: undefined
+    - color: undefined
+    - dog: undefined
+    - dress: undefined
+    - earth: undefined
+    - eyes: undefined
+    - flowers: undefined
+    - girl: undefined
+    - grass: undefined
+    - green: undefined
+    - grey: undefined
+    - grows: undefined
+    - hair: undefined
+    - has: undefined
+    - he: undefined
+    - here: undefined
+    - his: undefined
+    - horse: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - leaf: undefined
+    - like: undefined
+    - mouse: undefined
+    - my: undefined
+    - orange: undefined
+    - red: undefined
+    - rose: undefined
+    - sea: undefined
+    - she: undefined
+    - sky: undefined
+    - stable: undefined
+    - stands: undefined
+    - sun: undefined
+    - that: undefined
+    - the: undefined
+    - this: undefined
+    - warms: undefined
+    - wearing: undefined
+    - wears: undefined
+    - white: undefined
+    - yellow: undefined

@@ -1,0 +1,234 @@
+Skill:
+  Name: Weekdays/Months
+  Id: 32
+
+New words:
+  - Word: тꙑжьдьнь
+    Translation: week
+  - Word: понєдѣлъкъ
+    Translation: Monday
+  - Word: въторъкъ
+    Translation: Tuesday
+  - Word: срѣда
+    Translation: Wednesday
+  - Word: чєтврьтъкъ
+    Translation: Thursday
+  - Word: пѧтъкъ
+    Translation: Friday
+  - Word: сѫбота
+    Translation: Saturday
+  - Word: нєдѣлꙗ
+    Translation: Sunday
+  - Word: мѣсѧць
+    Translation: month
+  - Word: ꙗноуарии
+    Translation: January
+  - Word: фєвроѵарии
+    Translation: February
+  - Word: марта
+    Translation: March
+  - Word: апрїль
+    Translation: April
+  - Word: маи
+    Translation: May
+  - Word: июнь
+    Translation: June
+  - Word: июль
+    Translation: July
+  - Word: авгꙋстъ
+    Translation: August
+  - Word: сєптємврїи
+    Translation: September
+  - Word: октѡврїи
+    Translation: October
+  - Word: новємврїи
+    Translation: November
+  - Word: дєкємврїи
+    Translation: December
+
+Phrases:
+  - Phrase: Понєдѣлъкъ ѥстъ пръвъи дьнь въ тꙑждньꙋ.
+    Translation: Monday is the first day of the week.
+  - Phrase: Въторъкъ ѥстъ по понєдѣлъкꙋ.
+    Translation: Tuesday is after Monday.
+  - Phrase: Срѣда ѥстъ въ срєдъинѣ тꙑждньꙗ.
+    Translation: Wednesday is in the middle of the week.
+  - Phrase: Чєтврьтъкъ ѥстъ прѣдъ пѧтъкомъ.
+    Translation: Thursday is before Friday.
+  - Phrase: Пѧтъкъ ѥстъ послѣдьнъи работънъи дьнь.
+    Translation: Friday is the last working day.
+  - Phrase: Сѫбота тъ викєндъ.
+    Translation: Saturday is the weekend.
+  - Phrase: Нєдѣлꙗ тъ дьнь отьпочинька.
+    Translation: Sunday is the day of rest.
+  - Phrase: Имамъ въ ꙗноуариꙋ ваканции.
+    Translation: I have vacation in January.
+  - Phrase: Новъи рокъ ѥстъ въ дєкємвриꙋ.
+    Translation: New Year's is in December.
+  - Phrase: Въ авгꙋстꙋ идємъ до Хондꙋрасъ.
+    Translation: In August, I am going to Honduras.
+  - Phrase: Въ фєвроѵариꙋ ѥстъ мьного снѣга.
+    Translation: In February there is a lot of snow.
+  - Phrase: Въ срѣдꙋ имамъ заданиѥ.
+    Translation: On Wednesday, I have an assignment.
+  - Phrase: Въ Чєтврьтъкъ ѥстъ мои любимъи дьнь.
+    Translation: Thursday is my favorite day.
+  - Phrase: Въ пѧтъкъ вєчєромъ идємъ на фильмъ.
+    Translation: On Friday evening we are going to the movies.
+  - Phrase: Сѫбота ѥстъ бєзъ роботꙑ.
+    Translation: Saturday is without work.
+  - Phrase: Нєдѣлꙗ ѥстъ часъ за родоѭ.
+    Translation: Sunday is time for family.
+  - Phrase: Нє каждъи мѣсѧць имаѥтъ тридесѧть дъновъ.
+    Translation: Not every month has thirty days.
+  - Phrase: Октѡврїи ѥстъ красьнъи мѣсѧць.
+    Translation: October is a beautiful month.
+  - Phrase: Въторъкъ ѥстъ дьньмъ спорта.
+    Translation: Tuesday is the day for sports.
+  - Phrase: Июль ѥстъ мѣсѧцємъ лѣта.
+    Translation: July is the month of summer.
+
+Mini-dictionary:
+  Church Slavonic:
+    - авгꙋстъ: undefined
+    - авгꙋстꙋ: undefined
+    - апрїль: undefined
+    - бєзъ: undefined
+    - ваканции: undefined
+    - викєндъ: undefined
+    - въ: undefined
+    - въторъкъ: undefined
+    - вєчєромъ: undefined
+    - до: undefined
+    - дъновъ: undefined
+    - дьнь: undefined
+    - дьньмъ: undefined
+    - дєкємвриꙋ: undefined
+    - дєкємврїи: undefined
+    - за: undefined
+    - заданиѥ: undefined
+    - идємъ: undefined
+    - имамъ: undefined
+    - имаѥтъ: undefined
+    - июль: undefined
+    - июнь: undefined
+    - каждъи: undefined
+    - красьнъи: undefined
+    - любимъи: undefined
+    - лѣта: undefined
+    - маи: undefined
+    - марта: undefined
+    - мои: undefined
+    - мьного: undefined
+    - мѣсѧць: undefined
+    - мѣсѧцємъ: undefined
+    - на: undefined
+    - новъи: undefined
+    - новємврїи: undefined
+    - нє: undefined
+    - нєдѣлꙗ: undefined
+    - октѡврїи: undefined
+    - отьпочинька: undefined
+    - по: undefined
+    - понєдѣлъкъ: undefined
+    - понєдѣлъкꙋ: undefined
+    - послѣдьнъи: undefined
+    - пръвъи: undefined
+    - прѣдъ: undefined
+    - пѧтъкомъ: undefined
+    - пѧтъкъ: undefined
+    - работънъи: undefined
+    - роботꙑ: undefined
+    - родоѭ: undefined
+    - рокъ: undefined
+    - снѣга: undefined
+    - спорта: undefined
+    - срєдъинѣ: undefined
+    - срѣда: undefined
+    - срѣдꙋ: undefined
+    - сєптємврїи: undefined
+    - сѫбота: undefined
+    - тридесѧть: undefined
+    - тъ: undefined
+    - тꙑждньꙋ: undefined
+    - тꙑждньꙗ: undefined
+    - тꙑжьдьнь: undefined
+    - фильмъ: undefined
+    - фєвроѵарии: undefined
+    - фєвроѵариꙋ: undefined
+    - хондꙋрасъ: undefined
+    - часъ: undefined
+    - чєтврьтъкъ: undefined
+    - ѥстъ: undefined
+    - ꙗноуарии: undefined
+    - ꙗноуариꙋ: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - am: undefined
+    - an: undefined
+    - april: undefined
+    - are: undefined
+    - assignment: undefined
+    - august: undefined
+    - beautiful: undefined
+    - before: undefined
+    - day: undefined
+    - days: undefined
+    - december: undefined
+    - evening: undefined
+    - every: undefined
+    - family: undefined
+    - favorite: undefined
+    - february: undefined
+    - first: undefined
+    - for: undefined
+    - friday: undefined
+    - going: undefined
+    - has: undefined
+    - have: undefined
+    - honduras: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - january: undefined
+    - july: undefined
+    - june: undefined
+    - last: undefined
+    - lot: undefined
+    - march: undefined
+    - may: undefined
+    - middle: undefined
+    - monday: undefined
+    - month: undefined
+    - movies: undefined
+    - my: undefined
+    - new: undefined
+    - not: undefined
+    - november: undefined
+    - october: undefined
+    - of: undefined
+    - on: undefined
+    - rest: undefined
+    - saturday: undefined
+    - september: undefined
+    - snow: undefined
+    - sports: undefined
+    - summer: undefined
+    - sunday: undefined
+    - the: undefined
+    - there: undefined
+    - thirty: undefined
+    - thursday: undefined
+    - time: undefined
+    - to: undefined
+    - tuesday: undefined
+    - vacation: undefined
+    - we: undefined
+    - wednesday: undefined
+    - week: undefined
+    - weekend: undefined
+    - without: undefined
+    - work: undefined
+    - working: undefined
+    - year's: undefined

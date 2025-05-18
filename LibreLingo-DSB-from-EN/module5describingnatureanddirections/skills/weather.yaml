@@ -1,0 +1,190 @@
+Skill:
+  Name: Weather
+  Id: 16
+
+New words:
+  - Word: wjedro
+    Translation: weather
+  - Word: dešć
+    Translation: rain
+  - Word: padaś
+    Translation: to fall
+  - Word: sněg
+    Translation: snow
+  - Word: wuzměniś
+    Translation: to change
+  - Word: słyńco
+    Translation: sun
+  - Word: swěśiś
+    Translation: to shine
+  - Word: powětš
+    Translation: air
+  - Word: wětš
+    Translation: wind
+  - Word: śopło
+    Translation: warm
+  - Word: zymno
+    Translation: cold
+  - Word: mróz
+    Translation: frost
+  - Word: mrokawa
+    Translation: cloud
+  - Word: grěś (grějo)
+    Translation: to heat
+  - Word: mroczne
+    Translation: cloudy
+  - Word: wóńiś
+    Translation: to smell
+  - Word: wiźeś (wiźi)
+    Translation: to see
+
+Phrases:
+  - Phrase: Wjedro jo dobre.
+    Translation: The weather is good.
+  - Phrase: Pada dešć.
+    Translation: It is raining.
+  - Phrase: Sněg ležy na zemji.
+    Translation: Snow lies on the ground.
+  - Phrase: Słyńco swěśi.
+    Translation: The sun is shining.
+  - Phrase: Powětš jo cyšći.
+    Translation: The air is clean.
+  - Phrase: Wětš dmujo sylnje.
+    Translation: The wind is blowing strongly.
+  - Phrase: Źinsaj jo śopło.
+    Translation: It is warm today.
+  - Phrase: We rusojskej jo zymno.
+    Translation: In Russia it is cold.
+  - Phrase: Mróz jo sylny.
+    Translation: The frost is strong.
+  - Phrase: Mrokawy su śamne.
+    Translation: The clouds are dark.
+  - Phrase: Pada sněg a dešć.
+    Translation: Snow and rain are falling.
+  - Phrase: Wjedro se wuzměnjujo.
+    Translation: The weather is changing.
+  - Phrase: Słyńco grějo nas.
+    Translation: The sun heats us.
+  - Phrase: Źinsaj jo śopło a suche.
+    Translation: It is warm and dry today.
+  - Phrase: Jo lě wětš sylny?
+    Translation: Is the wind strong?
+  - Phrase: Mróz jo ranim.
+    Translation: There is frost in the morning.
+  - Phrase: Mroczne jo źinsaj.
+    Translation: It is cloudy today.
+  - Phrase: Powětš wóńi pśi dešćoju.
+    Translation: The air smells of rain.
+  - Phrase: Źinsaj nje wiźimy mrokow.
+    Translation: Today I do not see clouds.
+  - Phrase: Zymny wětš dmujo z norda.
+    Translation: A cold wind is blowing from the north.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: undefined
+    - cyšći: undefined
+    - dešć: undefined
+    - dešćoju: undefined
+    - dmujo: undefined
+    - dobre: undefined
+    - grějo: undefined
+    - grěś: undefined
+    - jo: undefined
+    - ležy: undefined
+    - lě: undefined
+    - mroczne: undefined
+    - mrokawa: undefined
+    - mrokawy: undefined
+    - mrokow: undefined
+    - mróz: undefined
+    - na: undefined
+    - nas: undefined
+    - nje: undefined
+    - norda: undefined
+    - pada: undefined
+    - padaś: undefined
+    - powětš: undefined
+    - pśi: undefined
+    - ranim: undefined
+    - rusojskej: undefined
+    - se: undefined
+    - sněg: undefined
+    - su: undefined
+    - suche: undefined
+    - swěśi: undefined
+    - swěśiś: undefined
+    - sylnje: undefined
+    - sylny: undefined
+    - słyńco: undefined
+    - we: undefined
+    - wiźeś: undefined
+    - wiźi: undefined
+    - wiźimy: undefined
+    - wjedro: undefined
+    - wuzměniś: undefined
+    - wuzměnjujo: undefined
+    - wóńi: undefined
+    - wóńiś: undefined
+    - wětš: undefined
+    - z: undefined
+    - zemji: undefined
+    - zymno: undefined
+    - zymny: undefined
+    - śamne: undefined
+    - śopło: undefined
+    - źinsaj: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - and: undefined
+    - are: undefined
+    - blowing: undefined
+    - change: undefined
+    - changing: undefined
+    - clean: undefined
+    - cloud: undefined
+    - clouds: undefined
+    - cloudy: undefined
+    - cold: undefined
+    - dark: undefined
+    - do: undefined
+    - dry: undefined
+    - fall: undefined
+    - falling: undefined
+    - from: undefined
+    - frost: undefined
+    - good: undefined
+    - ground: undefined
+    - heat: undefined
+    - heats: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lies: undefined
+    - morning: undefined
+    - north: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - rain: undefined
+    - raining: undefined
+    - russia: undefined
+    - see: undefined
+    - shine: undefined
+    - shining: undefined
+    - smell: undefined
+    - smells: undefined
+    - snow: undefined
+    - strong: undefined
+    - strongly: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - to: undefined
+    - today: undefined
+    - us: undefined
+    - warm: undefined
+    - weather: undefined
+    - wind: undefined

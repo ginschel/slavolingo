@@ -1,0 +1,208 @@
+Skill:
+  Name: Nature
+  Id: 15
+
+New words:
+  - Word: řeka
+    Translation: river
+  - Word: přes
+    Translation: through
+  - Word: hora
+    Translation: mountain
+  - Word: údolí
+    Translation: valley
+  - Word: les
+    Translation: forest
+  - Word: tráva
+    Translation: grass
+  - Word: květ
+    Translation: flower
+  - Word: růže
+    Translation: rose
+  - Word: růst (roste)
+    Translation: to grow
+  - Word: země
+    Translation: earth
+  - Word: kámen
+    Translation: stone
+  - Word: pole
+    Translation: field
+  - Word: dub
+    Translation: oak
+  - Word: měsíc
+    Translation: moon
+  - Word: kvést (kvete)
+    Translation: to bloom
+  - Word: strom
+    Translation: tree
+  - Word: ležet (leží)
+    Translation: to lie
+  - Word: mezi
+    Translation: between
+
+Phrases:
+  - Phrase: Řeka teče přes údolí.
+    Translation: The river flows through the valley.
+  - Phrase: Hora je vysoká.
+    Translation: The mountain is high.
+  - Phrase: My jdeme do lesa.
+    Translation: We are going to the forest.
+  - Phrase: Tráva je zelená.
+    Translation: The grass is green.
+  - Phrase: Květy krásně kvetou.
+    Translation: The flowers bloom beautifully.
+  - Phrase: On stojí na kameni.
+    Translation: He is standing on the stone.
+  - Phrase: Země je mokrá.
+    Translation: The earth is wet.
+  - Phrase: Růže roste na poli.
+    Translation: The rose grows in the field.
+  - Phrase: Údolí leží mezi horami.
+    Translation: The valley lies between the mountains.
+  - Phrase: Pole je široké.
+    Translation: The field is wide.
+  - Phrase: Oni jdou přes les s mnoha stromy.
+    Translation: They are going through the forest with many trees.
+  - Phrase: Tráva roste rychle.
+    Translation: The grass grows fast.
+  - Phrase: Kameny jsou těžké.
+    Translation: The stones are heavy.
+  - Phrase: Květ roste ze země.
+    Translation: A flower grows from the earth.
+  - Phrase: Voda jde k řece.
+    Translation: Water goes to the river.
+  - Phrase: Pole je za domem.
+    Translation: The field is behind the house.
+  - Phrase: Jdeme k dubu.
+    Translation: We are going towards the oak.
+  - Phrase: Měsíc dnes krásný
+    Translation: The moon today is beautiful
+  - Phrase: My stojíme na zemi.
+    Translation: We are standing on the earth.
+  - Phrase: Oni hledí do údolí.
+    Translation: They are looking into the valley.
+  - Phrase: Řeka jde mezi poli.
+    Translation: The river goes between the fields.
+
+Mini-dictionary:
+  Czech:
+    - dnes: undefined
+    - do: undefined
+    - domem: undefined
+    - dub: undefined
+    - dubu: undefined
+    - hledí: undefined
+    - hora: undefined
+    - horami: undefined
+    - jde: undefined
+    - jdeme: undefined
+    - jdou: undefined
+    - je: undefined
+    - jsou: undefined
+    - k: undefined
+    - kameni: undefined
+    - kameny: undefined
+    - krásný: undefined
+    - krásně: undefined
+    - kvete: undefined
+    - kvetou: undefined
+    - kvést: undefined
+    - květ: undefined
+    - květy: undefined
+    - kámen: undefined
+    - les: undefined
+    - lesa: undefined
+    - ležet: undefined
+    - leží: undefined
+    - mezi: undefined
+    - mnoha: undefined
+    - mokrá: undefined
+    - my: undefined
+    - měsíc: undefined
+    - na: undefined
+    - on: undefined
+    - oni: undefined
+    - pole: undefined
+    - poli: undefined
+    - přes: undefined
+    - roste: undefined
+    - rychle: undefined
+    - růst: undefined
+    - růže: undefined
+    - s: undefined
+    - stojí: undefined
+    - stojíme: undefined
+    - strom: undefined
+    - stromy: undefined
+    - teče: undefined
+    - tráva: undefined
+    - těžké: undefined
+    - voda: undefined
+    - vysoká: undefined
+    - za: undefined
+    - ze: undefined
+    - zelená: undefined
+    - zemi: undefined
+    - země: undefined
+    - údolí: undefined
+    - řece: undefined
+    - řeka: undefined
+    - široké: undefined
+  English:
+    - a: undefined
+    - are: undefined
+    - beautiful: undefined
+    - beautifully: undefined
+    - behind: undefined
+    - between: undefined
+    - bloom: undefined
+    - earth: undefined
+    - fast: undefined
+    - field: undefined
+    - fields: undefined
+    - flower: undefined
+    - flowers: undefined
+    - flows: undefined
+    - forest: undefined
+    - from: undefined
+    - goes: undefined
+    - going: undefined
+    - grass: undefined
+    - green: undefined
+    - grow: undefined
+    - grows: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - house: undefined
+    - in: undefined
+    - into: undefined
+    - is: undefined
+    - lie: undefined
+    - lies: undefined
+    - looking: undefined
+    - many: undefined
+    - moon: undefined
+    - mountain: undefined
+    - mountains: undefined
+    - oak: undefined
+    - on: undefined
+    - river: undefined
+    - rose: undefined
+    - standing: undefined
+    - stone: undefined
+    - stones: undefined
+    - the: undefined
+    - they: undefined
+    - through: undefined
+    - to: undefined
+    - today: undefined
+    - towards: undefined
+    - tree: undefined
+    - trees: undefined
+    - valley: undefined
+    - water: undefined
+    - we: undefined
+    - wet: undefined
+    - wide: undefined
+    - with: undefined

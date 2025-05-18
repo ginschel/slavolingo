@@ -1,0 +1,182 @@
+Skill:
+  Name: Nationalities / Languages
+  Id: 11
+
+New words:
+  - Word: slovjanin
+    Translation: Slav
+  - Word: jezyk
+    Translation: language
+  - Word: država
+    Translation: country
+  - Word: narod
+    Translation: nation
+  - Word: ime
+    Translation: name
+  - Word: Hrvatka
+    Translation: Croat
+  - Word: Rus
+    Translation: Russian
+  - Word: Poljak
+    Translation: Pole
+  - Word: Němec
+    Translation: German
+  - Word: Angličanin
+    Translation: Englishman
+
+Phrases:
+  - Phrase: On jest Slovjaninom.
+    Translation: He is a Slav.
+  - Phrase: Ona govori na slovjanskom jezyku.
+    Translation: She speaks the Slavic language.
+  - Phrase: To jest moj jezyk.
+    Translation: This is my language.
+  - Phrase: Državoj jest Poljska.
+    Translation: The country is Poland.
+  - Phrase: Ja jesm Poljakom.
+    Translation: I am a Pole.
+  - Phrase: Ona jest Hrvatkoju.
+    Translation: She is a Croat.
+  - Phrase: On jest Rusom.
+    Translation: He is a Russian.
+  - Phrase: Govoriš li na němečskom jezyku?
+    Translation: Do you speak the German language?
+  - Phrase: Angličanin govori na anglijskom jezyku.
+    Translation: An Englishman speaks the English language.
+  - Phrase: My ljubimo svoj narod.
+    Translation: We love our nation.
+  - Phrase: To jest ime mojej državy.
+    Translation: This is the name of my country.
+  - Phrase: On znaje tri jęeyky.
+    Translation: He knows three languages.
+  - Phrase: Hrvat govori na hrvatskom jezyku.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Němec žive v Germanii.
+    Translation: A German lives in Germany.
+  - Phrase: Ona zna rusky i slovjansky.
+    Translation: She knows Russian and Slavic.
+  - Phrase: To jest narod s bogatoju kulturoju.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Ty jesi Angličaninom?
+    Translation: Are you an Englishman?
+  - Phrase: On govori každy język dobro.
+    Translation: He speaks every language well.
+  - Phrase: My učimo se ruskogo jezyka.
+    Translation: We are learning the Russian language.
+  - Phrase: Ona zna mnogo narodov.
+    Translation: She knows many nations.
+
+Mini-dictionary:
+  Interslavic:
+    - anglijskom: undefined
+    - angličanin: undefined
+    - angličaninom: undefined
+    - bogatoju: undefined
+    - dobro: undefined
+    - država: undefined
+    - državoj: undefined
+    - državy: undefined
+    - germanii: undefined
+    - govori: undefined
+    - govoriš: undefined
+    - hrvat: undefined
+    - hrvatka: undefined
+    - hrvatkoju: undefined
+    - hrvatskom: undefined
+    - i: undefined
+    - ime: undefined
+    - ja: undefined
+    - jesi: undefined
+    - jesm: undefined
+    - jest: undefined
+    - jezyk: undefined
+    - jezyka: undefined
+    - jezyku: undefined
+    - jęeyky: undefined
+    - język: undefined
+    - každy: undefined
+    - kulturoju: undefined
+    - li: undefined
+    - ljubimo: undefined
+    - mnogo: undefined
+    - moj: undefined
+    - mojej: undefined
+    - my: undefined
+    - na: undefined
+    - narod: undefined
+    - narodov: undefined
+    - němec: undefined
+    - němečskom: undefined
+    - on: undefined
+    - ona: undefined
+    - poljak: undefined
+    - poljakom: undefined
+    - poljska: undefined
+    - rus: undefined
+    - ruskogo: undefined
+    - rusky: undefined
+    - rusom: undefined
+    - s: undefined
+    - se: undefined
+    - slovjanin: undefined
+    - slovjaninom: undefined
+    - slovjanskom: undefined
+    - slovjansky: undefined
+    - svoj: undefined
+    - to: undefined
+    - tri: undefined
+    - ty: undefined
+    - učimo: undefined
+    - v: undefined
+    - zna: undefined
+    - znaje: undefined
+    - žive: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - an: undefined
+    - and: undefined
+    - are: undefined
+    - country: undefined
+    - croat: undefined
+    - croatian: undefined
+    - culture: undefined
+    - do: undefined
+    - english: undefined
+    - englishman: undefined
+    - every: undefined
+    - german: undefined
+    - germany: undefined
+    - he: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - knows: undefined
+    - language: undefined
+    - languages: undefined
+    - learning: undefined
+    - lives: undefined
+    - love: undefined
+    - many: undefined
+    - my: undefined
+    - name: undefined
+    - nation: undefined
+    - nations: undefined
+    - of: undefined
+    - our: undefined
+    - poland: undefined
+    - pole: undefined
+    - rich: undefined
+    - russian: undefined
+    - she: undefined
+    - slav: undefined
+    - slavic: undefined
+    - speak: undefined
+    - speaks: undefined
+    - the: undefined
+    - this: undefined
+    - three: undefined
+    - we: undefined
+    - well: undefined
+    - with: undefined
+    - you: undefined

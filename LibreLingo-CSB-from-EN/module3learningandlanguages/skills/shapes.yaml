@@ -1,0 +1,191 @@
+Skill:
+  Name: Shapes
+  Id: 10
+
+New words:
+  - Word: krąg
+    Translation: circle
+  - Word: kòwadrôt
+    Translation: square
+  - Word: sztërë
+    Translation: four
+  - Word: długi
+    Translation: long
+  - Word: trzë
+    Translation: three
+  - Word: trójkąt
+    Translation: triangle
+  - Word: stac (stoi)
+    Translation: to stand
+  - Word: rôwni
+    Translation: straight
+  - Word: forma
+    Translation: shape
+  - Word: lënia
+    Translation: line
+  - Word: tôczka
+    Translation: point
+  - Word: òbris
+    Translation: outline
+  - Word: strona
+    Translation: side
+  - Word: figura
+    Translation: figure
+  - Word: òblëk
+    Translation: shape
+
+Phrases:
+  - Phrase: To je krąg.
+    Translation: This is a circle.
+  - Phrase: Kòwadrôt mô sztërë stron.
+    Translation: A square has four sides.
+  - Phrase: Trójkąt mô trzë stron.
+    Translation: A triangle has three sides.
+  - Phrase: Ta lënia je długa.
+    Translation: This line is long.
+  - Phrase: To je mòja forma.
+    Translation: This is my shape.
+  - Phrase: Lënia je rôwnô.
+    Translation: The line is straight.
+  - Phrase: Tôczka to je môłi pùnkt.
+    Translation: A point is a small dot.
+  - Phrase: Widzymë òbris kòwadrota.
+    Translation: We see the outline of a square.
+  - Phrase: Figura je kòmpleksnô.
+    Translation: The figure is complex.
+  - Phrase: To je prosti òblëk.
+    Translation: This is a simple shape.
+  - Phrase: Ja malëjã wiôldżi krąg.
+    Translation: I am drawing a big circle.
+  - Phrase: Kòwadrôt i krąg są òsłónowé fòrmë.
+    Translation: Square and circle are basic shapes.
+  - Phrase: Lënia jidze przez stronã.
+    Translation: The line goes through the side.
+  - Phrase: Tôczka leżi na lënie.
+    Translation: The point lies on the line.
+  - Phrase: Òna znô wszëtczé òbrisë Anielsczé.
+    Translation: She knows every outline of England.
+  - Phrase: To je prosti trójkąt.
+    Translation: This is a simple triangle.
+  - Phrase: On maluje figùrë na papiórze.
+    Translation: He is drawing figures on paper.
+  - Phrase: Forma je jinteresantnô.
+    Translation: The shape is interesting.
+  - Phrase: Stół mô òblëk kòwadrota.
+    Translation: The table has the shape of a square.
+  - Phrase: Snôżô figùra stoji na stole.
+    Translation: A beautiful figure is standing on the table.
+
+Mini-dictionary:
+  Kashubian:
+    - anielsczé: undefined
+    - długa: undefined
+    - długi: undefined
+    - figura: undefined
+    - figùra: undefined
+    - figùrë: undefined
+    - forma: undefined
+    - fòrmë: undefined
+    - i: undefined
+    - ja: undefined
+    - je: undefined
+    - jidze: undefined
+    - jinteresantnô: undefined
+    - krąg: undefined
+    - kòmpleksnô: undefined
+    - kòwadrota: undefined
+    - kòwadrôt: undefined
+    - leżi: undefined
+    - lënia: undefined
+    - lënie: undefined
+    - maluje: undefined
+    - malëjã: undefined
+    - mòja: undefined
+    - mô: undefined
+    - môłi: undefined
+    - na: undefined
+    - on: undefined
+    - papiórze: undefined
+    - prosti: undefined
+    - przez: undefined
+    - pùnkt: undefined
+    - rôwni: undefined
+    - rôwnô: undefined
+    - snôżô: undefined
+    - stac: undefined
+    - stoi: undefined
+    - stoji: undefined
+    - stole: undefined
+    - stron: undefined
+    - strona: undefined
+    - stronã: undefined
+    - stół: undefined
+    - sztërë: undefined
+    - są: undefined
+    - ta: undefined
+    - to: undefined
+    - trzë: undefined
+    - trójkąt: undefined
+    - tôczka: undefined
+    - widzymë: undefined
+    - wiôldżi: undefined
+    - wszëtczé: undefined
+    - znô: undefined
+    - òblëk: undefined
+    - òbris: undefined
+    - òbrisë: undefined
+    - òna: undefined
+    - òsłónowé: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - basic: undefined
+    - beautiful: undefined
+    - big: undefined
+    - circle: undefined
+    - complex: undefined
+    - dot: undefined
+    - drawing: undefined
+    - england: undefined
+    - every: undefined
+    - figure: undefined
+    - figures: undefined
+    - four: undefined
+    - goes: undefined
+    - has: undefined
+    - he: undefined
+    - i: undefined
+    - interesting: undefined
+    - is: undefined
+    - knows: undefined
+    - lies: undefined
+    - line: undefined
+    - long: undefined
+    - my: undefined
+    - of: undefined
+    - on: undefined
+    - outline: undefined
+    - paper: undefined
+    - point: undefined
+    - see: undefined
+    - shape: undefined
+    - shapes: undefined
+    - she: undefined
+    - side: undefined
+    - sides: undefined
+    - simple: undefined
+    - small: undefined
+    - square: undefined
+    - stand: undefined
+    - standing: undefined
+    - straight: undefined
+    - table: undefined
+    - the: undefined
+    - this: undefined
+    - three: undefined
+    - through: undefined
+    - to: undefined
+    - triangle: undefined
+    - we: undefined

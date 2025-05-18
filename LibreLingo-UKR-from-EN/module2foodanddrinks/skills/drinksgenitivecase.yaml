@@ -1,0 +1,204 @@
+Skill:
+  Name: Drinks (Genitive case)
+  Id: 7
+
+New words:
+  - Word: вода
+    Translation: water
+  - Word: пиво
+    Translation: beer
+  - Word: пити
+    Translation: to drink
+  - Word: вино
+    Translation: wine
+  - Word: кава
+    Translation: coffee
+  - Word: сік
+    Translation: juice
+  - Word: хотіти (хоче)
+    Translation: to want
+  - Word: фляжка/пляшка
+    Translation: bottle
+  - Word: пробувати знайти
+    Translation: to try to find
+  - Word: чашка
+    Translation: glass
+  - Word: пляшка
+    Translation: bottle
+  - Word: чай
+    Translation: tea
+  - Word: молоко
+    Translation: milk
+  - Word: без
+    Translation: without
+  - Word: за
+    Translation: for
+  - Word: з/зі (походження)
+    Translation: from
+  - Word: у
+    Translation: at/by
+
+Phrases:
+  - Phrase: Я не маю води.
+    Translation: I do not have water.
+  - Phrase: Вона не п'є вина.
+    Translation: She does not drink wine.
+  - Phrase: Ми не п'ємо пива.
+    Translation: We do not drink beer.
+  - Phrase: Ти маєш пляшку соку?
+    Translation: Do you have a bottle of juice?
+  - Phrase: Вони не купують пляшок пива.
+    Translation: They are not buying bottles of beer.
+  - Phrase: Він не має кави.
+    Translation: He does not have coffee.
+  - Phrase: П'єш без молока?
+    Translation: Do you drink without milk?
+  - Phrase: Вона не п'є чаю.
+    Translation: She does not drink tea.
+  - Phrase: Чашка вина для мене, прошу.
+    Translation: A glass of wine for me, please.
+  - Phrase: Пляшка води лежить на столі.
+    Translation: A bottle of water is lying on the table.
+  - Phrase: Я люблю сік без цукру.
+    Translation: I like juice without sugar.
+  - Phrase: Він не любить кави без молока.
+    Translation: He does not like coffee without milk.
+  - Phrase: Ти є без фляжки/пляшки?
+    Translation: Are you without a bottle?
+  - Phrase: Вона пробує знайти чашку без вина.
+    Translation: She is trying to find a glass without wine.
+  - Phrase: Він не хоче пити соку.
+    Translation: He does not want to drink juice.
+  - Phrase: Ти п'єш вино?
+    Translation: Do you drink wine?
+  - Phrase: Це вино з Польщі.
+    Translation: This wine is from Poland.
+  - Phrase: У Франка горілки нема.
+    Translation: Frank has no vodka.
+  - Phrase: Ми п'ємо пиво з пляшки.
+    Translation: We are drinking beer from the bottle.
+  - Phrase: Дайте мені чашку вина, прошу.
+    Translation: Give me a glass of wine, please.
+  - Phrase: Він п'є за тебе
+    Translation: He is drinking for you
+
+Mini-dictionary:
+  Ukrainian:
+    - без: undefined
+    - вина: undefined
+    - вино: undefined
+    - вода: undefined
+    - води: undefined
+    - вона: undefined
+    - вони: undefined
+    - він: undefined
+    - горілки: undefined
+    - дайте: undefined
+    - для: undefined
+    - з: undefined
+    - з/зі: undefined
+    - за: undefined
+    - знайти: undefined
+    - кава: undefined
+    - кави: undefined
+    - купують: undefined
+    - лежить: undefined
+    - любить: undefined
+    - люблю: undefined
+    - маю: undefined
+    - має: undefined
+    - маєш: undefined
+    - мене: undefined
+    - мені: undefined
+    - ми: undefined
+    - молока: undefined
+    - молоко: undefined
+    - на: undefined
+    - не: undefined
+    - нема: undefined
+    - п'є: undefined
+    - п'ємо: undefined
+    - п'єш: undefined
+    - пива: undefined
+    - пиво: undefined
+    - пити: undefined
+    - пляшка: undefined
+    - пляшки: undefined
+    - пляшку: undefined
+    - пляшок: undefined
+    - польщі: undefined
+    - походження: undefined
+    - пробувати: undefined
+    - пробує: undefined
+    - прошу: undefined
+    - соку: undefined
+    - столі: undefined
+    - сік: undefined
+    - тебе: undefined
+    - ти: undefined
+    - у: undefined
+    - фляжка/пляшка: undefined
+    - фляжки/пляшки: undefined
+    - франка: undefined
+    - хотіти: undefined
+    - хоче: undefined
+    - це: undefined
+    - цукру: undefined
+    - чай: undefined
+    - чашка: undefined
+    - чашку: undefined
+    - чаю: undefined
+    - я: undefined
+    - є: undefined
+  English:
+    - a: undefined
+    - are: undefined
+    - at/by: undefined
+    - beer: undefined
+    - bottle: undefined
+    - bottles: undefined
+    - buying: undefined
+    - coffee: undefined
+    - do: undefined
+    - does: undefined
+    - drink: undefined
+    - drinking: undefined
+    - find: undefined
+    - for: undefined
+    - frank: undefined
+    - from: undefined
+    - give: undefined
+    - glass: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - i: undefined
+    - is: undefined
+    - juice: undefined
+    - like: undefined
+    - lying: undefined
+    - me: undefined
+    - milk: undefined
+    - no: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - please: undefined
+    - poland: undefined
+    - she: undefined
+    - sugar: undefined
+    - table: undefined
+    - tea: undefined
+    - the: undefined
+    - they: undefined
+    - this: undefined
+    - to: undefined
+    - try: undefined
+    - trying: undefined
+    - vodka: undefined
+    - want: undefined
+    - water: undefined
+    - we: undefined
+    - wine: undefined
+    - without: undefined
+    - you: undefined

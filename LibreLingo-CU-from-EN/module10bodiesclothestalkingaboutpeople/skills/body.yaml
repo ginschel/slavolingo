@@ -1,0 +1,232 @@
+Skill:
+  Name: Body
+  Id: 35
+
+New words:
+  - Word: рѫка
+    Translation: hand
+  - Word: нога
+    Translation: leg
+  - Word: глава
+    Translation: head
+  - Word: око
+    Translation: eye
+  - Word: мозгъ
+    Translation: brain
+  - Word: стопа
+    Translation: foot
+  - Word: оухо
+    Translation: ear
+  - Word: носъ
+    Translation: nose
+  - Word: лицє
+    Translation: face
+  - Word: сръдьцє
+    Translation: heart
+  - Word: пръстъ
+    Translation: finger
+  - Word: жєлѫдъкъ
+    Translation: stomach
+  - Word: тѣло
+    Translation: body
+  - Word: болѣти (болитъ)
+    Translation: to hurt
+  - Word: власꙑ
+    Translation: hair
+  - Word: подобьнъ
+    Translation: similar
+  - Word: слꙑшати (слꙑшитъ)
+    Translation: to hear
+
+Phrases:
+  - Phrase: Моꙗ рѫка болитъ.
+    Translation: My hand hurts.
+  - Phrase: Она имаѥтъ дълъгѫ ногѫ.
+    Translation: She has a long leg.
+  - Phrase: Глава ѥстъ на тѣлꙋ.
+    Translation: The head is on the body.
+  - Phrase: Онъ имаѥтъ модрє красьни очи.
+    Translation: He has beautiful blue eyes.
+  - Phrase: Ѥѩ оухо нє слꙑшитъ добро.
+    Translation: Her ear does not hear well.
+  - Phrase: Носъ ѥстъ чрьвєнъи отъ мраза.
+    Translation: The nose is red from the cold.
+  - Phrase: Лицє ѥстъ подобьно.
+    Translation: The face is similar.
+  - Phrase: ѥѥ срьдьце трєпєщєтъ бръзо.
+    Translation: Her heart beats fast.
+  - Phrase: Мнѣ жєлѫдъкъ болитъ.
+    Translation: My stomach hurts.
+  - Phrase: Тѣло оу мєнє здраво.
+    Translation: My body is healthy.
+  - Phrase: Азъ имамъ дъвѣ рѫки и дъвѣ ноги и тъждє дъвѣ стопꙑ.
+    Translation: I have two hands and two legs, and also two feet.
+  - Phrase: Очи глѧдаѭтъ въ книгѫ.
+    Translation: The eyes are looking at the book.
+  - Phrase: Оухо слꙑшитъ мꙋзикꙋ.
+    Translation: The ear hears music.
+  - Phrase: Ѥго мозгъ ѥстъ бързъи.
+    Translation: His brain is quick.
+  - Phrase: Ѥѩ лицє ѥстъ красьно.
+    Translation: Her face is beautiful.
+  - Phrase: Сръдьцє ѥстъ символъ любъви.
+    Translation: The heart is a symbol of love.
+  - Phrase: Мои жєлѫдъкъ ѥстъ просто пълънъи по вєчєрѣ.
+    Translation: My stomach is just full after dinner.
+  - Phrase: Тѣлꙋ трѣба отьпочѭ.
+    Translation: The body needs rest.
+  - Phrase: Онъ имаѥтъ каштанови власꙑ на главѣ.
+    Translation: He has chestnut-colored hair on his head.
+  - Phrase: Она слꙑшитъ тєбє тълико ѥдиномъ оухомъ.
+    Translation: She hears you only with one ear.
+
+Mini-dictionary:
+  Church Slavonic:
+    - азъ: undefined
+    - болитъ: undefined
+    - болѣти: undefined
+    - бръзо: undefined
+    - бързъи: undefined
+    - власꙑ: undefined
+    - въ: undefined
+    - вєчєрѣ: undefined
+    - глава: undefined
+    - главѣ: undefined
+    - глѧдаѭтъ: undefined
+    - добро: undefined
+    - дъвѣ: undefined
+    - дълъгѫ: undefined
+    - жєлѫдъкъ: undefined
+    - здраво: undefined
+    - и: undefined
+    - имамъ: undefined
+    - имаѥтъ: undefined
+    - каштанови: undefined
+    - книгѫ: undefined
+    - красьни: undefined
+    - красьно: undefined
+    - лицє: undefined
+    - любъви: undefined
+    - мнѣ: undefined
+    - модрє: undefined
+    - мозгъ: undefined
+    - мои: undefined
+    - моꙗ: undefined
+    - мраза: undefined
+    - мєнє: undefined
+    - мꙋзикꙋ: undefined
+    - на: undefined
+    - нога: undefined
+    - ноги: undefined
+    - ногѫ: undefined
+    - носъ: undefined
+    - нє: undefined
+    - око: undefined
+    - она: undefined
+    - онъ: undefined
+    - отъ: undefined
+    - отьпочѭ: undefined
+    - оу: undefined
+    - оухо: undefined
+    - оухомъ: undefined
+    - очи: undefined
+    - по: undefined
+    - подобьно: undefined
+    - подобьнъ: undefined
+    - просто: undefined
+    - пръстъ: undefined
+    - пълънъи: undefined
+    - рѫка: undefined
+    - рѫки: undefined
+    - символъ: undefined
+    - слꙑшати: undefined
+    - слꙑшитъ: undefined
+    - сръдьцє: undefined
+    - срьдьце: undefined
+    - стопа: undefined
+    - стопꙑ: undefined
+    - трєпєщєтъ: undefined
+    - трѣба: undefined
+    - тъждє: undefined
+    - тълико: undefined
+    - тєбє: undefined
+    - тѣло: undefined
+    - тѣлꙋ: undefined
+    - чрьвєнъи: undefined
+    - ѥго: undefined
+    - ѥдиномъ: undefined
+    - ѥстъ: undefined
+    - ѥѥ: undefined
+    - ѥѩ: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beats: undefined
+    - beautiful: undefined
+    - blue: undefined
+    - body: undefined
+    - book: undefined
+    - brain: undefined
+    - chestnut-colored: undefined
+    - cold: undefined
+    - dinner: undefined
+    - does: undefined
+    - ear: undefined
+    - eye: undefined
+    - eyes: undefined
+    - face: undefined
+    - fast: undefined
+    - feet: undefined
+    - finger: undefined
+    - foot: undefined
+    - from: undefined
+    - full: undefined
+    - hair: undefined
+    - hand: undefined
+    - hands: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - head: undefined
+    - healthy: undefined
+    - hear: undefined
+    - hears: undefined
+    - heart: undefined
+    - her: undefined
+    - his: undefined
+    - hurt: undefined
+    - hurts: undefined
+    - i: undefined
+    - is: undefined
+    - just: undefined
+    - leg: undefined
+    - legs: undefined
+    - long: undefined
+    - looking: undefined
+    - love: undefined
+    - music: undefined
+    - my: undefined
+    - needs: undefined
+    - nose: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - one: undefined
+    - only: undefined
+    - quick: undefined
+    - red: undefined
+    - rest: undefined
+    - she: undefined
+    - similar: undefined
+    - stomach: undefined
+    - symbol: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - well: undefined
+    - with: undefined
+    - you: undefined

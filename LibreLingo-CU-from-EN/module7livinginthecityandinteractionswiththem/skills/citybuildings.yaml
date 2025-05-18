@@ -1,0 +1,184 @@
+Skill:
+  Name: City/Buildings
+  Id: 21
+
+New words:
+  - Word: градъ
+    Translation: city
+  - Word: домъ
+    Translation: house
+  - Word: тръгъ
+    Translation: square/market
+  - Word: станициꙗ
+    Translation: station
+  - Word: мостъ
+    Translation: bridge
+  - Word: магазина
+    Translation: shop/store
+  - Word: търговищє
+    Translation: market
+  - Word: библиотека
+    Translation: library
+  - Word: црькъвь
+    Translation: church
+  - Word: ылица
+    Translation: street
+  - Word: вєсти (вєдєтъ)
+    Translation: to lead
+
+Phrases:
+  - Phrase: Сь ѥстъ вєликъи градъ.
+    Translation: This is a big city.
+  - Phrase: Домъ стои на ылици.
+    Translation: The house stands on the street.
+  - Phrase: Идємъ до тръга.
+    Translation: We are going to the square.
+  - Phrase: Станициꙗ ѥстъ близъко цєнтра.
+    Translation: The station is near the center.
+  - Phrase: Мостъ идєтъ чрѣзъ рѣкѫ.
+    Translation: The bridge goes over the river.
+  - Phrase: Кꙋпꙋѥмъ хлѣбъ въ магазинꙋ.
+    Translation: We buy bread in the shop.
+  - Phrase: На търговищи ѥстъ мьного людии.
+    Translation: There are many people at the market.
+  - Phrase: Читаѭ книгѫ въ библиотецѣ.
+    Translation: I read a book in the library.
+  - Phrase: Црькъвь ѥстъ стара и бѣла.
+    Translation: The church is old and white.
+  - Phrase: ылица ѥстъ дълъга и тєпла.
+    Translation: The street is long and warm.
+  - Phrase: Градъ имаѥтъ мьного домовъ.
+    Translation: The city has many houses.
+  - Phrase: Магазина ѥстъ отъворѥнъи тꙋ дьнь.
+    Translation: The shop is open today.
+  - Phrase: Црькъвь стои близъко библиотекꙑ.
+    Translation: The church stands near the library.
+  - Phrase: ылица вєдєтъ до тръга.
+    Translation: The street leads to the square.
+  - Phrase: На тръгꙋ стои фонтана.
+    Translation: A fountain stands in the square.
+  - Phrase: Мостъ ѥстъ красьнъи и новъи.
+    Translation: The bridge is beautiful and new.
+  - Phrase: Сь ѥстъ мои домъ въ градꙋ.
+    Translation: This is my house in the city.
+  - Phrase: Станициꙗ имаѥтъ мьного поѥздовъ.
+    Translation: The station has many trains.
+  - Phrase: ылица идєтъ до магазина.
+    Translation: The street goes to the shop.
+  - Phrase: Тръгъ ѥстъ пълънъ людии.
+    Translation: The square is full of people.
+
+Mini-dictionary:
+  Church Slavonic:
+    - библиотека: undefined
+    - библиотекꙑ: undefined
+    - библиотецѣ: undefined
+    - близъко: undefined
+    - бѣла: undefined
+    - въ: undefined
+    - вєдєтъ: undefined
+    - вєликъи: undefined
+    - вєсти: undefined
+    - градъ: undefined
+    - градꙋ: undefined
+    - до: undefined
+    - домовъ: undefined
+    - домъ: undefined
+    - дълъга: undefined
+    - дьнь: undefined
+    - и: undefined
+    - идємъ: undefined
+    - идєтъ: undefined
+    - имаѥтъ: undefined
+    - книгѫ: undefined
+    - красьнъи: undefined
+    - кꙋпꙋѥмъ: undefined
+    - людии: undefined
+    - магазина: undefined
+    - магазинꙋ: undefined
+    - мои: undefined
+    - мостъ: undefined
+    - мьного: undefined
+    - на: undefined
+    - новъи: undefined
+    - отъворѥнъи: undefined
+    - поѥздовъ: undefined
+    - пълънъ: undefined
+    - рѣкѫ: undefined
+    - станициꙗ: undefined
+    - стара: undefined
+    - стои: undefined
+    - сь: undefined
+    - тръга: undefined
+    - тръгъ: undefined
+    - тръгꙋ: undefined
+    - търговищи: undefined
+    - търговищє: undefined
+    - тєпла: undefined
+    - тꙋ: undefined
+    - фонтана: undefined
+    - хлѣбъ: undefined
+    - црькъвь: undefined
+    - цєнтра: undefined
+    - читаѭ: undefined
+    - чрѣзъ: undefined
+    - ылица: undefined
+    - ылици: undefined
+    - ѥстъ: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beautiful: undefined
+    - big: undefined
+    - book: undefined
+    - bread: undefined
+    - bridge: undefined
+    - buy: undefined
+    - center: undefined
+    - church: undefined
+    - city: undefined
+    - fountain: undefined
+    - full: undefined
+    - goes: undefined
+    - going: undefined
+    - has: undefined
+    - house: undefined
+    - houses: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - lead: undefined
+    - leads: undefined
+    - library: undefined
+    - long: undefined
+    - many: undefined
+    - market: undefined
+    - my: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - over: undefined
+    - people: undefined
+    - read: undefined
+    - river: undefined
+    - shop: undefined
+    - shop/store: undefined
+    - square: undefined
+    - square/market: undefined
+    - stands: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - today: undefined
+    - trains: undefined
+    - warm: undefined
+    - we: undefined
+    - white: undefined

@@ -1,0 +1,191 @@
+Skill:
+  Name: Transport/Vehicles/Car
+  Id: 23
+
+New words:
+  - Word: auto
+    Translation: car
+  - Word: autobus
+    Translation: bus
+  - Word: vlak
+    Translation: train
+  - Word: kotač/bicikl
+    Translation: bicycle
+  - Word: stanica
+    Translation: station
+  - Word: vozač
+    Translation: driver
+  - Word: cesta
+    Translation: road
+  - Word: most
+    Translation: bridge
+  - Word: brzina
+    Translation: speed
+  - Word: semafor
+    Translation: traffic light
+  - Word: ići (vozilom) (ide)
+    Translation: to go/drive
+  - Word: sjesti (sjeda)
+    Translation: to sit
+  - Word: povezati (povezuje)
+    Translation: to connect/tie
+  - Word: razbijen/pokvaren
+    Translation: broken
+  - Word: oprezan
+    Translation: careful
+
+Phrases:
+  - Phrase: Auto stoji na ulici.
+    Translation: The car is standing on the street.
+  - Phrase: Autobus ide do centra.
+    Translation: The bus goes to the center.
+  - Phrase: Vlak ide na stanicu.
+    Translation: The train goes to the station.
+  - Phrase: Ovdje je sjedenje. Može se sjesti.
+    Translation: Here is a seat. One can sit.
+  - Phrase: Stanica je velika.
+    Translation: The station is big.
+  - Phrase: Vozač vozi brzo.
+    Translation: The driver drives fast.
+  - Phrase: Cesta ide kroz šumu.
+    Translation: The road goes through the forest.
+  - Phrase: Most povezuje dva grada.
+    Translation: The bridge connects two cities.
+  - Phrase: Brzina je važna za sigurnost na ulici.
+    Translation: A speed limit is important for the security on the street.
+  - Phrase: Semafor pokazuje crveno.
+    Translation: The traffic light shows red.
+  - Phrase: Auto je novo i lijepo.
+    Translation: The car is new and beautiful.
+  - Phrase: Autobus prevozi mnogo ljudi.
+    Translation: The bus carries many people.
+  - Phrase: Vlak ide na sjever.
+    Translation: The train goes to the north.
+  - Phrase: Kotač je razbijen/pokvaren.
+    Translation: The bicycle is broken.
+  - Phrase: Stanica je otvorena.
+    Translation: The station is open.
+  - Phrase: Vozač je oprezan.
+    Translation: The driver is careful.
+  - Phrase: Cesta je široka.
+    Translation: The road is wide.
+  - Phrase: Most je visok.
+    Translation: The bridge is high.
+  - Phrase: Brzina je ograničena.
+    Translation: The speed is limited.
+  - Phrase: Semafor pokazuje zeleno.
+    Translation: The traffic light shows green.
+
+Mini-dictionary:
+  Croatian:
+    - auto: undefined
+    - autobus: undefined
+    - brzina: undefined
+    - brzo: undefined
+    - centra: undefined
+    - cesta: undefined
+    - crveno: undefined
+    - do: undefined
+    - dva: undefined
+    - grada: undefined
+    - i: undefined
+    - ide: undefined
+    - ići: undefined
+    - je: undefined
+    - kotač: undefined
+    - kotač/bicikl: undefined
+    - kroz: undefined
+    - lijepo: undefined
+    - ljudi: undefined
+    - mnogo: undefined
+    - most: undefined
+    - može: undefined
+    - na: undefined
+    - novo: undefined
+    - ograničena: undefined
+    - oprezan: undefined
+    - otvorena: undefined
+    - ovdje: undefined
+    - pokazuje: undefined
+    - povezati: undefined
+    - povezuje: undefined
+    - prevozi: undefined
+    - razbijen/pokvaren: undefined
+    - se: undefined
+    - semafor: undefined
+    - sigurnost: undefined
+    - sjeda: undefined
+    - sjedenje: undefined
+    - sjesti: undefined
+    - sjever: undefined
+    - stanica: undefined
+    - stanicu: undefined
+    - stoji: undefined
+    - ulici: undefined
+    - važna: undefined
+    - velika: undefined
+    - visok: undefined
+    - vlak: undefined
+    - vozač: undefined
+    - vozi: undefined
+    - vozilom: undefined
+    - za: undefined
+    - zeleno: undefined
+    - široka: undefined
+    - šumu: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - beautiful: undefined
+    - bicycle: undefined
+    - big: undefined
+    - bridge: undefined
+    - broken: undefined
+    - bus: undefined
+    - can: undefined
+    - car: undefined
+    - careful: undefined
+    - carries: undefined
+    - center: undefined
+    - cities: undefined
+    - connect/tie: undefined
+    - connects: undefined
+    - driver: undefined
+    - drives: undefined
+    - fast: undefined
+    - for: undefined
+    - forest: undefined
+    - go/drive: undefined
+    - goes: undefined
+    - green: undefined
+    - here: undefined
+    - high: undefined
+    - important: undefined
+    - is: undefined
+    - light: undefined
+    - limit: undefined
+    - limited: undefined
+    - many: undefined
+    - new: undefined
+    - north: undefined
+    - on: undefined
+    - one: undefined
+    - open: undefined
+    - people: undefined
+    - red: undefined
+    - road: undefined
+    - seat: undefined
+    - security: undefined
+    - shows: undefined
+    - sit: undefined
+    - speed: undefined
+    - standing: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - through: undefined
+    - to: undefined
+    - traffic: undefined
+    - train: undefined
+    - two: undefined
+    - wide: undefined

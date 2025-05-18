@@ -1,0 +1,229 @@
+Skill:
+  Name: Body
+  Id: 35
+
+New words:
+  - Word: ruka
+    Translation: hand
+  - Word: noha
+    Translation: leg
+  - Word: hlava
+    Translation: head
+  - Word: oko
+    Translation: eye
+  - Word: mozog
+    Translation: brain
+  - Word: chodidlo
+    Translation: foot
+  - Word: ucho
+    Translation: ear
+  - Word: nos
+    Translation: nose
+  - Word: tvár
+    Translation: face
+  - Word: srdce
+    Translation: heart
+  - Word: prst
+    Translation: finger
+  - Word: žalúdok
+    Translation: stomach
+  - Word: telo
+    Translation: body
+  - Word: bolieť (bolí)
+    Translation: to hurt
+  - Word: vlasy
+    Translation: hair
+  - Word: podobný
+    Translation: similar
+  - Word: počuť (počuje)
+    Translation: to hear
+
+Phrases:
+  - Phrase: Moja ruka bolí.
+    Translation: My hand hurts.
+  - Phrase: Ona má dlhú nohu.
+    Translation: She has a long leg.
+  - Phrase: Hlava je na tele.
+    Translation: The head is on the body.
+  - Phrase: On má modré krásne oči.
+    Translation: He has beautiful blue eyes.
+  - Phrase: Jej ucho nepočuje dobre.
+    Translation: Her ear does not hear well.
+  - Phrase: Nos je červený od mrazu.
+    Translation: The nose is red from the cold.
+  - Phrase: Tvár je podobná.
+    Translation: The face is similar.
+  - Phrase: Jej srdce bije rýchlo.
+    Translation: Her heart beats fast.
+  - Phrase: Žalúdok ťa bolí.
+    Translation: My stomach hurts.
+  - Phrase: Telo u mňa je zdravé.
+    Translation: My body is healthy.
+  - Phrase: Ja mám dve ruky a dve nohy a tiež dve chodidlá.
+    Translation: I have two hands and two legs, and also two feet.
+  - Phrase: Oči pozerajú do knihy.
+    Translation: The eyes are looking at the book.
+  - Phrase: Ucho počuje hudbu.
+    Translation: The ear hears music.
+  - Phrase: Jeho mozog je rýchly.
+    Translation: His brain is quick.
+  - Phrase: Jej tvár je krásna.
+    Translation: Her face is beautiful.
+  - Phrase: Srdce je symbol lásky.
+    Translation: The heart is a symbol of love.
+  - Phrase: Môj žalúdok je proste plný po večeri.
+    Translation: My stomach is just full after dinner.
+  - Phrase: Telo potrebuje odpočinok.
+    Translation: The body needs rest.
+  - Phrase: On má gaštanové vlasy na hlave.
+    Translation: He has chestnut-colored hair on his head.
+  - Phrase: Ona ťa počuje len jedným uchom.
+    Translation: She hears you only with one ear.
+
+Mini-dictionary:
+  Slovak:
+    - a: undefined
+    - bije: undefined
+    - bolieť: undefined
+    - bolí: undefined
+    - chodidlo: undefined
+    - chodidlá: undefined
+    - dlhú: undefined
+    - do: undefined
+    - dobre: undefined
+    - dve: undefined
+    - gaštanové: undefined
+    - hlava: undefined
+    - hlave: undefined
+    - hudbu: undefined
+    - ja: undefined
+    - je: undefined
+    - jedným: undefined
+    - jeho: undefined
+    - jej: undefined
+    - knihy: undefined
+    - krásna: undefined
+    - krásne: undefined
+    - len: undefined
+    - lásky: undefined
+    - modré: undefined
+    - moja: undefined
+    - mozog: undefined
+    - mrazu: undefined
+    - má: undefined
+    - mám: undefined
+    - môj: undefined
+    - mňa: undefined
+    - na: undefined
+    - nepočuje: undefined
+    - noha: undefined
+    - nohu: undefined
+    - nohy: undefined
+    - nos: undefined
+    - od: undefined
+    - odpočinok: undefined
+    - oko: undefined
+    - on: undefined
+    - ona: undefined
+    - oči: undefined
+    - plný: undefined
+    - po: undefined
+    - podobná: undefined
+    - podobný: undefined
+    - potrebuje: undefined
+    - pozerajú: undefined
+    - počuje: undefined
+    - počuť: undefined
+    - proste: undefined
+    - prst: undefined
+    - ruka: undefined
+    - ruky: undefined
+    - rýchlo: undefined
+    - rýchly: undefined
+    - srdce: undefined
+    - symbol: undefined
+    - tele: undefined
+    - telo: undefined
+    - tiež: undefined
+    - tvár: undefined
+    - u: undefined
+    - ucho: undefined
+    - uchom: undefined
+    - večeri: undefined
+    - vlasy: undefined
+    - zdravé: undefined
+    - červený: undefined
+    - ťa: undefined
+    - žalúdok: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beats: undefined
+    - beautiful: undefined
+    - blue: undefined
+    - body: undefined
+    - book: undefined
+    - brain: undefined
+    - chestnut-colored: undefined
+    - cold: undefined
+    - dinner: undefined
+    - does: undefined
+    - ear: undefined
+    - eye: undefined
+    - eyes: undefined
+    - face: undefined
+    - fast: undefined
+    - feet: undefined
+    - finger: undefined
+    - foot: undefined
+    - from: undefined
+    - full: undefined
+    - hair: undefined
+    - hand: undefined
+    - hands: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - head: undefined
+    - healthy: undefined
+    - hear: undefined
+    - hears: undefined
+    - heart: undefined
+    - her: undefined
+    - his: undefined
+    - hurt: undefined
+    - hurts: undefined
+    - i: undefined
+    - is: undefined
+    - just: undefined
+    - leg: undefined
+    - legs: undefined
+    - long: undefined
+    - looking: undefined
+    - love: undefined
+    - music: undefined
+    - my: undefined
+    - needs: undefined
+    - nose: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - one: undefined
+    - only: undefined
+    - quick: undefined
+    - red: undefined
+    - rest: undefined
+    - she: undefined
+    - similar: undefined
+    - stomach: undefined
+    - symbol: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - well: undefined
+    - with: undefined
+    - you: undefined

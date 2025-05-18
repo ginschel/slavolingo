@@ -1,0 +1,210 @@
+Skill:
+  Name: Nature
+  Id: 15
+
+New words:
+  - Word: река
+    Translation: river
+  - Word: через
+    Translation: through
+  - Word: гора
+    Translation: mountain
+  - Word: долина
+    Translation: valley
+  - Word: лес
+    Translation: forest
+  - Word: трава
+    Translation: grass
+  - Word: цветок
+    Translation: flower
+  - Word: роза
+    Translation: rose
+  - Word: расти (растёт)
+    Translation: to grow
+  - Word: земля
+    Translation: earth
+  - Word: камень
+    Translation: stone
+  - Word: поле
+    Translation: field
+  - Word: дуб
+    Translation: oak
+  - Word: луна
+    Translation: moon
+  - Word: цвести (цветёт)
+    Translation: to bloom
+  - Word: дерево
+    Translation: tree
+  - Word: лежать (лежит)
+    Translation: to lie
+  - Word: между
+    Translation: between
+
+Phrases:
+  - Phrase: Река течёт через долину.
+    Translation: The river flows through the valley.
+  - Phrase: Гора есть высокая.
+    Translation: The mountain is high.
+  - Phrase: Мы идём в лес.
+    Translation: We are going to the forest.
+  - Phrase: Трава есть зелёная.
+    Translation: The grass is green.
+  - Phrase: Цветы красиво цветут.
+    Translation: The flowers bloom beautifully.
+  - Phrase: Он стоит на камне.
+    Translation: He is standing on the stone.
+  - Phrase: Земля есть мокрая.
+    Translation: The earth is wet.
+  - Phrase: Роза растёт на поле.
+    Translation: The rose grows in the field.
+  - Phrase: Долина лежит между горами.
+    Translation: The valley lies between the mountains.
+  - Phrase: Поле есть широкое.
+    Translation: The field is wide.
+  - Phrase: Они идут через лес с много деревьями.
+    Translation: They are going through the forest with many trees.
+  - Phrase: Трава растёт быстро.
+    Translation: The grass grows fast.
+  - Phrase: Камни суть тяжёлые.
+    Translation: The stones are heavy.
+  - Phrase: Цветок растёт из земли.
+    Translation: A flower grows from the earth.
+  - Phrase: Вода идёт до реки.
+    Translation: Water goes to the river.
+  - Phrase: Поле есть за домом.
+    Translation: The field is behind the house.
+  - Phrase: Идём к дубу.
+    Translation: We are going towards the oak.
+  - Phrase: Луна сегодня красивая
+    Translation: The moon today is beautiful
+  - Phrase: Мы стоим на земле.
+    Translation: We are standing on the earth.
+  - Phrase: Они смотрят в долину.
+    Translation: They are looking into the valley.
+  - Phrase: Река идёт между полями.
+    Translation: The river goes between the fields.
+
+Mini-dictionary:
+  Russian:
+    - быстро: undefined
+    - в: undefined
+    - вода: undefined
+    - высокая: undefined
+    - гора: undefined
+    - горами: undefined
+    - дерево: undefined
+    - деревьями: undefined
+    - до: undefined
+    - долина: undefined
+    - долину: undefined
+    - домом: undefined
+    - дуб: undefined
+    - дубу: undefined
+    - есть: undefined
+    - за: undefined
+    - зелёная: undefined
+    - земле: undefined
+    - земли: undefined
+    - земля: undefined
+    - идут: undefined
+    - идём: undefined
+    - идёт: undefined
+    - из: undefined
+    - к: undefined
+    - камень: undefined
+    - камне: undefined
+    - камни: undefined
+    - красивая: undefined
+    - красиво: undefined
+    - лежать: undefined
+    - лежит: undefined
+    - лес: undefined
+    - луна: undefined
+    - между: undefined
+    - много: undefined
+    - мокрая: undefined
+    - мы: undefined
+    - на: undefined
+    - он: undefined
+    - они: undefined
+    - поле: undefined
+    - полями: undefined
+    - расти: undefined
+    - растёт: undefined
+    - река: undefined
+    - реки: undefined
+    - роза: undefined
+    - с: undefined
+    - сегодня: undefined
+    - смотрят: undefined
+    - стоим: undefined
+    - стоит: undefined
+    - суть: undefined
+    - течёт: undefined
+    - трава: undefined
+    - тяжёлые: undefined
+    - цвести: undefined
+    - цветок: undefined
+    - цветут: undefined
+    - цветы: undefined
+    - цветёт: undefined
+    - через: undefined
+    - широкое: undefined
+  English:
+    - a: undefined
+    - are: undefined
+    - beautiful: undefined
+    - beautifully: undefined
+    - behind: undefined
+    - between: undefined
+    - bloom: undefined
+    - earth: undefined
+    - fast: undefined
+    - field: undefined
+    - fields: undefined
+    - flower: undefined
+    - flowers: undefined
+    - flows: undefined
+    - forest: undefined
+    - from: undefined
+    - goes: undefined
+    - going: undefined
+    - grass: undefined
+    - green: undefined
+    - grow: undefined
+    - grows: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - house: undefined
+    - in: undefined
+    - into: undefined
+    - is: undefined
+    - lie: undefined
+    - lies: undefined
+    - looking: undefined
+    - many: undefined
+    - moon: undefined
+    - mountain: undefined
+    - mountains: undefined
+    - oak: undefined
+    - on: undefined
+    - river: undefined
+    - rose: undefined
+    - standing: undefined
+    - stone: undefined
+    - stones: undefined
+    - the: undefined
+    - they: undefined
+    - through: undefined
+    - to: undefined
+    - today: undefined
+    - towards: undefined
+    - tree: undefined
+    - trees: undefined
+    - valley: undefined
+    - water: undefined
+    - we: undefined
+    - wet: undefined
+    - wide: undefined
+    - with: undefined

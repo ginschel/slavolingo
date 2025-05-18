@@ -1,0 +1,178 @@
+Skill:
+  Name: Nationalities / Languages
+  Id: 11
+
+New words:
+  - Word: słowian
+    Translation: Slav
+  - Word: gŏdka
+    Translation: language
+  - Word: kraj
+    Translation: country
+  - Word: nŏrōd
+    Translation: nation
+  - Word: miano
+    Translation: name
+  - Word: Kroatka
+    Translation: Croat
+  - Word: Rus
+    Translation: Russian
+  - Word: Polŏk
+    Translation: Pole
+  - Word: Niymiec
+    Translation: German
+  - Word: Anglik
+    Translation: Englishman
+
+Phrases:
+  - Phrase: Ôn je Słowianym.
+    Translation: He is a Slav.
+  - Phrase: Ôna godo po słowiańsku.
+    Translation: She speaks the Slavic language.
+  - Phrase: To je moja gŏdka.
+    Translation: This is my language.
+  - Phrase: Kraje je Polska.
+    Translation: The country is Poland.
+  - Phrase: Jo żech je Polŏkym.
+    Translation: I am a Pole.
+  - Phrase: Ôna je Kroatkōm.
+    Translation: She is a Croat.
+  - Phrase: Ôn je Rusym.
+    Translation: He is a Russian.
+  - Phrase: Godosz po niymiecku?
+    Translation: Do you speak the German language?
+  - Phrase: Anglik godo po angielsku.
+    Translation: An Englishman speaks the English language.
+  - Phrase: My lubiōmy nasz nŏrōd.
+    Translation: We love our nation.
+  - Phrase: To je miano mojigo kraju.
+    Translation: This is the name of my country.
+  - Phrase: Ôn wia trzi gŏdki.
+    Translation: He knows three languages.
+  - Phrase: Kroat godo po chorwacku.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Niymiec miyszko we Niymcach.
+    Translation: A German lives in Germany.
+  - Phrase: Ôna zna rusko a słowiańsko.
+    Translation: She knows Russian and Slavic.
+  - Phrase: To je nŏrōd z bogatōm kulturōm.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Ty żeś je Anglikym?
+    Translation: Are you an Englishman?
+  - Phrase: Ôn godo kożdōm gŏdka dobrze.
+    Translation: He speaks every language well.
+  - Phrase: My uczyjymy sie ruskij gŏdki.
+    Translation: We are learning the Russian language.
+  - Phrase: Ôna zna moc narodōw.
+    Translation: She knows many nations.
+
+Mini-dictionary:
+  Silesian:
+    - a: undefined
+    - angielsku: undefined
+    - anglik: undefined
+    - anglikym: undefined
+    - bogatōm: undefined
+    - chorwacku: undefined
+    - dobrze: undefined
+    - godo: undefined
+    - godosz: undefined
+    - gŏdka: undefined
+    - gŏdki: undefined
+    - je: undefined
+    - jo: undefined
+    - kożdōm: undefined
+    - kraj: undefined
+    - kraje: undefined
+    - kraju: undefined
+    - kroat: undefined
+    - kroatka: undefined
+    - kroatkōm: undefined
+    - kulturōm: undefined
+    - lubiōmy: undefined
+    - miano: undefined
+    - miyszko: undefined
+    - moc: undefined
+    - moja: undefined
+    - mojigo: undefined
+    - my: undefined
+    - narodōw: undefined
+    - nasz: undefined
+    - niymcach: undefined
+    - niymiec: undefined
+    - niymiecku: undefined
+    - nŏrōd: undefined
+    - po: undefined
+    - polska: undefined
+    - polŏk: undefined
+    - polŏkym: undefined
+    - rus: undefined
+    - ruskij: undefined
+    - rusko: undefined
+    - rusym: undefined
+    - sie: undefined
+    - słowian: undefined
+    - słowianym: undefined
+    - słowiańsko: undefined
+    - słowiańsku: undefined
+    - to: undefined
+    - trzi: undefined
+    - ty: undefined
+    - uczyjymy: undefined
+    - we: undefined
+    - wia: undefined
+    - z: undefined
+    - zna: undefined
+    - ôn: undefined
+    - ôna: undefined
+    - żech: undefined
+    - żeś: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - an: undefined
+    - and: undefined
+    - are: undefined
+    - country: undefined
+    - croat: undefined
+    - croatian: undefined
+    - culture: undefined
+    - do: undefined
+    - english: undefined
+    - englishman: undefined
+    - every: undefined
+    - german: undefined
+    - germany: undefined
+    - he: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - knows: undefined
+    - language: undefined
+    - languages: undefined
+    - learning: undefined
+    - lives: undefined
+    - love: undefined
+    - many: undefined
+    - my: undefined
+    - name: undefined
+    - nation: undefined
+    - nations: undefined
+    - of: undefined
+    - our: undefined
+    - poland: undefined
+    - pole: undefined
+    - rich: undefined
+    - russian: undefined
+    - she: undefined
+    - slav: undefined
+    - slavic: undefined
+    - speak: undefined
+    - speaks: undefined
+    - the: undefined
+    - this: undefined
+    - three: undefined
+    - we: undefined
+    - well: undefined
+    - with: undefined
+    - you: undefined

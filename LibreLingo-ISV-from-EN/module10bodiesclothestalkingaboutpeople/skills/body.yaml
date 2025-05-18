@@ -1,0 +1,231 @@
+Skill:
+  Name: Body
+  Id: 35
+
+New words:
+  - Word: ruka
+    Translation: hand
+  - Word: noga
+    Translation: leg
+  - Word: glava
+    Translation: head
+  - Word: oko
+    Translation: eye
+  - Word: mozg
+    Translation: brain
+  - Word: stopa
+    Translation: foot
+  - Word: uho
+    Translation: ear
+  - Word: nos
+    Translation: nose
+  - Word: lice
+    Translation: face
+  - Word: srdce
+    Translation: heart
+  - Word: prst
+    Translation: finger
+  - Word: želudok
+    Translation: stomach
+  - Word: tělo
+    Translation: body
+  - Word: bolěti (boli)
+    Translation: to hurt
+  - Word: vlasy
+    Translation: hair
+  - Word: podobny
+    Translation: similar
+  - Word: slyšati (slyši)
+    Translation: to hear
+
+Phrases:
+  - Phrase: Moja ruka boli.
+    Translation: My hand hurts.
+  - Phrase: Ona ima dolgu nogu.
+    Translation: She has a long leg.
+  - Phrase: Glava jest na tělu.
+    Translation: The head is on the body.
+  - Phrase: On ima modre krasni oči.
+    Translation: He has beautiful blue eyes.
+  - Phrase: Jej uho ne slyši dobro.
+    Translation: Her ear does not hear well.
+  - Phrase: Nos jest črveny od mraza.
+    Translation: The nose is red from the cold.
+  - Phrase: Lice jest podobno.
+    Translation: The face is similar.
+  - Phrase: Jej srce bije bystro.
+    Translation: Her heart beats fast.
+  - Phrase: želudok tobě boli.
+    Translation: My stomach hurts.
+  - Phrase: Tělo u mene zdravo.
+    Translation: My body is healthy.
+  - Phrase: Ja imam dvě ruki i dvě nogi i tož dvě stopy.
+    Translation: I have two hands and two legs, and also two feet.
+  - Phrase: Oči gledajut v knigu.
+    Translation: The eyes are looking at the book.
+  - Phrase: Uho slyši muzyku.
+    Translation: The ear hears music.
+  - Phrase: Jego mozg jest brzy.
+    Translation: His brain is quick.
+  - Phrase: Jej lice jest krasno.
+    Translation: Her face is beautiful.
+  - Phrase: Srce jest simbol ljubvi.
+    Translation: The heart is a symbol of love.
+  - Phrase: Moj želudok jest prosto polny po večerji.
+    Translation: My stomach is just full after dinner.
+  - Phrase: Tělu trěba odpoky.
+    Translation: The body needs rest.
+  - Phrase: On ima kaštanovi vlasy na glavě.
+    Translation: He has chestnut-colored hair on his head.
+  - Phrase: Ona slyši tebe toliko jedinom uhom.
+    Translation: She hears you only with one ear.
+
+Mini-dictionary:
+  Interslavic:
+    - bije: undefined
+    - boli: undefined
+    - bolěti: undefined
+    - brzy: undefined
+    - bystro: undefined
+    - dobro: undefined
+    - dolgu: undefined
+    - dvě: undefined
+    - glava: undefined
+    - glavě: undefined
+    - gledajut: undefined
+    - i: undefined
+    - ima: undefined
+    - imam: undefined
+    - ja: undefined
+    - jedinom: undefined
+    - jego: undefined
+    - jej: undefined
+    - jest: undefined
+    - kaštanovi: undefined
+    - knigu: undefined
+    - krasni: undefined
+    - krasno: undefined
+    - lice: undefined
+    - ljubvi: undefined
+    - mene: undefined
+    - modre: undefined
+    - moj: undefined
+    - moja: undefined
+    - mozg: undefined
+    - mraza: undefined
+    - muzyku: undefined
+    - na: undefined
+    - ne: undefined
+    - noga: undefined
+    - nogi: undefined
+    - nogu: undefined
+    - nos: undefined
+    - od: undefined
+    - odpoky: undefined
+    - oko: undefined
+    - on: undefined
+    - ona: undefined
+    - oči: undefined
+    - po: undefined
+    - podobno: undefined
+    - podobny: undefined
+    - polny: undefined
+    - prosto: undefined
+    - prst: undefined
+    - ruka: undefined
+    - ruki: undefined
+    - simbol: undefined
+    - slyšati: undefined
+    - slyši: undefined
+    - srce: undefined
+    - srdce: undefined
+    - stopa: undefined
+    - stopy: undefined
+    - tebe: undefined
+    - tobě: undefined
+    - toliko: undefined
+    - tož: undefined
+    - trěba: undefined
+    - tělo: undefined
+    - tělu: undefined
+    - u: undefined
+    - uho: undefined
+    - uhom: undefined
+    - v: undefined
+    - večerji: undefined
+    - vlasy: undefined
+    - zdravo: undefined
+    - črveny: undefined
+    - želudok: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beats: undefined
+    - beautiful: undefined
+    - blue: undefined
+    - body: undefined
+    - book: undefined
+    - brain: undefined
+    - chestnut-colored: undefined
+    - cold: undefined
+    - dinner: undefined
+    - does: undefined
+    - ear: undefined
+    - eye: undefined
+    - eyes: undefined
+    - face: undefined
+    - fast: undefined
+    - feet: undefined
+    - finger: undefined
+    - foot: undefined
+    - from: undefined
+    - full: undefined
+    - hair: undefined
+    - hand: undefined
+    - hands: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - head: undefined
+    - healthy: undefined
+    - hear: undefined
+    - hears: undefined
+    - heart: undefined
+    - her: undefined
+    - his: undefined
+    - hurt: undefined
+    - hurts: undefined
+    - i: undefined
+    - is: undefined
+    - just: undefined
+    - leg: undefined
+    - legs: undefined
+    - long: undefined
+    - looking: undefined
+    - love: undefined
+    - music: undefined
+    - my: undefined
+    - needs: undefined
+    - nose: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - one: undefined
+    - only: undefined
+    - quick: undefined
+    - red: undefined
+    - rest: undefined
+    - she: undefined
+    - similar: undefined
+    - stomach: undefined
+    - symbol: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - well: undefined
+    - with: undefined
+    - you: undefined

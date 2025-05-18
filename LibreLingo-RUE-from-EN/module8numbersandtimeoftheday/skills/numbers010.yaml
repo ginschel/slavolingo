@@ -1,0 +1,164 @@
+Skill:
+  Name: Numbers 0-10
+  Id: 26
+
+New words:
+  - Word: нуль
+    Translation: zero
+  - Word: єден
+    Translation: one
+  - Word: єдна
+    Translation: one
+  - Word: єдно
+    Translation: one
+  - Word: два
+    Translation: two
+  - Word: дві
+    Translation: two
+  - Word: три
+    Translation: three
+  - Word: штири
+    Translation: four
+  - Word: пять
+    Translation: five
+  - Word: шість
+    Translation: six
+  - Word: седем
+    Translation: seven
+  - Word: осем
+    Translation: eight
+  - Word: девять
+    Translation: nine
+  - Word: десять
+    Translation: ten
+  - Word: годинник
+    Translation: clock/watch
+  - Word: хлопець
+    Translation: boy
+  - Word: компьютер
+    Translation: computer
+  - Word: велосипед
+    Translation: bicycle
+  - Word: рубля
+    Translation: ruble
+  - Word: жена
+    Translation: woman
+  - Word: поле
+    Translation: field
+  - Word: кіт
+    Translation: cat
+  - Word: долар
+    Translation: dollar
+
+Phrases:
+  - Phrase: нуль годинників
+    Translation: zero clocks
+  - Phrase: єден хлопець
+    Translation: one boy
+  - Phrase: єдна жена
+    Translation: one woman
+  - Phrase: єдно поле
+    Translation: one field
+  - Phrase: два хлопцї
+    Translation: two boys
+  - Phrase: дві жены
+    Translation: two women
+  - Phrase: три коты
+    Translation: three cats
+  - Phrase: штири велосипеды
+    Translation: four bicycles
+  - Phrase: пять хлопцїв
+    Translation: five boys
+  - Phrase: шість велосипедів
+    Translation: six bicycles
+  - Phrase: седем рублїв
+    Translation: seven rubles
+  - Phrase: осем доларів
+    Translation: eight dollars
+  - Phrase: девять компьютерів
+    Translation: nine computers
+  - Phrase: десять годинників
+    Translation: ten clocks
+  - Phrase: дві рїчи
+    Translation: two things
+  - Phrase: єдно сонце
+    Translation: one sun
+  - Phrase: єден велосипед
+    Translation: one bicycle
+  - Phrase: штири долары
+    Translation: four dollars
+  - Phrase: три коты
+    Translation: three cats
+  - Phrase: пять котов
+    Translation: five cats
+
+Mini-dictionary:
+  Rusin:
+    - велосипед: undefined
+    - велосипеды: undefined
+    - велосипедів: undefined
+    - годинник: undefined
+    - годинників: undefined
+    - два: undefined
+    - дві: undefined
+    - девять: undefined
+    - десять: undefined
+    - долар: undefined
+    - долары: undefined
+    - доларів: undefined
+    - жена: undefined
+    - жены: undefined
+    - компьютер: undefined
+    - компьютерів: undefined
+    - котов: undefined
+    - коты: undefined
+    - кіт: undefined
+    - нуль: undefined
+    - осем: undefined
+    - поле: undefined
+    - пять: undefined
+    - рубля: undefined
+    - рублїв: undefined
+    - рїчи: undefined
+    - седем: undefined
+    - сонце: undefined
+    - три: undefined
+    - хлопець: undefined
+    - хлопцї: undefined
+    - хлопцїв: undefined
+    - штири: undefined
+    - шість: undefined
+    - єден: undefined
+    - єдна: undefined
+    - єдно: undefined
+  English:
+    - bicycle: undefined
+    - bicycles: undefined
+    - boy: undefined
+    - boys: undefined
+    - cat: undefined
+    - cats: undefined
+    - clock/watch: undefined
+    - clocks: undefined
+    - computer: undefined
+    - computers: undefined
+    - dollar: undefined
+    - dollars: undefined
+    - eight: undefined
+    - field: undefined
+    - five: undefined
+    - four: undefined
+    - nine: undefined
+    - one: undefined
+    - ruble: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - sun: undefined
+    - ten: undefined
+    - things: undefined
+    - three: undefined
+    - two: undefined
+    - woman: undefined
+    - women: undefined
+    - zero: undefined

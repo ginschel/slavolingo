@@ -1,0 +1,187 @@
+Skill:
+  Name: Shapes
+  Id: 10
+
+New words:
+  - Word: koło
+    Translation: circle
+  - Word: kwadrat
+    Translation: square
+  - Word: cztery
+    Translation: four
+  - Word: długi
+    Translation: long
+  - Word: trzy
+    Translation: three
+  - Word: trójkąt
+    Translation: triangle
+  - Word: stać (stoi)
+    Translation: to stand
+  - Word: równy
+    Translation: straight
+  - Word: forma
+    Translation: shape
+  - Word: linia
+    Translation: line
+  - Word: punkt
+    Translation: point
+  - Word: obrys
+    Translation: outline
+  - Word: strona
+    Translation: side
+  - Word: figura
+    Translation: figure
+  - Word: kształt
+    Translation: shape
+
+Phrases:
+  - Phrase: To jest koło.
+    Translation: This is a circle.
+  - Phrase: Kwadrat ma cztery strony.
+    Translation: A square has four sides.
+  - Phrase: Trójkąt ma trzy strony.
+    Translation: A triangle has three sides.
+  - Phrase: Ta linia jest długa.
+    Translation: This line is long.
+  - Phrase: To jest moja forma.
+    Translation: This is my shape.
+  - Phrase: Linia jest równa.
+    Translation: The line is straight.
+  - Phrase: Punkt to mały punkt.
+    Translation: A point is a small dot.
+  - Phrase: Widzimy obrys kwadratu.
+    Translation: We see the outline of a square.
+  - Phrase: Figura jest skomplikowana.
+    Translation: The figure is complex.
+  - Phrase: To jest prosty kształt.
+    Translation: This is a simple shape.
+  - Phrase: Ja maluję duże koło.
+    Translation: I am drawing a big circle.
+  - Phrase: Kwadrat i koło są podstawowymi formami.
+    Translation: Square and circle are basic shapes.
+  - Phrase: Linia idzie przez stronę.
+    Translation: The line goes through the side.
+  - Phrase: Punkt leży na linii.
+    Translation: The point lies on the line.
+  - Phrase: Ona zna każdy obrys Anglii.
+    Translation: She knows every outline of England.
+  - Phrase: To jest prosty trójkąt.
+    Translation: This is a simple triangle.
+  - Phrase: On maluje figury na papierze.
+    Translation: He is drawing figures on paper.
+  - Phrase: Forma jest ciekawa.
+    Translation: The shape is interesting.
+  - Phrase: Stół ma kształt kwadratu.
+    Translation: The table has the shape of a square.
+  - Phrase: Piękna figura stoi na stole.
+    Translation: A beautiful figure is standing on the table.
+
+Mini-dictionary:
+  Polish:
+    - anglii: undefined
+    - ciekawa: undefined
+    - cztery: undefined
+    - duże: undefined
+    - długa: undefined
+    - długi: undefined
+    - figura: undefined
+    - figury: undefined
+    - forma: undefined
+    - formami: undefined
+    - i: undefined
+    - idzie: undefined
+    - ja: undefined
+    - jest: undefined
+    - każdy: undefined
+    - koło: undefined
+    - kształt: undefined
+    - kwadrat: undefined
+    - kwadratu: undefined
+    - leży: undefined
+    - linia: undefined
+    - linii: undefined
+    - ma: undefined
+    - maluje: undefined
+    - maluję: undefined
+    - mały: undefined
+    - moja: undefined
+    - na: undefined
+    - obrys: undefined
+    - on: undefined
+    - ona: undefined
+    - papierze: undefined
+    - piękna: undefined
+    - podstawowymi: undefined
+    - prosty: undefined
+    - przez: undefined
+    - punkt: undefined
+    - równa: undefined
+    - równy: undefined
+    - skomplikowana: undefined
+    - stać: undefined
+    - stoi: undefined
+    - stole: undefined
+    - strona: undefined
+    - strony: undefined
+    - stronę: undefined
+    - stół: undefined
+    - są: undefined
+    - ta: undefined
+    - to: undefined
+    - trzy: undefined
+    - trójkąt: undefined
+    - widzimy: undefined
+    - zna: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - basic: undefined
+    - beautiful: undefined
+    - big: undefined
+    - circle: undefined
+    - complex: undefined
+    - dot: undefined
+    - drawing: undefined
+    - england: undefined
+    - every: undefined
+    - figure: undefined
+    - figures: undefined
+    - four: undefined
+    - goes: undefined
+    - has: undefined
+    - he: undefined
+    - i: undefined
+    - interesting: undefined
+    - is: undefined
+    - knows: undefined
+    - lies: undefined
+    - line: undefined
+    - long: undefined
+    - my: undefined
+    - of: undefined
+    - on: undefined
+    - outline: undefined
+    - paper: undefined
+    - point: undefined
+    - see: undefined
+    - shape: undefined
+    - shapes: undefined
+    - she: undefined
+    - side: undefined
+    - sides: undefined
+    - simple: undefined
+    - small: undefined
+    - square: undefined
+    - stand: undefined
+    - standing: undefined
+    - straight: undefined
+    - table: undefined
+    - the: undefined
+    - this: undefined
+    - three: undefined
+    - through: undefined
+    - to: undefined
+    - triangle: undefined
+    - we: undefined

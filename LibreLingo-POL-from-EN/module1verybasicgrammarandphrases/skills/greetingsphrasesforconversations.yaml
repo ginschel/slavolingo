@@ -1,0 +1,257 @@
+Skill:
+  Name: Greetings & Phrases for conversations
+  Id: 2
+
+New words:
+  - Word: pozdrowienie
+    Translation: greeting
+  - Word: zdrowy/cześć
+    Translation: healthy/hello
+  - Word: rozmowa
+    Translation: conversation
+  - Word: rano
+    Translation: morning
+  - Word: wieczór
+    Translation: evening
+  - Word: dzień
+    Translation: day
+  - Word: noc
+    Translation: night
+  - Word: dziękuję
+    Translation: thanks
+  - Word: przepraszam
+    Translation: pardon
+  - Word: wybacz
+    Translation: excuse me
+  - Word: dobry
+    Translation: good
+  - Word: lepiej
+    Translation: better
+  - Word: można
+    Translation: possible
+  - Word: szkoda
+    Translation: pity
+  - Word: tak
+    Translation: so
+  - Word: co
+    Translation: what
+  - Word: nie
+    Translation: no
+  - Word: tak (potwierdzenie)
+    Translation: yes
+  - Word: może
+    Translation: maybe/can
+  - Word: dawaj
+    Translation: let's go
+
+Phrases:
+  - Phrase: Dzień dobry (rano)!
+    Translation: Good morning!
+  - Phrase: Dobry wieczór!
+    Translation: Good evening!
+  - Phrase: Dobry dzień!
+    Translation: Good day!
+  - Phrase: Dobra noc!
+    Translation: Good night!
+  - Phrase: Jak się masz?
+    Translation: How are you?
+  - Phrase: Mam się dobrze, dziękuję!
+    Translation: I am well, thank you!
+  - Phrase: A ty?
+    Translation: And you?
+  - Phrase: Dziękuję ci bardzo.
+    Translation: Thank you very much.
+  - Phrase: Przepraszam, nie rozumiem.
+    Translation: Excuse me, I don't understand.
+  - Phrase: Cześć (na powitanie)!
+    Translation: Greetings!
+  - Phrase: Cześć (na powitanie)!
+    Translation: Hello!
+  - Phrase: Dzień dobry, jak się masz?
+    Translation: Good day, how are you?
+  - Phrase: Jesteś zdrowy/zdrowa?
+    Translation: Are you healthy?
+  - Phrase: Witaj/Witajcie!
+    Translation: Welcome!
+  - Phrase: Na zdrowie!
+    Translation: To your health!
+  - Phrase: Pozdrów twoją siostrę.
+    Translation: Greet your sister.
+  - Phrase: Jak się nazywasz?
+    Translation: What is your name?
+  - Phrase: Nazywam się Bartek.
+    Translation: My name is Bartek.
+  - Phrase: Dziękuję za rozmowę.
+    Translation: Thank you for the conversation.
+  - Phrase: Tak jest.
+    Translation: That is so.
+  - Phrase: Nie tak.
+    Translation: Not so.
+  - Phrase: Może być.
+    Translation: Maybe.
+  - Phrase: Nie można.
+    Translation: Not possible.
+  - Phrase: Szkoda!
+    Translation: What a pity!
+  - Phrase: Dobrze!
+    Translation: Good!
+  - Phrase: Niedobrze.
+    Translation: Not good.
+  - Phrase: To jest lepsze.
+    Translation: This is better.
+  - Phrase: To nie jest lepsze.
+    Translation: This is not better.
+  - Phrase: Tak, można.
+    Translation: Yes, it is possible.
+  - Phrase: Nie, nie można.
+    Translation: No, it is not possible.
+  - Phrase: Czy to możliwe?
+    Translation: Is this possible?
+  - Phrase: Co to znaczy?
+    Translation: What does this mean?
+  - Phrase: Ja też.
+    Translation: Me too.
+  - Phrase: Z Bogiem!
+    Translation: Go with God!
+  - Phrase: Nie wiem.
+    Translation: I don't know.
+  - Phrase: Może.
+    Translation: Perhaps.
+  - Phrase: Powtórz. Nie zrozumiałem.
+    Translation: Repeat. I didn't understand.
+  - Phrase: Jesteś gotowy/gotowa?
+    Translation: Are you ready?
+  - Phrase: Dawaj!/Chodź!
+    Translation: Let's go!
+
+Mini-dictionary:
+  Polish:
+    - a: undefined
+    - bardzo: undefined
+    - bartek: undefined
+    - bogiem: undefined
+    - być: undefined
+    - chodź: undefined
+    - ci: undefined
+    - co: undefined
+    - cześć: undefined
+    - czy: undefined
+    - dawaj: undefined
+    - dobra: undefined
+    - dobry: undefined
+    - dobrze: undefined
+    - dzień: undefined
+    - dziękuję: undefined
+    - gotowy/gotowa: undefined
+    - ja: undefined
+    - jak: undefined
+    - jest: undefined
+    - jesteś: undefined
+    - lepiej: undefined
+    - lepsze: undefined
+    - mam: undefined
+    - masz: undefined
+    - może: undefined
+    - możliwe: undefined
+    - można: undefined
+    - na: undefined
+    - nazywam: undefined
+    - nazywasz: undefined
+    - nie: undefined
+    - niedobrze: undefined
+    - noc: undefined
+    - potwierdzenie: undefined
+    - powitanie: undefined
+    - powtórz: undefined
+    - pozdrowienie: undefined
+    - pozdrów: undefined
+    - przepraszam: undefined
+    - rano: undefined
+    - rozmowa: undefined
+    - rozmowę: undefined
+    - rozumiem: undefined
+    - siostrę: undefined
+    - się: undefined
+    - szkoda: undefined
+    - tak: undefined
+    - też: undefined
+    - to: undefined
+    - twoją: undefined
+    - ty: undefined
+    - wieczór: undefined
+    - wiem: undefined
+    - witaj/witajcie: undefined
+    - wybacz: undefined
+    - z: undefined
+    - za: undefined
+    - zdrowie: undefined
+    - zdrowy/cześć: undefined
+    - zdrowy/zdrowa: undefined
+    - znaczy: undefined
+    - zrozumiałem: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - bartek: undefined
+    - better: undefined
+    - conversation: undefined
+    - day: undefined
+    - didn't: undefined
+    - does: undefined
+    - don't: undefined
+    - evening: undefined
+    - excuse: undefined
+    - for: undefined
+    - go: undefined
+    - god: undefined
+    - good: undefined
+    - greet: undefined
+    - greeting: undefined
+    - greetings: undefined
+    - health: undefined
+    - healthy: undefined
+    - healthy/hello: undefined
+    - hello: undefined
+    - how: undefined
+    - i: undefined
+    - is: undefined
+    - it: undefined
+    - know: undefined
+    - let's: undefined
+    - maybe: undefined
+    - maybe/can: undefined
+    - me: undefined
+    - mean: undefined
+    - morning: undefined
+    - much: undefined
+    - my: undefined
+    - name: undefined
+    - night: undefined
+    - no: undefined
+    - not: undefined
+    - pardon: undefined
+    - perhaps: undefined
+    - pity: undefined
+    - possible: undefined
+    - ready: undefined
+    - repeat: undefined
+    - sister: undefined
+    - so: undefined
+    - thank: undefined
+    - thanks: undefined
+    - that: undefined
+    - the: undefined
+    - this: undefined
+    - to: undefined
+    - too: undefined
+    - understand: undefined
+    - very: undefined
+    - welcome: undefined
+    - well: undefined
+    - what: undefined
+    - with: undefined
+    - yes: undefined
+    - you: undefined
+    - your: undefined

@@ -1,0 +1,233 @@
+Skill:
+  Name: Emotions (adverbs)
+  Id: 37
+
+New words:
+  - Word: radostný
+    Translation: joyful
+  - Word: žalostný
+    Translation: sad
+  - Word: hnevlivý
+    Translation: angry
+  - Word: láska
+    Translation: love
+  - Word: prestrašený
+    Translation: frightened
+  - Word: pokoj
+    Translation: peace
+  - Word: závisť
+    Translation: envy
+  - Word: hanebný
+    Translation: ashamed
+  - Word: hanba
+    Translation: shame
+  - Word: hrdý
+    Translation: proud
+  - Word: veselý
+    Translation: cheerful
+  - Word: chvenie
+    Translation: tremor
+  - Word: cítiť (cíti)
+    Translation: to feel
+  - Word: skrývať
+    Translation: to hide
+  - Word: utekať
+    Translation: to run away
+
+Phrases:
+  - Phrase: Cítim sa radostne dnes.
+    Translation: We feel joyful this week.
+  - Phrase: Žalostne on hovoril.
+    Translation: He spoke sadly.
+  - Phrase: On hnevlivo mu káže pracovať.
+    Translation: He angrily tells him to work.
+  - Phrase: Láska to je silná emócia.
+    Translation: Love is a strong emotion.
+  - Phrase: Strach to je prirodzená reakcia.
+    Translation: Fear is a natural reaction.
+  - Phrase: Pokoj je dôležitý pre dušu.
+    Translation: Peace is important for the soul.
+  - Phrase: Závisť to je čierna emócia.
+    Translation: Envy is a dark emotion.
+  - Phrase: Hanebne on cíti hanbu.
+    Translation: He feels ashamed.
+  - Phrase: Veselo sa mu naplnilo srdce.
+    Translation: His heart was filled with joy.
+  - Phrase: Závisle on pozerá na neho.
+    Translation: He is jealous of him.
+  - Phrase: Ja mám žiaľ v srdci.
+    Translation: I have sadness in my heart.
+  - Phrase: Ona im ukazuje svoju prácu veselo.
+    Translation: She shows them her work joyfully.
+  - Phrase: On skrýva hrdo svoj hnev.
+    Translation: He hides his anger proudly.
+  - Phrase: My cítime pokoj.
+    Translation: We feel peaceful.
+  - Phrase: Strach je v nás.
+    Translation: Fear is inside us.
+  - Phrase: Prestrašene on utekal.
+    Translation: He was frightened and ran away.
+  - Phrase: Hanba je veľmi silná.
+    Translation: Shame is very strong.
+  - Phrase: Radostne šiel domov.
+    Translation: He joyfully went home.
+  - Phrase: Radosť ide zvnútra.
+    Translation: Joy comes from within.
+  - Phrase: Trpieť len chceme, keď ľúbime.
+    Translation: We only suffer when we love.
+
+Mini-dictionary:
+  Slovak:
+    - chceme: undefined
+    - chvenie: undefined
+    - cíti: undefined
+    - cítim: undefined
+    - cítime: undefined
+    - cítiť: undefined
+    - dnes: undefined
+    - domov: undefined
+    - dušu: undefined
+    - dôležitý: undefined
+    - emócia: undefined
+    - hanba: undefined
+    - hanbu: undefined
+    - hanebne: undefined
+    - hanebný: undefined
+    - hnev: undefined
+    - hnevlivo: undefined
+    - hnevlivý: undefined
+    - hovoril: undefined
+    - hrdo: undefined
+    - hrdý: undefined
+    - ide: undefined
+    - im: undefined
+    - ja: undefined
+    - je: undefined
+    - keď: undefined
+    - káže: undefined
+    - len: undefined
+    - láska: undefined
+    - mu: undefined
+    - my: undefined
+    - mám: undefined
+    - na: undefined
+    - naplnilo: undefined
+    - neho: undefined
+    - nás: undefined
+    - on: undefined
+    - ona: undefined
+    - pokoj: undefined
+    - pozerá: undefined
+    - pracovať: undefined
+    - pre: undefined
+    - prestrašene: undefined
+    - prestrašený: undefined
+    - prirodzená: undefined
+    - prácu: undefined
+    - radostne: undefined
+    - radostný: undefined
+    - radosť: undefined
+    - reakcia: undefined
+    - sa: undefined
+    - silná: undefined
+    - skrýva: undefined
+    - skrývať: undefined
+    - srdce: undefined
+    - srdci: undefined
+    - strach: undefined
+    - svoj: undefined
+    - svoju: undefined
+    - to: undefined
+    - trpieť: undefined
+    - ukazuje: undefined
+    - utekal: undefined
+    - utekať: undefined
+    - v: undefined
+    - veselo: undefined
+    - veselý: undefined
+    - veľmi: undefined
+    - zvnútra: undefined
+    - závisle: undefined
+    - závisť: undefined
+    - čierna: undefined
+    - ľúbime: undefined
+    - šiel: undefined
+    - žalostne: undefined
+    - žalostný: undefined
+    - žiaľ: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - anger: undefined
+    - angrily: undefined
+    - angry: undefined
+    - ashamed: undefined
+    - away: undefined
+    - cheerful: undefined
+    - comes: undefined
+    - dark: undefined
+    - emotion: undefined
+    - envy: undefined
+    - fear: undefined
+    - feel: undefined
+    - feels: undefined
+    - filled: undefined
+    - for: undefined
+    - frightened: undefined
+    - from: undefined
+    - have: undefined
+    - he: undefined
+    - heart: undefined
+    - her: undefined
+    - hide: undefined
+    - hides: undefined
+    - him: undefined
+    - his: undefined
+    - home: undefined
+    - i: undefined
+    - important: undefined
+    - in: undefined
+    - inside: undefined
+    - is: undefined
+    - jealous: undefined
+    - joy: undefined
+    - joyful: undefined
+    - joyfully: undefined
+    - love: undefined
+    - my: undefined
+    - natural: undefined
+    - of: undefined
+    - only: undefined
+    - peace: undefined
+    - peaceful: undefined
+    - proud: undefined
+    - proudly: undefined
+    - ran: undefined
+    - reaction: undefined
+    - run: undefined
+    - sad: undefined
+    - sadly: undefined
+    - sadness: undefined
+    - shame: undefined
+    - she: undefined
+    - shows: undefined
+    - soul: undefined
+    - spoke: undefined
+    - strong: undefined
+    - suffer: undefined
+    - tells: undefined
+    - the: undefined
+    - them: undefined
+    - this: undefined
+    - to: undefined
+    - tremor: undefined
+    - us: undefined
+    - very: undefined
+    - was: undefined
+    - we: undefined
+    - week: undefined
+    - went: undefined
+    - when: undefined
+    - with: undefined
+    - within: undefined
+    - work: undefined

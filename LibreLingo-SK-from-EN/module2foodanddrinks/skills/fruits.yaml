@@ -1,0 +1,185 @@
+Skill:
+  Name: Fruits
+  Id: 8
+
+New words:
+  - Word: jablko
+    Translation: apple
+  - Word: hruška
+    Translation: pear
+  - Word: banán
+    Translation: banana
+  - Word: pomaranč
+    Translation: orange
+  - Word: višňa
+    Translation: cherry
+  - Word: jahoda
+    Translation: strawberry
+  - Word: zrelý
+    Translation: ripe
+  - Word: hrozno
+    Translation: grapes
+  - Word: slivka
+    Translation: plum
+  - Word: citrón
+    Translation: lemon
+  - Word: kyslý
+    Translation: sour
+  - Word: sladký
+    Translation: sweet
+  - Word: melón
+    Translation: melon
+
+Phrases:
+  - Phrase: Jablko je červené.
+    Translation: The apple is red.
+  - Phrase: Hruška je chutná.
+    Translation: The pear is tasty.
+  - Phrase: Banán je žltý.
+    Translation: The banana is yellow.
+  - Phrase: Pomaranče sú sladké.
+    Translation: The oranges are sweet.
+  - Phrase: Višňa je kyslá.
+    Translation: The cherry is sour.
+  - Phrase: Jahoda je malá a chutná.
+    Translation: The strawberry is small and tasty.
+  - Phrase: Hrozno rastie na vinici.
+    Translation: Grapes grow on a vineyard.
+  - Phrase: Slivka je tmavá.
+    Translation: The plum is dark.
+  - Phrase: Citrón je kyslý a žltý.
+    Translation: The lemon is sour and yellow.
+  - Phrase: Melón je veľký a sladký.
+    Translation: The melon is big and sweet.
+  - Phrase: On varí slivovicu zo sliviek.
+    Translation: He is preparing plum brandy from plums.
+  - Phrase: Ona pije džús z pomaranča.
+    Translation: She is drinking orange juice.
+  - Phrase: My kupujeme hrozno.
+    Translation: We are buying grapes.
+  - Phrase: Jahody sú v miske.
+    Translation: The strawberries are in the bowl.
+  - Phrase: Slivka je už zrelá.
+    Translation: The plum is already ripe.
+  - Phrase: Hrušky ležia na stole.
+    Translation: The pears are lying on the table.
+  - Phrase: Citrón sa pridáva do čaju.
+    Translation: Lemon is added to tea.
+  - Phrase: Banán je v taške.
+    Translation: The banana is in the bag.
+  - Phrase: Višňa rastie na strome.
+    Translation: The cherry grows on a tree.
+  - Phrase: Melón je veľmi chutný.
+    Translation: The melon is very tasty.
+
+Mini-dictionary:
+  Slovak:
+    - a: undefined
+    - banán: undefined
+    - chutná: undefined
+    - chutný: undefined
+    - citrón: undefined
+    - do: undefined
+    - džús: undefined
+    - hrozno: undefined
+    - hruška: undefined
+    - hrušky: undefined
+    - jablko: undefined
+    - jahoda: undefined
+    - jahody: undefined
+    - je: undefined
+    - kupujeme: undefined
+    - kyslá: undefined
+    - kyslý: undefined
+    - ležia: undefined
+    - malá: undefined
+    - melón: undefined
+    - miske: undefined
+    - my: undefined
+    - na: undefined
+    - on: undefined
+    - ona: undefined
+    - pije: undefined
+    - pomaranč: undefined
+    - pomaranča: undefined
+    - pomaranče: undefined
+    - pridáva: undefined
+    - rastie: undefined
+    - sa: undefined
+    - sladké: undefined
+    - sladký: undefined
+    - sliviek: undefined
+    - slivka: undefined
+    - slivovicu: undefined
+    - stole: undefined
+    - strome: undefined
+    - sú: undefined
+    - taške: undefined
+    - tmavá: undefined
+    - už: undefined
+    - v: undefined
+    - varí: undefined
+    - veľký: undefined
+    - veľmi: undefined
+    - vinici: undefined
+    - višňa: undefined
+    - z: undefined
+    - zo: undefined
+    - zrelá: undefined
+    - zrelý: undefined
+    - čaju: undefined
+    - červené: undefined
+    - žltý: undefined
+  English:
+    - a: undefined
+    - added: undefined
+    - already: undefined
+    - and: undefined
+    - apple: undefined
+    - are: undefined
+    - bag: undefined
+    - banana: undefined
+    - big: undefined
+    - bowl: undefined
+    - brandy: undefined
+    - buying: undefined
+    - cherry: undefined
+    - dark: undefined
+    - drinking: undefined
+    - from: undefined
+    - grapes: undefined
+    - grow: undefined
+    - grows: undefined
+    - he: undefined
+    - in: undefined
+    - is: undefined
+    - juice: undefined
+    - lemon: undefined
+    - lying: undefined
+    - melon: undefined
+    - on: undefined
+    - orange: undefined
+    - oranges: undefined
+    - pear: undefined
+    - pears: undefined
+    - plum: undefined
+    - plums: undefined
+    - preparing: undefined
+    - red: undefined
+    - ripe: undefined
+    - she: undefined
+    - small: undefined
+    - sour: undefined
+    - strawberries: undefined
+    - strawberry: undefined
+    - sweet: undefined
+    - table: undefined
+    - tasty: undefined
+    - tea: undefined
+    - the: undefined
+    - to: undefined
+    - tree: undefined
+    - very: undefined
+    - vineyard: undefined
+    - we: undefined
+    - yellow: undefined

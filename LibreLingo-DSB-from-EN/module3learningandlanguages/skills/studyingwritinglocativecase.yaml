@@ -1,0 +1,190 @@
+Skill:
+  Name: Studying & Writing (Locative case)
+  Id: 9
+
+New words:
+  - Word: šula
+    Translation: school
+  - Word: wucabnica
+    Translation: female teacher
+  - Word: wucabnik
+    Translation: male teacher
+  - Word: zapisk
+    Translation: note
+  - Word: wuknik
+    Translation: student
+  - Word: knigła
+    Translation: book
+  - Word: nadawk
+    Translation: assignment
+  - Word: blido
+    Translation: table
+  - Word: tuš
+    Translation: ink
+  - Word: papjer
+    Translation: paper
+  - Word: pśedmjat
+    Translation: subject
+  - Word: metoda
+    Translation: method
+  - Word: pjero
+    Translation: pen
+  - Word: zapiskowy zmušk
+    Translation: notebook
+  - Word: na
+    Translation: on
+
+Phrases:
+  - Phrase: To mója šula.
+    Translation: This is my school.
+  - Phrase: Wóna jo wucabnicu.
+    Translation: She is a teacher.
+  - Phrase: Wón jo wuknikom.
+    Translation: He is a student.
+  - Phrase: Knigła jo na blidźe.
+    Translation: The book is on the table.
+  - Phrase: Ja mam nadawk.
+    Translation: I have an assignment.
+  - Phrase: Tuš jo hyšći mokry.
+    Translation: The ink is still wet.
+  - Phrase: Papjer jo běły.
+    Translation: The paper is white.
+  - Phrase: Ten pśedmjat jo matematika.
+    Translation: This subject is mathematics.
+  - Phrase: Ta metoda jo dobra.
+    Translation: This method is good.
+  - Phrase: Wuknik ma knigłu.
+    Translation: The student has a book.
+  - Phrase: To jo mójo blido.
+    Translation: This is my desk.
+  - Phrase: Mój zapiskowy zmušk jo pełny zapiskow z pjerom
+    Translation: My notebook is full of notes with a pen
+  - Phrase: Pišom na papjerje z pjerom.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Šula jo we centrje.
+    Translation: The school is in the center.
+  - Phrase: My pišomy nadawk.
+    Translation: We are writing the assignment.
+  - Phrase: Wucabnik powěda z wuknikami.
+    Translation: The teacher is talking with students.
+  - Phrase: Wóna ma wjele nadawkow.
+    Translation: She has many assignments.
+  - Phrase: Ja snaźnje pišom z tym pjerom.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Pśedmjat jo kompleksny.
+    Translation: The subject is complex.
+  - Phrase: Knigła jo nowa.
+    Translation: The book is new.
+  - Phrase: Wón jo mójim wucabnikom.
+    Translation: He is my teacher.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - blido: undefined
+    - blidźe: undefined
+    - běły: undefined
+    - centrje: undefined
+    - dobra: undefined
+    - hyšći: undefined
+    - ja: undefined
+    - jo: undefined
+    - knigła: undefined
+    - knigłu: undefined
+    - kompleksny: undefined
+    - ma: undefined
+    - mam: undefined
+    - matematika: undefined
+    - metoda: undefined
+    - mokry: undefined
+    - my: undefined
+    - mój: undefined
+    - mója: undefined
+    - mójim: undefined
+    - mójo: undefined
+    - na: undefined
+    - nadawk: undefined
+    - nadawkow: undefined
+    - nowa: undefined
+    - papjer: undefined
+    - papjerje: undefined
+    - pełny: undefined
+    - pišom: undefined
+    - pišomy: undefined
+    - pjero: undefined
+    - pjerom: undefined
+    - powěda: undefined
+    - pśedmjat: undefined
+    - snaźnje: undefined
+    - ta: undefined
+    - ten: undefined
+    - to: undefined
+    - tuš: undefined
+    - tym: undefined
+    - we: undefined
+    - wjele: undefined
+    - wucabnica: undefined
+    - wucabnicu: undefined
+    - wucabnik: undefined
+    - wucabnikom: undefined
+    - wuknik: undefined
+    - wuknikami: undefined
+    - wuknikom: undefined
+    - wón: undefined
+    - wóna: undefined
+    - z: undefined
+    - zapisk: undefined
+    - zapiskow: undefined
+    - zapiskowy: undefined
+    - zmušk: undefined
+    - šula: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - an: undefined
+    - are: undefined
+    - assignment: undefined
+    - assignments: undefined
+    - book: undefined
+    - center: undefined
+    - complex: undefined
+    - desk: undefined
+    - female: undefined
+    - full: undefined
+    - good: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - i: undefined
+    - in: undefined
+    - ink: undefined
+    - is: undefined
+    - male: undefined
+    - many: undefined
+    - mathematics: undefined
+    - method: undefined
+    - my: undefined
+    - new: undefined
+    - note: undefined
+    - notebook: undefined
+    - notes: undefined
+    - of: undefined
+    - on: undefined
+    - paper: undefined
+    - pen: undefined
+    - quickly: undefined
+    - school: undefined
+    - she: undefined
+    - still: undefined
+    - student: undefined
+    - students: undefined
+    - subject: undefined
+    - table: undefined
+    - talking: undefined
+    - teacher: undefined
+    - the: undefined
+    - this: undefined
+    - we: undefined
+    - wet: undefined
+    - white: undefined
+    - with: undefined
+    - writing: undefined

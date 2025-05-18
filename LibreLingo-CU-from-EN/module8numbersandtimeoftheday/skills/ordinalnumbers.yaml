@@ -1,0 +1,168 @@
+Skill:
+  Name: Ordinal Numbers
+  Id: 30
+
+New words:
+  - Word: пръвъ
+    Translation: first
+  - Word: въторъ
+    Translation: second
+  - Word: трєтии
+    Translation: third
+  - Word: чєтврьтъ
+    Translation: fourth
+  - Word: пѧтъ
+    Translation: fifth
+  - Word: шєстъ
+    Translation: sixth
+  - Word: сєдмъ
+    Translation: seventh
+  - Word: осмъ
+    Translation: eighth
+  - Word: дєвѧтъ
+    Translation: ninth
+  - Word: тꙑсѧщнъ
+    Translation: thousandth
+  - Word: сътънъ
+    Translation: hundredth
+  - Word: пѧть тꙑсѧщнъ
+    Translation: five thousandth
+  - Word: сєдмь тꙑсѧщнъ
+    Translation: seven thousandth
+  - Word: частъ
+    Translation: hour
+
+Phrases:
+  - Phrase: о пръвои части дъвадесѧть
+    Translation: at twenty past the first hour
+  - Phrase: о въторои части дєсѧть пѧть
+    Translation: at fifteen past the second hour
+  - Phrase: о трєтєи части дъва
+    Translation: at two past the third hour
+  - Phrase: о чєтврьтои части сєдмь
+    Translation: at seven past the fourth hour
+  - Phrase: о пѧтои части
+    Translation: at the fifth hour
+  - Phrase: о шєстои части
+    Translation: at the sixth hour
+  - Phrase: о осмոи части пѧтьдесѧть пѧть
+    Translation: at fifty five past the eighth hour
+  - Phrase: о дєвѧтои части
+    Translation: at the ninth hour
+  - Phrase: о дєсѧтои части
+    Translation: at the tenth hour
+  - Phrase: о дъванадесѧтои части
+    Translation: at the twelfth hour
+  - Phrase: о ѥдинънадесѧтои части тридесѧть три
+    Translation: at thirty three past the eleventh hour
+  - Phrase: сътънъ доларъ
+    Translation: hundredth dollar
+  - Phrase: дъвѣстѣ трєтии компютєр
+    Translation: two hundred third computer
+  - Phrase: дъвѣсътънъ часъвъникъ
+    Translation: two hundredth clock
+  - Phrase: тридесѧтъи мѫжь
+    Translation: thirtieth man
+  - Phrase: дъвѣстѣ пръвъ братъ
+    Translation: two hundred first brother
+  - Phrase: шєстьсътънъ вєлосипєдъ
+    Translation: six hundredth bicycle
+  - Phrase: осмьстъ въторъ доларъ
+    Translation: eight hundred second dollar
+  - Phrase: дєвѧтьсътънъ пєсъ
+    Translation: nine hundredth dog
+  - Phrase: чєтꙑристє пѧта гора
+    Translation: four hundred fifth mountain
+
+Mini-dictionary:
+  Church Slavonic:
+    - братъ: undefined
+    - въторои: undefined
+    - въторъ: undefined
+    - вєлосипєдъ: undefined
+    - гора: undefined
+    - доларъ: undefined
+    - дъва: undefined
+    - дъвадесѧть: undefined
+    - дъванадесѧтои: undefined
+    - дъвѣстѣ: undefined
+    - дъвѣсътънъ: undefined
+    - дєвѧтои: undefined
+    - дєвѧтъ: undefined
+    - дєвѧтьсътънъ: undefined
+    - дєсѧтои: undefined
+    - дєсѧть: undefined
+    - компютєр: undefined
+    - мѫжь: undefined
+    - о: undefined
+    - осмъ: undefined
+    - осмьстъ: undefined
+    - осмոи: undefined
+    - пръвои: undefined
+    - пръвъ: undefined
+    - пєсъ: undefined
+    - пѧта: undefined
+    - пѧтои: undefined
+    - пѧтъ: undefined
+    - пѧть: undefined
+    - пѧтьдесѧть: undefined
+    - сътънъ: undefined
+    - сєдмъ: undefined
+    - сєдмь: undefined
+    - три: undefined
+    - тридесѧтъи: undefined
+    - тридесѧть: undefined
+    - трєтии: undefined
+    - трєтєи: undefined
+    - тꙑсѧщнъ: undefined
+    - части: undefined
+    - частъ: undefined
+    - часъвъникъ: undefined
+    - чєтврьтои: undefined
+    - чєтврьтъ: undefined
+    - чєтꙑристє: undefined
+    - шєстои: undefined
+    - шєстъ: undefined
+    - шєстьсътънъ: undefined
+    - ѥдинънадесѧтои: undefined
+  English:
+    - at: undefined
+    - bicycle: undefined
+    - brother: undefined
+    - clock: undefined
+    - computer: undefined
+    - dog: undefined
+    - dollar: undefined
+    - eight: undefined
+    - eighth: undefined
+    - eleventh: undefined
+    - fifteen: undefined
+    - fifth: undefined
+    - fifty: undefined
+    - first: undefined
+    - five: undefined
+    - four: undefined
+    - fourth: undefined
+    - hour: undefined
+    - hundred: undefined
+    - hundredth: undefined
+    - man: undefined
+    - mountain: undefined
+    - nine: undefined
+    - ninth: undefined
+    - past: undefined
+    - second: undefined
+    - seven: undefined
+    - seventh: undefined
+    - six: undefined
+    - sixth: undefined
+    - tenth: undefined
+    - the: undefined
+    - third: undefined
+    - thirtieth: undefined
+    - thirty: undefined
+    - thousandth: undefined
+    - three: undefined
+    - twelfth: undefined
+    - twenty: undefined
+    - two: undefined

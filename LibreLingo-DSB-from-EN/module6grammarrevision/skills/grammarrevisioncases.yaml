@@ -1,0 +1,196 @@
+Skill:
+  Name: Grammar revision cases
+  Id: 19
+
+New words:
+  - Word: "rězaś (rěžo)"
+    Translation: to cut
+  - Word: "dar"
+    Translation: gift
+  - Word: "univerzum"
+    Translation: universe
+  - Word: "zdrjadło"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Kóski how nje ma.
+    Translation: There is no bone here.
+  - Phrase: Dam žonje.
+    Translation: I give to the woman.
+  - Phrase: Wóna jo we městśe.
+    Translation: She is in the city.
+  - Phrase: Powědamy z pśijaśelami.
+    Translation: I talk with friends.
+  - Phrase: Měgo wón nje ma.
+    Translation: He has no name.
+  - Phrase: Ty dušy nje maš?!
+    Translation: You don't have a soul?!
+  - Phrase: Wón wiźi swóju žonu.
+    Translation: He sees his wife.
+  - Phrase: Brata how nje ma.
+    Translation: There is no brother here.
+  - Phrase: To móžno rězaś z nožom.
+    Translation: This can be cut with a knife.
+  - Phrase: Wóna z mužom powěda.
+    Translation: She talks with her husband.
+  - Phrase: Wóna powěda wó bratšach.
+    Translation: She talks about brothers.
+  - Phrase: Wóna dajo dar bratšam.
+    Translation: She gives a gift to the brothers.
+  - Phrase: Na pólu wjele źěłam.
+    Translation: I work a lot in the field.
+  - Phrase: Jo wjele słyńcow we uniwersumje.
+    Translation: There are many suns in the universe.
+  - Phrase: A teke jo wjele gwězdow.
+    Translation: And there are also many stars.
+  - Phrase: Wón lubi powědaś ze swójeju žonu.
+    Translation: He likes to talk with his wife.
+  - Phrase: Južo nje ma bananow we domje.
+    Translation: There are no more bananas in the house.
+  - Phrase: We wócyma wiźim dušu twóju.
+    Translation: In the eyes I see your soul.
+  - Phrase: Wocy su zdrjadłom duše.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Mužow how nje wiźim.
+    Translation: I do not see men here.
+  - Phrase: We městach wuwidźiš wjele luźi.
+    Translation: In the cities you will see many people.
+  - Phrase: Měrna noc!
+    Translation: Good night!
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: undefined
+    - bananow: undefined
+    - brata: undefined
+    - bratšach: undefined
+    - bratšam: undefined
+    - dajo: undefined
+    - dam: undefined
+    - dar: undefined
+    - domje: undefined
+    - duše: undefined
+    - dušu: undefined
+    - dušy: undefined
+    - gwězdow: undefined
+    - how: undefined
+    - jo: undefined
+    - južo: undefined
+    - kóski: undefined
+    - lubi: undefined
+    - luźi: undefined
+    - ma: undefined
+    - maš: undefined
+    - mužom: undefined
+    - mužow: undefined
+    - móžno: undefined
+    - měgo: undefined
+    - měrna: undefined
+    - městach: undefined
+    - městśe: undefined
+    - na: undefined
+    - nje: undefined
+    - noc: undefined
+    - nožom: undefined
+    - powěda: undefined
+    - powědamy: undefined
+    - powědaś: undefined
+    - pólu: undefined
+    - pśijaśelami: undefined
+    - rězaś: undefined
+    - rěžo: undefined
+    - su: undefined
+    - swójeju: undefined
+    - swóju: undefined
+    - słyńcow: undefined
+    - teke: undefined
+    - to: undefined
+    - twóju: undefined
+    - ty: undefined
+    - univerzum: undefined
+    - uniwersumje: undefined
+    - we: undefined
+    - wiźi: undefined
+    - wiźim: undefined
+    - wjele: undefined
+    - wocy: undefined
+    - wuwidźiš: undefined
+    - wó: undefined
+    - wócyma: undefined
+    - wón: undefined
+    - wóna: undefined
+    - z: undefined
+    - zdrjadło: undefined
+    - zdrjadłom: undefined
+    - ze: undefined
+    - źěłam: undefined
+    - žonje: undefined
+    - žonu: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - bananas: undefined
+    - be: undefined
+    - bone: undefined
+    - brother: undefined
+    - brothers: undefined
+    - can: undefined
+    - cities: undefined
+    - city: undefined
+    - cut: undefined
+    - do: undefined
+    - don't: undefined
+    - eyes: undefined
+    - field: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - his: undefined
+    - house: undefined
+    - husband: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - knife: undefined
+    - likes: undefined
+    - lot: undefined
+    - many: undefined
+    - men: undefined
+    - mirror: undefined
+    - more: undefined
+    - name: undefined
+    - night: undefined
+    - no: undefined
+    - not: undefined
+    - of: undefined
+    - people: undefined
+    - see: undefined
+    - sees: undefined
+    - she: undefined
+    - soul: undefined
+    - stars: undefined
+    - suns: undefined
+    - talk: undefined
+    - talks: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - universe: undefined
+    - wife: undefined
+    - will: undefined
+    - with: undefined
+    - woman: undefined
+    - work: undefined
+    - you: undefined
+    - your: undefined

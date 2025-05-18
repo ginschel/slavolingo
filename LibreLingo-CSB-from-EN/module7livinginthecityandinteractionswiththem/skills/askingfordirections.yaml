@@ -1,0 +1,166 @@
+Skill:
+  Name: Asking for Directions
+  Id: 25
+
+New words:
+  - Word: dze
+    Translation: where
+  - Word: kùdë
+    Translation: which way
+  - Word: wprôwò
+    Translation: to the right
+  - Word: wlewò
+    Translation: to the left
+  - Word: prosto
+    Translation: straight
+  - Word: bliskò
+    Translation: near
+  - Word: dalekò
+    Translation: far
+  - Word: pytac
+    Translation: to ask
+  - Word: pòkôzac
+    Translation: to show
+  - Word: dróg
+    Translation: path/way
+
+Phrases:
+  - Phrase: Dze je stacëjô?
+    Translation: Where is the station?
+  - Phrase: Kùdë jidze droga?
+    Translation: Which way does the road go?
+  - Phrase: Jidzemë wprôwò.
+    Translation: We are going to the right.
+  - Phrase: Pòtemù wlewò.
+    Translation: Then to the left.
+  - Phrase: Jidzë prosto do môsta.
+    Translation: Go straight to the bridge.
+  - Phrase: Prospekt je bliskò tôrgu.
+    Translation: The avenue is near the square.
+  - Phrase: Knéżnica je dalekò.
+    Translation: The library is far away.
+  - Phrase: Pitam jich za drogã.
+    Translation: I ask them for the way.
+  - Phrase: Mòżece pòkôzac dróg?
+    Translation: Can you show me the way?
+  - Phrase: Ùlica jidze do centra.
+    Translation: The street goes to the center.
+  - Phrase: Dze je bliski hotel?
+    Translation: Where is the nearest hotel?
+  - Phrase: Kùdë jidzece?
+    Translation: Which way are you going?
+  - Phrase: Jidzece prosto i pòtemù wprôwò.
+    Translation: Go straight and then to the right.
+  - Phrase: Stacëjô je wlewò.
+    Translation: The station is on the left.
+  - Phrase: Skłôd je bliskò knéżnicë.
+    Translation: The shop is near the library.
+  - Phrase: Tôrg je dalekò òd hotela.
+    Translation: The square is far from the hotel.
+  - Phrase: Pitam starą białkã.
+    Translation: I ask the old woman.
+  - Phrase: On mie pòkôzëje drogã.
+    Translation: He shows me the way.
+  - Phrase: Ùlica je długa.
+    Translation: The street is long.
+  - Phrase: Kùdë jidze ten ban?
+    Translation: Where is that train going?
+
+Mini-dictionary:
+  Kashubian:
+    - ban: undefined
+    - białkã: undefined
+    - bliski: undefined
+    - bliskò: undefined
+    - centra: undefined
+    - dalekò: undefined
+    - do: undefined
+    - droga: undefined
+    - drogã: undefined
+    - dróg: undefined
+    - dze: undefined
+    - długa: undefined
+    - hotel: undefined
+    - hotela: undefined
+    - i: undefined
+    - je: undefined
+    - jich: undefined
+    - jidze: undefined
+    - jidzece: undefined
+    - jidzemë: undefined
+    - jidzë: undefined
+    - knéżnica: undefined
+    - knéżnicë: undefined
+    - kùdë: undefined
+    - mie: undefined
+    - mòżece: undefined
+    - môsta: undefined
+    - on: undefined
+    - pitam: undefined
+    - prospekt: undefined
+    - prosto: undefined
+    - pytac: undefined
+    - pòkôzac: undefined
+    - pòkôzëje: undefined
+    - pòtemù: undefined
+    - skłôd: undefined
+    - stacëjô: undefined
+    - starą: undefined
+    - ten: undefined
+    - tôrg: undefined
+    - tôrgu: undefined
+    - wlewò: undefined
+    - wprôwò: undefined
+    - za: undefined
+    - òd: undefined
+    - ùlica: undefined
+  English:
+    - and: undefined
+    - are: undefined
+    - ask: undefined
+    - avenue: undefined
+    - away: undefined
+    - bridge: undefined
+    - can: undefined
+    - center: undefined
+    - does: undefined
+    - far: undefined
+    - for: undefined
+    - from: undefined
+    - go: undefined
+    - goes: undefined
+    - going: undefined
+    - he: undefined
+    - hotel: undefined
+    - i: undefined
+    - is: undefined
+    - left: undefined
+    - library: undefined
+    - long: undefined
+    - me: undefined
+    - near: undefined
+    - nearest: undefined
+    - old: undefined
+    - on: undefined
+    - path/way: undefined
+    - right: undefined
+    - road: undefined
+    - shop: undefined
+    - show: undefined
+    - shows: undefined
+    - square: undefined
+    - station: undefined
+    - straight: undefined
+    - street: undefined
+    - that: undefined
+    - the: undefined
+    - them: undefined
+    - then: undefined
+    - to: undefined
+    - train: undefined
+    - way: undefined
+    - we: undefined
+    - where: undefined
+    - which: undefined
+    - woman: undefined
+    - you: undefined

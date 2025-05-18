@@ -1,0 +1,229 @@
+Skill:
+  Name: Character (Conditional)
+  Id: 36
+
+New words:
+  - Word: добрый
+    Translation: good
+  - Word: злый
+    Translation: bad
+  - Word: сильный
+    Translation: strong
+  - Word: слабый
+    Translation: weak
+  - Word: смїлый
+    Translation: brave
+  - Word: тихый
+    Translation: quiet
+  - Word: мудрый
+    Translation: wise
+  - Word: глупый
+    Translation: stupid
+  - Word: щирый
+    Translation: sincere
+  - Word: лїнивый
+    Translation: lazy
+  - Word: быв бым
+    Translation: I would be
+  - Word: быв быс
+    Translation: you would be
+  - Word: быв бы
+    Translation: he/she/it would be
+  - Word: были бысме
+    Translation: we would be
+  - Word: были бысьте
+    Translation: you would be
+  - Word: были бы
+    Translation: they would be
+  - Word: мовчати (мовчить)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: Он тото добрый чоловік.
+    Translation: He is a good person.
+  - Phrase: Она є зла часом.
+    Translation: She is sometimes bad.
+  - Phrase: Сильный дух є важный.
+    Translation: A strong spirit is important.
+  - Phrase: Он є слабый в спортї.
+    Translation: He is weak in sports.
+  - Phrase: Смїлый говорити правду.
+    Translation: Brave people speak the truth.
+  - Phrase: Кед ты быв быс слухав, тото они были бы тихі.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Мудрый знає много.
+    Translation: A smart person knows much.
+  - Phrase: Кед ты быв быс не быв глупый, тото быв быс не дїлав глупости.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Щирый приятель є дорогый.
+    Translation: A sincere friend is valuable.
+  - Phrase: Як они были бы не были лїнивы, тото мы были бысме їм помагали.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Она є добра і щира.
+    Translation: She is good and sincere.
+  - Phrase: Он є сильный, але смїлый.
+    Translation: He is strong but brave.
+  - Phrase: Дїты суть мудры на їх вік.
+    Translation: Children are wiser for their age.
+  - Phrase: Кед вы были бысьте не были слабы, тото вы были бысьте роботали.
+    Translation: If you were not weak, you would work.
+  - Phrase: Злы слова болять.
+    Translation: Bad words hurt.
+  - Phrase: Глупый ся не учить.
+    Translation: Stupid people do not learn.
+  - Phrase: Лїнивый не хоче нич дїлати.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Щирый говорить што мыслить.
+    Translation: A sincere person says what they think.
+  - Phrase: Мудрый мовчить кед треба.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Кед я быв бым быв смїлый, тото я быв бым ся не бояв.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Rusin:
+    - але: undefined
+    - болять: undefined
+    - бояв: undefined
+    - бы: undefined
+    - быв: undefined
+    - были: undefined
+    - бым: undefined
+    - быс: undefined
+    - бысме: undefined
+    - бысьте: undefined
+    - в: undefined
+    - важный: undefined
+    - вы: undefined
+    - вік: undefined
+    - глупости: undefined
+    - глупый: undefined
+    - говорити: undefined
+    - говорить: undefined
+    - добра: undefined
+    - добрый: undefined
+    - дорогый: undefined
+    - дух: undefined
+    - дїлав: undefined
+    - дїлати: undefined
+    - дїты: undefined
+    - зла: undefined
+    - злы: undefined
+    - злый: undefined
+    - знає: undefined
+    - кед: undefined
+    - лїнивы: undefined
+    - лїнивый: undefined
+    - много: undefined
+    - мовчати: undefined
+    - мовчить: undefined
+    - мудры: undefined
+    - мудрый: undefined
+    - мы: undefined
+    - мыслить: undefined
+    - на: undefined
+    - не: undefined
+    - нич: undefined
+    - он: undefined
+    - она: undefined
+    - они: undefined
+    - помагали: undefined
+    - правду: undefined
+    - приятель: undefined
+    - роботали: undefined
+    - сильный: undefined
+    - слабы: undefined
+    - слабый: undefined
+    - слова: undefined
+    - слухав: undefined
+    - смїлый: undefined
+    - спортї: undefined
+    - суть: undefined
+    - ся: undefined
+    - тихый: undefined
+    - тихі: undefined
+    - тото: undefined
+    - треба: undefined
+    - ты: undefined
+    - учить: undefined
+    - хоче: undefined
+    - часом: undefined
+    - чоловік: undefined
+    - што: undefined
+    - щира: undefined
+    - щирый: undefined
+    - я: undefined
+    - як: undefined
+    - є: undefined
+    - і: undefined
+    - їм: undefined
+    - їх: undefined
+  English:
+    - a: undefined
+    - afraid: undefined
+    - age: undefined
+    - and: undefined
+    - anything: undefined
+    - are: undefined
+    - bad: undefined
+    - be: undefined
+    - brave: undefined
+    - but: undefined
+    - children: undefined
+    - do: undefined
+    - foolish: undefined
+    - for: undefined
+    - friend: undefined
+    - good: undefined
+    - he: undefined
+    - he/she/it: undefined
+    - hear: undefined
+    - help: undefined
+    - hurt: undefined
+    - i: undefined
+    - if: undefined
+    - important: undefined
+    - in: undefined
+    - is: undefined
+    - knows: undefined
+    - lazy: undefined
+    - learn: undefined
+    - much: undefined
+    - needed: undefined
+    - not: undefined
+    - people: undefined
+    - person: undefined
+    - quiet: undefined
+    - says: undefined
+    - she: undefined
+    - silent: undefined
+    - sincere: undefined
+    - smart: undefined
+    - sometimes: undefined
+    - speak: undefined
+    - spirit: undefined
+    - sports: undefined
+    - stays: undefined
+    - strong: undefined
+    - stupid: undefined
+    - the: undefined
+    - their: undefined
+    - them: undefined
+    - they: undefined
+    - things: undefined
+    - think: undefined
+    - to: undefined
+    - truth: undefined
+    - valuable: undefined
+    - want: undefined
+    - we: undefined
+    - weak: undefined
+    - were: undefined
+    - what: undefined
+    - when: undefined
+    - wise: undefined
+    - wiser: undefined
+    - words: undefined
+    - work: undefined
+    - would: undefined
+    - you: undefined

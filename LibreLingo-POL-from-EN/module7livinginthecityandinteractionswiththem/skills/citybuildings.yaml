@@ -1,0 +1,183 @@
+Skill:
+  Name: City/Buildings
+  Id: 21
+
+New words:
+  - Word: miasto
+    Translation: city
+  - Word: dom
+    Translation: house
+  - Word: plac/rynek
+    Translation: square/market
+  - Word: stacja
+    Translation: station
+  - Word: most
+    Translation: bridge
+  - Word: sklep
+    Translation: shop/store
+  - Word: targowisko
+    Translation: market
+  - Word: biblioteka
+    Translation: library
+  - Word: kościół
+    Translation: church
+  - Word: ulica
+    Translation: street
+  - Word: prowadzić (prowadzi)
+    Translation: to lead
+
+Phrases:
+  - Phrase: To jest duże miasto.
+    Translation: This is a big city.
+  - Phrase: Dom stoi na ulicy.
+    Translation: The house stands on the street.
+  - Phrase: Idziemy do placu/rynku.
+    Translation: We are going to the square.
+  - Phrase: Stacja jest blisko centrum.
+    Translation: The station is near the center.
+  - Phrase: Most idzie przez rzekę.
+    Translation: The bridge goes over the river.
+  - Phrase: Kupujemy chleb w sklepie.
+    Translation: We buy bread in the shop.
+  - Phrase: Na targowisku jest dużo ludzi.
+    Translation: There are many people at the market.
+  - Phrase: Czytam książkę w bibliotece.
+    Translation: I read a book in the library.
+  - Phrase: Kościół jest stary i biały.
+    Translation: The church is old and white.
+  - Phrase: Ulica jest długa i ciepła.
+    Translation: The street is long and warm.
+  - Phrase: Miasto ma dużo domów.
+    Translation: The city has many houses.
+  - Phrase: Sklep jest otwarty dzisiaj.
+    Translation: The shop is open today.
+  - Phrase: Kościół stoi blisko biblioteki.
+    Translation: The church stands near the library.
+  - Phrase: Ulica prowadzi do placu/rynku.
+    Translation: The street leads to the square.
+  - Phrase: Na placu/rynku stoi fontanna.
+    Translation: A fountain stands in the square.
+  - Phrase: Most jest piękny i nowy.
+    Translation: The bridge is beautiful and new.
+  - Phrase: To jest mój dom w mieście.
+    Translation: This is my house in the city.
+  - Phrase: Stacja ma dużo pociągów.
+    Translation: The station has many trains.
+  - Phrase: Ulica idzie do sklepu.
+    Translation: The street goes to the shop.
+  - Phrase: Plac/Rynek jest pełny ludzi.
+    Translation: The square is full of people.
+
+Mini-dictionary:
+  Polish:
+    - biały: undefined
+    - bibliotece: undefined
+    - biblioteka: undefined
+    - biblioteki: undefined
+    - blisko: undefined
+    - centrum: undefined
+    - chleb: undefined
+    - ciepła: undefined
+    - czytam: undefined
+    - do: undefined
+    - dom: undefined
+    - domów: undefined
+    - duże: undefined
+    - dużo: undefined
+    - dzisiaj: undefined
+    - długa: undefined
+    - fontanna: undefined
+    - i: undefined
+    - idzie: undefined
+    - idziemy: undefined
+    - jest: undefined
+    - kościół: undefined
+    - książkę: undefined
+    - kupujemy: undefined
+    - ludzi: undefined
+    - ma: undefined
+    - miasto: undefined
+    - mieście: undefined
+    - most: undefined
+    - mój: undefined
+    - na: undefined
+    - nowy: undefined
+    - otwarty: undefined
+    - pełny: undefined
+    - piękny: undefined
+    - plac/rynek: undefined
+    - placu/rynku: undefined
+    - pociągów: undefined
+    - prowadzi: undefined
+    - prowadzić: undefined
+    - przez: undefined
+    - rzekę: undefined
+    - sklep: undefined
+    - sklepie: undefined
+    - sklepu: undefined
+    - stacja: undefined
+    - stary: undefined
+    - stoi: undefined
+    - targowisko: undefined
+    - targowisku: undefined
+    - to: undefined
+    - ulica: undefined
+    - ulicy: undefined
+    - w: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beautiful: undefined
+    - big: undefined
+    - book: undefined
+    - bread: undefined
+    - bridge: undefined
+    - buy: undefined
+    - center: undefined
+    - church: undefined
+    - city: undefined
+    - fountain: undefined
+    - full: undefined
+    - goes: undefined
+    - going: undefined
+    - has: undefined
+    - house: undefined
+    - houses: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - lead: undefined
+    - leads: undefined
+    - library: undefined
+    - long: undefined
+    - many: undefined
+    - market: undefined
+    - my: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - over: undefined
+    - people: undefined
+    - read: undefined
+    - river: undefined
+    - shop: undefined
+    - shop/store: undefined
+    - square: undefined
+    - square/market: undefined
+    - stands: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - today: undefined
+    - trains: undefined
+    - warm: undefined
+    - we: undefined
+    - white: undefined

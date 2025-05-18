@@ -1,0 +1,182 @@
+Skill:
+  Name: Animals (Dative case)
+  Id: 14
+
+New words:
+  - Word: mačka
+    Translation: cat
+  - Word: pes
+    Translation: dog
+  - Word: vták
+    Translation: bird
+  - Word: pomáhať
+    Translation: to help
+  - Word: ukázať (ukáže)
+    Translation: to show
+  - Word: kôň
+    Translation: horse
+  - Word: dať (dá)
+    Translation: to give
+  - Word: ryba
+    Translation: fish
+  - Word: žaba
+    Translation: frog
+  - Word: medveď
+    Translation: bear
+  - Word: vlk
+    Translation: wolf
+  - Word: myš
+    Translation: mouse
+  - Word: zviera
+    Translation: animal
+
+Phrases:
+  - Phrase: Ja dám mačke rybu.
+    Translation: I give the cat a fish.
+  - Phrase: Ona ukáže psovi.
+    Translation: She says to the dog.
+  - Phrase: On pomáha vtákovi.
+    Translation: He helps the bird.
+  - Phrase: Dávame koňovi vodu.
+    Translation: We give the horse water.
+  - Phrase: Ona nesie myši syr.
+    Translation: She carries cheese to the mouse.
+  - Phrase: On pomáha medveďovi.
+    Translation: He helps the bear.
+  - Phrase: My dávame žabe chlieb.
+    Translation: We give bread to the frog.
+  - Phrase: Oni dávajú zvieraťu ruku.
+    Translation: They give their hand to the animal.
+  - Phrase: Pomáhame vlkovi.
+    Translation: We help the wolf.
+  - Phrase: Ty dáš mne rybu?
+    Translation: Will you give me a fish?
+  - Phrase: Ja dám mačke meno.
+    Translation: I give the cat a name.
+  - Phrase: On dá myši syr.
+    Translation: On da myši syr.
+  - Phrase: My pomáhame vtákom.
+    Translation: We help the birds.
+  - Phrase: Dávame žabe vodu.
+    Translation: We give the frog water.
+  - Phrase: Oni nesú medveďovi jedlo.
+    Translation: They are carrying food to the bear.
+  - Phrase: Ona dá psovi dobré meno.
+    Translation: She gives the dog a good name.
+  - Phrase: Vy dáte koňovi.
+    Translation: You will give the horse.
+  - Phrase: Ja dám rybe vodu.
+    Translation: I give the fish water.
+  - Phrase: Ona mu pomohla so zvieraťom.
+    Translation: She helped him with the animal.
+  - Phrase: Dáš psovi chutnú kosť?
+    Translation: Will you give the dog a tasty bone?
+
+Mini-dictionary:
+  Slovak:
+    - chlieb: undefined
+    - chutnú: undefined
+    - dať: undefined
+    - dobré: undefined
+    - dá: undefined
+    - dám: undefined
+    - dáte: undefined
+    - dávajú: undefined
+    - dávame: undefined
+    - dáš: undefined
+    - ja: undefined
+    - jedlo: undefined
+    - kosť: undefined
+    - koňovi: undefined
+    - kôň: undefined
+    - mačka: undefined
+    - mačke: undefined
+    - medveď: undefined
+    - medveďovi: undefined
+    - meno: undefined
+    - mne: undefined
+    - mu: undefined
+    - my: undefined
+    - myš: undefined
+    - myši: undefined
+    - nesie: undefined
+    - nesú: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - pes: undefined
+    - pomohla: undefined
+    - pomáha: undefined
+    - pomáhame: undefined
+    - pomáhať: undefined
+    - psovi: undefined
+    - ruku: undefined
+    - ryba: undefined
+    - rybe: undefined
+    - rybu: undefined
+    - so: undefined
+    - syr: undefined
+    - ty: undefined
+    - ukázať: undefined
+    - ukáže: undefined
+    - vlk: undefined
+    - vlkovi: undefined
+    - vodu: undefined
+    - vták: undefined
+    - vtákom: undefined
+    - vtákovi: undefined
+    - vy: undefined
+    - zviera: undefined
+    - zvieraťom: undefined
+    - zvieraťu: undefined
+    - žaba: undefined
+    - žabe: undefined
+  English:
+    - a: undefined
+    - animal: undefined
+    - are: undefined
+    - bear: undefined
+    - bird: undefined
+    - birds: undefined
+    - bone: undefined
+    - bread: undefined
+    - carries: undefined
+    - carrying: undefined
+    - cat: undefined
+    - cheese: undefined
+    - da: undefined
+    - dog: undefined
+    - fish: undefined
+    - food: undefined
+    - frog: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - hand: undefined
+    - he: undefined
+    - help: undefined
+    - helped: undefined
+    - helps: undefined
+    - him: undefined
+    - horse: undefined
+    - i: undefined
+    - me: undefined
+    - mouse: undefined
+    - myši: undefined
+    - name: undefined
+    - on: undefined
+    - says: undefined
+    - she: undefined
+    - show: undefined
+    - syr: undefined
+    - tasty: undefined
+    - the: undefined
+    - their: undefined
+    - they: undefined
+    - to: undefined
+    - water: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined
+    - wolf: undefined
+    - you: undefined

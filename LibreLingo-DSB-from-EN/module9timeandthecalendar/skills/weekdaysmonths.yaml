@@ -1,0 +1,236 @@
+Skill:
+  Name: Weekdays/Months
+  Id: 32
+
+New words:
+  - Word: tyźeń
+    Translation: week
+  - Word: póńźele
+    Translation: Monday
+  - Word: wałpš
+    Translation: Tuesday
+  - Word: srjoda
+    Translation: Wednesday
+  - Word: styrstwjertk
+    Translation: Thursday
+  - Word: pěśtwjertk
+    Translation: Friday
+  - Word: sobota
+    Translation: Saturday
+  - Word: njeźela
+    Translation: Sunday
+  - Word: mjasec
+    Translation: month
+  - Word: januar
+    Translation: January
+  - Word: februar
+    Translation: February
+  - Word: měrc
+    Translation: March
+  - Word: apryl
+    Translation: April
+  - Word: maj
+    Translation: May
+  - Word: junij
+    Translation: June
+  - Word: julij
+    Translation: July
+  - Word: awgust
+    Translation: August
+  - Word: septembr
+    Translation: September
+  - Word: oktober
+    Translation: October
+  - Word: novembr
+    Translation: November
+  - Word: december
+    Translation: December
+
+Phrases:
+  - Phrase: Póńźele jo prědny źeń we tyźenju.
+    Translation: Monday is the first day of the week.
+  - Phrase: Wałpš jo pó póńźeli.
+    Translation: Tuesday is after Monday.
+  - Phrase: Srjoda jo we srjejźi tyźenja.
+    Translation: Wednesday is in the middle of the week.
+  - Phrase: Styrstwjertk jo pśed pěśtwjertkom.
+    Translation: Thursday is before Friday.
+  - Phrase: Pěśtwjertk jo pósledny źěłowy źeń.
+    Translation: Friday is the last working day.
+  - Phrase: Sobota to wikend.
+    Translation: Saturday is the weekend.
+  - Phrase: Njeźela to źeń wótpocynka.
+    Translation: Sunday is the day of rest.
+  - Phrase: Mam w januarje prázdniny.
+    Translation: I have vacation in January.
+  - Phrase: Nowe lěto jo we decemberje.
+    Translation: New Year's is in December.
+  - Phrase: W awgusće źom do Honduras.
+    Translation: In August, I am going to Honduras.
+  - Phrase: We februarje jo wjele sněga.
+    Translation: In February there is a lot of snow.
+  - Phrase: We srjoźe mam nadawk.
+    Translation: On Wednesday, I have an assignment.
+  - Phrase: We Styrstwjertk jo mójo lubo źeń.
+    Translation: Thursday is my favorite day.
+  - Phrase: We pěśtwjertk wjacorim źomy na film.
+    Translation: On Friday evening we are going to the movies.
+  - Phrase: Sobota jo bźez źěła.
+    Translation: Saturday is without work.
+  - Phrase: Njeźela jo cas za familiju.
+    Translation: Sunday is time for family.
+  - Phrase: Nje kuždy mjasec ma tśójcasć dnjow.
+    Translation: Not every month has thirty days.
+  - Phrase: Oktober jo krasny mjasec.
+    Translation: October is a beautiful month.
+  - Phrase: Wałpš jo z źeń sporta.
+    Translation: Tuesday is the day for sports.
+  - Phrase: Julij jo z mjasecom lěśa.
+    Translation: July is the month of summer.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - apryl: undefined
+    - awgust: undefined
+    - awgusće: undefined
+    - bźez: undefined
+    - cas: undefined
+    - december: undefined
+    - decemberje: undefined
+    - dnjow: undefined
+    - do: undefined
+    - familiju: undefined
+    - februar: undefined
+    - februarje: undefined
+    - film: undefined
+    - honduras: undefined
+    - januar: undefined
+    - januarje: undefined
+    - jo: undefined
+    - julij: undefined
+    - junij: undefined
+    - krasny: undefined
+    - kuždy: undefined
+    - lubo: undefined
+    - lěto: undefined
+    - lěśa: undefined
+    - ma: undefined
+    - maj: undefined
+    - mam: undefined
+    - mjasec: undefined
+    - mjasecom: undefined
+    - mójo: undefined
+    - měrc: undefined
+    - na: undefined
+    - nadawk: undefined
+    - nje: undefined
+    - njeźela: undefined
+    - novembr: undefined
+    - nowe: undefined
+    - oktober: undefined
+    - prázdniny: undefined
+    - prědny: undefined
+    - pó: undefined
+    - pósledny: undefined
+    - póńźele: undefined
+    - póńźeli: undefined
+    - pěśtwjertk: undefined
+    - pěśtwjertkom: undefined
+    - pśed: undefined
+    - septembr: undefined
+    - sněga: undefined
+    - sobota: undefined
+    - sporta: undefined
+    - srjejźi: undefined
+    - srjoda: undefined
+    - srjoźe: undefined
+    - styrstwjertk: undefined
+    - to: undefined
+    - tyźenja: undefined
+    - tyźenju: undefined
+    - tyźeń: undefined
+    - tśójcasć: undefined
+    - w: undefined
+    - wałpš: undefined
+    - we: undefined
+    - wikend: undefined
+    - wjacorim: undefined
+    - wjele: undefined
+    - wótpocynka: undefined
+    - z: undefined
+    - za: undefined
+    - źeń: undefined
+    - źom: undefined
+    - źomy: undefined
+    - źěła: undefined
+    - źěłowy: undefined
+  English:
+    - a: undefined
+    - after: undefined
+    - am: undefined
+    - an: undefined
+    - april: undefined
+    - are: undefined
+    - assignment: undefined
+    - august: undefined
+    - beautiful: undefined
+    - before: undefined
+    - day: undefined
+    - days: undefined
+    - december: undefined
+    - evening: undefined
+    - every: undefined
+    - family: undefined
+    - favorite: undefined
+    - february: undefined
+    - first: undefined
+    - for: undefined
+    - friday: undefined
+    - going: undefined
+    - has: undefined
+    - have: undefined
+    - honduras: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - january: undefined
+    - july: undefined
+    - june: undefined
+    - last: undefined
+    - lot: undefined
+    - march: undefined
+    - may: undefined
+    - middle: undefined
+    - monday: undefined
+    - month: undefined
+    - movies: undefined
+    - my: undefined
+    - new: undefined
+    - not: undefined
+    - november: undefined
+    - october: undefined
+    - of: undefined
+    - on: undefined
+    - rest: undefined
+    - saturday: undefined
+    - september: undefined
+    - snow: undefined
+    - sports: undefined
+    - summer: undefined
+    - sunday: undefined
+    - the: undefined
+    - there: undefined
+    - thirty: undefined
+    - thursday: undefined
+    - time: undefined
+    - to: undefined
+    - tuesday: undefined
+    - vacation: undefined
+    - we: undefined
+    - wednesday: undefined
+    - week: undefined
+    - weekend: undefined
+    - without: undefined
+    - work: undefined
+    - working: undefined
+    - year's: undefined

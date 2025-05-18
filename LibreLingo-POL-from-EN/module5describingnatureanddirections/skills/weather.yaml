@@ -1,0 +1,190 @@
+Skill:
+  Name: Weather
+  Id: 16
+
+New words:
+  - Word: pogoda
+    Translation: weather
+  - Word: deszcz
+    Translation: rain
+  - Word: padać
+    Translation: to fall
+  - Word: śnieg
+    Translation: snow
+  - Word: zmieniać
+    Translation: to change
+  - Word: słońce
+    Translation: sun
+  - Word: świecić
+    Translation: to shine
+  - Word: powietrze
+    Translation: air
+  - Word: wiatr
+    Translation: wind
+  - Word: ciepło
+    Translation: warm
+  - Word: zimno
+    Translation: cold
+  - Word: mróz
+    Translation: frost
+  - Word: chmura
+    Translation: cloud
+  - Word: grzać (grzeje)
+    Translation: to heat
+  - Word: pochmurno
+    Translation: cloudy
+  - Word: pachnieć (pachnie)
+    Translation: to smell
+  - Word: widzieć (widzi)
+    Translation: to see
+
+Phrases:
+  - Phrase: Pogoda jest dobra.
+    Translation: The weather is good.
+  - Phrase: Pada deszcz.
+    Translation: It is raining.
+  - Phrase: Śnieg leży na ziemi.
+    Translation: Snow lies on the ground.
+  - Phrase: Słońce świeci.
+    Translation: The sun is shining.
+  - Phrase: Powietrze jest czyste.
+    Translation: The air is clean.
+  - Phrase: Wiatr wieje mocno.
+    Translation: The wind is blowing strongly.
+  - Phrase: Dzisiaj jest ciepło.
+    Translation: It is warm today.
+  - Phrase: W Rosji jest zimno.
+    Translation: In Russia it is cold.
+  - Phrase: Mróz jest silny.
+    Translation: The frost is strong.
+  - Phrase: Chmury są ciemne.
+    Translation: The clouds are dark.
+  - Phrase: Pada śnieg i deszcz.
+    Translation: Snow and rain are falling.
+  - Phrase: Pogoda się zmienia.
+    Translation: The weather is changing.
+  - Phrase: Słońce grzeje nas.
+    Translation: The sun heats us.
+  - Phrase: Dzisiaj jest ciepło i sucho.
+    Translation: It is warm and dry today.
+  - Phrase: Czy wiatr jest silny?
+    Translation: Is the wind strong?
+  - Phrase: Mróz jest rano.
+    Translation: There is frost in the morning.
+  - Phrase: Pochmurno jest dzisiaj.
+    Translation: It is cloudy today.
+  - Phrase: Powietrze pachnie po deszczu.
+    Translation: The air smells of rain.
+  - Phrase: Dzisiaj nie widzimy chmur.
+    Translation: Today I do not see clouds.
+  - Phrase: Zimny wiatr wieje z północy.
+    Translation: A cold wind is blowing from the north.
+
+Mini-dictionary:
+  Polish:
+    - chmur: undefined
+    - chmura: undefined
+    - chmury: undefined
+    - ciemne: undefined
+    - ciepło: undefined
+    - czy: undefined
+    - czyste: undefined
+    - deszcz: undefined
+    - deszczu: undefined
+    - dobra: undefined
+    - dzisiaj: undefined
+    - grzać: undefined
+    - grzeje: undefined
+    - i: undefined
+    - jest: undefined
+    - leży: undefined
+    - mocno: undefined
+    - mróz: undefined
+    - na: undefined
+    - nas: undefined
+    - nie: undefined
+    - pachnie: undefined
+    - pachnieć: undefined
+    - pada: undefined
+    - padać: undefined
+    - po: undefined
+    - pochmurno: undefined
+    - pogoda: undefined
+    - powietrze: undefined
+    - północy: undefined
+    - rano: undefined
+    - rosji: undefined
+    - silny: undefined
+    - się: undefined
+    - sucho: undefined
+    - są: undefined
+    - słońce: undefined
+    - w: undefined
+    - wiatr: undefined
+    - widzi: undefined
+    - widzieć: undefined
+    - widzimy: undefined
+    - wieje: undefined
+    - z: undefined
+    - ziemi: undefined
+    - zimno: undefined
+    - zimny: undefined
+    - zmienia: undefined
+    - zmieniać: undefined
+    - śnieg: undefined
+    - świeci: undefined
+    - świecić: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - and: undefined
+    - are: undefined
+    - blowing: undefined
+    - change: undefined
+    - changing: undefined
+    - clean: undefined
+    - cloud: undefined
+    - clouds: undefined
+    - cloudy: undefined
+    - cold: undefined
+    - dark: undefined
+    - do: undefined
+    - dry: undefined
+    - fall: undefined
+    - falling: undefined
+    - from: undefined
+    - frost: undefined
+    - good: undefined
+    - ground: undefined
+    - heat: undefined
+    - heats: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lies: undefined
+    - morning: undefined
+    - north: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - rain: undefined
+    - raining: undefined
+    - russia: undefined
+    - see: undefined
+    - shine: undefined
+    - shining: undefined
+    - smell: undefined
+    - smells: undefined
+    - snow: undefined
+    - strong: undefined
+    - strongly: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - to: undefined
+    - today: undefined
+    - us: undefined
+    - warm: undefined
+    - weather: undefined
+    - wind: undefined

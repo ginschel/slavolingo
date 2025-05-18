@@ -1,0 +1,199 @@
+Skill:
+  Name: Rooms/furniture
+  Id: 12
+
+New words:
+  - Word: izba
+    Translation: room
+  - Word: stôl
+    Translation: table
+  - Word: stolička
+    Translation: chair
+  - Word: vankúš
+    Translation: pillow
+  - Word: posteľ
+    Translation: bed
+  - Word: okno
+    Translation: window
+  - Word: dvere
+    Translation: doors
+  - Word: skriňa
+    Translation: wardrobe
+  - Word: truhlica
+    Translation: chest
+  - Word: polica
+    Translation: shelf
+  - Word: držať (drží)
+    Translation: to hold
+  - Word: visieť (visí)
+    Translation: to hang
+  - Word: stena
+    Translation: wall
+  - Word: lampa
+    Translation: lamp
+  - Word: dávať
+    Translation: to give
+
+Phrases:
+  - Phrase: Izba je teplá a tichá.
+    Translation: The room is warm and quiet.
+  - Phrase: Stôl stojí v strede izby.
+    Translation: The table stands in the middle of the room.
+  - Phrase: Stolička je blízko stola.
+    Translation: The chair is near the table.
+  - Phrase: Posteľ je mäkká.
+    Translation: The bed is soft.
+  - Phrase: Okno je otvorené.
+    Translation: The window is open.
+  - Phrase: Dvere sú zatvorené.
+    Translation: The doors are closed.
+  - Phrase: Skriňa má veľa oblečenia.
+    Translation: The wardrobe has many clothes.
+  - Phrase: Truhlica je pod posteľou.
+    Translation: The chest is under the bed.
+  - Phrase: Polica drží knihy.
+    Translation: The shelf holds books.
+  - Phrase: Lampa svieti nad stolom.
+    Translation: The lamp shines above the table.
+  - Phrase: Izba má dve okná.
+    Translation: The room has two windows.
+  - Phrase: Na stole leží kniha.
+    Translation: A book is lying on the table.
+  - Phrase: Stolička je stará, ale pohodlná.
+    Translation: The chair is old, but comfortable.
+  - Phrase: Posteľ je nová.
+    Translation: The bed is new.
+  - Phrase: Dvere vedú do kuchyne.
+    Translation: The doors lead to the kitchen.
+  - Phrase: Skriňa je plná.
+    Translation: The wardrobe is full.
+  - Phrase: Truhlica je z dreva.
+    Translation: The chest is made of wood.
+  - Phrase: Polica visí na stene.
+    Translation: The shelf hangs on the wall.
+  - Phrase: Lampa dáva svetlo.
+    Translation: The lamp gives light.
+  - Phrase: V izbe je pokojne.
+    Translation: It is quiet in the room.
+
+Mini-dictionary:
+  Slovak:
+    - a: undefined
+    - ale: undefined
+    - blízko: undefined
+    - do: undefined
+    - dreva: undefined
+    - držať: undefined
+    - drží: undefined
+    - dve: undefined
+    - dvere: undefined
+    - dáva: undefined
+    - dávať: undefined
+    - izba: undefined
+    - izbe: undefined
+    - izby: undefined
+    - je: undefined
+    - kniha: undefined
+    - knihy: undefined
+    - kuchyne: undefined
+    - lampa: undefined
+    - leží: undefined
+    - má: undefined
+    - mäkká: undefined
+    - na: undefined
+    - nad: undefined
+    - nová: undefined
+    - oblečenia: undefined
+    - okno: undefined
+    - okná: undefined
+    - otvorené: undefined
+    - plná: undefined
+    - pod: undefined
+    - pohodlná: undefined
+    - pokojne: undefined
+    - polica: undefined
+    - posteľ: undefined
+    - posteľou: undefined
+    - skriňa: undefined
+    - stará: undefined
+    - stena: undefined
+    - stene: undefined
+    - stojí: undefined
+    - stola: undefined
+    - stole: undefined
+    - stolička: undefined
+    - stolom: undefined
+    - strede: undefined
+    - stôl: undefined
+    - svetlo: undefined
+    - svieti: undefined
+    - sú: undefined
+    - teplá: undefined
+    - tichá: undefined
+    - truhlica: undefined
+    - v: undefined
+    - vankúš: undefined
+    - vedú: undefined
+    - veľa: undefined
+    - visieť: undefined
+    - visí: undefined
+    - z: undefined
+    - zatvorené: undefined
+  English:
+    - a: undefined
+    - above: undefined
+    - and: undefined
+    - are: undefined
+    - bed: undefined
+    - book: undefined
+    - books: undefined
+    - but: undefined
+    - chair: undefined
+    - chest: undefined
+    - closed: undefined
+    - clothes: undefined
+    - comfortable: undefined
+    - doors: undefined
+    - full: undefined
+    - give: undefined
+    - gives: undefined
+    - hang: undefined
+    - hangs: undefined
+    - has: undefined
+    - hold: undefined
+    - holds: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - kitchen: undefined
+    - lamp: undefined
+    - lead: undefined
+    - light: undefined
+    - lying: undefined
+    - made: undefined
+    - many: undefined
+    - middle: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - pillow: undefined
+    - quiet: undefined
+    - room: undefined
+    - shelf: undefined
+    - shines: undefined
+    - soft: undefined
+    - stands: undefined
+    - table: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - under: undefined
+    - wall: undefined
+    - wardrobe: undefined
+    - warm: undefined
+    - window: undefined
+    - windows: undefined
+    - wood: undefined

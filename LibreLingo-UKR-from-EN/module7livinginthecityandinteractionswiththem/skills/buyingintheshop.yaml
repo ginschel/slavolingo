@@ -1,0 +1,184 @@
+Skill:
+  Name: Buying in the Shop
+  Id: 24
+
+New words:
+  - Word: купити
+    Translation: to buy
+  - Word: продавати
+    Translation: to sell
+  - Word: ціна
+    Translation: price
+  - Word: одяг
+    Translation: clothes
+  - Word: торба/сумка
+    Translation: bag
+  - Word: кусень/шматок
+    Translation: piece
+  - Word: купець/покупець
+    Translation: customer
+  - Word: повернення
+    Translation: return
+  - Word: чек
+    Translation: receipt
+  - Word: питати
+    Translation: to ask
+  - Word: свіжий
+    Translation: fresh
+
+Phrases:
+  - Phrase: Хочу купити хліб.
+    Translation: I want to buy bread.
+  - Phrase: Він продає м'ясо.
+    Translation: He sells meat.
+  - Phrase: Ціна є висока.
+    Translation: The price is high.
+  - Phrase: Одяг є новий.
+    Translation: The clothes are new.
+  - Phrase: Продавець є втомлений сьогодні.
+    Translation: The seller is tired today.
+  - Phrase: Торба/Сумка є важка.
+    Translation: The bag is heavy.
+  - Phrase: Кусень сиру є добрий.
+    Translation: A piece of cheese is good.
+  - Phrase: Купець/Покупець питає за знижку.
+    Translation: The customer asks for a discount.
+  - Phrase: Повернення нема. Це поганий магазин.
+    Translation: No returns. This is a bad shop.
+  - Phrase: Дам чек продавцеві.
+    Translation: I give the receipt to the seller.
+  - Phrase: Вона купує книжку.
+    Translation: She is buying a book.
+  - Phrase: Він продає молоко.
+    Translation: He sells milk.
+  - Phrase: Ціна масла є добра.
+    Translation: The price of butter is good.
+  - Phrase: Ковбаса є свіжа.
+    Translation: The sausage is fresh.
+  - Phrase: Продавець дасть кусень ковбаси.
+    Translation: The seller gives a piece of sausage.
+  - Phrase: Торба/Сумка стоїть на підлозі.
+    Translation: The bag is on the floor.
+  - Phrase: Кусень хліба є малий.
+    Translation: The piece of bread is small.
+  - Phrase: Купець/Покупець питає про ціну.
+    Translation: The customer asks about the price.
+  - Phrase: Повернення є до семи днів.
+    Translation: Return is within seven days.
+  - Phrase: Чек є підписаний.
+    Translation: The receipt is signed.
+
+Mini-dictionary:
+  Ukrainian:
+    - важка: undefined
+    - висока: undefined
+    - вона: undefined
+    - втомлений: undefined
+    - він: undefined
+    - дам: undefined
+    - дасть: undefined
+    - днів: undefined
+    - до: undefined
+    - добра: undefined
+    - добрий: undefined
+    - за: undefined
+    - знижку: undefined
+    - книжку: undefined
+    - ковбаса: undefined
+    - ковбаси: undefined
+    - купець/покупець: undefined
+    - купити: undefined
+    - купує: undefined
+    - кусень: undefined
+    - кусень/шматок: undefined
+    - м'ясо: undefined
+    - магазин: undefined
+    - малий: undefined
+    - масла: undefined
+    - молоко: undefined
+    - на: undefined
+    - нема: undefined
+    - новий: undefined
+    - одяг: undefined
+    - питати: undefined
+    - питає: undefined
+    - повернення: undefined
+    - поганий: undefined
+    - про: undefined
+    - продавати: undefined
+    - продавець: undefined
+    - продавцеві: undefined
+    - продає: undefined
+    - підлозі: undefined
+    - підписаний: undefined
+    - свіжа: undefined
+    - свіжий: undefined
+    - семи: undefined
+    - сиру: undefined
+    - стоїть: undefined
+    - сьогодні: undefined
+    - торба/сумка: undefined
+    - хліб: undefined
+    - хліба: undefined
+    - хочу: undefined
+    - це: undefined
+    - ціна: undefined
+    - ціну: undefined
+    - чек: undefined
+    - є: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - are: undefined
+    - ask: undefined
+    - asks: undefined
+    - bad: undefined
+    - bag: undefined
+    - book: undefined
+    - bread: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - cheese: undefined
+    - clothes: undefined
+    - customer: undefined
+    - days: undefined
+    - discount: undefined
+    - floor: undefined
+    - for: undefined
+    - fresh: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - i: undefined
+    - is: undefined
+    - meat: undefined
+    - milk: undefined
+    - new: undefined
+    - no: undefined
+    - of: undefined
+    - on: undefined
+    - piece: undefined
+    - price: undefined
+    - receipt: undefined
+    - return: undefined
+    - returns: undefined
+    - sausage: undefined
+    - sell: undefined
+    - seller: undefined
+    - sells: undefined
+    - seven: undefined
+    - she: undefined
+    - shop: undefined
+    - signed: undefined
+    - small: undefined
+    - the: undefined
+    - this: undefined
+    - tired: undefined
+    - to: undefined
+    - today: undefined
+    - want: undefined
+    - within: undefined

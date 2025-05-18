@@ -1,0 +1,192 @@
+Skill:
+  Name: Weather
+  Id: 16
+
+New words:
+  - Word: погода
+    Translation: weather
+  - Word: дъждь
+    Translation: rain
+  - Word: падати
+    Translation: to fall
+  - Word: снѣгъ
+    Translation: snow
+  - Word: измѣнѧти
+    Translation: to change
+  - Word: слъньцє
+    Translation: sun
+  - Word: свѣтити
+    Translation: to shine
+  - Word: възъдꙋхъ
+    Translation: air
+  - Word: вѣтръ
+    Translation: wind
+  - Word: тєпло
+    Translation: warm
+  - Word: хладьно
+    Translation: cold
+  - Word: мразъ
+    Translation: frost
+  - Word: облакъ
+    Translation: cloud
+  - Word: грѣти (грѣѥтъ)
+    Translation: to heat
+  - Word: облачьно
+    Translation: cloudy
+  - Word: вонѧти
+    Translation: to smell
+  - Word: видѣти (видитъ)
+    Translation: to see
+
+Phrases:
+  - Phrase: Погода ѥстъ добра.
+    Translation: The weather is good.
+  - Phrase: Падаѥтъ дъждь.
+    Translation: It is raining.
+  - Phrase: Снѣгъ лєжитъ на зємли.
+    Translation: Snow lies on the ground.
+  - Phrase: Слъньцє свѣтитъ.
+    Translation: The sun is shining.
+  - Phrase: Възъдꙋхъ ѥстъ чистъи.
+    Translation: The air is clean.
+  - Phrase: Вѣтръ дꙋѥтъ силььно.
+    Translation: The wind is blowing strongly.
+  - Phrase: Тꙋ дьнь ѥстъ тєпло.
+    Translation: It is warm today.
+  - Phrase: Въ Росии ѥстъ хладьно.
+    Translation: In Russia it is cold.
+  - Phrase: Мразъ ѥстъ силььнъ.
+    Translation: The frost is strong.
+  - Phrase: Облаци сѫтъ тьмьни.
+    Translation: The clouds are dark.
+  - Phrase: Падаѥтъ снѣгъ и дъждь.
+    Translation: Snow and rain are falling.
+  - Phrase: Погода сѧ измѣнѧѥтъ.
+    Translation: The weather is changing.
+  - Phrase: Слъньцє грѣѥтъ насъ.
+    Translation: The sun heats us.
+  - Phrase: Тꙋ дьнь ѥстъ тєпло и сꙋхо.
+    Translation: It is warm and dry today.
+  - Phrase: Ѥстъ ли вѣтръ силььнъи?
+    Translation: Is the wind strong?
+  - Phrase: Мразъ ѥстъ оутромъ.
+    Translation: There is frost in the morning.
+  - Phrase: Облачьно ѥстъ тꙋ дьнь.
+    Translation: It is cloudy today.
+  - Phrase: Възъдꙋхъ вонѧѥтъ по дъждьꙋ.
+    Translation: The air smells of rain.
+  - Phrase: Тꙋ дьнь нє видимъ облаковъ.
+    Translation: Today I do not see clouds.
+  - Phrase: Хладьнъи вѣтръ дꙋѥтъ изъ сѣвєра.
+    Translation: A cold wind is blowing from the north.
+
+Mini-dictionary:
+  Church Slavonic:
+    - видимъ: undefined
+    - видитъ: undefined
+    - видѣти: undefined
+    - вонѧти: undefined
+    - вонѧѥтъ: undefined
+    - въ: undefined
+    - възъдꙋхъ: undefined
+    - вѣтръ: undefined
+    - грѣти: undefined
+    - грѣѥтъ: undefined
+    - добра: undefined
+    - дъждь: undefined
+    - дъждьꙋ: undefined
+    - дьнь: undefined
+    - дꙋѥтъ: undefined
+    - зємли: undefined
+    - и: undefined
+    - измѣнѧти: undefined
+    - измѣнѧѥтъ: undefined
+    - изъ: undefined
+    - ли: undefined
+    - лєжитъ: undefined
+    - мразъ: undefined
+    - на: undefined
+    - насъ: undefined
+    - нє: undefined
+    - облаковъ: undefined
+    - облакъ: undefined
+    - облаци: undefined
+    - облачьно: undefined
+    - оутромъ: undefined
+    - падати: undefined
+    - падаѥтъ: undefined
+    - по: undefined
+    - погода: undefined
+    - росии: undefined
+    - свѣтити: undefined
+    - свѣтитъ: undefined
+    - силььно: undefined
+    - силььнъ: undefined
+    - силььнъи: undefined
+    - слъньцє: undefined
+    - снѣгъ: undefined
+    - сѣвєра: undefined
+    - сѧ: undefined
+    - сѫтъ: undefined
+    - сꙋхо: undefined
+    - тьмьни: undefined
+    - тєпло: undefined
+    - тꙋ: undefined
+    - хладьно: undefined
+    - хладьнъи: undefined
+    - чистъи: undefined
+    - ѥстъ: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - and: undefined
+    - are: undefined
+    - blowing: undefined
+    - change: undefined
+    - changing: undefined
+    - clean: undefined
+    - cloud: undefined
+    - clouds: undefined
+    - cloudy: undefined
+    - cold: undefined
+    - dark: undefined
+    - do: undefined
+    - dry: undefined
+    - fall: undefined
+    - falling: undefined
+    - from: undefined
+    - frost: undefined
+    - good: undefined
+    - ground: undefined
+    - heat: undefined
+    - heats: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lies: undefined
+    - morning: undefined
+    - north: undefined
+    - not: undefined
+    - of: undefined
+    - on: undefined
+    - rain: undefined
+    - raining: undefined
+    - russia: undefined
+    - see: undefined
+    - shine: undefined
+    - shining: undefined
+    - smell: undefined
+    - smells: undefined
+    - snow: undefined
+    - strong: undefined
+    - strongly: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - to: undefined
+    - today: undefined
+    - us: undefined
+    - warm: undefined
+    - weather: undefined
+    - wind: undefined

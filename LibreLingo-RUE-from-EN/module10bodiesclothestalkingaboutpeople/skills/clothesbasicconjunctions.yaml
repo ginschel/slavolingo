@@ -1,0 +1,248 @@
+Skill:
+  Name: Clothes  (basic conjunctions)
+  Id: 34
+
+New words:
+  - Word: кошуля
+    Translation: shirt
+  - Word: носити
+    Translation: to wear
+  - Word: ногавицї
+    Translation: trousers
+  - Word: теніска
+    Translation: t-shirt
+  - Word: шал
+    Translation: scarf
+  - Word: шапка
+    Translation: hat
+  - Word: плащ
+    Translation: coat
+  - Word: рукавиця
+    Translation: glove
+  - Word: гаты
+    Translation: underwear
+  - Word: шкарпетка
+    Translation: sock
+  - Word: обутя
+    Translation: footwear
+  - Word: одїня
+    Translation: clothes
+  - Word: брїдкий
+    Translation: ugly
+  - Word: облакати ся
+    Translation: to dress
+  - Word: піжама
+    Translation: pajamas
+
+Phrases:
+  - Phrase: Он носить мокру кошулю.
+    Translation: He wears a blue shirt.
+  - Phrase: Она має чорны ногавицї, а он бїлы.
+    Translation: She has black trousers, and he has white.
+  - Phrase: Обутя і плащ лежать при дверях.
+    Translation: Shoes and the coat are lying by the door.
+  - Phrase: Шал є тяжкый і теплый.
+    Translation: The scarf is heavy and warm.
+  - Phrase: Зимов ношу все шапку, а в лїті не.
+    Translation: In winter, I always wear a hat, but not in summer.
+  - Phrase: Гаты суть красны ці брїдкы?
+    Translation: Are the shorts beautiful or ugly?
+  - Phrase: Ношу рукавицї в зимї.
+    Translation: We wear gloves in winter.
+  - Phrase: Тамта піжама є зелена.
+    Translation: That pajama is green.
+  - Phrase: Новы гаты суть комфортны.
+    Translation: New shorts are comfortable.
+  - Phrase: Нове одїня є дороге.
+    Translation: New clothes are expensive.
+  - Phrase: Кошуля є в шіфонєрї.
+    Translation: The shirt is in the drawer.
+  - Phrase: Шапка висить на стїні.
+    Translation: The hat hangs on the wall.
+  - Phrase: Он облакав ся і носив вчера о другій годинї зелену теніску ці кошулю. Я не єм увїреный сьогодні.
+    Translation: He wore and put on a green tennis shoe or shirt yesterday at two AM. I'm not sure right now.
+  - Phrase: Ты хочеш шал ці кошулю.
+    Translation: You want a scarf or a shirt.
+  - Phrase: Брїдкы рукавицї лежать на столї, а красный плащ ношу.
+    Translation: The ugly gloves are lying on the table, and I wear the red coat.
+  - Phrase: Она купила тепле обутя.
+    Translation: She bought warm shoes.
+  - Phrase: Он облакає нову кошулю.
+    Translation: He is putting on a new shirt.
+  - Phrase: Мої шкарпеткы суть краткы.
+    Translation: My socks are short.
+  - Phrase: В зимї буду потребoвати шапкы і рукавиць.
+    Translation: In winter I will need a hat and gloves.
+  - Phrase: Одїня є чісте і лиш уж бїле.
+    Translation: The clothes are clean and only the underwear is white.
+
+Mini-dictionary:
+  Rusin:
+    - а: undefined
+    - брїдкий: undefined
+    - брїдкы: undefined
+    - буду: undefined
+    - бїле: undefined
+    - бїлы: undefined
+    - в: undefined
+    - висить: undefined
+    - все: undefined
+    - вчера: undefined
+    - гаты: undefined
+    - годинї: undefined
+    - дверях: undefined
+    - дороге: undefined
+    - другій: undefined
+    - зелена: undefined
+    - зелену: undefined
+    - зимов: undefined
+    - зимї: undefined
+    - комфортны: undefined
+    - кошулю: undefined
+    - кошуля: undefined
+    - красны: undefined
+    - красный: undefined
+    - краткы: undefined
+    - купила: undefined
+    - лежать: undefined
+    - лиш: undefined
+    - лїті: undefined
+    - має: undefined
+    - мокру: undefined
+    - мої: undefined
+    - на: undefined
+    - не: undefined
+    - нове: undefined
+    - нову: undefined
+    - новы: undefined
+    - ногавицї: undefined
+    - носив: undefined
+    - носити: undefined
+    - носить: undefined
+    - ношу: undefined
+    - о: undefined
+    - облакав: undefined
+    - облакати: undefined
+    - облакає: undefined
+    - обутя: undefined
+    - одїня: undefined
+    - он: undefined
+    - она: undefined
+    - плащ: undefined
+    - потребoвати: undefined
+    - при: undefined
+    - піжама: undefined
+    - рукавиць: undefined
+    - рукавиця: undefined
+    - рукавицї: undefined
+    - столї: undefined
+    - стїні: undefined
+    - суть: undefined
+    - сьогодні: undefined
+    - ся: undefined
+    - тамта: undefined
+    - теніска: undefined
+    - теніску: undefined
+    - тепле: undefined
+    - теплый: undefined
+    - ты: undefined
+    - тяжкый: undefined
+    - увїреный: undefined
+    - уж: undefined
+    - хочеш: undefined
+    - ці: undefined
+    - чорны: undefined
+    - чісте: undefined
+    - шал: undefined
+    - шапка: undefined
+    - шапку: undefined
+    - шапкы: undefined
+    - шкарпетка: undefined
+    - шкарпеткы: undefined
+    - шіфонєрї: undefined
+    - я: undefined
+    - є: undefined
+    - єм: undefined
+    - і: undefined
+  English:
+    - a: undefined
+    - always: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beautiful: undefined
+    - black: undefined
+    - blue: undefined
+    - bought: undefined
+    - but: undefined
+    - by: undefined
+    - clean: undefined
+    - clothes: undefined
+    - coat: undefined
+    - comfortable: undefined
+    - door: undefined
+    - drawer: undefined
+    - dress: undefined
+    - expensive: undefined
+    - footwear: undefined
+    - glove: undefined
+    - gloves: undefined
+    - green: undefined
+    - hangs: undefined
+    - has: undefined
+    - hat: undefined
+    - he: undefined
+    - heavy: undefined
+    - i: undefined
+    - i'm: undefined
+    - in: undefined
+    - is: undefined
+    - lying: undefined
+    - my: undefined
+    - need: undefined
+    - new: undefined
+    - not: undefined
+    - now: undefined
+    - on: undefined
+    - only: undefined
+    - or: undefined
+    - pajama: undefined
+    - pajamas: undefined
+    - put: undefined
+    - putting: undefined
+    - red: undefined
+    - right: undefined
+    - scarf: undefined
+    - she: undefined
+    - shirt: undefined
+    - shoe: undefined
+    - shoes: undefined
+    - short: undefined
+    - shorts: undefined
+    - sock: undefined
+    - socks: undefined
+    - summer: undefined
+    - sure: undefined
+    - t-shirt: undefined
+    - table: undefined
+    - tennis: undefined
+    - that: undefined
+    - the: undefined
+    - to: undefined
+    - trousers: undefined
+    - two: undefined
+    - ugly: undefined
+    - underwear: undefined
+    - wall: undefined
+    - want: undefined
+    - warm: undefined
+    - we: undefined
+    - wear: undefined
+    - wears: undefined
+    - white: undefined
+    - will: undefined
+    - winter: undefined
+    - wore: undefined
+    - yesterday: undefined
+    - you: undefined

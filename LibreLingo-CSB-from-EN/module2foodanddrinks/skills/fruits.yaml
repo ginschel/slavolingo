@@ -1,0 +1,185 @@
+Skill:
+  Name: Fruits
+  Id: 8
+
+New words:
+  - Word: jôbłkò
+    Translation: apple
+  - Word: grëszka
+    Translation: pear
+  - Word: banan
+    Translation: banana
+  - Word: pòmarańcz
+    Translation: orange
+  - Word: wisznia
+    Translation: cherry
+  - Word: jagòda
+    Translation: strawberry
+  - Word: dôjrzała
+    Translation: ripe
+  - Word: winorad
+    Translation: grapes
+  - Word: slëwa
+    Translation: plum
+  - Word: limòna
+    Translation: lemon
+  - Word: kwasny
+    Translation: sour
+  - Word: słodczi
+    Translation: sweet
+  - Word: melón
+    Translation: melon
+
+Phrases:
+  - Phrase: Jôbłkò je czôrné.
+    Translation: The apple is red.
+  - Phrase: Grëszka je smaczna.
+    Translation: The pear is tasty.
+  - Phrase: Banan je żôłti.
+    Translation: The banana is yellow.
+  - Phrase: Pòmarańczë są słodcé.
+    Translation: The oranges are sweet.
+  - Phrase: Wisznia je kwasnô.
+    Translation: The cherry is sour.
+  - Phrase: Jagòda je môłô i smaczna.
+    Translation: The strawberry is small and tasty.
+  - Phrase: Winorad ròsce na winicë.
+    Translation: Grapes grow on a vineyard.
+  - Phrase: Slëwa je cma.
+    Translation: The plum is dark.
+  - Phrase: Limòna je kwasnô i żôłtô.
+    Translation: The lemon is sour and yellow.
+  - Phrase: Melón je wiôldżi i słodczi.
+    Translation: The melon is big and sweet.
+  - Phrase: On gotuje slëwòwicã z slëwów.
+    Translation: He is preparing plum brandy from plums.
+  - Phrase: Òna pije sok z pòmarańczów.
+    Translation: She is drinking orange juice.
+  - Phrase: Më kùpùjemë winorad.
+    Translation: We are buying grapes.
+  - Phrase: Jagòdë są w misce.
+    Translation: The strawberries are in the bowl.
+  - Phrase: Slëwa je ju dôjrzała.
+    Translation: The plum is already ripe.
+  - Phrase: Grëszczi leżą na stole.
+    Translation: The pears are lying on the table.
+  - Phrase: Limónã dodôwô sã do czaju.
+    Translation: Lemon is added to tea.
+  - Phrase: Banan je w torbie.
+    Translation: The banana is in the bag.
+  - Phrase: Wisznia ròsce na drzéwiu.
+    Translation: The cherry grows on a tree.
+  - Phrase: Melón je wiele smaczni.
+    Translation: The melon is very tasty.
+
+Mini-dictionary:
+  Kashubian:
+    - banan: undefined
+    - cma: undefined
+    - czaju: undefined
+    - czôrné: undefined
+    - do: undefined
+    - dodôwô: undefined
+    - drzéwiu: undefined
+    - dôjrzała: undefined
+    - gotuje: undefined
+    - grëszczi: undefined
+    - grëszka: undefined
+    - i: undefined
+    - jagòda: undefined
+    - jagòdë: undefined
+    - je: undefined
+    - ju: undefined
+    - jôbłkò: undefined
+    - kwasny: undefined
+    - kwasnô: undefined
+    - kùpùjemë: undefined
+    - leżą: undefined
+    - limòna: undefined
+    - limónã: undefined
+    - melón: undefined
+    - misce: undefined
+    - më: undefined
+    - môłô: undefined
+    - na: undefined
+    - on: undefined
+    - pije: undefined
+    - pòmarańcz: undefined
+    - pòmarańczë: undefined
+    - pòmarańczów: undefined
+    - ròsce: undefined
+    - slëwa: undefined
+    - slëwòwicã: undefined
+    - slëwów: undefined
+    - smaczna: undefined
+    - smaczni: undefined
+    - sok: undefined
+    - stole: undefined
+    - sã: undefined
+    - są: undefined
+    - słodczi: undefined
+    - słodcé: undefined
+    - torbie: undefined
+    - w: undefined
+    - wiele: undefined
+    - winicë: undefined
+    - winorad: undefined
+    - wisznia: undefined
+    - wiôldżi: undefined
+    - z: undefined
+    - òna: undefined
+    - żôłti: undefined
+    - żôłtô: undefined
+  English:
+    - a: undefined
+    - added: undefined
+    - already: undefined
+    - and: undefined
+    - apple: undefined
+    - are: undefined
+    - bag: undefined
+    - banana: undefined
+    - big: undefined
+    - bowl: undefined
+    - brandy: undefined
+    - buying: undefined
+    - cherry: undefined
+    - dark: undefined
+    - drinking: undefined
+    - from: undefined
+    - grapes: undefined
+    - grow: undefined
+    - grows: undefined
+    - he: undefined
+    - in: undefined
+    - is: undefined
+    - juice: undefined
+    - lemon: undefined
+    - lying: undefined
+    - melon: undefined
+    - on: undefined
+    - orange: undefined
+    - oranges: undefined
+    - pear: undefined
+    - pears: undefined
+    - plum: undefined
+    - plums: undefined
+    - preparing: undefined
+    - red: undefined
+    - ripe: undefined
+    - she: undefined
+    - small: undefined
+    - sour: undefined
+    - strawberries: undefined
+    - strawberry: undefined
+    - sweet: undefined
+    - table: undefined
+    - tasty: undefined
+    - tea: undefined
+    - the: undefined
+    - to: undefined
+    - tree: undefined
+    - very: undefined
+    - vineyard: undefined
+    - we: undefined
+    - yellow: undefined

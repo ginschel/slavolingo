@@ -1,0 +1,224 @@
+Skill:
+  Name: Conjugation of to be and the Nominative Case
+  Id: 1
+
+New words:
+  - Word: to
+    Translation: this
+  - Word: ta
+    Translation: this
+  - Word: tisti
+    Translation: that
+  - Word: tamtisti
+    Translation: that over there
+  - Word: tamta
+    Translation: that over there
+  - Word: sem
+    Translation: am
+  - Word: si
+    Translation: are
+  - Word: je
+    Translation: is
+  - Word: smo
+    Translation: are
+  - Word: ste
+    Translation: are
+  - Word: so
+    Translation: are
+  - Word: jaz
+    Translation: I
+  - Word: ti
+    Translation: you
+  - Word: on
+    Translation: he
+  - Word: ona
+    Translation: she
+  - Word: ono
+    Translation: it
+  - Word: mi
+    Translation: we
+  - Word: vi
+    Translation: you
+  - Word: oni
+    Translation: they
+  - Word: one
+    Translation: they
+  - Word: človek
+    Translation: person
+  - Word: ženska
+    Translation: woman
+  - Word: moški
+    Translation: man
+  - Word: otrok
+    Translation: child
+  - Word: prijatelj
+    Translation: friend
+  - Word: sestra
+    Translation: sister
+  - Word: starš
+    Translation: parent
+  - Word: dom
+    Translation: house
+  - Word: mesto
+    Translation: city
+  - Word: dan
+    Translation: day
+  - Word: tudi
+    Translation: also
+  - Word: kdo
+    Translation: who
+
+Phrases:
+  - Phrase: Jaz sem moder.
+    Translation: I am wise.
+  - Phrase: To je moja sestra.
+    Translation: This is my sister.
+  - Phrase: Ona je zelo modra
+    Translation: She is very wise
+  - Phrase: Mi smo zelo modri
+    Translation: We are very wise
+  - Phrase: Ste tudi modri?
+    Translation: Are you also wise?
+  - Phrase: To je dober človek.
+    Translation: This is a good person.
+  - Phrase: Ta ženska je dobra.
+    Translation: This woman is good.
+  - Phrase: To je moj dom.
+    Translation: This is my house.
+  - Phrase: Tisti je dober prijatelj
+    Translation: He is a good friend
+  - Phrase: Vi ste dobri.
+    Translation: You are good.
+  - Phrase: To so prijatelji.
+    Translation: These are friends.
+  - Phrase: Kdo si ti?
+    Translation: Who are you?
+  - Phrase: Tisti moški je ljubek.
+    Translation: That man is kind.
+  - Phrase: To je prijetno mesto.
+    Translation: This is a pleasant city.
+  - Phrase: Ta ženska je visoka.
+    Translation: That woman is tall.
+  - Phrase: Tisti dan je hladen.
+    Translation: That day is cold.
+  - Phrase: Tamtisti dom je lep.
+    Translation: That house over there is beautiful.
+  - Phrase: To je moje dete.
+    Translation: This is my child.
+  - Phrase: Tamto jutro je hladno.
+    Translation: That morning over there is cold.
+  - Phrase: To ni moja sestra.
+    Translation: This is not my sister.
+  - Phrase: To ni tvoj dom.
+    Translation: This is not your house.
+  - Phrase: Je to dober avto?
+    Translation: Is this a good car?
+  - Phrase: So to dobri prijatelji?
+    Translation: Are these good friends?
+  - Phrase: One so zelo ljubke.
+    Translation: They are very kind.
+  - Phrase: Oni so zelo ljubki
+    Translation: They are very kind
+
+Mini-dictionary:
+  Slovenian:
+    - avto: undefined
+    - dan: undefined
+    - dete: undefined
+    - dober: undefined
+    - dobra: undefined
+    - dobri: undefined
+    - dom: undefined
+    - hladen: undefined
+    - hladno: undefined
+    - jaz: undefined
+    - je: undefined
+    - jutro: undefined
+    - kdo: undefined
+    - lep: undefined
+    - ljubek: undefined
+    - ljubke: undefined
+    - ljubki: undefined
+    - mesto: undefined
+    - mi: undefined
+    - moder: undefined
+    - modra: undefined
+    - modri: undefined
+    - moj: undefined
+    - moja: undefined
+    - moje: undefined
+    - moški: undefined
+    - ni: undefined
+    - on: undefined
+    - ona: undefined
+    - one: undefined
+    - oni: undefined
+    - ono: undefined
+    - otrok: undefined
+    - prijatelj: undefined
+    - prijatelji: undefined
+    - prijetno: undefined
+    - sem: undefined
+    - sestra: undefined
+    - si: undefined
+    - smo: undefined
+    - so: undefined
+    - starš: undefined
+    - ste: undefined
+    - ta: undefined
+    - tamta: undefined
+    - tamtisti: undefined
+    - tamto: undefined
+    - ti: undefined
+    - tisti: undefined
+    - to: undefined
+    - tudi: undefined
+    - tvoj: undefined
+    - vi: undefined
+    - visoka: undefined
+    - zelo: undefined
+    - človek: undefined
+    - ženska: undefined
+  English:
+    - a: undefined
+    - also: undefined
+    - am: undefined
+    - are: undefined
+    - beautiful: undefined
+    - car: undefined
+    - child: undefined
+    - city: undefined
+    - cold: undefined
+    - day: undefined
+    - friend: undefined
+    - friends: undefined
+    - good: undefined
+    - he: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - it: undefined
+    - kind: undefined
+    - man: undefined
+    - morning: undefined
+    - my: undefined
+    - not: undefined
+    - over: undefined
+    - parent: undefined
+    - person: undefined
+    - pleasant: undefined
+    - she: undefined
+    - sister: undefined
+    - tall: undefined
+    - that: undefined
+    - there: undefined
+    - these: undefined
+    - they: undefined
+    - this: undefined
+    - very: undefined
+    - we: undefined
+    - who: undefined
+    - wise: undefined
+    - woman: undefined
+    - you: undefined
+    - your: undefined

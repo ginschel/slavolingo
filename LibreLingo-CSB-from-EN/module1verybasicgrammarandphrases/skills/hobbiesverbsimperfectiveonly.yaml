@@ -1,0 +1,195 @@
+Skill:
+  Name: Hobbies (Verbs – Imperfective only)
+  Id: 4
+
+New words:
+  - Word: czëtac
+    Translation: to read
+  - Word: pisac (pisze)
+    Translation: to write
+  - Word: grac
+    Translation: to play
+  - Word: òbzérac
+    Translation: to watch
+  - Word: słëchac
+    Translation: to listen
+  - Word: malowac
+    Translation: to paint
+  - Word: spiéwac
+    Translation: to sing
+  - Word: ùczëc sã
+    Translation: to learn
+  - Word: sedzec (sedzy)
+    Translation: to sit
+  - Word: szaic (szaje)
+    Translation: to sew
+  - Word: tańcowac
+    Translation: to dance
+
+Phrases:
+  - Phrase: Ja czëtóm knégã.
+    Translation: I am reading a book.
+  - Phrase: Òna pisze lëstë.
+    Translation: She is writing letters.
+  - Phrase: On grô w balë.
+    Translation: He is playing football.
+  - Phrase: Më òbzérómë film.
+    Translation: We are watching a film.
+  - Phrase: Òni słëchają mùzëkã.
+    Translation: They are listening to music.
+  - Phrase: Òna sedzy i czëtô.
+    Translation: She is sitting and reading.
+  - Phrase: Ja malëjã òbraz.
+    Translation: I am painting a picture.
+  - Phrase: On spiéwô spiéwkã.
+    Translation: He is singing songs.
+  - Phrase: Wë ùczëce sã jãzëka.
+    Translation: You are learning a language.
+  - Phrase: Ja szajã drastã.
+    Translation: I am sewing clothes.
+  - Phrase: Të òbzérôsz serëjã?
+    Translation: Are you watching a series?
+  - Phrase: Më grajemë w szachë.
+    Translation: We are playing chess.
+  - Phrase: Òni słëchają radio.
+    Translation: They are listening to the radio.
+  - Phrase: Czëtôsz të romani?
+    Translation: Do you read novels?
+  - Phrase: On pisze dzénnik.
+    Translation: He is writing a diary.
+  - Phrase: Ùczimë sã tu.
+    Translation: We are learning here.
+  - Phrase: Malëjemë z przëjacelama òbrazë.
+    Translation: We are painting pictures with friends.
+  - Phrase: Të szajiesz?
+    Translation: Are you sewing?
+  - Phrase: Ja spiéwóm ze skùpą.
+    Translation: I am singing with a group.
+  - Phrase: Ja tańcëjã wiele
+    Translation: I dance a lot
+  - Phrase: Òna grô na gitarze.
+    Translation: She is playing the guitar.
+
+Mini-dictionary:
+  Kashubian:
+    - balë: undefined
+    - czëtac: undefined
+    - czëtóm: undefined
+    - czëtô: undefined
+    - czëtôsz: undefined
+    - drastã: undefined
+    - dzénnik: undefined
+    - film: undefined
+    - gitarze: undefined
+    - grac: undefined
+    - grajemë: undefined
+    - grô: undefined
+    - i: undefined
+    - ja: undefined
+    - jãzëka: undefined
+    - knégã: undefined
+    - lëstë: undefined
+    - malowac: undefined
+    - malëjemë: undefined
+    - malëjã: undefined
+    - më: undefined
+    - mùzëkã: undefined
+    - na: undefined
+    - on: undefined
+    - pisac: undefined
+    - pisze: undefined
+    - przëjacelama: undefined
+    - radio: undefined
+    - romani: undefined
+    - sedzec: undefined
+    - sedzy: undefined
+    - serëjã: undefined
+    - skùpą: undefined
+    - spiéwac: undefined
+    - spiéwkã: undefined
+    - spiéwóm: undefined
+    - spiéwô: undefined
+    - szachë: undefined
+    - szaic: undefined
+    - szaje: undefined
+    - szajiesz: undefined
+    - szajã: undefined
+    - sã: undefined
+    - słëchac: undefined
+    - słëchają: undefined
+    - tańcowac: undefined
+    - tańcëjã: undefined
+    - tu: undefined
+    - të: undefined
+    - w: undefined
+    - wiele: undefined
+    - wë: undefined
+    - z: undefined
+    - ze: undefined
+    - òbraz: undefined
+    - òbrazë: undefined
+    - òbzérac: undefined
+    - òbzérómë: undefined
+    - òbzérôsz: undefined
+    - òna: undefined
+    - òni: undefined
+    - ùczimë: undefined
+    - ùczëc: undefined
+    - ùczëce: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - book: undefined
+    - chess: undefined
+    - clothes: undefined
+    - dance: undefined
+    - diary: undefined
+    - do: undefined
+    - film: undefined
+    - football: undefined
+    - friends: undefined
+    - group: undefined
+    - guitar: undefined
+    - he: undefined
+    - here: undefined
+    - i: undefined
+    - is: undefined
+    - language: undefined
+    - learn: undefined
+    - learning: undefined
+    - letters: undefined
+    - listen: undefined
+    - listening: undefined
+    - lot: undefined
+    - music: undefined
+    - novels: undefined
+    - paint: undefined
+    - painting: undefined
+    - picture: undefined
+    - pictures: undefined
+    - play: undefined
+    - playing: undefined
+    - radio: undefined
+    - read: undefined
+    - reading: undefined
+    - series: undefined
+    - sew: undefined
+    - sewing: undefined
+    - she: undefined
+    - sing: undefined
+    - singing: undefined
+    - sit: undefined
+    - sitting: undefined
+    - songs: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - watch: undefined
+    - watching: undefined
+    - we: undefined
+    - with: undefined
+    - write: undefined
+    - writing: undefined
+    - you: undefined

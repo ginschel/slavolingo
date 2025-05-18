@@ -1,0 +1,210 @@
+Skill:
+  Name: Nature
+  Id: 15
+
+New words:
+  - Word: река
+    Translation: river
+  - Word: чрез
+    Translation: through
+  - Word: гора
+    Translation: mountain
+  - Word: долина
+    Translation: valley
+  - Word: лес
+    Translation: forest
+  - Word: трава
+    Translation: grass
+  - Word: цвет
+    Translation: flower
+  - Word: роза
+    Translation: rose
+  - Word: расти (расте)
+    Translation: to grow
+  - Word: земја
+    Translation: earth
+  - Word: камени
+    Translation: stone
+  - Word: поље
+    Translation: field
+  - Word: дуб
+    Translation: oak
+  - Word: луна
+    Translation: moon
+  - Word: цвети (цвете)
+    Translation: to bloom
+  - Word: древо
+    Translation: tree
+  - Word: лежати (лежи)
+    Translation: to lie
+  - Word: међу
+    Translation: between
+
+Phrases:
+  - Phrase: Река тече чрез долину.
+    Translation: The river flows through the valley.
+  - Phrase: Гора јест висока.
+    Translation: The mountain is high.
+  - Phrase: Ми идемо в лес.
+    Translation: We are going to the forest.
+  - Phrase: Трава јест зелена.
+    Translation: The grass is green.
+  - Phrase: Цвети красно цветут.
+    Translation: The flowers bloom beautifully.
+  - Phrase: Он стоји на каменију.
+    Translation: He is standing on the stone.
+  - Phrase: Земја јест мокра.
+    Translation: The earth is wet.
+  - Phrase: Роза расте на пољу.
+    Translation: The rose grows in the field.
+  - Phrase: Долина лежи међу горами.
+    Translation: The valley lies between the mountains.
+  - Phrase: Поље јест широко.
+    Translation: The field is wide.
+  - Phrase: Они иду чрез лес с много древами.
+    Translation: They are going through the forest with many trees.
+  - Phrase: Трава расте брзо.
+    Translation: The grass grows fast.
+  - Phrase: Камени сут тежке.
+    Translation: The stones are heavy.
+  - Phrase: Цвет расте из земје.
+    Translation: A flower grows from the earth.
+  - Phrase: Вода иде до реки.
+    Translation: Water goes to the river.
+  - Phrase: Поље јест за домом.
+    Translation: The field is behind the house.
+  - Phrase: Идемо к дубу.
+    Translation: We are going towards the oak.
+  - Phrase: Луна ту дањ красна
+    Translation: The moon today is beautiful
+  - Phrase: Ми стојимо на земји.
+    Translation: We are standing on the earth.
+  - Phrase: Они гледају в долину.
+    Translation: They are looking into the valley.
+  - Phrase: Река иде међу пољами.
+    Translation: The river goes between the fields.
+
+Mini-dictionary:
+  Serbian:
+    - брзо: undefined
+    - в: undefined
+    - висока: undefined
+    - вода: undefined
+    - гледају: undefined
+    - гора: undefined
+    - горами: undefined
+    - дањ: undefined
+    - до: undefined
+    - долина: undefined
+    - долину: undefined
+    - домом: undefined
+    - древами: undefined
+    - древо: undefined
+    - дуб: undefined
+    - дубу: undefined
+    - за: undefined
+    - зелена: undefined
+    - земја: undefined
+    - земје: undefined
+    - земји: undefined
+    - иде: undefined
+    - идемо: undefined
+    - иду: undefined
+    - из: undefined
+    - к: undefined
+    - камени: undefined
+    - каменију: undefined
+    - красна: undefined
+    - красно: undefined
+    - лежати: undefined
+    - лежи: undefined
+    - лес: undefined
+    - луна: undefined
+    - међу: undefined
+    - ми: undefined
+    - много: undefined
+    - мокра: undefined
+    - на: undefined
+    - он: undefined
+    - они: undefined
+    - пољами: undefined
+    - поље: undefined
+    - пољу: undefined
+    - расте: undefined
+    - расти: undefined
+    - река: undefined
+    - реки: undefined
+    - роза: undefined
+    - с: undefined
+    - стоји: undefined
+    - стојимо: undefined
+    - сут: undefined
+    - тежке: undefined
+    - тече: undefined
+    - трава: undefined
+    - ту: undefined
+    - цвет: undefined
+    - цвете: undefined
+    - цвети: undefined
+    - цветут: undefined
+    - чрез: undefined
+    - широко: undefined
+    - јест: undefined
+  English:
+    - a: undefined
+    - are: undefined
+    - beautiful: undefined
+    - beautifully: undefined
+    - behind: undefined
+    - between: undefined
+    - bloom: undefined
+    - earth: undefined
+    - fast: undefined
+    - field: undefined
+    - fields: undefined
+    - flower: undefined
+    - flowers: undefined
+    - flows: undefined
+    - forest: undefined
+    - from: undefined
+    - goes: undefined
+    - going: undefined
+    - grass: undefined
+    - green: undefined
+    - grow: undefined
+    - grows: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - house: undefined
+    - in: undefined
+    - into: undefined
+    - is: undefined
+    - lie: undefined
+    - lies: undefined
+    - looking: undefined
+    - many: undefined
+    - moon: undefined
+    - mountain: undefined
+    - mountains: undefined
+    - oak: undefined
+    - on: undefined
+    - river: undefined
+    - rose: undefined
+    - standing: undefined
+    - stone: undefined
+    - stones: undefined
+    - the: undefined
+    - they: undefined
+    - through: undefined
+    - to: undefined
+    - today: undefined
+    - towards: undefined
+    - tree: undefined
+    - trees: undefined
+    - valley: undefined
+    - water: undefined
+    - we: undefined
+    - wet: undefined
+    - wide: undefined
+    - with: undefined

@@ -1,0 +1,42 @@
+Course:
+  Language:
+    Name: Slovenian
+    IETF BCP 47: sl # Use the transformed, lowercase code
+  For speakers of:
+    Name: English
+    IETF BCP 47: en
+  License:
+    Name: Attribution-ShareAlike 4.0 International
+    Short name: CC BY-SA 4.0
+    Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+  # Repository: Update this if needed - using a placeholder from original
+  Repository: https://github.com/LibreLingoCommunity/LibreLingo-Isv-from-EN
+  Special characters: # Keep the list as is for display
+    - "ě"
+    - "š"
+    - "č"
+    - "ž"
+    - "Ł"
+
+Modules: # List the TRANSFORMED, alphanumeric module folder names
+  - module1verybasicgrammarandphrases # Transform module names for listing
+  - module2foodanddrinks
+  - module3learningandlanguages
+  - module4roomsandstuffathome
+  - module5describingnatureanddirections
+  - module6grammarrevision
+  - module7livinginthecityandinteractionswiththem
+  - module8numbersandtimeoftheday
+  - module9timeandthecalendar
+  - module10bodiesclothestalkingaboutpeople
+# Note: You might need to dynamically generate this Modules list if your modules
+# are not always the same or in the same order as hardcoded here.
+# For now, transforming the hardcoded names.
+
+Settings:
+  Audio:
+    Enabled: True
+    TTS:
+      - Provider: Polly
+        Voice: Lucia
+        Engine: standard

@@ -1,0 +1,133 @@
+Skill:
+  Name: Numbers 10-100
+  Id: 28
+
+New words:
+  - Word: dziesięć
+    Translation: ten
+  - Word: dwadzieścia
+    Translation: twenty
+  - Word: trzydzieści
+    Translation: thirty
+  - Word: czterdzieści
+    Translation: forty
+  - Word: pięćdziesiąt
+    Translation: fifty
+  - Word: sześćdziesiąt
+    Translation: sixty
+  - Word: siedemdziesiąt
+    Translation: seventy
+  - Word: osiemdziesiąt
+    Translation: eighty
+  - Word: dziewięćdziesiąt
+    Translation: ninety
+  - Word: sto
+    Translation: one hundred
+
+Phrases:
+  - Phrase: sto zegarków
+    Translation: one hundred clocks
+  - Phrase: dziesięciu chłopców
+    Translation: ten boys
+  - Phrase: dwadzieścia kobiet
+    Translation: twenty women
+  - Phrase: trzydzieści pól
+    Translation: thirty fields
+  - Phrase: czterdziestu mężów
+    Translation: forty men
+  - Phrase: pięćdziesiąt kobiet
+    Translation: fifty women
+  - Phrase: sześćdziesiąt kotów
+    Translation: sixty cats
+  - Phrase: sto jeden rowerów
+    Translation: one hundred one bicycles
+  - Phrase: osiemdziesięciu chłopców
+    Translation: eighty boys
+  - Phrase: dziewięćdziesiąt rowerów
+    Translation: ninety bicycles
+  - Phrase: siedemdziesiąt osiem rubli
+    Translation: seventy eight rubles
+  - Phrase: osiemdziesiąt siedem dolarów
+    Translation: eighty seven dollars
+  - Phrase: dziewięćdziesiąt trzy komputery
+    Translation: ninety three computers
+  - Phrase: pięćdziesiąt jeden zegarków
+    Translation: fifty one clocks
+  - Phrase: dwadzieścia cztery rzeczy
+    Translation: twenty four things
+  - Phrase: sto dwa słońca
+    Translation: one hundred two suns
+  - Phrase: sześćdziesiąt rowerów
+    Translation: sixty bicycles
+  - Phrase: czterdzieści dolarów
+    Translation: forty dollars
+  - Phrase: trzydziestu psów
+    Translation: thirty dogs
+  - Phrase: dwadzieścia kotów
+    Translation: twenty cats
+
+Mini-dictionary:
+  Polish:
+    - chłopców: undefined
+    - czterdziestu: undefined
+    - czterdzieści: undefined
+    - cztery: undefined
+    - dolarów: undefined
+    - dwa: undefined
+    - dwadzieścia: undefined
+    - dziesięciu: undefined
+    - dziesięć: undefined
+    - dziewięćdziesiąt: undefined
+    - jeden: undefined
+    - kobiet: undefined
+    - komputery: undefined
+    - kotów: undefined
+    - mężów: undefined
+    - osiem: undefined
+    - osiemdziesiąt: undefined
+    - osiemdziesięciu: undefined
+    - pięćdziesiąt: undefined
+    - psów: undefined
+    - pól: undefined
+    - rowerów: undefined
+    - rubli: undefined
+    - rzeczy: undefined
+    - siedem: undefined
+    - siedemdziesiąt: undefined
+    - sto: undefined
+    - sześćdziesiąt: undefined
+    - słońca: undefined
+    - trzy: undefined
+    - trzydziestu: undefined
+    - trzydzieści: undefined
+    - zegarków: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - eighty: undefined
+    - fields: undefined
+    - fifty: undefined
+    - forty: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - ninety: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - seventy: undefined
+    - sixty: undefined
+    - suns: undefined
+    - ten: undefined
+    - things: undefined
+    - thirty: undefined
+    - three: undefined
+    - twenty: undefined
+    - two: undefined
+    - women: undefined

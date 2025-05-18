@@ -1,0 +1,206 @@
+Skill:
+  Name: Stuff in the kitchen
+  Id: 13
+
+New words:
+  - Word: нож
+    Translation: knife
+  - Word: відэлец
+    Translation: fork
+  - Word: лыжка
+    Translation: spoon
+  - Word: талерка
+    Translation: plate
+  - Word: кубак
+    Translation: cup
+  - Word: соль
+    Translation: salt
+  - Word: перац
+    Translation: pepper
+  - Word: цукар
+    Translation: sugar
+  - Word: патэльня
+    Translation: frying pan
+  - Word: гарачы
+    Translation: hot
+  - Word: гаршчок
+    Translation: pot
+  - Word: кухня
+    Translation: kitchen
+  - Word: гатаваць/варыць
+    Translation: to cook
+  - Word: блін
+    Translation: pancake
+  - Word: пельмень
+    Translation: dumpling
+  - Word: міска
+    Translation: bowl
+
+Phrases:
+  - Phrase: Нож ляжыць на стале.
+    Translation: The knife is lying on the table.
+  - Phrase: Відэлец ёсць срэбны.
+    Translation: The fork is silver.
+  - Phrase: Лыжка ёсць у солі.
+    Translation: The spoon is in the salt.
+  - Phrase: Талерка ёсць поўная ежы.
+    Translation: The plate is full of food.
+  - Phrase: Кубак ёсць напоўнены вадой.
+    Translation: The cup is filled with water.
+  - Phrase: Дам у чай цукар.
+    Translation: I will add sugar to the tea.
+  - Phrase: Шмат цукру ёсць у місцы.
+    Translation: There is a lot of sugar in the bowl.
+  - Phrase: На патэльні гатуецца мой блін.
+    Translation: My pancake is cooking on the frying pan.
+  - Phrase: Гаршчок ёсць гарачы.
+    Translation: The pot is hot
+  - Phrase: Гаршчок ёсць на агні.
+    Translation: The pot is on the flame.
+  - Phrase: Кухня ёсць чыстая.
+    Translation: The kitchen is clean.
+  - Phrase: Ён есць відэльцам.
+    Translation: He eats with a fork.
+  - Phrase: Яна п'е з кубка.
+    Translation: She drinks from a cup.
+  - Phrase: Мы гатуем у гаршчку.
+    Translation: We cook in a pot.
+  - Phrase: На патэльні ёсць мяса.
+    Translation: There is meat in the frying pan.
+  - Phrase: Нож ёсць востры.
+    Translation: The knife is sharp.
+  - Phrase: Відэльцы і нажы ёсць на стале.
+    Translation: Forks and knives are on the table.
+  - Phrase: Лыжка ёсць поўная перцу.
+    Translation: The spoon is full of pepper.
+  - Phrase: Талерка ляжыць на падлозе.
+    Translation: The plate is lying on the floor.
+  - Phrase: Кансерва ёсць пустая.
+    Translation: The can is empty.
+  - Phrase: Кухня мае добры пах увечары.
+    Translation: The kitchen has a good smell in the evening.
+
+Mini-dictionary:
+  Belarusian:
+    - агні: undefined
+    - блін: undefined
+    - вадой: undefined
+    - востры: undefined
+    - відэлец: undefined
+    - відэльцам: undefined
+    - відэльцы: undefined
+    - гарачы: undefined
+    - гаршчку: undefined
+    - гаршчок: undefined
+    - гатаваць/варыць: undefined
+    - гатуем: undefined
+    - гатуецца: undefined
+    - дам: undefined
+    - добры: undefined
+    - ежы: undefined
+    - есць: undefined
+    - з: undefined
+    - кансерва: undefined
+    - кубак: undefined
+    - кубка: undefined
+    - кухня: undefined
+    - лыжка: undefined
+    - ляжыць: undefined
+    - мае: undefined
+    - мой: undefined
+    - мы: undefined
+    - мяса: undefined
+    - міска: undefined
+    - місцы: undefined
+    - на: undefined
+    - нажы: undefined
+    - напоўнены: undefined
+    - нож: undefined
+    - п'е: undefined
+    - падлозе: undefined
+    - патэльня: undefined
+    - патэльні: undefined
+    - пах: undefined
+    - пельмень: undefined
+    - перац: undefined
+    - перцу: undefined
+    - поўная: undefined
+    - пустая: undefined
+    - соль: undefined
+    - солі: undefined
+    - срэбны: undefined
+    - стале: undefined
+    - талерка: undefined
+    - у: undefined
+    - увечары: undefined
+    - цукар: undefined
+    - цукру: undefined
+    - чай: undefined
+    - чыстая: undefined
+    - шмат: undefined
+    - яна: undefined
+    - ён: undefined
+    - ёсць: undefined
+    - і: undefined
+  English:
+    - a: undefined
+    - add: undefined
+    - and: undefined
+    - are: undefined
+    - bowl: undefined
+    - can: undefined
+    - clean: undefined
+    - cook: undefined
+    - cooking: undefined
+    - cup: undefined
+    - drinks: undefined
+    - dumpling: undefined
+    - eats: undefined
+    - empty: undefined
+    - evening: undefined
+    - filled: undefined
+    - flame: undefined
+    - floor: undefined
+    - food: undefined
+    - fork: undefined
+    - forks: undefined
+    - from: undefined
+    - frying: undefined
+    - full: undefined
+    - good: undefined
+    - has: undefined
+    - he: undefined
+    - hot: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - kitchen: undefined
+    - knife: undefined
+    - knives: undefined
+    - lot: undefined
+    - lying: undefined
+    - meat: undefined
+    - my: undefined
+    - of: undefined
+    - on: undefined
+    - pan: undefined
+    - pancake: undefined
+    - pepper: undefined
+    - plate: undefined
+    - pot: undefined
+    - salt: undefined
+    - sharp: undefined
+    - she: undefined
+    - silver: undefined
+    - smell: undefined
+    - spoon: undefined
+    - sugar: undefined
+    - table: undefined
+    - tea: undefined
+    - the: undefined
+    - there: undefined
+    - to: undefined
+    - water: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined

@@ -1,0 +1,191 @@
+Skill:
+  Name: Professions
+  Id: 22
+
+New words:
+  - Word: rechtōr
+    Translation: teacher
+  - Word: dŏchtōr
+    Translation: doctor
+  - Word: inżyniyr
+    Translation: engineer
+  - Word: robotnik
+    Translation: worker
+  - Word: pisorz
+    Translation: writer
+  - Word: sprzedŏwca
+    Translation: seller
+  - Word: szofer
+    Translation: driver
+  - Word: kucharz
+    Translation: cook
+  - Word: policjōnt
+    Translation: policeman
+  - Word: artysta
+    Translation: artist
+  - Word: robić
+    Translation: to work
+  - Word: robotować
+    Translation: to work
+  - Word: rysować
+    Translation: to draw
+  - Word: robić
+    Translation: to do/make
+
+Phrases:
+  - Phrase: Mój brat je rechtōrym.
+    Translation: My brother is a teacher.
+  - Phrase: Ôna je dŏchtōrym.
+    Translation: She is a doctor.
+  - Phrase: Ôn je inżyniyrym we mieście.
+    Translation: He is an engineer in the city.
+  - Phrase: Robotnik robi na moście.
+    Translation: The worker is working on the bridge.
+  - Phrase: Pisorz pisze we ôfis.
+    Translation: The writer writes in the office.
+  - Phrase: Sprzedŏwca roboto we sklepie.
+    Translation: The seller works in the shop.
+  - Phrase: Szofer wiedzie autobus.
+    Translation: The driver drives a bus.
+  - Phrase: Mój ôjc je kucharzym.
+    Translation: My father is a cook.
+  - Phrase: Policjōnt stoji na banhofie.
+    Translation: The policeman is standing on the street.
+  - Phrase: Artysta rysuje portret.
+    Translation: The artist is drawing a portrait.
+  - Phrase: Rechtōr godo uczńōm robić.
+    Translation: The teacher tells the students to do.
+  - Phrase: Dŏchtōr pōmogo ludziōm.
+    Translation: The doctor helps people.
+  - Phrase: Inżyniyr robi plan.
+    Translation: The engineer makes a plan.
+  - Phrase: Robotnik stawiŏ dōm.
+    Translation: The worker is building a house.
+  - Phrase: Pisorz pisze dokumynty.
+    Translation: The writer writes documents.
+  - Phrase: Sprzedŏwca sprzedŏwŏ jedzynie.
+    Translation: The seller sells food.
+  - Phrase: Szofer wiedzie ludzi.
+    Translation: The driver drives people.
+  - Phrase: Kucharz warzi wieczerza.
+    Translation: The cook is preparing dinner.
+  - Phrase: Policjōnt kōntroluje sytuacyjo.
+    Translation: The policeman controls the situation.
+  - Phrase: Artysta pokazuje swoja robota.
+    Translation: The artist shows his work.
+
+Mini-dictionary:
+  Silesian:
+    - artysta: undefined
+    - autobus: undefined
+    - banhofie: undefined
+    - brat: undefined
+    - dokumynty: undefined
+    - dōm: undefined
+    - dŏchtōr: undefined
+    - dŏchtōrym: undefined
+    - godo: undefined
+    - inżyniyr: undefined
+    - inżyniyrym: undefined
+    - je: undefined
+    - jedzynie: undefined
+    - kucharz: undefined
+    - kucharzym: undefined
+    - kōntroluje: undefined
+    - ludzi: undefined
+    - ludziōm: undefined
+    - mieście: undefined
+    - moście: undefined
+    - mój: undefined
+    - na: undefined
+    - pisorz: undefined
+    - pisze: undefined
+    - plan: undefined
+    - pokazuje: undefined
+    - policjōnt: undefined
+    - portret: undefined
+    - pōmogo: undefined
+    - rechtōr: undefined
+    - rechtōrym: undefined
+    - robi: undefined
+    - robić: undefined
+    - robota: undefined
+    - robotnik: undefined
+    - roboto: undefined
+    - robotować: undefined
+    - rysować: undefined
+    - rysuje: undefined
+    - sklepie: undefined
+    - sprzedŏwca: undefined
+    - sprzedŏwŏ: undefined
+    - stawiŏ: undefined
+    - stoji: undefined
+    - swoja: undefined
+    - sytuacyjo: undefined
+    - szofer: undefined
+    - uczńōm: undefined
+    - warzi: undefined
+    - we: undefined
+    - wieczerza: undefined
+    - wiedzie: undefined
+    - ôfis: undefined
+    - ôjc: undefined
+    - ôn: undefined
+    - ôna: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - artist: undefined
+    - bridge: undefined
+    - brother: undefined
+    - building: undefined
+    - bus: undefined
+    - city: undefined
+    - controls: undefined
+    - cook: undefined
+    - dinner: undefined
+    - do: undefined
+    - do/make: undefined
+    - doctor: undefined
+    - documents: undefined
+    - draw: undefined
+    - drawing: undefined
+    - driver: undefined
+    - drives: undefined
+    - engineer: undefined
+    - father: undefined
+    - food: undefined
+    - he: undefined
+    - helps: undefined
+    - his: undefined
+    - house: undefined
+    - in: undefined
+    - is: undefined
+    - makes: undefined
+    - my: undefined
+    - office: undefined
+    - on: undefined
+    - people: undefined
+    - plan: undefined
+    - policeman: undefined
+    - portrait: undefined
+    - preparing: undefined
+    - seller: undefined
+    - sells: undefined
+    - she: undefined
+    - shop: undefined
+    - shows: undefined
+    - situation: undefined
+    - standing: undefined
+    - street: undefined
+    - students: undefined
+    - teacher: undefined
+    - tells: undefined
+    - the: undefined
+    - to: undefined
+    - work: undefined
+    - worker: undefined
+    - working: undefined
+    - works: undefined
+    - writer: undefined
+    - writes: undefined

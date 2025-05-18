@@ -1,0 +1,129 @@
+Skill:
+  Name: Numbers 10-100
+  Id: 28
+
+New words:
+  - Word: źaset
+    Translation: ten
+  - Word: dwójcasć
+    Translation: twenty
+  - Word: tśójcasć
+    Translation: thirty
+  - Word: styrjźasć
+    Translation: forty
+  - Word: pěśźasć
+    Translation: fifty
+  - Word: šesćźasć
+    Translation: sixty
+  - Word: sedymźasć
+    Translation: seventy
+  - Word: wosymźasć
+    Translation: eighty
+  - Word: źewjeśźasć
+    Translation: ninety
+  - Word: sto
+    Translation: one hundred
+
+Phrases:
+  - Phrase: sto goźinikow
+    Translation: one hundred clocks
+  - Phrase: źaset gólcow
+    Translation: ten boys
+  - Phrase: dwójcasć žonow
+    Translation: twenty women
+  - Phrase: tśójcasć pól
+    Translation: thirty fields
+  - Phrase: styrjźasć mužow
+    Translation: forty men
+  - Phrase: pěśźasć žonow
+    Translation: fifty women
+  - Phrase: šesćźasć kóckow
+    Translation: sixty cats
+  - Phrase: sto jaden kółow
+    Translation: one hundred one bicycles
+  - Phrase: wosymźasć gólcow
+    Translation: eighty boys
+  - Phrase: źewjeśźasć kółow
+    Translation: ninety bicycles
+  - Phrase: sedymźasć wosym rublow
+    Translation: seventy eight rubles
+  - Phrase: wosymźasć sedym dolarow
+    Translation: eighty seven dollars
+  - Phrase: źewjeśźasć tśi kompjutéry
+    Translation: ninety three computers
+  - Phrase: pěśźasć jaden goźinikow
+    Translation: fifty one clocks
+  - Phrase: dwójcasć styrjo wěcy
+    Translation: twenty four things
+  - Phrase: sto dwa słyńcy
+    Translation: one hundred two suns
+  - Phrase: šesćźasć kółow
+    Translation: sixty bicycles
+  - Phrase: styrjźasć dolarow
+    Translation: forty dollars
+  - Phrase: tśójcasć psu
+    Translation: thirty dogs
+  - Phrase: dwójcasć kóckow
+    Translation: twenty cats
+
+Mini-dictionary:
+  Lower Sorbian:
+    - dolarow: undefined
+    - dwa: undefined
+    - dwójcasć: undefined
+    - goźinikow: undefined
+    - gólcow: undefined
+    - jaden: undefined
+    - kompjutéry: undefined
+    - kóckow: undefined
+    - kółow: undefined
+    - mužow: undefined
+    - psu: undefined
+    - pól: undefined
+    - pěśźasć: undefined
+    - rublow: undefined
+    - sedym: undefined
+    - sedymźasć: undefined
+    - sto: undefined
+    - styrjo: undefined
+    - styrjźasć: undefined
+    - słyńcy: undefined
+    - tśi: undefined
+    - tśójcasć: undefined
+    - wosym: undefined
+    - wosymźasć: undefined
+    - wěcy: undefined
+    - šesćźasć: undefined
+    - źaset: undefined
+    - źewjeśźasć: undefined
+    - žonow: undefined
+  English:
+    - bicycles: undefined
+    - boys: undefined
+    - cats: undefined
+    - clocks: undefined
+    - computers: undefined
+    - dogs: undefined
+    - dollars: undefined
+    - eight: undefined
+    - eighty: undefined
+    - fields: undefined
+    - fifty: undefined
+    - forty: undefined
+    - four: undefined
+    - hundred: undefined
+    - men: undefined
+    - ninety: undefined
+    - one: undefined
+    - rubles: undefined
+    - seven: undefined
+    - seventy: undefined
+    - sixty: undefined
+    - suns: undefined
+    - ten: undefined
+    - things: undefined
+    - thirty: undefined
+    - three: undefined
+    - twenty: undefined
+    - two: undefined
+    - women: undefined

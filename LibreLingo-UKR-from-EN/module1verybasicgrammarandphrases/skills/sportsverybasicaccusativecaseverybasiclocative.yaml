@@ -1,0 +1,184 @@
+Skill:
+  Name: Sports (very basic accusative case + very basic locative)
+  Id: 5
+
+New words:
+  - Word: футбол
+    Translation: football
+  - Word: баскетбол
+    Translation: basketball
+  - Word: теніс
+    Translation: tennis
+  - Word: плавання
+    Translation: swimming
+  - Word: плавати
+    Translation: to swim
+  - Word: біг
+    Translation: running
+  - Word: бігати
+    Translation: to run
+  - Word: вранці
+    Translation: in the morning
+  - Word: любити
+    Translation: to love/like
+  - Word: хокей
+    Translation: hockey
+  - Word: спорт
+    Translation: sport
+  - Word: гра
+    Translation: game
+  - Word: тренувати
+    Translation: to train
+  - Word: стадіон
+    Translation: stadium
+  - Word: швидко
+    Translation: fast
+  - Word: важкий
+    Translation: difficult
+
+Phrases:
+  - Phrase: Граю в футбол.
+    Translation: I play football.
+  - Phrase: Вона грає в баскетбол.
+    Translation: She plays basketball.
+  - Phrase: Він грає в теніс.
+    Translation: He plays tennis.
+  - Phrase: Ми плаваємо в річці.
+    Translation: We swim in the river.
+  - Phrase: Вони бігають вранці.
+    Translation: They run in the morning.
+  - Phrase: Він тренує кожен день.
+    Translation: He trains every day.
+  - Phrase: Спорт є важливий.
+    Translation: Sport is important.
+  - Phrase: Вона грає на стадіоні.
+    Translation: She plays at the stadium.
+  - Phrase: Треба тренувати.
+    Translation: It is necessary to train.
+  - Phrase: Вони люблять спорт.
+    Translation: They love sport.
+  - Phrase: Я не граю в хокей.
+    Translation: I do not play hockey.
+  - Phrase: Стадіон є в місті.
+    Translation: The stadium is in the city.
+  - Phrase: Баскетбол то цікавий спорт.
+    Translation: Basketball is an interesting sport.
+  - Phrase: Плавання є добре для здоров'я.
+    Translation: Swimming is good for health.
+  - Phrase: Хто грає в теніс?
+    Translation: Who plays tennis?
+  - Phrase: Він бігає швидко.
+    Translation: He runs fast.
+  - Phrase: Ми плаваємо часто.
+    Translation: We swim often.
+  - Phrase: Він тренує з другом.
+    Translation: He trains with a friend.
+  - Phrase: Я граю з братами.
+    Translation: I play with my brothers.
+  - Phrase: Хокей є важкий.
+    Translation: Hockey is difficult.
+
+Mini-dictionary:
+  Ukrainian:
+    - баскетбол: undefined
+    - братами: undefined
+    - біг: undefined
+    - бігати: undefined
+    - бігають: undefined
+    - бігає: undefined
+    - в: undefined
+    - важкий: undefined
+    - важливий: undefined
+    - вона: undefined
+    - вони: undefined
+    - вранці: undefined
+    - він: undefined
+    - гра: undefined
+    - граю: undefined
+    - грає: undefined
+    - день: undefined
+    - для: undefined
+    - добре: undefined
+    - другом: undefined
+    - з: undefined
+    - здоров'я: undefined
+    - кожен: undefined
+    - любити: undefined
+    - люблять: undefined
+    - ми: undefined
+    - місті: undefined
+    - на: undefined
+    - не: undefined
+    - плавання: undefined
+    - плавати: undefined
+    - плаваємо: undefined
+    - річці: undefined
+    - спорт: undefined
+    - стадіон: undefined
+    - стадіоні: undefined
+    - теніс: undefined
+    - то: undefined
+    - треба: undefined
+    - тренувати: undefined
+    - тренує: undefined
+    - футбол: undefined
+    - хокей: undefined
+    - хто: undefined
+    - цікавий: undefined
+    - часто: undefined
+    - швидко: undefined
+    - я: undefined
+    - є: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - at: undefined
+    - basketball: undefined
+    - brothers: undefined
+    - city: undefined
+    - day: undefined
+    - difficult: undefined
+    - do: undefined
+    - every: undefined
+    - fast: undefined
+    - football: undefined
+    - for: undefined
+    - friend: undefined
+    - game: undefined
+    - good: undefined
+    - he: undefined
+    - health: undefined
+    - hockey: undefined
+    - i: undefined
+    - important: undefined
+    - in: undefined
+    - interesting: undefined
+    - is: undefined
+    - it: undefined
+    - love: undefined
+    - love/like: undefined
+    - morning: undefined
+    - my: undefined
+    - necessary: undefined
+    - not: undefined
+    - often: undefined
+    - play: undefined
+    - plays: undefined
+    - river: undefined
+    - run: undefined
+    - running: undefined
+    - runs: undefined
+    - she: undefined
+    - sport: undefined
+    - stadium: undefined
+    - swim: undefined
+    - swimming: undefined
+    - tennis: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - train: undefined
+    - trains: undefined
+    - we: undefined
+    - who: undefined
+    - with: undefined

@@ -1,0 +1,211 @@
+Skill:
+  Name: Nature
+  Id: 15
+
+New words:
+  - Word: reka
+    Translation: river
+  - Word: čez
+    Translation: through
+  - Word: gora
+    Translation: mountain
+  - Word: dolina
+    Translation: valley
+  - Word: gozd
+    Translation: forest
+  - Word: trava
+    Translation: grass
+  - Word: cvet
+    Translation: flower
+  - Word: vrtnica
+    Translation: rose
+  - Word: rasti (raste)
+    Translation: to grow
+  - Word: zemlja
+    Translation: earth
+  - Word: kamen
+    Translation: stone
+  - Word: polje
+    Translation: field
+  - Word: hrast
+    Translation: oak
+  - Word: luna
+    Translation: moon
+  - Word: cveteti (cveti)
+    Translation: to bloom
+  - Word: drevo
+    Translation: tree
+  - Word: ležati (leži)
+    Translation: to lie
+  - Word: med
+    Translation: between
+
+Phrases:
+  - Phrase: Reka teče čez dolino.
+    Translation: The river flows through the valley.
+  - Phrase: Gora je visoka.
+    Translation: The mountain is high.
+  - Phrase: Mi gremo v gozd.
+    Translation: We are going to the forest.
+  - Phrase: Trava je zelena.
+    Translation: The grass is green.
+  - Phrase: Cvetovi lepo cvetijo.
+    Translation: The flowers bloom beautifully.
+  - Phrase: On stoji na kamnu.
+    Translation: He is standing on the stone.
+  - Phrase: Zemlja je mokra.
+    Translation: The earth is wet.
+  - Phrase: Vrtnica raste na polju.
+    Translation: The rose grows in the field.
+  - Phrase: Dolina leži med gorami.
+    Translation: The valley lies between the mountains.
+  - Phrase: Polje je široko.
+    Translation: The field is wide.
+  - Phrase: Oni gredo čez gozd z veliko drevesi.
+    Translation: They are going through the forest with many trees.
+  - Phrase: Trava raste hitro.
+    Translation: The grass grows fast.
+  - Phrase: Kamni so težki.
+    Translation: The stones are heavy.
+  - Phrase: Cvet raste iz zemlje.
+    Translation: A flower grows from the earth.
+  - Phrase: Voda gre do reke.
+    Translation: Water goes to the river.
+  - Phrase: Polje je za hišo.
+    Translation: The field is behind the house.
+  - Phrase: Gremo k hrastu.
+    Translation: We are going towards the oak.
+  - Phrase: Luna je danes lepa
+    Translation: The moon today is beautiful
+  - Phrase: Mi stojimo na zemlji.
+    Translation: We are standing on the earth.
+  - Phrase: Oni gledajo v dolino.
+    Translation: They are looking into the valley.
+  - Phrase: Reka gre med polji.
+    Translation: The river goes between the fields.
+
+Mini-dictionary:
+  Slovenian:
+    - cvet: undefined
+    - cveteti: undefined
+    - cveti: undefined
+    - cvetijo: undefined
+    - cvetovi: undefined
+    - danes: undefined
+    - do: undefined
+    - dolina: undefined
+    - dolino: undefined
+    - drevesi: undefined
+    - drevo: undefined
+    - gledajo: undefined
+    - gora: undefined
+    - gorami: undefined
+    - gozd: undefined
+    - gre: undefined
+    - gredo: undefined
+    - gremo: undefined
+    - hitro: undefined
+    - hišo: undefined
+    - hrast: undefined
+    - hrastu: undefined
+    - iz: undefined
+    - je: undefined
+    - k: undefined
+    - kamen: undefined
+    - kamni: undefined
+    - kamnu: undefined
+    - lepa: undefined
+    - lepo: undefined
+    - ležati: undefined
+    - leži: undefined
+    - luna: undefined
+    - med: undefined
+    - mi: undefined
+    - mokra: undefined
+    - na: undefined
+    - on: undefined
+    - oni: undefined
+    - polje: undefined
+    - polji: undefined
+    - polju: undefined
+    - raste: undefined
+    - rasti: undefined
+    - reka: undefined
+    - reke: undefined
+    - so: undefined
+    - stoji: undefined
+    - stojimo: undefined
+    - teče: undefined
+    - težki: undefined
+    - trava: undefined
+    - v: undefined
+    - veliko: undefined
+    - visoka: undefined
+    - voda: undefined
+    - vrtnica: undefined
+    - z: undefined
+    - za: undefined
+    - zelena: undefined
+    - zemlja: undefined
+    - zemlje: undefined
+    - zemlji: undefined
+    - čez: undefined
+    - široko: undefined
+  English:
+    - a: undefined
+    - are: undefined
+    - beautiful: undefined
+    - beautifully: undefined
+    - behind: undefined
+    - between: undefined
+    - bloom: undefined
+    - earth: undefined
+    - fast: undefined
+    - field: undefined
+    - fields: undefined
+    - flower: undefined
+    - flowers: undefined
+    - flows: undefined
+    - forest: undefined
+    - from: undefined
+    - goes: undefined
+    - going: undefined
+    - grass: undefined
+    - green: undefined
+    - grow: undefined
+    - grows: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - house: undefined
+    - in: undefined
+    - into: undefined
+    - is: undefined
+    - lie: undefined
+    - lies: undefined
+    - looking: undefined
+    - many: undefined
+    - moon: undefined
+    - mountain: undefined
+    - mountains: undefined
+    - oak: undefined
+    - on: undefined
+    - river: undefined
+    - rose: undefined
+    - standing: undefined
+    - stone: undefined
+    - stones: undefined
+    - the: undefined
+    - they: undefined
+    - through: undefined
+    - to: undefined
+    - today: undefined
+    - towards: undefined
+    - tree: undefined
+    - trees: undefined
+    - valley: undefined
+    - water: undefined
+    - we: undefined
+    - wet: undefined
+    - wide: undefined
+    - with: undefined

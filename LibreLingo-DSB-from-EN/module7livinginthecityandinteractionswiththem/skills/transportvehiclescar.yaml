@@ -1,0 +1,189 @@
+Skill:
+  Name: Transport/Vehicles/Car
+  Id: 23
+
+New words:
+  - Word: awto
+    Translation: car
+  - Word: awtobus
+    Translation: bus
+  - Word: śug
+    Translation: train
+  - Word: kóło
+    Translation: bicycle
+  - Word: dwórnišćo
+    Translation: station
+  - Word: šofer
+    Translation: driver
+  - Word: droga
+    Translation: road
+  - Word: most
+    Translation: bridge
+  - Word: rěd
+    Translation: speed
+  - Word: drogowe swěśełko
+    Translation: traffic light
+  - Word: jěś (jěźo)
+    Translation: to go/drive
+  - Word: sednuś (sednjo)
+    Translation: to sit
+  - Word: zwězaś (zwězajo)
+    Translation: to connect/tie
+  - Word: rozbyty
+    Translation: broken
+  - Word: wóstražny
+    Translation: careful
+
+Phrases:
+  - Phrase: Awto stoja na droze.
+    Translation: The car is standing on the street.
+  - Phrase: Awtobus jěźo do centra.
+    Translation: The bus goes to the center.
+  - Phrase: Śug jěźo na dwórnišćo.
+    Translation: The train goes to the station.
+  - Phrase: How jo sedło. Móžno sednuś.
+    Translation: Here is a seat. One can sit.
+  - Phrase: Dwórnišćo jo wjelike.
+    Translation: The station is big.
+  - Phrase: Šofer jěźo snadnje.
+    Translation: The driver drives fast.
+  - Phrase: Droga źe pśez lěs.
+    Translation: The road goes through the forest.
+  - Phrase: Most zwězajo dwě měsće.
+    Translation: The bridge connects two cities.
+  - Phrase: Rěd jo ważny za wěstosć na droze.
+    Translation: A speed limit is important for the security on the street.
+  - Phrase: Drogowe swěśełko pokazujo cerwjene.
+    Translation: The traffic light shows red.
+  - Phrase: Awto jo nowe a krasne.
+    Translation: The car is new and beautiful.
+  - Phrase: Awtobus wjeźo wjele luźi.
+    Translation: The bus carries many people.
+  - Phrase: Śug jěźo na nord.
+    Translation: The train goes to the north.
+  - Phrase: Kóło jo rozbyte.
+    Translation: The bicycle is broken.
+  - Phrase: Dwórnišćo jo wótwórjone.
+    Translation: The station is open.
+  - Phrase: Šofer jo wóstražny.
+    Translation: The driver is careful.
+  - Phrase: Droga jo šyroka.
+    Translation: The road is wide.
+  - Phrase: Most jo wusoki.
+    Translation: The bridge is high.
+  - Phrase: Rěd jo wobgranicowany.
+    Translation: The speed is limited.
+  - Phrase: Drogowe swěśełko pokazujo zelene.
+    Translation: The traffic light shows green.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: undefined
+    - awto: undefined
+    - awtobus: undefined
+    - centra: undefined
+    - cerwjene: undefined
+    - do: undefined
+    - droga: undefined
+    - drogowe: undefined
+    - droze: undefined
+    - dwórnišćo: undefined
+    - dwě: undefined
+    - how: undefined
+    - jo: undefined
+    - jěś: undefined
+    - jěźo: undefined
+    - krasne: undefined
+    - kóło: undefined
+    - luźi: undefined
+    - lěs: undefined
+    - most: undefined
+    - móžno: undefined
+    - měsće: undefined
+    - na: undefined
+    - nord: undefined
+    - nowe: undefined
+    - pokazujo: undefined
+    - pśez: undefined
+    - rozbyte: undefined
+    - rozbyty: undefined
+    - rěd: undefined
+    - sednjo: undefined
+    - sednuś: undefined
+    - sedło: undefined
+    - snadnje: undefined
+    - stoja: undefined
+    - swěśełko: undefined
+    - ważny: undefined
+    - wjele: undefined
+    - wjelike: undefined
+    - wjeźo: undefined
+    - wobgranicowany: undefined
+    - wusoki: undefined
+    - wóstražny: undefined
+    - wótwórjone: undefined
+    - wěstosć: undefined
+    - za: undefined
+    - zelene: undefined
+    - zwězajo: undefined
+    - zwězaś: undefined
+    - śug: undefined
+    - šofer: undefined
+    - šyroka: undefined
+    - źe: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - beautiful: undefined
+    - bicycle: undefined
+    - big: undefined
+    - bridge: undefined
+    - broken: undefined
+    - bus: undefined
+    - can: undefined
+    - car: undefined
+    - careful: undefined
+    - carries: undefined
+    - center: undefined
+    - cities: undefined
+    - connect/tie: undefined
+    - connects: undefined
+    - driver: undefined
+    - drives: undefined
+    - fast: undefined
+    - for: undefined
+    - forest: undefined
+    - go/drive: undefined
+    - goes: undefined
+    - green: undefined
+    - here: undefined
+    - high: undefined
+    - important: undefined
+    - is: undefined
+    - light: undefined
+    - limit: undefined
+    - limited: undefined
+    - many: undefined
+    - new: undefined
+    - north: undefined
+    - on: undefined
+    - one: undefined
+    - open: undefined
+    - people: undefined
+    - red: undefined
+    - road: undefined
+    - seat: undefined
+    - security: undefined
+    - shows: undefined
+    - sit: undefined
+    - speed: undefined
+    - standing: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - through: undefined
+    - to: undefined
+    - traffic: undefined
+    - train: undefined
+    - two: undefined
+    - wide: undefined

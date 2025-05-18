@@ -1,0 +1,194 @@
+Skill:
+  Name: Hobbies (Verbs – Imperfective only)
+  Id: 4
+
+New words:
+  - Word: čitati
+    Translation: to read
+  - Word: pisati (piše)
+    Translation: to write
+  - Word: igrati
+    Translation: to play
+  - Word: gledati
+    Translation: to watch
+  - Word: slušati
+    Translation: to listen
+  - Word: slikati
+    Translation: to paint
+  - Word: pjevati
+    Translation: to sing
+  - Word: učiti se
+    Translation: to learn
+  - Word: sjediti (sjedi)
+    Translation: to sit
+  - Word: šivati (šije)
+    Translation: to sew
+  - Word: plesati
+    Translation: to dance
+
+Phrases:
+  - Phrase: Ja čitam knjigu.
+    Translation: I am reading a book.
+  - Phrase: Ona piše pisma.
+    Translation: She is writing letters.
+  - Phrase: On igra nogomet.
+    Translation: He is playing football.
+  - Phrase: Mi gledamo film.
+    Translation: We are watching a film.
+  - Phrase: Oni slušaju glazbu.
+    Translation: They are listening to music.
+  - Phrase: Ona sjedi i čita.
+    Translation: She is sitting and reading.
+  - Phrase: Ja slikam sliku.
+    Translation: I am painting a picture.
+  - Phrase: On pjeva pjesme.
+    Translation: He is singing songs.
+  - Phrase: Vi učite jezik.
+    Translation: You are learning a language.
+  - Phrase: Ja šivam odjeću.
+    Translation: I am sewing clothes.
+  - Phrase: Ti gledaš seriju?
+    Translation: Are you watching a series?
+  - Phrase: Mi igramo šah.
+    Translation: We are playing chess.
+  - Phrase: Oni slušaju radio.
+    Translation: They are listening to the radio.
+  - Phrase: Čitaš li ti romane?
+    Translation: Do you read novels?
+  - Phrase: On piše dnevnik.
+    Translation: He is writing a diary.
+  - Phrase: Učimo se ovdje.
+    Translation: We are learning here.
+  - Phrase: Slikamo s prijateljima slike.
+    Translation: We are painting pictures with friends.
+  - Phrase: Šivaš li?
+    Translation: Are you sewing?
+  - Phrase: Ja pjevam s grupom.
+    Translation: I am singing with a group.
+  - Phrase: Ja plešem mnogo
+    Translation: I dance a lot
+  - Phrase: Ona svira gitaru.
+    Translation: She is playing the guitar.
+
+Mini-dictionary:
+  Croatian:
+    - dnevnik: undefined
+    - film: undefined
+    - gitaru: undefined
+    - glazbu: undefined
+    - gledamo: undefined
+    - gledati: undefined
+    - gledaš: undefined
+    - grupom: undefined
+    - i: undefined
+    - igra: undefined
+    - igramo: undefined
+    - igrati: undefined
+    - ja: undefined
+    - jezik: undefined
+    - knjigu: undefined
+    - li: undefined
+    - mi: undefined
+    - mnogo: undefined
+    - nogomet: undefined
+    - odjeću: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - ovdje: undefined
+    - pisati: undefined
+    - pisma: undefined
+    - piše: undefined
+    - pjesme: undefined
+    - pjeva: undefined
+    - pjevam: undefined
+    - pjevati: undefined
+    - plesati: undefined
+    - plešem: undefined
+    - prijateljima: undefined
+    - radio: undefined
+    - romane: undefined
+    - s: undefined
+    - se: undefined
+    - seriju: undefined
+    - sjedi: undefined
+    - sjediti: undefined
+    - slikam: undefined
+    - slikamo: undefined
+    - slikati: undefined
+    - slike: undefined
+    - sliku: undefined
+    - slušaju: undefined
+    - slušati: undefined
+    - svira: undefined
+    - ti: undefined
+    - učimo: undefined
+    - učite: undefined
+    - učiti: undefined
+    - vi: undefined
+    - čita: undefined
+    - čitam: undefined
+    - čitati: undefined
+    - čitaš: undefined
+    - šah: undefined
+    - šije: undefined
+    - šivam: undefined
+    - šivati: undefined
+    - šivaš: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - book: undefined
+    - chess: undefined
+    - clothes: undefined
+    - dance: undefined
+    - diary: undefined
+    - do: undefined
+    - film: undefined
+    - football: undefined
+    - friends: undefined
+    - group: undefined
+    - guitar: undefined
+    - he: undefined
+    - here: undefined
+    - i: undefined
+    - is: undefined
+    - language: undefined
+    - learn: undefined
+    - learning: undefined
+    - letters: undefined
+    - listen: undefined
+    - listening: undefined
+    - lot: undefined
+    - music: undefined
+    - novels: undefined
+    - paint: undefined
+    - painting: undefined
+    - picture: undefined
+    - pictures: undefined
+    - play: undefined
+    - playing: undefined
+    - radio: undefined
+    - read: undefined
+    - reading: undefined
+    - series: undefined
+    - sew: undefined
+    - sewing: undefined
+    - she: undefined
+    - sing: undefined
+    - singing: undefined
+    - sit: undefined
+    - sitting: undefined
+    - songs: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - watch: undefined
+    - watching: undefined
+    - we: undefined
+    - with: undefined
+    - write: undefined
+    - writing: undefined
+    - you: undefined

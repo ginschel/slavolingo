@@ -1,0 +1,171 @@
+Skill:
+  Name: Nationalities / Languages
+  Id: 11
+
+New words:
+  - Word: Słowjan
+    Translation: Slav
+  - Word: rěč
+    Translation: language
+  - Word: stat
+    Translation: country
+  - Word: lud
+    Translation: nation
+  - Word: mjeno
+    Translation: name
+  - Word: Chorwatka
+    Translation: Croat
+  - Word: Rus
+    Translation: Russian
+  - Word: Pólak
+    Translation: Pole
+  - Word: Němc
+    Translation: German
+  - Word: Angličan
+    Translation: Englishman
+
+Phrases:
+  - Phrase: Wón je Słowjan.
+    Translation: He is a Slav.
+  - Phrase: Wona rěči w słowjanskej rěči.
+    Translation: She speaks the Slavic language.
+  - Phrase: To je moja rěč.
+    Translation: This is my language.
+  - Phrase: Stat je Pólska.
+    Translation: The country is Poland.
+  - Phrase: Ja sym Pólak.
+    Translation: I am a Pole.
+  - Phrase: Wona je Chorwatka.
+    Translation: She is a Croat.
+  - Phrase: Wón je Rus.
+    Translation: He is a Russian.
+  - Phrase: Rěčiš němsku rěč?
+    Translation: Do you speak the German language?
+  - Phrase: Angličan rěči jendźelsku rěč.
+    Translation: An Englishman speaks the English language.
+  - Phrase: My lubimy swój lud.
+    Translation: We love our nation.
+  - Phrase: To je mjeno mojeho stata.
+    Translation: This is the name of my country.
+  - Phrase: Wón wě tři rěče.
+    Translation: He knows three languages.
+  - Phrase: Chorwat rěči chorwatsku rěč.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Němc bydli w Němskej.
+    Translation: A German lives in Germany.
+  - Phrase: Wona znaje rusce a słowjansce.
+    Translation: She knows Russian and Slavic.
+  - Phrase: To je lud z bohatu kulturu.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Sy ty Angličan?
+    Translation: Are you an Englishman?
+  - Phrase: Wón rěči kóždu rěč derje.
+    Translation: He speaks every language well.
+  - Phrase: My so wuknjemy ruskeje rěče.
+    Translation: We are learning the Russian language.
+  - Phrase: Wona znaje mnoho ludow.
+    Translation: She knows many nations.
+
+Mini-dictionary:
+  Upper Sorbian:
+    - a: undefined
+    - angličan: undefined
+    - bohatu: undefined
+    - bydli: undefined
+    - chorwat: undefined
+    - chorwatka: undefined
+    - chorwatsku: undefined
+    - derje: undefined
+    - ja: undefined
+    - je: undefined
+    - jendźelsku: undefined
+    - kulturu: undefined
+    - kóždu: undefined
+    - lubimy: undefined
+    - lud: undefined
+    - ludow: undefined
+    - mjeno: undefined
+    - mnoho: undefined
+    - moja: undefined
+    - mojeho: undefined
+    - my: undefined
+    - němc: undefined
+    - němskej: undefined
+    - němsku: undefined
+    - pólak: undefined
+    - pólska: undefined
+    - rus: undefined
+    - rusce: undefined
+    - ruskeje: undefined
+    - rěč: undefined
+    - rěče: undefined
+    - rěči: undefined
+    - rěčiš: undefined
+    - so: undefined
+    - stat: undefined
+    - stata: undefined
+    - swój: undefined
+    - sy: undefined
+    - sym: undefined
+    - słowjan: undefined
+    - słowjansce: undefined
+    - słowjanskej: undefined
+    - to: undefined
+    - ty: undefined
+    - tři: undefined
+    - w: undefined
+    - wona: undefined
+    - wuknjemy: undefined
+    - wón: undefined
+    - wě: undefined
+    - z: undefined
+    - znaje: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - an: undefined
+    - and: undefined
+    - are: undefined
+    - country: undefined
+    - croat: undefined
+    - croatian: undefined
+    - culture: undefined
+    - do: undefined
+    - english: undefined
+    - englishman: undefined
+    - every: undefined
+    - german: undefined
+    - germany: undefined
+    - he: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - knows: undefined
+    - language: undefined
+    - languages: undefined
+    - learning: undefined
+    - lives: undefined
+    - love: undefined
+    - many: undefined
+    - my: undefined
+    - name: undefined
+    - nation: undefined
+    - nations: undefined
+    - of: undefined
+    - our: undefined
+    - poland: undefined
+    - pole: undefined
+    - rich: undefined
+    - russian: undefined
+    - she: undefined
+    - slav: undefined
+    - slavic: undefined
+    - speak: undefined
+    - speaks: undefined
+    - the: undefined
+    - this: undefined
+    - three: undefined
+    - we: undefined
+    - well: undefined
+    - with: undefined
+    - you: undefined

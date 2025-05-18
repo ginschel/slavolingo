@@ -1,0 +1,195 @@
+Skill:
+  Name: Grammar revision cases
+  Id: 19
+
+New words:
+  - Word: "rezati (reže)"
+    Translation: to cut
+  - Word: "darilo"
+    Translation: gift
+  - Word: "vesolje"
+    Translation: universe
+  - Word: "ogledalo"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Kosti tu ni.
+    Translation: There is no bone here.
+  - Phrase: Dam ženski.
+    Translation: I give to the woman.
+  - Phrase: Ona je v mestu.
+    Translation: She is in the city.
+  - Phrase: Govorim s prijatelji.
+    Translation: I talk with friends.
+  - Phrase: Imena on nima.
+    Translation: He has no name.
+  - Phrase: Ti duše nimaš?!
+    Translation: You don't have a soul?!
+  - Phrase: On vidi svojo ženo.
+    Translation: He sees his wife.
+  - Phrase: Brata tu ni.
+    Translation: There is no brother here.
+  - Phrase: To se da rezati z nožem.
+    Translation: This can be cut with a knife.
+  - Phrase: Ona z možem govori.
+    Translation: She talks with her husband.
+  - Phrase: Ona govori o bratih.
+    Translation: She talks about brothers.
+  - Phrase: Ona daje darilo bratom.
+    Translation: She gives a gift to the brothers.
+  - Phrase: Na polju veliko delam.
+    Translation: I work a lot in the field.
+  - Phrase: Je veliko sonc v vesolju.
+    Translation: There are many suns in the universe.
+  - Phrase: In tudi je veliko zvezd.
+    Translation: And there are also many stars.
+  - Phrase: On rad govori s svojo ženo.
+    Translation: He likes to talk with his wife.
+  - Phrase: Ni več banan v hiši.
+    Translation: There are no more bananas in the house.
+  - Phrase: V očeh vidim dušo tvojo.
+    Translation: In the eyes I see your soul.
+  - Phrase: Oči so ogledalo duše.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Moških tu ne vidim.
+    Translation: I do not see men here.
+  - Phrase: V mestih boš videl veliko ljudi.
+    Translation: In the cities you will see many people.
+  - Phrase: Mirno noč!
+    Translation: Good night!
+
+Mini-dictionary:
+  Slovenian:
+    - banan: undefined
+    - boš: undefined
+    - brata: undefined
+    - bratih: undefined
+    - bratom: undefined
+    - da: undefined
+    - daje: undefined
+    - dam: undefined
+    - darilo: undefined
+    - delam: undefined
+    - duše: undefined
+    - dušo: undefined
+    - govori: undefined
+    - govorim: undefined
+    - hiši: undefined
+    - imena: undefined
+    - in: undefined
+    - je: undefined
+    - kosti: undefined
+    - ljudi: undefined
+    - mestih: undefined
+    - mestu: undefined
+    - mirno: undefined
+    - moških: undefined
+    - možem: undefined
+    - na: undefined
+    - ne: undefined
+    - ni: undefined
+    - nima: undefined
+    - nimaš: undefined
+    - noč: undefined
+    - nožem: undefined
+    - o: undefined
+    - ogledalo: undefined
+    - on: undefined
+    - ona: undefined
+    - očeh: undefined
+    - oči: undefined
+    - polju: undefined
+    - prijatelji: undefined
+    - rad: undefined
+    - rezati: undefined
+    - reže: undefined
+    - s: undefined
+    - se: undefined
+    - so: undefined
+    - sonc: undefined
+    - svojo: undefined
+    - ti: undefined
+    - to: undefined
+    - tu: undefined
+    - tudi: undefined
+    - tvojo: undefined
+    - v: undefined
+    - veliko: undefined
+    - vesolje: undefined
+    - vesolju: undefined
+    - več: undefined
+    - videl: undefined
+    - vidi: undefined
+    - vidim: undefined
+    - z: undefined
+    - zvezd: undefined
+    - ženo: undefined
+    - ženski: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - bananas: undefined
+    - be: undefined
+    - bone: undefined
+    - brother: undefined
+    - brothers: undefined
+    - can: undefined
+    - cities: undefined
+    - city: undefined
+    - cut: undefined
+    - do: undefined
+    - don't: undefined
+    - eyes: undefined
+    - field: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - his: undefined
+    - house: undefined
+    - husband: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - knife: undefined
+    - likes: undefined
+    - lot: undefined
+    - many: undefined
+    - men: undefined
+    - mirror: undefined
+    - more: undefined
+    - name: undefined
+    - night: undefined
+    - no: undefined
+    - not: undefined
+    - of: undefined
+    - people: undefined
+    - see: undefined
+    - sees: undefined
+    - she: undefined
+    - soul: undefined
+    - stars: undefined
+    - suns: undefined
+    - talk: undefined
+    - talks: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - universe: undefined
+    - wife: undefined
+    - will: undefined
+    - with: undefined
+    - woman: undefined
+    - work: undefined
+    - you: undefined
+    - your: undefined

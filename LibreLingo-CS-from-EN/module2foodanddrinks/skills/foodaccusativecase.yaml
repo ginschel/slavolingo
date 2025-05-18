@@ -1,0 +1,201 @@
+Skill:
+  Name: Food (Accusative case)
+  Id: 6
+
+New words:
+  - Word: chléb
+    Translation: bread
+  - Word: vařit
+    Translation: to prepare
+  - Word: nést
+    Translation: to carry
+  - Word: jíst (jí)
+    Translation: to eat
+  - Word: máslo
+    Translation: butter
+  - Word: mléko
+    Translation: milk
+  - Word: maso
+    Translation: meat
+  - Word: vejce
+    Translation: egg
+  - Word: snídaně
+    Translation: breakfast
+  - Word: oběd
+    Translation: lunch
+  - Word: koupit
+    Translation: to buy
+  - Word: večeře
+    Translation: dinner
+  - Word: jídlo/pokrm
+    Translation: dish
+  - Word: kniha
+    Translation: book
+  - Word: sladký
+    Translation: sweet
+  - Word: jídlo
+    Translation: food
+
+Phrases:
+  - Phrase: Já jím chléb.
+    Translation: I am eating bread.
+  - Phrase: Ona jí maso.
+    Translation: She is eating meat.
+  - Phrase: On má rád mléko.
+    Translation: He likes milk.
+  - Phrase: Já vidím Vlada s jídlem
+    Translation: I see Vlad with food
+  - Phrase: Ty jíš vejce?
+    Translation: Are you eating an egg?
+  - Phrase: My jíme večeři.
+    Translation: We are eating dinner.
+  - Phrase: Oni mají snídani.
+    Translation: They are having breakfast.
+  - Phrase: Já koupím máslo.
+    Translation: I will buy butter.
+  - Phrase: On vaří oběd.
+    Translation: He is preparing lunch.
+  - Phrase: Ona nese pokrm.
+    Translation: She is carrying a dish.
+  - Phrase: Oni kupují máslo a chléb.
+    Translation: They are buying butter and bread.
+  - Phrase: On pije mléko a jí maso.
+    Translation: He is drinking milk and eating meat.
+  - Phrase: Čteš ty knihu a jíš snídani?
+    Translation: Are you reading a book and eating breakfast?
+  - Phrase: Já vidím oběd na stole.
+    Translation: I see lunch on the table.
+  - Phrase: Ty máš máslo?
+    Translation: Do you have butter?
+  - Phrase: My vaříme večeři každý den.
+    Translation: We prepare dinner every day.
+  - Phrase: Já vím, že ty máš rád vejce.
+    Translation: I know that you like eggs.
+  - Phrase: On jí sladké jídlo.
+    Translation: He eats sweet food.
+  - Phrase: Ona má ráda vařit večeři.
+    Translation: She likes to prepare dinner.
+  - Phrase: My vidíme tvou pizzu na stole.
+    Translation: We see your pizza on the table.
+  - Phrase: Oni vědí, že já vždy jím chléb s máslem.
+    Translation: They know that I always eat bread with butter.
+
+Mini-dictionary:
+  Czech:
+    - a: undefined
+    - chléb: undefined
+    - den: undefined
+    - já: undefined
+    - jí: undefined
+    - jídlem: undefined
+    - jídlo: undefined
+    - jídlo/pokrm: undefined
+    - jím: undefined
+    - jíme: undefined
+    - jíst: undefined
+    - jíš: undefined
+    - každý: undefined
+    - kniha: undefined
+    - knihu: undefined
+    - koupit: undefined
+    - koupím: undefined
+    - kupují: undefined
+    - mají: undefined
+    - maso: undefined
+    - mléko: undefined
+    - my: undefined
+    - má: undefined
+    - máslem: undefined
+    - máslo: undefined
+    - máš: undefined
+    - na: undefined
+    - nese: undefined
+    - nést: undefined
+    - oběd: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - pije: undefined
+    - pizzu: undefined
+    - pokrm: undefined
+    - rád: undefined
+    - ráda: undefined
+    - s: undefined
+    - sladké: undefined
+    - sladký: undefined
+    - snídani: undefined
+    - snídaně: undefined
+    - stole: undefined
+    - tvou: undefined
+    - ty: undefined
+    - vařit: undefined
+    - vaří: undefined
+    - vaříme: undefined
+    - vejce: undefined
+    - večeře: undefined
+    - večeři: undefined
+    - vidím: undefined
+    - vidíme: undefined
+    - vlada: undefined
+    - vím: undefined
+    - vědí: undefined
+    - vždy: undefined
+    - čteš: undefined
+    - že: undefined
+  English:
+    - a: undefined
+    - always: undefined
+    - am: undefined
+    - an: undefined
+    - and: undefined
+    - are: undefined
+    - book: undefined
+    - bread: undefined
+    - breakfast: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - carry: undefined
+    - carrying: undefined
+    - day: undefined
+    - dinner: undefined
+    - dish: undefined
+    - do: undefined
+    - drinking: undefined
+    - eat: undefined
+    - eating: undefined
+    - eats: undefined
+    - egg: undefined
+    - eggs: undefined
+    - every: undefined
+    - food: undefined
+    - have: undefined
+    - having: undefined
+    - he: undefined
+    - i: undefined
+    - is: undefined
+    - know: undefined
+    - like: undefined
+    - likes: undefined
+    - lunch: undefined
+    - meat: undefined
+    - milk: undefined
+    - on: undefined
+    - pizza: undefined
+    - prepare: undefined
+    - preparing: undefined
+    - reading: undefined
+    - see: undefined
+    - she: undefined
+    - sweet: undefined
+    - table: undefined
+    - that: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - vlad: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined
+    - you: undefined
+    - your: undefined

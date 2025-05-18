@@ -1,0 +1,235 @@
+Skill:
+  Name: Emotions (adverbs)
+  Id: 37
+
+New words:
+  - Word: radostný
+    Translation: joyful
+  - Word: žalostný
+    Translation: sad
+  - Word: hněvivý
+    Translation: angry
+  - Word: láska
+    Translation: love
+  - Word: vystrašený
+    Translation: frightened
+  - Word: klid
+    Translation: peace
+  - Word: závist
+    Translation: envy
+  - Word: stydlivý
+    Translation: ashamed
+  - Word: stud
+    Translation: shame
+  - Word: hrdý
+    Translation: proud
+  - Word: veselý
+    Translation: cheerful
+  - Word: třes/strach
+    Translation: tremor
+  - Word: cítit (cítí)
+    Translation: to feel
+  - Word: skrývat
+    Translation: to hide
+  - Word: utíkat
+    Translation: to run away
+
+Phrases:
+  - Phrase: Cítím se radostně dnes.
+    Translation: We feel joyful this week.
+  - Phrase: Žalostně mluvil.
+    Translation: He spoke sadly.
+  - Phrase: On hněvivě mu říká pracovat.
+    Translation: He angrily tells him to work.
+  - Phrase: Láska to silná emoce.
+    Translation: Love is a strong emotion.
+  - Phrase: Strach to přirozená reakce.
+    Translation: Fear is a natural reaction.
+  - Phrase: Klid je důležitý pro duši.
+    Translation: Peace is important for the soul.
+  - Phrase: Závist to černá emoce.
+    Translation: Envy is a dark emotion.
+  - Phrase: Stydlivě on cítí stud.
+    Translation: He feels ashamed.
+  - Phrase: Veselé jemu se naplnilo srdce.
+    Translation: His heart was filled with joy.
+  - Phrase: Závistivě on hledí na něho.
+    Translation: He is jealous of him.
+  - Phrase: Já mám žal v srdci.
+    Translation: I have sadness in my heart.
+  - Phrase: Ona ukazuje jim svou práci vesele.
+    Translation: She shows them her work joyfully.
+  - Phrase: On skrývá hrdě svůj hněv.
+    Translation: He hides his anger proudly.
+  - Phrase: My cítíme klid.
+    Translation: We feel peaceful.
+  - Phrase: Strach je v nás.
+    Translation: Fear is inside us.
+  - Phrase: Vystrašeně on utíkal.
+    Translation: He was frightened and ran away.
+  - Phrase: Stud je mnoho silný.
+    Translation: Shame is very strong.
+  - Phrase: Radostně šel domů.
+    Translation: He joyfully went home.
+  - Phrase: Radost jde zevnitř.
+    Translation: Joy comes from within.
+  - Phrase: Trpět pouze chceme, když milujeme.
+    Translation: We only suffer when we love.
+
+Mini-dictionary:
+  Czech:
+    - chceme: undefined
+    - cítit: undefined
+    - cítí: undefined
+    - cítím: undefined
+    - cítíme: undefined
+    - dnes: undefined
+    - domů: undefined
+    - duši: undefined
+    - důležitý: undefined
+    - emoce: undefined
+    - hledí: undefined
+    - hněv: undefined
+    - hněvivý: undefined
+    - hněvivě: undefined
+    - hrdý: undefined
+    - hrdě: undefined
+    - jde: undefined
+    - je: undefined
+    - jemu: undefined
+    - jim: undefined
+    - já: undefined
+    - když: undefined
+    - klid: undefined
+    - láska: undefined
+    - milujeme: undefined
+    - mluvil: undefined
+    - mnoho: undefined
+    - mu: undefined
+    - my: undefined
+    - mám: undefined
+    - na: undefined
+    - naplnilo: undefined
+    - nás: undefined
+    - něho: undefined
+    - on: undefined
+    - ona: undefined
+    - pouze: undefined
+    - pracovat: undefined
+    - pro: undefined
+    - práci: undefined
+    - přirozená: undefined
+    - radost: undefined
+    - radostný: undefined
+    - radostně: undefined
+    - reakce: undefined
+    - se: undefined
+    - silná: undefined
+    - silný: undefined
+    - skrývat: undefined
+    - skrývá: undefined
+    - srdce: undefined
+    - srdci: undefined
+    - strach: undefined
+    - stud: undefined
+    - stydlivý: undefined
+    - stydlivě: undefined
+    - svou: undefined
+    - svůj: undefined
+    - to: undefined
+    - trpět: undefined
+    - třes/strach: undefined
+    - ukazuje: undefined
+    - utíkal: undefined
+    - utíkat: undefined
+    - v: undefined
+    - vesele: undefined
+    - veselé: undefined
+    - veselý: undefined
+    - vystrašený: undefined
+    - vystrašeně: undefined
+    - zevnitř: undefined
+    - závist: undefined
+    - závistivě: undefined
+    - černá: undefined
+    - říká: undefined
+    - šel: undefined
+    - žal: undefined
+    - žalostný: undefined
+    - žalostně: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - anger: undefined
+    - angrily: undefined
+    - angry: undefined
+    - ashamed: undefined
+    - away: undefined
+    - cheerful: undefined
+    - comes: undefined
+    - dark: undefined
+    - emotion: undefined
+    - envy: undefined
+    - fear: undefined
+    - feel: undefined
+    - feels: undefined
+    - filled: undefined
+    - for: undefined
+    - frightened: undefined
+    - from: undefined
+    - have: undefined
+    - he: undefined
+    - heart: undefined
+    - her: undefined
+    - hide: undefined
+    - hides: undefined
+    - him: undefined
+    - his: undefined
+    - home: undefined
+    - i: undefined
+    - important: undefined
+    - in: undefined
+    - inside: undefined
+    - is: undefined
+    - jealous: undefined
+    - joy: undefined
+    - joyful: undefined
+    - joyfully: undefined
+    - love: undefined
+    - my: undefined
+    - natural: undefined
+    - of: undefined
+    - only: undefined
+    - peace: undefined
+    - peaceful: undefined
+    - proud: undefined
+    - proudly: undefined
+    - ran: undefined
+    - reaction: undefined
+    - run: undefined
+    - sad: undefined
+    - sadly: undefined
+    - sadness: undefined
+    - shame: undefined
+    - she: undefined
+    - shows: undefined
+    - soul: undefined
+    - spoke: undefined
+    - strong: undefined
+    - suffer: undefined
+    - tells: undefined
+    - the: undefined
+    - them: undefined
+    - this: undefined
+    - to: undefined
+    - tremor: undefined
+    - us: undefined
+    - very: undefined
+    - was: undefined
+    - we: undefined
+    - week: undefined
+    - went: undefined
+    - when: undefined
+    - with: undefined
+    - within: undefined
+    - work: undefined

@@ -1,0 +1,209 @@
+Skill:
+  Name: Cardinal points/directions
+  Id: 18
+
+New words:
+  - Word: север
+    Translation: north
+  - Word: юг
+    Translation: south
+  - Word: запад
+    Translation: west
+  - Word: восток
+    Translation: east
+  - Word: северный
+    Translation: northern
+  - Word: южный
+    Translation: southern
+  - Word: западный
+    Translation: western
+  - Word: восточный
+    Translation: eastern
+  - Word: компас
+    Translation: compass
+  - Word: сторона
+    Translation: side
+  - Word: где
+    Translation: where
+  - Word: встать (встаёт)
+    Translation: to rise
+  - Word: показывать
+    Translation: to show
+  - Word: карта
+    Translation: map
+  - Word: путешествовать
+    Translation: to travel
+  - Word: право
+    Translation: right
+  - Word: лево
+    Translation: left
+  - Word: прямо
+    Translation: straight
+
+Phrases:
+  - Phrase: Север есть холодный.
+    Translation: The north is cold.
+  - Phrase: Юг есть тёплый.
+    Translation: The south is warm.
+  - Phrase: Солнце встаёт на востоке.
+    Translation: The sun rises in the east.
+  - Phrase: Оно западает на западе.
+    Translation: It sets in the west.
+  - Phrase: Это есть северная сторона.
+    Translation: This is the northern side.
+  - Phrase: Живём на юге.
+    Translation: We live in the south.
+  - Phrase: Компас показывает север.
+    Translation: The compass shows north.
+  - Phrase: Восток есть там.
+    Translation: The east is there.
+  - Phrase: Западный ветер дует.
+    Translation: A western wind is blowing.
+  - Phrase: Идём к юго-западу.
+    Translation: We are going to the southwest.
+  - Phrase: Это есть северо-западный регион.
+    Translation: This is the northwestern region.
+  - Phrase: Сторона на карте показывает запад.
+    Translation: The side on the map shows west.
+  - Phrase: Юго-восток есть там, где греет солнце.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Идём до южной стороны.
+    Translation: We are going to the southern side.
+  - Phrase: Он путешествует восточно.
+    Translation: He travels eastward.
+  - Phrase: На севере есть снег.
+    Translation: In the north there is snow.
+  - Phrase: Южные края суть тёплые.
+    Translation: The southern regions are warm.
+  - Phrase: Запад есть лево на карте.
+    Translation: West is left on the map.
+  - Phrase: Восточная музыка есть интересная.
+    Translation: Eastern music is interesting.
+  - Phrase: Смотрим к северу.
+    Translation: We are looking to the north.
+  - Phrase: Идём сейчас вправо и потом прямо.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Russian:
+    - ветер: undefined
+    - восток: undefined
+    - востоке: undefined
+    - восточная: undefined
+    - восточно: undefined
+    - восточный: undefined
+    - вправо: undefined
+    - встать: undefined
+    - встаёт: undefined
+    - где: undefined
+    - греет: undefined
+    - до: undefined
+    - дует: undefined
+    - есть: undefined
+    - живём: undefined
+    - запад: undefined
+    - западает: undefined
+    - западе: undefined
+    - западный: undefined
+    - и: undefined
+    - идём: undefined
+    - интересная: undefined
+    - к: undefined
+    - карта: undefined
+    - карте: undefined
+    - компас: undefined
+    - края: undefined
+    - лево: undefined
+    - музыка: undefined
+    - на: undefined
+    - он: undefined
+    - оно: undefined
+    - показывает: undefined
+    - показывать: undefined
+    - потом: undefined
+    - право: undefined
+    - прямо: undefined
+    - путешествовать: undefined
+    - путешествует: undefined
+    - регион: undefined
+    - север: undefined
+    - севере: undefined
+    - северная: undefined
+    - северный: undefined
+    - северо-западный: undefined
+    - северу: undefined
+    - сейчас: undefined
+    - смотрим: undefined
+    - снег: undefined
+    - солнце: undefined
+    - сторона: undefined
+    - стороны: undefined
+    - суть: undefined
+    - там: undefined
+    - тёплые: undefined
+    - тёплый: undefined
+    - холодный: undefined
+    - это: undefined
+    - юг: undefined
+    - юге: undefined
+    - юго-восток: undefined
+    - юго-западу: undefined
+    - южной: undefined
+    - южные: undefined
+    - южный: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - blowing: undefined
+    - cold: undefined
+    - compass: undefined
+    - east: undefined
+    - eastern: undefined
+    - eastward: undefined
+    - going: undefined
+    - he: undefined
+    - in: undefined
+    - interesting: undefined
+    - is: undefined
+    - it: undefined
+    - left: undefined
+    - live: undefined
+    - looking: undefined
+    - map: undefined
+    - music: undefined
+    - north: undefined
+    - northern: undefined
+    - northwestern: undefined
+    - now: undefined
+    - on: undefined
+    - region: undefined
+    - regions: undefined
+    - right: undefined
+    - rise: undefined
+    - rises: undefined
+    - sets: undefined
+    - show: undefined
+    - shows: undefined
+    - side: undefined
+    - snow: undefined
+    - south: undefined
+    - southeast: undefined
+    - southern: undefined
+    - southwest: undefined
+    - straight: undefined
+    - sun: undefined
+    - the: undefined
+    - then: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - travel: undefined
+    - travels: undefined
+    - warm: undefined
+    - warms: undefined
+    - we: undefined
+    - west: undefined
+    - western: undefined
+    - where: undefined
+    - wind: undefined

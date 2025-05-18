@@ -1,0 +1,200 @@
+Skill:
+  Name: Rooms/furniture
+  Id: 12
+
+New words:
+  - Word: rum
+    Translation: room
+  - Word: stół
+    Translation: table
+  - Word: stólčk
+    Translation: chair
+  - Word: poduška
+    Translation: pillow
+  - Word: postel
+    Translation: bed
+  - Word: wokno
+    Translation: window
+  - Word: dźwidr
+    Translation: doors
+  - Word: šafa
+    Translation: wardrobe
+  - Word: truhła
+    Translation: chest
+  - Word: połčka
+    Translation: shelf
+  - Word: držać (drži)
+    Translation: to hold
+  - Word: wisać (wisi)
+    Translation: to hang
+  - Word: stěna
+    Translation: wall
+  - Word: lampa
+    Translation: lamp
+  - Word: dawać
+    Translation: to give
+
+Phrases:
+  - Phrase: Rum je ćopły a ćichi.
+    Translation: The room is warm and quiet.
+  - Phrase: Stół stoji w srjedźišću ruma.
+    Translation: The table stands in the middle of the room.
+  - Phrase: Stólčk je blisko stola.
+    Translation: The chair is near the table.
+  - Phrase: Postel je mjechka.
+    Translation: The bed is soft.
+  - Phrase: Wokno je wotewrjene.
+    Translation: The window is open.
+  - Phrase: Dźwidry su zawrjene.
+    Translation: The doors are closed.
+  - Phrase: Šafa ma mnoho drasty.
+    Translation: The wardrobe has many clothes.
+  - Phrase: Truhła je pod postelju.
+    Translation: The chest is under the bed.
+  - Phrase: Połčka drži knihi.
+    Translation: The shelf holds books.
+  - Phrase: Lampa swěći nad stolom.
+    Translation: The lamp shines above the table.
+  - Phrase: Rum ma dwě wokna.
+    Translation: The room has two windows.
+  - Phrase: Na stole leži kniha.
+    Translation: A book is lying on the table.
+  - Phrase: Stólčk je stary, ale komfortny.
+    Translation: The chair is old, but comfortable.
+  - Phrase: Postel je nowa.
+    Translation: The bed is new.
+  - Phrase: Dźwidry wjedu do kuchnje.
+    Translation: The doors lead to the kitchen.
+  - Phrase: Šafa je połna.
+    Translation: The wardrobe is full.
+  - Phrase: Truhła je z drjewa.
+    Translation: The chest is made of wood.
+  - Phrase: Połčka wisi na stěnje.
+    Translation: The shelf hangs on the wall.
+  - Phrase: Lampa dawa swětło.
+    Translation: The lamp gives light.
+  - Phrase: W rumje je měrnje.
+    Translation: It is quiet in the room.
+
+Mini-dictionary:
+  Upper Sorbian:
+    - a: undefined
+    - ale: undefined
+    - blisko: undefined
+    - dawa: undefined
+    - dawać: undefined
+    - do: undefined
+    - drasty: undefined
+    - drjewa: undefined
+    - držać: undefined
+    - drži: undefined
+    - dwě: undefined
+    - dźwidr: undefined
+    - dźwidry: undefined
+    - je: undefined
+    - kniha: undefined
+    - knihi: undefined
+    - komfortny: undefined
+    - kuchnje: undefined
+    - lampa: undefined
+    - leži: undefined
+    - ma: undefined
+    - mjechka: undefined
+    - mnoho: undefined
+    - měrnje: undefined
+    - na: undefined
+    - nad: undefined
+    - nowa: undefined
+    - pod: undefined
+    - poduška: undefined
+    - postel: undefined
+    - postelju: undefined
+    - połna: undefined
+    - połčka: undefined
+    - rum: undefined
+    - ruma: undefined
+    - rumje: undefined
+    - srjedźišću: undefined
+    - stary: undefined
+    - stoji: undefined
+    - stola: undefined
+    - stole: undefined
+    - stolom: undefined
+    - stólčk: undefined
+    - stół: undefined
+    - stěna: undefined
+    - stěnje: undefined
+    - su: undefined
+    - swětło: undefined
+    - swěći: undefined
+    - truhła: undefined
+    - w: undefined
+    - wisać: undefined
+    - wisi: undefined
+    - wjedu: undefined
+    - wokna: undefined
+    - wokno: undefined
+    - wotewrjene: undefined
+    - z: undefined
+    - zawrjene: undefined
+    - ćichi: undefined
+    - ćopły: undefined
+    - šafa: undefined
+  English:
+    - a: undefined
+    - above: undefined
+    - and: undefined
+    - are: undefined
+    - bed: undefined
+    - book: undefined
+    - books: undefined
+    - but: undefined
+    - chair: undefined
+    - chest: undefined
+    - closed: undefined
+    - clothes: undefined
+    - comfortable: undefined
+    - doors: undefined
+    - full: undefined
+    - give: undefined
+    - gives: undefined
+    - hang: undefined
+    - hangs: undefined
+    - has: undefined
+    - hold: undefined
+    - holds: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - kitchen: undefined
+    - lamp: undefined
+    - lead: undefined
+    - light: undefined
+    - lying: undefined
+    - made: undefined
+    - many: undefined
+    - middle: undefined
+    - near: undefined
+    - new: undefined
+    - of: undefined
+    - old: undefined
+    - on: undefined
+    - open: undefined
+    - pillow: undefined
+    - quiet: undefined
+    - room: undefined
+    - shelf: undefined
+    - shines: undefined
+    - soft: undefined
+    - stands: undefined
+    - table: undefined
+    - the: undefined
+    - to: undefined
+    - two: undefined
+    - under: undefined
+    - wall: undefined
+    - wardrobe: undefined
+    - warm: undefined
+    - window: undefined
+    - windows: undefined
+    - wood: undefined

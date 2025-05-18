@@ -1,0 +1,190 @@
+Skill:
+  Name: Transport/Vehicles/Car
+  Id: 23
+
+New words:
+  - Word: avto
+    Translation: car
+  - Word: avtobus
+    Translation: bus
+  - Word: pojezd
+    Translation: train
+  - Word: kolo
+    Translation: bicycle
+  - Word: stancija
+    Translation: station
+  - Word: šofer
+    Translation: driver
+  - Word: doroga
+    Translation: road
+  - Word: most
+    Translation: bridge
+  - Word: brzina
+    Translation: speed
+  - Word: svetofor
+    Translation: traffic light
+  - Word: jehati (jede)
+    Translation: to go/drive
+  - Word: sěsti (sede)
+    Translation: to sit
+  - Word: svezati (sveže)
+    Translation: to connect/tie
+  - Word: razbity
+    Translation: broken
+  - Word: ostražny
+    Translation: careful
+
+Phrases:
+  - Phrase: Avto stoji na ulici.
+    Translation: The car is standing on the street.
+  - Phrase: Autobus jede do centra.
+    Translation: The bus goes to the center.
+  - Phrase: Pojezd jede na stanciju.
+    Translation: The train goes to the station.
+  - Phrase: Tu jest sěděnje. Možna sěsti
+    Translation: Here is a seat. One can sit.
+  - Phrase: Stancija jest velika.
+    Translation: The station is big.
+  - Phrase: Šofer jede brzo.
+    Translation: The driver drives fast.
+  - Phrase: Doroga ide črěz lěs.
+    Translation: The road goes through the forest.
+  - Phrase: Most sveže dva grada.
+    Translation: The bridge connects two cities.
+  - Phrase: Brzina jest važna za bezpečnosti na ulici.
+    Translation: A speed limit is important for the security on the street.
+  - Phrase: Svetofor pokazuje črveno.
+    Translation: The traffic light shows red.
+  - Phrase: Avto jest novo i krasno.
+    Translation: The car is new and beautiful.
+  - Phrase: Autobus vede mnogo ljudij.
+    Translation: The bus carries many people.
+  - Phrase: Pojezd jede na sěver.
+    Translation: The train goes to the north.
+  - Phrase: Kolo jest prazbito.
+    Translation: The bicycle is broken.
+  - Phrase: Stancija jest otvorena.
+    Translation: The station is open.
+  - Phrase: Šofer jest ostražny.
+    Translation: The driver is careful.
+  - Phrase: Doroga jest široka.
+    Translation: The road is wide.
+  - Phrase: Most jest vysoky.
+    Translation: The bridge is high.
+  - Phrase: Brzina jest ograničena.
+    Translation: The speed is limited.
+  - Phrase: Svetofor pokazuje zeleno.
+    Translation: The traffic light shows green.
+
+Mini-dictionary:
+  Interslavic:
+    - autobus: undefined
+    - avto: undefined
+    - avtobus: undefined
+    - bezpečnosti: undefined
+    - brzina: undefined
+    - brzo: undefined
+    - centra: undefined
+    - do: undefined
+    - doroga: undefined
+    - dva: undefined
+    - grada: undefined
+    - i: undefined
+    - ide: undefined
+    - jede: undefined
+    - jehati: undefined
+    - jest: undefined
+    - kolo: undefined
+    - krasno: undefined
+    - ljudij: undefined
+    - lěs: undefined
+    - mnogo: undefined
+    - most: undefined
+    - možna: undefined
+    - na: undefined
+    - novo: undefined
+    - ograničena: undefined
+    - ostražny: undefined
+    - otvorena: undefined
+    - pojezd: undefined
+    - pokazuje: undefined
+    - prazbito: undefined
+    - razbity: undefined
+    - sede: undefined
+    - stancija: undefined
+    - stanciju: undefined
+    - stoji: undefined
+    - svetofor: undefined
+    - svezati: undefined
+    - sveže: undefined
+    - sěděnje: undefined
+    - sěsti: undefined
+    - sěver: undefined
+    - tu: undefined
+    - ulici: undefined
+    - važna: undefined
+    - vede: undefined
+    - velika: undefined
+    - vysoky: undefined
+    - za: undefined
+    - zeleno: undefined
+    - črveno: undefined
+    - črěz: undefined
+    - široka: undefined
+    - šofer: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - beautiful: undefined
+    - bicycle: undefined
+    - big: undefined
+    - bridge: undefined
+    - broken: undefined
+    - bus: undefined
+    - can: undefined
+    - car: undefined
+    - careful: undefined
+    - carries: undefined
+    - center: undefined
+    - cities: undefined
+    - connect/tie: undefined
+    - connects: undefined
+    - driver: undefined
+    - drives: undefined
+    - fast: undefined
+    - for: undefined
+    - forest: undefined
+    - go/drive: undefined
+    - goes: undefined
+    - green: undefined
+    - here: undefined
+    - high: undefined
+    - important: undefined
+    - is: undefined
+    - light: undefined
+    - limit: undefined
+    - limited: undefined
+    - many: undefined
+    - new: undefined
+    - north: undefined
+    - on: undefined
+    - one: undefined
+    - open: undefined
+    - people: undefined
+    - red: undefined
+    - road: undefined
+    - seat: undefined
+    - security: undefined
+    - shows: undefined
+    - sit: undefined
+    - speed: undefined
+    - standing: undefined
+    - station: undefined
+    - street: undefined
+    - the: undefined
+    - through: undefined
+    - to: undefined
+    - traffic: undefined
+    - train: undefined
+    - two: undefined
+    - wide: undefined

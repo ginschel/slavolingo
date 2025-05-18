@@ -1,0 +1,201 @@
+Skill:
+  Name: Seasons of the year (future tense)
+  Id: 33
+
+New words:
+  - Word: lěto
+    Translation: summer
+  - Word: jesenj
+    Translation: autumn
+  - Word: zima
+    Translation: winter
+  - Word: vesna
+    Translation: spring
+  - Word: sezon
+    Translation: season
+  - Word: byti
+    Translation: to be
+  - Word: budu
+    Translation: I will be
+  - Word: buděš
+    Translation: you will be
+  - Word: bude
+    Translation: he/she/it will be
+  - Word: budemo
+    Translation: we will be
+  - Word: budete
+    Translation: you will be
+  - Word: budut
+    Translation: they will be
+
+Phrases:
+  - Phrase: V lětu bude teplo.
+    Translation: In the summer it will be warm.
+  - Phrase: V jesenji budemo viděti padajuči listy.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: V zimě budete igrati s sněgom.
+    Translation: In the winter you will play with snow.
+  - Phrase: Vesna prinese cvěty.
+    Translation: Spring will bring flowers.
+  - Phrase: Sezon bude izměnjati se četyri razy.
+    Translation: The season will change four times.
+  - Phrase: V zimě bude padati sněg.
+    Translation: In the winter it will snow.
+  - Phrase: Vesnoj rastut cvěty.
+    Translation: In spring, flowers grow.
+  - Phrase: V lětu jest mnogo slonca.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: V jesenji budeš mnogo trpěti črez dožd.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Vozduh v zimě bude hladny.
+    Translation: The air in winter will be cold.
+  - Phrase: Lěto jest sezonom odpočinka pri jezeru.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Jesenj ima mnogo kolorov.
+    Translation: Autumn has many colors.
+  - Phrase: Zima ne jest dobra za športov.
+    Translation: Winter is not good for sports.
+  - Phrase: Vesna jest nudna.
+    Translation: Spring is boring.
+  - Phrase: Sezony se měňajut četyri razy v roku.
+    Translation: The seasons change four times a year.
+  - Phrase: Skoro končaje se lěto.
+    Translation: Summer will soon end.
+  - Phrase: V jesenji toliko pada dožd.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Zima ima mnogo sněga.
+    Translation: Winter has a lot of snow.
+  - Phrase: Oni budut viděti zeleny krajobraz.
+    Translation: They will see a green landscape.
+  - Phrase: Solnce bude světiti silno v lětu.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Interslavic:
+    - bude: undefined
+    - budemo: undefined
+    - budete: undefined
+    - budeš: undefined
+    - budu: undefined
+    - budut: undefined
+    - buděš: undefined
+    - byti: undefined
+    - cvěty: undefined
+    - dobra: undefined
+    - dožd: undefined
+    - hladny: undefined
+    - igrati: undefined
+    - ima: undefined
+    - izměnjati: undefined
+    - jesenj: undefined
+    - jesenji: undefined
+    - jest: undefined
+    - jezeru: undefined
+    - kolorov: undefined
+    - končaje: undefined
+    - krajobraz: undefined
+    - listy: undefined
+    - lěto: undefined
+    - lětu: undefined
+    - mnogo: undefined
+    - měňajut: undefined
+    - ne: undefined
+    - nudna: undefined
+    - odpočinka: undefined
+    - oni: undefined
+    - pada: undefined
+    - padajuči: undefined
+    - padati: undefined
+    - pri: undefined
+    - prinese: undefined
+    - rastut: undefined
+    - razy: undefined
+    - roku: undefined
+    - s: undefined
+    - se: undefined
+    - sezon: undefined
+    - sezonom: undefined
+    - sezony: undefined
+    - silno: undefined
+    - skoro: undefined
+    - slonca: undefined
+    - sněg: undefined
+    - sněga: undefined
+    - sněgom: undefined
+    - solnce: undefined
+    - světiti: undefined
+    - teplo: undefined
+    - toliko: undefined
+    - trpěti: undefined
+    - v: undefined
+    - vesna: undefined
+    - vesnoj: undefined
+    - viděti: undefined
+    - vozduh: undefined
+    - za: undefined
+    - zeleny: undefined
+    - zima: undefined
+    - zimě: undefined
+    - četyri: undefined
+    - črez: undefined
+    - športov: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - autumn: undefined
+    - be: undefined
+    - because: undefined
+    - boring: undefined
+    - bring: undefined
+    - by: undefined
+    - change: undefined
+    - cold: undefined
+    - colors: undefined
+    - end: undefined
+    - falling: undefined
+    - flowers: undefined
+    - for: undefined
+    - four: undefined
+    - good: undefined
+    - green: undefined
+    - grow: undefined
+    - has: undefined
+    - he/she/it: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lake: undefined
+    - landscape: undefined
+    - leaves: undefined
+    - lot: undefined
+    - many: undefined
+    - not: undefined
+    - of: undefined
+    - play: undefined
+    - rain: undefined
+    - rest: undefined
+    - season: undefined
+    - seasons: undefined
+    - see: undefined
+    - shine: undefined
+    - snow: undefined
+    - soon: undefined
+    - sports: undefined
+    - spring: undefined
+    - strongly: undefined
+    - suffer: undefined
+    - summer: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - they: undefined
+    - times: undefined
+    - to: undefined
+    - warm: undefined
+    - we: undefined
+    - will: undefined
+    - winter: undefined
+    - with: undefined
+    - year: undefined
+    - you: undefined

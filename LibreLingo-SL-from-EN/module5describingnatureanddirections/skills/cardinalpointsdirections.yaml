@@ -1,0 +1,205 @@
+Skill:
+  Name: Cardinal points/directions
+  Id: 18
+
+New words:
+  - Word: sever
+    Translation: north
+  - Word: jug
+    Translation: south
+  - Word: zahod
+    Translation: west
+  - Word: vzhod
+    Translation: east
+  - Word: severni
+    Translation: northern
+  - Word: južni
+    Translation: southern
+  - Word: zahodni
+    Translation: western
+  - Word: vzhodni
+    Translation: eastern
+  - Word: kompas
+    Translation: compass
+  - Word: stran
+    Translation: side
+  - Word: kje
+    Translation: where
+  - Word: vstati (vstane)
+    Translation: to rise
+  - Word: kazati
+    Translation: to show
+  - Word: zemljevid
+    Translation: map
+  - Word: potovati
+    Translation: to travel
+  - Word: desno
+    Translation: right
+  - Word: levo
+    Translation: left
+  - Word: naravnost
+    Translation: straight
+
+Phrases:
+  - Phrase: Sever je hladen.
+    Translation: The north is cold.
+  - Phrase: Jug je topel.
+    Translation: The south is warm.
+  - Phrase: Sonce vstane na vzhodu.
+    Translation: The sun rises in the east.
+  - Phrase: Ono zahaja na zahodu.
+    Translation: It sets in the west.
+  - Phrase: To je severna stran.
+    Translation: This is the northern side.
+  - Phrase: Živimo na jugu.
+    Translation: We live in the south.
+  - Phrase: Kompas kaže sever.
+    Translation: The compass shows north.
+  - Phrase: Vzhod je tam.
+    Translation: The east is there.
+  - Phrase: Zahodni veter piha.
+    Translation: A western wind is blowing.
+  - Phrase: Gremo proti jugozahodu.
+    Translation: We are going to the southwest.
+  - Phrase: To je severozahodna regija.
+    Translation: This is the northwestern region.
+  - Phrase: Stran na zemljevidu kaže zahod.
+    Translation: The side on the map shows west.
+  - Phrase: Jugovzhod je tam, kjer greje sonce.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Gremo na južno stran.
+    Translation: We are going to the southern side.
+  - Phrase: On potuje vzhodno.
+    Translation: He travels eastward.
+  - Phrase: Na severu je sneg.
+    Translation: In the north there is snow.
+  - Phrase: Južni kraji so topli.
+    Translation: The southern regions are warm.
+  - Phrase: Zahod je levo na zemljevidu.
+    Translation: West is left on the map.
+  - Phrase: Vzhodna glasba je zanimiva.
+    Translation: Eastern music is interesting.
+  - Phrase: Gledamo na sever.
+    Translation: We are looking to the north.
+  - Phrase: Gremo zdaj desno in potem naravnost.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Slovenian:
+    - desno: undefined
+    - glasba: undefined
+    - gledamo: undefined
+    - greje: undefined
+    - gremo: undefined
+    - hladen: undefined
+    - in: undefined
+    - je: undefined
+    - jug: undefined
+    - jugovzhod: undefined
+    - jugozahodu: undefined
+    - jugu: undefined
+    - južni: undefined
+    - južno: undefined
+    - kazati: undefined
+    - kaže: undefined
+    - kje: undefined
+    - kjer: undefined
+    - kompas: undefined
+    - kraji: undefined
+    - levo: undefined
+    - na: undefined
+    - naravnost: undefined
+    - on: undefined
+    - ono: undefined
+    - piha: undefined
+    - potem: undefined
+    - potovati: undefined
+    - potuje: undefined
+    - proti: undefined
+    - regija: undefined
+    - sever: undefined
+    - severna: undefined
+    - severni: undefined
+    - severozahodna: undefined
+    - severu: undefined
+    - sneg: undefined
+    - so: undefined
+    - sonce: undefined
+    - stran: undefined
+    - tam: undefined
+    - to: undefined
+    - topel: undefined
+    - topli: undefined
+    - veter: undefined
+    - vstane: undefined
+    - vstati: undefined
+    - vzhod: undefined
+    - vzhodna: undefined
+    - vzhodni: undefined
+    - vzhodno: undefined
+    - vzhodu: undefined
+    - zahaja: undefined
+    - zahod: undefined
+    - zahodni: undefined
+    - zahodu: undefined
+    - zanimiva: undefined
+    - zdaj: undefined
+    - zemljevid: undefined
+    - zemljevidu: undefined
+    - živimo: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - blowing: undefined
+    - cold: undefined
+    - compass: undefined
+    - east: undefined
+    - eastern: undefined
+    - eastward: undefined
+    - going: undefined
+    - he: undefined
+    - in: undefined
+    - interesting: undefined
+    - is: undefined
+    - it: undefined
+    - left: undefined
+    - live: undefined
+    - looking: undefined
+    - map: undefined
+    - music: undefined
+    - north: undefined
+    - northern: undefined
+    - northwestern: undefined
+    - now: undefined
+    - on: undefined
+    - region: undefined
+    - regions: undefined
+    - right: undefined
+    - rise: undefined
+    - rises: undefined
+    - sets: undefined
+    - show: undefined
+    - shows: undefined
+    - side: undefined
+    - snow: undefined
+    - south: undefined
+    - southeast: undefined
+    - southern: undefined
+    - southwest: undefined
+    - straight: undefined
+    - sun: undefined
+    - the: undefined
+    - then: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - travel: undefined
+    - travels: undefined
+    - warm: undefined
+    - warms: undefined
+    - we: undefined
+    - west: undefined
+    - western: undefined
+    - where: undefined
+    - wind: undefined

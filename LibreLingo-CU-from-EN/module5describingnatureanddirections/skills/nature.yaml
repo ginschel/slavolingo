@@ -1,0 +1,213 @@
+Skill:
+  Name: Nature
+  Id: 15
+
+New words:
+  - Word: рѣка
+    Translation: river
+  - Word: чрѣзъ
+    Translation: through
+  - Word: гора
+    Translation: mountain
+  - Word: долина
+    Translation: valley
+  - Word: лѣсъ
+    Translation: forest
+  - Word: трава
+    Translation: grass
+  - Word: цвѣтъ
+    Translation: flower
+  - Word: роза
+    Translation: rose
+  - Word: расти (растєтъ)
+    Translation: to grow
+  - Word: зємлꙗ
+    Translation: earth
+  - Word: камєнь
+    Translation: stone
+  - Word: полиѥ
+    Translation: field
+  - Word: дꙋбъ
+    Translation: oak
+  - Word: лꙋна
+    Translation: moon
+  - Word: цвѣсти (цвѣтєтъ)
+    Translation: to bloom
+  - Word: дрѣво
+    Translation: tree
+  - Word: лєжати (лєжитъ)
+    Translation: to lie
+  - Word: мєждꙋ
+    Translation: between
+
+Phrases:
+  - Phrase: Рѣка тєчєтъ чрѣзъ долинѫ.
+    Translation: The river flows through the valley.
+  - Phrase: Гора ѥстъ вꙑсока.
+    Translation: The mountain is high.
+  - Phrase: Мꙑ идємъ въ лѣсъ.
+    Translation: We are going to the forest.
+  - Phrase: Трава ѥстъ зєлєна.
+    Translation: The grass is green.
+  - Phrase: Цвѣтꙑ красьно цвѣтꙋтъ.
+    Translation: The flowers bloom beautifully.
+  - Phrase: Онъ стои на камєниѭ.
+    Translation: He is standing on the stone.
+  - Phrase: Зємлꙗ ѥстъ мокра.
+    Translation: The earth is wet.
+  - Phrase: Роза растєтъ на полиѭ.
+    Translation: The rose grows in the field.
+  - Phrase: Долина лєжитъ мєждꙋ горами.
+    Translation: The valley lies between the mountains.
+  - Phrase: Полиѥ ѥстъ широкъо.
+    Translation: The field is wide.
+  - Phrase: Они идѫтъ чрѣзъ лєсъ съ мьного дрѣвами.
+    Translation: They are going through the forest with many trees.
+  - Phrase: Трава растєтъ бързо.
+    Translation: The grass grows fast.
+  - Phrase: Камєни сѫтъ тѧжькє.
+    Translation: The stones are heavy.
+  - Phrase: Цвѣтъ растєтъ изъ зємлѥ.
+    Translation: A flower grows from the earth.
+  - Phrase: Вода идєтъ до рѣкꙑ.
+    Translation: Water goes to the river.
+  - Phrase: Полиѥ ѥстъ за домомъ.
+    Translation: The field is behind the house.
+  - Phrase: Идємъ къ дꙋбꙋ.
+    Translation: We are going towards the oak.
+  - Phrase: Лꙋна тꙋ дьнь красьна
+    Translation: The moon today is beautiful
+  - Phrase: Мꙑ стоимъ на зємли.
+    Translation: We are standing on the earth.
+  - Phrase: Они глѧдаѭтъ въ долинѫ.
+    Translation: They are looking into the valley.
+  - Phrase: Рѣка идєтъ мєждꙋ полиꙗми.
+    Translation: The river goes between the fields.
+
+Mini-dictionary:
+  Church Slavonic:
+    - бързо: undefined
+    - вода: undefined
+    - въ: undefined
+    - вꙑсока: undefined
+    - глѧдаѭтъ: undefined
+    - гора: undefined
+    - горами: undefined
+    - до: undefined
+    - долина: undefined
+    - долинѫ: undefined
+    - домомъ: undefined
+    - дрѣвами: undefined
+    - дрѣво: undefined
+    - дьнь: undefined
+    - дꙋбъ: undefined
+    - дꙋбꙋ: undefined
+    - за: undefined
+    - зєлєна: undefined
+    - зємли: undefined
+    - зємлѥ: undefined
+    - зємлꙗ: undefined
+    - идємъ: undefined
+    - идєтъ: undefined
+    - идѫтъ: undefined
+    - изъ: undefined
+    - камєни: undefined
+    - камєниѭ: undefined
+    - камєнь: undefined
+    - красьна: undefined
+    - красьно: undefined
+    - къ: undefined
+    - лєжати: undefined
+    - лєжитъ: undefined
+    - лєсъ: undefined
+    - лѣсъ: undefined
+    - лꙋна: undefined
+    - мокра: undefined
+    - мьного: undefined
+    - мєждꙋ: undefined
+    - мꙑ: undefined
+    - на: undefined
+    - они: undefined
+    - онъ: undefined
+    - полиѥ: undefined
+    - полиѭ: undefined
+    - полиꙗми: undefined
+    - расти: undefined
+    - растєтъ: undefined
+    - роза: undefined
+    - рѣка: undefined
+    - рѣкꙑ: undefined
+    - стои: undefined
+    - стоимъ: undefined
+    - съ: undefined
+    - сѫтъ: undefined
+    - трава: undefined
+    - тєчєтъ: undefined
+    - тѧжькє: undefined
+    - тꙋ: undefined
+    - цвѣсти: undefined
+    - цвѣтъ: undefined
+    - цвѣтєтъ: undefined
+    - цвѣтꙋтъ: undefined
+    - цвѣтꙑ: undefined
+    - чрѣзъ: undefined
+    - широкъо: undefined
+    - ѥстъ: undefined
+  English:
+    - a: undefined
+    - are: undefined
+    - beautiful: undefined
+    - beautifully: undefined
+    - behind: undefined
+    - between: undefined
+    - bloom: undefined
+    - earth: undefined
+    - fast: undefined
+    - field: undefined
+    - fields: undefined
+    - flower: undefined
+    - flowers: undefined
+    - flows: undefined
+    - forest: undefined
+    - from: undefined
+    - goes: undefined
+    - going: undefined
+    - grass: undefined
+    - green: undefined
+    - grow: undefined
+    - grows: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - house: undefined
+    - in: undefined
+    - into: undefined
+    - is: undefined
+    - lie: undefined
+    - lies: undefined
+    - looking: undefined
+    - many: undefined
+    - moon: undefined
+    - mountain: undefined
+    - mountains: undefined
+    - oak: undefined
+    - on: undefined
+    - river: undefined
+    - rose: undefined
+    - standing: undefined
+    - stone: undefined
+    - stones: undefined
+    - the: undefined
+    - they: undefined
+    - through: undefined
+    - to: undefined
+    - today: undefined
+    - towards: undefined
+    - tree: undefined
+    - trees: undefined
+    - valley: undefined
+    - water: undefined
+    - we: undefined
+    - wet: undefined
+    - wide: undefined
+    - with: undefined

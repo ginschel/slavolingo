@@ -1,0 +1,185 @@
+Skill:
+  Name: Buying in the Shop
+  Id: 24
+
+New words:
+  - Word: купить
+    Translation: to buy
+  - Word: продавать
+    Translation: to sell
+  - Word: цена
+    Translation: price
+  - Word: одежда
+    Translation: clothes
+  - Word: сумка
+    Translation: bag
+  - Word: кусок
+    Translation: piece
+  - Word: купец/покупатель
+    Translation: customer
+  - Word: возврат
+    Translation: return
+  - Word: чек
+    Translation: receipt
+  - Word: спрашивать
+    Translation: to ask
+  - Word: свежий
+    Translation: fresh
+
+Phrases:
+  - Phrase: Хочу купить хлеб.
+    Translation: I want to buy bread.
+  - Phrase: Он продаёт мясо.
+    Translation: He sells meat.
+  - Phrase: Цена есть высокая.
+    Translation: The price is high.
+  - Phrase: Одежда есть новая.
+    Translation: The clothes are new.
+  - Phrase: Продавец есть утомлён сегодня.
+    Translation: The seller is tired today.
+  - Phrase: Сумка есть тяжёлая.
+    Translation: The bag is heavy.
+  - Phrase: Кусок сыра есть добрый.
+    Translation: A piece of cheese is good.
+  - Phrase: Купец спрашивает за скидку.
+    Translation: The customer asks for a discount.
+  - Phrase: Возврата нет. Это плохой магазин.
+    Translation: No returns. This is a bad shop.
+  - Phrase: Дам чек продавцу.
+    Translation: I give the receipt to the seller.
+  - Phrase: Она покупает книгу.
+    Translation: She is buying a book.
+  - Phrase: Он продаёт молоко.
+    Translation: He sells milk.
+  - Phrase: Цена масла есть добрая.
+    Translation: The price of butter is good.
+  - Phrase: Колбаса есть свежая.
+    Translation: The sausage is fresh.
+  - Phrase: Продавец даст кусок колбасы.
+    Translation: The seller gives a piece of sausage.
+  - Phrase: Сумка стоит на полу.
+    Translation: The bag is on the floor.
+  - Phrase: Кусок хлеба есть малый.
+    Translation: The piece of bread is small.
+  - Phrase: Купец спрашивает о цене.
+    Translation: The customer asks about the price.
+  - Phrase: Возврат есть до семи дней.
+    Translation: Return is within seven days.
+  - Phrase: Чек есть подписан.
+    Translation: The receipt is signed.
+
+Mini-dictionary:
+  Russian:
+    - возврат: undefined
+    - возврата: undefined
+    - высокая: undefined
+    - дам: undefined
+    - даст: undefined
+    - дней: undefined
+    - до: undefined
+    - добрая: undefined
+    - добрый: undefined
+    - есть: undefined
+    - за: undefined
+    - книгу: undefined
+    - колбаса: undefined
+    - колбасы: undefined
+    - купец: undefined
+    - купец/покупатель: undefined
+    - купить: undefined
+    - кусок: undefined
+    - магазин: undefined
+    - малый: undefined
+    - масла: undefined
+    - молоко: undefined
+    - мясо: undefined
+    - на: undefined
+    - нет: undefined
+    - новая: undefined
+    - о: undefined
+    - одежда: undefined
+    - он: undefined
+    - она: undefined
+    - плохой: undefined
+    - подписан: undefined
+    - покупает: undefined
+    - полу: undefined
+    - продавать: undefined
+    - продавец: undefined
+    - продавцу: undefined
+    - продаёт: undefined
+    - свежая: undefined
+    - свежий: undefined
+    - сегодня: undefined
+    - семи: undefined
+    - скидку: undefined
+    - спрашивает: undefined
+    - спрашивать: undefined
+    - стоит: undefined
+    - сумка: undefined
+    - сыра: undefined
+    - тяжёлая: undefined
+    - утомлён: undefined
+    - хлеб: undefined
+    - хлеба: undefined
+    - хочу: undefined
+    - цена: undefined
+    - цене: undefined
+    - чек: undefined
+    - это: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - are: undefined
+    - ask: undefined
+    - asks: undefined
+    - bad: undefined
+    - bag: undefined
+    - book: undefined
+    - bread: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - cheese: undefined
+    - clothes: undefined
+    - customer: undefined
+    - days: undefined
+    - discount: undefined
+    - floor: undefined
+    - for: undefined
+    - fresh: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - i: undefined
+    - is: undefined
+    - meat: undefined
+    - milk: undefined
+    - new: undefined
+    - no: undefined
+    - of: undefined
+    - on: undefined
+    - piece: undefined
+    - price: undefined
+    - receipt: undefined
+    - return: undefined
+    - returns: undefined
+    - sausage: undefined
+    - sell: undefined
+    - seller: undefined
+    - sells: undefined
+    - seven: undefined
+    - she: undefined
+    - shop: undefined
+    - signed: undefined
+    - small: undefined
+    - the: undefined
+    - this: undefined
+    - tired: undefined
+    - to: undefined
+    - today: undefined
+    - want: undefined
+    - within: undefined

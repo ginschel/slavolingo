@@ -1,0 +1,211 @@
+Skill:
+  Name: Stuff in the kitchen
+  Id: 13
+
+New words:
+  - Word: нож
+    Translation: knife
+  - Word: вилица
+    Translation: fork
+  - Word: ложка
+    Translation: spoon
+  - Word: таљирка
+    Translation: plate
+  - Word: чаша
+    Translation: cup
+  - Word: сољ
+    Translation: salt
+  - Word: пепрец
+    Translation: pepper
+  - Word: цукр
+    Translation: sugar
+  - Word: сковородка
+    Translation: frying pan
+  - Word: горечи
+    Translation: hot
+  - Word: грнец
+    Translation: pot
+  - Word: кухиња
+    Translation: kitchen
+  - Word: варити
+    Translation: to cook
+  - Word: палачинка
+    Translation: pancake
+  - Word: палменј
+    Translation: dumpling
+  - Word: миска
+    Translation: bowl
+
+Phrases:
+  - Phrase: Нож лежи на столу.
+    Translation: The knife is lying on the table.
+  - Phrase: Вилица јест сребрна.
+    Translation: The fork is silver.
+  - Phrase: Ложка јест в сољи.
+    Translation: The spoon is in the salt.
+  - Phrase: Таљирка јест полна једи.
+    Translation: The plate is full of food.
+  - Phrase: Чашка јест напуњена водоју.
+    Translation: The cup is filled with water.
+  - Phrase: Дам до чаја цукр.
+    Translation: I will add sugar to the tea.
+  - Phrase: Много цукра јест в миске.
+    Translation: There is a lot of sugar in the bowl.
+  - Phrase: На сковородке вари моја палачинка.
+    Translation: My pancake is cooking on the frying pan.
+  - Phrase: Грнец јест горечи.
+    Translation: The pot is hot
+  - Phrase: Грнец јест на пламени.
+    Translation: The pot is on the flame.
+  - Phrase: Кухиња јест чиста.
+    Translation: The kitchen is clean.
+  - Phrase: Он је с вилицеју.
+    Translation: He eats with a fork.
+  - Phrase: Она пије из чашки.
+    Translation: She drinks from a cup.
+  - Phrase: Ми готовимо в грницу.
+    Translation: We cook in a pot.
+  - Phrase: На сковородке јест месо.
+    Translation: There is meat in the frying pan.
+  - Phrase: Нож јест остри.
+    Translation: The knife is sharp.
+  - Phrase: Вилице и ноже сут на столу.
+    Translation: Forks and knives are on the table.
+  - Phrase: Ложка јест полна пепрца.
+    Translation: The spoon is full of pepper.
+  - Phrase: Таљирка ложи на подлоге.
+    Translation: The plate is lying on the floor.
+  - Phrase: Конзерва јест пуста.
+    Translation: The can is empty.
+  - Phrase: Кухиња има добри запах в вечеру.
+    Translation: The kitchen has a good smell in the evening.
+
+Mini-dictionary:
+  Serbian:
+    - в: undefined
+    - вари: undefined
+    - варити: undefined
+    - вечеру: undefined
+    - вилица: undefined
+    - вилице: undefined
+    - вилицеју: undefined
+    - водоју: undefined
+    - горечи: undefined
+    - готовимо: undefined
+    - грнец: undefined
+    - грницу: undefined
+    - дам: undefined
+    - до: undefined
+    - добри: undefined
+    - запах: undefined
+    - и: undefined
+    - из: undefined
+    - има: undefined
+    - конзерва: undefined
+    - кухиња: undefined
+    - лежи: undefined
+    - ложи: undefined
+    - ложка: undefined
+    - месо: undefined
+    - ми: undefined
+    - миска: undefined
+    - миске: undefined
+    - много: undefined
+    - моја: undefined
+    - на: undefined
+    - напуњена: undefined
+    - нож: undefined
+    - ноже: undefined
+    - он: undefined
+    - она: undefined
+    - остри: undefined
+    - палачинка: undefined
+    - палменј: undefined
+    - пепрец: undefined
+    - пепрца: undefined
+    - пије: undefined
+    - пламени: undefined
+    - подлоге: undefined
+    - полна: undefined
+    - пуста: undefined
+    - с: undefined
+    - сковородка: undefined
+    - сковородке: undefined
+    - сољ: undefined
+    - сољи: undefined
+    - сребрна: undefined
+    - столу: undefined
+    - сут: undefined
+    - таљирка: undefined
+    - цукр: undefined
+    - цукра: undefined
+    - чаша: undefined
+    - чашка: undefined
+    - чашки: undefined
+    - чаја: undefined
+    - чиста: undefined
+    - је: undefined
+    - једи: undefined
+    - јест: undefined
+  English:
+    - a: undefined
+    - add: undefined
+    - and: undefined
+    - are: undefined
+    - bowl: undefined
+    - can: undefined
+    - clean: undefined
+    - cook: undefined
+    - cooking: undefined
+    - cup: undefined
+    - drinks: undefined
+    - dumpling: undefined
+    - eats: undefined
+    - empty: undefined
+    - evening: undefined
+    - filled: undefined
+    - flame: undefined
+    - floor: undefined
+    - food: undefined
+    - fork: undefined
+    - forks: undefined
+    - from: undefined
+    - frying: undefined
+    - full: undefined
+    - good: undefined
+    - has: undefined
+    - he: undefined
+    - hot: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - kitchen: undefined
+    - knife: undefined
+    - knives: undefined
+    - lot: undefined
+    - lying: undefined
+    - meat: undefined
+    - my: undefined
+    - of: undefined
+    - on: undefined
+    - pan: undefined
+    - pancake: undefined
+    - pepper: undefined
+    - plate: undefined
+    - pot: undefined
+    - salt: undefined
+    - sharp: undefined
+    - she: undefined
+    - silver: undefined
+    - smell: undefined
+    - spoon: undefined
+    - sugar: undefined
+    - table: undefined
+    - tea: undefined
+    - the: undefined
+    - there: undefined
+    - to: undefined
+    - water: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined

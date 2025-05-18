@@ -1,0 +1,170 @@
+Skill:
+  Name: Ordinal Numbers
+  Id: 30
+
+New words:
+  - Word: pierwszy
+    Translation: first
+  - Word: wtóry/drugi
+    Translation: second
+  - Word: trzeci
+    Translation: third
+  - Word: czwarty
+    Translation: fourth
+  - Word: piąty
+    Translation: fifth
+  - Word: szósty
+    Translation: sixth
+  - Word: siódmy
+    Translation: seventh
+  - Word: ósmy
+    Translation: eighth
+  - Word: dziewiąty
+    Translation: ninth
+  - Word: tysięczny
+    Translation: thousandth
+  - Word: setny
+    Translation: hundredth
+  - Word: piąty tysięczny
+    Translation: five thousandth
+  - Word: siódmy tysięczny
+    Translation: seven thousandth
+  - Word: godzina (o pełnej godzinie)
+    Translation: hour
+
+Phrases:
+  - Phrase: o pierwszej godzinie dwadzieścia
+    Translation: at twenty past the first hour
+  - Phrase: o drugiej godzinie dziesięć pięć
+    Translation: at fifteen past the second hour
+  - Phrase: o trzeciej godzinie druga
+    Translation: at two past the third hour
+  - Phrase: o czwartej godzinie siódma
+    Translation: at seven past the fourth hour
+  - Phrase: o piątej godzinie
+    Translation: at the fifth hour
+  - Phrase: o szóstej godzinie
+    Translation: at the sixth hour
+  - Phrase: o ósmej godzinie pięćdziesiąt pięć
+    Translation: at fifty five past the eighth hour
+  - Phrase: o dziewiątej godzinie
+    Translation: at the ninth hour
+  - Phrase: o dziesiątej godzinie
+    Translation: at the tenth hour
+  - Phrase: o dwunastej godzinie
+    Translation: at the twelfth hour
+  - Phrase: o jedenastej godzinie trzydzieści trzy
+    Translation: at thirty three past the eleventh hour
+  - Phrase: setny dolar
+    Translation: hundredth dollar
+  - Phrase: dwustu trzeci komputer
+    Translation: two hundred third computer
+  - Phrase: dwusetny zegarek
+    Translation: two hundredth clock
+  - Phrase: trzydziesty mąż
+    Translation: thirtieth man
+  - Phrase: dwustu pierwszy brat
+    Translation: two hundred first brother
+  - Phrase: sześćsetny rower
+    Translation: six hundredth bicycle
+  - Phrase: osiemset drugi dolar
+    Translation: eight hundred second dollar
+  - Phrase: dziewięćsetny pies
+    Translation: nine hundredth dog
+  - Phrase: czterysta piąta góra
+    Translation: four hundred fifth mountain
+
+Mini-dictionary:
+  Polish:
+    - brat: undefined
+    - czterysta: undefined
+    - czwartej: undefined
+    - czwarty: undefined
+    - dolar: undefined
+    - druga: undefined
+    - drugi: undefined
+    - drugiej: undefined
+    - dwadzieścia: undefined
+    - dwunastej: undefined
+    - dwusetny: undefined
+    - dwustu: undefined
+    - dziesiątej: undefined
+    - dziesięć: undefined
+    - dziewiątej: undefined
+    - dziewiąty: undefined
+    - dziewięćsetny: undefined
+    - godzina: undefined
+    - godzinie: undefined
+    - góra: undefined
+    - jedenastej: undefined
+    - komputer: undefined
+    - mąż: undefined
+    - o: undefined
+    - osiemset: undefined
+    - pełnej: undefined
+    - pierwszej: undefined
+    - pierwszy: undefined
+    - pies: undefined
+    - piąta: undefined
+    - piątej: undefined
+    - piąty: undefined
+    - pięć: undefined
+    - pięćdziesiąt: undefined
+    - rower: undefined
+    - setny: undefined
+    - siódma: undefined
+    - siódmy: undefined
+    - sześćsetny: undefined
+    - szóstej: undefined
+    - szósty: undefined
+    - trzeci: undefined
+    - trzeciej: undefined
+    - trzy: undefined
+    - trzydziesty: undefined
+    - trzydzieści: undefined
+    - tysięczny: undefined
+    - wtóry/drugi: undefined
+    - zegarek: undefined
+    - ósmej: undefined
+    - ósmy: undefined
+  English:
+    - at: undefined
+    - bicycle: undefined
+    - brother: undefined
+    - clock: undefined
+    - computer: undefined
+    - dog: undefined
+    - dollar: undefined
+    - eight: undefined
+    - eighth: undefined
+    - eleventh: undefined
+    - fifteen: undefined
+    - fifth: undefined
+    - fifty: undefined
+    - first: undefined
+    - five: undefined
+    - four: undefined
+    - fourth: undefined
+    - hour: undefined
+    - hundred: undefined
+    - hundredth: undefined
+    - man: undefined
+    - mountain: undefined
+    - nine: undefined
+    - ninth: undefined
+    - past: undefined
+    - second: undefined
+    - seven: undefined
+    - seventh: undefined
+    - six: undefined
+    - sixth: undefined
+    - tenth: undefined
+    - the: undefined
+    - third: undefined
+    - thirtieth: undefined
+    - thirty: undefined
+    - thousandth: undefined
+    - three: undefined
+    - twelfth: undefined
+    - twenty: undefined
+    - two: undefined

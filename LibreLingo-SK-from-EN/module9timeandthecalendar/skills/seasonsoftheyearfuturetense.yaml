@@ -1,0 +1,199 @@
+Skill:
+  Name: Seasons of the year (future tense)
+  Id: 33
+
+New words:
+  - Word: leto
+    Translation: summer
+  - Word: jeseň
+    Translation: autumn
+  - Word: zima
+    Translation: winter
+  - Word: jar
+    Translation: spring
+  - Word: ročné obdobie
+    Translation: season
+  - Word: byť
+    Translation: to be
+  - Word: budem
+    Translation: I will be
+  - Word: budeš
+    Translation: you will be
+  - Word: bude
+    Translation: he/she/it will be
+  - Word: budeme
+    Translation: we will be
+  - Word: budete
+    Translation: you will be
+  - Word: budú
+    Translation: they will be
+
+Phrases:
+  - Phrase: V lete bude teplo.
+    Translation: In the summer it will be warm.
+  - Phrase: Na jeseň budeme vidieť padať lístie.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: V zime budete hrať so snehom.
+    Translation: In the winter you will play with snow.
+  - Phrase: Jar prinesie kvety.
+    Translation: Spring will bring flowers.
+  - Phrase: Ročné obdobie sa bude meniť štyri razy.
+    Translation: The season will change four times.
+  - Phrase: V zime bude padať sneh.
+    Translation: In the winter it will snow.
+  - Phrase: Na jar rastú kvety.
+    Translation: In spring, flowers grow.
+  - Phrase: V lete je veľa slnka.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: Na jeseň budeš veľmi trpieť kvôli dažďu.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Vzduch v zime bude chladný.
+    Translation: The air in winter will be cold.
+  - Phrase: Leto je obdobie odpočinku pri jazere.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Jeseň má veľa farieb.
+    Translation: Autumn has many colors.
+  - Phrase: Zima nie je dobrá pre športovcov.
+    Translation: Winter is not good for sports.
+  - Phrase: Jar je nudná.
+    Translation: Spring is boring.
+  - Phrase: Ročné obdobia sa menia štyri razy v roku.
+    Translation: The seasons change four times a year.
+  - Phrase: Skoro končí sa leto.
+    Translation: Summer will soon end.
+  - Phrase: Na jeseň toľko prší.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Zima má veľa snehu.
+    Translation: Winter has a lot of snow.
+  - Phrase: Oni budú vidieť zelenú krajinu.
+    Translation: They will see a green landscape.
+  - Phrase: Slnko bude svietiť silno v lete.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Slovak:
+    - bude: undefined
+    - budem: undefined
+    - budeme: undefined
+    - budete: undefined
+    - budeš: undefined
+    - budú: undefined
+    - byť: undefined
+    - chladný: undefined
+    - dažďu: undefined
+    - dobrá: undefined
+    - farieb: undefined
+    - hrať: undefined
+    - jar: undefined
+    - jazere: undefined
+    - je: undefined
+    - jeseň: undefined
+    - končí: undefined
+    - krajinu: undefined
+    - kvety: undefined
+    - kvôli: undefined
+    - lete: undefined
+    - leto: undefined
+    - lístie: undefined
+    - menia: undefined
+    - meniť: undefined
+    - má: undefined
+    - na: undefined
+    - nie: undefined
+    - nudná: undefined
+    - obdobia: undefined
+    - obdobie: undefined
+    - odpočinku: undefined
+    - oni: undefined
+    - padať: undefined
+    - pre: undefined
+    - pri: undefined
+    - prinesie: undefined
+    - prší: undefined
+    - rastú: undefined
+    - razy: undefined
+    - roku: undefined
+    - ročné: undefined
+    - sa: undefined
+    - silno: undefined
+    - skoro: undefined
+    - slnka: undefined
+    - slnko: undefined
+    - sneh: undefined
+    - snehom: undefined
+    - snehu: undefined
+    - so: undefined
+    - svietiť: undefined
+    - teplo: undefined
+    - toľko: undefined
+    - trpieť: undefined
+    - v: undefined
+    - veľa: undefined
+    - veľmi: undefined
+    - vidieť: undefined
+    - vzduch: undefined
+    - zelenú: undefined
+    - zima: undefined
+    - zime: undefined
+    - športovcov: undefined
+    - štyri: undefined
+  English:
+    - a: undefined
+    - air: undefined
+    - autumn: undefined
+    - be: undefined
+    - because: undefined
+    - boring: undefined
+    - bring: undefined
+    - by: undefined
+    - change: undefined
+    - cold: undefined
+    - colors: undefined
+    - end: undefined
+    - falling: undefined
+    - flowers: undefined
+    - for: undefined
+    - four: undefined
+    - good: undefined
+    - green: undefined
+    - grow: undefined
+    - has: undefined
+    - he/she/it: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - lake: undefined
+    - landscape: undefined
+    - leaves: undefined
+    - lot: undefined
+    - many: undefined
+    - not: undefined
+    - of: undefined
+    - play: undefined
+    - rain: undefined
+    - rest: undefined
+    - season: undefined
+    - seasons: undefined
+    - see: undefined
+    - shine: undefined
+    - snow: undefined
+    - soon: undefined
+    - sports: undefined
+    - spring: undefined
+    - strongly: undefined
+    - suffer: undefined
+    - summer: undefined
+    - sun: undefined
+    - the: undefined
+    - there: undefined
+    - they: undefined
+    - times: undefined
+    - to: undefined
+    - warm: undefined
+    - we: undefined
+    - will: undefined
+    - winter: undefined
+    - with: undefined
+    - year: undefined
+    - you: undefined

@@ -1,0 +1,200 @@
+Skill:
+  Name: Food (Accusative case)
+  Id: 6
+
+New words:
+  - Word: хлѣбъ
+    Translation: bread
+  - Word: готовити
+    Translation: to prepare
+  - Word: нєсти
+    Translation: to carry
+  - Word: ѥсти (ѥстъ)
+    Translation: to eat
+  - Word: масло
+    Translation: butter
+  - Word: млѣко
+    Translation: milk
+  - Word: мѧсо
+    Translation: meat
+  - Word: ꙗицє
+    Translation: egg
+  - Word: завътръкъ
+    Translation: breakfast
+  - Word: обѣдъ
+    Translation: lunch
+  - Word: кꙋпити
+    Translation: to buy
+  - Word: вєчєрꙗ
+    Translation: dinner
+  - Word: блѭдо
+    Translation: dish
+  - Word: книга
+    Translation: book
+  - Word: сладъкъ
+    Translation: sweet
+  - Word: ѥда
+    Translation: food
+
+Phrases:
+  - Phrase: Азъ ѥмъ хлѣбъ.
+    Translation: I am eating bread.
+  - Phrase: Она ѥстъ мѧсо.
+    Translation: She is eating meat.
+  - Phrase: Онъ любитъ млѣко.
+    Translation: He likes milk.
+  - Phrase: Азъ виждѫ Влада съ ѥдоѭ
+    Translation: I see Vlad with food
+  - Phrase: Тꙑ ѥси ꙗицє?
+    Translation: Are you eating an egg?
+  - Phrase: Мꙑ ѥмъ вєчєрѭ.
+    Translation: We are eating dinner.
+  - Phrase: Они имаѭтъ завътръкѫ.
+    Translation: They are having breakfast.
+  - Phrase: Азъ кꙋпимъ масло.
+    Translation: I will buy butter.
+  - Phrase: Онъ готови обѣдъ.
+    Translation: He is preparing lunch.
+  - Phrase: Она нєсєтъ блѭдо.
+    Translation: She is carrying a dish.
+  - Phrase: Они кꙋпꙋѭтъ масло и хлѣбъ.
+    Translation: They are buying butter and bread.
+  - Phrase: Онъ пиѥтъ млѣко и ѥстъ мѧсо.
+    Translation: He is drinking milk and eating meat.
+  - Phrase: Читаѥши тꙑ книгѫ и ѥси завътръкѫ?
+    Translation: Are you reading a book and eating breakfast?
+  - Phrase: Азъ виждѫ обѣдъ на столѣ.
+    Translation: I see lunch on the table.
+  - Phrase: Тꙑ имаши масло?
+    Translation: Do you have butter?
+  - Phrase: Мꙑ готовимъ вєчєрѭ каждъи дьнь.
+    Translation: We prepare dinner every day.
+  - Phrase: Азъ знаѭ, чьто тꙑ любиши ꙗица.
+    Translation: I know that you like eggs.
+  - Phrase: Онъ ѥстъ сладъкѫ ѥдѫ.
+    Translation: He eats sweet food.
+  - Phrase: Она любитъ готовити вєчєрѭ.
+    Translation: She likes to prepare dinner.
+  - Phrase: Мꙑ видимъ твоѭ пицѫ на столѣ.
+    Translation: We see your pizza on the table.
+  - Phrase: Они знаѭтъ, чьто азъ всєгда ѥмъ хлѣбъ съ масломъ.
+    Translation: They know that I always eat bread with butter.
+
+Mini-dictionary:
+  Church Slavonic:
+    - азъ: undefined
+    - блѭдо: undefined
+    - видимъ: undefined
+    - виждѫ: undefined
+    - влада: undefined
+    - всєгда: undefined
+    - вєчєрѭ: undefined
+    - вєчєрꙗ: undefined
+    - готови: undefined
+    - готовимъ: undefined
+    - готовити: undefined
+    - дьнь: undefined
+    - завътръкъ: undefined
+    - завътръкѫ: undefined
+    - знаѭ: undefined
+    - знаѭтъ: undefined
+    - и: undefined
+    - имаши: undefined
+    - имаѭтъ: undefined
+    - каждъи: undefined
+    - книга: undefined
+    - книгѫ: undefined
+    - кꙋпимъ: undefined
+    - кꙋпити: undefined
+    - кꙋпꙋѭтъ: undefined
+    - любитъ: undefined
+    - любиши: undefined
+    - масло: undefined
+    - масломъ: undefined
+    - млѣко: undefined
+    - мѧсо: undefined
+    - мꙑ: undefined
+    - на: undefined
+    - нєсти: undefined
+    - нєсєтъ: undefined
+    - обѣдъ: undefined
+    - она: undefined
+    - они: undefined
+    - онъ: undefined
+    - пицѫ: undefined
+    - пиѥтъ: undefined
+    - сладъкъ: undefined
+    - сладъкѫ: undefined
+    - столѣ: undefined
+    - съ: undefined
+    - твоѭ: undefined
+    - тꙑ: undefined
+    - хлѣбъ: undefined
+    - читаѥши: undefined
+    - чьто: undefined
+    - ѥда: undefined
+    - ѥдоѭ: undefined
+    - ѥдѫ: undefined
+    - ѥмъ: undefined
+    - ѥси: undefined
+    - ѥсти: undefined
+    - ѥстъ: undefined
+    - ꙗица: undefined
+    - ꙗицє: undefined
+  English:
+    - a: undefined
+    - always: undefined
+    - am: undefined
+    - an: undefined
+    - and: undefined
+    - are: undefined
+    - book: undefined
+    - bread: undefined
+    - breakfast: undefined
+    - butter: undefined
+    - buy: undefined
+    - buying: undefined
+    - carry: undefined
+    - carrying: undefined
+    - day: undefined
+    - dinner: undefined
+    - dish: undefined
+    - do: undefined
+    - drinking: undefined
+    - eat: undefined
+    - eating: undefined
+    - eats: undefined
+    - egg: undefined
+    - eggs: undefined
+    - every: undefined
+    - food: undefined
+    - have: undefined
+    - having: undefined
+    - he: undefined
+    - i: undefined
+    - is: undefined
+    - know: undefined
+    - like: undefined
+    - likes: undefined
+    - lunch: undefined
+    - meat: undefined
+    - milk: undefined
+    - on: undefined
+    - pizza: undefined
+    - prepare: undefined
+    - preparing: undefined
+    - reading: undefined
+    - see: undefined
+    - she: undefined
+    - sweet: undefined
+    - table: undefined
+    - that: undefined
+    - the: undefined
+    - they: undefined
+    - to: undefined
+    - vlad: undefined
+    - we: undefined
+    - will: undefined
+    - with: undefined
+    - you: undefined
+    - your: undefined

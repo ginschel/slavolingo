@@ -1,0 +1,207 @@
+Skill:
+  Name: Cardinal points/directions
+  Id: 18
+
+New words:
+  - Word: sěver
+    Translation: north
+  - Word: jug
+    Translation: south
+  - Word: zapad
+    Translation: west
+  - Word: vozhod
+    Translation: east
+  - Word: sěverny
+    Translation: northern
+  - Word: južny
+    Translation: southern
+  - Word: zapadny
+    Translation: western
+  - Word: vozhodny
+    Translation: eastern
+  - Word: kompas
+    Translation: compass
+  - Word: strana
+    Translation: side
+  - Word: kde
+    Translation: where
+  - Word: vstati (vstane)
+    Translation: to rise
+  - Word: pokazovati
+    Translation: to show
+  - Word: mapa
+    Translation: map
+  - Word: putovati
+    Translation: to travel
+  - Word: pravo
+    Translation: right
+  - Word: lěvo
+    Translation: left
+  - Word: premo
+    Translation: straight
+
+Phrases:
+  - Phrase: Sěver jest hladny.
+    Translation: The north is cold.
+  - Phrase: Jug jest teply.
+    Translation: The south is warm.
+  - Phrase: Solnce vstane na vozhodu.
+    Translation: The sun rises in the east.
+  - Phrase: Ono zapada na zapadu.
+    Translation: It sets in the west.
+  - Phrase: To jest sěverna strana.
+    Translation: This is the northern side.
+  - Phrase: Živemo na jugu.
+    Translation: We live in the south.
+  - Phrase: Kompas pokazuje sěver.
+    Translation: The compass shows north.
+  - Phrase: Vozhod jest tam.
+    Translation: The east is there.
+  - Phrase: Zapadny větr duje.
+    Translation: A western wind is blowing.
+  - Phrase: Idemo k jugo-zapadu.
+    Translation: We are going to the southwest.
+  - Phrase: To jest sěvero-zapadny region.
+    Translation: This is the northwestern region.
+  - Phrase: Strana na mapě pokazuje zapad.
+    Translation: The side on the map shows west.
+  - Phrase: Jugo-vozhod jest tam, kde grěje solnce.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Idemo do južnoj strany.
+    Translation: We are going to the southern side.
+  - Phrase: On putuje vozhodno.
+    Translation: He travels eastward.
+  - Phrase: Na sěveru jest sněg.
+    Translation: In the north there is snow.
+  - Phrase: Južny kraje sut teple.
+    Translation: The southern regions are warm.
+  - Phrase: Zapad jest lěvo na mapě.
+    Translation: West is left on the map.
+  - Phrase: Vozhodna muzika jest interesna.
+    Translation: Eastern music is interesting.
+  - Phrase: Gledamo k sěver.
+    Translation: We are looking to the north.
+  - Phrase: Idemo tutčas vpravo i potom premo.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Interslavic:
+    - do: undefined
+    - duje: undefined
+    - gledamo: undefined
+    - grěje: undefined
+    - hladny: undefined
+    - i: undefined
+    - idemo: undefined
+    - interesna: undefined
+    - jest: undefined
+    - jug: undefined
+    - jugo-vozhod: undefined
+    - jugo-zapadu: undefined
+    - jugu: undefined
+    - južnoj: undefined
+    - južny: undefined
+    - k: undefined
+    - kde: undefined
+    - kompas: undefined
+    - kraje: undefined
+    - lěvo: undefined
+    - mapa: undefined
+    - mapě: undefined
+    - muzika: undefined
+    - na: undefined
+    - on: undefined
+    - ono: undefined
+    - pokazovati: undefined
+    - pokazuje: undefined
+    - potom: undefined
+    - pravo: undefined
+    - premo: undefined
+    - putovati: undefined
+    - putuje: undefined
+    - region: undefined
+    - sněg: undefined
+    - solnce: undefined
+    - strana: undefined
+    - strany: undefined
+    - sut: undefined
+    - sěver: undefined
+    - sěverna: undefined
+    - sěverny: undefined
+    - sěvero-zapadny: undefined
+    - sěveru: undefined
+    - tam: undefined
+    - teple: undefined
+    - teply: undefined
+    - to: undefined
+    - tutčas: undefined
+    - vozhod: undefined
+    - vozhodna: undefined
+    - vozhodno: undefined
+    - vozhodny: undefined
+    - vozhodu: undefined
+    - vpravo: undefined
+    - vstane: undefined
+    - vstati: undefined
+    - větr: undefined
+    - zapad: undefined
+    - zapada: undefined
+    - zapadny: undefined
+    - zapadu: undefined
+    - živemo: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - blowing: undefined
+    - cold: undefined
+    - compass: undefined
+    - east: undefined
+    - eastern: undefined
+    - eastward: undefined
+    - going: undefined
+    - he: undefined
+    - in: undefined
+    - interesting: undefined
+    - is: undefined
+    - it: undefined
+    - left: undefined
+    - live: undefined
+    - looking: undefined
+    - map: undefined
+    - music: undefined
+    - north: undefined
+    - northern: undefined
+    - northwestern: undefined
+    - now: undefined
+    - on: undefined
+    - region: undefined
+    - regions: undefined
+    - right: undefined
+    - rise: undefined
+    - rises: undefined
+    - sets: undefined
+    - show: undefined
+    - shows: undefined
+    - side: undefined
+    - snow: undefined
+    - south: undefined
+    - southeast: undefined
+    - southern: undefined
+    - southwest: undefined
+    - straight: undefined
+    - sun: undefined
+    - the: undefined
+    - then: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - travel: undefined
+    - travels: undefined
+    - warm: undefined
+    - warms: undefined
+    - we: undefined
+    - west: undefined
+    - western: undefined
+    - where: undefined
+    - wind: undefined

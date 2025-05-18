@@ -1,0 +1,171 @@
+Skill:
+  Name: Asking for Directions
+  Id: 25
+
+New words:
+  - Word: gdzie
+    Translation: where
+  - Word: dokąd
+    Translation: which way
+  - Word: w prawo
+    Translation: to the right
+  - Word: w lewo
+    Translation: to the left
+  - Word: prosto
+    Translation: straight
+  - Word: blisko
+    Translation: near
+  - Word: daleko
+    Translation: far
+  - Word: pytać
+    Translation: to ask
+  - Word: pokazać
+    Translation: to show
+  - Word: droga/ścieżka
+    Translation: path/way
+
+Phrases:
+  - Phrase: Gdzie jest stacja?
+    Translation: Where is the station?
+  - Phrase: Dokąd idzie droga?
+    Translation: Which way does the road go?
+  - Phrase: Idziemy w prawo.
+    Translation: We are going to the right.
+  - Phrase: Potem w lewo.
+    Translation: Then to the left.
+  - Phrase: Idź prosto do mostu.
+    Translation: Go straight to the bridge.
+  - Phrase: Prospekt jest blisko placu/rynku.
+    Translation: The avenue is near the square.
+  - Phrase: Biblioteka jest daleko.
+    Translation: The library is far away.
+  - Phrase: Pytam ich o drogę.
+    Translation: I ask them for the way.
+  - Phrase: Możecie pokazać drogę?
+    Translation: Can you show me the way?
+  - Phrase: Ulica idzie do centrum.
+    Translation: The street goes to the center.
+  - Phrase: Gdzie jest bliski hotel?
+    Translation: Where is the nearest hotel?
+  - Phrase: Dokąd idziecie?
+    Translation: Which way are you going?
+  - Phrase: Idźcie prosto i potem w prawo.
+    Translation: Go straight and then to the right.
+  - Phrase: Stacja jest po lewej.
+    Translation: The station is on the left.
+  - Phrase: Sklep jest blisko biblioteki.
+    Translation: The shop is near the library.
+  - Phrase: Plac/Rynek jest daleko od hotelu.
+    Translation: The square is far from the hotel.
+  - Phrase: Pytam starą kobietę.
+    Translation: I ask the old woman.
+  - Phrase: On pokazuje mi drogę.
+    Translation: He shows me the way.
+  - Phrase: Ulica jest długa.
+    Translation: The street is long.
+  - Phrase: Dokąd jedzie tamten pociąg?
+    Translation: Where is that train going?
+
+Mini-dictionary:
+  Polish:
+    - biblioteka: undefined
+    - biblioteki: undefined
+    - bliski: undefined
+    - blisko: undefined
+    - centrum: undefined
+    - daleko: undefined
+    - do: undefined
+    - dokąd: undefined
+    - droga: undefined
+    - droga/ścieżka: undefined
+    - drogę: undefined
+    - długa: undefined
+    - gdzie: undefined
+    - hotel: undefined
+    - hotelu: undefined
+    - i: undefined
+    - ich: undefined
+    - idzie: undefined
+    - idziecie: undefined
+    - idziemy: undefined
+    - idź: undefined
+    - idźcie: undefined
+    - jedzie: undefined
+    - jest: undefined
+    - kobietę: undefined
+    - lewej: undefined
+    - lewo: undefined
+    - mi: undefined
+    - mostu: undefined
+    - możecie: undefined
+    - o: undefined
+    - od: undefined
+    - on: undefined
+    - plac/rynek: undefined
+    - placu/rynku: undefined
+    - po: undefined
+    - pociąg: undefined
+    - pokazać: undefined
+    - pokazuje: undefined
+    - potem: undefined
+    - prawo: undefined
+    - prospekt: undefined
+    - prosto: undefined
+    - pytam: undefined
+    - pytać: undefined
+    - sklep: undefined
+    - stacja: undefined
+    - starą: undefined
+    - tamten: undefined
+    - ulica: undefined
+    - w: undefined
+  English:
+    - and: undefined
+    - are: undefined
+    - ask: undefined
+    - avenue: undefined
+    - away: undefined
+    - bridge: undefined
+    - can: undefined
+    - center: undefined
+    - does: undefined
+    - far: undefined
+    - for: undefined
+    - from: undefined
+    - go: undefined
+    - goes: undefined
+    - going: undefined
+    - he: undefined
+    - hotel: undefined
+    - i: undefined
+    - is: undefined
+    - left: undefined
+    - library: undefined
+    - long: undefined
+    - me: undefined
+    - near: undefined
+    - nearest: undefined
+    - old: undefined
+    - on: undefined
+    - path/way: undefined
+    - right: undefined
+    - road: undefined
+    - shop: undefined
+    - show: undefined
+    - shows: undefined
+    - square: undefined
+    - station: undefined
+    - straight: undefined
+    - street: undefined
+    - that: undefined
+    - the: undefined
+    - them: undefined
+    - then: undefined
+    - to: undefined
+    - train: undefined
+    - way: undefined
+    - we: undefined
+    - where: undefined
+    - which: undefined
+    - woman: undefined
+    - you: undefined

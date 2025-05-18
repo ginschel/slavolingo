@@ -1,0 +1,243 @@
+Skill:
+  Name: Talking about Time (past tense)
+  Id: 31
+
+New words:
+  - Word: час
+    Translation: time
+  - Word: минута
+    Translation: minute
+  - Word: секунда
+    Translation: second
+  - Word: часина
+    Translation: hour
+  - Word: ту дањ
+    Translation: today
+  - Word: био
+    Translation: was
+  - Word: била
+    Translation: was
+  - Word: било
+    Translation: was
+  - Word: били
+    Translation: were
+  - Word: шео
+    Translation: went/walked
+  - Word: шла
+    Translation: went/walked
+  - Word: шло
+    Translation: went/walked
+  - Word: шли
+    Translation: went/walked
+  - Word: вчера
+    Translation: yesterday
+  - Word: завтра
+    Translation: tomorrow
+  - Word: вечер
+    Translation: evening
+  - Word: полноћ
+    Translation: midnight
+  - Word: колико
+    Translation: how much
+  - Word: спати (спи)
+    Translation: to sleep
+  - Word: трајати
+    Translation: to last
+
+Phrases:
+  - Phrase: Колико јест часа?
+    Translation: What time is it?
+  - Phrase: Он имал једну часину.
+    Translation: He had one hour.
+  - Phrase: Завтра јест за поздно.
+    Translation: Tomorrow is too late.
+  - Phrase: Вчера био понедељак.
+    Translation: Yesterday was Monday.
+  - Phrase: Вчера она била в дому о осмој часине.
+    Translation: Yesterday she was at home at the eighth hour.
+  - Phrase: Утром не било много тепло.
+    Translation: In the morning it was not very warm.
+  - Phrase: О трећем часине двадесет било хладно.
+    Translation: At twenty past the third hour it was cold.
+  - Phrase: Полноћ јест тиха.
+    Translation: Midnight is quiet.
+  - Phrase: Он шео до дома.
+    Translation: He went home.
+  - Phrase: Ви јесте шли до кина?
+    Translation: Have you gone to the cinema?
+  - Phrase: Они ничто не делали.
+    Translation: They did nothing.
+  - Phrase: Минута јест мала јединица часа.
+    Translation: A minute is a small unit of time.
+  - Phrase: Секунда јест кратка.
+    Translation: A second is short.
+  - Phrase: Ту дањ ти јеси не имал часине за то.
+    Translation: Today you did not have an hour for that.
+  - Phrase: Видимо се вечером о деветој часине.
+    Translation: We will see each other in the evening at the ninth hour.
+  - Phrase: Вчера о првом часине било лепје.
+    Translation: Yesterday at the first hour it was better.
+  - Phrase: Колико минут траја филм?
+    Translation: How many minutes does the film last?
+  - Phrase: Ја јесам био в дому утром.
+    Translation: I was at home in the morning.
+  - Phrase: Он спи до полноћи.
+    Translation: He sleeps until midnight.
+  - Phrase: Колико секунд има минута?
+    Translation: How many seconds are in a minute?
+  - Phrase: Вечером ми шли в ресторан.
+    Translation: In the evening we went to the restaurant.
+
+Mini-dictionary:
+  Serbian:
+    - била: undefined
+    - били: undefined
+    - било: undefined
+    - био: undefined
+    - в: undefined
+    - вечер: undefined
+    - вечером: undefined
+    - ви: undefined
+    - видимо: undefined
+    - вчера: undefined
+    - дањ: undefined
+    - двадесет: undefined
+    - деветој: undefined
+    - делали: undefined
+    - до: undefined
+    - дома: undefined
+    - дому: undefined
+    - за: undefined
+    - завтра: undefined
+    - има: undefined
+    - имал: undefined
+    - кина: undefined
+    - колико: undefined
+    - кратка: undefined
+    - лепје: undefined
+    - мала: undefined
+    - ми: undefined
+    - минут: undefined
+    - минута: undefined
+    - много: undefined
+    - не: undefined
+    - ничто: undefined
+    - о: undefined
+    - он: undefined
+    - она: undefined
+    - они: undefined
+    - осмој: undefined
+    - поздно: undefined
+    - полноћ: undefined
+    - полноћи: undefined
+    - понедељак: undefined
+    - првом: undefined
+    - ресторан: undefined
+    - се: undefined
+    - секунд: undefined
+    - секунда: undefined
+    - спати: undefined
+    - спи: undefined
+    - тепло: undefined
+    - ти: undefined
+    - тиха: undefined
+    - то: undefined
+    - траја: undefined
+    - трајати: undefined
+    - трећем: undefined
+    - ту: undefined
+    - утром: undefined
+    - филм: undefined
+    - хладно: undefined
+    - час: undefined
+    - часа: undefined
+    - часина: undefined
+    - часине: undefined
+    - часину: undefined
+    - шео: undefined
+    - шла: undefined
+    - шли: undefined
+    - шло: undefined
+    - ја: undefined
+    - јединица: undefined
+    - једну: undefined
+    - јесам: undefined
+    - јеси: undefined
+    - јест: undefined
+    - јесте: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - are: undefined
+    - at: undefined
+    - better: undefined
+    - cinema: undefined
+    - cold: undefined
+    - did: undefined
+    - does: undefined
+    - each: undefined
+    - eighth: undefined
+    - evening: undefined
+    - film: undefined
+    - first: undefined
+    - for: undefined
+    - gone: undefined
+    - had: undefined
+    - have: undefined
+    - he: undefined
+    - home: undefined
+    - hour: undefined
+    - how: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - it: undefined
+    - last: undefined
+    - late: undefined
+    - many: undefined
+    - midnight: undefined
+    - minute: undefined
+    - minutes: undefined
+    - monday: undefined
+    - morning: undefined
+    - much: undefined
+    - ninth: undefined
+    - not: undefined
+    - nothing: undefined
+    - of: undefined
+    - one: undefined
+    - other: undefined
+    - past: undefined
+    - quiet: undefined
+    - restaurant: undefined
+    - second: undefined
+    - seconds: undefined
+    - see: undefined
+    - she: undefined
+    - short: undefined
+    - sleep: undefined
+    - sleeps: undefined
+    - small: undefined
+    - that: undefined
+    - the: undefined
+    - they: undefined
+    - third: undefined
+    - time: undefined
+    - to: undefined
+    - today: undefined
+    - tomorrow: undefined
+    - too: undefined
+    - twenty: undefined
+    - unit: undefined
+    - until: undefined
+    - very: undefined
+    - warm: undefined
+    - was: undefined
+    - we: undefined
+    - went: undefined
+    - went/walked: undefined
+    - were: undefined
+    - what: undefined
+    - will: undefined
+    - yesterday: undefined
+    - you: undefined

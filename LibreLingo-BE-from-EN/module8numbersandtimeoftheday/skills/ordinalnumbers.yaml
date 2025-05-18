@@ -1,0 +1,170 @@
+Skill:
+  Name: Ordinal Numbers
+  Id: 30
+
+New words:
+  - Word: першы
+    Translation: first
+  - Word: другі
+    Translation: second
+  - Word: трэці
+    Translation: third
+  - Word: чацвёрты
+    Translation: fourth
+  - Word: пяты
+    Translation: fifth
+  - Word: шосты
+    Translation: sixth
+  - Word: сёмы
+    Translation: seventh
+  - Word: восьмы
+    Translation: eighth
+  - Word: дзевяты
+    Translation: ninth
+  - Word: тысячны
+    Translation: thousandth
+  - Word: соты
+    Translation: hundredth
+  - Word: пяты тысячны
+    Translation: five thousandth
+  - Word: сёмы тысячны
+    Translation: seven thousandth
+  - Word: гадзіна (як у "у колькі гадзін")
+    Translation: hour
+
+Phrases:
+  - Phrase: у першай гадзіне дваццаць
+    Translation: at twenty past the first hour
+  - Phrase: у другой гадзіне дзесяць пяць
+    Translation: at fifteen past the second hour
+  - Phrase: у трэцяй гадзіне два
+    Translation: at two past the third hour
+  - Phrase: у чацвёртай гадзіне сем
+    Translation: at seven past the fourth hour
+  - Phrase: у пятай гадзіне
+    Translation: at the fifth hour
+  - Phrase: у шостай гадзіне
+    Translation: at the sixth hour
+  - Phrase: у восьмай гадзіне пяцьдзясят пяць
+    Translation: at fifty five past the eighth hour
+  - Phrase: у дзевятай гадзіне
+    Translation: at the ninth hour
+  - Phrase: у дзясятай гадзіне
+    Translation: at the tenth hour
+  - Phrase: у дванаццатай гадзіне
+    Translation: at the twelfth hour
+  - Phrase: у адзінаццатай гадзіне трыццаць тры
+    Translation: at thirty three past the eleventh hour
+  - Phrase: соты долар
+    Translation: hundredth dollar
+  - Phrase: дзвесце трэці камп'ютар
+    Translation: two hundred third computer
+  - Phrase: дзвесце гадзіннік
+    Translation: two hundredth clock
+  - Phrase: трыццаты мужчына
+    Translation: thirtieth man
+  - Phrase: дзвесце першы брат
+    Translation: two hundred first brother
+  - Phrase: шэсцьсотны ровар
+    Translation: six hundredth bicycle
+  - Phrase: восемсот другі долар
+    Translation: eight hundred second dollar
+  - Phrase: дзевяцьсотны сабака
+    Translation: nine hundredth dog
+  - Phrase: чатырыста пятая гара
+    Translation: four hundred fifth mountain
+
+Mini-dictionary:
+  Belarusian:
+    - адзінаццатай: undefined
+    - брат: undefined
+    - восемсот: undefined
+    - восьмай: undefined
+    - восьмы: undefined
+    - гадзін: undefined
+    - гадзіна: undefined
+    - гадзіне: undefined
+    - гадзіннік: undefined
+    - гара: undefined
+    - два: undefined
+    - дванаццатай: undefined
+    - дваццаць: undefined
+    - дзвесце: undefined
+    - дзевятай: undefined
+    - дзевяты: undefined
+    - дзевяцьсотны: undefined
+    - дзесяць: undefined
+    - дзясятай: undefined
+    - долар: undefined
+    - другой: undefined
+    - другі: undefined
+    - камп'ютар: undefined
+    - колькі: undefined
+    - мужчына: undefined
+    - першай: undefined
+    - першы: undefined
+    - пятай: undefined
+    - пятая: undefined
+    - пяты: undefined
+    - пяць: undefined
+    - пяцьдзясят: undefined
+    - ровар: undefined
+    - сабака: undefined
+    - сем: undefined
+    - соты: undefined
+    - сёмы: undefined
+    - тры: undefined
+    - трыццаты: undefined
+    - трыццаць: undefined
+    - трэцяй: undefined
+    - трэці: undefined
+    - тысячны: undefined
+    - у: undefined
+    - чатырыста: undefined
+    - чацвёртай: undefined
+    - чацвёрты: undefined
+    - шостай: undefined
+    - шосты: undefined
+    - шэсцьсотны: undefined
+    - як: undefined
+  English:
+    - at: undefined
+    - bicycle: undefined
+    - brother: undefined
+    - clock: undefined
+    - computer: undefined
+    - dog: undefined
+    - dollar: undefined
+    - eight: undefined
+    - eighth: undefined
+    - eleventh: undefined
+    - fifteen: undefined
+    - fifth: undefined
+    - fifty: undefined
+    - first: undefined
+    - five: undefined
+    - four: undefined
+    - fourth: undefined
+    - hour: undefined
+    - hundred: undefined
+    - hundredth: undefined
+    - man: undefined
+    - mountain: undefined
+    - nine: undefined
+    - ninth: undefined
+    - past: undefined
+    - second: undefined
+    - seven: undefined
+    - seventh: undefined
+    - six: undefined
+    - sixth: undefined
+    - tenth: undefined
+    - the: undefined
+    - third: undefined
+    - thirtieth: undefined
+    - thirty: undefined
+    - thousandth: undefined
+    - three: undefined
+    - twelfth: undefined
+    - twenty: undefined
+    - two: undefined

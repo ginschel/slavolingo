@@ -1,0 +1,224 @@
+Skill:
+  Name: Character (Conditional)
+  Id: 36
+
+New words:
+  - Word: добры
+    Translation: good
+  - Word: злы
+    Translation: bad
+  - Word: моцны
+    Translation: strong
+  - Word: слабы
+    Translation: weak
+  - Word: смелы
+    Translation: brave
+  - Word: ціхі
+    Translation: quiet
+  - Word: мудры
+    Translation: wise
+  - Word: дурны
+    Translation: stupid
+  - Word: шчыры
+    Translation: sincere
+  - Word: лянівы
+    Translation: lazy
+  - Word: быў бы
+    Translation: I would be
+  - Word: быў бы
+    Translation: you would be
+  - Word: быў бы
+    Translation: he/she/it would be
+  - Word: былі б
+    Translation: we would be
+  - Word: былі б
+    Translation: you would be
+  - Word: былі б
+    Translation: they would be
+  - Word: маўчаць (маўчыць)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: Ён то добры чалавек.
+    Translation: He is a good person.
+  - Phrase: Яна ёсць злая часам.
+    Translation: She is sometimes bad.
+  - Phrase: Моцны дух ёсць важны.
+    Translation: A strong spirit is important.
+  - Phrase: Ён ёсць слабы ў спорце.
+    Translation: He is weak in sports.
+  - Phrase: Смелы гаворыць праўду.
+    Translation: Brave people speak the truth.
+  - Phrase: Як бы ты быў пачуў, то яны былі б ціхія.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Мудры ведае многа.
+    Translation: A smart person knows much.
+  - Phrase: Як бы ты не быў дурны, то ты б не рабіў дурасцяў.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Шчыры сябар ёсць каштоўны.
+    Translation: A sincere friend is valuable.
+  - Phrase: Якбы яны не былі лянівыя, то мы былі б ім дапамагалі.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Яна ёсць добрая і шчырая.
+    Translation: She is good and sincere.
+  - Phrase: Ён ёсць моцны, але смелы.
+    Translation: He is strong but brave.
+  - Phrase: Дзеці ёсць мудрыя для іхняга веку.
+    Translation: Children are wiser for their age.
+  - Phrase: Як бы вы не былі слабыя, то вы б працавалі.
+    Translation: If you were not weak, you would work.
+  - Phrase: Злыя словы баляць.
+    Translation: Bad words hurt.
+  - Phrase: Дурны не вучыцца.
+    Translation: Stupid people do not learn.
+  - Phrase: Лянівы не хоча нічога рабіць.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Шчыры гаворыць што думае.
+    Translation: A sincere person says what they think.
+  - Phrase: Мудры маўчыць, калі трэба.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Як бы я быў смелы, то я б не баяўся.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Belarusian:
+    - але: undefined
+    - б: undefined
+    - баляць: undefined
+    - баяўся: undefined
+    - бы: undefined
+    - былі: undefined
+    - быў: undefined
+    - важны: undefined
+    - ведае: undefined
+    - веку: undefined
+    - вучыцца: undefined
+    - вы: undefined
+    - гаворыць: undefined
+    - дапамагалі: undefined
+    - дзеці: undefined
+    - для: undefined
+    - добрая: undefined
+    - добры: undefined
+    - думае: undefined
+    - дурасцяў: undefined
+    - дурны: undefined
+    - дух: undefined
+    - злая: undefined
+    - злы: undefined
+    - злыя: undefined
+    - калі: undefined
+    - каштоўны: undefined
+    - лянівы: undefined
+    - лянівыя: undefined
+    - маўчаць: undefined
+    - маўчыць: undefined
+    - многа: undefined
+    - моцны: undefined
+    - мудры: undefined
+    - мудрыя: undefined
+    - мы: undefined
+    - не: undefined
+    - нічога: undefined
+    - пачуў: undefined
+    - працавалі: undefined
+    - праўду: undefined
+    - рабіць: undefined
+    - рабіў: undefined
+    - слабы: undefined
+    - слабыя: undefined
+    - словы: undefined
+    - смелы: undefined
+    - спорце: undefined
+    - сябар: undefined
+    - то: undefined
+    - трэба: undefined
+    - ты: undefined
+    - хоча: undefined
+    - ціхі: undefined
+    - ціхія: undefined
+    - чалавек: undefined
+    - часам: undefined
+    - што: undefined
+    - шчырая: undefined
+    - шчыры: undefined
+    - я: undefined
+    - як: undefined
+    - якбы: undefined
+    - яна: undefined
+    - яны: undefined
+    - ён: undefined
+    - ёсць: undefined
+    - і: undefined
+    - ім: undefined
+    - іхняга: undefined
+    - ў: undefined
+  English:
+    - a: undefined
+    - afraid: undefined
+    - age: undefined
+    - and: undefined
+    - anything: undefined
+    - are: undefined
+    - bad: undefined
+    - be: undefined
+    - brave: undefined
+    - but: undefined
+    - children: undefined
+    - do: undefined
+    - foolish: undefined
+    - for: undefined
+    - friend: undefined
+    - good: undefined
+    - he: undefined
+    - he/she/it: undefined
+    - hear: undefined
+    - help: undefined
+    - hurt: undefined
+    - i: undefined
+    - if: undefined
+    - important: undefined
+    - in: undefined
+    - is: undefined
+    - knows: undefined
+    - lazy: undefined
+    - learn: undefined
+    - much: undefined
+    - needed: undefined
+    - not: undefined
+    - people: undefined
+    - person: undefined
+    - quiet: undefined
+    - says: undefined
+    - she: undefined
+    - silent: undefined
+    - sincere: undefined
+    - smart: undefined
+    - sometimes: undefined
+    - speak: undefined
+    - spirit: undefined
+    - sports: undefined
+    - stays: undefined
+    - strong: undefined
+    - stupid: undefined
+    - the: undefined
+    - their: undefined
+    - them: undefined
+    - they: undefined
+    - things: undefined
+    - think: undefined
+    - to: undefined
+    - truth: undefined
+    - valuable: undefined
+    - want: undefined
+    - we: undefined
+    - weak: undefined
+    - were: undefined
+    - what: undefined
+    - when: undefined
+    - wise: undefined
+    - wiser: undefined
+    - words: undefined
+    - work: undefined
+    - would: undefined
+    - you: undefined

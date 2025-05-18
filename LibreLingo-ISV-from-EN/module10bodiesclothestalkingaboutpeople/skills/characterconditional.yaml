@@ -1,0 +1,232 @@
+Skill:
+  Name: Character  (Conditional)
+  Id: 36
+
+New words:
+  - Word: dobry
+    Translation: good
+  - Word: zly
+    Translation: bad
+  - Word: silny
+    Translation: strong
+  - Word: slaby
+    Translation: weak
+  - Word: směly
+    Translation: brave
+  - Word: tihy
+    Translation: quiet
+  - Word: mudry
+    Translation: wise
+  - Word: glupy
+    Translation: stupid
+  - Word: iskreny
+    Translation: sincere
+  - Word: lěnivy
+    Translation: lazy
+  - Word: byh
+    Translation: I would be
+  - Word: bsy
+    Translation: you would be
+  - Word: by
+    Translation: he/she/it would be
+  - Word: byhmo
+    Translation: we would be
+  - Word: byste
+    Translation: you would be
+  - Word: by
+    Translation: they would be
+  - Word: molčati (molči)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: On to dobry člověk.
+    Translation: He is a good person.
+  - Phrase: Ona jest zla časom.
+    Translation: She is sometimes bad.
+  - Phrase: Silny duh jest važny.
+    Translation: A strong spirit is important.
+  - Phrase: On jest slaby v sportu.
+    Translation: He is weak in sports.
+  - Phrase: Směly govori pravdu.
+    Translation: Brave people speak the truth.
+  - Phrase: Kak ty byh slyšal, to oni by byli tyhi.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Mudry znaje mnogo.
+    Translation: A smart person knows much.
+  - Phrase: Kak ty bys ne byl glupy, to bys ne dělal glupostij.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Iskreny prijatelj jeyt dragocenny.
+    Translation: A sincere friend is valuable.
+  - Phrase: Jak oni by byli ne lenivi, to my byhmo im pomagali.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Ona jest dobra i iskrena.
+    Translation: She is good and sincere.
+  - Phrase: On jest silny ale směly.
+    Translation: He is strong but brave.
+  - Phrase: Děte sut mudre za ih věk.
+    Translation: Children are wiser for their age.
+  - Phrase: Kak vy ne byste byli slabi, to vy byste rabotali.
+    Translation: If you were not weak, you would work.
+  - Phrase: Zle slova bolet.
+    Translation: Bad words hurt.
+  - Phrase: Glupy ne uči se.
+    Translation: Stupid people do not learn.
+  - Phrase: Lenivy ne hče ničego dělati.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Iskreny govori čto mysli.
+    Translation: A sincere person says what they think.
+  - Phrase: Mudry molči kogda trěba.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Kak ja by byl směly, to ja by ne bojil se.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Interslavic:
+    - ale: undefined
+    - bojil: undefined
+    - bolet: undefined
+    - bsy: undefined
+    - by: undefined
+    - byh: undefined
+    - byhmo: undefined
+    - byl: undefined
+    - byli: undefined
+    - bys: undefined
+    - byste: undefined
+    - dobra: undefined
+    - dobry: undefined
+    - dragocenny: undefined
+    - duh: undefined
+    - dělal: undefined
+    - dělati: undefined
+    - děte: undefined
+    - glupostij: undefined
+    - glupy: undefined
+    - govori: undefined
+    - hče: undefined
+    - i: undefined
+    - ih: undefined
+    - im: undefined
+    - iskrena: undefined
+    - iskreny: undefined
+    - ja: undefined
+    - jak: undefined
+    - jest: undefined
+    - jeyt: undefined
+    - kak: undefined
+    - kogda: undefined
+    - lenivi: undefined
+    - lenivy: undefined
+    - lěnivy: undefined
+    - mnogo: undefined
+    - molčati: undefined
+    - molči: undefined
+    - mudre: undefined
+    - mudry: undefined
+    - my: undefined
+    - mysli: undefined
+    - ne: undefined
+    - ničego: undefined
+    - on: undefined
+    - ona: undefined
+    - oni: undefined
+    - pomagali: undefined
+    - pravdu: undefined
+    - prijatelj: undefined
+    - rabotali: undefined
+    - se: undefined
+    - silny: undefined
+    - slabi: undefined
+    - slaby: undefined
+    - slova: undefined
+    - slyšal: undefined
+    - směly: undefined
+    - sportu: undefined
+    - sut: undefined
+    - tihy: undefined
+    - to: undefined
+    - trěba: undefined
+    - ty: undefined
+    - tyhi: undefined
+    - uči: undefined
+    - v: undefined
+    - važny: undefined
+    - vy: undefined
+    - věk: undefined
+    - za: undefined
+    - zla: undefined
+    - zle: undefined
+    - zly: undefined
+    - znaje: undefined
+    - časom: undefined
+    - člověk: undefined
+    - čto: undefined
+  English:
+    - a: undefined
+    - afraid: undefined
+    - age: undefined
+    - and: undefined
+    - anything: undefined
+    - are: undefined
+    - bad: undefined
+    - be: undefined
+    - brave: undefined
+    - but: undefined
+    - children: undefined
+    - do: undefined
+    - foolish: undefined
+    - for: undefined
+    - friend: undefined
+    - good: undefined
+    - he: undefined
+    - he/she/it: undefined
+    - hear: undefined
+    - help: undefined
+    - hurt: undefined
+    - i: undefined
+    - if: undefined
+    - important: undefined
+    - in: undefined
+    - is: undefined
+    - knows: undefined
+    - lazy: undefined
+    - learn: undefined
+    - much: undefined
+    - needed: undefined
+    - not: undefined
+    - people: undefined
+    - person: undefined
+    - quiet: undefined
+    - says: undefined
+    - she: undefined
+    - silent: undefined
+    - sincere: undefined
+    - smart: undefined
+    - sometimes: undefined
+    - speak: undefined
+    - spirit: undefined
+    - sports: undefined
+    - stays: undefined
+    - strong: undefined
+    - stupid: undefined
+    - the: undefined
+    - their: undefined
+    - them: undefined
+    - they: undefined
+    - things: undefined
+    - think: undefined
+    - to: undefined
+    - truth: undefined
+    - valuable: undefined
+    - want: undefined
+    - we: undefined
+    - weak: undefined
+    - were: undefined
+    - what: undefined
+    - when: undefined
+    - wise: undefined
+    - wiser: undefined
+    - words: undefined
+    - work: undefined
+    - would: undefined
+    - you: undefined

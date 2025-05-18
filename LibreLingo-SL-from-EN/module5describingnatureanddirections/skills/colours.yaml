@@ -1,0 +1,184 @@
+Skill:
+  Name: Colours
+  Id: 17
+
+New words:
+  - Word: črn
+    Translation: black
+  - Word: bel
+    Translation: white
+  - Word: zelen
+    Translation: green
+  - Word: moder
+    Translation: blue
+  - Word: rdeč
+    Translation: red
+  - Word: rumen
+    Translation: yellow
+  - Word: siv
+    Translation: grey
+  - Word: kostanjev
+    Translation: brown
+  - Word: oranžen
+    Translation: orange
+  - Word: rdeč
+    Translation: red
+
+Phrases:
+  - Phrase: Moj pes je črn.
+    Translation: My dog is black.
+  - Phrase: Miš je bela.
+    Translation: The mouse is white.
+  - Phrase: Trava je zelena.
+    Translation: The grass is green.
+  - Phrase: Nebo je modro.
+    Translation: The sky is blue.
+  - Phrase: Cvetovi so rdeči.
+    Translation: The flowers are red.
+  - Phrase: Sonce je rumeno.
+    Translation: The sun is yellow.
+  - Phrase: Oblaki so sivi.
+    Translation: The clouds are grey.
+  - Phrase: On nosi kostanjev plašč.
+    Translation: He wears a brown coat.
+  - Phrase: List je oranžen.
+    Translation: The leaf is orange.
+  - Phrase: To je Rdeče morje.
+    Translation: This is the Red Sea.
+  - Phrase: Moje oči so modre.
+    Translation: My eyes are blue.
+  - Phrase: Ona ima zeleno travo.
+    Translation: She has green grass.
+  - Phrase: Jaz ljubim rdečo barvo.
+    Translation: I like the red color.
+  - Phrase: Njegov avto je črn.
+    Translation: His car is black.
+  - Phrase: Dekle nese belo obleko.
+    Translation: The girl is wearing a white dress.
+  - Phrase: Je to siv las?
+    Translation: Is that grey hair?
+  - Phrase: On ima oranžno torbo.
+    Translation: He has an orange bag.
+  - Phrase: Kostanjev konj stoji v hlevu.
+    Translation: The brown horse stands in the stable.
+  - Phrase: Rumeno sonce greje zemljo.
+    Translation: The yellow sun warms the earth.
+  - Phrase: Rdeča vrtnica raste tukaj.
+    Translation: A red rose grows here.
+
+Mini-dictionary:
+  Slovenian:
+    - avto: undefined
+    - barvo: undefined
+    - bel: undefined
+    - bela: undefined
+    - belo: undefined
+    - cvetovi: undefined
+    - dekle: undefined
+    - greje: undefined
+    - hlevu: undefined
+    - ima: undefined
+    - jaz: undefined
+    - je: undefined
+    - konj: undefined
+    - kostanjev: undefined
+    - las: undefined
+    - list: undefined
+    - ljubim: undefined
+    - miš: undefined
+    - moder: undefined
+    - modre: undefined
+    - modro: undefined
+    - moj: undefined
+    - moje: undefined
+    - morje: undefined
+    - nebo: undefined
+    - nese: undefined
+    - njegov: undefined
+    - nosi: undefined
+    - oblaki: undefined
+    - obleko: undefined
+    - on: undefined
+    - ona: undefined
+    - oranžen: undefined
+    - oranžno: undefined
+    - oči: undefined
+    - pes: undefined
+    - plašč: undefined
+    - raste: undefined
+    - rdeč: undefined
+    - rdeča: undefined
+    - rdeče: undefined
+    - rdeči: undefined
+    - rdečo: undefined
+    - rumen: undefined
+    - rumeno: undefined
+    - siv: undefined
+    - sivi: undefined
+    - so: undefined
+    - sonce: undefined
+    - stoji: undefined
+    - to: undefined
+    - torbo: undefined
+    - trava: undefined
+    - travo: undefined
+    - tukaj: undefined
+    - v: undefined
+    - vrtnica: undefined
+    - zelen: undefined
+    - zelena: undefined
+    - zeleno: undefined
+    - zemljo: undefined
+    - črn: undefined
+  English:
+    - a: undefined
+    - an: undefined
+    - are: undefined
+    - bag: undefined
+    - black: undefined
+    - blue: undefined
+    - brown: undefined
+    - car: undefined
+    - clouds: undefined
+    - coat: undefined
+    - color: undefined
+    - dog: undefined
+    - dress: undefined
+    - earth: undefined
+    - eyes: undefined
+    - flowers: undefined
+    - girl: undefined
+    - grass: undefined
+    - green: undefined
+    - grey: undefined
+    - grows: undefined
+    - hair: undefined
+    - has: undefined
+    - he: undefined
+    - here: undefined
+    - his: undefined
+    - horse: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - leaf: undefined
+    - like: undefined
+    - mouse: undefined
+    - my: undefined
+    - orange: undefined
+    - red: undefined
+    - rose: undefined
+    - sea: undefined
+    - she: undefined
+    - sky: undefined
+    - stable: undefined
+    - stands: undefined
+    - sun: undefined
+    - that: undefined
+    - the: undefined
+    - this: undefined
+    - warms: undefined
+    - wearing: undefined
+    - wears: undefined
+    - white: undefined
+    - yellow: undefined

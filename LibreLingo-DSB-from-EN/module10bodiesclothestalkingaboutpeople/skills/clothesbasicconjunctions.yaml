@@ -1,0 +1,240 @@
+Skill:
+  Name: Clothes  (basic conjunctions)
+  Id: 34
+
+New words:
+  - Word: košula
+    Translation: shirt
+  - Word: nosyś
+    Translation: to wear
+  - Word: nogawice
+    Translation: trousers
+  - Word: t-šyrt
+    Translation: t-shirt
+  - Word: šalik
+    Translation: scarf
+  - Word: capka
+    Translation: hat
+  - Word: płasć
+    Translation: coat
+  - Word: rukajca
+    Translation: glove
+  - Word: gace
+    Translation: underwear
+  - Word: škarpetka
+    Translation: sock
+  - Word: wobuśe
+    Translation: footwear
+  - Word: woblac
+    Translation: clothes
+  - Word: grane
+    Translation: ugly
+  - Word: woblěkaś
+    Translation: to dress
+  - Word: pyžama
+    Translation: pajamas
+
+Phrases:
+  - Phrase: Wón nosy módru košulu.
+    Translation: He wears a blue shirt.
+  - Phrase: Wóna ma carne nogawice, a wón běłe.
+    Translation: She has black trousers, and he has white.
+  - Phrase: Wobuśe a płasć lažy pśi wrotach.
+    Translation: Shoes and the coat are lying by the door.
+  - Phrase: Šalik jo śěžki a śopły.
+    Translation: The scarf is heavy and warm.
+  - Phrase: Zymje nosym zawšu capku, a we lěśe nje.
+    Translation: In winter, I always wear a hat, but not in summer.
+  - Phrase: Gace su krasne abo grane?
+    Translation: Are the shorts beautiful or ugly?
+  - Phrase: Nosym rukajce we zymje.
+    Translation: We wear gloves in winter.
+  - Phrase: Tamta pyžama jo zelena.
+    Translation: That pajama is green.
+  - Phrase: Nowe gace su komfortne.
+    Translation: New shorts are comfortable.
+  - Phrase: Nowe woblac jo droge.
+    Translation: New clothes are expensive.
+  - Phrase: Košula jo we skrinje.
+    Translation: The shirt is in the drawer.
+  - Phrase: Capka wisi na stěnje.
+    Translation: The hat hangs on the wall.
+  - Phrase: Wón woblěkał a nosył cera wó drugem casu zelenu t-šyrt abo košulu. Ja nje som wěsty nětśi.
+    Translation: He wore and put on a green tennis shoe or shirt yesterday at two AM. I'm not sure right now.
+  - Phrase: Ty kśěš šalik abo košulu.
+    Translation: You want a scarf or a shirt.
+  - Phrase: Grane rukajce lažy na blidźe, a krasne płasć nosym.
+    Translation: The ugly gloves are lying on the table, and I wear the red coat.
+  - Phrase: Wóna kupiła śopłe wobuśe.
+    Translation: She bought warm shoes.
+  - Phrase: Wón woblěkujo nowu košulu.
+    Translation: He is putting on a new shirt.
+  - Phrase: Škarpetki móje su krotke.
+    Translation: My socks are short.
+  - Phrase: We zymje budu pśeběrowaś capki a rukajcow.
+    Translation: In winter I will need a hat and gloves.
+  - Phrase: Woblac jo cyšća a jano južo běłe.
+    Translation: The clothes are clean and only the underwear is white.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: undefined
+    - abo: undefined
+    - blidźe: undefined
+    - budu: undefined
+    - běłe: undefined
+    - capka: undefined
+    - capki: undefined
+    - capku: undefined
+    - carne: undefined
+    - casu: undefined
+    - cera: undefined
+    - cyšća: undefined
+    - droge: undefined
+    - drugem: undefined
+    - gace: undefined
+    - grane: undefined
+    - ja: undefined
+    - jano: undefined
+    - jo: undefined
+    - južo: undefined
+    - komfortne: undefined
+    - košula: undefined
+    - košulu: undefined
+    - krasne: undefined
+    - krotke: undefined
+    - kupiła: undefined
+    - kśěš: undefined
+    - lažy: undefined
+    - lěśe: undefined
+    - ma: undefined
+    - módru: undefined
+    - móje: undefined
+    - na: undefined
+    - nje: undefined
+    - nogawice: undefined
+    - nosy: undefined
+    - nosym: undefined
+    - nosył: undefined
+    - nosyś: undefined
+    - nowe: undefined
+    - nowu: undefined
+    - nětśi: undefined
+    - pyžama: undefined
+    - płasć: undefined
+    - pśeběrowaś: undefined
+    - pśi: undefined
+    - rukajca: undefined
+    - rukajce: undefined
+    - rukajcow: undefined
+    - skrinje: undefined
+    - som: undefined
+    - stěnje: undefined
+    - su: undefined
+    - t-šyrt: undefined
+    - tamta: undefined
+    - ty: undefined
+    - we: undefined
+    - wisi: undefined
+    - woblac: undefined
+    - woblěkał: undefined
+    - woblěkaś: undefined
+    - woblěkujo: undefined
+    - wobuśe: undefined
+    - wrotach: undefined
+    - wó: undefined
+    - wón: undefined
+    - wóna: undefined
+    - wěsty: undefined
+    - zawšu: undefined
+    - zelena: undefined
+    - zelenu: undefined
+    - zymje: undefined
+    - śopłe: undefined
+    - śopły: undefined
+    - śěžki: undefined
+    - šalik: undefined
+    - škarpetka: undefined
+    - škarpetki: undefined
+  English:
+    - a: undefined
+    - always: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - at: undefined
+    - beautiful: undefined
+    - black: undefined
+    - blue: undefined
+    - bought: undefined
+    - but: undefined
+    - by: undefined
+    - clean: undefined
+    - clothes: undefined
+    - coat: undefined
+    - comfortable: undefined
+    - door: undefined
+    - drawer: undefined
+    - dress: undefined
+    - expensive: undefined
+    - footwear: undefined
+    - glove: undefined
+    - gloves: undefined
+    - green: undefined
+    - hangs: undefined
+    - has: undefined
+    - hat: undefined
+    - he: undefined
+    - heavy: undefined
+    - i: undefined
+    - i'm: undefined
+    - in: undefined
+    - is: undefined
+    - lying: undefined
+    - my: undefined
+    - need: undefined
+    - new: undefined
+    - not: undefined
+    - now: undefined
+    - on: undefined
+    - only: undefined
+    - or: undefined
+    - pajama: undefined
+    - pajamas: undefined
+    - put: undefined
+    - putting: undefined
+    - red: undefined
+    - right: undefined
+    - scarf: undefined
+    - she: undefined
+    - shirt: undefined
+    - shoe: undefined
+    - shoes: undefined
+    - short: undefined
+    - shorts: undefined
+    - sock: undefined
+    - socks: undefined
+    - summer: undefined
+    - sure: undefined
+    - t-shirt: undefined
+    - table: undefined
+    - tennis: undefined
+    - that: undefined
+    - the: undefined
+    - to: undefined
+    - trousers: undefined
+    - two: undefined
+    - ugly: undefined
+    - underwear: undefined
+    - wall: undefined
+    - want: undefined
+    - warm: undefined
+    - we: undefined
+    - wear: undefined
+    - wears: undefined
+    - white: undefined
+    - will: undefined
+    - winter: undefined
+    - wore: undefined
+    - yesterday: undefined
+    - you: undefined

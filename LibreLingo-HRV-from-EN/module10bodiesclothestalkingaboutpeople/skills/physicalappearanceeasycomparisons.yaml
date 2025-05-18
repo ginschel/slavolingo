@@ -1,0 +1,253 @@
+Skill:
+  Name: Physical Appearance (Easy comparisons)
+  Id: 38
+
+New words:
+  - Word: visok
+    Translation: tall
+  - Word: nizak
+    Translation: short
+  - Word: debeo
+    Translation: fat
+  - Word: tanak
+    Translation: thin
+  - Word: malen
+    Translation: small
+  - Word: lijep
+    Translation: beautiful
+  - Word: ružan
+    Translation: ugly
+  - Word: star
+    Translation: old
+  - Word: mlad
+    Translation: young
+  - Word: kosa
+    Translation: hair
+  - Word: oči
+    Translation: eyes
+  - Word: nego/od
+    Translation: than
+  - Word: više
+    Translation: taller/higher
+  - Word: koža
+    Translation: skin
+  - Word: manje
+    Translation: less
+  - Word: smijati se (smije se)
+    Translation: to laugh
+  - Word: blistati
+    Translation: to shine
+  - Word: zvijezda
+    Translation: star
+  - Word: svijetao
+    Translation: light
+  - Word: taman
+    Translation: dark
+
+Phrases:
+  - Phrase: On je više visok i snažan nego on.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Ona je niska i tanka kao on.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Debeo muškarac ide ulicom.
+    Translation: The fat man is walking down the street.
+  - Phrase: Tanak ima manje tjelesne mase nego debeo.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: To je više lijep čovjek nego onaj.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Stari ljudi su više mudri nego mi.
+    Translation: Old people are wiser than us.
+  - Phrase: Mladi imaju mnogo energije.
+    Translation: The young one has a lot of energy.
+  - Phrase: Njegova kosa je svijetla.
+    Translation: His hair is blonde.
+  - Phrase: Oči su više zelene nego kod njega.
+    Translation: Her eyes are greener than his.
+  - Phrase: Njegova koža je bijela.
+    Translation: His skin is white.
+  - Phrase: On ima dugu kosu.
+    Translation: He has long hair.
+  - Phrase: Ona ima zelene oči.
+    Translation: She has green eyes.
+  - Phrase: Koža je glatka.
+    Translation: Her skin is smooth.
+  - Phrase: Stara žena nosi kapu.
+    Translation: The old woman wears a hat.
+  - Phrase: Mladi ljudi često se bave sportom.
+    Translation: Young people often play sports.
+  - Phrase: Debeo muškarac smije se više nego onaj ružan muškarac.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Niska djevojka ide kući.
+    Translation: The short girl is going home.
+  - Phrase: Lijepe oči blistaju kao zvijezde na nebu.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Tanak nosi više veliku košulju nego ja.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Njezina kosa je svijetla i duga.
+    Translation: Her hair is light and long.
+  - Phrase: A njegova lijepa kosa je tamna kao noć.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Croatian:
+    - a: undefined
+    - bave: undefined
+    - bijela: undefined
+    - blistaju: undefined
+    - blistati: undefined
+    - debeo: undefined
+    - djevojka: undefined
+    - duga: undefined
+    - dugu: undefined
+    - energije: undefined
+    - glatka: undefined
+    - i: undefined
+    - ide: undefined
+    - ima: undefined
+    - imaju: undefined
+    - ja: undefined
+    - je: undefined
+    - kao: undefined
+    - kapu: undefined
+    - kod: undefined
+    - kosa: undefined
+    - kosu: undefined
+    - košulju: undefined
+    - koža: undefined
+    - kući: undefined
+    - lijep: undefined
+    - lijepa: undefined
+    - lijepe: undefined
+    - ljudi: undefined
+    - malen: undefined
+    - manje: undefined
+    - mase: undefined
+    - mi: undefined
+    - mlad: undefined
+    - mladi: undefined
+    - mnogo: undefined
+    - mudri: undefined
+    - muškarac: undefined
+    - na: undefined
+    - nebu: undefined
+    - nego: undefined
+    - nego/od: undefined
+    - niska: undefined
+    - nizak: undefined
+    - njega: undefined
+    - njegova: undefined
+    - njezina: undefined
+    - nosi: undefined
+    - noć: undefined
+    - on: undefined
+    - ona: undefined
+    - onaj: undefined
+    - oči: undefined
+    - ružan: undefined
+    - se: undefined
+    - smijati: undefined
+    - smije: undefined
+    - snažan: undefined
+    - sportom: undefined
+    - star: undefined
+    - stara: undefined
+    - stari: undefined
+    - su: undefined
+    - svijetao: undefined
+    - svijetla: undefined
+    - taman: undefined
+    - tamna: undefined
+    - tanak: undefined
+    - tanka: undefined
+    - tjelesne: undefined
+    - to: undefined
+    - ulicom: undefined
+    - veliku: undefined
+    - visok: undefined
+    - više: undefined
+    - zelene: undefined
+    - zvijezda: undefined
+    - zvijezde: undefined
+    - često: undefined
+    - čovjek: undefined
+    - žena: undefined
+  English:
+    - a: undefined
+    - and: undefined
+    - are: undefined
+    - as: undefined
+    - beautiful: undefined
+    - blonde: undefined
+    - body: undefined
+    - dark: undefined
+    - do: undefined
+    - down: undefined
+    - energy: undefined
+    - eyes: undefined
+    - fat: undefined
+    - girl: undefined
+    - going: undefined
+    - green: undefined
+    - greener: undefined
+    - hair: undefined
+    - has: undefined
+    - hat: undefined
+    - he: undefined
+    - her: undefined
+    - him: undefined
+    - his: undefined
+    - home: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - larger: undefined
+    - laugh: undefined
+    - laughs: undefined
+    - less: undefined
+    - light: undefined
+    - like: undefined
+    - long: undefined
+    - lot: undefined
+    - louder: undefined
+    - man: undefined
+    - mass: undefined
+    - more: undefined
+    - night: undefined
+    - of: undefined
+    - often: undefined
+    - old: undefined
+    - one: undefined
+    - people: undefined
+    - person: undefined
+    - play: undefined
+    - she: undefined
+    - shine: undefined
+    - shirt: undefined
+    - short: undefined
+    - shorter: undefined
+    - skin: undefined
+    - sky: undefined
+    - small: undefined
+    - smooth: undefined
+    - sports: undefined
+    - star: undefined
+    - stars: undefined
+    - street: undefined
+    - stronger: undefined
+    - tall: undefined
+    - taller: undefined
+    - taller/higher: undefined
+    - than: undefined
+    - that: undefined
+    - the: undefined
+    - thin: undefined
+    - thinner: undefined
+    - to: undefined
+    - ugly: undefined
+    - us: undefined
+    - walking: undefined
+    - wears: undefined
+    - white: undefined
+    - wiser: undefined
+    - woman: undefined
+    - young: undefined

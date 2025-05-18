@@ -1,0 +1,197 @@
+Skill:
+  Name: Grammar revision cases
+  Id: 19
+
+New words:
+  - Word: "різати (ріже)"
+    Translation: to cut
+  - Word: "дар"
+    Translation: gift
+  - Word: "всесвіт"
+    Translation: universe
+  - Word: "дзеркало"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Кістки тут нема.
+    Translation: There is no bone here.
+  - Phrase: Дам жінці.
+    Translation: I give to the woman.
+  - Phrase: Вона є в місті.
+    Translation: She is in the city.
+  - Phrase: Говоримо з друзями.
+    Translation: I talk with friends.
+  - Phrase: Імені він не має.
+    Translation: He has no name.
+  - Phrase: Ти душі не маєш?!
+    Translation: You don't have a soul?!
+  - Phrase: Він бачить свою жінку.
+    Translation: He sees his wife.
+  - Phrase: Брата тут нема.
+    Translation: There is no brother here.
+  - Phrase: Це можливо різати ножем.
+    Translation: This can be cut with a knife.
+  - Phrase: Вона з чоловіком говорить.
+    Translation: She talks with her husband.
+  - Phrase: Вона говорить про братів.
+    Translation: She talks about brothers.
+  - Phrase: Вона дає дар братам.
+    Translation: She gives a gift to the brothers.
+  - Phrase: На полі багато працюю/працюємо.
+    Translation: I work a lot in the field.
+  - Phrase: Є багато сонць у всесвіті.
+    Translation: There are many suns in the universe.
+  - Phrase: І також є багато зірок.
+    Translation: And there are also many stars.
+  - Phrase: Він любить говорити зі своєю жінкою.
+    Translation: He likes to talk with his wife.
+  - Phrase: Вже нема бананів у домі.
+    Translation: There are no more bananas in the house.
+  - Phrase: В очах бачу душу твою.
+    Translation: In the eyes I see your soul.
+  - Phrase: Очі є дзеркалом душі.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Чоловіків тут не бачу.
+    Translation: I do not see men here.
+  - Phrase: В містах побачиш багато людей.
+    Translation: In the cities you will see many people.
+  - Phrase: Спокійної ночі!
+    Translation: Good night!
+
+Mini-dictionary:
+  Ukrainian:
+    - багато: undefined
+    - бананів: undefined
+    - бачить: undefined
+    - бачу: undefined
+    - брата: undefined
+    - братам: undefined
+    - братів: undefined
+    - в: undefined
+    - вже: undefined
+    - вона: undefined
+    - всесвіт: undefined
+    - всесвіті: undefined
+    - він: undefined
+    - говоримо: undefined
+    - говорити: undefined
+    - говорить: undefined
+    - дам: undefined
+    - дар: undefined
+    - дає: undefined
+    - дзеркало: undefined
+    - дзеркалом: undefined
+    - домі: undefined
+    - друзями: undefined
+    - душу: undefined
+    - душі: undefined
+    - жінкою: undefined
+    - жінку: undefined
+    - жінці: undefined
+    - з: undefined
+    - зі: undefined
+    - зірок: undefined
+    - кістки: undefined
+    - любить: undefined
+    - людей: undefined
+    - має: undefined
+    - маєш: undefined
+    - можливо: undefined
+    - містах: undefined
+    - місті: undefined
+    - на: undefined
+    - не: undefined
+    - нема: undefined
+    - ножем: undefined
+    - ночі: undefined
+    - очах: undefined
+    - очі: undefined
+    - побачиш: undefined
+    - полі: undefined
+    - працюю/працюємо: undefined
+    - про: undefined
+    - ріже: undefined
+    - різати: undefined
+    - свою: undefined
+    - своєю: undefined
+    - сонць: undefined
+    - спокійної: undefined
+    - також: undefined
+    - твою: undefined
+    - ти: undefined
+    - тут: undefined
+    - у: undefined
+    - це: undefined
+    - чоловіком: undefined
+    - чоловіків: undefined
+    - є: undefined
+    - і: undefined
+    - імені: undefined
+  English:
+    - a: undefined
+    - about: undefined
+    - also: undefined
+    - and: undefined
+    - are: undefined
+    - bananas: undefined
+    - be: undefined
+    - bone: undefined
+    - brother: undefined
+    - brothers: undefined
+    - can: undefined
+    - cities: undefined
+    - city: undefined
+    - cut: undefined
+    - do: undefined
+    - don't: undefined
+    - eyes: undefined
+    - field: undefined
+    - friends: undefined
+    - gift: undefined
+    - give: undefined
+    - gives: undefined
+    - good: undefined
+    - has: undefined
+    - have: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - his: undefined
+    - house: undefined
+    - husband: undefined
+    - i: undefined
+    - in: undefined
+    - is: undefined
+    - knife: undefined
+    - likes: undefined
+    - lot: undefined
+    - many: undefined
+    - men: undefined
+    - mirror: undefined
+    - more: undefined
+    - name: undefined
+    - night: undefined
+    - no: undefined
+    - not: undefined
+    - of: undefined
+    - people: undefined
+    - see: undefined
+    - sees: undefined
+    - she: undefined
+    - soul: undefined
+    - stars: undefined
+    - suns: undefined
+    - talk: undefined
+    - talks: undefined
+    - the: undefined
+    - there: undefined
+    - this: undefined
+    - to: undefined
+    - universe: undefined
+    - wife: undefined
+    - will: undefined
+    - with: undefined
+    - woman: undefined
+    - work: undefined
+    - you: undefined
+    - your: undefined

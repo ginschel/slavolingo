@@ -1,0 +1,214 @@
+Skill:
+  Name: Nature
+  Id: 15
+
+New words:
+  - Word: rěka
+    Translation: river
+  - Word: črez
+    Translation: through
+  - Word: gora
+    Translation: mountain
+  - Word: dolina
+    Translation: valley
+  - Word: lěs
+    Translation: forest
+  - Word: trava
+    Translation: grass
+  - Word: cvět
+    Translation: flower
+  - Word: roza
+    Translation: rose
+  - Word: rasti (raste)
+    Translation: to grow
+  - Word: zemja
+    Translation: earth
+  - Word: kamenj
+    Translation: stone
+  - Word: polje
+    Translation: field
+  - Word: dub
+    Translation: oak
+  - Word: luna
+    Translation: moon
+  - Word: cvěsti (cvěte)
+    Translation: to bloom
+  - Word: drěvo
+    Translation: tree
+  - Word: ležati (leži)
+    Translation: to lie
+  - Word: medžu
+    Translation: between
+
+Phrases:
+  - Phrase: Rěka teče črěz dolinu.
+    Translation: The river flows through the valley.
+  - Phrase: Gora jest vysoka.
+    Translation: The mountain is high.
+  - Phrase: My idemo v lěs.
+    Translation: We are going to the forest.
+  - Phrase: Trava jest zelena.
+    Translation: The grass is green.
+  - Phrase: Cvěty krasno cvětut.
+    Translation: The flowers bloom beautifully.
+  - Phrase: On stoji na kamenju.
+    Translation: He is standing on the stone.
+  - Phrase: Zemja jest mokra.
+    Translation: The earth is wet.
+  - Phrase: Roza rastě na polju.
+    Translation: The rose grows in the field.
+  - Phrase: Dolina leži medžu gorami.
+    Translation: The valley lies between the mountains.
+  - Phrase: Polje jest široko.
+    Translation: The field is wide.
+  - Phrase: Oni idut črěz les s mnogo drěvami.
+    Translation: They are going through the forest with many trees.
+  - Phrase: Trava rastě brzo.
+    Translation: The grass grows fast.
+  - Phrase: Kameni sut težke.
+    Translation: The stones are heavy.
+  - Phrase: Cvět rastě iz zemje.
+    Translation: A flower grows from the earth.
+  - Phrase: Voda ide do rěky.
+    Translation: Water goes to the river.
+  - Phrase: Polje jest za domom.
+    Translation: The field is behind the house.
+  - Phrase: Idemo k dubu.
+    Translation: We are going towards the oak.
+  - Phrase: Luna tutdenj krasna
+    Translation: The moon today is beautiful
+  - Phrase: My stojimo na zemji.
+    Translation: We are standing on the earth.
+  - Phrase: Oni gledajut v dolinu.
+    Translation: They are looking into the valley.
+  - Phrase: Rěka ide medžu poljami.
+    Translation: The river goes between the fields.
+
+Mini-dictionary:
+  Interslavic:
+    - brzo: undefined
+    - cvěsti: undefined
+    - cvět: undefined
+    - cvěte: undefined
+    - cvětut: undefined
+    - cvěty: undefined
+    - do: undefined
+    - dolina: undefined
+    - dolinu: undefined
+    - domom: undefined
+    - drěvami: undefined
+    - drěvo: undefined
+    - dub: undefined
+    - dubu: undefined
+    - gledajut: undefined
+    - gora: undefined
+    - gorami: undefined
+    - ide: undefined
+    - idemo: undefined
+    - idut: undefined
+    - iz: undefined
+    - jest: undefined
+    - k: undefined
+    - kameni: undefined
+    - kamenj: undefined
+    - kamenju: undefined
+    - krasna: undefined
+    - krasno: undefined
+    - les: undefined
+    - ležati: undefined
+    - leži: undefined
+    - luna: undefined
+    - lěs: undefined
+    - medžu: undefined
+    - mnogo: undefined
+    - mokra: undefined
+    - my: undefined
+    - na: undefined
+    - on: undefined
+    - oni: undefined
+    - poljami: undefined
+    - polje: undefined
+    - polju: undefined
+    - raste: undefined
+    - rasti: undefined
+    - rastě: undefined
+    - roza: undefined
+    - rěka: undefined
+    - rěky: undefined
+    - s: undefined
+    - stoji: undefined
+    - stojimo: undefined
+    - sut: undefined
+    - teče: undefined
+    - težke: undefined
+    - trava: undefined
+    - tutdenj: undefined
+    - v: undefined
+    - voda: undefined
+    - vysoka: undefined
+    - za: undefined
+    - zelena: undefined
+    - zemja: undefined
+    - zemje: undefined
+    - zemji: undefined
+    - črez: undefined
+    - črěz: undefined
+    - široko: undefined
+  English:
+    - a: undefined
+    - are: undefined
+    - beautiful: undefined
+    - beautifully: undefined
+    - behind: undefined
+    - between: undefined
+    - bloom: undefined
+    - earth: undefined
+    - fast: undefined
+    - field: undefined
+    - fields: undefined
+    - flower: undefined
+    - flowers: undefined
+    - flows: undefined
+    - forest: undefined
+    - from: undefined
+    - goes: undefined
+    - going: undefined
+    - grass: undefined
+    - green: undefined
+    - grow: undefined
+    - grows: undefined
+    - he: undefined
+    - heavy: undefined
+    - high: undefined
+    - house: undefined
+    - in: undefined
+    - into: undefined
+    - is: undefined
+    - lie: undefined
+    - lies: undefined
+    - looking: undefined
+    - many: undefined
+    - moon: undefined
+    - mountain: undefined
+    - mountains: undefined
+    - oak: undefined
+    - on: undefined
+    - river: undefined
+    - rose: undefined
+    - standing: undefined
+    - stone: undefined
+    - stones: undefined
+    - the: undefined
+    - they: undefined
+    - through: undefined
+    - to: undefined
+    - today: undefined
+    - towards: undefined
+    - tree: undefined
+    - trees: undefined
+    - valley: undefined
+    - water: undefined
+    - we: undefined
+    - wet: undefined
+    - wide: undefined
+    - with: undefined

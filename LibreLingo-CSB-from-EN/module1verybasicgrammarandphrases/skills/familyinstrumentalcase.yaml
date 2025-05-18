@@ -1,0 +1,201 @@
+Skill:
+  Name: Family (Instrumental case)
+  Id: 3
+
+New words:
+  - Word: brat
+    Translation: brother
+  - Word: dzôd
+    Translation: grandfather
+  - Word: babka
+    Translation: grandmother
+  - Word: cota
+    Translation: aunt
+  - Word: wnuk
+    Translation: grandson
+  - Word: wnëczka
+    Translation: granddaughter
+  - Word: matka
+    Translation: mother
+  - Word: òjciec
+    Translation: father
+  - Word: rodzëzna
+    Translation: family
+  - Word: syn
+    Translation: son
+  - Word: dzéwka
+    Translation: daughter
+  - Word: strój
+    Translation: uncle
+  - Word: gôdô
+    Translation: speaks
+  - Word: jidze
+    Translation: goes
+  - Word: dzemë
+    Translation: we go
+  - Word: żëje
+    Translation: lives
+
+Phrases:
+  - Phrase: On je mòjim bratã.
+    Translation: He is my brother.
+  - Phrase: On je twòjim òjcã
+    Translation: He is your father
+  - Phrase: Òna jidze z matkòj.
+    Translation: She is going with her mother.
+  - Phrase: On gôdô z dzôdã.
+    Translation: He is talking with his grandfather.
+  - Phrase: Më grajemë z naszëma dzecama.
+    Translation: We are playing with our children.
+  - Phrase: Òni jidą z cotkòj.
+    Translation: They are going with their aunt.
+  - Phrase: Gôdóm z twòją sostrą.
+    Translation: I am talking with your sister.
+  - Phrase: Idzemë w park z rodzëzną.
+    Translation: We are going to the park with the family.
+  - Phrase: On je z wnukã.
+    Translation: He is with his grandson.
+  - Phrase: Òna grô z wnëczkòj.
+    Translation: She is playing with her granddaughter.
+  - Phrase: Pic czaju z matkòj je lëpszô.
+    Translation: Drinking tea with mother is better.
+  - Phrase: Z chtërnym të jidzesz?
+    Translation: Who are you going with?
+  - Phrase: Òna gôdô z mòją babkòj.
+    Translation: She is talking with my grandmother.
+  - Phrase: To je domã z rodzëzną.
+    Translation: This is a house with a family.
+  - Phrase: On żëje z synã.
+    Translation: He lives with his son.
+  - Phrase: Idzemë na wãdrowkã z bratama.
+    Translation: We are going for a walk with brothers.
+  - Phrase: Idzemë z dzéwkòj.
+    Translation: We are going with our daughter.
+  - Phrase: Òni są tam z dzôdã.
+    Translation: They are here with their grandfather.
+  - Phrase: On żëje z cotkòj i ze strójã.
+    Translation: He lives with his aunt and uncle.
+  - Phrase: Òna gôdô z wnukã czãsto.
+    Translation: She talks with her grandson often.
+
+Mini-dictionary:
+  Kashubian:
+    - babka: undefined
+    - babkòj: undefined
+    - brat: undefined
+    - bratama: undefined
+    - bratã: undefined
+    - chtërnym: undefined
+    - cota: undefined
+    - cotkòj: undefined
+    - czaju: undefined
+    - czãsto: undefined
+    - domã: undefined
+    - dzecama: undefined
+    - dzemë: undefined
+    - dzéwka: undefined
+    - dzéwkòj: undefined
+    - dzôd: undefined
+    - dzôdã: undefined
+    - grajemë: undefined
+    - grô: undefined
+    - gôdóm: undefined
+    - gôdô: undefined
+    - i: undefined
+    - idzemë: undefined
+    - je: undefined
+    - jidze: undefined
+    - jidzesz: undefined
+    - jidą: undefined
+    - lëpszô: undefined
+    - matka: undefined
+    - matkòj: undefined
+    - më: undefined
+    - mòjim: undefined
+    - mòją: undefined
+    - na: undefined
+    - naszëma: undefined
+    - on: undefined
+    - park: undefined
+    - pic: undefined
+    - rodzëzna: undefined
+    - rodzëzną: undefined
+    - sostrą: undefined
+    - strój: undefined
+    - strójã: undefined
+    - syn: undefined
+    - synã: undefined
+    - są: undefined
+    - tam: undefined
+    - to: undefined
+    - twòjim: undefined
+    - twòją: undefined
+    - të: undefined
+    - w: undefined
+    - wnuk: undefined
+    - wnukã: undefined
+    - wnëczka: undefined
+    - wnëczkòj: undefined
+    - wãdrowkã: undefined
+    - z: undefined
+    - ze: undefined
+    - òjciec: undefined
+    - òjcã: undefined
+    - òna: undefined
+    - òni: undefined
+    - żëje: undefined
+  English:
+    - a: undefined
+    - am: undefined
+    - and: undefined
+    - are: undefined
+    - aunt: undefined
+    - better: undefined
+    - brother: undefined
+    - brothers: undefined
+    - children: undefined
+    - daughter: undefined
+    - drinking: undefined
+    - family: undefined
+    - father: undefined
+    - for: undefined
+    - go: undefined
+    - goes: undefined
+    - going: undefined
+    - granddaughter: undefined
+    - grandfather: undefined
+    - grandmother: undefined
+    - grandson: undefined
+    - he: undefined
+    - her: undefined
+    - here: undefined
+    - his: undefined
+    - house: undefined
+    - i: undefined
+    - is: undefined
+    - lives: undefined
+    - mother: undefined
+    - my: undefined
+    - often: undefined
+    - our: undefined
+    - park: undefined
+    - playing: undefined
+    - she: undefined
+    - sister: undefined
+    - son: undefined
+    - speaks: undefined
+    - talking: undefined
+    - talks: undefined
+    - tea: undefined
+    - the: undefined
+    - their: undefined
+    - they: undefined
+    - this: undefined
+    - to: undefined
+    - uncle: undefined
+    - walk: undefined
+    - we: undefined
+    - who: undefined
+    - with: undefined
+    - you: undefined
+    - your: undefined

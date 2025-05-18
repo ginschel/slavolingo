@@ -1,0 +1,164 @@
+Skill:
+  Name: Numbers 0-10
+  Id: 26
+
+New words:
+  - Word: нула
+    Translation: zero
+  - Word: један
+    Translation: one
+  - Word: једна
+    Translation: one
+  - Word: једно
+    Translation: one
+  - Word: два
+    Translation: two
+  - Word: две
+    Translation: two
+  - Word: три
+    Translation: three
+  - Word: четири
+    Translation: four
+  - Word: пет
+    Translation: five
+  - Word: шест
+    Translation: six
+  - Word: седам
+    Translation: seven
+  - Word: осам
+    Translation: eight
+  - Word: девет
+    Translation: nine
+  - Word: десет
+    Translation: ten
+  - Word: часовник
+    Translation: clock/watch
+  - Word: хлапац
+    Translation: boy
+  - Word: компјутер
+    Translation: computer
+  - Word: велосипед
+    Translation: bicycle
+  - Word: рубља
+    Translation: ruble
+  - Word: жена
+    Translation: woman
+  - Word: поље
+    Translation: field
+  - Word: кот
+    Translation: cat
+  - Word: долар
+    Translation: dollar
+
+Phrases:
+  - Phrase: нула часовников
+    Translation: zero clocks
+  - Phrase: један хлапац
+    Translation: one boy
+  - Phrase: једна жена
+    Translation: one woman
+  - Phrase: једно поље
+    Translation: one field
+  - Phrase: два хлапци
+    Translation: two boys
+  - Phrase: две жени
+    Translation: two women
+  - Phrase: три коти
+    Translation: three cats
+  - Phrase: четири велосипеди
+    Translation: four bicycles
+  - Phrase: пет хлапцев
+    Translation: five boys
+  - Phrase: шест велосипедов
+    Translation: six bicycles
+  - Phrase: седам рубљев
+    Translation: seven rubles
+  - Phrase: осам доларов
+    Translation: eight dollars
+  - Phrase: девет компјутеров
+    Translation: nine computers
+  - Phrase: десет часовников
+    Translation: ten clocks
+  - Phrase: две вечи
+    Translation: two things
+  - Phrase: једно солнце
+    Translation: one sun
+  - Phrase: један велосипед
+    Translation: one bicycle
+  - Phrase: четири долари
+    Translation: four dollars
+  - Phrase: три коти
+    Translation: three cats
+  - Phrase: пет котов
+    Translation: five cats
+
+Mini-dictionary:
+  Serbian:
+    - велосипед: undefined
+    - велосипеди: undefined
+    - велосипедов: undefined
+    - вечи: undefined
+    - два: undefined
+    - две: undefined
+    - девет: undefined
+    - десет: undefined
+    - долар: undefined
+    - долари: undefined
+    - доларов: undefined
+    - жена: undefined
+    - жени: undefined
+    - компјутер: undefined
+    - компјутеров: undefined
+    - кот: undefined
+    - коти: undefined
+    - котов: undefined
+    - нула: undefined
+    - осам: undefined
+    - пет: undefined
+    - поље: undefined
+    - рубља: undefined
+    - рубљев: undefined
+    - седам: undefined
+    - солнце: undefined
+    - три: undefined
+    - хлапац: undefined
+    - хлапцев: undefined
+    - хлапци: undefined
+    - часовник: undefined
+    - часовников: undefined
+    - четири: undefined
+    - шест: undefined
+    - један: undefined
+    - једна: undefined
+    - једно: undefined
+  English:
+    - bicycle: undefined
+    - bicycles: undefined
+    - boy: undefined
+    - boys: undefined
+    - cat: undefined
+    - cats: undefined
+    - clock/watch: undefined
+    - clocks: undefined
+    - computer: undefined
+    - computers: undefined
+    - dollar: undefined
+    - dollars: undefined
+    - eight: undefined
+    - field: undefined
+    - five: undefined
+    - four: undefined
+    - nine: undefined
+    - one: undefined
+    - ruble: undefined
+    - rubles: undefined
+    - seven: undefined
+    - six: undefined
+    - sun: undefined
+    - ten: undefined
+    - things: undefined
+    - three: undefined
+    - two: undefined
+    - woman: undefined
+    - women: undefined
+    - zero: undefined
