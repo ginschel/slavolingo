@@ -35,15 +35,15 @@ New words:
     Translation: shape
 
 Phrases:
-  - Phrase: Это есть круг.
+  - Phrase: Это круг.
     Translation: This is a circle.
   - Phrase: Квадрат имеет четыре стороны.
     Translation: A square has four sides.
   - Phrase: Треугольник имеет три стороны.
     Translation: A triangle has three sides.
-  - Phrase: Эта линия есть длинная.
+  - Phrase: Эта линия длинная.
     Translation: This line is long.
-  - Phrase: Это есть моя форма.
+  - Phrase: Это моя форма.
     Translation: This is my shape.
   - Phrase: Линия есть равная.
     Translation: The line is straight.
@@ -51,7 +51,7 @@ Phrases:
     Translation: A point is a small dot.
   - Phrase: Видим контур квадрата.
     Translation: We see the outline of a square.
-  - Phrase: Фигура есть комплексная.
+  - Phrase: Фигура комплексная.
     Translation: The figure is complex.
   - Phrase: Это есть простой вид.
     Translation: This is a simple shape.
@@ -65,11 +65,11 @@ Phrases:
     Translation: The point lies on the line.
   - Phrase: Она знает каждый контур Англии.
     Translation: She knows every outline of England.
-  - Phrase: Это есть простой треугольник.
+  - Phrase: Это простой треугольник.
     Translation: This is a simple triangle.
   - Phrase: Он рисует фигуры на бумаге.
     Translation: He is drawing figures on paper.
-  - Phrase: Форма есть интересная.
+  - Phrase: Форма интересная.
     Translation: The shape is interesting.
   - Phrase: Стол имеет форму квадрата.
     Translation: The table has the shape of a square.
@@ -78,115 +78,101 @@ Phrases:
 
 Mini-dictionary:
   Russian:
-    - англии: undefined
-    - большой: undefined
-    - бумаге: undefined
-    - вид: undefined
-    - видим: undefined
-    - длинная: undefined
-    - длинный: undefined
-    - есть: undefined
-    - знает: undefined
-    - и: undefined
-    - идёт: undefined
-    - имеет: undefined
-    - интересная: undefined
-    - каждый: undefined
-    - квадрат: undefined
-    - квадрата: undefined
-    - комплексная: undefined
-    - контур: undefined
-    - контур/очертание: undefined
-    - красивая: undefined
-    - круг: undefined
-    - лежит: undefined
-    - линии: undefined
-    - линия: undefined
-    - малый: undefined
-    - моя: undefined
-    - на: undefined
-    - он: undefined
-    - она: undefined
-    - основные: undefined
-    - простой: undefined
-    - пункт: undefined
-    - равная: undefined
-    - равный: undefined
-    - рисует: undefined
-    - рисую: undefined
-    - стоит: undefined
-    - стол: undefined
-    - столе: undefined
-    - сторона: undefined
-    - сторону: undefined
-    - стороны: undefined
-    - стоять: undefined
-    - суть: undefined
-    - то: undefined
-    - точка: undefined
-    - треугольник: undefined
-    - три: undefined
-    - фигура: undefined
-    - фигуры: undefined
-    - форма: undefined
-    - форма/вид: undefined
-    - форму: undefined
-    - формы: undefined
-    - через: undefined
-    - четыре: undefined
-    - эта: undefined
-    - это: undefined
-    - я: undefined
+    - англии: england
+    - большой: big
+    - бумаге: paper
+    - вид: view
+    - видим: see
+    - длинная: long
+    - есть: is
+    - знает: knows
+    - и: and
+    - идёт: goes
+    - имеет: has
+    - интересная: interesting
+    - каждый: every
+    - квадрата: square
+    - комплексная: complex
+    - контур: outline
+    - красивая: beautiful
+    - лежит: lies
+    - линии: line
+    - малый: small
+    - моя: my
+    - на: on
+    - он: he
+    - она: she
+    - основные: basic
+    - простой: simple
+    - пункт: point
+    - равная: straight
+    - рисует: draws
+    - рисую: draw
+    - стоит: stands
+    - стол: table
+    - столе: table
+    - сторону: side
+    - стороны: side
+    - стоять: stand
+    - суть: are
+    - то: it
+    - фигуры: figures
+    - форму: form
+    - формы: forms
+    - через: through
+    - эта: that
+    - это: it
+    - я: i
   English:
-    - a: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - basic: undefined
-    - beautiful: undefined
-    - big: undefined
-    - circle: undefined
-    - complex: undefined
-    - dot: undefined
-    - drawing: undefined
-    - england: undefined
-    - every: undefined
-    - figure: undefined
-    - figures: undefined
-    - four: undefined
-    - goes: undefined
-    - has: undefined
-    - he: undefined
-    - i: undefined
-    - interesting: undefined
-    - is: undefined
-    - knows: undefined
-    - lies: undefined
-    - line: undefined
-    - long: undefined
-    - my: undefined
-    - of: undefined
-    - on: undefined
-    - outline: undefined
-    - paper: undefined
-    - point: undefined
-    - see: undefined
-    - shape: undefined
-    - shapes: undefined
-    - she: undefined
-    - side: undefined
-    - sides: undefined
-    - simple: undefined
-    - small: undefined
-    - square: undefined
-    - stand: undefined
-    - standing: undefined
-    - straight: undefined
-    - table: undefined
-    - the: undefined
-    - this: undefined
-    - three: undefined
-    - through: undefined
-    - to: undefined
-    - triangle: undefined
-    - we: undefined
+    - a: jedin/один
+    - am: есть
+    - and: и
+    - are: byti/быти
+    - basic: основной
+    - beautiful: красивый
+    - big: большой
+    - circle: круг
+    - complex: сложный
+    - dot: точка
+    - drawing: рисунок
+    - england: англия
+    - every: каждый
+    - figure: фигура
+    - figures: фигуры
+    - four: четыре
+    - goes: идет
+    - has: имеет
+    - he: он
+    - i: я
+    - interesting: интересный
+    - is: есть
+    - knows: знает
+    - lies: лжет
+    - line: линия
+    - long: длинный
+    - my: мой
+    - of: из
+    - on: на
+    - outline: контур
+    - paper: бумага
+    - point: точка
+    - see: видеть
+    - shape: форма
+    - shapes: формы
+    - she: она
+    - side: сторона
+    - sides: стороны
+    - simple: простой
+    - small: маленький
+    - square: квадрат
+    - stand: стоять
+    - standing: стоит
+    - straight: прямо
+    - table: стол
+    - the: to
+    - this: это
+    - three: три
+    - through: через
+    - to: к
+    - triangle: треугольник
+    - we: мы

@@ -68,54 +68,44 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - вєлосипєдовъ: undefined
-    - вѣщии: undefined
-    - доларовъ: undefined
-    - дъва: undefined
-    - дъвадесѧть: undefined
-    - дъванадесѧть: undefined
-    - дєвѧтьнадесѧть: undefined
-    - дєсѧтьнадесѧть: undefined
-    - женъ: undefined
-    - компютєровъ: undefined
-    - котовъ: undefined
-    - мѫжьѥвъ: undefined
-    - осмьнадесѧть: undefined
-    - полєи: undefined
-    - пьсовъ: undefined
-    - пѧть: undefined
-    - пѧтьнадесѧть: undefined
-    - рꙋблѥвъ: undefined
-    - слъньцъ: undefined
-    - сєдмьнадесѧть: undefined
-    - тринадесѧть: undefined
-    - хлапьцєвъ: undefined
-    - часъвъниковъ: undefined
-    - чєтꙑринадесѧть: undefined
-    - шєсть: undefined
-    - шєстьнадесѧть: undefined
-    - ѥдинънадесѧть: undefined
+    - вєлосипєдовъ: of bicycles
+    - вѣщии: of things
+    - доларовъ: of dollars
+    - дъва: two
+    - дєсѧтьнадесѧть: nineteen (incorrect, should be seventeen)
+    - женъ: of women
+    - компютєровъ: of computers
+    - котовъ: of cats
+    - мѫжьѥвъ: of the husband
+    - полєи: of the field
+    - пьсовъ: of dogs
+    - пѧть: five
+    - рꙋблѥвъ: of rubles
+    - слъньцъ: of the sun
+    - хлапьцєвъ: of the boy
+    - часъвъниковъ: of the clocks
+    - шєсть: six
   English:
-    - bicycles: undefined
-    - boys: undefined
-    - cats: undefined
-    - clocks: undefined
-    - computers: undefined
-    - dogs: undefined
-    - dollars: undefined
-    - eighteen: undefined
-    - eleven: undefined
-    - fields: undefined
-    - fifteen: undefined
-    - fourteen: undefined
-    - men: undefined
-    - nineteen: undefined
-    - rubles: undefined
-    - seventeen: undefined
-    - sixteen: undefined
-    - suns: undefined
-    - things: undefined
-    - thirteen: undefined
-    - twelve: undefined
-    - twenty: undefined
-    - women: undefined
+    - bicycles: вєлосипєдꙑ
+    - boys: хлапъци
+    - cats: коти
+    - clocks: часъвъници
+    - computers: компютєрꙑ
+    - dogs: пьси
+    - dollars: доларꙑ
+    - eighteen: осмьнадесѧть
+    - eleven: ѥдинънадесѧть
+    - fields: полиꙗ
+    - fifteen: пѧтьнадесѧть
+    - fourteen: чєтꙑринадесѧть
+    - men: мѫжи
+    - nineteen: дєвѧтьнадесѧть
+    - rubles: рꙋбли
+    - seventeen: сєдмьнадесѧть
+    - sixteen: шєстьнадесѧть
+    - suns: слъньца
+    - things: вѣщи
+    - thirteen: тринадесѧть
+    - twelve: дъванадесѧть
+    - twenty: дъвадесѧть
+    - women: женꙑ

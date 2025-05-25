@@ -126,125 +126,105 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - азъ: undefined
-    - бартєкъ: undefined
-    - благодаримъ: undefined
-    - богомь: undefined
-    - бєсѣда: undefined
-    - бєсѣдѫ: undefined
-    - бꙑти: undefined
-    - вєчєръ: undefined
-    - готовъ: undefined
-    - да: undefined
-    - даваи: undefined
-    - добра: undefined
-    - добро: undefined
-    - добродошли: undefined
-    - добръ: undefined
-    - дьнь: undefined
-    - за: undefined
-    - здравъ: undefined
-    - здравѥ: undefined
-    - знамъ: undefined
-    - значитъ: undefined
-    - зовєши: undefined
-    - зовѫ: undefined
-    - и: undefined
-    - извини: undefined
-    - како: undefined
-    - ли: undefined
-    - лѣпьшє: undefined
-    - можьно: undefined
-    - можєтъ: undefined
-    - мьного: undefined
-    - на: undefined
-    - нощь: undefined
-    - нє: undefined
-    - оутро: undefined
-    - пардонъ: undefined
-    - повьтори: undefined
-    - поздрави: undefined
-    - поздравъ: undefined
-    - разꙋмѣлъ: undefined
-    - разꙋмѣмъ: undefined
-    - съ: undefined
-    - сь: undefined
-    - сєстрѫ: undefined
-    - сѧ: undefined
-    - тако: undefined
-    - твоѭ: undefined
-    - тобѣ: undefined
-    - тъждє: undefined
-    - тꙑ: undefined
-    - хвала: undefined
-    - чьто: undefined
-    - шькода: undefined
-    - ѥси: undefined
-    - ѥсмь: undefined
-    - ѥстъ: undefined
+    - азъ: I
+    - бартєкъ: Bartek (a name)
+    - благодаримъ: we thank
+    - богомь: with God
+    - бєсѣдѫ: conversation (accusative)
+    - бꙑти: to be
+    - готовъ: ready
+    - добра: good (feminine)
+    - добро: good
+    - добродошли: welcome
+    - за: for, behind
+    - здравѥ: health
+    - знамъ: I know
+    - значитъ: it means
+    - зовєши: you (singular) call
+    - зовѫ: I call
+    - и: and
+    - како: how
+    - ли: if, whether
+    - мьного: much, many
+    - на: on, to
+    - повьтори: repeat (imperative)
+    - поздрави: greetings
+    - разꙋмѣлъ: he understood
+    - разꙋмѣмъ: we understand
+    - съ: with
+    - сь: this
+    - сєстрѫ: sister (accusative)
+    - сѧ: oneself (reflexive pronoun)
+    - твоѭ: your (accusative)
+    - тобѣ: to you
+    - тъждє: also
+    - тꙑ: you (singular)
+    - ѥси: you are (singular)
+    - ѥсмь: I am
+    - ѥстъ: he/she/it is
   English:
-    - a: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - bartek: undefined
-    - better: undefined
-    - conversation: undefined
-    - day: undefined
-    - didn't: undefined
-    - does: undefined
-    - don't: undefined
-    - evening: undefined
-    - excuse: undefined
-    - for: undefined
-    - go: undefined
-    - god: undefined
-    - good: undefined
-    - greet: undefined
-    - greeting: undefined
-    - greetings: undefined
-    - health: undefined
-    - healthy: undefined
-    - healthy/hello: undefined
-    - hello: undefined
-    - how: undefined
-    - i: undefined
-    - is: undefined
-    - it: undefined
-    - know: undefined
-    - let's: undefined
-    - maybe: undefined
-    - maybe/can: undefined
-    - me: undefined
-    - mean: undefined
-    - morning: undefined
-    - much: undefined
-    - my: undefined
-    - name: undefined
-    - night: undefined
-    - no: undefined
-    - not: undefined
-    - pardon: undefined
-    - perhaps: undefined
-    - pity: undefined
-    - possible: undefined
-    - ready: undefined
-    - repeat: undefined
-    - sister: undefined
-    - so: undefined
-    - thank: undefined
-    - thanks: undefined
-    - that: undefined
-    - the: undefined
-    - this: undefined
-    - to: undefined
-    - too: undefined
-    - understand: undefined
-    - very: undefined
-    - welcome: undefined
-    - well: undefined
-    - what: undefined
-    - with: undefined
-    - yes: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - am: ѥсмь
+    - and: и
+    - are: byti/быти
+    - bartek: бартєкъ
+    - better: лѣпьшє
+    - conversation: бєсѣда
+    - day: дьнь
+    - didn't: (нє + past tense verb)
+    - does: дѣлаѥтъ
+    - don't: (нє + verb)
+    - evening: вєчєръ
+    - excuse: извинити
+    - for: за, на
+    - go: ити
+    - god: богъ
+    - good: добръ
+    - greet: поздравити
+    - greeting: поздравъ
+    - greetings: поздрави
+    - health: здравѥ
+    - healthy: здравъ
+    - healthy/hello: здраво
+    - hello: здраво
+    - how: како, какъ
+    - i: азъ, ꙗ
+    - is: ѥстъ
+    - it: ono
+    - know: знати, вѣдѣти
+    - let's: да
+    - maybe: можєтъ бꙑти
+    - maybe/can: можьно
+    - me: мєнє
+    - mean: значитъ
+    - morning: оутро
+    - much: мьного
+    - my: мои, моꙗ, моѥ
+    - name: имѧ
+    - night: нощь
+    - no: нє
+    - not: нє
+    - pardon: пардонъ
+    - perhaps: можєтъ бꙑти
+    - pity: жалость, шькода
+    - possible: можьно
+    - ready: готовъ
+    - repeat: повьторити
+    - sister: сєстра
+    - so: тако
+    - thank: благодарити
+    - thanks: хвала
+    - that: тъ, та, то
+    - the: to
+    - this: сь, сꙗ, сє
+    - to: къ, на
+    - too: тъждє
+    - understand: разꙋмѣти
+    - very: вєльми, прємо
+    - welcome: добродошли
+    - well: добро
+    - what: чьто
+    - with: съ
+    - yes: да
+    - you: тꙑ, вꙑ
+    - your: твои

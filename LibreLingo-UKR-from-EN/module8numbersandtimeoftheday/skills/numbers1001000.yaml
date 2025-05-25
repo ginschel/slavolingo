@@ -68,60 +68,50 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - велосипед: undefined
-    - велосипедів: undefined
-    - вісім: undefined
-    - вісімсот: undefined
-    - годинник: undefined
-    - два: undefined
-    - дві: undefined
-    - двісті: undefined
-    - девятсот: undefined
-    - доларів: undefined
-    - жінок: undefined
-    - комп'ютери: undefined
-    - котів: undefined
-    - один: undefined
-    - полів: undefined
-    - пятсот: undefined
-    - речі: undefined
-    - рублів: undefined
-    - собак: undefined
-    - сонця: undefined
-    - сто: undefined
-    - сім: undefined
-    - сімсот: undefined
-    - тисяча: undefined
-    - тисячі: undefined
-    - три: undefined
-    - триста: undefined
-    - хлопців: undefined
-    - чоловіків: undefined
-    - чотири: undefined
-    - чотириста: undefined
-    - шістсот: undefined
+    - велосипед: bicycle
+    - велосипедів: of bicycles
+    - вісім: eight
+    - годинник: clock
+    - два: two
+    - дві: two (feminine)
+    - доларів: of dollars
+    - жінок: of women
+    - комп'ютери: computers
+    - котів: of cats
+    - один: one
+    - полів: of fields
+    - речі: things
+    - рублів: of rubles
+    - собак: of dogs
+    - сонця: of the sun
+    - сім: seven
+    - тисячі: thousands
+    - три: three
+    - хлопців: of boys
+    - чоловіків: of men
+    - чотири: four
   English:
-    - bicycles: undefined
-    - boys: undefined
-    - cats: undefined
-    - clocks: undefined
-    - computers: undefined
-    - dogs: undefined
-    - dollars: undefined
-    - eight: undefined
-    - fields: undefined
-    - five: undefined
-    - four: undefined
-    - hundred: undefined
-    - men: undefined
-    - nine: undefined
-    - one: undefined
-    - rubles: undefined
-    - seven: undefined
-    - six: undefined
-    - suns: undefined
-    - things: undefined
-    - thousand: undefined
-    - three: undefined
-    - two: undefined
-    - women: undefined
+    - bicycles: велосипеди
+    - boys: хлопчики
+    - cats: коти
+    - clocks: годинники
+    - computers: комп'ютери
+    - dogs: собаки
+    - dollars: долари
+    - eight: вісім
+    - fields: поля
+    - five: п'ять
+    - four: чотири
+    - hundred: сто
+    - men: чоловіки
+    - nine: дев'ять
+    - one: один
+    - rubles: рублі
+    - seven: сім
+    - six: шість
+    - suns: сонця
+    - things: речі
+    - thousand: тисяча
+    - three: три
+    - two: два
+    - women: жінки

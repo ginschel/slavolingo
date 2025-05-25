@@ -7,7 +7,7 @@ New words:
     Translation: city
   - Word: dom
     Translation: house
-  - Word: plac/rynek
+  - Word: rynek
     Translation: square/market
   - Word: stacja
     Translation: station
@@ -31,7 +31,7 @@ Phrases:
     Translation: This is a big city.
   - Phrase: Dom stoi na ulicy.
     Translation: The house stands on the street.
-  - Phrase: Idziemy do placu/rynku.
+  - Phrase: Idziemy do rynku.
     Translation: We are going to the square.
   - Phrase: Stacja jest blisko centrum.
     Translation: The station is near the center.
@@ -55,7 +55,7 @@ Phrases:
     Translation: The church stands near the library.
   - Phrase: Ulica prowadzi do placu/rynku.
     Translation: The street leads to the square.
-  - Phrase: Na placu/rynku stoi fontanna.
+  - Phrase: Na rynku stoi fontanna.
     Translation: A fountain stands in the square.
   - Phrase: Most jest piękny i nowy.
     Translation: The bridge is beautiful and new.
@@ -70,114 +70,106 @@ Phrases:
 
 Mini-dictionary:
   Polish:
-    - biały: undefined
-    - bibliotece: undefined
-    - biblioteka: undefined
-    - biblioteki: undefined
-    - blisko: undefined
-    - centrum: undefined
-    - chleb: undefined
-    - ciepła: undefined
-    - czytam: undefined
-    - do: undefined
-    - dom: undefined
-    - domów: undefined
-    - duże: undefined
-    - dużo: undefined
-    - dzisiaj: undefined
-    - długa: undefined
-    - fontanna: undefined
-    - i: undefined
-    - idzie: undefined
-    - idziemy: undefined
-    - jest: undefined
-    - kościół: undefined
-    - książkę: undefined
-    - kupujemy: undefined
-    - ludzi: undefined
-    - ma: undefined
-    - miasto: undefined
-    - mieście: undefined
-    - most: undefined
-    - mój: undefined
-    - na: undefined
-    - nowy: undefined
-    - otwarty: undefined
-    - pełny: undefined
-    - piękny: undefined
-    - plac/rynek: undefined
-    - placu/rynku: undefined
-    - pociągów: undefined
-    - prowadzi: undefined
-    - prowadzić: undefined
-    - przez: undefined
-    - rzekę: undefined
-    - sklep: undefined
-    - sklepie: undefined
-    - sklepu: undefined
-    - stacja: undefined
-    - stary: undefined
-    - stoi: undefined
-    - targowisko: undefined
-    - targowisku: undefined
-    - to: undefined
-    - ulica: undefined
-    - ulicy: undefined
-    - w: undefined
+    - biały: white
+    - bibliotece: library
+    - biblioteki: library
+    - blisko: close
+    - centrum: center
+    - chleb: bread
+    - ciepła: warm
+    - czytam: I read
+    - do: to
+    - domów: homes
+    - duże: large
+    - dużo: much
+    - dzisiaj: today
+    - długa: long
+    - fontanna: fountain
+    - i: and
+    - idzie: goes
+    - idziemy: we go
+    - jest: is
+    - książkę: book
+    - kupujemy: we buy
+    - ludzi: people
+    - ma: has
+    - mieście: city
+    - mój: my
+    - na: on
+    - nowy: new
+    - otwarty: open
+    - pełny: full
+    - piękny: beautiful
+    - plac/rynek: square/market
+    - placu/rynku: square/market
+    - pociągów: trains
+    - prowadzi: leads
+    - prowadzić: lead
+    - przez: through
+    - rynku: market
+    - rzekę: river
+    - sklepie: shop
+    - sklepu: shop
+    - stary: old
+    - stoi: stands
+    - targowisku: market
+    - to: this
+    - ulicy: street
+    - w: in
   English:
-    - a: undefined
-    - and: undefined
-    - are: undefined
-    - at: undefined
-    - beautiful: undefined
-    - big: undefined
-    - book: undefined
-    - bread: undefined
-    - bridge: undefined
-    - buy: undefined
-    - center: undefined
-    - church: undefined
-    - city: undefined
-    - fountain: undefined
-    - full: undefined
-    - goes: undefined
-    - going: undefined
-    - has: undefined
-    - house: undefined
-    - houses: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - lead: undefined
-    - leads: undefined
-    - library: undefined
-    - long: undefined
-    - many: undefined
-    - market: undefined
-    - my: undefined
-    - near: undefined
-    - new: undefined
-    - of: undefined
-    - old: undefined
-    - on: undefined
-    - open: undefined
-    - over: undefined
-    - people: undefined
-    - read: undefined
-    - river: undefined
-    - shop: undefined
-    - shop/store: undefined
-    - square: undefined
-    - square/market: undefined
-    - stands: undefined
-    - station: undefined
-    - street: undefined
-    - the: undefined
-    - there: undefined
-    - this: undefined
-    - to: undefined
-    - today: undefined
-    - trains: undefined
-    - warm: undefined
-    - we: undefined
-    - white: undefined
+    - a: jedin/один
+    - and: i
+    - are: byti/быти
+    - at: w
+    - beautiful: piękna
+    - big: duży
+    - book: książka
+    - bread: chleb
+    - bridge: most
+    - buy: kupić
+    - center: centrum
+    - church: kościół
+    - city: miasto
+    - fountain: fontanna
+    - full: pełny
+    - goes: idzie
+    - going: idzie
+    - has: ma
+    - house: dom
+    - houses: domy
+    - i: ja
+    - in: w
+    - is: jest
+    - lead: prowadzić
+    - leads: prowadzi
+    - library: biblioteka
+    - long: długi
+    - many: wiele
+    - market: rynek
+    - my: mój
+    - near: blisko
+    - new: nowy
+    - of: z
+    - old: stary
+    - on: na
+    - open: otwarty
+    - over: nad
+    - people: ludzie
+    - read: czytać
+    - river: rzeka
+    - shop: sklep
+    - shop/store: sklep
+    - square: kwadrat
+    - square/market: plac/rynek
+    - stands: stoi
+    - station: stacja
+    - street: ulica
+    - the: to
+    - there: tam
+    - this: to
+    - to: do
+    - today: dzisiaj
+    - trains: pociągów
+    - warm: ciepły
+    - we: my
+    - white: biały

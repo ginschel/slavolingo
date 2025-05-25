@@ -83,154 +83,133 @@ Phrases:
     Translation: Not every month has thirty days.
   - Phrase: Жовтень є красивий місяць.
     Translation: October is a beautiful month.
-  - Phrase: Вівторок є днем спорту.
+  - Phrase: Вівторок днем спорту.
     Translation: Tuesday is the day for sports.
   - Phrase: Липень є місяцем літа.
     Translation: July is the month of summer.
 
 Mini-dictionary:
   Ukrainian:
-    - багато: undefined
-    - без: undefined
-    - березень: undefined
-    - в: undefined
-    - ввечері: undefined
-    - вересень: undefined
-    - вихідний: undefined
-    - вівторок: undefined
-    - відпочинку: undefined
-    - відпустку: undefined
-    - гондурасу: undefined
-    - грудень: undefined
-    - грудні: undefined
-    - день: undefined
-    - для: undefined
-    - днем: undefined
-    - днів: undefined
-    - до: undefined
-    - жовтень: undefined
-    - завдання: undefined
-    - йдемо: undefined
-    - квітень: undefined
-    - кожен: undefined
-    - красивий: undefined
-    - липень: undefined
-    - листопад: undefined
-    - лютий: undefined
-    - лютому: undefined
-    - літа: undefined
-    - маю: undefined
-    - має: undefined
-    - мій: undefined
-    - місяцем: undefined
-    - місяць: undefined
-    - на: undefined
-    - не: undefined
-    - неділя: undefined
-    - новий: undefined
-    - останній: undefined
-    - п'ятницею: undefined
-    - п'ятницю: undefined
-    - перед: undefined
-    - першим: undefined
-    - понеділка: undefined
-    - понеділок: undefined
-    - посередині: undefined
-    - пятниця: undefined
-    - після: undefined
-    - роботи: undefined
-    - робочий: undefined
-    - родини: undefined
-    - рік: undefined
-    - середа: undefined
-    - середу: undefined
-    - серпень: undefined
-    - серпні: undefined
-    - снігу: undefined
-    - спорту: undefined
-    - субота: undefined
-    - січень: undefined
-    - січні: undefined
-    - тиждень: undefined
-    - тижня: undefined
-    - тижні: undefined
-    - то: undefined
-    - травень: undefined
-    - тридцять: undefined
-    - улюблений: undefined
-    - фільм: undefined
-    - час: undefined
-    - червень: undefined
-    - четвер: undefined
-    - є: undefined
-    - їду: undefined
+    - багато: a lot, many, much
+    - без: without
+    - в: in, at
+    - ввечері: in the evening
+    - вихідний: weekend
+    - відпочинку: of rest
+    - відпустку: vacation (accusative)
+    - гондурасу: of Honduras
+    - грудні: in December
+    - день: day
+    - для: for
+    - днем: by day
+    - днів: of days
+    - до: to, until
+    - завдання: task, assignment
+    - йдемо: we go
+    - кожен: each, every
+    - красивий: beautiful (masculine)
+    - лютому: in February
+    - літа: years
+    - маю: I have
+    - має: has
+    - мій: my (masculine)
+    - місяцем: with the month
+    - на: on, at
+    - не: not
+    - новий: new (masculine)
+    - останній: last
+    - п'ятницею: with Friday
+    - п'ятницю: Friday (accusative)
+    - перед: before, in front of
+    - першим: with the first
+    - понеділка: of Monday
+    - посередині: in the middle
+    - після: after
+    - роботи: of work
+    - робочий: working
+    - родини: of the family
+    - рік: year
+    - середу: Wednesday (accusative)
+    - серпні: in August
+    - снігу: of snow
+    - спорту: of sport
+    - січні: in January
+    - тижня: of the week
+    - тижні: in the week
+    - то: then, that is
+    - тридцять: thirty
+    - улюблений: favorite
+    - фільм: film, movie
+    - час: time, hour
+    - є: is, are
+    - їду: I go (by transport)
   English:
-    - a: undefined
-    - after: undefined
-    - am: undefined
-    - an: undefined
-    - april: undefined
-    - are: undefined
-    - assignment: undefined
-    - august: undefined
-    - beautiful: undefined
-    - before: undefined
-    - day: undefined
-    - days: undefined
-    - december: undefined
-    - evening: undefined
-    - every: undefined
-    - family: undefined
-    - favorite: undefined
-    - february: undefined
-    - first: undefined
-    - for: undefined
-    - friday: undefined
-    - going: undefined
-    - has: undefined
-    - have: undefined
-    - honduras: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - january: undefined
-    - july: undefined
-    - june: undefined
-    - last: undefined
-    - lot: undefined
-    - march: undefined
-    - may: undefined
-    - middle: undefined
-    - monday: undefined
-    - month: undefined
-    - movies: undefined
-    - my: undefined
-    - new: undefined
-    - not: undefined
-    - november: undefined
-    - october: undefined
-    - of: undefined
-    - on: undefined
-    - rest: undefined
-    - saturday: undefined
-    - september: undefined
-    - snow: undefined
-    - sports: undefined
-    - summer: undefined
-    - sunday: undefined
-    - the: undefined
-    - there: undefined
-    - thirty: undefined
-    - thursday: undefined
-    - time: undefined
-    - to: undefined
-    - tuesday: undefined
-    - vacation: undefined
-    - we: undefined
-    - wednesday: undefined
-    - week: undefined
-    - weekend: undefined
-    - without: undefined
-    - work: undefined
-    - working: undefined
-    - year's: undefined
+    - a: jedin/один
+    - after: після
+    - am: є
+    - an: ан
+    - april: квітень
+    - are: byti/быти
+    - assignment: завдання
+    - august: серпень
+    - beautiful: красивий
+    - before: перед
+    - day: день
+    - days: дні
+    - december: грудень
+    - evening: вечір
+    - every: кожен
+    - family: сім'я
+    - favorite: улюблений
+    - february: лютий
+    - first: перший
+    - for: для
+    - friday: п'ятниця
+    - going: йде
+    - has: має
+    - have: мати
+    - honduras: гондурас
+    - i: я
+    - in: в
+    - is: є
+    - january: січень
+    - july: липень
+    - june: червень
+    - last: останній
+    - lot: багато
+    - march: березень
+    - may: може
+    - middle: середина
+    - monday: понеділок
+    - month: місяць
+    - movies: фільми
+    - my: мій
+    - new: новий
+    - not: не
+    - november: листопад
+    - october: жовтень
+    - of: з
+    - on: на
+    - rest: відпочинок
+    - saturday: субота
+    - september: вересень
+    - snow: сніг
+    - sports: види спорту
+    - summer: літо
+    - sunday: неділя
+    - the: to
+    - there: там
+    - thirty: тридцять
+    - thursday: четвер
+    - time: час
+    - to: до
+    - tuesday: вівторок
+    - vacation: відпустка
+    - we: ми
+    - wednesday: середа
+    - week: тиждень
+    - weekend: вихідні
+    - without: без
+    - work: робота
+    - working: працює
+    - year's: року

@@ -90,145 +90,124 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - авгꙋстъ: undefined
-    - авгꙋстꙋ: undefined
-    - апрїль: undefined
-    - бєзъ: undefined
-    - ваканции: undefined
-    - викєндъ: undefined
-    - въ: undefined
-    - въторъкъ: undefined
-    - вєчєромъ: undefined
-    - до: undefined
-    - дъновъ: undefined
-    - дьнь: undefined
-    - дьньмъ: undefined
-    - дєкємвриꙋ: undefined
-    - дєкємврїи: undefined
-    - за: undefined
-    - заданиѥ: undefined
-    - идємъ: undefined
-    - имамъ: undefined
-    - имаѥтъ: undefined
-    - июль: undefined
-    - июнь: undefined
-    - каждъи: undefined
-    - красьнъи: undefined
-    - любимъи: undefined
-    - лѣта: undefined
-    - маи: undefined
-    - марта: undefined
-    - мои: undefined
-    - мьного: undefined
-    - мѣсѧць: undefined
-    - мѣсѧцємъ: undefined
-    - на: undefined
-    - новъи: undefined
-    - новємврїи: undefined
-    - нє: undefined
-    - нєдѣлꙗ: undefined
-    - октѡврїи: undefined
-    - отьпочинька: undefined
-    - по: undefined
-    - понєдѣлъкъ: undefined
-    - понєдѣлъкꙋ: undefined
-    - послѣдьнъи: undefined
-    - пръвъи: undefined
-    - прѣдъ: undefined
-    - пѧтъкомъ: undefined
-    - пѧтъкъ: undefined
-    - работънъи: undefined
-    - роботꙑ: undefined
-    - родоѭ: undefined
-    - рокъ: undefined
-    - снѣга: undefined
-    - спорта: undefined
-    - срєдъинѣ: undefined
-    - срѣда: undefined
-    - срѣдꙋ: undefined
-    - сєптємврїи: undefined
-    - сѫбота: undefined
-    - тридесѧть: undefined
-    - тъ: undefined
-    - тꙑждньꙋ: undefined
-    - тꙑждньꙗ: undefined
-    - тꙑжьдьнь: undefined
-    - фильмъ: undefined
-    - фєвроѵарии: undefined
-    - фєвроѵариꙋ: undefined
-    - хондꙋрасъ: undefined
-    - часъ: undefined
-    - чєтврьтъкъ: undefined
-    - ѥстъ: undefined
-    - ꙗноуарии: undefined
-    - ꙗноуариꙋ: undefined
+    - авгꙋстꙋ: in August
+    - бєзъ: without
+    - ваканции: holidays
+    - викєндъ: weekend
+    - въ: in, at
+    - вєчєромъ: in the evening
+    - до: to, until
+    - дъновъ: of days
+    - дьнь: day
+    - дьньмъ: by day
+    - дєкємвриꙋ: in December
+    - за: for, behind
+    - заданиѥ: task, exercise
+    - идємъ: we go
+    - имамъ: I have
+    - имаѥтъ: he/she/it has
+    - каждъи: each, every
+    - красьнъи: beautiful
+    - любимъи: beloved
+    - лѣта: years
+    - мои: my (plural)
+    - мьного: much, many
+    - мѣсѧцємъ: with a month
+    - на: on, to
+    - новъи: new
+    - нє: no, not
+    - отьпочинька: of rest
+    - по: after, along
+    - понєдѣлъкꙋ: on Monday
+    - послѣдьнъи: last
+    - пръвъи: first
+    - прѣдъ: before, in front of
+    - пѧтъкомъ: on Friday
+    - работънъи: working
+    - роботꙑ: of the robot
+    - родоѭ: with the family
+    - рокъ: year
+    - снѣга: of snow
+    - спорта: of sport
+    - срєдъинѣ: in the middle
+    - срѣдꙋ: Wednesday (accusative)
+    - тридесѧть: thirty
+    - тъ: that, he
+    - тꙑждньꙋ: in the week
+    - тꙑждньꙗ: of the week
+    - фильмъ: film, movie
+    - фєвроѵариꙋ: in February
+    - хондꙋрасъ: Honduras
+    - часъ: hour
+    - ѥстъ: he/she/it is
+    - ꙗноуариꙋ: in January
   English:
-    - a: undefined
-    - after: undefined
-    - am: undefined
-    - an: undefined
-    - april: undefined
-    - are: undefined
-    - assignment: undefined
-    - august: undefined
-    - beautiful: undefined
-    - before: undefined
-    - day: undefined
-    - days: undefined
-    - december: undefined
-    - evening: undefined
-    - every: undefined
-    - family: undefined
-    - favorite: undefined
-    - february: undefined
-    - first: undefined
-    - for: undefined
-    - friday: undefined
-    - going: undefined
-    - has: undefined
-    - have: undefined
-    - honduras: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - january: undefined
-    - july: undefined
-    - june: undefined
-    - last: undefined
-    - lot: undefined
-    - march: undefined
-    - may: undefined
-    - middle: undefined
-    - monday: undefined
-    - month: undefined
-    - movies: undefined
-    - my: undefined
-    - new: undefined
-    - not: undefined
-    - november: undefined
-    - october: undefined
-    - of: undefined
-    - on: undefined
-    - rest: undefined
-    - saturday: undefined
-    - september: undefined
-    - snow: undefined
-    - sports: undefined
-    - summer: undefined
-    - sunday: undefined
-    - the: undefined
-    - there: undefined
-    - thirty: undefined
-    - thursday: undefined
-    - time: undefined
-    - to: undefined
-    - tuesday: undefined
-    - vacation: undefined
-    - we: undefined
-    - wednesday: undefined
-    - week: undefined
-    - weekend: undefined
-    - without: undefined
-    - work: undefined
-    - working: undefined
-    - year's: undefined
+    - a: jedin/один
+    - after: по
+    - am: ѥсмь
+    - an: (not directly translated)
+    - april: апрїль
+    - are: byti/быти
+    - assignment: заданиѥ
+    - august: авгꙋстъ
+    - beautiful: красьнъ
+    - before: прѣдъ
+    - day: дьнь
+    - days: дьни
+    - december: дєкємврь
+    - evening: вєчєръ
+    - every: въсѧкъ
+    - family: родъ
+    - favorite: любимъ
+    - february: фєвроуарь
+    - first: пръвъ
+    - for: за, на
+    - friday: пѧтъкъ
+    - going: идєтъ
+    - has: имаѥтъ
+    - have: имати
+    - honduras: хондꙋрасъ
+    - i: азъ, ꙗ
+    - in: въ
+    - is: ѥстъ
+    - january: ꙗноуарь
+    - july: июль
+    - june: июнь
+    - last: послѣдьнъ
+    - lot: мьного
+    - march: мартъ
+    - may: маи
+    - middle: срѣда
+    - monday: понєдѣлъкъ
+    - month: мѣсѧць
+    - movies: фильмꙑ
+    - my: мои, моꙗ, моѥ
+    - new: новъ
+    - not: нє
+    - november: ноємврь
+    - october: октѡврь
+    - of: (genitive case)
+    - on: на
+    - rest: отьпочинъкъ
+    - saturday: сѫбота
+    - september: сєптємврь
+    - snow: снѣгъ
+    - sports: спортъ
+    - summer: лѣто
+    - sunday: нєдѣлꙗ
+    - the: to
+    - there: тамъ
+    - thirty: тридесѧть
+    - thursday: чєтврьтъкъ
+    - time: врѣмѧ, часъ
+    - to: къ, на
+    - tuesday: въторъкъ
+    - vacation: ваканции
+    - we: мꙑ
+    - wednesday: срѣда
+    - week: тꙑжьдьнь
+    - weekend: викєндъ
+    - without: бєзъ
+    - work: работа
+    - working: работаѥтъ
+    - year's: рока

@@ -5,7 +5,7 @@ The **Dative case** is used to indicate the indirect object of a verb – **to w
 * **Nouns:** Endings change based on gender, number, and hard/soft stem.
     * *Singular Masculine/Neuter:* ending **-u** or **-owi**. (e.g., bratu, daję nauczyciel**owi** - I give to a teacher, miast**u** - to a city, pol**u** - to a field).
     * *Singular Feminine:* ending **-e** (after hard consonant), **-i** (after soft consonant). (e.g., siostrz**e** - to a sister, ziem**i** - to the earth).
-    * *Plural (all genders):* ending **-om**. (e.g., brat**om** - to brothers, nauczyciel**om** - to teachers, siostr**om** - to sisters, miast**om** - to cities).
+    * *Plural (all genders):* ending **-om**. (e.g., student**om** - to students, nauczyciel**om** - to teachers, siostr**om** - to sisters, miast**om** - to cities).
 * **Adjectives:**
     * *Singular Masculine/Neuter:* ending **-emu**. (e.g., dobr**emu** bratu - to a good brother, ostatni**emu** nauczycielowi - to the last teacher)
     * *Singular Feminine:* ending **-ej**. (e.g., dobr**ej** siostrze - to a good sister, ostatn**iej** ziemi - to the last piece of land)

@@ -70,116 +70,105 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - вꙑсока: undefined
-    - дамъ: undefined
-    - даѥтъ: undefined
-    - до: undefined
-    - добра: undefined
-    - добръ: undefined
-    - дьнь: undefined
-    - дьнѥвъ: undefined
-    - за: undefined
-    - злъи: undefined
-    - книгѫ: undefined
-    - кълбаса: undefined
-    - кълбасꙑ: undefined
-    - кꙋпити: undefined
-    - кꙋпьць: undefined
-    - кꙋпꙋѥтъ: undefined
-    - кꙋсъ: undefined
-    - магазина: undefined
-    - малъи: undefined
-    - масла: undefined
-    - млѣко: undefined
-    - мѧсо: undefined
-    - на: undefined
-    - нова: undefined
-    - нємаѥтъ: undefined
-    - о: undefined
-    - одєжь: undefined
-    - она: undefined
-    - онъ: undefined
-    - повъратокъ: undefined
-    - повъратъка: undefined
-    - подлогѣ: undefined
-    - подьписанъи: undefined
-    - продавати: undefined
-    - продавьць: undefined
-    - продавьцꙋ: undefined
-    - продаѥтъ: undefined
-    - пꙑтати: undefined
-    - пꙑтаѥтъ: undefined
-    - свѣжа: undefined
-    - свѣжь: undefined
-    - стои: undefined
-    - сь: undefined
-    - сьнижькѫ: undefined
-    - сєдмь: undefined
-    - сꙑра: undefined
-    - торба: undefined
-    - тѧжька: undefined
-    - тꙋ: undefined
-    - хлѣба: undefined
-    - хлѣбъ: undefined
-    - хощемъ: undefined
-    - цѣна: undefined
-    - цѣнꙋ: undefined
-    - чєкъ: undefined
-    - ыморѥнъи: undefined
-    - ѥстъ: undefined
+    - вꙑсока: high, tall (feminine)
+    - дамъ: I will give
+    - даѥтъ: he/she/it gives
+    - до: to, until
+    - добра: good (feminine)
+    - добръ: good (masculine)
+    - дьнь: day
+    - дьнѥвъ: of days
+    - за: for, behind
+    - злъи: evil
+    - книгѫ: book (accusative)
+    - кълбаса: sausage
+    - кълбасꙑ: of the sausage
+    - кꙋпꙋѥтъ: he/she/it buys
+    - магазина: of the store
+    - малъи: small
+    - масла: of butter
+    - млѣко: milk
+    - мѧсо: meat
+    - на: on, to
+    - нова: new (feminine)
+    - нємаѥтъ: he/she/it doesn't have
+    - о: about, on
+    - она: she
+    - онъ: he
+    - повъратъка: return
+    - подлогѣ: on the floor
+    - подьписанъи: signed
+    - продавьць: seller
+    - продавьцꙋ: to the seller
+    - продаѥтъ: he/she/it sells
+    - пꙑтаѥтъ: he/she/it asks
+    - свѣжа: fresh (feminine)
+    - стои: it costs, it stands
+    - сь: this
+    - сьнижькѫ: snowflake (accusative)
+    - сєдмь: seven
+    - сꙑра: of cheese
+    - тѧжька: heavy (feminine)
+    - тꙋ: here
+    - хлѣба: of bread
+    - хлѣбъ: bread
+    - хощемъ: we want
+    - цѣнꙋ: price (accusative)
+    - ыморѥнъи: tired
+    - ѥстъ: he/she/it is
   English:
-    - a: undefined
-    - about: undefined
-    - are: undefined
-    - ask: undefined
-    - asks: undefined
-    - bad: undefined
-    - bag: undefined
-    - book: undefined
-    - bread: undefined
-    - butter: undefined
-    - buy: undefined
-    - buying: undefined
-    - cheese: undefined
-    - clothes: undefined
-    - customer: undefined
-    - days: undefined
-    - discount: undefined
-    - floor: undefined
-    - for: undefined
-    - fresh: undefined
-    - give: undefined
-    - gives: undefined
-    - good: undefined
-    - he: undefined
-    - heavy: undefined
-    - high: undefined
-    - i: undefined
-    - is: undefined
-    - meat: undefined
-    - milk: undefined
-    - new: undefined
-    - no: undefined
-    - of: undefined
-    - on: undefined
-    - piece: undefined
-    - price: undefined
-    - receipt: undefined
-    - return: undefined
-    - returns: undefined
-    - sausage: undefined
-    - sell: undefined
-    - seller: undefined
-    - sells: undefined
-    - seven: undefined
-    - she: undefined
-    - shop: undefined
-    - signed: undefined
-    - small: undefined
-    - the: undefined
-    - this: undefined
-    - tired: undefined
-    - to: undefined
-    - today: undefined
-    - want: undefined
-    - within: undefined
+    - a: jedin/один
+    - about: о
+    - are: byti/быти
+    - ask: пꙑтати
+    - asks: пꙑтаѥтъ
+    - bad: хꙋдъ
+    - bag: торба
+    - book: книга
+    - bread: хлѣбъ
+    - butter: масло
+    - buy: кꙋпити
+    - buying: кꙋпꙋѥтъ
+    - cheese: сꙑръ
+    - clothes: одєжь
+    - customer: кꙋпьць
+    - days: дьни
+    - discount: (no direct equivalent)
+    - floor: подлога
+    - for: за, на
+    - fresh: свѣжь
+    - give: дати
+    - gives: даѥтъ
+    - good: добръ
+    - he: онъ
+    - heavy: тѧжькъ
+    - high: вꙑсокъ
+    - i: азъ, ꙗ
+    - is: ѥстъ
+    - meat: мѧсо
+    - milk: млѣко
+    - new: новъ
+    - no: нє
+    - of: (genitive case)
+    - on: на
+    - piece: кꙋсъ
+    - price: цѣна
+    - receipt: чєкъ
+    - return: повъратокъ
+    - returns: повърачаѥтъ сѧ
+    - sausage: кълбаса
+    - sell: продавати
+    - seller: продавьць
+    - sells: продаѥтъ
+    - seven: сєдмь
+    - she: она
+    - shop: магазинъ
+    - signed: подьписанъ
+    - small: малъ
+    - the: to
+    - this: сь, сꙗ, сє
+    - tired: ыморѥнъ
+    - to: къ, на
+    - today: дьньсь
+    - want: хотѣти
+    - within: въ

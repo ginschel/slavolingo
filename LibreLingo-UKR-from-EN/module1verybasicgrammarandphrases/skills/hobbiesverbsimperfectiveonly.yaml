@@ -53,7 +53,7 @@ Phrases:
     Translation: We are playing chess.
   - Phrase: Вони слухають радіо.
     Translation: They are listening to the radio.
-  - Phrase: Чи читаєш ти романи?
+  - Phrase: Чи читаєш романи?
     Translation: Do you read novels?
   - Phrase: Він пише щоденник.
     Translation: He is writing a diary.
@@ -72,123 +72,115 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - багато: undefined
-    - в: undefined
-    - ви: undefined
-    - вона: undefined
-    - вони: undefined
-    - вчимося: undefined
-    - вчитесь: undefined
-    - вчитися: undefined
-    - він: undefined
-    - грати: undefined
-    - грає: undefined
-    - граємо: undefined
-    - групою: undefined
-    - гітарі: undefined
-    - дивимось: undefined
-    - дивитись: undefined
-    - дивишся: undefined
-    - друзями: undefined
-    - з: undefined
-    - картини: undefined
-    - картину: undefined
-    - книжку: undefined
-    - листи: undefined
-    - малювати: undefined
-    - малюю: undefined
-    - малюємо: undefined
-    - ми: undefined
-    - мови: undefined
-    - музику: undefined
-    - на: undefined
-    - одяг: undefined
-    - писати: undefined
-    - пише: undefined
-    - пісні: undefined
-    - радіо: undefined
-    - романи: undefined
-    - серіал: undefined
-    - сидить: undefined
-    - сидіти: undefined
-    - слухати: undefined
-    - слухають: undefined
-    - співати: undefined
-    - співаю: undefined
-    - співає: undefined
-    - танцювати: undefined
-    - танцюю: undefined
-    - ти: undefined
-    - тут: undefined
-    - футбол: undefined
-    - фільм: undefined
-    - чи: undefined
-    - читати: undefined
-    - читаю: undefined
-    - читає: undefined
-    - читаєш: undefined
-    - шахи: undefined
-    - шити: undefined
-    - шию: undefined
-    - шиє: undefined
-    - шиєш: undefined
-    - щоденник: undefined
-    - я: undefined
-    - і: undefined
+    - багато: a lot, many, much
+    - в: in, at
+    - ви: you (plural)
+    - вона: she
+    - вони: they
+    - вчимося: we learn
+    - вчитесь: you learn
+    - він: he
+    - грає: plays
+    - граємо: we play
+    - групою: with a group
+    - гітарі: on the guitar
+    - дивимось: we watch
+    - дивишся: you watch
+    - друзями: with friends
+    - з: with, from
+    - картини: pictures
+    - картину: picture (accusative)
+    - книжку: book (accusative)
+    - листи: letters
+    - малюю: I draw
+    - малюємо: we draw
+    - ми: we
+    - мови: of the language
+    - музику: music (accusative)
+    - на: on, at
+    - одяг: clothes
+    - писати: to write
+    - пише: writes
+    - пісні: songs
+    - радіо: radio
+    - романи: novels
+    - серіал: series
+    - сидить: sits
+    - сидіти: to sit
+    - слухають: they listen
+    - співаю: I sing
+    - співає: sings
+    - танцюю: I dance
+    - ти: you (singular)
+    - тут: here
+    - футбол: football
+    - фільм: film, movie
+    - чи: if, whether
+    - читаю: I read
+    - читає: reads
+    - читаєш: you read
+    - шахи: chess
+    - шити: to sew
+    - шию: I sew
+    - шиє: sews
+    - шиєш: you sew
+    - щоденник: diary
+    - я: I
+    - і: and
   English:
-    - a: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - book: undefined
-    - chess: undefined
-    - clothes: undefined
-    - dance: undefined
-    - diary: undefined
-    - do: undefined
-    - film: undefined
-    - football: undefined
-    - friends: undefined
-    - group: undefined
-    - guitar: undefined
-    - he: undefined
-    - here: undefined
-    - i: undefined
-    - is: undefined
-    - language: undefined
-    - learn: undefined
-    - learning: undefined
-    - letters: undefined
-    - listen: undefined
-    - listening: undefined
-    - lot: undefined
-    - music: undefined
-    - novels: undefined
-    - paint: undefined
-    - painting: undefined
-    - picture: undefined
-    - pictures: undefined
-    - play: undefined
-    - playing: undefined
-    - radio: undefined
-    - read: undefined
-    - reading: undefined
-    - series: undefined
-    - sew: undefined
-    - sewing: undefined
-    - she: undefined
-    - sing: undefined
-    - singing: undefined
-    - sit: undefined
-    - sitting: undefined
-    - songs: undefined
-    - the: undefined
-    - they: undefined
-    - to: undefined
-    - watch: undefined
-    - watching: undefined
-    - we: undefined
-    - with: undefined
-    - write: undefined
-    - writing: undefined
-    - you: undefined
+    - a: jedin/один
+    - am: є
+    - and: і
+    - are: byti/быти
+    - book: книга
+    - chess: шахи
+    - clothes: одяг
+    - dance: танець
+    - diary: щоденник
+    - do: робити
+    - film: фільм
+    - football: футбол
+    - friends: друзі
+    - group: група
+    - guitar: гітара
+    - he: він
+    - here: тут
+    - i: я
+    - is: є
+    - language: мова
+    - learn: вчитися
+    - learning: навчання
+    - letters: листи
+    - listen: слухати
+    - listening: слухає
+    - lot: багато
+    - music: музика
+    - novels: романи
+    - paint: фарба
+    - painting: живопис
+    - picture: картина
+    - pictures: картини
+    - play: грати
+    - playing: грає
+    - radio: радіо
+    - read: читати
+    - reading: читання
+    - series: серія
+    - sew: шити
+    - sewing: шиття
+    - she: вона
+    - sing: співати
+    - singing: співає
+    - sit: сидіти
+    - sitting: сидить
+    - songs: пісні
+    - the: to
+    - they: вони
+    - to: до
+    - watch: дивитися
+    - watching: дивиться
+    - we: ми
+    - with: з
+    - write: писати
+    - writing: написання
+    - you: ви

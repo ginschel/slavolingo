@@ -31,25 +31,25 @@ New words:
     Translation: melon
 
 Phrases:
-  - Phrase: Яблоко есть красное.
+  - Phrase: Яблоко красное.
     Translation: The apple is red.
-  - Phrase: Груша есть вкусная.
+  - Phrase: Груша вкусная.
     Translation: The pear is tasty.
-  - Phrase: Банан есть жёлтый.
+  - Phrase: Банан жёлтый.
     Translation: The banana is yellow.
-  - Phrase: Апельсины суть сладкие.
+  - Phrase: Апельсины сладкие.
     Translation: The oranges are sweet.
-  - Phrase: Вишня есть кислая.
+  - Phrase: Вишня кислая.
     Translation: The cherry is sour.
-  - Phrase: Ягода есть малая и вкусная.
+  - Phrase: Ягода малая и вкусная.
     Translation: The strawberry is small and tasty.
   - Phrase: Виноград растёт на винограднике.
     Translation: Grapes grow on a vineyard.
-  - Phrase: Слива есть тёмная.
+  - Phrase: Слива тёмная.
     Translation: The plum is dark.
-  - Phrase: Лимон есть кислый и жёлтый.
+  - Phrase: Лимон кислый и жёлтый.
     Translation: The lemon is sour and yellow.
-  - Phrase: Дыня есть большая и сладкая.
+  - Phrase: Дыня большая и сладкая.
     Translation: The melon is big and sweet.
   - Phrase: Он готовит сливовицу из слив.
     Translation: He is preparing plum brandy from plums.
@@ -57,7 +57,7 @@ Phrases:
     Translation: She is drinking orange juice.
   - Phrase: Мы покупаем виноград.
     Translation: We are buying grapes.
-  - Phrase: Ягоды суть в миске.
+  - Phrase: Ягоды в миске.
     Translation: The strawberries are in the bowl.
   - Phrase: Слива есть уже созревшая.
     Translation: The plum is already ripe.
@@ -69,114 +69,100 @@ Phrases:
     Translation: The banana is in the bag.
   - Phrase: Вишня растёт на дереве.
     Translation: The cherry grows on a tree.
-  - Phrase: Дыня есть много вкусная.
+  - Phrase: Дыня много вкусная.
     Translation: The melon is very tasty.
 
 Mini-dictionary:
   Russian:
-    - апельсин: undefined
-    - апельсинов: undefined
-    - апельсины: undefined
-    - банан: undefined
-    - большая: undefined
-    - в: undefined
-    - виноград: undefined
-    - винограднике: undefined
-    - вишня: undefined
-    - вкусная: undefined
-    - готовит: undefined
-    - груша: undefined
-    - груши: undefined
-    - дереве: undefined
-    - добавляется: undefined
-    - дыня: undefined
-    - есть: undefined
-    - жёлтый: undefined
-    - и: undefined
-    - из: undefined
-    - кислая: undefined
-    - кислый: undefined
-    - красное: undefined
-    - лежат: undefined
-    - лимон: undefined
-    - малая: undefined
-    - миске: undefined
-    - много: undefined
-    - мы: undefined
-    - на: undefined
-    - он: undefined
-    - она: undefined
-    - покупаем: undefined
-    - пьёт: undefined
-    - растёт: undefined
-    - сладкая: undefined
-    - сладкие: undefined
-    - сладкий: undefined
-    - слив: undefined
-    - слива: undefined
-    - сливовицу: undefined
-    - созревшая: undefined
-    - созревший: undefined
-    - сок: undefined
-    - столе: undefined
-    - сумке: undefined
-    - суть: undefined
-    - тёмная: undefined
-    - уже: undefined
-    - чай: undefined
-    - яблоко: undefined
-    - ягода: undefined
-    - ягоды: undefined
+    - апельсинов: oranges
+    - апельсины: oranges
+    - большая: big
+    - в: in
+    - винограднике: vineyard
+    - вкусная: tasty
+    - готовит: cooks
+    - груши: pears
+    - дереве: tree
+    - добавляется: added
+    - есть: is
+    - жёлтый: yellow
+    - и: and
+    - из: from
+    - кислая: sour
+    - красное: red
+    - лежат: lie
+    - малая: small
+    - миске: bowl
+    - много: many
+    - мы: we
+    - на: on
+    - он: he
+    - она: she
+    - покупаем: buy
+    - пьёт: drinks
+    - растёт: grows
+    - сладкая: sweet
+    - сладкие: sweet
+    - слив: plums
+    - сливовицу: plum brandy
+    - созревшая: ripe
+    - сок: juice
+    - столе: table
+    - сумке: bag
+    - тёмная: dark
+    - уже: already
+    - чай: tea
+    - ягоды: strawberries
   English:
-    - a: undefined
-    - added: undefined
-    - already: undefined
-    - and: undefined
-    - apple: undefined
-    - are: undefined
-    - bag: undefined
-    - banana: undefined
-    - big: undefined
-    - bowl: undefined
-    - brandy: undefined
-    - buying: undefined
-    - cherry: undefined
-    - dark: undefined
-    - drinking: undefined
-    - from: undefined
-    - grapes: undefined
-    - grow: undefined
-    - grows: undefined
-    - he: undefined
-    - in: undefined
-    - is: undefined
-    - juice: undefined
-    - lemon: undefined
-    - lying: undefined
-    - melon: undefined
-    - on: undefined
-    - orange: undefined
-    - oranges: undefined
-    - pear: undefined
-    - pears: undefined
-    - plum: undefined
-    - plums: undefined
-    - preparing: undefined
-    - red: undefined
-    - ripe: undefined
-    - she: undefined
-    - small: undefined
-    - sour: undefined
-    - strawberries: undefined
-    - strawberry: undefined
-    - sweet: undefined
-    - table: undefined
-    - tasty: undefined
-    - tea: undefined
-    - the: undefined
-    - to: undefined
-    - tree: undefined
-    - very: undefined
-    - vineyard: undefined
-    - we: undefined
-    - yellow: undefined
+    - a: jedin/один
+    - added: добавил
+    - already: уже
+    - and: и
+    - apple: яблоко
+    - are: byti/быти
+    - bag: сумка
+    - banana: банан
+    - big: большой
+    - bowl: миска
+    - brandy: коньяк
+    - buying: покупает
+    - cherry: вишня
+    - dark: темный
+    - drinking: пьет
+    - from: от
+    - grapes: виноград
+    - grow: расти
+    - grows: растет
+    - he: он
+    - in: в
+    - is: есть
+    - juice: сок
+    - lemon: лимон
+    - lying: лежит
+    - melon: дыня
+    - on: на
+    - orange: оранжевый
+    - oranges: апельсины
+    - pear: груша
+    - pears: груши
+    - plum: слива
+    - plums: сливы
+    - preparing: готовит
+    - red: красный
+    - ripe: спелый
+    - she: она
+    - small: маленький
+    - sour: кислый
+    - strawberries: клубника
+    - strawberry: клубника
+    - sweet: сладкий
+    - table: стол
+    - tasty: вкусный
+    - tea: чай
+    - the: to
+    - to: к
+    - tree: дерево
+    - very: очень
+    - vineyard: виноградник
+    - we: мы
+    - yellow: желтый

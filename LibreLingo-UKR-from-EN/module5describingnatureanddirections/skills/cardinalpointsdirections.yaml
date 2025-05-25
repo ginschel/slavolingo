@@ -86,119 +86,102 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - воно: undefined
-    - вправо: undefined
-    - встати: undefined
-    - встає: undefined
-    - він: undefined
-    - вітер: undefined
-    - гріє: undefined
-    - де: undefined
-    - дивимось: undefined
-    - до: undefined
-    - дує: undefined
-    - живемо: undefined
-    - зараз: undefined
-    - заходить: undefined
-    - заході: undefined
-    - захід: undefined
-    - західний: undefined
-    - йдемо: undefined
-    - компас: undefined
-    - краї: undefined
-    - ліво: undefined
-    - ліворуч: undefined
-    - мапа/карта: undefined
-    - мапі: undefined
-    - музика: undefined
-    - на: undefined
-    - подорожувати: undefined
-    - подорожує: undefined
-    - показувати: undefined
-    - показує: undefined
-    - потім: undefined
-    - право: undefined
-    - прямо: undefined
-    - південний: undefined
-    - південної: undefined
-    - південні: undefined
-    - південь: undefined
-    - півдні: undefined
-    - півночі: undefined
-    - північ: undefined
-    - північна: undefined
-    - північний: undefined
-    - північно-західний: undefined
-    - регіон: undefined
-    - сніг: undefined
-    - сонце: undefined
-    - сторона: undefined
-    - сторони: undefined
-    - сході: undefined
-    - схід: undefined
-    - східна: undefined
-    - східний: undefined
-    - там: undefined
-    - теплий: undefined
-    - теплі: undefined
-    - холодна: undefined
-    - це: undefined
-    - цікава: undefined
-    - є: undefined
-    - і: undefined
+    - воно: it
+    - вправо: to the right
+    - встати: to get up
+    - встає: gets up
+    - він: he
+    - вітер: wind
+    - гріє: heats
+    - дивимось: we watch
+    - до: to, until
+    - дує: blows
+    - живемо: we live
+    - зараз: now
+    - заходить: sets (sun)
+    - заході: in the west
+    - йдемо: we go
+    - краї: countries
+    - ліворуч: to the left
+    - мапі: on the map
+    - музика: music
+    - на: on, at
+    - подорожує: travels
+    - показує: shows
+    - потім: then
+    - південної: of the south
+    - південні: southern (plural)
+    - півдні: in the south
+    - півночі: in the north
+    - північна: northern (feminine)
+    - північно-західний: northwestern
+    - регіон: region
+    - сніг: snow
+    - сонце: sun
+    - сторони: of the side
+    - сході: in the east
+    - східна: eastern (feminine)
+    - там: there
+    - теплий: warm (masculine)
+    - теплі: warm (plural)
+    - холодна: cold (feminine)
+    - це: this is, it is
+    - цікава: interesting (feminine)
+    - є: is, are
+    - і: and
   English:
-    - a: undefined
-    - and: undefined
-    - are: undefined
-    - blowing: undefined
-    - cold: undefined
-    - compass: undefined
-    - east: undefined
-    - eastern: undefined
-    - eastward: undefined
-    - going: undefined
-    - he: undefined
-    - in: undefined
-    - interesting: undefined
-    - is: undefined
-    - it: undefined
-    - left: undefined
-    - live: undefined
-    - looking: undefined
-    - map: undefined
-    - music: undefined
-    - north: undefined
-    - northern: undefined
-    - northwestern: undefined
-    - now: undefined
-    - on: undefined
-    - region: undefined
-    - regions: undefined
-    - right: undefined
-    - rise: undefined
-    - rises: undefined
-    - sets: undefined
-    - show: undefined
-    - shows: undefined
-    - side: undefined
-    - snow: undefined
-    - south: undefined
-    - southeast: undefined
-    - southern: undefined
-    - southwest: undefined
-    - straight: undefined
-    - sun: undefined
-    - the: undefined
-    - then: undefined
-    - there: undefined
-    - this: undefined
-    - to: undefined
-    - travel: undefined
-    - travels: undefined
-    - warm: undefined
-    - warms: undefined
-    - we: undefined
-    - west: undefined
-    - western: undefined
-    - where: undefined
-    - wind: undefined
+    - a: jedin/один
+    - and: і
+    - are: byti/быти
+    - blowing: дме
+    - cold: холодний
+    - compass: компас
+    - east: схід
+    - eastern: східний
+    - eastward: на схід
+    - going: йде
+    - he: він
+    - in: в
+    - interesting: цікавий
+    - is: є
+    - it: це
+    - left: лівий
+    - live: жити
+    - looking: дивлячись
+    - map: карта
+    - music: музика
+    - north: північ
+    - northern: північний
+    - northwestern: північно-західний
+    - now: зараз
+    - on: на
+    - region: регіон
+    - regions: регіони
+    - right: праворуч
+    - rise: підніматися
+    - rises: піднімається
+    - sets: набори
+    - show: показати
+    - shows: показує
+    - side: сторона
+    - snow: сніг
+    - south: південь
+    - southeast: південний схід
+    - southern: південний
+    - southwest: південний захід
+    - straight: прямий
+    - sun: сонце
+    - the: to
+    - then: потім
+    - there: там
+    - this: це
+    - to: до
+    - travel: подорож
+    - travels: подорожує
+    - warm: теплий
+    - warms: гріє
+    - we: ми
+    - west: захід
+    - western: західний
+    - where: де
+    - wind: вітер

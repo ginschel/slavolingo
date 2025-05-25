@@ -5,7 +5,7 @@ Skill:
 New words:
   - Word: приветствие
     Translation: greeting
-  - Word: здоровый/привет
+  - Word: Здравствуй/привет
     Translation: healthy/hello
   - Word: беседа
     Translation: conversation
@@ -53,23 +53,23 @@ Phrases:
     Translation: Good day!
   - Phrase: Доброй ночи!
     Translation: Good night!
-  - Phrase: Как ты есть?
+  - Phrase: Как дела?
     Translation: How are you?
-  - Phrase: Есмь добро, спасибо!
+  - Phrase: Всё хорошо, спасибо!
     Translation: I am well, thank you!
   - Phrase: И ты?
     Translation: And you?
   - Phrase: Спасибо тебе много.
     Translation: Thank you very much.
-  - Phrase: Пардон, не понимаю.
+  - Phrase: Извини, не понимаю.
     Translation: Excuse me, I don't understand.
   - Phrase: Привет!
     Translation: Greetings!
   - Phrase: Здравствуй!
     Translation: Hello!
-  - Phrase: Добрый день, как ты есть?
+  - Phrase: Добрый день, как дела?
     Translation: Good day, how are you?
-  - Phrase: Еси ли ты здоров?
+  - Phrase: Ты здоров?
     Translation: Are you healthy?
   - Phrase: Добро пожаловать!
     Translation: Welcome!
@@ -95,17 +95,17 @@ Phrases:
     Translation: What a pity!
   - Phrase: Добро!
     Translation: Good!
-  - Phrase: Не добро.
+  - Phrase: Не хорошо.
     Translation: Not good.
   - Phrase: Это есть лучше.
     Translation: This is better.
-  - Phrase: Это не есть лучше.
+  - Phrase: Это не лучше.
     Translation: This is not better.
   - Phrase: Да, может.
     Translation: Yes, it is possible.
   - Phrase: Нет, невозможно.
     Translation: No, it is not possible.
-  - Phrase: Есть ли это возможно?
+  - Phrase: Это возможно?
     Translation: Is this possible?
   - Phrase: Что это значит?
     Translation: What does this mean?
@@ -119,140 +119,123 @@ Phrases:
     Translation: Perhaps.
   - Phrase: Повтори. Не понял.
     Translation: Repeat. I didn't understand.
-  - Phrase: Еси ли готов?
+  - Phrase: Ти готов?
     Translation: Are you ready?
   - Phrase: Давай!
     Translation: Let's go!
 
 Mini-dictionary:
   Russian:
-    - бартек: undefined
-    - беседа: undefined
-    - беседу: undefined
-    - благодарю: undefined
-    - богом: undefined
-    - быть: undefined
-    - вечер: undefined
-    - возможно: undefined
-    - готов: undefined
-    - да: undefined
-    - давай: undefined
-    - день: undefined
-    - добро: undefined
-    - доброе: undefined
-    - доброй: undefined
-    - добрый: undefined
-    - еси: undefined
-    - есмь: undefined
-    - есть: undefined
-    - жаль: undefined
-    - за: undefined
-    - здоров: undefined
-    - здоровый/привет: undefined
-    - здоровье: undefined
-    - здравствуй: undefined
-    - значит: undefined
-    - знаю: undefined
-    - зовут: undefined
-    - и: undefined
-    - извини: undefined
-    - как: undefined
-    - ли: undefined
-    - лучше: undefined
-    - меня: undefined
-    - много: undefined
-    - может: undefined
-    - можно: undefined
-    - на: undefined
-    - не: undefined
-    - невозможно: undefined
-    - нет: undefined
-    - ночи: undefined
-    - ночь: undefined
-    - пардон: undefined
-    - повтори: undefined
-    - пожаловать: undefined
-    - понимаю: undefined
-    - понял: undefined
-    - привет: undefined
-    - приветствие: undefined
-    - приветствуй: undefined
-    - с: undefined
-    - сестру: undefined
-    - спасибо: undefined
-    - так: undefined
-    - твою: undefined
-    - тебе: undefined
-    - тебя: undefined
-    - тоже: undefined
-    - ты: undefined
-    - утро: undefined
-    - что: undefined
-    - это: undefined
-    - я: undefined
+    - бартек: bartek
+    - беседу: conversation
+    - благодарю: thank
+    - богом: god
+    - быть: be
+    - возможно: perhaps
+    - всё: everything
+    - готов: ready
+    - дела: affairs
+    - добро: good
+    - доброе: good
+    - доброй: good
+    - есть: is
+    - за: behind
+    - здоров: healthy
+    - здоровье: health
+    - здравствуй: hello
+    - здравствуй/привет: hello
+    - значит: means
+    - знаю: know
+    - зовут: call
+    - и: and
+    - как: as
+    - меня: me
+    - много: many
+    - может: can
+    - на: on
+    - не: no
+    - невозможно: impossible
+    - ночи: night
+    - повтори: repeat
+    - пожаловать: welcome
+    - понимаю: understand
+    - понял: understood
+    - привет: hello
+    - приветствуй: greet
+    - с: with
+    - сестру: sister
+    - твою: your
+    - тебе: you
+    - тебя: you
+    - ти: you
+    - тоже: also
+    - ты: you
+    - хорошо: good
+    - это: it
+    - я: i
   English:
-    - a: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - bartek: undefined
-    - better: undefined
-    - conversation: undefined
-    - day: undefined
-    - didn't: undefined
-    - does: undefined
-    - don't: undefined
-    - evening: undefined
-    - excuse: undefined
-    - for: undefined
-    - go: undefined
-    - god: undefined
-    - good: undefined
-    - greet: undefined
-    - greeting: undefined
-    - greetings: undefined
-    - health: undefined
-    - healthy: undefined
-    - healthy/hello: undefined
-    - hello: undefined
-    - how: undefined
-    - i: undefined
-    - is: undefined
-    - it: undefined
-    - know: undefined
-    - let's: undefined
-    - maybe: undefined
-    - maybe/can: undefined
-    - me: undefined
-    - mean: undefined
-    - morning: undefined
-    - much: undefined
-    - my: undefined
-    - name: undefined
-    - night: undefined
-    - no: undefined
-    - not: undefined
-    - pardon: undefined
-    - perhaps: undefined
-    - pity: undefined
-    - possible: undefined
-    - ready: undefined
-    - repeat: undefined
-    - sister: undefined
-    - so: undefined
-    - thank: undefined
-    - thanks: undefined
-    - that: undefined
-    - the: undefined
-    - this: undefined
-    - to: undefined
-    - too: undefined
-    - understand: undefined
-    - very: undefined
-    - welcome: undefined
-    - well: undefined
-    - what: undefined
-    - with: undefined
-    - yes: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - am: есть
+    - and: и
+    - are: byti/быти
+    - bartek: бартек
+    - better: лучше
+    - conversation: разговор
+    - day: день
+    - didn't: не
+    - does: делает
+    - don't: не
+    - evening: вечер
+    - excuse: извините
+    - for: для
+    - go: идти
+    - god: бог
+    - good: хороший
+    - greet: приветствовать
+    - greeting: приветствие
+    - greetings: приветствия
+    - health: здоровье
+    - healthy: здоровый
+    - healthy/hello: здравствуйте
+    - hello: здравствуйте
+    - how: как
+    - i: я
+    - is: есть
+    - it: это
+    - know: знать
+    - let's: давайте
+    - maybe: может быть
+    - maybe/can: может быть
+    - me: меня
+    - mean: означать
+    - morning: утро
+    - much: много
+    - my: мой
+    - name: имя
+    - night: ночь
+    - no: нет
+    - not: не
+    - pardon: простите
+    - perhaps: возможно
+    - pity: жаль
+    - possible: возможно
+    - ready: готовый
+    - repeat: повторять
+    - sister: сестра
+    - so: так
+    - thank: благодарить
+    - thanks: спасибо
+    - that: что
+    - the: to
+    - this: это
+    - to: к
+    - too: тоже
+    - understand: понимать
+    - very: очень
+    - welcome: добро пожаловать
+    - well: хорошо
+    - what: что
+    - with: с
+    - yes: да
+    - you: ты
+    - your: твой

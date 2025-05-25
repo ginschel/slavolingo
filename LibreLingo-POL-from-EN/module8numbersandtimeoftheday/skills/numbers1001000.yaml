@@ -68,66 +68,56 @@ Phrases:
 
 Mini-dictionary:
   Polish:
-    - chłopców: undefined
-    - cztery: undefined
-    - czterysta: undefined
-    - czterystu: undefined
-    - dolarów: undefined
-    - dwa: undefined
-    - dwieście: undefined
-    - dwustu: undefined
-    - dziewięciuset: undefined
-    - dziewięćset: undefined
-    - jeden: undefined
-    - kobiet: undefined
-    - komputery: undefined
-    - kotów: undefined
-    - mężów: undefined
-    - osiem: undefined
-    - osiemset: undefined
-    - ośmiuset: undefined
-    - pięciuset: undefined
-    - pięćset: undefined
-    - psów: undefined
-    - pól: undefined
-    - rowerów: undefined
-    - rubli: undefined
-    - rzeczy: undefined
-    - siedem: undefined
-    - siedemset: undefined
-    - sto: undefined
-    - stu: undefined
-    - sześciuset: undefined
-    - sześćset: undefined
-    - słońca: undefined
-    - trzy: undefined
-    - trzysta: undefined
-    - trzystu: undefined
-    - tysiąc: undefined
-    - tysiące: undefined
-    - zegarków: undefined
+    - chłopców: boys
+    - cztery: four
+    - czterystu: four hundred
+    - dolarów: dollars
+    - dwa: two
+    - dwustu: two hundred
+    - dziewięciuset: nine hundred
+    - jeden: one
+    - kobiet: women
+    - komputery: computers
+    - kotów: cats
+    - mężów: husbands
+    - osiem: eight
+    - ośmiuset: eight hundred
+    - pięciuset: five hundred
+    - psów: dogs
+    - pól: fields
+    - rowerów: bicycles
+    - rubli: rubles
+    - rzeczy: things
+    - siedem: seven
+    - stu: hundred
+    - sześciuset: six hundred
+    - słońca: sun
+    - trzy: three
+    - trzystu: three hundred
+    - tysiące: thousands
+    - zegarków: watches
   English:
-    - bicycles: undefined
-    - boys: undefined
-    - cats: undefined
-    - clocks: undefined
-    - computers: undefined
-    - dogs: undefined
-    - dollars: undefined
-    - eight: undefined
-    - fields: undefined
-    - five: undefined
-    - four: undefined
-    - hundred: undefined
-    - men: undefined
-    - nine: undefined
-    - one: undefined
-    - rubles: undefined
-    - seven: undefined
-    - six: undefined
-    - suns: undefined
-    - things: undefined
-    - thousand: undefined
-    - three: undefined
-    - two: undefined
-    - women: undefined
+    - bicycles: rowery
+    - boys: chłopców
+    - cats: koty
+    - clocks: zegarki
+    - computers: komputery
+    - dogs: psy
+    - dollars: dolary
+    - eight: osiem
+    - fields: pola
+    - five: pięć
+    - four: cztery
+    - hundred: sto
+    - men: mężczyźni
+    - nine: dziewięć
+    - one: jeden
+    - rubles: rubli
+    - seven: siedem
+    - six: sześć
+    - suns: słońca
+    - things: rzeczy
+    - thousand: tysiąc
+    - three: trzy
+    - two: dwa
+    - women: kobiet

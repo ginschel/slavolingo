@@ -31,7 +31,7 @@ Phrases:
     Translation: This is a big city.
   - Phrase: Дім стоїть на вулиці.
     Translation: The house stands on the street.
-  - Phrase: Йдемо до площі/майдану.
+  - Phrase: Йдемо до площі.
     Translation: We are going to the square.
   - Phrase: Станція є близько центру.
     Translation: The station is near the center.
@@ -55,7 +55,7 @@ Phrases:
     Translation: The church stands near the library.
   - Phrase: Вулиця веде до площі/майдану.
     Translation: The street leads to the square.
-  - Phrase: На площі/майдані стоїть фонтан.
+  - Phrase: На майдані стоїть фонтан.
     Translation: A fountain stands in the square.
   - Phrase: Міст є красивий і новий.
     Translation: The bridge is beautiful and new.
@@ -70,115 +70,106 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - багато: undefined
-    - близько: undefined
-    - бібліотека: undefined
-    - бібліотеки: undefined
-    - бібліотеці: undefined
-    - біла: undefined
-    - в: undefined
-    - веде: undefined
-    - велике: undefined
-    - вести: undefined
-    - вулиця: undefined
-    - вулиці: undefined
-    - відкритий: undefined
-    - до: undefined
-    - довга: undefined
-    - домів: undefined
-    - дім: undefined
-    - йде: undefined
-    - йдемо: undefined
-    - книжку: undefined
-    - красивий: undefined
-    - купуємо: undefined
-    - людей: undefined
-    - магазин: undefined
-    - магазину: undefined
-    - магазині: undefined
-    - має: undefined
-    - мій: undefined
-    - міст: undefined
-    - місто: undefined
-    - місті: undefined
-    - на: undefined
-    - новий: undefined
-    - площа/майдан: undefined
-    - площі/майдану: undefined
-    - площі/майдані: undefined
-    - повний: undefined
-    - поїздів: undefined
-    - річку: undefined
-    - станція: undefined
-    - стара: undefined
-    - стоїть: undefined
-    - сьогодні: undefined
-    - тепла: undefined
-    - торговище: undefined
-    - торговищі: undefined
-    - фонтан: undefined
-    - хліб: undefined
-    - це: undefined
-    - центру: undefined
-    - церква: undefined
-    - через: undefined
-    - читаю: undefined
-    - є: undefined
-    - і: undefined
+    - багато: a lot, many, much
+    - близько: near, close
+    - бібліотеки: of the library
+    - бібліотеці: in the library
+    - біла: white (feminine)
+    - в: in, at
+    - веде: leads
+    - велике: big (neuter)
+    - вести: to lead
+    - вулиці: on the street
+    - відкритий: open (masculine)
+    - до: to, until
+    - довга: long (feminine)
+    - домів: of houses
+    - йде: goes
+    - йдемо: we go
+    - книжку: book (accusative)
+    - красивий: beautiful (masculine)
+    - купуємо: we buy
+    - людей: of people
+    - магазину: of the shop
+    - магазині: in the shop
+    - майдані: in the square
+    - має: has
+    - мій: my (masculine)
+    - місті: in the city
+    - на: on, at
+    - новий: new (masculine)
+    - площі: on the square
+    - площі/майдану: of the square
+    - повний: full (masculine)
+    - поїздів: of trains
+    - річку: river (accusative)
+    - стара: old (feminine)
+    - стоїть: stands
+    - сьогодні: today
+    - тепла: warm (feminine)
+    - торговищі: at the marketplace
+    - фонтан: fountain
+    - хліб: bread
+    - це: this is, it is
+    - центру: of the center
+    - через: through, across
+    - читаю: I read
+    - є: is, are
+    - і: and
   English:
-    - a: undefined
-    - and: undefined
-    - are: undefined
-    - at: undefined
-    - beautiful: undefined
-    - big: undefined
-    - book: undefined
-    - bread: undefined
-    - bridge: undefined
-    - buy: undefined
-    - center: undefined
-    - church: undefined
-    - city: undefined
-    - fountain: undefined
-    - full: undefined
-    - goes: undefined
-    - going: undefined
-    - has: undefined
-    - house: undefined
-    - houses: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - lead: undefined
-    - leads: undefined
-    - library: undefined
-    - long: undefined
-    - many: undefined
-    - market: undefined
-    - my: undefined
-    - near: undefined
-    - new: undefined
-    - of: undefined
-    - old: undefined
-    - on: undefined
-    - open: undefined
-    - over: undefined
-    - people: undefined
-    - read: undefined
-    - river: undefined
-    - shop: undefined
-    - shop/store: undefined
-    - square: undefined
-    - square/market: undefined
-    - stands: undefined
-    - station: undefined
-    - street: undefined
-    - the: undefined
-    - there: undefined
-    - this: undefined
-    - to: undefined
-    - today: undefined
-    - trains: undefined
-    - warm: undefined
-    - we: undefined
-    - white: undefined
+    - a: jedin/один
+    - and: і
+    - are: byti/быти
+    - at: в
+    - beautiful: красивий
+    - big: великий
+    - book: книга
+    - bread: хліб
+    - bridge: міст
+    - buy: купити
+    - center: центр
+    - church: церква
+    - city: місто
+    - fountain: фонтан
+    - full: повний
+    - goes: йде
+    - going: йде
+    - has: має
+    - house: будинок
+    - houses: будинки
+    - i: я
+    - in: в
+    - is: є
+    - lead: вести
+    - leads: веде
+    - library: бібліотека
+    - long: довгий
+    - many: багато
+    - market: ринок
+    - my: мій
+    - near: біля
+    - new: новий
+    - of: з
+    - old: старий
+    - on: на
+    - open: відкритий
+    - over: над
+    - people: люди
+    - read: читати
+    - river: річка
+    - shop: магазин
+    - shop/store: магазин/крамниця
+    - square: квадрат
+    - square/market: площа/ринок
+    - stands: стоїть
+    - station: станція
+    - street: вулиця
+    - the: to
+    - there: там
+    - this: це
+    - to: до
+    - today: сьогодні
+    - trains: поїзди
+    - warm: теплий
+    - we: ми
+    - white: білий

@@ -72,123 +72,116 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - азъ: undefined
-    - въ: undefined
-    - вꙑ: undefined
-    - гитарꙋ: undefined
-    - глѧдѣти: undefined
-    - глѧдѣши: undefined
-    - глѧдѣѥмъ: undefined
-    - грꙋпоѭ: undefined
-    - дьньвникъ: undefined
-    - и: undefined
-    - играти: undefined
-    - играѥмъ: undefined
-    - играѥтъ: undefined
-    - книгѫ: undefined
-    - малѥвати: undefined
-    - малѥѥмъ: undefined
-    - малѥѭ: undefined
-    - мьного: undefined
-    - мꙋзикѫ: undefined
-    - мꙑ: undefined
-    - на: undefined
-    - образъ: undefined
-    - образꙑ: undefined
-    - одѣждѫ: undefined
-    - она: undefined
-    - они: undefined
-    - онъ: undefined
-    - оучимо: undefined
-    - оучити: undefined
-    - оучитє: undefined
-    - писати: undefined
-    - письма: undefined
-    - пишєтъ: undefined
-    - приꙗтєлꙗми: undefined
-    - пѣвамъ: undefined
-    - пѣваѥтъ: undefined
-    - пѣсниѥ: undefined
-    - пѣти: undefined
-    - радио: undefined
-    - романꙑ: undefined
-    - слꙋшати: undefined
-    - слꙋшаѭтъ: undefined
-    - съ: undefined
-    - сєриѭ: undefined
-    - сѣдитъ: undefined
-    - сѣдѣти: undefined
-    - сѧ: undefined
-    - таньцьѥвати: undefined
-    - таньцьѥѭ: undefined
-    - тѫ: undefined
-    - тꙑ: undefined
-    - фильмъ: undefined
-    - фꙋтболъ: undefined
-    - читамъ: undefined
-    - читати: undefined
-    - читаѥтъ: undefined
-    - читаѥши: undefined
-    - шахъ: undefined
-    - шити: undefined
-    - шиѥмъ: undefined
-    - шиѥтъ: undefined
-    - шиѥши: undefined
-    - ѥзꙑка: undefined
+    - азъ: I
+    - въ: in, at
+    - вꙑ: you (plural)
+    - гитарꙋ: guitar (accusative)
+    - глѧдѣши: you (singular) watch
+    - глѧдѣѥмъ: we watch
+    - грꙋпоѭ: with a group
+    - дьньвникъ: diary
+    - и: and
+    - играѥмъ: we play
+    - играѥтъ: he/she/it plays
+    - книгѫ: book (accusative)
+    - малѥѥмъ: we paint
+    - малѥѭ: I paint
+    - мьного: much, many
+    - мꙋзикѫ: music (accusative)
+    - мꙑ: we
+    - на: on, to
+    - образъ: picture, image
+    - образꙑ: pictures, images
+    - одѣждѫ: clothes (accusative)
+    - она: she
+    - они: they (masculine)
+    - онъ: he
+    - оучимо: we learn
+    - оучити: to learn, to teach
+    - оучитє: you (plural) learn/teach
+    - писати: to write
+    - письма: letters
+    - пишєтъ: he/she/it writes
+    - приꙗтєлꙗми: with friends
+    - пѣвамъ: we sing
+    - пѣваѥтъ: he/she/it sings
+    - пѣсниѥ: of the song
+    - радио: radio
+    - романꙑ: novels
+    - слꙋшаѭтъ: they listen
+    - съ: with
+    - сєриѭ: series (accusative)
+    - сѣдитъ: he/she/it sits
+    - сѣдѣти: to sit
+    - сѧ: oneself (reflexive pronoun)
+    - таньцьѥѭ: I dance
+    - тѫ: that (accusative feminine)
+    - тꙑ: you (singular)
+    - фильмъ: film, movie
+    - фꙋтболъ: football, soccer
+    - читамъ: I read
+    - читаѥтъ: he/she/it reads
+    - читаѥши: you (singular) read
+    - шахъ: chess
+    - шити: to sew
+    - шиѥмъ: we sew
+    - шиѥтъ: he/she/it sews
+    - шиѥши: you (singular) sew
+    - ѥзꙑка: of the language
   English:
-    - a: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - book: undefined
-    - chess: undefined
-    - clothes: undefined
-    - dance: undefined
-    - diary: undefined
-    - do: undefined
-    - film: undefined
-    - football: undefined
-    - friends: undefined
-    - group: undefined
-    - guitar: undefined
-    - he: undefined
-    - here: undefined
-    - i: undefined
-    - is: undefined
-    - language: undefined
-    - learn: undefined
-    - learning: undefined
-    - letters: undefined
-    - listen: undefined
-    - listening: undefined
-    - lot: undefined
-    - music: undefined
-    - novels: undefined
-    - paint: undefined
-    - painting: undefined
-    - picture: undefined
-    - pictures: undefined
-    - play: undefined
-    - playing: undefined
-    - radio: undefined
-    - read: undefined
-    - reading: undefined
-    - series: undefined
-    - sew: undefined
-    - sewing: undefined
-    - she: undefined
-    - sing: undefined
-    - singing: undefined
-    - sit: undefined
-    - sitting: undefined
-    - songs: undefined
-    - the: undefined
-    - they: undefined
-    - to: undefined
-    - watch: undefined
-    - watching: undefined
-    - we: undefined
-    - with: undefined
-    - write: undefined
-    - writing: undefined
-    - you: undefined
+    - a: jedin/один
+    - am: ѥсмь
+    - and: и
+    - are: byti/быти
+    - book: книга
+    - chess: шахъ
+    - clothes: одєжь
+    - dance: таньцьѥвати
+    - diary: дьньвникъ
+    - do: дѣлати
+    - film: фильмъ
+    - football: фꙋтболъ
+    - friends: приꙗтєли
+    - group: грꙋпа
+    - guitar: гитара
+    - he: онъ
+    - here: тꙋ
+    - i: азъ, ꙗ
+    - is: ѥстъ
+    - language: ѩзꙑкъ, ѥзꙑкъ
+    - learn: оучити
+    - learning: оучитъ
+    - letters: письмєна
+    - listen: слꙋшати
+    - listening: слꙋшаѥтъ
+    - lot: мьного
+    - music: мꙋзика
+    - novels: романꙑ
+    - paint: малѥвати
+    - painting: малѥѥтъ
+    - picture: образъ
+    - pictures: образꙑ
+    - play: играти
+    - playing: играѥтъ
+    - radio: радио
+    - read: читати
+    - reading: читаѥтъ
+    - series: сєриꙗ
+    - sew: шити
+    - sewing: шиѥтъ
+    - she: она
+    - sing: пѣти
+    - singing: пѣваѥтъ
+    - sit: сѣдѣти
+    - sitting: сѣдитъ
+    - songs: пѣсни
+    - the: to
+    - they: они, онꙑ
+    - to: къ, на
+    - watch: глѧдѣти
+    - watching: глѧдаѥтъ
+    - we: мꙑ
+    - with: съ
+    - write: писати
+    - writing: пишєтъ
+    - you: тꙑ, вꙑ

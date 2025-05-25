@@ -80,105 +80,89 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - азъ: undefined
-    - баскетъболъ: undefined
-    - братиѭ: undefined
-    - бързо: undefined
-    - бѣгати: undefined
-    - бѣгаѥтъ: undefined
-    - бѣгаѭтъ: undefined
-    - бѣгъ: undefined
-    - важьнъ: undefined
-    - въ: undefined
-    - градѣ: undefined
-    - добро: undefined
-    - дьнь: undefined
-    - за: undefined
-    - здравѥ: undefined
-    - игра: undefined
-    - играѥтъ: undefined
-    - играѭ: undefined
-    - интєрєсьнъ: undefined
-    - каждъи: undefined
-    - къто: undefined
-    - любити: undefined
-    - любѧтъ: undefined
-    - мꙑ: undefined
-    - на: undefined
-    - нє: undefined
-    - она: undefined
-    - они: undefined
-    - онъ: undefined
-    - оутромъ: undefined
-    - плаваниѥ: undefined
-    - плавати: undefined
-    - плаваѥмъ: undefined
-    - приꙗтєлѥмъ: undefined
-    - рѣцѣ: undefined
-    - спортъ: undefined
-    - стадионъ: undefined
-    - стадионѣ: undefined
-    - съ: undefined
-    - трєновати: undefined
-    - трєнꙋѥтъ: undefined
-    - трѣба: undefined
-    - тъ: undefined
-    - тєнисъ: undefined
-    - тѧжькъ: undefined
-    - фꙋтболъ: undefined
-    - хокєи: undefined
-    - часто: undefined
-    - ѥстъ: undefined
+    - азъ: I
+    - братиѭ: with the brother
+    - бѣгаѥтъ: he/she/it runs
+    - бѣгаѭтъ: they run
+    - важьнъ: important (masculine)
+    - въ: in, at
+    - градѣ: in the city
+    - добро: good
+    - дьнь: day
+    - за: for, behind
+    - здравѥ: health
+    - играѥтъ: he/she/it plays
+    - играѭ: I play
+    - интєрєсьнъ: interesting (masculine)
+    - каждъи: each, every
+    - къто: who
+    - любѧтъ: they love
+    - мꙑ: we
+    - на: on, to
+    - нє: no, not
+    - она: she
+    - они: they (masculine)
+    - онъ: he
+    - плаваѥмъ: we swim
+    - приꙗтєлѥмъ: with a friend
+    - рѣцѣ: in the river
+    - стадионѣ: at the stadium
+    - съ: with
+    - трєнꙋѥтъ: he/she/it trains
+    - трѣба: need
+    - тъ: that, he
+    - часто: often
+    - ѥстъ: he/she/it is
   English:
-    - a: undefined
-    - an: undefined
-    - at: undefined
-    - basketball: undefined
-    - brothers: undefined
-    - city: undefined
-    - day: undefined
-    - difficult: undefined
-    - do: undefined
-    - every: undefined
-    - fast: undefined
-    - football: undefined
-    - for: undefined
-    - friend: undefined
-    - game: undefined
-    - good: undefined
-    - he: undefined
-    - health: undefined
-    - hockey: undefined
-    - i: undefined
-    - important: undefined
-    - in: undefined
-    - interesting: undefined
-    - is: undefined
-    - it: undefined
-    - love: undefined
-    - love/like: undefined
-    - morning: undefined
-    - my: undefined
-    - necessary: undefined
-    - not: undefined
-    - often: undefined
-    - play: undefined
-    - plays: undefined
-    - river: undefined
-    - run: undefined
-    - running: undefined
-    - runs: undefined
-    - she: undefined
-    - sport: undefined
-    - stadium: undefined
-    - swim: undefined
-    - swimming: undefined
-    - tennis: undefined
-    - the: undefined
-    - they: undefined
-    - to: undefined
-    - train: undefined
-    - trains: undefined
-    - we: undefined
-    - who: undefined
-    - with: undefined
+    - a: jedin/один
+    - an: (not directly translated)
+    - at: въ
+    - basketball: баскетъболъ
+    - brothers: братиꙗ
+    - city: градъ
+    - day: дьнь
+    - difficult: сложьнъ, тѧжькъ
+    - do: дѣлати
+    - every: въсѧкъ
+    - fast: бързъ
+    - football: фꙋтболъ
+    - for: за, на
+    - friend: приꙗтєль
+    - game: игра
+    - good: добръ
+    - he: онъ
+    - health: здравѥ
+    - hockey: хокєи
+    - i: азъ, ꙗ
+    - important: важьнъ
+    - in: въ
+    - interesting: интєрєсьнъ
+    - is: ѥстъ
+    - it: ono
+    - love: любовь
+    - love/like: любити
+    - morning: оутро
+    - my: мои, моꙗ, моѥ
+    - necessary: трѣба
+    - not: нє
+    - often: часто
+    - play: играти
+    - plays: играѥтъ
+    - river: рѣка
+    - run: бѣгати
+    - running: бѣгаѥтъ
+    - runs: бѣгаѥтъ
+    - she: она
+    - sport: спортъ
+    - stadium: стадионъ
+    - swim: плавати
+    - swimming: плаваниѥ
+    - tennis: тєнисъ
+    - the: to
+    - they: они, онꙑ
+    - to: къ, на
+    - train: поѥздъ
+    - trains: поѥзди
+    - we: мꙑ
+    - who: къто
+    - with: съ

@@ -43,9 +43,9 @@ Phrases:
     Translation: The fork is silver.
   - Phrase: Ложка є в солі.
     Translation: The spoon is in the salt.
-  - Phrase: Тарілка є повна їжі.
+  - Phrase: Тарілка повна їжі.
     Translation: The plate is full of food.
-  - Phrase: Чашка є наповнена водою.
+  - Phrase: Чашка наповнена водою.
     Translation: The cup is filled with water.
   - Phrase: Дам до чаю цукор.
     Translation: I will add sugar to the tea.
@@ -53,7 +53,7 @@ Phrases:
     Translation: There is a lot of sugar in the bowl.
   - Phrase: На сковорідці вариться мій млинець.
     Translation: My pancake is cooking on the frying pan.
-  - Phrase: Горщик є гарячий.
+  - Phrase: Горщик гарячий.
     Translation: The pot is hot
   - Phrase: Горщик є на вогні.
     Translation: The pot is on the flame.
@@ -75,133 +75,117 @@ Phrases:
     Translation: The spoon is full of pepper.
   - Phrase: Тарілка лежить на підлозі.
     Translation: The plate is lying on the floor.
-  - Phrase: Консерва є порожня.
+  - Phrase: Консерва порожня.
     Translation: The can is empty.
   - Phrase: Кухня має добрий запах ввечері.
     Translation: The kitchen has a good smell in the evening.
 
 Mini-dictionary:
   Ukrainian:
-    - багато: undefined
-    - в: undefined
-    - варити: undefined
-    - вариться: undefined
-    - ввечері: undefined
-    - виделка: undefined
-    - виделки: undefined
-    - виделкою: undefined
-    - вогні: undefined
-    - водою: undefined
-    - вона: undefined
-    - він: undefined
-    - гарячий: undefined
-    - горщик: undefined
-    - горщику: undefined
-    - гострий: undefined
-    - готуємо: undefined
-    - дам: undefined
-    - до: undefined
-    - добрий: undefined
-    - з: undefined
-    - запах: undefined
-    - консерва: undefined
-    - кухня: undefined
-    - лежить: undefined
-    - ложка: undefined
-    - м'ясо: undefined
-    - має: undefined
-    - ми: undefined
-    - миска: undefined
-    - мисці: undefined
-    - млинець: undefined
-    - мій: undefined
-    - на: undefined
-    - наповнена: undefined
-    - ножі: undefined
-    - ніж: undefined
-    - п'є: undefined
-    - пельмень: undefined
-    - перець: undefined
-    - перцю: undefined
-    - повна: undefined
-    - порожня: undefined
-    - підлозі: undefined
-    - сковорідка: undefined
-    - сковорідці: undefined
-    - солі: undefined
-    - срібна: undefined
-    - столі: undefined
-    - сіль: undefined
-    - тарілка: undefined
-    - цукор: undefined
-    - цукру: undefined
-    - чашка: undefined
-    - чашки: undefined
-    - чаю: undefined
-    - чиста: undefined
-    - є: undefined
-    - і: undefined
-    - їжі: undefined
-    - їсть: undefined
+    - багато: a lot, many, much
+    - в: in, at
+    - вариться: is being cooked
+    - ввечері: in the evening
+    - виделки: of the fork
+    - виделкою: with a fork
+    - вогні: lights
+    - водою: with water
+    - вона: she
+    - він: he
+    - горщику: in the pot
+    - гострий: sharp
+    - готуємо: we cook, we prepare
+    - дам: I will give
+    - до: to, until
+    - добрий: good (masculine)
+    - з: with, from
+    - запах: smell
+    - консерва: canned food
+    - лежить: lies
+    - м'ясо: meat
+    - має: has
+    - ми: we
+    - мисці: in the bowl
+    - мій: my (masculine)
+    - на: on, at
+    - наповнена: filled
+    - ножі: knives
+    - п'є: drinks
+    - перцю: of pepper
+    - повна: full (feminine)
+    - порожня: empty
+    - підлозі: on the floor
+    - сковорідці: in the frying pan
+    - солі: of salt
+    - срібна: silver (feminine)
+    - столі: on the table
+    - цукру: of sugar
+    - чашки: of the cup
+    - чаю: of tea
+    - чиста: clean (feminine)
+    - є: is, are
+    - і: and
+    - їжі: of food
+    - їсть: eats
   English:
-    - a: undefined
-    - add: undefined
-    - and: undefined
-    - are: undefined
-    - bowl: undefined
-    - can: undefined
-    - clean: undefined
-    - cook: undefined
-    - cooking: undefined
-    - cup: undefined
-    - drinks: undefined
-    - dumpling: undefined
-    - eats: undefined
-    - empty: undefined
-    - evening: undefined
-    - filled: undefined
-    - flame: undefined
-    - floor: undefined
-    - food: undefined
-    - fork: undefined
-    - forks: undefined
-    - from: undefined
-    - frying: undefined
-    - full: undefined
-    - good: undefined
-    - has: undefined
-    - he: undefined
-    - hot: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - kitchen: undefined
-    - knife: undefined
-    - knives: undefined
-    - lot: undefined
-    - lying: undefined
-    - meat: undefined
-    - my: undefined
-    - of: undefined
-    - on: undefined
-    - pan: undefined
-    - pancake: undefined
-    - pepper: undefined
-    - plate: undefined
-    - pot: undefined
-    - salt: undefined
-    - sharp: undefined
-    - she: undefined
-    - silver: undefined
-    - smell: undefined
-    - spoon: undefined
-    - sugar: undefined
-    - table: undefined
-    - tea: undefined
-    - the: undefined
-    - there: undefined
-    - to: undefined
-    - water: undefined
-    - we: undefined
-    - will: undefined
-    - with: undefined
+    - a: jedin/один
+    - add: додати
+    - and: і
+    - are: byti/быти
+    - bowl: миска
+    - can: може
+    - clean: чистий
+    - cook: готувати
+    - cooking: готування
+    - cup: чашка
+    - drinks: напої
+    - dumpling: вареник
+    - eats: їсть
+    - empty: порожній
+    - evening: вечір
+    - filled: заповнений
+    - flame: полум'я
+    - floor: підлога
+    - food: їжа
+    - fork: вилка
+    - forks: вилки
+    - from: від
+    - frying: смаження
+    - full: повний
+    - good: добрий
+    - has: має
+    - he: він
+    - hot: гарячий
+    - i: я
+    - in: в
+    - is: є
+    - kitchen: кухня
+    - knife: ніж
+    - knives: ножі
+    - lot: багато
+    - lying: лежить
+    - meat: м'ясо
+    - my: мій
+    - of: з
+    - on: на
+    - pan: сковорода
+    - pancake: млинець
+    - pepper: перець
+    - plate: тарілка
+    - pot: горщик
+    - salt: сіль
+    - sharp: гострий
+    - she: вона
+    - silver: срібло
+    - smell: запах
+    - spoon: ложка
+    - sugar: цукор
+    - table: стіл
+    - tea: чай
+    - the: to
+    - there: там
+    - to: до
+    - water: вода
+    - we: ми
+    - will: буде
+    - with: з

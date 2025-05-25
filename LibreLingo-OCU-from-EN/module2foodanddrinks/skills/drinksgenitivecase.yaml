@@ -84,120 +84,105 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - азъ: undefined
-    - бєзъ: undefined
-    - бꙋтꙑлък: undefined
-    - бꙋтꙑлька: undefined
-    - бꙋтꙑлькꙑ: undefined
-    - вина: undefined
-    - вино: undefined
-    - вода: undefined
-    - водкꙑ: undefined
-    - водꙑ: undefined
-    - даитє: undefined
-    - за: undefined
-    - изъ: undefined
-    - имамъ: undefined
-    - имаши: undefined
-    - кава: undefined
-    - кавꙑ: undefined
-    - кꙋпꙋѭтъ: undefined
-    - ли: undefined
-    - любитъ: undefined
-    - люблѭ: undefined
-    - лєжитъ: undefined
-    - млѣка: undefined
-    - млѣко: undefined
-    - мьнѣ: undefined
-    - мєнє: undefined
-    - мꙑ: undefined
-    - на: undefined
-    - нашьти: undefined
-    - нє: undefined
-    - нємаѥтъ: undefined
-    - она: undefined
-    - они: undefined
-    - онъ: undefined
-    - оу: undefined
-    - пива: undefined
-    - пиво: undefined
-    - пити: undefined
-    - пиѥмъ: undefined
-    - пиѥтъ: undefined
-    - пиѥши: undefined
-    - полѥскꙑ: undefined
-    - пробовати: undefined
-    - пробоѥтъ: undefined
-    - просимъ: undefined
-    - сока: undefined
-    - сокъ: undefined
-    - столѣ: undefined
-    - сь: undefined
-    - тєбє: undefined
-    - тꙑ: undefined
-    - флѧшька: undefined
-    - флѧшькѫ: undefined
-    - флѧшькꙑ: undefined
-    - франка: undefined
-    - хотѣти: undefined
-    - хощєтъ: undefined
-    - цꙋкра: undefined
-    - чаи: undefined
-    - чаша: undefined
-    - чашька: undefined
-    - чашькѫ: undefined
-    - чашѫ: undefined
-    - чаꙗ: undefined
-    - ѥси: undefined
+    - азъ: I
+    - бꙋтꙑлък: of bottles
+    - бꙋтꙑлькꙑ: bottles
+    - вина: of wine
+    - водкꙑ: of vodka
+    - водꙑ: of water
+    - даитє: give (plural imperative)
+    - имамъ: I have
+    - имаши: you (singular) have
+    - кавꙑ: of coffee
+    - кꙋпꙋѭтъ: they buy
+    - ли: if, whether
+    - любитъ: he/she/it loves
+    - люблѭ: I love
+    - лєжитъ: he/she/it is lying down
+    - млѣка: of milk
+    - мьнѣ: to me
+    - мєнє: me
+    - мꙑ: we
+    - на: on, to
+    - нашьти: our
+    - нє: no, not
+    - нємаѥтъ: he/she/it doesn't have
+    - она: she
+    - они: they (masculine)
+    - онъ: he
+    - пива: of beer
+    - пиѥмъ: we drink
+    - пиѥтъ: he/she/it drinks
+    - пиѥши: you (singular) drink
+    - полѥскꙑ: Polish (plural)
+    - пробовати: to try
+    - пробоѥтъ: he/she/it tries
+    - просимъ: please, we ask
+    - сока: of juice
+    - столѣ: on the table
+    - сь: this
+    - тєбє: you
+    - тꙑ: you (singular)
+    - флѧшькѫ: bottle (accusative)
+    - флѧшькꙑ: bottles
+    - франка: of the franc
+    - хотѣти: to want
+    - хощєтъ: he/she/it wants
+    - цꙋкра: of sugar
+    - чаша: cup
+    - чашькѫ: cup (accusative)
+    - чашѫ: cup (accusative)
+    - чаꙗ: of tea
+    - ѥси: you are (singular)
   English:
-    - a: undefined
-    - are: undefined
-    - at/by: undefined
-    - beer: undefined
-    - bottle: undefined
-    - bottles: undefined
-    - buying: undefined
-    - coffee: undefined
-    - do: undefined
-    - does: undefined
-    - drink: undefined
-    - drinking: undefined
-    - find: undefined
-    - for: undefined
-    - frank: undefined
-    - from: undefined
-    - give: undefined
-    - glass: undefined
-    - has: undefined
-    - have: undefined
-    - he: undefined
-    - i: undefined
-    - is: undefined
-    - juice: undefined
-    - like: undefined
-    - lying: undefined
-    - me: undefined
-    - milk: undefined
-    - no: undefined
-    - not: undefined
-    - of: undefined
-    - on: undefined
-    - please: undefined
-    - poland: undefined
-    - she: undefined
-    - sugar: undefined
-    - table: undefined
-    - tea: undefined
-    - the: undefined
-    - they: undefined
-    - this: undefined
-    - to: undefined
-    - try: undefined
-    - trying: undefined
-    - vodka: undefined
-    - want: undefined
-    - water: undefined
-    - we: undefined
-    - wine: undefined
-    - without: undefined
-    - you: undefined
+    - a: jedin/один
+    - are: byti/быти
+    - at/by: оу
+    - beer: пиво
+    - bottle: бꙋтꙑлька
+    - bottles: бꙋтꙑлькꙑ
+    - buying: кꙋпꙋѥтъ
+    - coffee: кава
+    - do: дѣлати
+    - does: дѣлаѥтъ
+    - drink: пити
+    - drinking: пиѥтъ
+    - find: (no direct equivalent)
+    - for: за, на
+    - frank: франкъ
+    - from: отъ, изъ
+    - give: дати
+    - glass: (no direct equivalent)
+    - has: имаѥтъ
+    - have: имати
+    - he: онъ
+    - i: азъ, ꙗ
+    - is: ѥстъ
+    - juice: сокъ
+    - like: ꙗко
+    - lying: лєжитъ
+    - me: мєнє
+    - milk: млѣко
+    - no: нє
+    - not: нє
+    - of: (genitive case)
+    - on: на
+    - please: просимъ
+    - poland: пол҄ьска
+    - she: она
+    - sugar: цꙋкръ
+    - table: столъ
+    - tea: чаи
+    - the: to
+    - they: они, онꙑ
+    - this: сь, сꙗ, сє
+    - to: къ, на
+    - try: пробовати
+    - trying: пробоѥтъ
+    - vodka: водка
+    - want: хотѣти
+    - water: вода
+    - we: мꙑ
+    - wine: вино
+    - without: бєзъ
+    - you: тꙑ, вꙑ

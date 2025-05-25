@@ -7,9 +7,9 @@ New words:
     Translation: brother
   - Word: дед
     Translation: grandfather
-  - Word: бабка
+  - Word: бабушка
     Translation: grandmother
-  - Word: тётка
+  - Word: тётя
     Translation: aunt
   - Word: внук
     Translation: grandson
@@ -37,7 +37,7 @@ New words:
     Translation: lives
 
 Phrases:
-  - Phrase: Он есть моим братом.
+  - Phrase: Он моим братом.
     Translation: He is my brother.
   - Phrase: Он есть твоим отцом
     Translation: He is your father
@@ -47,7 +47,7 @@ Phrases:
     Translation: He is talking with his grandfather.
   - Phrase: Мы играем с нашими детьми.
     Translation: We are playing with our children.
-  - Phrase: Они едут с тёткою.
+  - Phrase: Они едут с тётею.
     Translation: They are going with their aunt.
   - Phrase: Говорим с твоею сестрою.
     Translation: I am talking with your sister.
@@ -61,7 +61,7 @@ Phrases:
     Translation: Drinking tea with mother is better.
   - Phrase: С кем ты идёшь?
     Translation: Who are you going with?
-  - Phrase: Она говорит с моею бабкою.
+  - Phrase: Она говорит с моею бабушкою.
     Translation: She is talking with my grandmother.
   - Phrase: Это есть домом с родиною.
     Translation: This is a house with a family.
@@ -80,124 +80,112 @@ Phrases:
 
 Mini-dictionary:
   Russian:
-    - бабка: undefined
-    - бабкою: undefined
-    - брат: undefined
-    - братами: undefined
-    - братом: undefined
-    - в: undefined
-    - внук: undefined
-    - внуком: undefined
-    - внучка: undefined
-    - внучкою: undefined
-    - говорим: undefined
-    - говорит: undefined
-    - дед: undefined
-    - дедом: undefined
-    - детьми: undefined
-    - домом: undefined
-    - дочка: undefined
-    - дочкою: undefined
-    - дядею: undefined
-    - дядя: undefined
-    - едут: undefined
-    - есть: undefined
-    - живёт: undefined
-    - и: undefined
-    - играем: undefined
-    - играет: undefined
-    - идём: undefined
-    - идёт: undefined
-    - идёшь: undefined
-    - кем: undefined
-    - лучше: undefined
-    - матка: undefined
-    - маткою: undefined
-    - моею: undefined
-    - моим: undefined
-    - мы: undefined
-    - на: undefined
-    - нашими: undefined
-    - он: undefined
-    - она: undefined
-    - они: undefined
-    - отец: undefined
-    - отцом: undefined
-    - отцу: undefined
-    - парк: undefined
-    - пешком: undefined
-    - пить: undefined
-    - по: undefined
-    - прогулку: undefined
-    - родина: undefined
-    - родиною: undefined
-    - с: undefined
-    - сестрою: undefined
-    - со: undefined
-    - суть: undefined
-    - сын: undefined
-    - сыном: undefined
-    - твоею: undefined
-    - твоим: undefined
-    - тут: undefined
-    - ты: undefined
-    - тётка: undefined
-    - тёткою: undefined
-    - чай: undefined
-    - часто: undefined
-    - это: undefined
+    - бабушкою: grandmother
+    - братами: brothers
+    - братом: brother
+    - в: in
+    - внуком: grandson
+    - внучкою: granddaughter
+    - говорим: talk
+    - дедом: grandfather
+    - детьми: children
+    - домом: home
+    - дочкою: daughter
+    - дядею: uncle
+    - дядя: uncle
+    - едут: go
+    - есть: is
+    - и: and
+    - играем: play
+    - играет: plays
+    - идём: go
+    - идёт: goes
+    - идёшь: go
+    - кем: whom
+    - лучше: better
+    - маткою: mother
+    - моею: my
+    - моим: my
+    - мы: we
+    - на: on
+    - нашими: our
+    - он: he
+    - она: she
+    - они: they
+    - отцом: father
+    - отцу: father
+    - парк: park
+    - пешком: on foot
+    - пить: drink
+    - по: after
+    - прогулку: walk
+    - родиною: homeland
+    - с: with
+    - сестрою: sister
+    - со: with
+    - суть: are
+    - сыном: son
+    - твоею: your
+    - твоим: your
+    - тут: here
+    - ты: you
+    - тётею: aunt
+    - тёткою: aunt
+    - чай: tea
+    - часто: often
+    - это: it
   English:
-    - a: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - aunt: undefined
-    - better: undefined
-    - brother: undefined
-    - brothers: undefined
-    - children: undefined
-    - daughter: undefined
-    - drinking: undefined
-    - family: undefined
-    - father: undefined
-    - for: undefined
-    - go: undefined
-    - goes: undefined
-    - going: undefined
-    - granddaughter: undefined
-    - grandfather: undefined
-    - grandmother: undefined
-    - grandson: undefined
-    - he: undefined
-    - her: undefined
-    - here: undefined
-    - his: undefined
-    - house: undefined
-    - i: undefined
-    - is: undefined
-    - lives: undefined
-    - mother: undefined
-    - my: undefined
-    - often: undefined
-    - our: undefined
-    - park: undefined
-    - playing: undefined
-    - she: undefined
-    - sister: undefined
-    - son: undefined
-    - speaks: undefined
-    - talking: undefined
-    - talks: undefined
-    - tea: undefined
-    - the: undefined
-    - their: undefined
-    - they: undefined
-    - this: undefined
-    - to: undefined
-    - uncle: undefined
-    - walk: undefined
-    - we: undefined
-    - who: undefined
-    - with: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - am: есть
+    - and: и
+    - are: byti/быти
+    - aunt: тетя
+    - better: лучше
+    - brother: брат
+    - brothers: братья
+    - children: дети
+    - daughter: дочь
+    - drinking: пьет
+    - family: семья
+    - father: отец
+    - for: для
+    - go: идти
+    - goes: идет
+    - going: идет
+    - granddaughter: внучка
+    - grandfather: дедушка
+    - grandmother: бабушка
+    - grandson: внук
+    - he: он
+    - her: ее
+    - here: здесь
+    - his: его
+    - house: дом
+    - i: я
+    - is: есть
+    - lives: живет
+    - mother: мать
+    - my: мой
+    - often: часто
+    - our: наш
+    - park: парк
+    - playing: играет
+    - she: она
+    - sister: сестра
+    - son: сын
+    - speaks: говорит
+    - talking: разговаривает
+    - talks: говорит
+    - tea: чай
+    - the: to
+    - their: их
+    - they: они
+    - this: это
+    - to: к
+    - uncle: дядя
+    - walk: гулять
+    - we: мы
+    - who: кто
+    - with: с
+    - you: ты
+    - your: твой

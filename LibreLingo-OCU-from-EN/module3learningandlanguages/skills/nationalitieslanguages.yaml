@@ -68,114 +68,109 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - азъ: undefined
-    - аньглийськомъ: undefined
-    - аньгличаниномъ: undefined
-    - аньгличанинъ: undefined
-    - богатоѭ: undefined
-    - въ: undefined
-    - глаголи: undefined
-    - глаголиши: undefined
-    - гєрмании: undefined
-    - добро: undefined
-    - дрьжава: undefined
-    - дрьжаваѭ: undefined
-    - дрьжавꙑ: undefined
-    - живєтъ: undefined
-    - знаѥтъ: undefined
-    - и: undefined
-    - имѧ: undefined
-    - каждъи: undefined
-    - кꙋлтꙋроѭ: undefined
-    - ли: undefined
-    - любимъ: undefined
-    - мои: undefined
-    - моѥѩ: undefined
-    - мьного: undefined
-    - мꙑ: undefined
-    - на: undefined
-    - народовъ: undefined
-    - народъ: undefined
-    - нѣмьць: undefined
-    - нѣмьчьскомъ: undefined
-    - она: undefined
-    - онъ: undefined
-    - оучимъ: undefined
-    - полѥска: undefined
-    - полѭкомъ: undefined
-    - полѭкъ: undefined
-    - рꙋсомъ: undefined
-    - рꙋсъ: undefined
-    - рꙋсьскаѥго: undefined
-    - рꙋсьскꙑи: undefined
-    - свои: undefined
-    - словѣниномъ: undefined
-    - словѣнинъ: undefined
-    - словѣньскомъ: undefined
-    - словѣньскꙑи: undefined
-    - съ: undefined
-    - сь: undefined
-    - сѧ: undefined
-    - три: undefined
-    - тꙑ: undefined
-    - хръватка: undefined
-    - хръваткоѭ: undefined
-    - хръватъ: undefined
-    - хръватьскомъ: undefined
-    - ѥзꙑка: undefined
-    - ѥзꙑкъ: undefined
-    - ѥзꙑцѣ: undefined
-    - ѥси: undefined
-    - ѥсмь: undefined
-    - ѥстъ: undefined
-    - ѩзꙑкъ: undefined
-    - ѩзꙑкꙑ: undefined
+    - азъ: I
+    - аньглийськомъ: in English
+    - аньгличаниномъ: by an Englishman
+    - аньгличанинъ: Englishman
+    - богатоѭ: with a rich one
+    - въ: in, at
+    - глаголи: words, verbs
+    - глаголиши: you (singular) speak
+    - гєрмании: of Germany
+    - добро: good
+    - дрьжаваѭ: with a state
+    - дрьжавꙑ: of the state
+    - живєтъ: he/she/it lives
+    - знаѥтъ: he/she/it knows
+    - и: and
+    - каждъи: each, every
+    - кꙋлтꙋроѭ: with culture
+    - ли: if, whether
+    - любимъ: we love
+    - мои: my (plural)
+    - моѥѩ: of my (feminine)
+    - мьного: much, many
+    - мꙑ: we
+    - на: on, to
+    - народовъ: of the peoples
+    - нѣмьць: German
+    - нѣмьчьскомъ: in German
+    - она: she
+    - онъ: he
+    - оучимъ: we learn
+    - полѥска: Polish (feminine)
+    - полѭкомъ: with a Pole
+    - полѭкъ: Pole
+    - рꙋсомъ: with a Russian
+    - рꙋсъ: Russian
+    - рꙋсьскаѥго: of Russian
+    - рꙋсьскꙑи: Russian
+    - свои: his, her, its, their (own)
+    - словѣниномъ: by a Slovene
+    - словѣньскомъ: in Slavic
+    - словѣньскꙑи: Slavic
+    - съ: with
+    - сь: this
+    - сѧ: oneself (reflexive pronoun)
+    - три: three
+    - тꙑ: you (singular)
+    - хръватка: Croatian (female)
+    - хръваткоѭ: with a Croatian (female)
+    - хръватъ: Croat, Croatian (male)
+    - хръватьскомъ: in Croatian
+    - ѥзꙑка: of the language
+    - ѥзꙑцѣ: in the language
+    - ѥси: you are (singular)
+    - ѥсмь: I am
+    - ѥстъ: he/she/it is
+    - ѩзꙑкъ: language, tongue
+    - ѩзꙑкꙑ: languages
   English:
-    - a: undefined
-    - am: undefined
-    - an: undefined
-    - and: undefined
-    - are: undefined
-    - country: undefined
-    - croat: undefined
-    - croatian: undefined
-    - culture: undefined
-    - do: undefined
-    - english: undefined
-    - englishman: undefined
-    - every: undefined
-    - german: undefined
-    - germany: undefined
-    - he: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - knows: undefined
-    - language: undefined
-    - languages: undefined
-    - learning: undefined
-    - lives: undefined
-    - love: undefined
-    - many: undefined
-    - my: undefined
-    - name: undefined
-    - nation: undefined
-    - nations: undefined
-    - of: undefined
-    - our: undefined
-    - poland: undefined
-    - pole: undefined
-    - rich: undefined
-    - russian: undefined
-    - she: undefined
-    - slav: undefined
-    - slavic: undefined
-    - speak: undefined
-    - speaks: undefined
-    - the: undefined
-    - this: undefined
-    - three: undefined
-    - we: undefined
-    - well: undefined
-    - with: undefined
-    - you: undefined
+    - a: jedin/один
+    - am: ѥсмь
+    - an: (not directly translated)
+    - and: и
+    - are: byti/быти
+    - country: страна
+    - croat: хръватъ
+    - croatian: хръватьскъ
+    - culture: кꙋлтꙋра
+    - do: дѣлати
+    - english: аньглийскъ
+    - englishman: аньгличанинъ
+    - every: въсѧкъ
+    - german: нѣмьчьскъ
+    - germany: гєрманиꙗ
+    - he: онъ
+    - i: азъ, ꙗ
+    - in: въ
+    - is: ѥстъ
+    - knows: знаѥтъ
+    - language: ѩзꙑкъ, ѥзꙑкъ
+    - languages: ѩзꙑци
+    - learning: оучитъ
+    - lives: живєтъ
+    - love: любовь
+    - many: мьного
+    - my: мои, моꙗ, моѥ
+    - name: имѧ
+    - nation: народъ
+    - nations: народи
+    - of: (genitive case)
+    - our: нашь
+    - poland: пол҄ьска
+    - pole: полѭкъ
+    - rich: богатъ
+    - russian: рꙋсьскъ
+    - she: она
+    - slav: словѣнинъ
+    - slavic: словѣньскъ
+    - speak: глаголити
+    - speaks: глаголѥтъ
+    - the: to
+    - this: сь, сꙗ, сє
+    - three: три
+    - we: мꙑ
+    - well: добро
+    - with: съ
+    - you: тꙑ, вꙑ

@@ -68,62 +68,52 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - вєлосипєдовъ: undefined
-    - вѣщии: undefined
-    - доларовъ: undefined
-    - дъва: undefined
-    - дъвадесѧть: undefined
-    - дєвѧтьдесѧть: undefined
-    - дєсѧть: undefined
-    - женъ: undefined
-    - компютєровъ: undefined
-    - котовъ: undefined
-    - мѫжьѥвъ: undefined
-    - осмь: undefined
-    - осмьдесѧть: undefined
-    - полєи: undefined
-    - пьсовъ: undefined
-    - пѧтьдесѧть: undefined
-    - рꙋблѥвъ: undefined
-    - слъньцъ: undefined
-    - съто: undefined
-    - сєдмь: undefined
-    - сєдмьдесѧть: undefined
-    - три: undefined
-    - тридесѧть: undefined
-    - хлапьцєвъ: undefined
-    - часъвъниковъ: undefined
-    - чєтꙑри: undefined
-    - чєтꙑридесѧть: undefined
-    - шєстьдесѧть: undefined
-    - ѥдинъ: undefined
+    - вєлосипєдовъ: of bicycles
+    - вѣщии: of things
+    - доларовъ: of dollars
+    - дъва: two
+    - женъ: of women
+    - компютєровъ: of computers
+    - котовъ: of cats
+    - мѫжьѥвъ: of the husband
+    - осмь: eight
+    - полєи: of the field
+    - пьсовъ: of dogs
+    - рꙋблѥвъ: of rubles
+    - слъньцъ: of the sun
+    - сєдмь: seven
+    - три: three
+    - хлапьцєвъ: of the boy
+    - часъвъниковъ: of the clocks
+    - чєтꙑри: four
+    - ѥдинъ: one (masculine)
   English:
-    - bicycles: undefined
-    - boys: undefined
-    - cats: undefined
-    - clocks: undefined
-    - computers: undefined
-    - dogs: undefined
-    - dollars: undefined
-    - eight: undefined
-    - eighty: undefined
-    - fields: undefined
-    - fifty: undefined
-    - forty: undefined
-    - four: undefined
-    - hundred: undefined
-    - men: undefined
-    - ninety: undefined
-    - one: undefined
-    - rubles: undefined
-    - seven: undefined
-    - seventy: undefined
-    - sixty: undefined
-    - suns: undefined
-    - ten: undefined
-    - things: undefined
-    - thirty: undefined
-    - three: undefined
-    - twenty: undefined
-    - two: undefined
-    - women: undefined
+    - bicycles: вєлосипєдꙑ
+    - boys: хлапъци
+    - cats: коти
+    - clocks: часъвъници
+    - computers: компютєрꙑ
+    - dogs: пьси
+    - dollars: доларꙑ
+    - eight: осмь
+    - eighty: осмьдесѧть
+    - fields: полиꙗ
+    - fifty: пѧтьдесѧть
+    - forty: чєтꙑридесѧть
+    - four: чєтꙑри
+    - hundred: съто
+    - men: мѫжи
+    - ninety: дєвѧтьдесѧть
+    - one: ѥдинъ
+    - rubles: рꙋбли
+    - seven: сєдмь
+    - seventy: сєдмьдесѧть
+    - sixty: шєстьдесѧть
+    - suns: слъньца
+    - ten: дєсѧть
+    - things: вѣщи
+    - thirty: тридесѧть
+    - three: три
+    - twenty: дъвадесѧть
+    - two: дъва, дъвѣ
+    - women: женꙑ

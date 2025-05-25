@@ -41,19 +41,19 @@ New words:
 Phrases:
   - Phrase: Він то добрий чоловік.
     Translation: He is a good person.
-  - Phrase: Вона є часом зла.
+  - Phrase: Вона часом зла.
     Translation: She is sometimes bad.
-  - Phrase: Сильний дух є важливий.
+  - Phrase: Сильний дух важливий.
     Translation: A strong spirit is important.
-  - Phrase: Він є слабкий в спорті.
+  - Phrase: Він слабкий в спорті.
     Translation: He is weak in sports.
   - Phrase: Сміливий говорить правду.
     Translation: Brave people speak the truth.
-  - Phrase: Як би ти був почув/була почула, то вони були б тихі.
+  - Phrase: Як би ти був почув, то вони були б тихі.
     Translation: If you would hear, they would be silent.
   - Phrase: Мудрий знає багато.
     Translation: A smart person knows much.
-  - Phrase: Як би ти не був/була дурний/дурна, то ти б не робив/робила дурниць.
+  - Phrase: Як би ти не був/була дурний, то ти б не робив дурниць.
     Translation: If you were not stupid, you would not do foolish things.
   - Phrase: Щирий друг є дорогоцінний.
     Translation: A sincere friend is valuable.
@@ -61,11 +61,11 @@ Phrases:
     Translation: If they were not lazy, we would help them.
   - Phrase: Вона є добра і щира.
     Translation: She is good and sincere.
-  - Phrase: Він є сильний, але сміливий.
+  - Phrase: Він сильний, але сміливий.
     Translation: He is strong but brave.
   - Phrase: Діти є мудрі для їхнього віку.
     Translation: Children are wiser for their age.
-  - Phrase: Якби ви не були слабкі, то ви б працювали.
+  - Phrase: Якби ви не були слабі, то ви б працювали.
     Translation: If you were not weak, you would work.
   - Phrase: Злі слова болять.
     Translation: Bad words hurt.
@@ -77,152 +77,139 @@ Phrases:
     Translation: A sincere person says what they think.
   - Phrase: Мудрий мовчить, коли треба.
     Translation: A wise person stays silent when needed.
-  - Phrase: Якби я був/була сміливий/смілива, то я б не боявся/боялася.
+  - Phrase: Якби я був сміливий, то я б не боявся.
     Translation: If I were brave, I would not be afraid.
 
 Mini-dictionary:
   Ukrainian:
-    - але: undefined
-    - б: undefined
-    - багато: undefined
-    - би: undefined
-    - болять: undefined
-    - боявся/боялася: undefined
-    - був: undefined
-    - був/була: undefined
-    - були: undefined
-    - в: undefined
-    - важливий: undefined
-    - ви: undefined
-    - вона: undefined
-    - вони: undefined
-    - вчиться: undefined
-    - віку: undefined
-    - він: undefined
-    - говорить: undefined
-    - для: undefined
-    - добра: undefined
-    - добрий: undefined
-    - дорогоцінний: undefined
-    - друг: undefined
-    - думає: undefined
-    - дурний: undefined
-    - дурний/дурна: undefined
-    - дурниць: undefined
-    - дух: undefined
-    - діти: undefined
-    - зла: undefined
-    - злий: undefined
-    - злі: undefined
-    - знає: undefined
-    - коли: undefined
-    - лінивий: undefined
-    - ліниві: undefined
-    - ми: undefined
-    - мовчати: undefined
-    - мовчить: undefined
-    - мудрий: undefined
-    - мудрі: undefined
-    - не: undefined
-    - нічого: undefined
-    - помагали: undefined
-    - почув/була: undefined
-    - почула: undefined
-    - правду: undefined
-    - працювали: undefined
-    - робив/робила: undefined
-    - робити: undefined
-    - сильний: undefined
-    - слабкий: undefined
-    - слабкі: undefined
-    - слова: undefined
-    - сміливий: undefined
-    - сміливий/смілива: undefined
-    - спорті: undefined
-    - ти: undefined
-    - тихий: undefined
-    - тихі: undefined
-    - то: undefined
-    - треба: undefined
-    - хоче: undefined
-    - часом: undefined
-    - чоловік: undefined
-    - щира: undefined
-    - щирий: undefined
-    - що: undefined
-    - я: undefined
-    - як: undefined
-    - якби: undefined
-    - є: undefined
-    - і: undefined
-    - їм: undefined
-    - їхнього: undefined
+    - але: but
+    - б: would
+    - багато: a lot, many, much
+    - би: would
+    - болять: they hurt
+    - боявся: was afraid
+    - був: was (masculine)
+    - був/була: was (masculine/feminine)
+    - були: were
+    - в: in, at
+    - важливий: important (masculine)
+    - ви: you (plural)
+    - вона: she
+    - вони: they
+    - вчиться: learns
+    - віку: of age
+    - він: he
+    - говорить: speaks
+    - для: for
+    - добра: good (feminine)
+    - дорогоцінний: precious
+    - друг: friend
+    - думає: thinks
+    - дурниць: of nonsense
+    - дух: spirit
+    - діти: children
+    - зла: evil (feminine)
+    - злі: evil (plural)
+    - знає: knows
+    - коли: when
+    - ліниві: lazy (plural)
+    - ми: we
+    - мовчати: to be silent
+    - мовчить: is silent
+    - мудрі: wise (plural)
+    - не: not
+    - нічого: nothing
+    - помагали: they helped
+    - почув: heard
+    - правду: truth (accusative)
+    - працювали: they worked
+    - робив: did, made
+    - робити: to do, to make
+    - слабі: weak (plural)
+    - слова: words
+    - спорті: in sport
+    - ти: you (singular)
+    - тихі: quiet (plural)
+    - то: then, that is
+    - треба: need to
+    - хоче: wants
+    - часом: sometimes
+    - чоловік: man, husband
+    - щира: sincere (feminine)
+    - що: what, that
+    - я: I
+    - як: how, as
+    - якби: if
+    - є: is, are
+    - і: and
+    - їм: I eat
+    - їхнього: their
   English:
-    - a: undefined
-    - afraid: undefined
-    - age: undefined
-    - and: undefined
-    - anything: undefined
-    - are: undefined
-    - bad: undefined
-    - be: undefined
-    - brave: undefined
-    - but: undefined
-    - children: undefined
-    - do: undefined
-    - foolish: undefined
-    - for: undefined
-    - friend: undefined
-    - good: undefined
-    - he: undefined
-    - he/she/it: undefined
-    - hear: undefined
-    - help: undefined
-    - hurt: undefined
-    - i: undefined
-    - if: undefined
-    - important: undefined
-    - in: undefined
-    - is: undefined
-    - knows: undefined
-    - lazy: undefined
-    - learn: undefined
-    - much: undefined
-    - needed: undefined
-    - not: undefined
-    - people: undefined
-    - person: undefined
-    - quiet: undefined
-    - says: undefined
-    - she: undefined
-    - silent: undefined
-    - sincere: undefined
-    - smart: undefined
-    - sometimes: undefined
-    - speak: undefined
-    - spirit: undefined
-    - sports: undefined
-    - stays: undefined
-    - strong: undefined
-    - stupid: undefined
-    - the: undefined
-    - their: undefined
-    - them: undefined
-    - they: undefined
-    - things: undefined
-    - think: undefined
-    - to: undefined
-    - truth: undefined
-    - valuable: undefined
-    - want: undefined
-    - we: undefined
-    - weak: undefined
-    - were: undefined
-    - what: undefined
-    - when: undefined
-    - wise: undefined
-    - wiser: undefined
-    - words: undefined
-    - work: undefined
-    - would: undefined
-    - you: undefined
+    - a: jedin/один
+    - afraid: боятися
+    - age: вік
+    - and: і
+    - anything: будь-що
+    - are: byti/быти
+    - bad: поганий
+    - be: бути
+    - brave: сміливий
+    - but: але
+    - children: діти
+    - do: робити
+    - foolish: дурний
+    - for: для
+    - friend: друг
+    - good: добрий
+    - he: він
+    - he/she/it: він/вона/воно
+    - hear: чути
+    - help: допомога
+    - hurt: боляче
+    - i: я
+    - if: якщо
+    - important: важливий
+    - in: в
+    - is: є
+    - knows: знає
+    - lazy: лінивий
+    - learn: вчитися
+    - much: багато
+    - needed: потрібно
+    - not: не
+    - people: люди
+    - person: людина
+    - quiet: тихий
+    - says: каже
+    - she: вона
+    - silent: тихий
+    - sincere: щирий
+    - smart: розумний
+    - sometimes: іноді
+    - speak: говорити
+    - spirit: дух
+    - sports: види спорту
+    - stays: залишається
+    - strong: сильний
+    - stupid: дурний
+    - the: to
+    - their: їхній
+    - them: їх
+    - they: вони
+    - things: речі
+    - think: думати
+    - to: до
+    - truth: правда
+    - valuable: цінний
+    - want: хотіти
+    - we: ми
+    - weak: слабкий
+    - were: byl/был
+    - what: що
+    - when: коли
+    - wise: мудрий
+    - wiser: мудріший
+    - words: слова
+    - work: робота
+    - would: би
+    - you: ви

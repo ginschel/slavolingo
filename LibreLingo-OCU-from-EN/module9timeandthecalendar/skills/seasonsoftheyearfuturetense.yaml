@@ -72,129 +72,117 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - бꙋдємъ: undefined
-    - бꙋдєтъ: undefined
-    - бꙋдєтє: undefined
-    - бꙋдєши: undefined
-    - бꙋдѫ: undefined
-    - бꙋдѫтъ: undefined
-    - бꙑти: undefined
-    - видѣти: undefined
-    - въ: undefined
-    - възъдꙋхъ: undefined
-    - вєсноѭ: undefined
-    - вєсьна: undefined
-    - добра: undefined
-    - дъждь: undefined
-    - за: undefined
-    - зима: undefined
-    - зимѣ: undefined
-    - зєлєнъи: undefined
-    - играти: undefined
-    - измѣнѧти: undefined
-    - имаѥтъ: undefined
-    - кологовъ: undefined
-    - коньчаѥтъ: undefined
-    - краиобразъ: undefined
-    - листꙑ: undefined
-    - лѣто: undefined
-    - лѣтꙋ: undefined
-    - мьного: undefined
-    - мѣнѧѭтъ: undefined
-    - нє: undefined
-    - нꙋдьна: undefined
-    - они: undefined
-    - отьпочинька: undefined
-    - падати: undefined
-    - падаѥтъ: undefined
-    - падаѭщи: undefined
-    - при: undefined
-    - принесєтъ: undefined
-    - разꙑ: undefined
-    - растꙋтъ: undefined
-    - рокꙋ: undefined
-    - свѣтити: undefined
-    - силььно: undefined
-    - скоро: undefined
-    - слъньца: undefined
-    - слъньцє: undefined
-    - снѣга: undefined
-    - снѣгомъ: undefined
-    - снѣгъ: undefined
-    - спортъовъ: undefined
-    - съ: undefined
-    - сєзономъ: undefined
-    - сєзонъ: undefined
-    - сєзонꙑ: undefined
-    - сѧ: undefined
-    - тръпѣти: undefined
-    - тълико: undefined
-    - тєпло: undefined
-    - хладьнъ: undefined
-    - цвѣтꙑ: undefined
-    - чрѣзъ: undefined
-    - чєтꙑри: undefined
-    - ѥзєрꙋ: undefined
-    - ѥстъ: undefined
-    - ѥсєни: undefined
-    - ѥсєнь: undefined
+    - видѣти: to see
+    - въ: in, at
+    - възъдꙋхъ: air
+    - вєсноѭ: in spring
+    - добра: good (feminine)
+    - дъждь: rain
+    - за: for, behind
+    - зимѣ: in winter
+    - зєлєнъи: green
+    - играти: to play
+    - измѣнѧти: to change
+    - имаѥтъ: he/she/it has
+    - кологовъ: of the colors
+    - коньчаѥтъ: it ends
+    - краиобразъ: landscape
+    - листꙑ: leaves
+    - лѣтꙋ: in summer
+    - мьного: much, many
+    - мѣнѧѭтъ: they change
+    - нє: no, not
+    - нꙋдьна: boring (feminine)
+    - они: they (masculine)
+    - отьпочинька: of rest
+    - падати: to fall
+    - падаѥтъ: it falls
+    - падаѭщи: falling
+    - при: at, near
+    - принесєтъ: he/she/it will bring
+    - разꙑ: times
+    - растꙋтъ: they grow
+    - рокꙋ: in the year
+    - свѣтити: to shine
+    - силььно: strongly
+    - скоро: soon
+    - слъньца: of the sun
+    - слъньцє: sun
+    - снѣга: of snow
+    - снѣгомъ: with snow
+    - снѣгъ: snow
+    - спортъовъ: of sports
+    - съ: with
+    - сєзономъ: with the season
+    - сєзонꙑ: seasons
+    - сѧ: oneself (reflexive pronoun)
+    - тръпѣти: to suffer, to be patient
+    - тълико: so much
+    - тєпло: warm (neuter)
+    - хладьнъ: cold
+    - цвѣтꙑ: flowers
+    - чрѣзъ: through
+    - чєтꙑри: four
+    - ѥзєрꙋ: to the lake
+    - ѥстъ: he/she/it is
+    - ѥсєни: in autumn
   English:
-    - a: undefined
-    - air: undefined
-    - autumn: undefined
-    - be: undefined
-    - because: undefined
-    - boring: undefined
-    - bring: undefined
-    - by: undefined
-    - change: undefined
-    - cold: undefined
-    - colors: undefined
-    - end: undefined
-    - falling: undefined
-    - flowers: undefined
-    - for: undefined
-    - four: undefined
-    - good: undefined
-    - green: undefined
-    - grow: undefined
-    - has: undefined
-    - he/she/it: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - it: undefined
-    - lake: undefined
-    - landscape: undefined
-    - leaves: undefined
-    - lot: undefined
-    - many: undefined
-    - not: undefined
-    - of: undefined
-    - play: undefined
-    - rain: undefined
-    - rest: undefined
-    - season: undefined
-    - seasons: undefined
-    - see: undefined
-    - shine: undefined
-    - snow: undefined
-    - soon: undefined
-    - sports: undefined
-    - spring: undefined
-    - strongly: undefined
-    - suffer: undefined
-    - summer: undefined
-    - sun: undefined
-    - the: undefined
-    - there: undefined
-    - they: undefined
-    - times: undefined
-    - to: undefined
-    - warm: undefined
-    - we: undefined
-    - will: undefined
-    - winter: undefined
-    - with: undefined
-    - year: undefined
-    - you: undefined
+    - a: jedin/один
+    - air: възъдꙋхъ
+    - autumn: ѥсєнь
+    - be: бꙑти
+    - because: за то чьто
+    - boring: нꙋдьнъ
+    - bring: принєсти
+    - by: (expressed by case)
+    - change: измѣнѧти
+    - cold: хладънъ
+    - colors: колорꙑ
+    - end: коньць
+    - falling: падаѥтъ
+    - flowers: цвѣтꙑ
+    - for: за, на
+    - four: чєтꙑри
+    - good: добръ
+    - green: зєлєнъ
+    - grow: расти
+    - has: имаѥтъ
+    - he/she/it: онъ, она, оно
+    - i: азъ, ꙗ
+    - in: въ
+    - is: ѥстъ
+    - it: ono
+    - lake: ѥзєро
+    - landscape: краиобразъ
+    - leaves: листиѥ
+    - lot: мьного
+    - many: мьного
+    - not: нє
+    - of: (genitive case)
+    - play: играти
+    - rain: дъждь
+    - rest: отьпочинъкъ
+    - season: сєзонъ
+    - seasons: сєзонꙑ
+    - see: видѣти
+    - shine: блѣскати
+    - snow: снѣгъ
+    - soon: скоро
+    - sports: спортъ
+    - spring: вєсьна
+    - strongly: силььно
+    - suffer: тръпѣти
+    - summer: лѣто
+    - sun: слъньцє
+    - the: to
+    - there: тамъ
+    - they: они, онꙑ
+    - times: разꙑ
+    - to: къ, на
+    - warm: тєплъ
+    - we: мꙑ
+    - will: (future tense expressed by verb form)
+    - winter: зима
+    - with: съ
+    - year: рокъ
+    - you: тꙑ, вꙑ

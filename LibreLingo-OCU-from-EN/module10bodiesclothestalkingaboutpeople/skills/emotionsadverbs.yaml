@@ -78,158 +78,144 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - азъ: undefined
-    - важьнъ: undefined
-    - въ: undefined
-    - вєсєло: undefined
-    - вєсєлъ: undefined
-    - глаголилъ: undefined
-    - глѧдаѥтъ: undefined
-    - гнѣвъ: undefined
-    - гнѣвьно: undefined
-    - гнѣвьнъ: undefined
-    - гордо: undefined
-    - гордъ: undefined
-    - до: undefined
-    - дома: undefined
-    - дьнь: undefined
-    - дꙋшє: undefined
-    - жалость: undefined
-    - жалостьно: undefined
-    - жалостьнъ: undefined
-    - за: undefined
-    - зависть: undefined
-    - завистьно: undefined
-    - идєтъ: undefined
-    - изъвънꙋтра: undefined
-    - имамъ: undefined
-    - имъ: undefined
-    - кажєтъ: undefined
-    - къгда: undefined
-    - любимъ: undefined
-    - любовь: undefined
-    - мьного: undefined
-    - мꙑ: undefined
-    - на: undefined
-    - напълънѥло: undefined
-    - насъ: undefined
-    - натꙋральна: undefined
-    - нѥго: undefined
-    - она: undefined
-    - онъ: undefined
-    - показоваѥтъ: undefined
-    - прѣстрашьно: undefined
-    - прѣстрашьнъ: undefined
-    - работати: undefined
-    - работꙋ: undefined
-    - радость: undefined
-    - радостьно: undefined
-    - радостьнъ: undefined
-    - рєакциꙗ: undefined
-    - свои: undefined
-    - своѭ: undefined
-    - силььна: undefined
-    - силььнъ: undefined
-    - скрꙑвати: undefined
-    - скрꙑваѥтъ: undefined
-    - спокои: undefined
-    - срамъ: undefined
-    - срамьнъ: undefined
-    - сръдьцє: undefined
-    - срьци: undefined
-    - страхъ: undefined
-    - стꙑдъ: undefined
-    - стꙑдьно: undefined
-    - сѧ: undefined
-    - тръпѣти: undefined
-    - трєпєтъ: undefined
-    - тъ: undefined
-    - тълико: undefined
-    - тꙋ: undefined
-    - хощємъ: undefined
-    - чьрна: undefined
-    - чꙋти: undefined
-    - чꙋѥмъ: undefined
-    - чꙋѥтъ: undefined
-    - шєлъ: undefined
-    - ыбѣгалъ: undefined
-    - ыбѣгати: undefined
-    - ѥмоциꙗ: undefined
-    - ѥмꙋ: undefined
-    - ѥстъ: undefined
+    - азъ: I
+    - важьнъ: important (masculine)
+    - въ: in, at
+    - вєсєло: cheerfully
+    - глаголилъ: he spoke
+    - глѧдаѥтъ: he/she/it watches
+    - гнѣвъ: anger
+    - гнѣвьно: angrily
+    - гордо: proudly
+    - до: to, until
+    - дома: at home
+    - дьнь: day
+    - дꙋшє: soul
+    - жалость: sadness, pity
+    - жалостьно: sadly
+    - за: for, behind
+    - завистьно: envious
+    - идєтъ: he/she/it goes
+    - изъвънꙋтра: from inside
+    - имамъ: I have
+    - имъ: to them
+    - кажєтъ: he/she/it says
+    - къгда: when
+    - любимъ: we love
+    - мьного: much, many
+    - мꙑ: we
+    - на: on, to
+    - напълънѥло: filled (neuter)
+    - насъ: us
+    - натꙋральна: natural (feminine)
+    - нѥго: him, it
+    - она: she
+    - онъ: he
+    - показоваѥтъ: he/she/it shows
+    - прѣстрашьно: terribly
+    - работати: to work
+    - работꙋ: work (accusative)
+    - радость: joy
+    - радостьно: joyfully
+    - рєакциꙗ: reaction
+    - свои: his, her, its, their (own)
+    - своѭ: his/her/its own (accusative)
+    - силььна: strong (feminine)
+    - силььнъ: strong (masculine)
+    - скрꙑваѥтъ: he/she/it hides
+    - срамъ: shame
+    - сръдьцє: heart
+    - срьци: in the heart
+    - страхъ: fear
+    - стꙑдьно: shameful
+    - сѧ: oneself (reflexive pronoun)
+    - тръпѣти: to suffer, to be patient
+    - тъ: that, he
+    - тълико: so much
+    - тꙋ: here
+    - хощємъ: we want
+    - чьрна: black (feminine)
+    - чꙋти: to feel, to hear
+    - чꙋѥмъ: we feel
+    - чꙋѥтъ: he/she/it feels
+    - шєлъ: he went
+    - ыбѣгалъ: he ran away
+    - ѥмоциꙗ: emotion
+    - ѥмꙋ: to him
+    - ѥстъ: he/she/it is
   English:
-    - a: undefined
-    - and: undefined
-    - anger: undefined
-    - angrily: undefined
-    - angry: undefined
-    - ashamed: undefined
-    - away: undefined
-    - cheerful: undefined
-    - comes: undefined
-    - dark: undefined
-    - emotion: undefined
-    - envy: undefined
-    - fear: undefined
-    - feel: undefined
-    - feels: undefined
-    - filled: undefined
-    - for: undefined
-    - frightened: undefined
-    - from: undefined
-    - have: undefined
-    - he: undefined
-    - heart: undefined
-    - her: undefined
-    - hide: undefined
-    - hides: undefined
-    - him: undefined
-    - his: undefined
-    - home: undefined
-    - i: undefined
-    - important: undefined
-    - in: undefined
-    - inside: undefined
-    - is: undefined
-    - jealous: undefined
-    - joy: undefined
-    - joyful: undefined
-    - joyfully: undefined
-    - love: undefined
-    - my: undefined
-    - natural: undefined
-    - of: undefined
-    - only: undefined
-    - peace: undefined
-    - peaceful: undefined
-    - proud: undefined
-    - proudly: undefined
-    - ran: undefined
-    - reaction: undefined
-    - run: undefined
-    - sad: undefined
-    - sadly: undefined
-    - sadness: undefined
-    - shame: undefined
-    - she: undefined
-    - shows: undefined
-    - soul: undefined
-    - spoke: undefined
-    - strong: undefined
-    - suffer: undefined
-    - tells: undefined
-    - the: undefined
-    - them: undefined
-    - this: undefined
-    - to: undefined
-    - tremor: undefined
-    - us: undefined
-    - very: undefined
-    - was: undefined
-    - we: undefined
-    - week: undefined
-    - went: undefined
-    - when: undefined
-    - with: undefined
-    - within: undefined
-    - work: undefined
+    - a: jedin/один
+    - and: и
+    - anger: гнѣвъ
+    - angrily: гнѣвьно
+    - angry: гнѣвьнъ
+    - ashamed: срамьнъ
+    - away: (part of phrasal verbs)
+    - cheerful: вєсєлъ
+    - comes: приходитъ
+    - dark: тьмьнъ
+    - emotion: ѥмоциꙗ
+    - envy: зависть
+    - fear: страхъ
+    - feel: чꙋти
+    - feels: чꙋѥтъ
+    - filled: пълънъ
+    - for: за, на
+    - frightened: прѣстрашьнъ
+    - from: отъ, изъ
+    - have: имати
+    - he: онъ
+    - heart: сръдьцє
+    - her: ѥѩ
+    - hide: скрꙑвати
+    - hides: скрꙑваѥтъ
+    - him: ѥго
+    - his: ѥго
+    - home: домъ, дома
+    - i: азъ, ꙗ
+    - important: важьнъ
+    - in: въ
+    - inside: вънꙋтрь
+    - is: ѥстъ
+    - jealous: завистьнъ
+    - joy: радость
+    - joyful: радостьнъ
+    - joyfully: радостьно
+    - love: любовь
+    - my: мои, моꙗ, моѥ
+    - natural: натꙋралнъ
+    - of: (genitive case)
+    - only: тъкъмо
+    - peace: миръ, спокои
+    - peaceful: мирьнъ
+    - proud: гордъ
+    - proudly: гордо
+    - ran: бѣжалъ
+    - reaction: рєакциꙗ
+    - run: бѣгати
+    - sad: жалостьнъ
+    - sadly: жалостьно
+    - sadness: жалость
+    - shame: срамъ, стꙑдъ
+    - she: она
+    - shows: показоваѥтъ
+    - soul: дꙋша
+    - spoke: глаголалъ
+    - strong: силььнъ
+    - suffer: тръпѣти
+    - tells: глаголѥтъ
+    - the: to
+    - them: ихъ
+    - this: сь, сꙗ, сє
+    - to: къ, на
+    - tremor: трєпєтъ
+    - us: насъ
+    - very: вєльми, прємо
+    - was: бꙑлъ, бꙑла, бꙑло
+    - we: мꙑ
+    - week: тꙑжьдьнь
+    - went: шєлъ
+    - when: къгда
+    - with: съ
+    - within: въ
+    - work: работа

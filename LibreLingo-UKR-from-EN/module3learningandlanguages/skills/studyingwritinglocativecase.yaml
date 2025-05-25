@@ -37,27 +37,27 @@ New words:
 Phrases:
   - Phrase: Це моя школа.
     Translation: This is my school.
-  - Phrase: Вона є вчителькою.
+  - Phrase: Вона вчителькою.
     Translation: She is a teacher.
-  - Phrase: Він є учнем.
+  - Phrase: Він учнем.
     Translation: He is a student.
   - Phrase: Книжка є на столі.
     Translation: The book is on the table.
   - Phrase: Я маю завдання.
     Translation: I have an assignment.
-  - Phrase: Туш є ще мокрий.
+  - Phrase: Туш ще мокрий.
     Translation: The ink is still wet.
   - Phrase: Папір є білий.
     Translation: The paper is white.
   - Phrase: Той предмет то математика.
     Translation: This subject is mathematics.
-  - Phrase: Та метод є добра.
+  - Phrase: Той метод є добрий.
     Translation: This method is good.
   - Phrase: Учень має книжку.
     Translation: The student has a book.
-  - Phrase: Це є мій стіл.
+  - Phrase: Це мій стіл.
     Translation: This is my desk.
-  - Phrase: Мій записник є повний записів з пером
+  - Phrase: Мій записник повний записів з пером
     Translation: My notebook is full of notes with a pen
   - Phrase: Пишу на папері пером.
     Translation: I am writing on paper with a pen.
@@ -71,121 +71,105 @@ Phrases:
     Translation: She has many assignments.
   - Phrase: Я швидко пишу цим пером.
     Translation: I am writing quickly with this pen.
-  - Phrase: Предмет є складний.
+  - Phrase: Предмет складний.
     Translation: The subject is complex.
-  - Phrase: Книжка є нова.
+  - Phrase: Книжка нова.
     Translation: The book is new.
-  - Phrase: Він є моїм вчителем.
+  - Phrase: Він моїм вчителем.
     Translation: He is my teacher.
 
 Mini-dictionary:
   Ukrainian:
-    - багато: undefined
-    - білий: undefined
-    - в: undefined
-    - вона: undefined
-    - вчителем: undefined
-    - вчитель: undefined
-    - вчителька: undefined
-    - вчителькою: undefined
-    - він: undefined
-    - говорить: undefined
-    - добра: undefined
-    - з: undefined
-    - завдання: undefined
-    - завдань: undefined
-    - запис: undefined
-    - записник: undefined
-    - записник/зошит: undefined
-    - записів: undefined
-    - зі: undefined
-    - книжка: undefined
-    - книжку: undefined
-    - математика: undefined
-    - маю: undefined
-    - має: undefined
-    - метод: undefined
-    - ми: undefined
-    - мокрий: undefined
-    - моя: undefined
-    - моїм: undefined
-    - мій: undefined
-    - на: undefined
-    - нова: undefined
-    - папері: undefined
-    - папір: undefined
-    - перо: undefined
-    - пером: undefined
-    - пишемо: undefined
-    - пишу: undefined
-    - повний: undefined
-    - предмет: undefined
-    - складний: undefined
-    - столі: undefined
-    - студентами: undefined
-    - стіл: undefined
-    - та: undefined
-    - то: undefined
-    - той: undefined
-    - туш: undefined
-    - учень: undefined
-    - учнем: undefined
-    - це: undefined
-    - центрі: undefined
-    - цим: undefined
-    - швидко: undefined
-    - школа: undefined
-    - ще: undefined
-    - я: undefined
-    - є: undefined
+    - багато: a lot, many, much
+    - білий: white (masculine)
+    - в: in, at
+    - вона: she
+    - вчителем: with a teacher
+    - вчителькою: with a female teacher
+    - він: he
+    - говорить: speaks
+    - добрий: good (masculine)
+    - з: with, from
+    - завдань: of tasks
+    - записник: notebook
+    - записів: of notes
+    - зі: with
+    - книжку: book (accusative)
+    - математика: mathematics
+    - маю: I have
+    - має: has
+    - ми: we
+    - мокрий: wet (masculine)
+    - моя: my (feminine)
+    - моїм: with my
+    - мій: my (masculine)
+    - нова: new (feminine)
+    - папері: on paper
+    - пером: with a pen
+    - пишемо: we write
+    - пишу: I write
+    - повний: full (masculine)
+    - складний: difficult, complex
+    - столі: on the table
+    - студентами: with students
+    - то: then, that is
+    - той: that (masculine)
+    - учнем: with a student
+    - це: this is, it is
+    - центрі: in the center
+    - цим: with this
+    - швидко: fast, quickly
+    - ще: still, yet
+    - я: I
+    - є: is, are
   English:
-    - a: undefined
-    - am: undefined
-    - an: undefined
-    - are: undefined
-    - assignment: undefined
-    - assignments: undefined
-    - book: undefined
-    - center: undefined
-    - complex: undefined
-    - desk: undefined
-    - female: undefined
-    - full: undefined
-    - good: undefined
-    - has: undefined
-    - have: undefined
-    - he: undefined
-    - i: undefined
-    - in: undefined
-    - ink: undefined
-    - is: undefined
-    - male: undefined
-    - many: undefined
-    - mathematics: undefined
-    - method: undefined
-    - my: undefined
-    - new: undefined
-    - note: undefined
-    - notebook: undefined
-    - notes: undefined
-    - of: undefined
-    - on: undefined
-    - paper: undefined
-    - pen: undefined
-    - quickly: undefined
-    - school: undefined
-    - she: undefined
-    - still: undefined
-    - student: undefined
-    - students: undefined
-    - subject: undefined
-    - table: undefined
-    - talking: undefined
-    - teacher: undefined
-    - the: undefined
-    - this: undefined
-    - we: undefined
-    - wet: undefined
-    - white: undefined
-    - with: undefined
-    - writing: undefined
+    - a: jedin/один
+    - am: є
+    - an: ан
+    - are: byti/быти
+    - assignment: завдання
+    - assignments: завдання
+    - book: книга
+    - center: центр
+    - complex: складний
+    - desk: стіл
+    - female: жіночий
+    - full: повний
+    - good: добрий
+    - has: має
+    - have: мати
+    - he: він
+    - i: я
+    - in: в
+    - ink: чорнило
+    - is: є
+    - male: чоловічий
+    - many: багато
+    - mathematics: математика
+    - method: метод
+    - my: мій
+    - new: новий
+    - note: примітка
+    - notebook: зошит
+    - notes: нотатки
+    - of: з
+    - on: на
+    - paper: папір
+    - pen: ручка
+    - quickly: швидко
+    - school: школа
+    - she: вона
+    - still: ще
+    - student: студент
+    - students: студенти
+    - subject: предмет
+    - table: стіл
+    - talking: говорить
+    - teacher: вчитель
+    - the: to
+    - this: це
+    - we: ми
+    - wet: мокрий
+    - white: білий
+    - with: з
+    - writing: написання

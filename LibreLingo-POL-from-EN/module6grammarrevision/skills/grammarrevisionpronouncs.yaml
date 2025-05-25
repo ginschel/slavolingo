@@ -5,7 +5,7 @@ Skill:
 New words:
   - Word: "znać (fakty)"
     Translation: to know
-  - Word: "wiedzieć (znać kogoś/coś)"
+  - Word: "wiedzieć (wie)"
     Translation: to know
   - Word: "sen"
     Translation: dream
@@ -17,7 +17,7 @@ Phrases:
     Translation: I don't know that.
   - Phrase: O tym już długo wiem.
     Translation: I have known about that thing for a long time.
-  - Phrase: Kogo widzisz?.
+  - Phrase: Kogo widzisz?
     Translation: Who do you see?.
   - Phrase: Tym, którzy kładą się spać, spokojnego snu.
     Translation: To those who are going to sleep, a peaceful dream.
@@ -58,144 +58,144 @@ Phrases:
 
 Mini-dictionary:
   Polish:
-    - być: undefined
-    - czego: undefined
-    - czy: undefined
-    - czym: undefined
-    - daj: undefined
-    - daje: undefined
-    - dajesz: undefined
-    - dasz: undefined
-    - domu: undefined
-    - długo: undefined
-    - fakty: undefined
-    - ja: undefined
-    - jej: undefined
-    - już: undefined
-    - kawa: undefined
-    - kobiety: undefined
-    - kogo: undefined
-    - kogoś/coś: undefined
-    - komu: undefined
-    - kości: undefined
-    - którzy: undefined
-    - kładą: undefined
-    - lubi: undefined
-    - ma: undefined
-    - masz: undefined
-    - mi: undefined
-    - mnie: undefined
-    - mówisz: undefined
-    - mówię: undefined
-    - nami: undefined
-    - nic: undefined
-    - nie: undefined
-    - o: undefined
-    - on: undefined
-    - piękne: undefined
-    - prezent: undefined
-    - przyjaciół: undefined
-    - psu: undefined
-    - rozmawiam: undefined
-    - rzecz: undefined
-    - rzeczy: undefined
-    - sam: undefined
-    - sen: undefined
-    - się: undefined
-    - snu: undefined
-    - sobie: undefined
-    - sobą: undefined
-    - spać: undefined
-    - spokojnego: undefined
-    - spokój: undefined
-    - są: undefined
-    - te: undefined
-    - tego: undefined
-    - tej: undefined
-    - temu: undefined
-    - to: undefined
-    - tobie: undefined
-    - tobą: undefined
-    - tu: undefined
-    - tych: undefined
-    - tym: undefined
-    - w: undefined
-    - was: undefined
-    - wasza: undefined
-    - wesoło: undefined
-    - widzisz: undefined
-    - widzę: undefined
-    - wiedzieć: undefined
-    - wiem: undefined
-    - wodę: undefined
-    - wszystko: undefined
-    - z: undefined
-    - zawsze: undefined
-    - ze: undefined
-    - znam: undefined
-    - znać: undefined
+    - być: be
+    - czego: what
+    - czy: whether
+    - czym: what
+    - daj: give
+    - daje: gives
+    - dajesz: you give
+    - dasz: you will give
+    - domu: home
+    - długo: long
+    - fakty: facts
+    - ja: I
+    - jej: her
+    - już: already
+    - kawa: coffee
+    - kobiety: woman
+    - kogo: whom
+    - komu: to whom
+    - kości: bones
+    - którzy: who
+    - kładą: lay
+    - lubi: likes
+    - ma: has
+    - masz: you have
+    - mi: me
+    - mnie: me
+    - mówisz: you say
+    - mówię: I say
+    - nami: us
+    - nic: nothing
+    - nie: no
+    - o: about
+    - on: he
+    - piękne: beautiful
+    - prezent: present
+    - przyjaciół: friends
+    - psu: dog
+    - rozmawiam: I talk
+    - rzecz: thing
+    - rzeczy: things
+    - sam: alone
+    - sen: dream
+    - się: oneself
+    - snu: sleep
+    - sobie: oneself
+    - sobą: oneself
+    - spać: sleep
+    - spokojnego: calm
+    - spokój: peace
+    - są: are
+    - te: these
+    - tego: this
+    - tej: this
+    - temu: ago
+    - to: this
+    - tobie: you
+    - tobą: you
+    - tu: here
+    - tych: these
+    - tym: this
+    - w: in
+    - was: you
+    - wasza: your
+    - wesoło: cheerfully
+    - widzisz: you see
+    - widzę: I see
+    - wie: knows
+    - wiedzieć: know
+    - wiem: I know
+    - wodę: water
+    - wszystko: everything
+    - z: with
+    - zawsze: always
+    - ze: from
+    - znam: I know
+    - znać: know
   English:
-    - a: undefined
-    - about: undefined
-    - alone: undefined
-    - always: undefined
-    - am: undefined
-    - are: undefined
-    - at: undefined
-    - be: undefined
-    - beautiful: undefined
-    - bones: undefined
-    - cheerful: undefined
-    - coffee: undefined
-    - do: undefined
-    - dog: undefined
-    - don't: undefined
-    - dream: undefined
-    - everything: undefined
-    - for: undefined
-    - friends: undefined
-    - gift: undefined
-    - give: undefined
-    - going: undefined
-    - have: undefined
-    - he: undefined
-    - her: undefined
-    - here: undefined
-    - himself: undefined
-    - house: undefined
-    - i: undefined
-    - is: undefined
-    - isn't: undefined
-    - it: undefined
-    - know: undefined
-    - known: undefined
-    - likes: undefined
-    - long: undefined
-    - me: undefined
-    - no: undefined
-    - not: undefined
-    - nothing: undefined
-    - or: undefined
-    - others: undefined
-    - peaceful: undefined
-    - see: undefined
-    - sleep: undefined
-    - stops: undefined
-    - talking: undefined
-    - talt: undefined
-    - that: undefined
-    - these: undefined
-    - thing: undefined
-    - this: undefined
-    - those: undefined
-    - time: undefined
-    - to: undefined
-    - troubling: undefined
-    - us: undefined
-    - water: undefined
-    - what: undefined
-    - who: undefined
-    - with: undefined
-    - women: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - about: o
+    - alone: sam
+    - always: zawsze
+    - am: jestem
+    - are: byti/быти
+    - at: w
+    - be: być
+    - beautiful: piękna
+    - bones: kości
+    - cheerful: wesoły
+    - coffee: kawa
+    - do: robić
+    - dog: pies
+    - don't: nie
+    - dream: sen
+    - everything: wszystko
+    - for: dla
+    - friends: przyjaciele
+    - gift: prezent
+    - give: dać
+    - going: idzie
+    - have: mieć
+    - he: on
+    - her: jej
+    - here: tu
+    - himself: siebie
+    - house: dom
+    - i: ja
+    - is: jest
+    - isn't: nie jest
+    - it: to
+    - know: znać
+    - known: znany
+    - likes: lubi
+    - long: długi
+    - me: mnie
+    - no: nie
+    - not: nie
+    - nothing: nic
+    - or: lub
+    - others: inni
+    - peaceful: spokojny
+    - see: widzieć
+    - sleep: spać
+    - stops: zatrzymuje
+    - talking: rozmawianie
+    - talt: wysoki
+    - that: że
+    - these: te
+    - thing: rzecz
+    - this: to
+    - those: tamte
+    - time: czas
+    - to: do
+    - troubling: kłopotliwy
+    - us: nas
+    - water: woda
+    - what: co
+    - who: kto
+    - with: z
+    - women: kobiet
+    - you: ty
+    - your: twój

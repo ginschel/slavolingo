@@ -72,128 +72,116 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - багато: undefined
-    - бачити: undefined
-    - буде: undefined
-    - будемо: undefined
-    - будете: undefined
-    - будеш: undefined
-    - буду: undefined
-    - будуть: undefined
-    - бути: undefined
-    - біля: undefined
-    - весна: undefined
-    - взимку: undefined
-    - влітку: undefined
-    - вони: undefined
-    - восени: undefined
-    - відпочинку: undefined
-    - грати: undefined
-    - для: undefined
-    - добра: undefined
-    - дощ: undefined
-    - закінчується: undefined
-    - зелений: undefined
-    - зима: undefined
-    - змінюватися: undefined
-    - змінюються: undefined
-    - зі: undefined
-    - квіти: undefined
-    - кольорів: undefined
-    - краєвид: undefined
-    - листя: undefined
-    - літо: undefined
-    - має: undefined
-    - на: undefined
-    - навесні: undefined
-    - не: undefined
-    - нудна: undefined
-    - озера: undefined
-    - осінь: undefined
-    - падати: undefined
-    - падаюче: undefined
-    - падає: undefined
-    - повітря: undefined
-    - принесе: undefined
-    - рази: undefined
-    - ростуть: undefined
-    - рік: undefined
-    - світити: undefined
-    - сезон: undefined
-    - сезони: undefined
-    - сезоном: undefined
-    - сильно: undefined
-    - скоро: undefined
-    - сніг: undefined
-    - снігом: undefined
-    - снігу: undefined
-    - сонце: undefined
-    - сонця: undefined
-    - спортсменів: undefined
-    - тепло: undefined
-    - терпіти: undefined
-    - тільки: undefined
-    - холодне: undefined
-    - через: undefined
-    - чотири: undefined
-    - є: undefined
+    - багато: a lot, many, much
+    - бачити: to see
+    - біля: near, by
+    - взимку: in winter
+    - влітку: in summer
+    - вони: they
+    - восени: in autumn
+    - відпочинку: of rest
+    - грати: to play
+    - для: for
+    - добра: good (feminine)
+    - дощ: rain
+    - закінчується: ends
+    - зелений: green (masculine)
+    - змінюватися: to change
+    - змінюються: they change
+    - зі: with
+    - квіти: flowers
+    - кольорів: of colors
+    - краєвид: landscape
+    - листя: leaves
+    - має: has
+    - на: on, at
+    - навесні: in spring
+    - не: not
+    - нудна: boring
+    - озера: of the lake
+    - падати: to fall
+    - падаюче: falling
+    - падає: falls
+    - повітря: air
+    - принесе: will bring
+    - рази: times
+    - ростуть: they grow
+    - рік: year
+    - світити: to shine
+    - сезони: seasons
+    - сезоном: with the season
+    - сильно: strongly
+    - скоро: soon
+    - сніг: snow
+    - снігом: with snow
+    - снігу: of snow
+    - сонце: sun
+    - сонця: of the sun
+    - спортсменів: of sportsmen
+    - тепло: warm, warmly
+    - терпіти: to suffer, to endure
+    - тільки: only
+    - холодне: cold (neuter)
+    - через: through, across
+    - чотири: four
+    - є: is, are
   English:
-    - a: undefined
-    - air: undefined
-    - autumn: undefined
-    - be: undefined
-    - because: undefined
-    - boring: undefined
-    - bring: undefined
-    - by: undefined
-    - change: undefined
-    - cold: undefined
-    - colors: undefined
-    - end: undefined
-    - falling: undefined
-    - flowers: undefined
-    - for: undefined
-    - four: undefined
-    - good: undefined
-    - green: undefined
-    - grow: undefined
-    - has: undefined
-    - he/she/it: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - it: undefined
-    - lake: undefined
-    - landscape: undefined
-    - leaves: undefined
-    - lot: undefined
-    - many: undefined
-    - not: undefined
-    - of: undefined
-    - play: undefined
-    - rain: undefined
-    - rest: undefined
-    - season: undefined
-    - seasons: undefined
-    - see: undefined
-    - shine: undefined
-    - snow: undefined
-    - soon: undefined
-    - sports: undefined
-    - spring: undefined
-    - strongly: undefined
-    - suffer: undefined
-    - summer: undefined
-    - sun: undefined
-    - the: undefined
-    - there: undefined
-    - they: undefined
-    - times: undefined
-    - to: undefined
-    - warm: undefined
-    - we: undefined
-    - will: undefined
-    - winter: undefined
-    - with: undefined
-    - year: undefined
-    - you: undefined
+    - a: jedin/один
+    - air: повітря
+    - autumn: осінь
+    - be: бути
+    - because: тому що
+    - boring: нудний
+    - bring: принести
+    - by: за
+    - change: змінити
+    - cold: холодний
+    - colors: кольори
+    - end: кінець
+    - falling: падає
+    - flowers: квіти
+    - for: для
+    - four: чотири
+    - good: добрий
+    - green: зелений
+    - grow: рости
+    - has: має
+    - he/she/it: він/вона/воно
+    - i: я
+    - in: в
+    - is: є
+    - it: це
+    - lake: озеро
+    - landscape: пейзаж
+    - leaves: листя
+    - lot: багато
+    - many: багато
+    - not: не
+    - of: з
+    - play: грати
+    - rain: дощ
+    - rest: відпочинок
+    - season: сезон
+    - seasons: пори року
+    - see: бачити
+    - shine: сяяти
+    - snow: сніг
+    - soon: скоро
+    - sports: види спорту
+    - spring: весна
+    - strongly: сильно
+    - suffer: страждати
+    - summer: літо
+    - sun: сонце
+    - the: to
+    - there: там
+    - they: вони
+    - times: рази
+    - to: до
+    - warm: теплий
+    - we: ми
+    - will: буде
+    - winter: зима
+    - with: з
+    - year: рік
+    - you: ви

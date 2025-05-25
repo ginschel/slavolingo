@@ -86,121 +86,106 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - багатьма: undefined
-    - в: undefined
-    - важкі: undefined
-    - висока: undefined
-    - вода: undefined
-    - вони: undefined
-    - він: undefined
-    - гора: undefined
-    - горами: undefined
-    - деревами: undefined
-    - дерево: undefined
-    - дивляться: undefined
-    - до: undefined
-    - долина: undefined
-    - долину: undefined
-    - домом: undefined
-    - дуб: undefined
-    - дуба: undefined
-    - з: undefined
-    - за: undefined
-    - зелена: undefined
-    - земля: undefined
-    - землі: undefined
-    - йде: undefined
-    - йдемо: undefined
-    - йдуть: undefined
-    - камені: undefined
-    - камінь: undefined
-    - квіт: undefined
-    - квіти: undefined
-    - красивий: undefined
-    - красиво: undefined
-    - лежати: undefined
-    - лежить: undefined
-    - ліс: undefined
-    - ми: undefined
-    - мокра: undefined
-    - між: undefined
-    - місяць: undefined
-    - на: undefined
-    - поле: undefined
-    - полями: undefined
-    - полі: undefined
-    - роза: undefined
-    - росте: undefined
-    - рости: undefined
-    - ріка: undefined
-    - ріки: undefined
-    - стоїмо: undefined
-    - стоїть: undefined
-    - сьогодні: undefined
-    - тече: undefined
-    - трава: undefined
-    - цвісти: undefined
-    - цвіте: undefined
-    - цвітуть: undefined
-    - через: undefined
-    - швидко: undefined
-    - широке: undefined
-    - є: undefined
+    - багатьма: with many
+    - в: in, at
+    - важкі: heavy (plural)
+    - висока: tall (feminine)
+    - вода: water
+    - вони: they
+    - він: he
+    - горами: with mountains
+    - деревами: with trees
+    - дивляться: they watch
+    - до: to, until
+    - долину: valley (accusative)
+    - домом: with a house
+    - дуба: of the oak
+    - з: with, from
+    - за: for, behind
+    - зелена: green (feminine)
+    - землі: of the earth
+    - йде: goes
+    - йдемо: we go
+    - йдуть: they go
+    - камені: stones
+    - квіти: flowers
+    - красивий: beautiful (masculine)
+    - красиво: beautifully
+    - лежати: to lie
+    - лежить: lies
+    - ми: we
+    - мокра: wet (feminine)
+    - на: on, at
+    - полями: with fields
+    - полі: in the field
+    - росте: grows
+    - рости: to grow
+    - ріки: of the river
+    - стоїмо: we stand
+    - стоїть: stands
+    - сьогодні: today
+    - тече: flows
+    - цвісти: to bloom
+    - цвіте: blooms
+    - цвітуть: they bloom
+    - швидко: fast, quickly
+    - широке: wide (neuter)
+    - є: is, are
   English:
-    - a: undefined
-    - are: undefined
-    - beautiful: undefined
-    - beautifully: undefined
-    - behind: undefined
-    - between: undefined
-    - bloom: undefined
-    - earth: undefined
-    - fast: undefined
-    - field: undefined
-    - fields: undefined
-    - flower: undefined
-    - flowers: undefined
-    - flows: undefined
-    - forest: undefined
-    - from: undefined
-    - goes: undefined
-    - going: undefined
-    - grass: undefined
-    - green: undefined
-    - grow: undefined
-    - grows: undefined
-    - he: undefined
-    - heavy: undefined
-    - high: undefined
-    - house: undefined
-    - in: undefined
-    - into: undefined
-    - is: undefined
-    - lie: undefined
-    - lies: undefined
-    - looking: undefined
-    - many: undefined
-    - moon: undefined
-    - mountain: undefined
-    - mountains: undefined
-    - oak: undefined
-    - on: undefined
-    - river: undefined
-    - rose: undefined
-    - standing: undefined
-    - stone: undefined
-    - stones: undefined
-    - the: undefined
-    - they: undefined
-    - through: undefined
-    - to: undefined
-    - today: undefined
-    - towards: undefined
-    - tree: undefined
-    - trees: undefined
-    - valley: undefined
-    - water: undefined
-    - we: undefined
-    - wet: undefined
-    - wide: undefined
-    - with: undefined
+    - a: jedin/один
+    - are: byti/быти
+    - beautiful: красивий
+    - beautifully: красиво
+    - behind: позаду
+    - between: між
+    - bloom: цвітіння
+    - earth: земля
+    - fast: швидкий
+    - field: поле
+    - fields: поля
+    - flower: квітка
+    - flowers: квіти
+    - flows: тече
+    - forest: ліс
+    - from: від
+    - goes: йде
+    - going: йде
+    - grass: трава
+    - green: зелений
+    - grow: рости
+    - grows: росте
+    - he: він
+    - heavy: важкий
+    - high: високий
+    - house: будинок
+    - in: в
+    - into: в
+    - is: є
+    - lie: лежати
+    - lies: лежить
+    - looking: дивлячись
+    - many: багато
+    - moon: місяць
+    - mountain: гора
+    - mountains: гори
+    - oak: дуб
+    - on: на
+    - river: річка
+    - rose: троянда
+    - standing: стоїть
+    - stone: камінь
+    - stones: камені
+    - the: to
+    - they: вони
+    - through: через
+    - to: до
+    - today: сьогодні
+    - towards: до
+    - tree: дерево
+    - trees: дерева
+    - valley: долина
+    - water: вода
+    - we: ми
+    - wet: мокрий
+    - wide: широкий
+    - with: з

@@ -45,15 +45,15 @@ New words:
     Translation: dark
 
 Phrases:
-  - Phrase: Він є вище/більш високий і сильний ніж він.
+  - Phrase: Він є більше високий і сильний ніж він.
     Translation: He is taller and stronger than he is.
-  - Phrase: Вона є нижча і худа як він.
+  - Phrase: Вона низька і худа як він.
     Translation: She is shorter and thinner like him.
   - Phrase: Товстий чоловік йде по вулиці.
     Translation: The fat man is walking down the street.
   - Phrase: Худий має менше тілесної маси ніж товстий.
     Translation: The thin person has less body mass than the fat one.
-  - Phrase: Це є вище/більш красива людина ніж та.
+  - Phrase: Це є більше красива людина ніж та.
     Translation: He is a more beautiful person than that one.
   - Phrase: Старі люди є вище/більш мудрі ніж ми.
     Translation: Old people are wiser than us.
@@ -61,7 +61,7 @@ Phrases:
     Translation: The young one has a lot of energy.
   - Phrase: Його волосся є світле.
     Translation: His hair is blonde.
-  - Phrase: Очі є вище/більш зелені ніж у нього.
+  - Phrase: Очі є більше зелені ніж у нього.
     Translation: Her eyes are greener than his.
   - Phrase: Шкіра його є біла.
     Translation: His skin is white.
@@ -81,7 +81,7 @@ Phrases:
     Translation: The short girl is going home.
   - Phrase: Красиві очі блищать як зірки на небі.
     Translation: Beautiful eyes shine like stars in the sky.
-  - Phrase: Худий носить вище/більш велику сорочку ніж я.
+  - Phrase: Худий носить більшу велику сорочку ніж я.
     Translation: The thin one wears a larger shirt than I do.
   - Phrase: Її волосся є світле і довге.
     Translation: Her hair is light and long.
@@ -90,165 +90,146 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - а: undefined
-    - багато: undefined
-    - блищати: undefined
-    - блищать: undefined
-    - бридкий/поганий: undefined
-    - біла: undefined
-    - більше: undefined
-    - велику: undefined
-    - високий: undefined
-    - вище: undefined
-    - вище/більш: undefined
-    - волосся: undefined
-    - вона: undefined
-    - вулиці: undefined
-    - він: undefined
-    - гладка: undefined
-    - довге: undefined
-    - додому: undefined
-    - дівчина: undefined
-    - енергії: undefined
-    - жінка: undefined
-    - займаються: undefined
-    - зелені: undefined
-    - зірка: undefined
-    - зірки: undefined
-    - йде: undefined
-    - його: undefined
-    - красива: undefined
-    - красиве: undefined
-    - красивий: undefined
-    - красиві: undefined
-    - люди: undefined
-    - людина: undefined
-    - малий: undefined
-    - маси: undefined
-    - має: undefined
-    - менше: undefined
-    - ми: undefined
-    - молода: undefined
-    - молодий: undefined
-    - молоді: undefined
-    - мудрі: undefined
-    - на: undefined
-    - небі: undefined
-    - нижча: undefined
-    - низька: undefined
-    - низький: undefined
-    - носить: undefined
-    - нього: undefined
-    - ніж: undefined
-    - ніч: undefined
-    - очі: undefined
-    - по: undefined
-    - світле: undefined
-    - світлий: undefined
-    - сильний: undefined
-    - сміятися: undefined
-    - сміється: undefined
-    - сорочку: undefined
-    - спортом: undefined
-    - стара: undefined
-    - старий: undefined
-    - старі: undefined
-    - та: undefined
-    - темне: undefined
-    - темний: undefined
-    - товстий: undefined
-    - той: undefined
-    - тілесної: undefined
-    - у: undefined
-    - худа: undefined
-    - худий: undefined
-    - це: undefined
-    - часто: undefined
-    - чоловік: undefined
-    - шапку: undefined
-    - шкіра: undefined
-    - я: undefined
-    - як: undefined
-    - є: undefined
-    - і: undefined
-    - її: undefined
+    - а: and
+    - багато: a lot, many, much
+    - блищать: they shine
+    - біла: white (feminine)
+    - більше: more
+    - більшу: bigger (accusative)
+    - велику: big (accusative)
+    - вище/більш: higher/more
+    - вона: she
+    - вулиці: on the street
+    - він: he
+    - гладка: smooth
+    - довге: long (neuter)
+    - додому: home (to home)
+    - дівчина: girl
+    - енергії: of energy
+    - жінка: woman
+    - займаються: they are engaged in
+    - зелені: green (plural)
+    - зірки: stars
+    - йде: goes
+    - його: his, him
+    - красива: beautiful (feminine)
+    - красиве: beautiful (neuter)
+    - красиві: beautiful (plural)
+    - люди: people
+    - людина: person
+    - маси: of mass
+    - має: has
+    - ми: we
+    - молода: young (feminine)
+    - молоді: young (plural)
+    - мудрі: wise (plural)
+    - на: on, at
+    - небі: in the sky
+    - низька: low (feminine)
+    - носить: wears, carries
+    - нього: him
+    - ніч: night
+    - по: along
+    - світле: light (adjective, neuter)
+    - сильний: strong (masculine)
+    - сміятися: to laugh
+    - сміється: laughs
+    - сорочку: shirt (accusative)
+    - спортом: with sport
+    - стара: old (feminine)
+    - старі: old (plural)
+    - та: and, so
+    - темне: dark (neuter)
+    - той: that (masculine)
+    - тілесної: of the body
+    - у: in, at
+    - худа: thin (feminine)
+    - це: this is, it is
+    - часто: often
+    - чоловік: man, husband
+    - шапку: hat (accusative)
+    - я: I
+    - як: how, as
+    - є: is, are
+    - і: and
+    - її: her
   English:
-    - a: undefined
-    - and: undefined
-    - are: undefined
-    - as: undefined
-    - beautiful: undefined
-    - blonde: undefined
-    - body: undefined
-    - dark: undefined
-    - do: undefined
-    - down: undefined
-    - energy: undefined
-    - eyes: undefined
-    - fat: undefined
-    - girl: undefined
-    - going: undefined
-    - green: undefined
-    - greener: undefined
-    - hair: undefined
-    - has: undefined
-    - hat: undefined
-    - he: undefined
-    - her: undefined
-    - him: undefined
-    - his: undefined
-    - home: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - larger: undefined
-    - laugh: undefined
-    - laughs: undefined
-    - less: undefined
-    - light: undefined
-    - like: undefined
-    - long: undefined
-    - lot: undefined
-    - louder: undefined
-    - man: undefined
-    - mass: undefined
-    - more: undefined
-    - night: undefined
-    - of: undefined
-    - often: undefined
-    - old: undefined
-    - one: undefined
-    - people: undefined
-    - person: undefined
-    - play: undefined
-    - she: undefined
-    - shine: undefined
-    - shirt: undefined
-    - short: undefined
-    - shorter: undefined
-    - skin: undefined
-    - sky: undefined
-    - small: undefined
-    - smooth: undefined
-    - sports: undefined
-    - star: undefined
-    - stars: undefined
-    - street: undefined
-    - stronger: undefined
-    - tall: undefined
-    - taller: undefined
-    - taller/higher: undefined
-    - than: undefined
-    - that: undefined
-    - the: undefined
-    - thin: undefined
-    - thinner: undefined
-    - to: undefined
-    - ugly: undefined
-    - us: undefined
-    - walking: undefined
-    - wears: undefined
-    - white: undefined
-    - wiser: undefined
-    - woman: undefined
-    - young: undefined
+    - a: jedin/один
+    - and: і
+    - are: byti/быти
+    - as: як
+    - beautiful: красивий
+    - blonde: блондин
+    - body: тіло
+    - dark: темний
+    - do: робити
+    - down: вниз
+    - energy: енергія
+    - eyes: очі
+    - fat: товстий
+    - girl: дівчинка
+    - going: йде
+    - green: зелений
+    - greener: зеленіший
+    - hair: волосся
+    - has: має
+    - hat: капелюх
+    - he: він
+    - her: її
+    - him: його
+    - his: його
+    - home: дім
+    - i: я
+    - in: в
+    - is: є
+    - larger: більший
+    - laugh: сміх
+    - laughs: сміється
+    - less: менше
+    - light: світло
+    - like: як
+    - long: довгий
+    - lot: багато
+    - louder: голосніше
+    - man: чоловік
+    - mass: маса
+    - more: більше
+    - night: ніч
+    - of: з
+    - often: часто
+    - old: старий
+    - one: один
+    - people: люди
+    - person: людина
+    - play: грати
+    - she: вона
+    - shine: сяяти
+    - shirt: сорочка
+    - short: короткий
+    - shorter: коротший
+    - skin: шкіра
+    - sky: небо
+    - small: малий
+    - smooth: гладкий
+    - sports: види спорту
+    - star: зірка
+    - stars: зірки
+    - street: вулиця
+    - stronger: сильніший
+    - tall: високий
+    - taller: вищий
+    - taller/higher: вищий/вищий
+    - than: ніж
+    - that: той
+    - the: to
+    - thin: тонкий
+    - thinner: тонший
+    - to: до
+    - ugly: потворний
+    - us: нас
+    - walking: прогулянка
+    - wears: носить
+    - white: білий
+    - wiser: мудріший
+    - woman: жінка
+    - young: молодий

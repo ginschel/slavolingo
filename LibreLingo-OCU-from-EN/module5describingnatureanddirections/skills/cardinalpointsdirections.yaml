@@ -86,125 +86,108 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - въ: undefined
-    - възходъ: undefined
-    - възходъна: undefined
-    - възходъно: undefined
-    - възходънъ: undefined
-    - възходꙋ: undefined
-    - въстанєтъ: undefined
-    - въстати: undefined
-    - вѣтръ: undefined
-    - гдѣ: undefined
-    - глѧдаѥмъ: undefined
-    - грѣѥтъ: undefined
-    - до: undefined
-    - дꙋѥтъ: undefined
-    - жинємъ: undefined
-    - западаѥтъ: undefined
-    - западъ: undefined
-    - западънъ: undefined
-    - западънъи: undefined
-    - западꙋ: undefined
-    - и: undefined
-    - идємъ: undefined
-    - интєрєсьна: undefined
-    - компасъ: undefined
-    - краѥ: undefined
-    - къ: undefined
-    - лѣво: undefined
-    - мапа: undefined
-    - мапѣ: undefined
-    - мꙋзика: undefined
-    - на: undefined
-    - оно: undefined
-    - онъ: undefined
-    - показовати: undefined
-    - показоваѥтъ: undefined
-    - потомъ: undefined
-    - право: undefined
-    - прємо: undefined
-    - пꙋтьствовати: undefined
-    - пꙋтьствоѥтъ: undefined
-    - рєгионъ: undefined
-    - слъньцє: undefined
-    - снѣгъ: undefined
-    - страна: undefined
-    - странꙑ: undefined
-    - сь: undefined
-    - сѣвєро-западънъи: undefined
-    - сѣвєръ: undefined
-    - сѣвєрьна: undefined
-    - сѣвєрьнъ: undefined
-    - сѣвєрꙋ: undefined
-    - сѫтъ: undefined
-    - тамъ: undefined
-    - тєплъи: undefined
-    - тєплє: undefined
-    - тꙋ: undefined
-    - хладьнъ: undefined
-    - часъ: undefined
-    - юго-възходъ: undefined
-    - югъ: undefined
-    - югъ-западꙋ: undefined
-    - югꙋ: undefined
-    - южьни: undefined
-    - южьноѩ: undefined
-    - южьнъ: undefined
-    - ѥстъ: undefined
+    - въ: in, at
+    - възходъна: eastern (feminine)
+    - възходъно: eastern (neuter)
+    - възходꙋ: to the east
+    - въстанєтъ: he/she/it will get up
+    - въстати: to get up
+    - вѣтръ: wind
+    - глѧдаѥмъ: we watch
+    - грѣѥтъ: it warms
+    - до: to, until
+    - дꙋѥтъ: it blows
+    - жинємъ: we live
+    - западаѥтъ: it sets (sun)
+    - западънъи: western
+    - западꙋ: to the west
+    - и: and
+    - идємъ: we go
+    - интєрєсьна: interesting (feminine)
+    - краѥ: at the end
+    - къ: to, towards
+    - мапѣ: on the map
+    - мꙋзика: music
+    - на: on, to
+    - оно: it
+    - онъ: he
+    - показоваѥтъ: he/she/it shows
+    - потомъ: then, after
+    - пꙋтьствоѥтъ: he/she/it travels
+    - рєгионъ: region
+    - слъньцє: sun
+    - снѣгъ: snow
+    - странꙑ: of the country
+    - сь: this
+    - сѣвєро-западънъи: north-western
+    - сѣвєрьна: northern (feminine)
+    - сѣвєрꙋ: to the north
+    - сѫтъ: they are
+    - тамъ: there
+    - тєплъи: warm
+    - тєплє: warmly
+    - тꙋ: here
+    - хладьнъ: cold
+    - часъ: hour
+    - юго-възходъ: southeast
+    - югъ-западꙋ: to the southwest
+    - югꙋ: to the south
+    - южьни: southern (plural)
+    - южьноѩ: of the south
+    - ѥстъ: he/she/it is
   English:
-    - a: undefined
-    - and: undefined
-    - are: undefined
-    - blowing: undefined
-    - cold: undefined
-    - compass: undefined
-    - east: undefined
-    - eastern: undefined
-    - eastward: undefined
-    - going: undefined
-    - he: undefined
-    - in: undefined
-    - interesting: undefined
-    - is: undefined
-    - it: undefined
-    - left: undefined
-    - live: undefined
-    - looking: undefined
-    - map: undefined
-    - music: undefined
-    - north: undefined
-    - northern: undefined
-    - northwestern: undefined
-    - now: undefined
-    - on: undefined
-    - region: undefined
-    - regions: undefined
-    - right: undefined
-    - rise: undefined
-    - rises: undefined
-    - sets: undefined
-    - show: undefined
-    - shows: undefined
-    - side: undefined
-    - snow: undefined
-    - south: undefined
-    - southeast: undefined
-    - southern: undefined
-    - southwest: undefined
-    - straight: undefined
-    - sun: undefined
-    - the: undefined
-    - then: undefined
-    - there: undefined
-    - this: undefined
-    - to: undefined
-    - travel: undefined
-    - travels: undefined
-    - warm: undefined
-    - warms: undefined
-    - we: undefined
-    - west: undefined
-    - western: undefined
-    - where: undefined
-    - wind: undefined
+    - a: jedin/один
+    - and: и
+    - are: byti/быти
+    - blowing: дꙋѥтъ
+    - cold: хладънъ
+    - compass: компасъ
+    - east: възходъ
+    - eastern: възходънъ
+    - eastward: на възходъ
+    - going: идєтъ
+    - he: онъ
+    - in: въ
+    - interesting: интєрєсьнъ
+    - is: ѥстъ
+    - it: ono
+    - left: лѣвъ
+    - live: жити
+    - looking: глѧдаѥтъ
+    - map: мапа
+    - music: мꙋзика
+    - north: сѣвєръ
+    - northern: сѣвєрьнъ
+    - northwestern: сѣвєро-западънъ
+    - now: сєичасъ
+    - on: на
+    - region: рєгионъ
+    - regions: рєгионꙑ
+    - right: правъ, направо
+    - rise: въстати
+    - rises: въстаѥтъ
+    - sets: западаѥтъ
+    - show: показати
+    - shows: показоваѥтъ
+    - side: страна
+    - snow: снѣгъ
+    - south: югъ
+    - southeast: юго-възходъ
+    - southern: южьнъ
+    - southwest: юго-западъ
+    - straight: прѣмо
+    - sun: слъньцє
+    - the: to
+    - then: потомъ
+    - there: тамъ
+    - this: сь, сꙗ, сє
+    - to: къ, на
+    - travel: пꙋтьствовати
+    - travels: пꙋтьствоѥтъ
+    - warm: тєплъ
+    - warms: грѣѥтъ
+    - we: мꙑ
+    - west: западъ
+    - western: западънъ
+    - where: гдѣ
+    - wind: вѣтръ

@@ -31,7 +31,7 @@ Phrases:
     Translation: I want to buy bread.
   - Phrase: Він продає м'ясо.
     Translation: He sells meat.
-  - Phrase: Ціна є висока.
+  - Phrase: Ціна висока.
     Translation: The price is high.
   - Phrase: Одяг є новий.
     Translation: The clothes are new.
@@ -70,115 +70,104 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - важка: undefined
-    - висока: undefined
-    - вона: undefined
-    - втомлений: undefined
-    - він: undefined
-    - дам: undefined
-    - дасть: undefined
-    - днів: undefined
-    - до: undefined
-    - добра: undefined
-    - добрий: undefined
-    - за: undefined
-    - знижку: undefined
-    - книжку: undefined
-    - ковбаса: undefined
-    - ковбаси: undefined
-    - купець/покупець: undefined
-    - купити: undefined
-    - купує: undefined
-    - кусень: undefined
-    - кусень/шматок: undefined
-    - м'ясо: undefined
-    - магазин: undefined
-    - малий: undefined
-    - масла: undefined
-    - молоко: undefined
-    - на: undefined
-    - нема: undefined
-    - новий: undefined
-    - одяг: undefined
-    - питати: undefined
-    - питає: undefined
-    - повернення: undefined
-    - поганий: undefined
-    - про: undefined
-    - продавати: undefined
-    - продавець: undefined
-    - продавцеві: undefined
-    - продає: undefined
-    - підлозі: undefined
-    - підписаний: undefined
-    - свіжа: undefined
-    - свіжий: undefined
-    - семи: undefined
-    - сиру: undefined
-    - стоїть: undefined
-    - сьогодні: undefined
-    - торба/сумка: undefined
-    - хліб: undefined
-    - хліба: undefined
-    - хочу: undefined
-    - це: undefined
-    - ціна: undefined
-    - ціну: undefined
-    - чек: undefined
-    - є: undefined
+    - важка: heavy (feminine)
+    - висока: tall (feminine)
+    - вона: she
+    - втомлений: tired
+    - він: he
+    - дам: I will give
+    - дасть: will give
+    - днів: of days
+    - до: to, until
+    - добра: good (feminine)
+    - добрий: good (masculine)
+    - за: for, behind
+    - знижку: discount (accusative)
+    - книжку: book (accusative)
+    - ковбаса: sausage
+    - ковбаси: of sausage
+    - купує: buys
+    - кусень: piece
+    - м'ясо: meat
+    - магазин: shop
+    - малий: small
+    - масла: of butter
+    - молоко: milk
+    - на: on, at
+    - нема: there is no
+    - новий: new (masculine)
+    - питає: asks
+    - поганий: bad
+    - про: about
+    - продавець: seller
+    - продавцеві: to the seller
+    - продає: sells
+    - підлозі: on the floor
+    - підписаний: signed
+    - свіжа: fresh (feminine)
+    - семи: of seven
+    - сиру: of cheese
+    - стоїть: stands
+    - сьогодні: today
+    - хліб: bread
+    - хліба: of bread
+    - хочу: I want
+    - це: this is, it is
+    - ціну: price (accusative)
+    - є: is, are
   English:
-    - a: undefined
-    - about: undefined
-    - are: undefined
-    - ask: undefined
-    - asks: undefined
-    - bad: undefined
-    - bag: undefined
-    - book: undefined
-    - bread: undefined
-    - butter: undefined
-    - buy: undefined
-    - buying: undefined
-    - cheese: undefined
-    - clothes: undefined
-    - customer: undefined
-    - days: undefined
-    - discount: undefined
-    - floor: undefined
-    - for: undefined
-    - fresh: undefined
-    - give: undefined
-    - gives: undefined
-    - good: undefined
-    - he: undefined
-    - heavy: undefined
-    - high: undefined
-    - i: undefined
-    - is: undefined
-    - meat: undefined
-    - milk: undefined
-    - new: undefined
-    - no: undefined
-    - of: undefined
-    - on: undefined
-    - piece: undefined
-    - price: undefined
-    - receipt: undefined
-    - return: undefined
-    - returns: undefined
-    - sausage: undefined
-    - sell: undefined
-    - seller: undefined
-    - sells: undefined
-    - seven: undefined
-    - she: undefined
-    - shop: undefined
-    - signed: undefined
-    - small: undefined
-    - the: undefined
-    - this: undefined
-    - tired: undefined
-    - to: undefined
-    - today: undefined
-    - want: undefined
-    - within: undefined
+    - a: jedin/один
+    - about: про
+    - are: byti/быти
+    - ask: запитати
+    - asks: питає
+    - bad: поганий
+    - bag: сумка
+    - book: книга
+    - bread: хліб
+    - butter: масло
+    - buy: купити
+    - buying: купівля
+    - cheese: сир
+    - clothes: одяг
+    - customer: клієнт
+    - days: дні
+    - discount: знижка
+    - floor: підлога
+    - for: для
+    - fresh: свіжий
+    - give: дати
+    - gives: дає
+    - good: добрий
+    - he: він
+    - heavy: важкий
+    - high: високий
+    - i: я
+    - is: є
+    - meat: м'ясо
+    - milk: молоко
+    - new: новий
+    - no: ні
+    - of: з
+    - on: на
+    - piece: шматок
+    - price: ціна
+    - receipt: квитанція
+    - return: повернутися
+    - returns: повертає
+    - sausage: ковбаса
+    - sell: продавати
+    - seller: продавець
+    - sells: продає
+    - seven: сім
+    - she: вона
+    - shop: магазин
+    - signed: підписано
+    - small: малий
+    - the: to
+    - this: це
+    - tired: втомлений
+    - to: до
+    - today: сьогодні
+    - want: хотіти
+    - within: всередині

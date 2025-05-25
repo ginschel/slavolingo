@@ -45,7 +45,7 @@ Phrases:
     Translation: He helps the bear.
   - Phrase: Ми даємо жабі хліб.
     Translation: We give bread to the frog.
-  - Phrase: Вони дають звіру лапу.
+  - Phrase: Вони дають звіру руку.
     Translation: They give their hand to the animal.
   - Phrase: Помагаємо вовкові.
     Translation: We help the wolf.
@@ -74,114 +74,103 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - ви: undefined
-    - вовк: undefined
-    - вовкові: undefined
-    - воду: undefined
-    - вона: undefined
-    - вони: undefined
-    - він: undefined
-    - дам: undefined
-    - даси: undefined
-    - дасте: undefined
-    - дасть: undefined
-    - дати: undefined
-    - дають: undefined
-    - дає: undefined
-    - даємо: undefined
-    - добре: undefined
-    - жаба: undefined
-    - жабам: undefined
-    - жабі: undefined
-    - звір: undefined
-    - звіром: undefined
-    - звіру: undefined
-    - зі: undefined
-    - йому: undefined
-    - каже: undefined
-    - каже/показує: undefined
-    - казати/показувати: undefined
-    - коню: undefined
-    - котові: undefined
-    - кінь: undefined
-    - кістку: undefined
-    - кіт: undefined
-    - лапу: undefined
-    - медведеві: undefined
-    - медведям: undefined
-    - медвідь: undefined
-    - мені: undefined
-    - ми: undefined
-    - миша: undefined
-    - миші: undefined
-    - несе: undefined
-    - несуть: undefined
-    - пес: undefined
-    - помагати: undefined
-    - помагає: undefined
-    - помагаємо: undefined
-    - помогла: undefined
-    - псу: undefined
-    - птах: undefined
-    - птахам: undefined
-    - птахові: undefined
-    - риба: undefined
-    - рибу: undefined
-    - рибі: undefined
-    - сир: undefined
-    - смачну: undefined
-    - ти: undefined
-    - хліб: undefined
-    - чи: undefined
-    - я: undefined
-    - ім'я: undefined
-    - їжу: undefined
+    - ви: you (plural)
+    - вовкові: to the wolf
+    - воду: water (accusative)
+    - вона: she
+    - вони: they
+    - він: he
+    - дам: I will give
+    - даси: you will give
+    - дасте: you (plural) will give
+    - дасть: will give
+    - дати: to give
+    - дають: they give
+    - дає: gives
+    - даємо: we give
+    - добре: good, well
+    - жабам: to the frogs
+    - жабі: to the frog
+    - звіром: with a beast
+    - звіру: to the beast
+    - зі: with
+    - йому: to him
+    - каже: says
+    - каже/показує: says/shows
+    - казати/показувати: to say/to show
+    - коню: to the horse
+    - котові: to the cat
+    - кістку: bone (accusative)
+    - медведеві: to the bear
+    - медведям: to the bears
+    - мені: to me
+    - ми: we
+    - миші: mice
+    - несе: carries
+    - несуть: they carry
+    - помагає: helps
+    - помагаємо: we help
+    - помогла: she helped
+    - псу: to the dog
+    - птахам: to the birds
+    - птахові: to the bird
+    - рибу: fish (accusative)
+    - рибі: to the fish
+    - руку: hand, arm (accusative)
+    - сир: cheese
+    - смачну: tasty (accusative)
+    - ти: you (singular)
+    - хліб: bread
+    - чи: if, whether
+    - я: I
+    - ім'я: name
+    - їжу: food (accusative)
   English:
-    - a: undefined
-    - animal: undefined
-    - are: undefined
-    - bear: undefined
-    - bird: undefined
-    - birds: undefined
-    - bone: undefined
-    - bread: undefined
-    - carries: undefined
-    - carrying: undefined
-    - cat: undefined
-    - cheese: undefined
-    - da: undefined
-    - dog: undefined
-    - fish: undefined
-    - food: undefined
-    - frog: undefined
-    - give: undefined
-    - gives: undefined
-    - good: undefined
-    - hand: undefined
-    - he: undefined
-    - help: undefined
-    - helped: undefined
-    - helps: undefined
-    - him: undefined
-    - horse: undefined
-    - i: undefined
-    - me: undefined
-    - mouse: undefined
-    - myši: undefined
-    - name: undefined
-    - on: undefined
-    - says: undefined
-    - she: undefined
-    - show: undefined
-    - syr: undefined
-    - tasty: undefined
-    - the: undefined
-    - their: undefined
-    - they: undefined
-    - to: undefined
-    - water: undefined
-    - we: undefined
-    - will: undefined
-    - with: undefined
-    - wolf: undefined
-    - you: undefined
+    - a: jedin/один
+    - animal: тварина
+    - are: byti/быти
+    - bear: ведмідь
+    - bird: птах
+    - birds: птахи
+    - bone: кістка
+    - bread: хліб
+    - carries: несе
+    - carrying: несе
+    - cat: кіт
+    - cheese: сир
+    - da: да
+    - dog: собака
+    - fish: риба
+    - food: їжа
+    - frog: жаба
+    - give: дати
+    - gives: дає
+    - good: добрий
+    - hand: рука
+    - he: він
+    - help: допомога
+    - helped: допоміг
+    - helps: допомагає
+    - him: його
+    - horse: кінь
+    - i: я
+    - me: мене
+    - mouse: миша
+    - myši: миші
+    - name: ім'я
+    - on: на
+    - says: каже
+    - she: вона
+    - show: показати
+    - syr: сир
+    - tasty: смачний
+    - the: to
+    - their: їхній
+    - they: вони
+    - to: до
+    - water: вода
+    - we: ми
+    - will: буде
+    - with: з
+    - wolf: вовк
+    - you: ви

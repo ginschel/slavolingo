@@ -33,11 +33,11 @@ Phrases:
     Translation: The grass is green.
   - Phrase: Небо есть синее.
     Translation: The sky is blue.
-  - Phrase: Цветы суть красные.
+  - Phrase: Цветы красные.
     Translation: The flowers are red.
   - Phrase: Солнце есть жёлтое.
     Translation: The sun is yellow.
-  - Phrase: Облака суть серые.
+  - Phrase: Облака серые.
     Translation: The clouds are grey.
   - Phrase: Он носит каштановое пальто.
     Translation: He wears a brown coat.
@@ -45,7 +45,7 @@ Phrases:
     Translation: The leaf is orange.
   - Phrase: Это есть Красное море.
     Translation: This is the Red Sea.
-  - Phrase: Мои очи суть синие.
+  - Phrase: Мои очи синие.
     Translation: My eyes are blue.
   - Phrase: Она имеет зелёную траву.
     Translation: She has green grass.
@@ -68,119 +68,109 @@ Phrases:
 
 Mini-dictionary:
   Russian:
-    - авто: undefined
-    - белая: undefined
-    - белую: undefined
-    - белый: undefined
-    - в: undefined
-    - волос: undefined
-    - греет: undefined
-    - дева: undefined
-    - его: undefined
-    - есть: undefined
-    - жёлтое: undefined
-    - жёлтый: undefined
-    - здесь: undefined
-    - зелёная: undefined
-    - зелёную: undefined
-    - зелёный: undefined
-    - землю: undefined
-    - имеет: undefined
-    - каштановое: undefined
-    - каштановый: undefined
-    - конь: undefined
-    - конюшне: undefined
-    - красная: undefined
-    - красное: undefined
-    - красные: undefined
-    - красный: undefined
-    - ли: undefined
-    - лист: undefined
-    - люблю: undefined
-    - мои: undefined
-    - мой: undefined
-    - море: undefined
-    - мышь: undefined
-    - небо: undefined
-    - несёт: undefined
-    - носит: undefined
-    - облака: undefined
-    - он: undefined
-    - она: undefined
-    - оранжевую: undefined
-    - оранжевый: undefined
-    - очи: undefined
-    - пальто: undefined
-    - пёс: undefined
-    - растёт: undefined
-    - роза: undefined
-    - серые: undefined
-    - серый: undefined
-    - синее: undefined
-    - синие: undefined
-    - синий: undefined
-    - солнце: undefined
-    - стоит: undefined
-    - сукню: undefined
-    - сумку: undefined
-    - суть: undefined
-    - трава: undefined
-    - траву: undefined
-    - цвет: undefined
-    - цветы: undefined
-    - чёрное: undefined
-    - чёрный: undefined
-    - это: undefined
-    - я: undefined
+    - авто: car
+    - белая: white
+    - белую: white
+    - в: in
+    - волос: hair
+    - греет: warms
+    - дева: maiden
+    - его: his
+    - есть: is
+    - жёлтое: yellow
+    - здесь: here
+    - зелёная: green
+    - зелёную: green
+    - землю: earth
+    - имеет: has
+    - каштановое: chestnut
+    - конь: horse
+    - конюшне: stable
+    - красная: red
+    - красное: red
+    - красные: red
+    - ли: whether
+    - лист: letter
+    - люблю: love
+    - мои: my
+    - мой: my
+    - море: sea
+    - мышь: mouse
+    - небо: sky
+    - несёт: carries
+    - носит: wears
+    - облака: clouds
+    - он: he
+    - она: she
+    - оранжевую: orange
+    - очи: eyes
+    - пальто: coat
+    - пёс: dog
+    - растёт: grows
+    - роза: rose
+    - серые: gray
+    - синее: blue
+    - синие: blue
+    - солнце: sun
+    - стоит: stands
+    - сукню: skirt
+    - сумку: bag
+    - трава: grass
+    - траву: grass
+    - цвет: color
+    - цветы: flowers
+    - чёрное: black
+    - это: it
+    - я: i
   English:
-    - a: undefined
-    - an: undefined
-    - are: undefined
-    - bag: undefined
-    - black: undefined
-    - blue: undefined
-    - brown: undefined
-    - car: undefined
-    - clouds: undefined
-    - coat: undefined
-    - color: undefined
-    - dog: undefined
-    - dress: undefined
-    - earth: undefined
-    - eyes: undefined
-    - flowers: undefined
-    - girl: undefined
-    - grass: undefined
-    - green: undefined
-    - grey: undefined
-    - grows: undefined
-    - hair: undefined
-    - has: undefined
-    - he: undefined
-    - here: undefined
-    - his: undefined
-    - horse: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - leaf: undefined
-    - like: undefined
-    - mouse: undefined
-    - my: undefined
-    - orange: undefined
-    - red: undefined
-    - rose: undefined
-    - sea: undefined
-    - she: undefined
-    - sky: undefined
-    - stable: undefined
-    - stands: undefined
-    - sun: undefined
-    - that: undefined
-    - the: undefined
-    - this: undefined
-    - warms: undefined
-    - wearing: undefined
-    - wears: undefined
-    - white: undefined
-    - yellow: undefined
+    - a: jedin/один
+    - an: an
+    - are: byti/быти
+    - bag: сумка
+    - black: черный
+    - blue: синий
+    - brown: коричневый
+    - car: машина
+    - clouds: облака
+    - coat: пальто
+    - color: цвет
+    - dog: собака
+    - dress: платье
+    - earth: земля
+    - eyes: глаза
+    - flowers: цветы
+    - girl: девочка
+    - grass: трава
+    - green: зеленый
+    - grey: серый
+    - grows: растет
+    - hair: волосы
+    - has: имеет
+    - he: он
+    - here: здесь
+    - his: его
+    - horse: лошадь
+    - i: я
+    - in: в
+    - is: есть
+    - leaf: лист
+    - like: как
+    - mouse: мышь
+    - my: мой
+    - orange: оранжевый
+    - red: красный
+    - rose: роза
+    - sea: море
+    - she: она
+    - sky: небо
+    - stable: стабильный
+    - stands: стоит
+    - sun: солнце
+    - that: что
+    - the: to
+    - this: это
+    - warms: греет
+    - wearing: носит
+    - wears: носит
+    - white: белый
+    - yellow: желтый

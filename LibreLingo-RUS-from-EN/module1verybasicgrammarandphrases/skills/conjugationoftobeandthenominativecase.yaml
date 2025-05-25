@@ -13,17 +13,17 @@ New words:
     Translation: that over there
   - Word: там та (ж. р.)
     Translation: that over there
-  - Word: я есмь
+  - Word: я есть/есмь
     Translation: am
-  - Word: ты еси
+  - Word: ты есть/еси
     Translation: are
   - Word: он/она/оно есть
     Translation: is
-  - Word: мы есмы
+  - Word: мы есть/есмы
     Translation: are
-  - Word: вы есте
+  - Word: вы есть/есте
     Translation: are
-  - Word: они суть
+  - Word: они есть/суть
     Translation: are
   - Word: я
     Translation: I
@@ -69,7 +69,7 @@ New words:
     Translation: who
 
 Phrases:
-  - Phrase: Я есмь мудрый.
+  - Phrase: Я (есмь) мудрый.
     Translation: I am wise.
   - Phrase: Это моя сестра.
     Translation: This is my sister.
@@ -83,29 +83,29 @@ Phrases:
     Translation: This is a good person.
   - Phrase: Эта женщина есть добра.
     Translation: This woman is good.
-  - Phrase: Это есть мой дом.
+  - Phrase: Это (есть) мой дом.
     Translation: This is my house.
   - Phrase: Он тоже добрый друг
     Translation: He is a good friend
-  - Phrase: Вы есте добры.
+  - Phrase: Вы (есте) добры.
     Translation: You are good.
-  - Phrase: Это суть друзья.
+  - Phrase: Это (суть) друзья.
     Translation: These are friends.
-  - Phrase: Кто ты еси?
+  - Phrase: Кто ты (еси)?
     Translation: Who are you?
   - Phrase: Тот мужчина милый.
     Translation: That man is kind.
-  - Phrase: Это есть приятный город.
+  - Phrase: Это (есть) приятный город.
     Translation: This is a pleasant city.
-  - Phrase: Та женщина есть высокая.
+  - Phrase: Та женщина (есть) высокая.
     Translation: That woman is tall.
-  - Phrase: Тот день есть холодный.
+  - Phrase: Тот день (есть) холодный.
     Translation: That day is cold.
-  - Phrase: Там тот дом есть красивый.
+  - Phrase: Там тот дом (есть) красивый.
     Translation: That house over there is beautiful.
   - Phrase: Это моё дитя.
     Translation: This is my child.
-  - Phrase: Там то утро есть холодное.
+  - Phrase: Там то утро (есть) холодное.
     Translation: That morning over there is cold.
   - Phrase: Это не моя сестра.
     Translation: This is not my sister.
@@ -115,116 +115,101 @@ Phrases:
     Translation: Is this a good car?
   - Phrase: Это добрые друзья?
     Translation: Are these good friends?
-  - Phrase: Они суть много милы.
+  - Phrase: Они (суть) много милы.
     Translation: They are very kind.
-  - Phrase: Они суть много милы
+  - Phrase: Они (суть) много милы
     Translation: They are very kind
 
 Mini-dictionary:
   Russian:
-    - авто: undefined
-    - вы: undefined
-    - высокая: undefined
-    - город: undefined
-    - день: undefined
-    - дитя: undefined
-    - добра: undefined
-    - доброе: undefined
-    - добры: undefined
-    - добрые: undefined
-    - добрый: undefined
-    - дом: undefined
-    - друг: undefined
-    - друзья: undefined
-    - еси: undefined
-    - есмы: undefined
-    - есмь: undefined
-    - есте: undefined
-    - есть: undefined
-    - ж: undefined
-    - жен: undefined
-    - женщина: undefined
-    - красивый: undefined
-    - кто: undefined
-    - милы: undefined
-    - милый: undefined
-    - много: undefined
-    - мой: undefined
-    - моя: undefined
-    - моё: undefined
-    - мудра: undefined
-    - мудры: undefined
-    - мудрый: undefined
-    - муж: undefined
-    - мужчина: undefined
-    - мы: undefined
-    - не: undefined
-    - он: undefined
-    - он/она/оно: undefined
-    - она: undefined
-    - они: undefined
-    - оно: undefined
-    - приятный: undefined
-    - р: undefined
-    - родитель: undefined
-    - сестра: undefined
-    - ср: undefined
-    - суть: undefined
-    - та: undefined
-    - там: undefined
-    - твой: undefined
-    - то: undefined
-    - тоже: undefined
-    - тот: undefined
-    - ты: undefined
-    - утро: undefined
-    - холодное: undefined
-    - холодный: undefined
-    - человек: undefined
-    - эта: undefined
-    - это: undefined
-    - этот: undefined
-    - я: undefined
+    - авто: car
+    - высокая: high
+    - добра: good
+    - доброе: good
+    - добры: good
+    - добрые: good
+    - добрый: good
+    - друзья: friends
+    - еси: are
+    - есмь: am
+    - есте: are
+    - есть: is
+    - есть/еси: are
+    - есть/есмы: are
+    - есть/есмь: am
+    - есть/есте: are
+    - есть/суть: are
+    - ж: as
+    - жен: women
+    - красивый: beautiful
+    - милы: dear
+    - милый: dear
+    - много: many
+    - мой: my
+    - моя: my
+    - моё: my
+    - мудра: wise
+    - мудры: wise
+    - мудрый: wise
+    - муж: man
+    - не: no
+    - он/она/оно: he/she/it
+    - они: they
+    - приятный: pleasant
+    - р: r
+    - ср: wednesday
+    - суть: are
+    - та: that
+    - там: there
+    - твой: your
+    - то: it
+    - тот: that
+    - утро: morning
+    - холодное: cold
+    - холодный: cold
+    - эта: that
+    - это: it
+    - этот: this
   English:
-    - a: undefined
-    - also: undefined
-    - am: undefined
-    - are: undefined
-    - beautiful: undefined
-    - car: undefined
-    - child: undefined
-    - city: undefined
-    - cold: undefined
-    - day: undefined
-    - friend: undefined
-    - friends: undefined
-    - good: undefined
-    - he: undefined
-    - house: undefined
-    - i: undefined
-    - is: undefined
-    - it: undefined
-    - kind: undefined
-    - man: undefined
-    - morning: undefined
-    - my: undefined
-    - not: undefined
-    - over: undefined
-    - parent: undefined
-    - person: undefined
-    - pleasant: undefined
-    - she: undefined
-    - sister: undefined
-    - tall: undefined
-    - that: undefined
-    - there: undefined
-    - these: undefined
-    - they: undefined
-    - this: undefined
-    - very: undefined
-    - we: undefined
-    - who: undefined
-    - wise: undefined
-    - woman: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - also: также
+    - am: есть
+    - are: byti/быти
+    - beautiful: красивый
+    - car: машина
+    - child: ребенок
+    - city: город
+    - cold: холодный
+    - day: день
+    - friend: друг
+    - friends: друзья
+    - good: хороший
+    - he: он
+    - house: дом
+    - i: я
+    - is: есть
+    - it: это
+    - kind: добрый
+    - man: мужчина
+    - morning: утро
+    - my: мой
+    - not: не
+    - over: над
+    - parent: родитель
+    - person: человек
+    - pleasant: приятный
+    - she: она
+    - sister: сестра
+    - tall: высокий
+    - that: что
+    - there: там
+    - these: эти
+    - they: они
+    - this: это
+    - very: очень
+    - we: мы
+    - who: кто
+    - wise: мудрый
+    - woman: женщина
+    - you: ты
+    - your: твой

@@ -35,7 +35,7 @@ New words:
     Translation: shape
 
 Phrases:
-  - Phrase: Це є коло.
+  - Phrase: Це коло.
     Translation: This is a circle.
   - Phrase: Квадрат має чотири сторони.
     Translation: A square has four sides.
@@ -43,7 +43,7 @@ Phrases:
     Translation: A triangle has three sides.
   - Phrase: Та лінія є довга.
     Translation: This line is long.
-  - Phrase: Це є моя форма.
+  - Phrase: Це моя форма.
     Translation: This is my shape.
   - Phrase: Лінія є рівна.
     Translation: The line is straight.
@@ -53,11 +53,11 @@ Phrases:
     Translation: We see the outline of a square.
   - Phrase: Фігура є комплексна.
     Translation: The figure is complex.
-  - Phrase: Це є простий вигляд.
+  - Phrase: Це простий вигляд.
     Translation: This is a simple shape.
   - Phrase: Я малюю велике коло.
     Translation: I am drawing a big circle.
-  - Phrase: Квадрат і коло є основні форми.
+  - Phrase: Квадрат і коло основні форми.
     Translation: Square and circle are basic shapes.
   - Phrase: Лінія йде через сторону.
     Translation: The line goes through the side.
@@ -65,7 +65,7 @@ Phrases:
     Translation: The point lies on the line.
   - Phrase: Вона знає кожен обрис Англії.
     Translation: She knows every outline of England.
-  - Phrase: Це є простий трикутник.
+  - Phrase: Це простий трикутник.
     Translation: This is a simple triangle.
   - Phrase: Він малює фігури на папері.
     Translation: He is drawing figures on paper.
@@ -78,113 +78,99 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - англії: undefined
-    - бачимо: undefined
-    - велике: undefined
-    - вигляд: undefined
-    - вона: undefined
-    - він: undefined
-    - довга: undefined
-    - довгий: undefined
-    - знає: undefined
-    - йде: undefined
-    - квадрат: undefined
-    - квадрата: undefined
-    - кожен: undefined
-    - коло: undefined
-    - комплексна: undefined
-    - красива: undefined
-    - лежить: undefined
-    - лінія: undefined
-    - лінії: undefined
-    - малий: undefined
-    - малюю: undefined
-    - малює: undefined
-    - має: undefined
-    - моя: undefined
-    - на: undefined
-    - обрис: undefined
-    - основні: undefined
-    - папері: undefined
-    - простий: undefined
-    - пункт: undefined
-    - рівна: undefined
-    - рівний: undefined
-    - столі: undefined
-    - сторона: undefined
-    - сторони: undefined
-    - сторону: undefined
-    - стояти: undefined
-    - стоїть: undefined
-    - стіл: undefined
-    - та: undefined
-    - то: undefined
-    - точка: undefined
-    - три: undefined
-    - трикутник: undefined
-    - форма: undefined
-    - форма/вигляд: undefined
-    - форми: undefined
-    - форму: undefined
-    - фігура: undefined
-    - фігури: undefined
-    - це: undefined
-    - цікава: undefined
-    - через: undefined
-    - чотири: undefined
-    - я: undefined
-    - є: undefined
-    - і: undefined
+    - англії: of England
+    - бачимо: we see
+    - велике: big (neuter)
+    - вигляд: appearance, form
+    - вона: she
+    - він: he
+    - довга: long (feminine)
+    - знає: knows
+    - йде: goes
+    - квадрата: of the square
+    - кожен: each, every
+    - комплексна: complex (feminine)
+    - красива: beautiful (feminine)
+    - лежить: lies
+    - лінії: of the line
+    - малий: small
+    - малюю: I draw
+    - малює: draws
+    - має: has
+    - моя: my (feminine)
+    - на: on, at
+    - основні: basic
+    - папері: on paper
+    - простий: simple
+    - пункт: point
+    - рівна: equal (feminine)
+    - столі: on the table
+    - сторони: of the side
+    - сторону: side (accusative)
+    - стояти: to stand
+    - стоїть: stands
+    - стіл: table
+    - та: and, so
+    - то: then, that is
+    - форми: of the shape
+    - форму: shape (accusative)
+    - фігури: figures
+    - це: this is, it is
+    - цікава: interesting (feminine)
+    - через: through, across
+    - я: I
+    - є: is, are
+    - і: and
   English:
-    - a: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - basic: undefined
-    - beautiful: undefined
-    - big: undefined
-    - circle: undefined
-    - complex: undefined
-    - dot: undefined
-    - drawing: undefined
-    - england: undefined
-    - every: undefined
-    - figure: undefined
-    - figures: undefined
-    - four: undefined
-    - goes: undefined
-    - has: undefined
-    - he: undefined
-    - i: undefined
-    - interesting: undefined
-    - is: undefined
-    - knows: undefined
-    - lies: undefined
-    - line: undefined
-    - long: undefined
-    - my: undefined
-    - of: undefined
-    - on: undefined
-    - outline: undefined
-    - paper: undefined
-    - point: undefined
-    - see: undefined
-    - shape: undefined
-    - shapes: undefined
-    - she: undefined
-    - side: undefined
-    - sides: undefined
-    - simple: undefined
-    - small: undefined
-    - square: undefined
-    - stand: undefined
-    - standing: undefined
-    - straight: undefined
-    - table: undefined
-    - the: undefined
-    - this: undefined
-    - three: undefined
-    - through: undefined
-    - to: undefined
-    - triangle: undefined
-    - we: undefined
+    - a: jedin/один
+    - am: є
+    - and: і
+    - are: byti/быти
+    - basic: основний
+    - beautiful: красивий
+    - big: великий
+    - circle: коло
+    - complex: складний
+    - dot: крапка
+    - drawing: малювання
+    - england: англія
+    - every: кожен
+    - figure: фігура
+    - figures: фігури
+    - four: чотири
+    - goes: йде
+    - has: має
+    - he: він
+    - i: я
+    - interesting: цікавий
+    - is: є
+    - knows: знає
+    - lies: лежить
+    - line: лінія
+    - long: довгий
+    - my: мій
+    - of: з
+    - on: на
+    - outline: контур
+    - paper: папір
+    - point: точка
+    - see: бачити
+    - shape: форма
+    - shapes: форми
+    - she: вона
+    - side: сторона
+    - sides: сторони
+    - simple: простий
+    - small: малий
+    - square: квадрат
+    - stand: стояти
+    - standing: стоїть
+    - straight: прямий
+    - table: стіл
+    - the: to
+    - this: це
+    - three: три
+    - through: через
+    - to: до
+    - triangle: трикутник
+    - we: ми

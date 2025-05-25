@@ -27,7 +27,7 @@ New words:
     Translation: to buy
   - Word: kolacja
     Translation: dinner
-  - Word: danie/półmisek
+  - Word: danie
     Translation: dish
   - Word: książka
     Translation: book
@@ -67,7 +67,7 @@ Phrases:
     Translation: I see lunch on the table.
   - Phrase: Ty masz masło?
     Translation: Do you have butter?
-  - Phrase: My gotujemy kolację każdy dzień.
+  - Phrase: My gotujemy kolację codziennie.
     Translation: We prepare dinner every day.
   - Phrase: Ja wiem, że ty lubisz jajka.
     Translation: I know that you like eggs.
@@ -82,120 +82,103 @@ Phrases:
 
 Mini-dictionary:
   Polish:
-    - chleb: undefined
-    - czy: undefined
-    - czytasz: undefined
-    - danie: undefined
-    - danie/półmisek: undefined
-    - dzień: undefined
-    - gotować: undefined
-    - gotuje: undefined
-    - gotujemy: undefined
-    - i: undefined
-    - ja: undefined
-    - jajka: undefined
-    - jajko: undefined
-    - je: undefined
-    - jedzenie: undefined
-    - jedzeniem: undefined
-    - jem: undefined
-    - jemy: undefined
-    - jesz: undefined
-    - jeść: undefined
-    - każdy: undefined
-    - kolacja: undefined
-    - kolację: undefined
-    - książka: undefined
-    - książkę: undefined
-    - kupić: undefined
-    - kupię: undefined
-    - kupują: undefined
-    - lubi: undefined
-    - lubisz: undefined
-    - mają: undefined
-    - masz: undefined
-    - masłem: undefined
-    - masło: undefined
-    - mięso: undefined
-    - mleko: undefined
-    - my: undefined
-    - na: undefined
-    - niesie: undefined
-    - nieść: undefined
-    - obiad: undefined
-    - on: undefined
-    - ona: undefined
-    - oni: undefined
-    - pije: undefined
-    - pizzę: undefined
-    - stole: undefined
-    - słodki: undefined
-    - słodkie: undefined
-    - twoją: undefined
-    - ty: undefined
-    - vlada: undefined
-    - widzimy: undefined
-    - widzę: undefined
-    - wiedzą: undefined
-    - wiem: undefined
-    - z: undefined
-    - zawsze: undefined
-    - śniadanie: undefined
-    - że: undefined
+    - codziennie: daily
+    - czy: whether
+    - czytasz: you read
+    - gotuje: cooks
+    - gotujemy: we cook
+    - i: and
+    - ja: I
+    - jajka: eggs
+    - je: them
+    - jedzeniem: food
+    - jem: I eat
+    - jemy: we eat
+    - jesz: you eat
+    - jeść: eat
+    - kolację: supper
+    - książkę: book
+    - kupię: I will buy
+    - kupują: they buy
+    - lubi: likes
+    - lubisz: you like
+    - mają: they have
+    - masz: you have
+    - masłem: butter
+    - my: we
+    - na: on
+    - niesie: carries
+    - on: he
+    - ona: she
+    - oni: they
+    - pije: drinks
+    - pizzę: pizza
+    - stole: table
+    - słodkie: sweet
+    - twoją: your
+    - ty: you
+    - vlada: Vlada
+    - widzimy: we see
+    - widzę: I see
+    - wiedzą: they know
+    - wiem: I know
+    - z: with
+    - zawsze: always
+    - że: that
   English:
-    - a: undefined
-    - always: undefined
-    - am: undefined
-    - an: undefined
-    - and: undefined
-    - are: undefined
-    - book: undefined
-    - bread: undefined
-    - breakfast: undefined
-    - butter: undefined
-    - buy: undefined
-    - buying: undefined
-    - carry: undefined
-    - carrying: undefined
-    - day: undefined
-    - dinner: undefined
-    - dish: undefined
-    - do: undefined
-    - drinking: undefined
-    - eat: undefined
-    - eating: undefined
-    - eats: undefined
-    - egg: undefined
-    - eggs: undefined
-    - every: undefined
-    - food: undefined
-    - have: undefined
-    - having: undefined
-    - he: undefined
-    - i: undefined
-    - is: undefined
-    - know: undefined
-    - like: undefined
-    - likes: undefined
-    - lunch: undefined
-    - meat: undefined
-    - milk: undefined
-    - on: undefined
-    - pizza: undefined
-    - prepare: undefined
-    - preparing: undefined
-    - reading: undefined
-    - see: undefined
-    - she: undefined
-    - sweet: undefined
-    - table: undefined
-    - that: undefined
-    - the: undefined
-    - they: undefined
-    - to: undefined
-    - vlad: undefined
-    - we: undefined
-    - will: undefined
-    - with: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - always: zawsze
+    - am: jestem
+    - an: pewien
+    - and: i
+    - are: byti/быти
+    - book: książka
+    - bread: chleb
+    - breakfast: śniadanie
+    - butter: masło
+    - buy: kupić
+    - buying: kupowanie
+    - carry: nieść
+    - carrying: noszenie
+    - day: dzień
+    - dinner: obiad
+    - dish: danie
+    - do: robić
+    - drinking: picie
+    - eat: jeść
+    - eating: jedzenie
+    - eats: je
+    - egg: jajko
+    - eggs: jajka
+    - every: każdy
+    - food: jedzenie
+    - have: mieć
+    - having: mając
+    - he: on
+    - i: ja
+    - is: jest
+    - know: znać
+    - like: lubić
+    - likes: lubi
+    - lunch: obiad
+    - meat: mięso
+    - milk: mleko
+    - on: na
+    - pizza: pizza
+    - prepare: przygotować
+    - preparing: przygotowywanie
+    - reading: czytanie
+    - see: widzieć
+    - she: ona
+    - sweet: słodki
+    - table: stół
+    - that: że
+    - the: to
+    - they: oni
+    - to: do
+    - vlad: Włada
+    - we: my
+    - will: będzie
+    - with: z
+    - you: ty
+    - your: twój

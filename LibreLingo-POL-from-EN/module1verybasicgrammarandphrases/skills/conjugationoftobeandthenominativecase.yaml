@@ -75,7 +75,7 @@ Phrases:
     Translation: This is my sister.
   - Phrase: Ona dużo mądra
     Translation: She is very wise
-  - Phrase: My dużo mądrzy
+  - Phrase: My jesteśmy bardzo mądrzy
     Translation: We are very wise
   - Phrase: Wy też mądrzy?
     Translation: Are you also wise?
@@ -115,112 +115,86 @@ Phrases:
     Translation: Is this a good car?
   - Phrase: To dobrzy przyjaciele?
     Translation: Are these good friends?
-  - Phrase: One są dużo miłe.
+  - Phrase: One są bardzo miłe.
     Translation: They are very kind.
-  - Phrase: Oni są dużo mili
+  - Phrase: Oni są bardzo mili
     Translation: They are very kind
 
 Mini-dictionary:
   Polish:
-    - auto: undefined
-    - człowiek: undefined
-    - dobra: undefined
-    - dobre: undefined
-    - dobry: undefined
-    - dobrzy: undefined
-    - dom: undefined
-    - dużo: undefined
-    - dziecko: undefined
-    - dzień: undefined
-    - ja: undefined
-    - jest: undefined
-    - jestem: undefined
-    - jesteś: undefined
-    - jesteście: undefined
-    - jesteśmy: undefined
-    - kobieta: undefined
-    - kto: undefined
-    - miasto: undefined
-    - mili: undefined
-    - miłe: undefined
-    - miły: undefined
-    - moja: undefined
-    - moje: undefined
-    - my: undefined
-    - mój: undefined
-    - mądra: undefined
-    - mądry: undefined
-    - mądrzy: undefined
-    - mąż: undefined
-    - męski: undefined
-    - nie: undefined
-    - nijaki: undefined
-    - on: undefined
-    - ona: undefined
-    - one: undefined
-    - oni: undefined
-    - ono: undefined
-    - piękny: undefined
-    - przyjaciel: undefined
-    - przyjaciele: undefined
-    - przyjemne: undefined
-    - r: undefined
-    - ranek: undefined
-    - rodzic: undefined
-    - siostra: undefined
-    - są: undefined
-    - ta: undefined
-    - tamta: undefined
-    - tamten: undefined
-    - ten: undefined
-    - też: undefined
-    - to: undefined
-    - twój: undefined
-    - ty: undefined
-    - wy: undefined
-    - wysoka: undefined
-    - zimny: undefined
-    - żeński: undefined
+    - auto: car
+    - bardzo: very
+    - dobra: good
+    - dobre: good
+    - dobry: good
+    - dobrzy: good
+    - dużo: much
+    - mili: kind
+    - miłe: nice
+    - miły: nice
+    - moja: my
+    - moje: my
+    - mój: my
+    - mądra: wise
+    - mądry: wise
+    - mądrzy: wise
+    - męski: male
+    - nie: no
+    - nijaki: neuter
+    - piękny: beautiful
+    - przyjaciele: friends
+    - przyjemne: pleasant
+    - r: r
+    - ranek: morning
+    - ta: this
+    - tamta: that
+    - tamten: that
+    - ten: this
+    - to: this
+    - twój: your
+    - wysoka: high
+    - zimny: cold
+    - żeński: female
   English:
-    - a: undefined
-    - also: undefined
-    - am: undefined
-    - are: undefined
-    - beautiful: undefined
-    - car: undefined
-    - child: undefined
-    - city: undefined
-    - cold: undefined
-    - day: undefined
-    - friend: undefined
-    - friends: undefined
-    - good: undefined
-    - he: undefined
-    - house: undefined
-    - i: undefined
-    - is: undefined
-    - it: undefined
-    - kind: undefined
-    - man: undefined
-    - morning: undefined
-    - my: undefined
-    - not: undefined
-    - over: undefined
-    - parent: undefined
-    - person: undefined
-    - pleasant: undefined
-    - she: undefined
-    - sister: undefined
-    - tall: undefined
-    - that: undefined
-    - there: undefined
-    - these: undefined
-    - they: undefined
-    - this: undefined
-    - very: undefined
-    - we: undefined
-    - who: undefined
-    - wise: undefined
-    - woman: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - also: też
+    - am: jestem
+    - are: byti/быти
+    - beautiful: piękna
+    - car: auto
+    - child: dziecko
+    - city: miasto
+    - cold: zimno
+    - day: dzień
+    - friend: przyjaciel
+    - friends: przyjaciele
+    - good: dobry
+    - he: on
+    - house: dom
+    - i: ja
+    - is: jest
+    - it: to
+    - kind: miły
+    - man: mężczyzna
+    - morning: ranek
+    - my: mój
+    - not: nie
+    - over: nad
+    - parent: rodzic
+    - person: osoba
+    - pleasant: przyjemny
+    - she: ona
+    - sister: siostra
+    - tall: wysoki
+    - that: że
+    - there: tam
+    - these: te
+    - they: oni
+    - this: to
+    - very: bardzo
+    - we: my
+    - who: kto
+    - wise: mądry
+    - woman: kobieta
+    - you: ty
+    - your: twój

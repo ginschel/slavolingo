@@ -82,119 +82,104 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - азъ: undefined
-    - блѭдо: undefined
-    - видимъ: undefined
-    - виждѫ: undefined
-    - влада: undefined
-    - всєгда: undefined
-    - вєчєрѭ: undefined
-    - вєчєрꙗ: undefined
-    - готови: undefined
-    - готовимъ: undefined
-    - готовити: undefined
-    - дьнь: undefined
-    - завътръкъ: undefined
-    - завътръкѫ: undefined
-    - знаѭ: undefined
-    - знаѭтъ: undefined
-    - и: undefined
-    - имаши: undefined
-    - имаѭтъ: undefined
-    - каждъи: undefined
-    - книга: undefined
-    - книгѫ: undefined
-    - кꙋпимъ: undefined
-    - кꙋпити: undefined
-    - кꙋпꙋѭтъ: undefined
-    - любитъ: undefined
-    - любиши: undefined
-    - масло: undefined
-    - масломъ: undefined
-    - млѣко: undefined
-    - мѧсо: undefined
-    - мꙑ: undefined
-    - на: undefined
-    - нєсти: undefined
-    - нєсєтъ: undefined
-    - обѣдъ: undefined
-    - она: undefined
-    - они: undefined
-    - онъ: undefined
-    - пицѫ: undefined
-    - пиѥтъ: undefined
-    - сладъкъ: undefined
-    - сладъкѫ: undefined
-    - столѣ: undefined
-    - съ: undefined
-    - твоѭ: undefined
-    - тꙑ: undefined
-    - хлѣбъ: undefined
-    - читаѥши: undefined
-    - чьто: undefined
-    - ѥда: undefined
-    - ѥдоѭ: undefined
-    - ѥдѫ: undefined
-    - ѥмъ: undefined
-    - ѥси: undefined
-    - ѥсти: undefined
-    - ѥстъ: undefined
-    - ꙗица: undefined
-    - ꙗицє: undefined
+    - азъ: I
+    - видимъ: we see
+    - виждѫ: I see
+    - влада: ruler, government
+    - всєгда: always
+    - вєчєрѭ: dinner (accusative)
+    - готови: he/she/it prepares
+    - готовимъ: we prepare
+    - дьнь: day
+    - завътръкѫ: breakfast (accusative)
+    - знаѭ: I know
+    - знаѭтъ: they know
+    - и: and
+    - имаши: you (singular) have
+    - имаѭтъ: they have
+    - каждъи: each, every
+    - книгѫ: book (accusative)
+    - кꙋпимъ: we will buy
+    - кꙋпꙋѭтъ: they buy
+    - любитъ: he/she/it loves
+    - любиши: you (singular) love
+    - масломъ: with butter
+    - мꙑ: we
+    - на: on, to
+    - нєсєтъ: he/she/it carries
+    - она: she
+    - они: they (masculine)
+    - онъ: he
+    - пицѫ: pizza (accusative)
+    - пиѥтъ: he/she/it drinks
+    - сладъкѫ: sweet (accusative)
+    - столѣ: on the table
+    - съ: with
+    - твоѭ: your (accusative)
+    - тꙑ: you (singular)
+    - читаѥши: you (singular) read
+    - чьто: what
+    - ѥдоѭ: with food
+    - ѥдѫ: food (accusative)
+    - ѥмъ: I eat
+    - ѥси: you are (singular)
+    - ѥсти: to eat
+    - ѥстъ: he/she/it is
+    - ꙗица: eggs
   English:
-    - a: undefined
-    - always: undefined
-    - am: undefined
-    - an: undefined
-    - and: undefined
-    - are: undefined
-    - book: undefined
-    - bread: undefined
-    - breakfast: undefined
-    - butter: undefined
-    - buy: undefined
-    - buying: undefined
-    - carry: undefined
-    - carrying: undefined
-    - day: undefined
-    - dinner: undefined
-    - dish: undefined
-    - do: undefined
-    - drinking: undefined
-    - eat: undefined
-    - eating: undefined
-    - eats: undefined
-    - egg: undefined
-    - eggs: undefined
-    - every: undefined
-    - food: undefined
-    - have: undefined
-    - having: undefined
-    - he: undefined
-    - i: undefined
-    - is: undefined
-    - know: undefined
-    - like: undefined
-    - likes: undefined
-    - lunch: undefined
-    - meat: undefined
-    - milk: undefined
-    - on: undefined
-    - pizza: undefined
-    - prepare: undefined
-    - preparing: undefined
-    - reading: undefined
-    - see: undefined
-    - she: undefined
-    - sweet: undefined
-    - table: undefined
-    - that: undefined
-    - the: undefined
-    - they: undefined
-    - to: undefined
-    - vlad: undefined
-    - we: undefined
-    - will: undefined
-    - with: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - always: всєгда
+    - am: ѥсмь
+    - an: (not directly translated)
+    - and: и
+    - are: byti/быти
+    - book: книга
+    - bread: хлѣбъ
+    - breakfast: завътръкъ
+    - butter: масло
+    - buy: кꙋпити
+    - buying: кꙋпꙋѥтъ
+    - carry: нєсти
+    - carrying: нєсєтъ
+    - day: дьнь
+    - dinner: вєчєрꙗ
+    - dish: блѭдо
+    - do: дѣлати
+    - drinking: пиѥтъ
+    - eat: ѥсти
+    - eating: ѥстъ
+    - eats: ѥстъ
+    - egg: ꙗицє
+    - eggs: ꙗица
+    - every: въсѧкъ
+    - food: ѥда
+    - have: имати
+    - having: имаѩ
+    - he: онъ
+    - i: азъ, ꙗ
+    - is: ѥстъ
+    - know: знати, вѣдѣти
+    - like: ꙗко
+    - likes: любитъ
+    - lunch: обѣдъ
+    - meat: мѧсо
+    - milk: млѣко
+    - on: на
+    - pizza: пица
+    - prepare: готовити
+    - preparing: готовитъ
+    - reading: читаѥтъ
+    - see: видѣти
+    - she: она
+    - sweet: сладъкъ
+    - table: столъ
+    - that: тъ, та, то
+    - the: to
+    - they: они, онꙑ
+    - to: къ, на
+    - vlad: владъ
+    - we: мꙑ
+    - will: (future tense expressed by verb form)
+    - with: съ
+    - you: тꙑ, вꙑ
+    - your: твои

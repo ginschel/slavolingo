@@ -74,110 +74,99 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - азъ: undefined
-    - вкꙋсьнѫ: undefined
-    - водѫ: undefined
-    - вълкъ: undefined
-    - вълкꙋ: undefined
-    - вꙑ: undefined
-    - даитє: undefined
-    - дамъ: undefined
-    - даси: undefined
-    - дати: undefined
-    - даѥмъ: undefined
-    - даѥтъ: undefined
-    - даѭтъ: undefined
-    - добро: undefined
-    - жаба: undefined
-    - жабѣ: undefined
-    - звѣри: undefined
-    - звѣромъ: undefined
-    - звѣрь: undefined
-    - имѧ: undefined
-    - кажєтъ: undefined
-    - казати: undefined
-    - конь: undefined
-    - конѭ: undefined
-    - кость: undefined
-    - котъ: undefined
-    - котꙋ: undefined
-    - ли: undefined
-    - мьнѣ: undefined
-    - мєдъвѣдь: undefined
-    - мєдъвѣдꙋ: undefined
-    - мꙑ: undefined
-    - мꙑши: undefined
-    - мꙑшь: undefined
-    - нєсєтъ: undefined
-    - нєсѫтъ: undefined
-    - она: undefined
-    - они: undefined
-    - онъ: undefined
-    - помагати: undefined
-    - помагаѥмъ: undefined
-    - помагаѥтъ: undefined
-    - помогла: undefined
-    - птица: undefined
-    - птицамъ: undefined
-    - птици: undefined
-    - пьсꙋ: undefined
-    - пєсъ: undefined
-    - рѫкѫ: undefined
-    - рꙑба: undefined
-    - рꙑбѣ: undefined
-    - рꙑбѫ: undefined
-    - съ: undefined
-    - сꙑръ: undefined
-    - тꙑ: undefined
-    - хлѣбъ: undefined
-    - ѥдѫ: undefined
-    - ѥмꙋ: undefined
+    - азъ: I
+    - вкꙋсьнѫ: tasty (accusative)
+    - водѫ: water (accusative)
+    - вълкꙋ: to the wolf
+    - вꙑ: you (plural)
+    - даитє: give (plural imperative)
+    - дамъ: I will give
+    - даси: you (singular) will give
+    - дати: to give
+    - даѥмъ: we give
+    - даѥтъ: he/she/it gives
+    - даѭтъ: they give
+    - добро: good
+    - жабѣ: to the frog
+    - звѣри: animals
+    - звѣромъ: with an animal
+    - имѧ: name
+    - кажєтъ: he/she/it says
+    - казати: to say
+    - конѭ: to the horse
+    - кость: bone
+    - котꙋ: to the cat
+    - ли: if, whether
+    - мьнѣ: to me
+    - мєдъвѣдꙋ: to the bear
+    - мꙑ: we
+    - мꙑши: mice
+    - нєсєтъ: he/she/it carries
+    - нєсѫтъ: they carry
+    - она: she
+    - они: they (masculine)
+    - онъ: he
+    - помагаѥмъ: we help
+    - помагаѥтъ: he/she/it helps
+    - помогла: she helped
+    - птицамъ: to the birds
+    - птици: birds
+    - пьсꙋ: to the dog
+    - рѫкѫ: hand (accusative)
+    - рꙑбѣ: to the fish
+    - рꙑбѫ: fish (accusative)
+    - съ: with
+    - сꙑръ: cheese
+    - тꙑ: you (singular)
+    - хлѣбъ: bread
+    - ѥдѫ: food (accusative)
+    - ѥмꙋ: to him
   English:
-    - a: undefined
-    - animal: undefined
-    - are: undefined
-    - bear: undefined
-    - bird: undefined
-    - birds: undefined
-    - bone: undefined
-    - bread: undefined
-    - carries: undefined
-    - carrying: undefined
-    - cat: undefined
-    - cheese: undefined
-    - da: undefined
-    - dog: undefined
-    - fish: undefined
-    - food: undefined
-    - frog: undefined
-    - give: undefined
-    - gives: undefined
-    - good: undefined
-    - hand: undefined
-    - he: undefined
-    - help: undefined
-    - helped: undefined
-    - helps: undefined
-    - him: undefined
-    - horse: undefined
-    - i: undefined
-    - me: undefined
-    - mouse: undefined
-    - myši: undefined
-    - name: undefined
-    - on: undefined
-    - says: undefined
-    - she: undefined
-    - show: undefined
-    - syr: undefined
-    - tasty: undefined
-    - the: undefined
-    - their: undefined
-    - they: undefined
-    - to: undefined
-    - water: undefined
-    - we: undefined
-    - will: undefined
-    - with: undefined
-    - wolf: undefined
-    - you: undefined
+    - a: jedin/один
+    - animal: звѣрь
+    - are: byti/быти
+    - bear: мєдъвѣдь
+    - bird: птица
+    - birds: птици
+    - bone: кость
+    - bread: хлѣбъ
+    - carries: носитъ
+    - carrying: нєсєтъ
+    - cat: котъ
+    - cheese: сꙑръ
+    - da: да
+    - dog: пєсъ
+    - fish: рꙑба
+    - food: ѥда
+    - frog: жаба
+    - give: дати
+    - gives: даѥтъ
+    - good: добръ
+    - hand: рѫка
+    - he: онъ
+    - help: помагати
+    - helped: помоглъ
+    - helps: помагаѥтъ
+    - him: ѥго
+    - horse: конь
+    - i: азъ, ꙗ
+    - me: мєнє
+    - mouse: мꙑшь
+    - myši: мꙑши
+    - name: имѧ
+    - on: на
+    - says: глаголѥтъ
+    - she: она
+    - show: показати
+    - syr: сꙑръ
+    - tasty: вкꙋсьнъ
+    - the: to
+    - their: ихъ
+    - they: они, онꙑ
+    - to: къ, на
+    - water: вода
+    - we: мꙑ
+    - will: (future tense expressed by verb form)
+    - with: съ
+    - wolf: вълкъ
+    - you: тꙑ, вꙑ

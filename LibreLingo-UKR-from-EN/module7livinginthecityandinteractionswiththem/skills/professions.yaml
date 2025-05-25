@@ -76,118 +76,105 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - автобус: undefined
-    - артист/художник: undefined
-    - брат: undefined
-    - будує: undefined
-    - в: undefined
-    - веде: undefined
-    - везе: undefined
-    - вечерю: undefined
-    - вона: undefined
-    - вулиці: undefined
-    - вчителем: undefined
-    - вчитель: undefined
-    - він: undefined
-    - готує: undefined
-    - документи: undefined
-    - дім: undefined
-    - каже: undefined
-    - контролює: undefined
-    - кухар: undefined
-    - кухарем: undefined
-    - людей: undefined
-    - людям: undefined
-    - лікар: undefined
-    - лікарем: undefined
-    - магазині: undefined
-    - малювати: undefined
-    - малює: undefined
-    - мості: undefined
-    - мій: undefined
-    - місті: undefined
-    - на: undefined
-    - отець/батько: undefined
-    - офісі: undefined
-    - писар: undefined
-    - пише: undefined
-    - план: undefined
-    - показує: undefined
-    - поліцейський: undefined
-    - помагає: undefined
-    - портрет: undefined
-    - працювати: undefined
-    - працює: undefined
-    - продавець: undefined
-    - продає: undefined
-    - робити: undefined
-    - робить: undefined
-    - робітник: undefined
-    - свою: undefined
-    - ситуацію: undefined
-    - стоїть: undefined
-    - творчість: undefined
-    - у: undefined
-    - учням: undefined
-    - шофер/водій: undefined
-    - є: undefined
-    - інженер: undefined
-    - інженером: undefined
-    - їжу: undefined
+    - автобус: bus
+    - брат: brother
+    - будує: builds
+    - в: in, at
+    - веде: leads
+    - везе: drives
+    - вечерю: dinner (accusative)
+    - вона: she
+    - вулиці: on the street
+    - вчителем: with a teacher
+    - він: he
+    - готує: cooks, prepares
+    - документи: documents
+    - дім: house
+    - каже: says
+    - контролює: controls
+    - кухарем: with a cook
+    - людей: of people
+    - людям: to people
+    - лікарем: with a doctor
+    - магазині: in the shop
+    - малює: draws
+    - мості: on the bridge
+    - мій: my (masculine)
+    - місті: in the city
+    - на: on, at
+    - отець/батько: father
+    - офісі: in the office
+    - пише: writes
+    - план: plan
+    - показує: shows
+    - помагає: helps
+    - портрет: portrait
+    - працює: works
+    - продає: sells
+    - робить: does, makes
+    - свою: my/his/her/its (accusative)
+    - ситуацію: situation (accusative)
+    - стоїть: stands
+    - творчість: creativity
+    - у: in, at
+    - учням: to the students
+    - є: is, are
+    - інженером: with an engineer
+    - їжу: food (accusative)
   English:
-    - a: undefined
-    - an: undefined
-    - artist: undefined
-    - bridge: undefined
-    - brother: undefined
-    - building: undefined
-    - bus: undefined
-    - city: undefined
-    - controls: undefined
-    - cook: undefined
-    - dinner: undefined
-    - do: undefined
-    - do/make: undefined
-    - doctor: undefined
-    - documents: undefined
-    - draw: undefined
-    - drawing: undefined
-    - driver: undefined
-    - drives: undefined
-    - engineer: undefined
-    - father: undefined
-    - food: undefined
-    - he: undefined
-    - helps: undefined
-    - his: undefined
-    - house: undefined
-    - in: undefined
-    - is: undefined
-    - makes: undefined
-    - my: undefined
-    - office: undefined
-    - on: undefined
-    - people: undefined
-    - plan: undefined
-    - policeman: undefined
-    - portrait: undefined
-    - preparing: undefined
-    - seller: undefined
-    - sells: undefined
-    - she: undefined
-    - shop: undefined
-    - shows: undefined
-    - situation: undefined
-    - standing: undefined
-    - street: undefined
-    - students: undefined
-    - teacher: undefined
-    - tells: undefined
-    - the: undefined
-    - to: undefined
-    - work: undefined
-    - worker: undefined
-    - working: undefined
-    - works: undefined
-    - writer: undefined
-    - writes: undefined
+    - a: jedin/один
+    - an: ан
+    - artist: художник
+    - bridge: міст
+    - brother: брат
+    - building: будівля
+    - bus: автобус
+    - city: місто
+    - controls: контролює
+    - cook: готувати
+    - dinner: вечеря
+    - do: робити
+    - do/make: робити/зробити
+    - doctor: лікар
+    - documents: документи
+    - draw: малювати
+    - drawing: малювання
+    - driver: водій
+    - drives: водить
+    - engineer: інженер
+    - father: батько
+    - food: їжа
+    - he: він
+    - helps: допомагає
+    - his: його
+    - house: будинок
+    - in: в
+    - is: є
+    - makes: робить
+    - my: мій
+    - office: офіс
+    - on: на
+    - people: люди
+    - plan: план
+    - policeman: поліцейський
+    - portrait: портрет
+    - preparing: готує
+    - seller: продавець
+    - sells: продає
+    - she: вона
+    - shop: магазин
+    - shows: показує
+    - situation: ситуація
+    - standing: стоїть
+    - street: вулиця
+    - students: студенти
+    - teacher: вчитель
+    - tells: каже
+    - the: to
+    - to: до
+    - work: робота
+    - worker: працівник
+    - working: працює
+    - works: працює
+    - writer: письменник
+    - writes: пише

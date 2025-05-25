@@ -78,172 +78,157 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - а: undefined
-    - азъ: undefined
-    - бридъкъ: undefined
-    - бридъкє: undefined
-    - бѣла: undefined
-    - бѣлє: undefined
-    - бꙋдѫ: undefined
-    - виситъ: undefined
-    - всєгда: undefined
-    - въ: undefined
-    - въторои: undefined
-    - въчєра: undefined
-    - гащє: undefined
-    - драга: undefined
-    - дъвєрꙗхъ: undefined
-    - зимоѭ: undefined
-    - зимѣ: undefined
-    - зєлєна: undefined
-    - зєлєнѫ: undefined
-    - и: undefined
-    - или: undefined
-    - имаѥтъ: undefined
-    - комфортьнє: undefined
-    - кошꙋлѭ: undefined
-    - красивє: undefined
-    - красьно: undefined
-    - кратъки: undefined
-    - кꙋпила: undefined
-    - лєжѧтъ: undefined
-    - лѣтꙋ: undefined
-    - модрꙋ: undefined
-    - моѥ: undefined
-    - на: undefined
-    - нова: undefined
-    - нови: undefined
-    - новꙋ: undefined
-    - ногавицє: undefined
-    - носилъ: undefined
-    - носимъ: undefined
-    - носити: undefined
-    - носитъ: undefined
-    - нє: undefined
-    - о: undefined
-    - облѣкати: undefined
-    - облѣкаѣлъ: undefined
-    - облѣкаѥтъ: undefined
-    - обꙋвъки: undefined
-    - обꙋвъкꙑ: undefined
-    - обꙋвька: undefined
-    - одєжь: undefined
-    - она: undefined
-    - онъ: undefined
-    - оувѣрьѥнъи: undefined
-    - оужє: undefined
-    - палѥто: undefined
-    - пижама: undefined
-    - потрѣбовати: undefined
-    - при: undefined
-    - рѫкавица: undefined
-    - рѫкавиць: undefined
-    - рѫкавицє: undefined
-    - скринѥ: undefined
-    - столѣ: undefined
-    - стѣнѣ: undefined
-    - сѫтъ: undefined
-    - та: undefined
-    - тамъ: undefined
-    - тълико: undefined
-    - тєниска: undefined
-    - тєнискѫ: undefined
-    - тєплъи: undefined
-    - тєплє: undefined
-    - тѧжькъ: undefined
-    - тꙋ: undefined
-    - тꙑ: undefined
-    - хощєши: undefined
-    - части: undefined
-    - часъ: undefined
-    - чистаѥи: undefined
-    - чрьнє: undefined
-    - шаликъ: undefined
-    - шапька: undefined
-    - шапькѫ: undefined
-    - шапькꙑ: undefined
-    - шькарпєтька: undefined
-    - шькарпєтьки: undefined
-    - ѥстъ: undefined
+    - а: and, but
+    - азъ: I
+    - бридъкє: ugly
+    - бѣла: white (feminine)
+    - бѣлє: white (neuter)
+    - бꙋдѫ: I will be
+    - виситъ: it hangs
+    - всєгда: always
+    - въ: in, at
+    - въторои: second
+    - въчєра: yesterday
+    - драга: dear (feminine)
+    - дъвєрꙗхъ: in the doors
+    - зимоѭ: in winter
+    - зимѣ: in winter
+    - зєлєна: green (feminine)
+    - зєлєнѫ: green (accusative)
+    - и: and
+    - или: or
+    - имаѥтъ: he/she/it has
+    - комфортьнє: comfortably
+    - красивє: beautifully
+    - красьно: beautiful (neuter)
+    - кратъки: short (plural)
+    - кꙋпила: she bought
+    - лєжѧтъ: they are lying down
+    - лѣтꙋ: in summer
+    - модрꙋ: blue (accusative)
+    - моѥ: my (neuter)
+    - на: on, to
+    - нова: new (feminine)
+    - нови: new (plural)
+    - новꙋ: new (accusative)
+    - носилъ: he carried
+    - носимъ: we carry
+    - носитъ: he/she/it carries
+    - нє: no, not
+    - о: about, on
+    - облѣкаѣлъ: he dressed
+    - облѣкаѥтъ: he/she/it dresses
+    - обꙋвъки: shoes
+    - обꙋвъкꙑ: shoes
+    - она: she
+    - онъ: he
+    - оувѣрьѥнъи: sure, confident
+    - оужє: already
+    - потрѣбовати: to need
+    - при: at, near
+    - рѫкавиць: of gloves
+    - рѫкавицє: gloves
+    - скринѥ: box
+    - столѣ: on the table
+    - стѣнѣ: on the wall
+    - сѫтъ: they are
+    - та: that, she
+    - тамъ: there
+    - тълико: so much
+    - тєнискѫ: t-shirt (accusative)
+    - тєплъи: warm
+    - тєплє: warmly
+    - тѧжькъ: heavy (masculine)
+    - тꙋ: here
+    - тꙑ: you (singular)
+    - хощєши: you (singular) want
+    - части: parts
+    - часъ: hour
+    - чистаѥи: of the clean
+    - чрьнє: black (neuter)
+    - шапькѫ: hat (accusative)
+    - шапькꙑ: of the hat
+    - шькарпєтьки: socks
+    - ѥстъ: he/she/it is
   English:
-    - a: undefined
-    - always: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - at: undefined
-    - beautiful: undefined
-    - black: undefined
-    - blue: undefined
-    - bought: undefined
-    - but: undefined
-    - by: undefined
-    - clean: undefined
-    - clothes: undefined
-    - coat: undefined
-    - comfortable: undefined
-    - door: undefined
-    - drawer: undefined
-    - dress: undefined
-    - expensive: undefined
-    - footwear: undefined
-    - glove: undefined
-    - gloves: undefined
-    - green: undefined
-    - hangs: undefined
-    - has: undefined
-    - hat: undefined
-    - he: undefined
-    - heavy: undefined
-    - i: undefined
-    - i'm: undefined
-    - in: undefined
-    - is: undefined
-    - lying: undefined
-    - my: undefined
-    - need: undefined
-    - new: undefined
-    - not: undefined
-    - now: undefined
-    - on: undefined
-    - only: undefined
-    - or: undefined
-    - pajama: undefined
-    - pajamas: undefined
-    - put: undefined
-    - putting: undefined
-    - red: undefined
-    - right: undefined
-    - scarf: undefined
-    - she: undefined
-    - shirt: undefined
-    - shoe: undefined
-    - shoes: undefined
-    - short: undefined
-    - shorts: undefined
-    - sock: undefined
-    - socks: undefined
-    - summer: undefined
-    - sure: undefined
-    - t-shirt: undefined
-    - table: undefined
-    - tennis: undefined
-    - that: undefined
-    - the: undefined
-    - to: undefined
-    - trousers: undefined
-    - two: undefined
-    - ugly: undefined
-    - underwear: undefined
-    - wall: undefined
-    - want: undefined
-    - warm: undefined
-    - we: undefined
-    - wear: undefined
-    - wears: undefined
-    - white: undefined
-    - will: undefined
-    - winter: undefined
-    - wore: undefined
-    - yesterday: undefined
-    - you: undefined
+    - a: jedin/один
+    - always: всєгда
+    - am: ѥсмь
+    - and: и
+    - are: byti/быти
+    - at: въ
+    - beautiful: красьнъ
+    - black: чьрнъ
+    - blue: модръ
+    - bought: кꙋпилъ
+    - but: нъ, алє
+    - by: (expressed by case)
+    - clean: чистъ
+    - clothes: одєжь
+    - coat: палто
+    - comfortable: комфортьнъ
+    - door: двьрь
+    - drawer: (no direct equivalent)
+    - dress: сꙋкънꙗ
+    - expensive: драгъ
+    - footwear: обꙋвь
+    - glove: рѫкавица
+    - gloves: рѫкавицє
+    - green: зєлєнъ
+    - hangs: виситъ
+    - has: имаѥтъ
+    - hat: шапька
+    - he: онъ
+    - heavy: тѧжькъ
+    - i: азъ, ꙗ
+    - i'm: ѥсмь
+    - in: въ
+    - is: ѥстъ
+    - lying: лєжитъ
+    - my: мои, моꙗ, моѥ
+    - need: потрѣбовати
+    - new: новъ
+    - not: нє
+    - now: сєичасъ
+    - on: на
+    - only: тъкъмо
+    - or: или
+    - pajama: пижама
+    - pajamas: пижамꙑ
+    - put: ложити
+    - putting: ложитъ
+    - red: чрьвєнъ
+    - right: правъ, направо
+    - scarf: шаликъ
+    - she: она
+    - shirt: кошꙋлꙗ
+    - shoe: обꙋвька
+    - shoes: обꙋвь
+    - short: кратъкъ
+    - shorts: гащє
+    - sock: шькарпєтька
+    - socks: шькарпєтьки
+    - summer: лѣто
+    - sure: оувѣрьѥнъ
+    - t-shirt: тєниска
+    - table: столъ
+    - tennis: тєнисъ
+    - that: тъ, та, то
+    - the: to
+    - to: къ, на
+    - trousers: ногавицє
+    - two: дъва, дъвѣ
+    - ugly: бридъкъ
+    - underwear: гащє
+    - wall: стѣна
+    - want: хотѣти
+    - warm: тєплъ
+    - we: мꙑ
+    - wear: носити
+    - wears: носитъ
+    - white: бѣлъ
+    - will: (future tense expressed by verb form)
+    - winter: зима
+    - wore: носилъ
+    - yesterday: въчєра
+    - you: тꙑ, вꙑ

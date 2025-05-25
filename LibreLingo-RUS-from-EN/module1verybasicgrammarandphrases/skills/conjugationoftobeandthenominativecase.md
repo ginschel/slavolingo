@@ -19,6 +19,10 @@ In modern Russian, the present tense forms of "быть" are almost always omitt
 
 * *Examples:* Я студент (I am a student). Моя сестра добрая (My sister is good). Мы хорошие друзья (We are good friends). Они здесь (They are here).
 
+There are also the archaic forms: я есмь, ты еси, мы есмы, вы есте, они суть. They are not used in today's Russian but I included them for those people who are just used to conjugating byti in their native language and are just more comfortable with it. 
+
+I won't include these archaic forms in the later chapters since they are very archaic but I want you to know that these forms exist in case you will find forms like these in an older text.
+
 ## How to Determine the Gender of a Word
 
 Russian nouns belong to one of three genders: Masculine, Feminine, or Neuter. Knowing the gender is crucial because it affects the endings of adjectives and other words used with the noun. Generally, the gender is evident from the noun's ending in its basic form (nominative singular):

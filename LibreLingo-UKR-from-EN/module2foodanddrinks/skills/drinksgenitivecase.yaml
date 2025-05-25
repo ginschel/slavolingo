@@ -63,7 +63,7 @@ Phrases:
     Translation: I like juice without sugar.
   - Phrase: Він не любить кави без молока.
     Translation: He does not like coffee without milk.
-  - Phrase: Ти є без фляжки/пляшки?
+  - Phrase: Ти без фляжки/пляшки?
     Translation: Are you without a bottle?
   - Phrase: Вона пробує знайти чашку без вина.
     Translation: She is trying to find a glass without wine.
@@ -84,121 +84,106 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - без: undefined
-    - вина: undefined
-    - вино: undefined
-    - вода: undefined
-    - води: undefined
-    - вона: undefined
-    - вони: undefined
-    - він: undefined
-    - горілки: undefined
-    - дайте: undefined
-    - для: undefined
-    - з: undefined
-    - з/зі: undefined
-    - за: undefined
-    - знайти: undefined
-    - кава: undefined
-    - кави: undefined
-    - купують: undefined
-    - лежить: undefined
-    - любить: undefined
-    - люблю: undefined
-    - маю: undefined
-    - має: undefined
-    - маєш: undefined
-    - мене: undefined
-    - мені: undefined
-    - ми: undefined
-    - молока: undefined
-    - молоко: undefined
-    - на: undefined
-    - не: undefined
-    - нема: undefined
-    - п'є: undefined
-    - п'ємо: undefined
-    - п'єш: undefined
-    - пива: undefined
-    - пиво: undefined
-    - пити: undefined
-    - пляшка: undefined
-    - пляшки: undefined
-    - пляшку: undefined
-    - пляшок: undefined
-    - польщі: undefined
-    - походження: undefined
-    - пробувати: undefined
-    - пробує: undefined
-    - прошу: undefined
-    - соку: undefined
-    - столі: undefined
-    - сік: undefined
-    - тебе: undefined
-    - ти: undefined
-    - у: undefined
-    - фляжка/пляшка: undefined
-    - фляжки/пляшки: undefined
-    - франка: undefined
-    - хотіти: undefined
-    - хоче: undefined
-    - це: undefined
-    - цукру: undefined
-    - чай: undefined
-    - чашка: undefined
-    - чашку: undefined
-    - чаю: undefined
-    - я: undefined
-    - є: undefined
+    - вина: of wine
+    - води: of water
+    - вона: she
+    - вони: they
+    - він: he
+    - горілки: of vodka
+    - дайте: give (plural)
+    - для: for
+    - з: with, from
+    - з/зі: with, from
+    - знайти: to find
+    - кави: of coffee
+    - купують: they buy
+    - лежить: lies
+    - любить: loves
+    - люблю: I love
+    - маю: I have
+    - має: has
+    - маєш: you have
+    - мене: me
+    - мені: to me
+    - ми: we
+    - молока: of milk
+    - на: on, at
+    - не: not
+    - нема: there is no
+    - п'є: drinks
+    - п'ємо: we drink
+    - п'єш: you drink
+    - пива: of beer
+    - пляшки: of the bottle
+    - пляшку: bottle (accusative)
+    - пляшок: of bottles
+    - польщі: in Poland
+    - походження: origin
+    - пробувати: to try
+    - пробує: tries
+    - прошу: please
+    - соку: of juice
+    - столі: on the table
+    - тебе: you
+    - ти: you (singular)
+    - фляжки/пляшки: bottles
+    - франка: of the franc
+    - хотіти: to want
+    - хоче: wants
+    - це: this is, it is
+    - цукру: of sugar
+    - чашку: cup (accusative)
+    - чаю: of tea
+    - я: I
   English:
-    - a: undefined
-    - are: undefined
-    - at/by: undefined
-    - beer: undefined
-    - bottle: undefined
-    - bottles: undefined
-    - buying: undefined
-    - coffee: undefined
-    - do: undefined
-    - does: undefined
-    - drink: undefined
-    - drinking: undefined
-    - find: undefined
-    - for: undefined
-    - frank: undefined
-    - from: undefined
-    - give: undefined
-    - glass: undefined
-    - has: undefined
-    - have: undefined
-    - he: undefined
-    - i: undefined
-    - is: undefined
-    - juice: undefined
-    - like: undefined
-    - lying: undefined
-    - me: undefined
-    - milk: undefined
-    - no: undefined
-    - not: undefined
-    - of: undefined
-    - on: undefined
-    - please: undefined
-    - poland: undefined
-    - she: undefined
-    - sugar: undefined
-    - table: undefined
-    - tea: undefined
-    - the: undefined
-    - they: undefined
-    - this: undefined
-    - to: undefined
-    - try: undefined
-    - trying: undefined
-    - vodka: undefined
-    - want: undefined
-    - water: undefined
-    - we: undefined
-    - wine: undefined
-    - without: undefined
-    - you: undefined
+    - a: jedin/один
+    - are: byti/быти
+    - at/by: у/біля
+    - beer: пиво
+    - bottle: пляшка
+    - bottles: пляшки
+    - buying: купівля
+    - coffee: кава
+    - do: робити
+    - does: робить
+    - drink: пити
+    - drinking: пиття
+    - find: знайти
+    - for: для
+    - frank: франк
+    - from: від
+    - give: дати
+    - glass: скло
+    - has: має
+    - have: мати
+    - he: він
+    - i: я
+    - is: є
+    - juice: сік
+    - like: як
+    - lying: лежить
+    - me: мене
+    - milk: молоко
+    - no: ні
+    - not: не
+    - of: з
+    - on: на
+    - please: будь ласка
+    - poland: польща
+    - she: вона
+    - sugar: цукор
+    - table: стіл
+    - tea: чай
+    - the: to
+    - they: вони
+    - this: це
+    - to: до
+    - try: спробувати
+    - trying: намагається
+    - vodka: горілка
+    - want: хотіти
+    - water: вода
+    - we: ми
+    - wine: вино
+    - without: без
+    - you: ви

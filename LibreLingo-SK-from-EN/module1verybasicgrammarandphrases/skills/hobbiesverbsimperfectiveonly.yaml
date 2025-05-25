@@ -72,122 +72,115 @@ Phrases:
 
 Mini-dictionary:
   Slovak:
-    - a: undefined
-    - denník: undefined
-    - film: undefined
-    - futbal: undefined
-    - gitaru: undefined
-    - hrať: undefined
-    - hrá: undefined
-    - hráme: undefined
-    - hudbu: undefined
-    - ja: undefined
-    - jazyk: undefined
-    - knihu: undefined
-    - listy: undefined
-    - maľovať: undefined
-    - maľujem: undefined
-    - maľujeme: undefined
-    - my: undefined
-    - na: undefined
-    - oblečenie: undefined
-    - obraz: undefined
-    - obrazy: undefined
-    - on: undefined
-    - ona: undefined
-    - oni: undefined
-    - piesne: undefined
-    - pozerať: undefined
-    - pozeráme: undefined
-    - pozeráš: undefined
-    - počúvajú: undefined
-    - počúvať: undefined
-    - priateľmi: undefined
-    - písať: undefined
-    - píše: undefined
-    - romány: undefined
-    - rádio: undefined
-    - s: undefined
-    - sa: undefined
-    - sedieť: undefined
-    - sedí: undefined
-    - seriál: undefined
-    - skupinou: undefined
-    - spieva: undefined
-    - spievam: undefined
-    - spievať: undefined
-    - tancovať: undefined
-    - tancujem: undefined
-    - tu: undefined
-    - ty: undefined
-    - učiť: undefined
-    - učíme: undefined
-    - učíte: undefined
-    - veľa: undefined
-    - vy: undefined
-    - číta: undefined
-    - čítam: undefined
-    - čítaš: undefined
-    - čítať: undefined
-    - šach: undefined
-    - šije: undefined
-    - šijem: undefined
-    - šiješ: undefined
-    - šiť: undefined
+    - a: and
+    - denník: diary
+    - film: film
+    - futbal: football
+    - gitaru: guitar
+    - hrá: plays
+    - hráme: we play
+    - hudbu: music
+    - ja: I
+    - jazyk: language
+    - knihu: book
+    - listy: leaves
+    - maľujem: I paint
+    - maľujeme: we paint
+    - my: we
+    - na: on
+    - oblečenie: clothes
+    - obraz: picture
+    - obrazy: pictures
+    - on: he
+    - ona: she
+    - oni: they
+    - piesne: songs
+    - pozeráme: we look
+    - pozeráš: you look
+    - počúvajú: they listen
+    - priateľmi: friends
+    - písať: to write
+    - píše: writes
+    - romány: novels
+    - rádio: radio
+    - s: with
+    - sa: oneself
+    - sedieť: to sit
+    - sedí: sits
+    - seriál: series
+    - skupinou: group
+    - spieva: sings
+    - spievam: I sing
+    - tancujem: I dance
+    - tu: here
+    - ty: you
+    - učiť: to teach
+    - učíme: we teach
+    - učíte: you teach
+    - veľa: many
+    - vy: you
+    - číta: reads
+    - čítam: I read
+    - čítaš: you read
+    - šach: chess
+    - šije: sews
+    - šijem: I sew
+    - šiješ: you sew
+    - šiť: to sew
   English:
-    - a: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - book: undefined
-    - chess: undefined
-    - clothes: undefined
-    - dance: undefined
-    - diary: undefined
-    - do: undefined
-    - film: undefined
-    - football: undefined
-    - friends: undefined
-    - group: undefined
-    - guitar: undefined
-    - he: undefined
-    - here: undefined
-    - i: undefined
-    - is: undefined
-    - language: undefined
-    - learn: undefined
-    - learning: undefined
-    - letters: undefined
-    - listen: undefined
-    - listening: undefined
-    - lot: undefined
-    - music: undefined
-    - novels: undefined
-    - paint: undefined
-    - painting: undefined
-    - picture: undefined
-    - pictures: undefined
-    - play: undefined
-    - playing: undefined
-    - radio: undefined
-    - read: undefined
-    - reading: undefined
-    - series: undefined
-    - sew: undefined
-    - sewing: undefined
-    - she: undefined
-    - sing: undefined
-    - singing: undefined
-    - sit: undefined
-    - sitting: undefined
-    - songs: undefined
-    - the: undefined
-    - they: undefined
-    - to: undefined
-    - watch: undefined
-    - watching: undefined
-    - we: undefined
-    - with: undefined
-    - write: undefined
-    - writing: undefined
-    - you: undefined
+    - a: jedin/один
+    - am: som
+    - and: a
+    - are: byti/быти
+    - book: kniha
+    - chess: šach
+    - clothes: oblečenie
+    - dance: tancovať
+    - diary: denník
+    - do: robiť
+    - film: film
+    - football: futbal
+    - friends: priatelia
+    - group: skupina
+    - guitar: gitaru
+    - he: on
+    - here: tu
+    - i: ja
+    - is: je
+    - language: jazyk
+    - learn: učiť sa
+    - learning: učenie
+    - letters: listy
+    - listen: počúvať
+    - listening: počúvajú
+    - lot: veľa
+    - music: hudba
+    - novels: romány
+    - paint: maľovať
+    - painting: maľovanie
+    - picture: obraz
+    - pictures: obrazy
+    - play: hrať
+    - playing: hranie
+    - radio: rádio
+    - read: čítať
+    - reading: čítanie
+    - series: seriál
+    - sew: šiť
+    - sewing: šitie
+    - she: ona
+    - sing: spievať
+    - singing: spev
+    - sit: sedieť
+    - sitting: sedenie
+    - songs: piesne
+    - the: to
+    - they: oni
+    - to: do
+    - watch: pozerať
+    - watching: pozerajú
+    - we: my
+    - with: s
+    - write: písať
+    - writing: písanie
+    - you: ty

@@ -74,111 +74,98 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - бананъ: undefined
-    - виници: undefined
-    - виноградъ: undefined
-    - вишьнѧ: undefined
-    - вкꙋсьна: undefined
-    - вкꙋсьнъ: undefined
-    - въ: undefined
-    - вєликъи: undefined
-    - готови: undefined
-    - грꙋшька: undefined
-    - грꙋшькꙑ: undefined
-    - додаваѥтъ: undefined
-    - дозрѣла: undefined
-    - дозрѣлъ: undefined
-    - дрѣвѣ: undefined
-    - жълтъ: undefined
-    - и: undefined
-    - изъ: undefined
-    - кꙋпꙋѥмъ: undefined
-    - кꙑсла: undefined
-    - кꙑсълъ: undefined
-    - лимонъ: undefined
-    - лимонꙋ: undefined
-    - лєжѧтъ: undefined
-    - мала: undefined
-    - мискѣ: undefined
-    - мьного: undefined
-    - мєлонъ: undefined
-    - мꙑ: undefined
-    - на: undefined
-    - она: undefined
-    - онъ: undefined
-    - оужє: undefined
-    - пиѥтъ: undefined
-    - помараньча: undefined
-    - помараньчє: undefined
-    - растєтъ: undefined
-    - сладъкъ: undefined
-    - сладъкъи: undefined
-    - сладъкє: undefined
-    - слива: undefined
-    - сливовицѫ: undefined
-    - сливокъ: undefined
-    - сокъ: undefined
-    - столѣ: undefined
-    - сѧ: undefined
-    - сѫтъ: undefined
-    - торбѣ: undefined
-    - тьмьна: undefined
-    - чаи: undefined
-    - чрьвєно: undefined
-    - ѥстъ: undefined
-    - ꙗблъко: undefined
-    - ꙗгода: undefined
-    - ꙗгодꙑ: undefined
+    - виници: in wine
+    - вкꙋсьна: tasty (feminine)
+    - вкꙋсьнъ: tasty (masculine)
+    - въ: in, at
+    - вєликъи: big, great
+    - готови: he/she/it prepares
+    - грꙋшькꙑ: pears
+    - додаваѥтъ: he/she/it adds
+    - дозрѣла: ripe (feminine)
+    - дрѣвѣ: on the tree
+    - жълтъ: yellow (masculine)
+    - и: and
+    - изъ: from
+    - кꙋпꙋѥмъ: we buy
+    - кꙑсла: sour (feminine)
+    - лимонꙋ: to the lemon
+    - лєжѧтъ: they are lying down
+    - мала: small (feminine)
+    - мискѣ: in the bowl
+    - мьного: much, many
+    - мꙑ: we
+    - на: on, to
+    - она: she
+    - онъ: he
+    - оужє: already
+    - пиѥтъ: he/she/it drinks
+    - помараньчє: orange (adjective neuter)
+    - растєтъ: it grows
+    - сладъкъи: sweet
+    - сладъкє: sweet (neuter)
+    - сливовицѫ: plum brandy (accusative)
+    - сливокъ: of plums
+    - сокъ: juice
+    - столѣ: on the table
+    - сѧ: oneself (reflexive pronoun)
+    - сѫтъ: they are
+    - торбѣ: in the bag
+    - тьмьна: dark (feminine)
+    - чаи: tea
+    - чрьвєно: red (neuter)
+    - ѥстъ: he/she/it is
+    - ꙗгодꙑ: berries
   English:
-    - a: undefined
-    - added: undefined
-    - already: undefined
-    - and: undefined
-    - apple: undefined
-    - are: undefined
-    - bag: undefined
-    - banana: undefined
-    - big: undefined
-    - bowl: undefined
-    - brandy: undefined
-    - buying: undefined
-    - cherry: undefined
-    - dark: undefined
-    - drinking: undefined
-    - from: undefined
-    - grapes: undefined
-    - grow: undefined
-    - grows: undefined
-    - he: undefined
-    - in: undefined
-    - is: undefined
-    - juice: undefined
-    - lemon: undefined
-    - lying: undefined
-    - melon: undefined
-    - on: undefined
-    - orange: undefined
-    - oranges: undefined
-    - pear: undefined
-    - pears: undefined
-    - plum: undefined
-    - plums: undefined
-    - preparing: undefined
-    - red: undefined
-    - ripe: undefined
-    - she: undefined
-    - small: undefined
-    - sour: undefined
-    - strawberries: undefined
-    - strawberry: undefined
-    - sweet: undefined
-    - table: undefined
-    - tasty: undefined
-    - tea: undefined
-    - the: undefined
-    - to: undefined
-    - tree: undefined
-    - very: undefined
-    - vineyard: undefined
-    - we: undefined
-    - yellow: undefined
+    - a: jedin/один
+    - added: додавалъ
+    - already: оужє
+    - and: и
+    - apple: ꙗблъко
+    - are: byti/быти
+    - bag: торба
+    - banana: бананъ
+    - big: вєликъ
+    - bowl: миска
+    - brandy: (сливовица for plum brandy)
+    - buying: кꙋпꙋѥтъ
+    - cherry: вишьнѧ
+    - dark: тьмьнъ
+    - drinking: пиѥтъ
+    - from: отъ, изъ
+    - grapes: виноградъ
+    - grow: расти
+    - grows: растєтъ
+    - he: онъ
+    - in: въ
+    - is: ѥстъ
+    - juice: сокъ
+    - lemon: лимонъ
+    - lying: лєжитъ
+    - melon: мєлонъ
+    - on: на
+    - orange: ораньжєвъ, помараньча
+    - oranges: помараньчи
+    - pear: грꙋшька
+    - pears: грꙋшьки
+    - plum: слива
+    - plums: сливꙑ
+    - preparing: готовитъ
+    - red: чрьвєнъ
+    - ripe: дозрѣлъ
+    - she: она
+    - small: малъ
+    - sour: кꙑсълъ
+    - strawberries: ꙗгодꙑ
+    - strawberry: ꙗгода
+    - sweet: сладъкъ
+    - table: столъ
+    - tasty: вкꙋсьнъ
+    - tea: чаи
+    - the: to
+    - to: къ, на
+    - tree: дрѣво
+    - very: вєльми, прємо
+    - vineyard: виноградъ
+    - we: мꙑ
+    - yellow: жълтъ

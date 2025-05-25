@@ -61,7 +61,7 @@ Phrases:
     Translation: They are buying butter and bread.
   - Phrase: Він пє молоко і їсть м'ясо.
     Translation: He is drinking milk and eating meat.
-  - Phrase: Чи читаєш ти книжку і їси сніданок?
+  - Phrase: Чи читаєш книжку і їси сніданок?
     Translation: Are you reading a book and eating breakfast?
   - Phrase: Я бачу обід на столі.
     Translation: I see lunch on the table.
@@ -82,121 +82,106 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - бачимо: undefined
-    - бачу: undefined
-    - вечерю: undefined
-    - вечеря: undefined
-    - влада: undefined
-    - вона: undefined
-    - вони: undefined
-    - він: undefined
-    - готувати: undefined
-    - готує: undefined
-    - готуємо: undefined
-    - день: undefined
-    - з: undefined
-    - завжди: undefined
-    - знаю: undefined
-    - знають: undefined
-    - книжка: undefined
-    - книжку: undefined
-    - кожен: undefined
-    - купити: undefined
-    - куплю: undefined
-    - купують: undefined
-    - любить: undefined
-    - любиш: undefined
-    - м'ясо: undefined
-    - масло: undefined
-    - маслом: undefined
-    - мають: undefined
-    - маєш: undefined
-    - ми: undefined
-    - молоко: undefined
-    - на: undefined
-    - несе: undefined
-    - нести: undefined
-    - обід: undefined
-    - пє: undefined
-    - піцу: undefined
-    - сніданок: undefined
-    - солодкий: undefined
-    - солодку: undefined
-    - столі: undefined
-    - страва: undefined
-    - страву: undefined
-    - твою: undefined
-    - ти: undefined
-    - хліб: undefined
-    - чи: undefined
-    - читаєш: undefined
-    - що: undefined
-    - я: undefined
-    - яйце: undefined
-    - яйця: undefined
-    - і: undefined
-    - їжа: undefined
-    - їжею: undefined
-    - їжу: undefined
-    - їм: undefined
-    - їмо: undefined
-    - їси: undefined
-    - їсти: undefined
-    - їсть: undefined
+    - бачимо: we see
+    - бачу: I see
+    - вечерю: dinner (accusative)
+    - влада: government, power
+    - вона: she
+    - вони: they
+    - він: he
+    - готує: cooks, prepares
+    - готуємо: we cook, we prepare
+    - день: day
+    - з: with, from
+    - завжди: always
+    - знаю: I know
+    - знають: they know
+    - книжку: book (accusative)
+    - кожен: each, every
+    - куплю: I will buy
+    - купують: they buy
+    - любить: loves
+    - любиш: you love
+    - маслом: with butter
+    - мають: they have
+    - маєш: you have
+    - ми: we
+    - на: on, at
+    - несе: carries
+    - пє: drinks
+    - піцу: pizza (accusative)
+    - солодку: sweet (accusative)
+    - столі: on the table
+    - страву: dish (accusative)
+    - твою: your (accusative)
+    - ти: you (singular)
+    - чи: if, whether
+    - читаєш: you read
+    - що: what, that
+    - я: I
+    - яйця: eggs
+    - і: and
+    - їжею: with food
+    - їжу: food (accusative)
+    - їм: I eat
+    - їмо: we eat
+    - їси: you eat
+    - їсти: to eat
+    - їсть: eats
   English:
-    - a: undefined
-    - always: undefined
-    - am: undefined
-    - an: undefined
-    - and: undefined
-    - are: undefined
-    - book: undefined
-    - bread: undefined
-    - breakfast: undefined
-    - butter: undefined
-    - buy: undefined
-    - buying: undefined
-    - carry: undefined
-    - carrying: undefined
-    - day: undefined
-    - dinner: undefined
-    - dish: undefined
-    - do: undefined
-    - drinking: undefined
-    - eat: undefined
-    - eating: undefined
-    - eats: undefined
-    - egg: undefined
-    - eggs: undefined
-    - every: undefined
-    - food: undefined
-    - have: undefined
-    - having: undefined
-    - he: undefined
-    - i: undefined
-    - is: undefined
-    - know: undefined
-    - like: undefined
-    - likes: undefined
-    - lunch: undefined
-    - meat: undefined
-    - milk: undefined
-    - on: undefined
-    - pizza: undefined
-    - prepare: undefined
-    - preparing: undefined
-    - reading: undefined
-    - see: undefined
-    - she: undefined
-    - sweet: undefined
-    - table: undefined
-    - that: undefined
-    - the: undefined
-    - they: undefined
-    - to: undefined
-    - vlad: undefined
-    - we: undefined
-    - will: undefined
-    - with: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - always: завжди
+    - am: є
+    - an: ан
+    - and: і
+    - are: byti/быти
+    - book: книга
+    - bread: хліб
+    - breakfast: сніданок
+    - butter: масло
+    - buy: купити
+    - buying: купівля
+    - carry: нести
+    - carrying: несе
+    - day: день
+    - dinner: вечеря
+    - dish: страва
+    - do: робити
+    - drinking: пиття
+    - eat: їсти
+    - eating: їсть
+    - eats: їсть
+    - egg: яйце
+    - eggs: яйця
+    - every: кожен
+    - food: їжа
+    - have: мати
+    - having: маючи
+    - he: він
+    - i: я
+    - is: є
+    - know: знати
+    - like: як
+    - likes: любить
+    - lunch: обід
+    - meat: м'ясо
+    - milk: молоко
+    - on: на
+    - pizza: піца
+    - prepare: готувати
+    - preparing: готує
+    - reading: читання
+    - see: бачити
+    - she: вона
+    - sweet: солодкий
+    - table: стіл
+    - that: той
+    - the: to
+    - they: вони
+    - to: до
+    - vlad: влад
+    - we: ми
+    - will: буде
+    - with: з
+    - you: ви
+    - your: ваш

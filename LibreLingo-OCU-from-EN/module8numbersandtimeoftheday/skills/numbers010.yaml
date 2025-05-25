@@ -94,71 +94,48 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - вєлосипєдовъ: undefined
-    - вєлосипєдъ: undefined
-    - вєлосипєдꙑ: undefined
-    - вѣщи: undefined
-    - доларовъ: undefined
-    - доларъ: undefined
-    - доларꙑ: undefined
-    - дъва: undefined
-    - дъвѣ: undefined
-    - дєвѧть: undefined
-    - дєсѧть: undefined
-    - жена: undefined
-    - женꙑ: undefined
-    - компютєр: undefined
-    - компютєровъ: undefined
-    - коти: undefined
-    - котовъ: undefined
-    - котъ: undefined
-    - нꙋла: undefined
-    - осмь: undefined
-    - полиѥ: undefined
-    - пѧть: undefined
-    - рꙋблѥвъ: undefined
-    - рꙋблꙗ: undefined
-    - слъньцє: undefined
-    - сєдмь: undefined
-    - три: undefined
-    - хлапъци: undefined
-    - хлапьць: undefined
-    - хлапьцєвъ: undefined
-    - часъвъниковъ: undefined
-    - часъвъникъ: undefined
-    - чєтꙑри: undefined
-    - шєсть: undefined
-    - ѥдина: undefined
-    - ѥдино: undefined
-    - ѥдинъ: undefined
+    - вєлосипєдовъ: of bicycles
+    - вєлосипєдꙑ: bicycles
+    - вѣщи: things
+    - доларовъ: of dollars
+    - доларꙑ: dollars
+    - женꙑ: of the wife
+    - компютєровъ: of computers
+    - коти: cats
+    - котовъ: of cats
+    - рꙋблѥвъ: of rubles
+    - слъньцє: sun
+    - хлапъци: boys
+    - хлапьцєвъ: of the boy
+    - часъвъниковъ: of the clocks
   English:
-    - bicycle: undefined
-    - bicycles: undefined
-    - boy: undefined
-    - boys: undefined
-    - cat: undefined
-    - cats: undefined
-    - clock/watch: undefined
-    - clocks: undefined
-    - computer: undefined
-    - computers: undefined
-    - dollar: undefined
-    - dollars: undefined
-    - eight: undefined
-    - field: undefined
-    - five: undefined
-    - four: undefined
-    - nine: undefined
-    - one: undefined
-    - ruble: undefined
-    - rubles: undefined
-    - seven: undefined
-    - six: undefined
-    - sun: undefined
-    - ten: undefined
-    - things: undefined
-    - three: undefined
-    - two: undefined
-    - woman: undefined
-    - women: undefined
-    - zero: undefined
+    - bicycle: вєлосипєдъ
+    - bicycles: вєлосипєдꙑ
+    - boy: хлапьць
+    - boys: хлапъци
+    - cat: котъ
+    - cats: коти
+    - clock/watch: часъвъникъ
+    - clocks: часъвъници
+    - computer: компютєр
+    - computers: компютєрꙑ
+    - dollar: доларъ
+    - dollars: доларꙑ
+    - eight: осмь
+    - field: полиѥ
+    - five: пѧть
+    - four: чєтꙑри
+    - nine: дєвѧть
+    - one: ѥдинъ
+    - ruble: рꙋбль
+    - rubles: рꙋбли
+    - seven: сєдмь
+    - six: шєсть
+    - sun: слъньцє
+    - ten: дєсѧть
+    - things: вѣщи
+    - three: три
+    - two: дъва, дъвѣ
+    - woman: жена
+    - women: женꙑ
+    - zero: нꙋла

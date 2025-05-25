@@ -68,121 +68,112 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - азъ: undefined
-    - аѵто: undefined
-    - бѣла: undefined
-    - бѣлъ: undefined
-    - бѣлꙋ: undefined
-    - власъ: undefined
-    - въ: undefined
-    - грѣѥтъ: undefined
-    - дѣва: undefined
-    - жълто: undefined
-    - жълтъ: undefined
-    - зєлєна: undefined
-    - зєлєнъ: undefined
-    - зєлєнѫ: undefined
-    - зємлѭ: undefined
-    - имаѥтъ: undefined
-    - каштаново: undefined
-    - каштановъ: undefined
-    - каштановъи: undefined
-    - колоръ: undefined
-    - конь: undefined
-    - ли: undefined
-    - листъ: undefined
-    - любимъ: undefined
-    - модро: undefined
-    - модръ: undefined
-    - модрє: undefined
-    - мои: undefined
-    - морѥ: undefined
-    - моѥ: undefined
-    - мꙑшь: undefined
-    - носитъ: undefined
-    - нєбо: undefined
-    - нєсєтъ: undefined
-    - облаци: undefined
-    - она: undefined
-    - онъ: undefined
-    - ораньжєвъ: undefined
-    - ораньжєвѫ: undefined
-    - очи: undefined
-    - палѥто: undefined
-    - пєсъ: undefined
-    - растєтъ: undefined
-    - роза: undefined
-    - сиви: undefined
-    - сивъ: undefined
-    - слъньцє: undefined
-    - стаи: undefined
-    - стои: undefined
-    - сь: undefined
-    - сѫтъ: undefined
-    - сꙋкънѭ: undefined
-    - торбѫ: undefined
-    - трава: undefined
-    - травѫ: undefined
-    - тѫ: undefined
-    - цвѣтꙑ: undefined
-    - чрьвєна: undefined
-    - чрьвєно: undefined
-    - чрьвєнъ: undefined
-    - чрьвєнъи: undefined
-    - чрьвєнє: undefined
-    - чьрно: undefined
-    - чьрнъ: undefined
-    - ѥго: undefined
-    - ѥстъ: undefined
+    - азъ: I
+    - аѵто: car
+    - бѣла: white (feminine)
+    - бѣлꙋ: white (accusative)
+    - власъ: hair
+    - въ: in, at
+    - грѣѥтъ: it warms
+    - дѣва: girl
+    - жълто: yellow (neuter)
+    - зєлєна: green (feminine)
+    - зєлєнѫ: green (accusative)
+    - зємлѭ: earth (accusative)
+    - имаѥтъ: he/she/it has
+    - каштаново: brown (neuter)
+    - каштановъи: brown
+    - колоръ: color
+    - конь: horse
+    - ли: if, whether
+    - листъ: leaf
+    - любимъ: we love
+    - модро: blue (neuter)
+    - модрє: blue (plural)
+    - мои: my (plural)
+    - морѥ: sea
+    - моѥ: my (neuter)
+    - мꙑшь: mouse
+    - носитъ: he/she/it carries
+    - нєбо: sky, heaven
+    - нєсєтъ: he/she/it carries
+    - облаци: clouds
+    - она: she
+    - онъ: he
+    - ораньжєвѫ: orange (accusative)
+    - очи: eyes
+    - палѥто: pallet
+    - пєсъ: dog
+    - растєтъ: it grows
+    - роза: rose
+    - сиви: gray (plural)
+    - слъньцє: sun
+    - стаи: rooms
+    - стои: it costs, it stands
+    - сь: this
+    - сѫтъ: they are
+    - сꙋкънѭ: with a dress
+    - торбѫ: bag (accusative)
+    - трава: grass
+    - травѫ: grass (accusative)
+    - тѫ: that (accusative feminine)
+    - цвѣтꙑ: flowers
+    - чрьвєна: red (feminine)
+    - чрьвєно: red (neuter)
+    - чрьвєнъи: red
+    - чрьвєнє: red (plural)
+    - чьрно: black (neuter)
+    - ѥго: his, its
+    - ѥстъ: he/she/it is
   English:
-    - a: undefined
-    - an: undefined
-    - are: undefined
-    - bag: undefined
-    - black: undefined
-    - blue: undefined
-    - brown: undefined
-    - car: undefined
-    - clouds: undefined
-    - coat: undefined
-    - color: undefined
-    - dog: undefined
-    - dress: undefined
-    - earth: undefined
-    - eyes: undefined
-    - flowers: undefined
-    - girl: undefined
-    - grass: undefined
-    - green: undefined
-    - grey: undefined
-    - grows: undefined
-    - hair: undefined
-    - has: undefined
-    - he: undefined
-    - here: undefined
-    - his: undefined
-    - horse: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - leaf: undefined
-    - like: undefined
-    - mouse: undefined
-    - my: undefined
-    - orange: undefined
-    - red: undefined
-    - rose: undefined
-    - sea: undefined
-    - she: undefined
-    - sky: undefined
-    - stable: undefined
-    - stands: undefined
-    - sun: undefined
-    - that: undefined
-    - the: undefined
-    - this: undefined
-    - warms: undefined
-    - wearing: undefined
-    - wears: undefined
-    - white: undefined
-    - yellow: undefined
+    - a: jedin/один
+    - an: (not directly translated)
+    - are: byti/быти
+    - bag: торба
+    - black: чьрнъ
+    - blue: модръ
+    - brown: каштановъ
+    - car: аѵто
+    - clouds: облаци
+    - coat: палто
+    - color: колоръ
+    - dog: пєсъ
+    - dress: сꙋкънꙗ
+    - earth: зємлꙗ
+    - eyes: очи
+    - flowers: цвѣтꙑ
+    - girl: дѣва, дѣвъка
+    - grass: трава
+    - green: зєлєнъ
+    - grey: сивъ
+    - grows: растєтъ
+    - hair: власъ, власꙑ
+    - has: имаѥтъ
+    - he: онъ
+    - here: тꙋ
+    - his: ѥго
+    - horse: конь
+    - i: азъ, ꙗ
+    - in: въ
+    - is: ѥстъ
+    - leaf: листъ
+    - like: ꙗко
+    - mouse: мꙑшь
+    - my: мои, моꙗ, моѥ
+    - orange: ораньжєвъ, помараньча
+    - red: чрьвєнъ
+    - rose: роза
+    - sea: морѥ
+    - she: она
+    - sky: нєбо
+    - stable: (no direct equivalent)
+    - stands: стоитъ
+    - sun: слъньцє
+    - that: тъ, та, то
+    - the: to
+    - this: сь, сꙗ, сє
+    - warms: грѣѥтъ
+    - wearing: носитъ
+    - wears: носитъ
+    - white: бѣлъ
+    - yellow: жълтъ

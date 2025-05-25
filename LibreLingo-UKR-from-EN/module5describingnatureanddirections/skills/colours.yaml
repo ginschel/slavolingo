@@ -29,13 +29,13 @@ Phrases:
     Translation: My dog is black.
   - Phrase: Миша є біла.
     Translation: The mouse is white.
-  - Phrase: Трава є зелена.
+  - Phrase: Трава зелена.
     Translation: The grass is green.
-  - Phrase: Небо є синє.
+  - Phrase: Небо синє.
     Translation: The sky is blue.
-  - Phrase: Квіти є червоні.
+  - Phrase: Квіти червоні.
     Translation: The flowers are red.
-  - Phrase: Сонце є жовте.
+  - Phrase: Сонце жовте.
     Translation: The sun is yellow.
   - Phrase: Хмари є сірі.
     Translation: The clouds are grey.
@@ -68,118 +68,109 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - авто: undefined
-    - біла: undefined
-    - білий: undefined
-    - білу: undefined
-    - в: undefined
-    - волос: undefined
-    - вона: undefined
-    - він: undefined
-    - гріє: undefined
-    - дівчина: undefined
-    - жовте: undefined
-    - жовтий: undefined
-    - зелена: undefined
-    - зелений: undefined
-    - зелену: undefined
-    - землю: undefined
-    - його: undefined
-    - каштановий: undefined
-    - квіти: undefined
-    - колір: undefined
-    - кінь: undefined
-    - лист: undefined
-    - люблю: undefined
-    - має: undefined
-    - миша: undefined
-    - море: undefined
-    - мої: undefined
-    - мій: undefined
-    - небо: undefined
-    - несе: undefined
-    - носить: undefined
-    - очі: undefined
-    - пес: undefined
-    - плащ: undefined
-    - помаранчевий: undefined
-    - помаранчеву: undefined
-    - роза: undefined
-    - росте: undefined
-    - сивий: undefined
-    - синє: undefined
-    - сині: undefined
-    - синій: undefined
-    - сонце: undefined
-    - стайні: undefined
-    - стоїть: undefined
-    - сукню: undefined
-    - сумку: undefined
-    - сірий: undefined
-    - сірі: undefined
-    - трава: undefined
-    - траву: undefined
-    - тут: undefined
-    - хмари: undefined
-    - це: undefined
-    - червона: undefined
-    - червоне: undefined
-    - червоний: undefined
-    - червоні: undefined
-    - чи: undefined
-    - чорне: undefined
-    - чорний: undefined
-    - я: undefined
-    - є: undefined
+    - авто: car
+    - біла: white (feminine)
+    - білу: white (accusative)
+    - в: in, at
+    - волос: hair (single)
+    - вона: she
+    - він: he
+    - гріє: heats
+    - дівчина: girl
+    - жовте: yellow (neuter)
+    - зелена: green (feminine)
+    - зелену: green (accusative)
+    - землю: earth (accusative)
+    - його: his, him
+    - квіти: flowers
+    - колір: color
+    - кінь: horse
+    - лист: leaf, letter
+    - люблю: I love
+    - має: has
+    - миша: mouse
+    - море: sea
+    - мої: my (plural)
+    - мій: my (masculine)
+    - небо: sky
+    - несе: carries
+    - носить: wears, carries
+    - очі: eyes
+    - пес: dog
+    - плащ: raincoat
+    - помаранчеву: orange (accusative)
+    - роза: rose
+    - росте: grows
+    - сивий: grey
+    - синє: blue (neuter)
+    - сині: blue (plural)
+    - сонце: sun
+    - стайні: in the stable
+    - стоїть: stands
+    - сукню: dress (accusative)
+    - сумку: bag (accusative)
+    - сірі: grey (plural)
+    - трава: grass
+    - траву: grass (accusative)
+    - тут: here
+    - хмари: clouds
+    - це: this is, it is
+    - червона: red (feminine)
+    - червоне: red (neuter)
+    - червоні: red (plural)
+    - чи: if, whether
+    - чорне: black (neuter)
+    - я: I
+    - є: is, are
   English:
-    - a: undefined
-    - an: undefined
-    - are: undefined
-    - bag: undefined
-    - black: undefined
-    - blue: undefined
-    - brown: undefined
-    - car: undefined
-    - clouds: undefined
-    - coat: undefined
-    - color: undefined
-    - dog: undefined
-    - dress: undefined
-    - earth: undefined
-    - eyes: undefined
-    - flowers: undefined
-    - girl: undefined
-    - grass: undefined
-    - green: undefined
-    - grey: undefined
-    - grows: undefined
-    - hair: undefined
-    - has: undefined
-    - he: undefined
-    - here: undefined
-    - his: undefined
-    - horse: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - leaf: undefined
-    - like: undefined
-    - mouse: undefined
-    - my: undefined
-    - orange: undefined
-    - red: undefined
-    - rose: undefined
-    - sea: undefined
-    - she: undefined
-    - sky: undefined
-    - stable: undefined
-    - stands: undefined
-    - sun: undefined
-    - that: undefined
-    - the: undefined
-    - this: undefined
-    - warms: undefined
-    - wearing: undefined
-    - wears: undefined
-    - white: undefined
-    - yellow: undefined
+    - a: jedin/один
+    - an: ан
+    - are: byti/быти
+    - bag: сумка
+    - black: чорний
+    - blue: синій
+    - brown: коричневий
+    - car: автомобіль
+    - clouds: хмари
+    - coat: пальто
+    - color: колір
+    - dog: собака
+    - dress: сукня
+    - earth: земля
+    - eyes: очі
+    - flowers: квіти
+    - girl: дівчинка
+    - grass: трава
+    - green: зелений
+    - grey: сірий
+    - grows: росте
+    - hair: волосся
+    - has: має
+    - he: він
+    - here: тут
+    - his: його
+    - horse: кінь
+    - i: я
+    - in: в
+    - is: є
+    - leaf: лист
+    - like: як
+    - mouse: миша
+    - my: мій
+    - orange: помаранчевий
+    - red: червоний
+    - rose: троянда
+    - sea: море
+    - she: вона
+    - sky: небо
+    - stable: стабільний
+    - stands: стоїть
+    - sun: сонце
+    - that: той
+    - the: to
+    - this: це
+    - warms: гріє
+    - wearing: носить
+    - wears: носить
+    - white: білий
+    - yellow: жовтий

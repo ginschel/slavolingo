@@ -49,7 +49,7 @@ Phrases:
     Translation: He has beautiful blue eyes.
   - Phrase: Її вухо не чує добре.
     Translation: Her ear does not hear well.
-  - Phrase: Ніс є червоний від морозу.
+  - Phrase: Ніс червоний від морозу.
     Translation: The nose is red from the cold.
   - Phrase: Обличчя є подібне.
     Translation: The face is similar.
@@ -65,11 +65,11 @@ Phrases:
     Translation: The eyes are looking at the book.
   - Phrase: Вухо чує музику.
     Translation: The ear hears music.
-  - Phrase: Його мозок є швидкий.
+  - Phrase: Його мозок швидкий.
     Translation: His brain is quick.
   - Phrase: Її обличчя є красиве.
     Translation: Her face is beautiful.
-  - Phrase: Серце є символом любові.
+  - Phrase: Серце символом любові.
     Translation: The heart is a symbol of love.
   - Phrase: Мій шлунок є просто повний після вечері.
     Translation: My stomach is just full after dinner.
@@ -82,147 +82,132 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - б'є: undefined
-    - болить: undefined
-    - боліти: undefined
-    - в: undefined
-    - вечері: undefined
-    - волосся: undefined
-    - вона: undefined
-    - вухо: undefined
-    - вухом: undefined
-    - від: undefined
-    - відпочинку: undefined
-    - він: undefined
-    - голова: undefined
-    - голові: undefined
-    - дві: undefined
-    - дивляться: undefined
-    - добре: undefined
-    - довгу: undefined
-    - здорове: undefined
-    - його: undefined
-    - каштанове: undefined
-    - книжку: undefined
-    - красиве: undefined
-    - красиві: undefined
-    - любові: undefined
-    - маю: undefined
-    - має: undefined
-    - мене: undefined
-    - мозок: undefined
-    - морозу: undefined
-    - моя: undefined
-    - музику: undefined
-    - мій: undefined
-    - на: undefined
-    - не: undefined
-    - нога: undefined
-    - ноги: undefined
-    - ногу: undefined
-    - ніс: undefined
-    - обличчя: undefined
-    - одним: undefined
-    - око: undefined
-    - очі: undefined
-    - палець: undefined
-    - повний: undefined
-    - подібне: undefined
-    - подібний: undefined
-    - потребує: undefined
-    - просто: undefined
-    - після: undefined
-    - рука: undefined
-    - руки: undefined
-    - серце: undefined
-    - символом: undefined
-    - сині: undefined
-    - стопа: undefined
-    - стопи: undefined
-    - також: undefined
-    - тебе: undefined
-    - тіло: undefined
-    - тільки: undefined
-    - тілі: undefined
-    - червоний: undefined
-    - чути: undefined
-    - чує: undefined
-    - швидкий: undefined
-    - швидко: undefined
-    - шлунок: undefined
-    - я: undefined
-    - є: undefined
-    - і: undefined
-    - її: undefined
+    - б'є: hits
+    - болить: it hurts
+    - боліти: to hurt
+    - в: in, at
+    - вечері: in the evening
+    - вона: she
+    - вухом: with an ear
+    - від: from
+    - відпочинку: of rest
+    - він: he
+    - голові: on the head
+    - дві: two (feminine)
+    - дивляться: they watch
+    - добре: good, well
+    - довгу: long (accusative)
+    - здорове: healthy (neuter)
+    - його: his, him
+    - каштанове: brown (neuter)
+    - книжку: book (accusative)
+    - красиве: beautiful (neuter)
+    - красиві: beautiful (plural)
+    - любові: of love
+    - маю: I have
+    - має: has
+    - мене: me
+    - морозу: of frost
+    - моя: my (feminine)
+    - музику: music (accusative)
+    - мій: my (masculine)
+    - на: on, at
+    - не: not
+    - ноги: legs, feet
+    - ногу: leg (accusative)
+    - одним: with one
+    - очі: eyes
+    - повний: full (masculine)
+    - подібне: similar (neuter)
+    - потребує: needs
+    - просто: simply
+    - після: after
+    - руки: hands, arms
+    - символом: with a symbol
+    - сині: blue (plural)
+    - стопи: of the foot
+    - також: also
+    - тебе: you
+    - тільки: only
+    - тілі: in the body
+    - червоний: red (masculine)
+    - чути: to hear
+    - чує: hears
+    - швидкий: fast, quick
+    - швидко: fast, quickly
+    - я: I
+    - є: is, are
+    - і: and
+    - її: her
   English:
-    - a: undefined
-    - after: undefined
-    - also: undefined
-    - and: undefined
-    - are: undefined
-    - at: undefined
-    - beats: undefined
-    - beautiful: undefined
-    - blue: undefined
-    - body: undefined
-    - book: undefined
-    - brain: undefined
-    - chestnut-colored: undefined
-    - cold: undefined
-    - dinner: undefined
-    - does: undefined
-    - ear: undefined
-    - eye: undefined
-    - eyes: undefined
-    - face: undefined
-    - fast: undefined
-    - feet: undefined
-    - finger: undefined
-    - foot: undefined
-    - from: undefined
-    - full: undefined
-    - hair: undefined
-    - hand: undefined
-    - hands: undefined
-    - has: undefined
-    - have: undefined
-    - he: undefined
-    - head: undefined
-    - healthy: undefined
-    - hear: undefined
-    - hears: undefined
-    - heart: undefined
-    - her: undefined
-    - his: undefined
-    - hurt: undefined
-    - hurts: undefined
-    - i: undefined
-    - is: undefined
-    - just: undefined
-    - leg: undefined
-    - legs: undefined
-    - long: undefined
-    - looking: undefined
-    - love: undefined
-    - music: undefined
-    - my: undefined
-    - needs: undefined
-    - nose: undefined
-    - not: undefined
-    - of: undefined
-    - on: undefined
-    - one: undefined
-    - only: undefined
-    - quick: undefined
-    - red: undefined
-    - rest: undefined
-    - she: undefined
-    - similar: undefined
-    - stomach: undefined
-    - symbol: undefined
-    - the: undefined
-    - to: undefined
-    - two: undefined
-    - well: undefined
-    - with: undefined
-    - you: undefined
+    - a: jedin/один
+    - after: після
+    - also: також
+    - and: і
+    - are: byti/быти
+    - at: в
+    - beats: б'є
+    - beautiful: красивий
+    - blue: синій
+    - body: тіло
+    - book: книга
+    - brain: мозок
+    - chestnut-colored: каштановий
+    - cold: холодний
+    - dinner: вечеря
+    - does: робить
+    - ear: вухо
+    - eye: око
+    - eyes: очі
+    - face: обличчя
+    - fast: швидкий
+    - feet: стопи
+    - finger: палець
+    - foot: ступня
+    - from: від
+    - full: повний
+    - hair: волосся
+    - hand: рука
+    - hands: руки
+    - has: має
+    - have: мати
+    - he: він
+    - head: голова
+    - healthy: здоровий
+    - hear: чути
+    - hears: чує
+    - heart: серце
+    - her: її
+    - his: його
+    - hurt: боляче
+    - hurts: болить
+    - i: я
+    - is: є
+    - just: просто
+    - leg: нога
+    - legs: ноги
+    - long: довгий
+    - looking: дивлячись
+    - love: любов
+    - music: музика
+    - my: мій
+    - needs: потребує
+    - nose: ніс
+    - not: не
+    - of: з
+    - on: на
+    - one: один
+    - only: тільки
+    - quick: швидкий
+    - red: червоний
+    - rest: відпочинок
+    - she: вона
+    - similar: схожий
+    - stomach: шлунок
+    - symbol: символ
+    - the: to
+    - to: до
+    - two: два
+    - well: добре
+    - with: з
+    - you: ви

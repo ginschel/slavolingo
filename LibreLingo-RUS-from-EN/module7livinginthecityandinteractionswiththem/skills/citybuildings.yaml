@@ -31,7 +31,7 @@ Phrases:
     Translation: This is a big city.
   - Phrase: Дом стоит на улице.
     Translation: The house stands on the street.
-  - Phrase: Идём до площади/рынка.
+  - Phrase: Идём до площади.
     Translation: We are going to the square.
   - Phrase: Станция есть близко центра.
     Translation: The station is near the center.
@@ -55,7 +55,7 @@ Phrases:
     Translation: The church stands near the library.
   - Phrase: Улица ведёт до площади/рынка.
     Translation: The street leads to the square.
-  - Phrase: На площади/рынке стоит фонтан.
+  - Phrase: На площади стоит фонтан.
     Translation: A fountain stands in the square.
   - Phrase: Мост есть красивый и новый.
     Translation: The bridge is beautiful and new.
@@ -65,120 +65,113 @@ Phrases:
     Translation: The station has many trains.
   - Phrase: Улица идёт до магазина.
     Translation: The street goes to the shop.
-  - Phrase: Площадь/Рынок есть полный людей.
+  - Phrase: Рынок есть полный людей.
     Translation: The square is full of people.
 
 Mini-dictionary:
   Russian:
-    - белая: undefined
-    - библиотека: undefined
-    - библиотеке: undefined
-    - библиотеки: undefined
-    - близко: undefined
-    - большой: undefined
-    - в: undefined
-    - ведёт: undefined
-    - вести: undefined
-    - город: undefined
-    - городе: undefined
-    - длинная: undefined
-    - до: undefined
-    - дом: undefined
-    - домов: undefined
-    - есть: undefined
-    - и: undefined
-    - идём: undefined
-    - идёт: undefined
-    - имеет: undefined
-    - книгу: undefined
-    - красивый: undefined
-    - людей: undefined
-    - магазин: undefined
-    - магазина: undefined
-    - магазине: undefined
-    - много: undefined
-    - мой: undefined
-    - мост: undefined
-    - на: undefined
-    - новый: undefined
-    - открыт: undefined
-    - площади/рынка: undefined
-    - площади/рынке: undefined
-    - площадь/рынок: undefined
-    - поездов: undefined
-    - покупаем: undefined
-    - полный: undefined
-    - реку: undefined
-    - сегодня: undefined
-    - станция: undefined
-    - старая: undefined
-    - стоит: undefined
-    - торговая: undefined
-    - торговой: undefined
-    - тёплая: undefined
-    - улица: undefined
-    - улице: undefined
-    - фонтан: undefined
-    - хлеб: undefined
-    - центра: undefined
-    - церковь: undefined
-    - через: undefined
-    - читаю: undefined
-    - это: undefined
+    - белая: white
+    - библиотеке: library
+    - библиотеки: library
+    - близко: near
+    - большой: big
+    - в: in
+    - ведёт: leads
+    - вести: lead
+    - городе: city
+    - длинная: long
+    - до: to
+    - домов: houses
+    - есть: is
+    - и: and
+    - идём: go
+    - идёт: goes
+    - имеет: has
+    - книгу: book
+    - красивый: beautiful
+    - людей: people
+    - магазина: shop
+    - магазине: shop
+    - много: many
+    - мой: my
+    - на: on
+    - новый: new
+    - открыт: open
+    - площади: square
+    - площади/рынка: square
+    - площади/рынке: square
+    - поездов: trains
+    - покупаем: buy
+    - полный: full
+    - реку: river
+    - рынок: market
+    - сегодня: today
+    - старая: old
+    - стоит: stands
+    - торговая: commercial
+    - торговой: trade
+    - тёплая: warm
+    - улице: street
+    - фонтан: fountain
+    - хлеб: bread
+    - центра: center
+    - через: through
+    - читаю: read
+    - это: it
   English:
-    - a: undefined
-    - and: undefined
-    - are: undefined
-    - at: undefined
-    - beautiful: undefined
-    - big: undefined
-    - book: undefined
-    - bread: undefined
-    - bridge: undefined
-    - buy: undefined
-    - center: undefined
-    - church: undefined
-    - city: undefined
-    - fountain: undefined
-    - full: undefined
-    - goes: undefined
-    - going: undefined
-    - has: undefined
-    - house: undefined
-    - houses: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - lead: undefined
-    - leads: undefined
-    - library: undefined
-    - long: undefined
-    - many: undefined
-    - market: undefined
-    - my: undefined
-    - near: undefined
-    - new: undefined
-    - of: undefined
-    - old: undefined
-    - on: undefined
-    - open: undefined
-    - over: undefined
-    - people: undefined
-    - read: undefined
-    - river: undefined
-    - shop: undefined
-    - shop/store: undefined
-    - square: undefined
-    - square/market: undefined
-    - stands: undefined
-    - station: undefined
-    - street: undefined
-    - the: undefined
-    - there: undefined
-    - this: undefined
-    - to: undefined
-    - today: undefined
-    - trains: undefined
-    - warm: undefined
-    - we: undefined
-    - white: undefined
+    - a: jedin/один
+    - and: и
+    - are: byti/быти
+    - at: в
+    - beautiful: красивый
+    - big: большой
+    - book: книга
+    - bread: хлеб
+    - bridge: мост
+    - buy: купить
+    - center: центр
+    - church: церковь
+    - city: город
+    - fountain: фонтан
+    - full: полный
+    - goes: идет
+    - going: идет
+    - has: имеет
+    - house: дом
+    - houses: дома
+    - i: я
+    - in: в
+    - is: есть
+    - lead: вести
+    - leads: ведет
+    - library: библиотека
+    - long: длинный
+    - many: много
+    - market: рынок
+    - my: мой
+    - near: рядом
+    - new: новый
+    - of: из
+    - old: старый
+    - on: на
+    - open: открытый
+    - over: над
+    - people: люди
+    - read: читать
+    - river: река
+    - shop: магазин
+    - shop/store: магазин
+    - square: квадрат
+    - square/market: площадь
+    - stands: стоит
+    - station: станция
+    - street: улица
+    - the: to
+    - there: там
+    - this: это
+    - to: к
+    - today: сегодня
+    - trains: поезда
+    - warm: теплый
+    - we: мы
+    - white: белый

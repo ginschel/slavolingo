@@ -5,7 +5,7 @@ The **Genitive case** indicates possession (like 'of' or 's), absence (with **be
 * **Nouns:** Endings vary based on gender, number, and hard/soft stem.
     * *Singular Masculine/Neuter:* ending **-a** or **-u**. (e.g., dom brat**a** - brother's house, książka nauczyciel**a** - teacher's book, okno miast**a** - city window, kwiat pol**a** - field flower)
     * *Singular Feminine:* ending **-y**, **-i**, or **-ej** (after a vowel). (e.g., książka siostr**y** - sister's book, głos ziem**i** - voice of the earth)
-    * *Plural (all genders):* Variable, often **-ów** (masculine), **-y** (feminine), or a **zero ending** (neuter and some feminines). (e.g., dom brat**ów** - brothers' house, książka nauczyciel**i** - teachers' book, książka kobiet**ø** - women's book, okno miast**ø** - city windows)
+    * *Plural (all genders):* Variable, often **-ów** (masculine), **-y** (feminine), or a **zero ending** (neuter and some feminines). (e.g., dom student**ów** - students' house, książka nauczyciel**i** - teachers' book, książka kobiet**ø** - women's book, okno miast**ø** - city windows)
 * **Adjectives:**
     * *Singular (all genders):* ending **-ego** (masculine/neuter), **-ej** (feminine). (e.g., dom dobr**ego** brata - house of a good brother, książka now**ej** nauczycielki - book of a new teacher, okno ostatni**ego** miast**a** - window of the last city)
     * *Plural (all genders):* ending **-ych** or **-ich**. (e.g., dom dobr**ych** braci - house of good brothers, książka ostatn**ich** nauczycieli - book of the last teachers)

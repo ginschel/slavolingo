@@ -68,57 +68,47 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - вєлосипєдовъ: undefined
-    - вѣщии: undefined
-    - доларовъ: undefined
-    - дъва: undefined
-    - дъвѣстѣ: undefined
-    - дєвѧтьстъ: undefined
-    - женъ: undefined
-    - компютєровъ: undefined
-    - котовъ: undefined
-    - мѫжьѥвъ: undefined
-    - осмь: undefined
-    - осмьстъ: undefined
-    - полєи: undefined
-    - пьсовъ: undefined
-    - пѧтьстъ: undefined
-    - рꙋблѥвъ: undefined
-    - слъньцъ: undefined
-    - съто: undefined
-    - сєдмь: undefined
-    - сєдмьстъ: undefined
-    - три: undefined
-    - тристє: undefined
-    - тꙑсѧщи: undefined
-    - хлапьцєвъ: undefined
-    - часъвъниковъ: undefined
-    - чєтꙑри: undefined
-    - чєтꙑристє: undefined
-    - шєстьстъ: undefined
-    - ѥдинъ: undefined
+    - вєлосипєдовъ: of bicycles
+    - вѣщии: of things
+    - доларовъ: of dollars
+    - дъва: two
+    - женъ: of women
+    - компютєровъ: of computers
+    - котовъ: of cats
+    - мѫжьѥвъ: of the husband
+    - осмь: eight
+    - полєи: of the field
+    - пьсовъ: of dogs
+    - рꙋблѥвъ: of rubles
+    - слъньцъ: of the sun
+    - сєдмь: seven
+    - три: three
+    - хлапьцєвъ: of the boy
+    - часъвъниковъ: of the clocks
+    - чєтꙑри: four
+    - ѥдинъ: one (masculine)
   English:
-    - bicycles: undefined
-    - boys: undefined
-    - cats: undefined
-    - clocks: undefined
-    - computers: undefined
-    - dogs: undefined
-    - dollars: undefined
-    - eight: undefined
-    - fields: undefined
-    - five: undefined
-    - four: undefined
-    - hundred: undefined
-    - men: undefined
-    - nine: undefined
-    - one: undefined
-    - rubles: undefined
-    - seven: undefined
-    - six: undefined
-    - suns: undefined
-    - things: undefined
-    - thousand: undefined
-    - three: undefined
-    - two: undefined
-    - women: undefined
+    - bicycles: вєлосипєдꙑ
+    - boys: хлапъци
+    - cats: коти
+    - clocks: часъвъници
+    - computers: компютєрꙑ
+    - dogs: пьси
+    - dollars: доларꙑ
+    - eight: осмь
+    - fields: полиꙗ
+    - five: пѧть
+    - four: чєтꙑри
+    - hundred: съто
+    - men: мѫжи
+    - nine: дєвѧть
+    - one: ѥдинъ
+    - rubles: рꙋбли
+    - seven: сєдмь
+    - six: шєсть
+    - suns: слъньца
+    - things: вѣщи
+    - thousand: тꙑсѧща
+    - three: три
+    - two: дъва, дъвѣ
+    - women: женꙑ

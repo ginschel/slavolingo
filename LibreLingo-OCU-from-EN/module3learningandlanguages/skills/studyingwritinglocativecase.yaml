@@ -80,110 +80,95 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - азъ: undefined
-    - бързѫ: undefined
-    - бѣлъ: undefined
-    - въ: undefined
-    - глаголи: undefined
-    - добра: undefined
-    - задании: undefined
-    - заданиѥ: undefined
-    - запись: undefined
-    - записьникъ: undefined
-    - записьѥвъ: undefined
-    - имамъ: undefined
-    - имаѥтъ: undefined
-    - книга: undefined
-    - книгѫ: undefined
-    - матиматика: undefined
-    - мои: undefined
-    - моимъ: undefined
-    - мокръ: undefined
-    - моꙗ: undefined
-    - мьного: undefined
-    - мєтхода: undefined
-    - мєтходъ: undefined
-    - мꙑ: undefined
-    - на: undefined
-    - нова: undefined
-    - она: undefined
-    - онъ: undefined
-    - оучитєль: undefined
-    - оучитєлька: undefined
-    - оучитєлѥмъ: undefined
-    - оучєникомъ: undefined
-    - оучєникъ: undefined
-    - папиръ: undefined
-    - папирѣ: undefined
-    - пишємъ: undefined
-    - пишѫ: undefined
-    - прєдъметъ: undefined
-    - пълънъ: undefined
-    - пєро: undefined
-    - пєромъ: undefined
-    - си: undefined
-    - сложьнъ: undefined
-    - столъ: undefined
-    - столѣ: undefined
-    - стꙋдєнтами: undefined
-    - съ: undefined
-    - сь: undefined
-    - тъ: undefined
-    - тъи: undefined
-    - тꙋшь: undefined
-    - тꙑмъ: undefined
-    - цєнтрѣ: undefined
-    - шькола: undefined
-    - ѥстъ: undefined
-    - ѥщє: undefined
+    - азъ: I
+    - бързѫ: fast (accusative)
+    - бѣлъ: white (masculine)
+    - въ: in, at
+    - глаголи: words, verbs
+    - добра: good (feminine)
+    - задании: of the task
+    - записьѥвъ: of notes
+    - имамъ: I have
+    - имаѥтъ: he/she/it has
+    - книгѫ: book (accusative)
+    - матиматика: mathematics
+    - мои: my (plural)
+    - моимъ: with my
+    - мокръ: wet (masculine)
+    - моꙗ: my (feminine)
+    - мьного: much, many
+    - мєтхода: of the method
+    - мꙑ: we
+    - нова: new (feminine)
+    - она: she
+    - онъ: he
+    - оучитєлѥмъ: with a teacher
+    - оучєникомъ: with a student
+    - папирѣ: on paper
+    - пишємъ: we write
+    - пишѫ: I write
+    - пълънъ: full (masculine)
+    - пєромъ: with a pen
+    - си: are (2nd person singular)
+    - сложьнъ: difficult
+    - столѣ: on the table
+    - стꙋдєнтами: with students
+    - съ: with
+    - сь: this
+    - тъ: that, he
+    - тъи: that
+    - тꙑмъ: with that
+    - цєнтрѣ: in the center
+    - ѥстъ: he/she/it is
+    - ѥщє: still, yet
   English:
-    - a: undefined
-    - am: undefined
-    - an: undefined
-    - are: undefined
-    - assignment: undefined
-    - assignments: undefined
-    - book: undefined
-    - center: undefined
-    - complex: undefined
-    - desk: undefined
-    - female: undefined
-    - full: undefined
-    - good: undefined
-    - has: undefined
-    - have: undefined
-    - he: undefined
-    - i: undefined
-    - in: undefined
-    - ink: undefined
-    - is: undefined
-    - male: undefined
-    - many: undefined
-    - mathematics: undefined
-    - method: undefined
-    - my: undefined
-    - new: undefined
-    - note: undefined
-    - notebook: undefined
-    - notes: undefined
-    - of: undefined
-    - on: undefined
-    - paper: undefined
-    - pen: undefined
-    - quickly: undefined
-    - school: undefined
-    - she: undefined
-    - still: undefined
-    - student: undefined
-    - students: undefined
-    - subject: undefined
-    - table: undefined
-    - talking: undefined
-    - teacher: undefined
-    - the: undefined
-    - this: undefined
-    - we: undefined
-    - wet: undefined
-    - white: undefined
-    - with: undefined
-    - writing: undefined
+    - a: jedin/один
+    - am: ѥсмь
+    - an: (not directly translated)
+    - are: byti/быти
+    - assignment: заданиѥ
+    - assignments: задании
+    - book: книга
+    - center: цєнтръ
+    - complex: сложьнъ, комплєксьнъ
+    - desk: (столъ)
+    - female: (feminine grammatical gender)
+    - full: пълънъ
+    - good: добръ
+    - has: имаѥтъ
+    - have: имати
+    - he: онъ
+    - i: азъ, ꙗ
+    - in: въ
+    - ink: (no direct equivalent)
+    - is: ѥстъ
+    - male: (masculine grammatical gender)
+    - many: мьного
+    - mathematics: математика
+    - method: мєтходъ
+    - my: мои, моꙗ, моѥ
+    - new: новъ
+    - note: запись
+    - notebook: записьникъ
+    - notes: записи
+    - of: (genitive case)
+    - on: на
+    - paper: папиръ
+    - pen: пєро
+    - quickly: бързо
+    - school: шькола
+    - she: она
+    - still: ѥщє
+    - student: оучєникъ
+    - students: оучєници
+    - subject: прєдъметъ
+    - table: столъ
+    - talking: бєсѣдꙋѥтъ
+    - teacher: оучитєль
+    - the: to
+    - this: сь, сꙗ, сє
+    - we: мꙑ
+    - wet: мокръ
+    - white: бѣлъ
+    - with: съ
+    - writing: пишєтъ

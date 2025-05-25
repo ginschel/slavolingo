@@ -82,149 +82,134 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - азъ: undefined
-    - биѥтъ: undefined
-    - болитъ: undefined
-    - болѣти: undefined
-    - бързъи: undefined
-    - бꙑстро: undefined
-    - власꙑ: undefined
-    - въ: undefined
-    - вєчєрѣ: undefined
-    - глава: undefined
-    - главѣ: undefined
-    - глѧдаѭтъ: undefined
-    - добро: undefined
-    - дъвѣ: undefined
-    - дълъгѫ: undefined
-    - жєлѫдъкъ: undefined
-    - здраво: undefined
-    - и: undefined
-    - имамъ: undefined
-    - имаѥтъ: undefined
-    - каштанови: undefined
-    - книгѫ: undefined
-    - красьни: undefined
-    - красьно: undefined
-    - лицє: undefined
-    - любъви: undefined
-    - модрє: undefined
-    - мозгъ: undefined
-    - мои: undefined
-    - моꙗ: undefined
-    - мраза: undefined
-    - мєнє: undefined
-    - мꙋзикꙋ: undefined
-    - на: undefined
-    - нога: undefined
-    - ноги: undefined
-    - ногѫ: undefined
-    - носъ: undefined
-    - нє: undefined
-    - око: undefined
-    - она: undefined
-    - онъ: undefined
-    - отъ: undefined
-    - отьпочѭ: undefined
-    - оу: undefined
-    - оухо: undefined
-    - оухомъ: undefined
-    - очи: undefined
-    - по: undefined
-    - подобьно: undefined
-    - подобьнъ: undefined
-    - просто: undefined
-    - пръстъ: undefined
-    - пълънъи: undefined
-    - рѫка: undefined
-    - рѫки: undefined
-    - символъ: undefined
-    - слꙑшати: undefined
-    - слꙑшитъ: undefined
-    - сръдьцє: undefined
-    - стопа: undefined
-    - стопꙑ: undefined
-    - тобѣ: undefined
-    - трѣба: undefined
-    - тъждє: undefined
-    - тълико: undefined
-    - тєбє: undefined
-    - тѣло: undefined
-    - тѣлꙋ: undefined
-    - чрьвєнъи: undefined
-    - ѥго: undefined
-    - ѥдиномъ: undefined
-    - ѥстъ: undefined
-    - ѥѩ: undefined
+    - азъ: I
+    - биѥтъ: he/she/it hits
+    - болитъ: it hurts
+    - болѣти: to be sick, to hurt
+    - бързъи: fast, quick
+    - бꙑстро: fast, quickly
+    - въ: in, at
+    - вєчєрѣ: in the evening
+    - главѣ: on the head
+    - глѧдаѭтъ: they watch
+    - добро: good
+    - дъвѣ: two (feminine/neuter)
+    - дълъгѫ: long (accusative)
+    - здраво: hello, healthily
+    - и: and
+    - имамъ: I have
+    - имаѥтъ: he/she/it has
+    - каштанови: brown (plural)
+    - книгѫ: book (accusative)
+    - красьни: beautiful (plural)
+    - красьно: beautiful (neuter)
+    - любъви: of love
+    - модрє: blue (plural)
+    - мои: my (plural)
+    - моꙗ: my (feminine)
+    - мраза: of the frost
+    - мєнє: me
+    - мꙋзикꙋ: music (accusative)
+    - на: on, to
+    - ноги: legs, feet
+    - ногѫ: leg (accusative)
+    - нє: no, not
+    - она: she
+    - онъ: he
+    - отъ: from
+    - отьпочѭ: I will rest
+    - оу: at, by
+    - оухомъ: with an ear
+    - очи: eyes
+    - по: after, along
+    - подобьно: similarly
+    - просто: simply
+    - пълънъи: full
+    - рѫки: hands, arms
+    - символъ: symbol
+    - слꙑшати: to hear
+    - слꙑшитъ: he/she/it hears
+    - стопꙑ: of the foot
+    - тобѣ: to you
+    - трѣба: need
+    - тъждє: also
+    - тълико: so much
+    - тєбє: you
+    - тѣлꙋ: to the body
+    - чрьвєнъи: red
+    - ѥго: his, its
+    - ѥдиномъ: in one
+    - ѥстъ: he/she/it is
+    - ѥѩ: her
   English:
-    - a: undefined
-    - after: undefined
-    - also: undefined
-    - and: undefined
-    - are: undefined
-    - at: undefined
-    - beats: undefined
-    - beautiful: undefined
-    - blue: undefined
-    - body: undefined
-    - book: undefined
-    - brain: undefined
-    - chestnut-colored: undefined
-    - cold: undefined
-    - dinner: undefined
-    - does: undefined
-    - ear: undefined
-    - eye: undefined
-    - eyes: undefined
-    - face: undefined
-    - fast: undefined
-    - feet: undefined
-    - finger: undefined
-    - foot: undefined
-    - from: undefined
-    - full: undefined
-    - hair: undefined
-    - hand: undefined
-    - hands: undefined
-    - has: undefined
-    - have: undefined
-    - he: undefined
-    - head: undefined
-    - healthy: undefined
-    - hear: undefined
-    - hears: undefined
-    - heart: undefined
-    - her: undefined
-    - his: undefined
-    - hurt: undefined
-    - hurts: undefined
-    - i: undefined
-    - is: undefined
-    - just: undefined
-    - leg: undefined
-    - legs: undefined
-    - long: undefined
-    - looking: undefined
-    - love: undefined
-    - music: undefined
-    - my: undefined
-    - needs: undefined
-    - nose: undefined
-    - not: undefined
-    - of: undefined
-    - on: undefined
-    - one: undefined
-    - only: undefined
-    - quick: undefined
-    - red: undefined
-    - rest: undefined
-    - she: undefined
-    - similar: undefined
-    - stomach: undefined
-    - symbol: undefined
-    - the: undefined
-    - to: undefined
-    - two: undefined
-    - well: undefined
-    - with: undefined
-    - you: undefined
+    - a: jedin/один
+    - after: по
+    - also: тъждє
+    - and: и
+    - are: byti/быти
+    - at: въ
+    - beats: биѥтъ
+    - beautiful: красьнъ
+    - blue: модръ
+    - body: тѣло
+    - book: книга
+    - brain: мозгъ
+    - chestnut-colored: каштановъ
+    - cold: хладънъ
+    - dinner: вєчєрꙗ
+    - does: дѣлаѥтъ
+    - ear: оухо
+    - eye: око
+    - eyes: очи
+    - face: лицє
+    - fast: бързъ
+    - feet: ногы
+    - finger: пръстъ
+    - foot: нога, стопа
+    - from: отъ, изъ
+    - full: пълънъ
+    - hair: власъ, власꙑ
+    - hand: рѫка
+    - hands: рѫцѣ
+    - has: имаѥтъ
+    - have: имати
+    - he: онъ
+    - head: глава
+    - healthy: здравъ
+    - hear: слꙑшати
+    - hears: слꙑшитъ
+    - heart: сръдьцє
+    - her: ѥѩ
+    - his: ѥго
+    - hurt: болѣти
+    - hurts: болитъ
+    - i: азъ, ꙗ
+    - is: ѥстъ
+    - just: тъкъмо
+    - leg: нога
+    - legs: ноѕѣ
+    - long: дълъгъ
+    - looking: глѧдаѥтъ
+    - love: любовь
+    - music: мꙋзика
+    - my: мои, моꙗ, моѥ
+    - needs: потрѣбꙋѥтъ
+    - nose: носъ
+    - not: нє
+    - of: (genitive case)
+    - on: на
+    - one: ѥдинъ
+    - only: тъкъмо
+    - quick: бързъ
+    - red: чрьвєнъ
+    - rest: отьпочинъкъ
+    - she: она
+    - similar: подобьнъ
+    - stomach: жєлѫдъкъ
+    - symbol: символъ
+    - the: to
+    - to: къ, на
+    - two: дъва, дъвѣ
+    - well: добро
+    - with: съ
+    - you: тꙑ, вꙑ

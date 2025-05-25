@@ -35,9 +35,9 @@ Phrases:
     Translation: Then to the left.
   - Phrase: Idź prosto do mostu.
     Translation: Go straight to the bridge.
-  - Phrase: Prospekt jest blisko placu/rynku.
+  - Phrase: Prospekt jest blisko rynku.
     Translation: The avenue is near the square.
-  - Phrase: Biblioteka jest daleko.
+  - Phrase: Biblioteka jest daleka.
     Translation: The library is far away.
   - Phrase: Pytam ich o drogę.
     Translation: I ask them for the way.
@@ -55,7 +55,7 @@ Phrases:
     Translation: The station is on the left.
   - Phrase: Sklep jest blisko biblioteki.
     Translation: The shop is near the library.
-  - Phrase: Plac/Rynek jest daleko od hotelu.
+  - Phrase: Rynek jest daleko od hotelu.
     Translation: The square is far from the hotel.
   - Phrase: Pytam starą kobietę.
     Translation: I ask the old woman.
@@ -68,104 +68,97 @@ Phrases:
 
 Mini-dictionary:
   Polish:
-    - biblioteka: undefined
-    - biblioteki: undefined
-    - bliski: undefined
-    - blisko: undefined
-    - centrum: undefined
-    - daleko: undefined
-    - do: undefined
-    - dokąd: undefined
-    - droga: undefined
-    - droga/ścieżka: undefined
-    - drogę: undefined
-    - długa: undefined
-    - gdzie: undefined
-    - hotel: undefined
-    - hotelu: undefined
-    - i: undefined
-    - ich: undefined
-    - idzie: undefined
-    - idziecie: undefined
-    - idziemy: undefined
-    - idź: undefined
-    - idźcie: undefined
-    - jedzie: undefined
-    - jest: undefined
-    - kobietę: undefined
-    - lewej: undefined
-    - lewo: undefined
-    - mi: undefined
-    - mostu: undefined
-    - możecie: undefined
-    - o: undefined
-    - od: undefined
-    - on: undefined
-    - plac/rynek: undefined
-    - placu/rynku: undefined
-    - po: undefined
-    - pociąg: undefined
-    - pokazać: undefined
-    - pokazuje: undefined
-    - potem: undefined
-    - prawo: undefined
-    - prospekt: undefined
-    - prosto: undefined
-    - pytam: undefined
-    - pytać: undefined
-    - sklep: undefined
-    - stacja: undefined
-    - starą: undefined
-    - tamten: undefined
-    - ulica: undefined
-    - w: undefined
+    - biblioteka: library
+    - biblioteki: library
+    - bliski: close
+    - centrum: center
+    - daleka: far
+    - do: to
+    - droga: road
+    - drogę: road
+    - długa: long
+    - hotel: hotel
+    - hotelu: hotel
+    - i: and
+    - ich: their
+    - idzie: goes
+    - idziecie: you go
+    - idziemy: we go
+    - idź: go
+    - idźcie: go
+    - jedzie: drives
+    - jest: is
+    - kobietę: woman
+    - lewej: left
+    - lewo: left
+    - mi: me
+    - mostu: bridge
+    - możecie: you can
+    - o: about
+    - od: from
+    - on: he
+    - po: after
+    - pociąg: train
+    - pokazuje: shows
+    - potem: then
+    - prawo: right
+    - prospekt: prospectus
+    - pytam: I ask
+    - rynek: market
+    - rynku: market
+    - sklep: shop
+    - stacja: station
+    - starą: old
+    - tamten: that
+    - ulica: street
+    - w: in
   English:
-    - and: undefined
-    - are: undefined
-    - ask: undefined
-    - avenue: undefined
-    - away: undefined
-    - bridge: undefined
-    - can: undefined
-    - center: undefined
-    - does: undefined
-    - far: undefined
-    - for: undefined
-    - from: undefined
-    - go: undefined
-    - goes: undefined
-    - going: undefined
-    - he: undefined
-    - hotel: undefined
-    - i: undefined
-    - is: undefined
-    - left: undefined
-    - library: undefined
-    - long: undefined
-    - me: undefined
-    - near: undefined
-    - nearest: undefined
-    - old: undefined
-    - on: undefined
-    - path/way: undefined
-    - right: undefined
-    - road: undefined
-    - shop: undefined
-    - show: undefined
-    - shows: undefined
-    - square: undefined
-    - station: undefined
-    - straight: undefined
-    - street: undefined
-    - that: undefined
-    - the: undefined
-    - them: undefined
-    - then: undefined
-    - to: undefined
-    - train: undefined
-    - way: undefined
-    - we: undefined
-    - where: undefined
-    - which: undefined
-    - woman: undefined
-    - you: undefined
+    - and: i
+    - are: byti/быти
+    - ask: pytać
+    - avenue: aleja
+    - away: daleko
+    - bridge: most
+    - can: może
+    - center: centrum
+    - does: robi
+    - far: daleko
+    - for: dla
+    - from: z
+    - go: iść
+    - goes: idzie
+    - going: idzie
+    - he: on
+    - hotel: hotel
+    - i: ja
+    - is: jest
+    - left: lewo
+    - library: biblioteka
+    - long: długi
+    - me: mnie
+    - near: blisko
+    - nearest: najbliższy
+    - old: stary
+    - on: na
+    - path/way: droga/ścieżka
+    - right: prawo
+    - road: droga
+    - shop: sklep
+    - show: pokazać
+    - shows: pokazuje
+    - square: kwadrat
+    - station: stacja
+    - straight: prosto
+    - street: ulica
+    - that: że
+    - the: to
+    - them: ich
+    - then: potem
+    - to: do
+    - train: pociąg
+    - way: droga
+    - we: my
+    - where: gdzie
+    - which: który
+    - woman: kobieta
+    - you: ty

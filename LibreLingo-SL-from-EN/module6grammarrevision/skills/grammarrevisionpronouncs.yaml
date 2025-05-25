@@ -58,143 +58,143 @@ Phrases:
 
 Mini-dictionary:
   Slovenian:
-    - ali: undefined
-    - biti: undefined
-    - boš: undefined
-    - daj: undefined
-    - daje: undefined
-    - daješ: undefined
-    - dal: undefined
-    - darilo: undefined
-    - dolgo: undefined
-    - govorim: undefined
-    - govoriš: undefined
-    - hiši: undefined
-    - jaz: undefined
-    - je: undefined
-    - kava: undefined
-    - ki: undefined
-    - koga: undefined
-    - komu: undefined
-    - kosti: undefined
-    - lepe: undefined
-    - ležijo: undefined
-    - mene: undefined
-    - meni: undefined
-    - mi: undefined
-    - mir: undefined
-    - mirne: undefined
-    - nami: undefined
-    - ne: undefined
-    - ni: undefined
-    - nimaš: undefined
-    - nič: undefined
-    - njena: undefined
-    - o: undefined
-    - on: undefined
-    - prijateljev: undefined
-    - psu: undefined
-    - rad: undefined
-    - s: undefined
-    - sam: undefined
-    - sanje: undefined
-    - sebi: undefined
-    - seboj: undefined
-    - so: undefined
-    - spat: undefined
-    - stvar: undefined
-    - stvari: undefined
-    - te: undefined
-    - tebi: undefined
-    - teboj: undefined
-    - tega: undefined
-    - teh: undefined
-    - tej: undefined
-    - tem: undefined
-    - temu: undefined
-    - ti: undefined
-    - tistim: undefined
-    - to: undefined
-    - tu: undefined
-    - v: undefined
-    - vas: undefined
-    - vaša: undefined
-    - ve: undefined
-    - vedeti: undefined
-    - vedno: undefined
-    - vem: undefined
-    - veselo: undefined
-    - vidim: undefined
-    - vidiš: undefined
-    - vodo: undefined
-    - vse: undefined
-    - z: undefined
-    - čem: undefined
-    - česa: undefined
-    - že: undefined
-    - ženske: undefined
+    - ali: or
+    - biti: to be
+    - boš: you will
+    - daj: give
+    - daje: gives
+    - daješ: you give
+    - dal: gave
+    - darilo: gift
+    - dolgo: long
+    - govorim: I speak
+    - govoriš: you speak
+    - hiši: house
+    - jaz: I
+    - je: is
+    - kava: coffee
+    - ki: who / which
+    - koga: whom
+    - komu: to whom
+    - kosti: bones
+    - lepe: beautiful
+    - ležijo: lie
+    - mene: me
+    - meni: me / thinks
+    - mi: we
+    - mir: peace
+    - mirne: peaceful
+    - nami: us
+    - ne: no
+    - ni: is not
+    - nimaš: you do not have
+    - nič: nothing
+    - njena: her
+    - o: about
+    - on: he
+    - prijateljev: friends
+    - psu: dog
+    - rad: gladly / like
+    - s: with
+    - sam: alone / self
+    - sanje: dreams
+    - sebi: oneself
+    - seboj: oneself
+    - so: they are
+    - spat: to sleep
+    - stvar: thing
+    - stvari: things
+    - te: you (accusative)
+    - tebi: you (dative)
+    - teboj: you (instrumental)
+    - tega: this
+    - teh: these
+    - tej: this
+    - tem: this
+    - temu: this
+    - ti: you (singular informal)
+    - tistim: those
+    - to: this
+    - tu: here
+    - v: in
+    - vas: you (plural)
+    - vaša: your (plural)
+    - ve: knows
+    - vedeti: to know
+    - vedno: always
+    - vem: I know
+    - veselo: happily
+    - vidim: I see
+    - vidiš: you see
+    - vodo: water
+    - vse: all
+    - z: with
+    - čem: what (locative)
+    - česa: what (genitive)
+    - že: already
+    - ženske: women
   English:
-    - a: undefined
-    - about: undefined
-    - alone: undefined
-    - always: undefined
-    - am: undefined
-    - are: undefined
-    - at: undefined
-    - be: undefined
-    - beautiful: undefined
-    - bones: undefined
-    - cheerful: undefined
-    - coffee: undefined
-    - do: undefined
-    - dog: undefined
-    - don't: undefined
-    - dream: undefined
-    - everything: undefined
-    - for: undefined
-    - friends: undefined
-    - gift: undefined
-    - give: undefined
-    - going: undefined
-    - have: undefined
-    - he: undefined
-    - her: undefined
-    - here: undefined
-    - himself: undefined
-    - house: undefined
-    - i: undefined
-    - is: undefined
-    - isn't: undefined
-    - it: undefined
-    - know: undefined
-    - known: undefined
-    - likes: undefined
-    - long: undefined
-    - me: undefined
-    - no: undefined
-    - not: undefined
-    - nothing: undefined
-    - or: undefined
-    - others: undefined
-    - peaceful: undefined
-    - see: undefined
-    - sleep: undefined
-    - stops: undefined
-    - talking: undefined
-    - talt: undefined
-    - that: undefined
-    - these: undefined
-    - thing: undefined
-    - this: undefined
-    - those: undefined
-    - time: undefined
-    - to: undefined
-    - troubling: undefined
-    - us: undefined
-    - water: undefined
-    - what: undefined
-    - who: undefined
-    - with: undefined
-    - women: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - about: o
+    - alone: sam
+    - always: vedno
+    - am: sem
+    - are: byti/быти
+    - at: pri
+    - be: biti
+    - beautiful: lep
+    - bones: kosti
+    - cheerful: vesel
+    - coffee: kava
+    - do: delati
+    - dog: pes
+    - don't: nimam
+    - dream: sanje
+    - everything: vse
+    - for: za
+    - friends: prijatelji
+    - gift: darilo
+    - give: dati
+    - going: gremo
+    - have: imam
+    - he: on
+    - her: njen
+    - here: tukaj
+    - himself: se
+    - house: hiša
+    - i: jaz
+    - is: je
+    - isn't: ni
+    - it: ono
+    - know: vedeti
+    - known: znan
+    - likes: ima rad
+    - long: dolg
+    - me: me
+    - no: ne
+    - not: ne
+    - nothing: nič
+    - or: ali
+    - others: drugi
+    - peaceful: mirne
+    - see: videti
+    - sleep: spati
+    - stops: ustavi
+    - talking: govori
+    - talt: visok
+    - that: da
+    - these: te
+    - thing: stvar
+    - this: ta
+    - those: tisti
+    - time: čas
+    - to: do
+    - troubling: težavno
+    - us: nas
+    - water: voda
+    - what: kaj
+    - who: kdo
+    - with: z
+    - women: ženske
+    - you: ti
+    - your: tvoj

@@ -61,7 +61,7 @@ Phrases:
     Translation: The bus carries many people.
   - Phrase: Поїзд їде на північ.
     Translation: The train goes to the north.
-  - Phrase: Колесо є розбите/зламане.
+  - Phrase: Колесо є розбите.
     Translation: The bicycle is broken.
   - Phrase: Станція є відкрита.
     Translation: The station is open.
@@ -78,113 +78,101 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - авто: undefined
-    - автобус: undefined
-    - багато: undefined
-    - безпеки: undefined
-    - важлива: undefined
-    - везе: undefined
-    - велика: undefined
-    - високий: undefined
-    - вулиці: undefined
-    - відкрита: undefined
-    - два: undefined
-    - для: undefined
-    - до: undefined
-    - дорога: undefined
-    - зелене: undefined
-    - зєднати: undefined
-    - зєднує: undefined
-    - йде: undefined
-    - колесо: undefined
-    - колесо/велосипед: undefined
-    - красиве: undefined
-    - людей: undefined
-    - ліс: undefined
-    - можна: undefined
-    - міст: undefined
-    - міста: undefined
-    - на: undefined
-    - нове: undefined
-    - обережний: undefined
-    - обмежена: undefined
-    - показує: undefined
-    - поїзд: undefined
-    - північ: undefined
-    - розбите/зламане: undefined
-    - розбитий/зламаний: undefined
-    - світлофор: undefined
-    - сидіння: undefined
-    - станцію: undefined
-    - станція: undefined
-    - стоїть: undefined
-    - сідає: undefined
-    - сісти: undefined
-    - тут: undefined
-    - центру: undefined
-    - червоне: undefined
-    - через: undefined
-    - швидко: undefined
-    - швидкість: undefined
-    - широка: undefined
-    - шофер/водій: undefined
-    - є: undefined
-    - і: undefined
-    - їде: undefined
-    - їхати: undefined
+    - багато: a lot, many, much
+    - безпеки: of security
+    - важлива: important (feminine)
+    - везе: drives
+    - велика: big (feminine)
+    - високий: tall (masculine)
+    - вулиці: on the street
+    - відкрита: open (feminine)
+    - два: two
+    - для: for
+    - до: to, until
+    - зелене: green (neuter)
+    - зєднати: to connect
+    - зєднує: connects
+    - йде: goes
+    - колесо: wheel
+    - красиве: beautiful (neuter)
+    - людей: of people
+    - ліс: forest
+    - можна: it is possible
+    - міста: of the city
+    - на: on, at
+    - нове: new (neuter)
+    - обмежена: limited
+    - показує: shows
+    - північ: north
+    - розбите: broken (neuter)
+    - сидіння: seat
+    - станцію: station (accusative)
+    - стоїть: stands
+    - сідає: sits down
+    - сісти: to sit down
+    - тут: here
+    - центру: of the center
+    - червоне: red (neuter)
+    - через: through, across
+    - швидко: fast, quickly
+    - широка: wide (feminine)
+    - є: is, are
+    - і: and
+    - їде: goes (by transport)
+    - їхати: to go (by transport)
   English:
-    - a: undefined
-    - and: undefined
-    - beautiful: undefined
-    - bicycle: undefined
-    - big: undefined
-    - bridge: undefined
-    - broken: undefined
-    - bus: undefined
-    - can: undefined
-    - car: undefined
-    - careful: undefined
-    - carries: undefined
-    - center: undefined
-    - cities: undefined
-    - connect/tie: undefined
-    - connects: undefined
-    - driver: undefined
-    - drives: undefined
-    - fast: undefined
-    - for: undefined
-    - forest: undefined
-    - go/drive: undefined
-    - goes: undefined
-    - green: undefined
-    - here: undefined
-    - high: undefined
-    - important: undefined
-    - is: undefined
-    - light: undefined
-    - limit: undefined
-    - limited: undefined
-    - many: undefined
-    - new: undefined
-    - north: undefined
-    - on: undefined
-    - one: undefined
-    - open: undefined
-    - people: undefined
-    - red: undefined
-    - road: undefined
-    - seat: undefined
-    - security: undefined
-    - shows: undefined
-    - sit: undefined
-    - speed: undefined
-    - standing: undefined
-    - station: undefined
-    - street: undefined
-    - the: undefined
-    - through: undefined
-    - to: undefined
-    - traffic: undefined
-    - train: undefined
-    - two: undefined
-    - wide: undefined
+    - a: jedin/один
+    - and: і
+    - beautiful: красивий
+    - bicycle: велосипед
+    - big: великий
+    - bridge: міст
+    - broken: зламаний
+    - bus: автобус
+    - can: може
+    - car: автомобіль
+    - careful: обережний
+    - carries: несе
+    - center: центр
+    - cities: міста
+    - connect/tie: з'єднати/зв'язати
+    - connects: з'єднує
+    - driver: водій
+    - drives: водить
+    - fast: швидкий
+    - for: для
+    - forest: ліс
+    - go/drive: йти/їхати
+    - goes: йде
+    - green: зелений
+    - here: тут
+    - high: високий
+    - important: важливий
+    - is: є
+    - light: світло
+    - limit: межа
+    - limited: обмежений
+    - many: багато
+    - new: новий
+    - north: північ
+    - on: на
+    - one: один
+    - open: відкритий
+    - people: люди
+    - red: червоний
+    - road: дорога
+    - seat: сидіння
+    - security: безпека
+    - shows: показує
+    - sit: сидіти
+    - speed: швидкість
+    - standing: стоїть
+    - station: станція
+    - street: вулиця
+    - the: to
+    - through: через
+    - to: до
+    - traffic: рух
+    - train: поїзд
+    - two: два
+    - wide: широкий

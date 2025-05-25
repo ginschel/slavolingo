@@ -59,7 +59,7 @@ Phrases:
     Translation: This is a nation with a rich culture.
   - Phrase: Ty jesteś Anglikiem?
     Translation: Are you an Englishman?
-  - Phrase: On mówi każdy język dobrze.
+  - Phrase: On mówi każdym językiem dobrze.
     Translation: He speaks every language well.
   - Phrase: My uczymy się języka rosyjskiego.
     Translation: We are learning the Russian language.
@@ -68,113 +68,109 @@ Phrases:
 
 Mini-dictionary:
   Polish:
-    - angielskim: undefined
-    - anglik: undefined
-    - anglikiem: undefined
-    - bogatą: undefined
-    - chorwackim: undefined
-    - chorwat: undefined
-    - chorwatka: undefined
-    - chorwatką: undefined
-    - czy: undefined
-    - dobrze: undefined
-    - dużo: undefined
-    - i: undefined
-    - imię: undefined
-    - ja: undefined
-    - jest: undefined
-    - jestem: undefined
-    - jesteś: undefined
-    - język: undefined
-    - języka: undefined
-    - języki: undefined
-    - języku: undefined
-    - każdy: undefined
-    - kochamy: undefined
-    - kulturą: undefined
-    - mojego: undefined
-    - my: undefined
-    - mój: undefined
-    - mówi: undefined
-    - mówisz: undefined
-    - narodów: undefined
-    - naród: undefined
-    - nazwa: undefined
-    - niemczech: undefined
-    - niemiec: undefined
-    - niemieckim: undefined
-    - on: undefined
-    - ona: undefined
-    - państwa: undefined
-    - państwem: undefined
-    - państwo: undefined
-    - polak: undefined
-    - polakiem: undefined
-    - polska: undefined
-    - rosjanin: undefined
-    - rosjaninem: undefined
-    - rosyjski: undefined
-    - rosyjskiego: undefined
-    - się: undefined
-    - swój: undefined
-    - słowianin: undefined
-    - słowianinem: undefined
-    - słowiański: undefined
-    - słowiańskim: undefined
-    - to: undefined
-    - trzy: undefined
-    - ty: undefined
-    - uczymy: undefined
-    - w: undefined
-    - z: undefined
-    - zna: undefined
-    - żyje: undefined
+    - angielskim: English
+    - anglik: Englishman
+    - anglikiem: Englishman
+    - bogatą: rich
+    - chorwackim: Croatian
+    - chorwat: Croat
+    - chorwatka: Croat (female)
+    - chorwatką: Croat (female)
+    - czy: whether
+    - dobrze: good
+    - dużo: much
+    - i: and
+    - ja: I
+    - jest: is
+    - jestem: I am
+    - jesteś: you are
+    - języka: language
+    - języki: languages
+    - językiem: language
+    - języku: language
+    - każdym: every
+    - kochamy: we love
+    - kulturą: culture
+    - mojego: my
+    - my: we
+    - mój: my
+    - mówi: says
+    - mówisz: you say
+    - narodów: nations
+    - nazwa: name
+    - niemczech: Germany
+    - niemiec: German
+    - niemieckim: German
+    - on: he
+    - ona: she
+    - państwa: state
+    - państwem: state
+    - polak: Pole
+    - polakiem: Pole
+    - polska: Poland
+    - rosjanin: Russian
+    - rosjaninem: Russian
+    - rosyjski: Russian
+    - rosyjskiego: Russian
+    - się: oneself
+    - swój: one's own
+    - słowianinem: Slav
+    - słowiański: Slavic
+    - słowiańskim: Slavic
+    - to: this
+    - trzy: three
+    - ty: you
+    - uczymy: we teach
+    - w: in
+    - z: with
+    - zna: knows
+    - żyje: lives
   English:
-    - a: undefined
-    - am: undefined
-    - an: undefined
-    - and: undefined
-    - are: undefined
-    - country: undefined
-    - croat: undefined
-    - croatian: undefined
-    - culture: undefined
-    - do: undefined
-    - english: undefined
-    - englishman: undefined
-    - every: undefined
-    - german: undefined
-    - germany: undefined
-    - he: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - knows: undefined
-    - language: undefined
-    - languages: undefined
-    - learning: undefined
-    - lives: undefined
-    - love: undefined
-    - many: undefined
-    - my: undefined
-    - name: undefined
-    - nation: undefined
-    - nations: undefined
-    - of: undefined
-    - our: undefined
-    - poland: undefined
-    - pole: undefined
-    - rich: undefined
-    - russian: undefined
-    - she: undefined
-    - slav: undefined
-    - slavic: undefined
-    - speak: undefined
-    - speaks: undefined
-    - the: undefined
-    - this: undefined
-    - three: undefined
-    - we: undefined
-    - well: undefined
-    - with: undefined
-    - you: undefined
+    - a: jedin/один
+    - am: jestem
+    - an: pewien
+    - and: i
+    - are: byti/быти
+    - country: kraj
+    - croat: chorwat
+    - croatian: chorwackim
+    - culture: kultura
+    - do: robić
+    - english: angielskim
+    - englishman: Anglik
+    - every: każdy
+    - german: Niemiec
+    - germany: Niemcy
+    - he: on
+    - i: ja
+    - in: w
+    - is: jest
+    - knows: zna
+    - language: język
+    - languages: języki
+    - learning: uczenie się
+    - lives: żyje
+    - love: miłość
+    - many: wiele
+    - my: mój
+    - name: nazwa
+    - nation: naród
+    - nations: narodów
+    - of: z
+    - our: nasz
+    - poland: Polska
+    - pole: Polak
+    - rich: bogaty
+    - russian: rosyjski
+    - she: ona
+    - slav: słowianin
+    - slavic: słowiański
+    - speak: mówić
+    - speaks: mówi
+    - the: to
+    - this: to
+    - three: trzy
+    - we: my
+    - well: dobrze
+    - with: z
+    - you: ty

@@ -94,76 +94,58 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - велосипед: undefined
-    - велосипеди: undefined
-    - велосипедів: undefined
-    - вісім: undefined
-    - годинник: undefined
-    - годинників: undefined
-    - два: undefined
-    - дві: undefined
-    - девять: undefined
-    - десять: undefined
-    - долар: undefined
-    - долари: undefined
-    - доларів: undefined
-    - ж: undefined
-    - жінка: undefined
-    - жінки: undefined
-    - комп'ютерів: undefined
-    - комп\'ютер: undefined
-    - коти: undefined
-    - котів: undefined
-    - кіт: undefined
-    - нуль: undefined
-    - один: undefined
-    - одна: undefined
-    - одне: undefined
-    - п'ять: undefined
-    - п\'ять: undefined
-    - поле: undefined
-    - речі: undefined
-    - рубль: undefined
-    - рублів: undefined
-    - с: undefined
-    - сонце: undefined
-    - сім: undefined
-    - три: undefined
-    - хлопець: undefined
-    - хлопці: undefined
-    - хлопців: undefined
-    - ч: undefined
-    - ч/с: undefined
-    - чотири: undefined
-    - шість: undefined
+    - велосипеди: bicycles
+    - велосипедів: of bicycles
+    - годинників: of clocks
+    - два: two
+    - дві: two (feminine)
+    - долари: dollars
+    - доларів: of dollars
+    - ж: but, and
+    - жінки: of the woman, women
+    - комп'ютерів: of computers
+    - коти: cats
+    - котів: of cats
+    - один: one
+    - одна: one (feminine)
+    - одне: one (neuter)
+    - п'ять: five
+    - речі: things
+    - рублів: of rubles
+    - с: with
+    - сонце: sun
+    - хлопці: boys
+    - хлопців: of boys
+    - ч: h (hour)
+    - ч/с: h/s
   English:
-    - bicycle: undefined
-    - bicycles: undefined
-    - boy: undefined
-    - boys: undefined
-    - cat: undefined
-    - cats: undefined
-    - clock/watch: undefined
-    - clocks: undefined
-    - computer: undefined
-    - computers: undefined
-    - dollar: undefined
-    - dollars: undefined
-    - eight: undefined
-    - field: undefined
-    - five: undefined
-    - four: undefined
-    - nine: undefined
-    - one: undefined
-    - ruble: undefined
-    - rubles: undefined
-    - seven: undefined
-    - six: undefined
-    - sun: undefined
-    - ten: undefined
-    - things: undefined
-    - three: undefined
-    - two: undefined
-    - woman: undefined
-    - women: undefined
-    - zero: undefined
+    - bicycle: велосипед
+    - bicycles: велосипеди
+    - boy: хлопчик
+    - boys: хлопчики
+    - cat: кіт
+    - cats: коти
+    - clock/watch: годинник/наручний годинник
+    - clocks: годинники
+    - computer: комп'ютер
+    - computers: комп'ютери
+    - dollar: долар
+    - dollars: долари
+    - eight: вісім
+    - field: поле
+    - five: п'ять
+    - four: чотири
+    - nine: дев'ять
+    - one: один
+    - ruble: рубль
+    - rubles: рублі
+    - seven: сім
+    - six: шість
+    - sun: сонце
+    - ten: десять
+    - things: речі
+    - three: три
+    - two: два
+    - woman: жінка
+    - women: жінки
+    - zero: нуль

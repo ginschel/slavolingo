@@ -33,11 +33,11 @@ Phrases:
     Translation: This is my language.
   - Phrase: Державою є Польща.
     Translation: The country is Poland.
-  - Phrase: Я є поляком.
+  - Phrase: Я поляком.
     Translation: I am a Pole.
-  - Phrase: Вона є хорваткою.
+  - Phrase: Вона хорваткою.
     Translation: She is a Croat.
-  - Phrase: Він є росіянином.
+  - Phrase: Він росіянином.
     Translation: He is a Russian.
   - Phrase: Чи говориш німецькою мовою?
     Translation: Do you speak the German language?
@@ -45,7 +45,7 @@ Phrases:
     Translation: An Englishman speaks the English language.
   - Phrase: Ми любимо свій народ.
     Translation: We love our nation.
-  - Phrase: Це є ім'я моєї держави.
+  - Phrase: Це ім'я моєї держави.
     Translation: This is the name of my country.
   - Phrase: Він знає три мови.
     Translation: He knows three languages.
@@ -55,9 +55,9 @@ Phrases:
     Translation: A German lives in Germany.
   - Phrase: Вона знає російську і слов'янську.
     Translation: She knows Russian and Slavic.
-  - Phrase: Це є народ з багатою культурою.
+  - Phrase: Це народ з багатою культурою.
     Translation: This is a nation with a rich culture.
-  - Phrase: Ти є англійцем?
+  - Phrase: Ти англійцем?
     Translation: Are you an Englishman?
   - Phrase: Він говорить кожною мовою добре.
     Translation: He speaks every language well.
@@ -68,109 +68,99 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - англійською: undefined
-    - англійцем: undefined
-    - англієць: undefined
-    - багато: undefined
-    - багатою: undefined
-    - в: undefined
-    - вона: undefined
-    - вчимось: undefined
-    - він: undefined
-    - говорить: undefined
-    - говориш: undefined
-    - держава: undefined
-    - держави: undefined
-    - державою: undefined
-    - добре: undefined
-    - живе: undefined
-    - з: undefined
-    - знає: undefined
-    - кожною: undefined
-    - культурою: undefined
-    - любимо: undefined
-    - ми: undefined
-    - мова: undefined
-    - мови: undefined
-    - мовою: undefined
-    - моя: undefined
-    - моєї: undefined
-    - народ: undefined
-    - народів: undefined
-    - німець: undefined
-    - німецькою: undefined
-    - німеччині: undefined
-    - польща: undefined
-    - поляк: undefined
-    - поляком: undefined
-    - російської: undefined
-    - російську: undefined
-    - росіянин: undefined
-    - росіянином: undefined
-    - свій: undefined
-    - слов'янином: undefined
-    - слов'янською: undefined
-    - слов'янську: undefined
-    - слов\'янин: undefined
-    - ти: undefined
-    - три: undefined
-    - хорват: undefined
-    - хорватка: undefined
-    - хорваткою: undefined
-    - хорватською: undefined
-    - це: undefined
-    - чи: undefined
-    - я: undefined
-    - є: undefined
-    - і: undefined
-    - ім'я: undefined
-    - ім\'я: undefined
+    - англійською: in English
+    - англійцем: by an Englishman
+    - багато: a lot, many, much
+    - багатою: with a rich one
+    - в: in, at
+    - вона: she
+    - вчимось: we learn
+    - він: he
+    - говорить: speaks
+    - говориш: you speak
+    - держави: of the state
+    - державою: with the state
+    - добре: good, well
+    - живе: lives
+    - з: with, from
+    - знає: knows
+    - кожною: with each
+    - культурою: with culture
+    - любимо: we love
+    - ми: we
+    - мови: of the language
+    - мовою: with the language
+    - моя: my (feminine)
+    - моєї: of my (feminine)
+    - народів: of nations
+    - німецькою: in German
+    - німеччині: in Germany
+    - польща: Poland
+    - поляком: with a Pole
+    - російської: of Russian
+    - російську: Russian (accusative)
+    - росіянином: with a Russian
+    - свій: my/his/her/its own
+    - слов'янином: by a Slav
+    - слов'янською: in Slavic
+    - слов'янську: Slavic (accusative)
+    - ти: you (singular)
+    - три: three
+    - хорват: Croat
+    - хорваткою: with a Croatian female
+    - хорватською: in Croatian
+    - це: this is, it is
+    - чи: if, whether
+    - я: I
+    - є: is, are
+    - і: and
+    - ім'я: name
   English:
-    - a: undefined
-    - am: undefined
-    - an: undefined
-    - and: undefined
-    - are: undefined
-    - country: undefined
-    - croat: undefined
-    - croatian: undefined
-    - culture: undefined
-    - do: undefined
-    - english: undefined
-    - englishman: undefined
-    - every: undefined
-    - german: undefined
-    - germany: undefined
-    - he: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - knows: undefined
-    - language: undefined
-    - languages: undefined
-    - learning: undefined
-    - lives: undefined
-    - love: undefined
-    - many: undefined
-    - my: undefined
-    - name: undefined
-    - nation: undefined
-    - nations: undefined
-    - of: undefined
-    - our: undefined
-    - poland: undefined
-    - pole: undefined
-    - rich: undefined
-    - russian: undefined
-    - she: undefined
-    - slav: undefined
-    - slavic: undefined
-    - speak: undefined
-    - speaks: undefined
-    - the: undefined
-    - this: undefined
-    - three: undefined
-    - we: undefined
-    - well: undefined
-    - with: undefined
-    - you: undefined
+    - a: jedin/один
+    - am: є
+    - an: ан
+    - and: і
+    - are: byti/быти
+    - country: країна
+    - croat: хорват
+    - croatian: хорватський
+    - culture: культура
+    - do: робити
+    - english: англійська
+    - englishman: англієць
+    - every: кожен
+    - german: німецький
+    - germany: німеччина
+    - he: він
+    - i: я
+    - in: в
+    - is: є
+    - knows: знає
+    - language: мова
+    - languages: мови
+    - learning: навчання
+    - lives: життя
+    - love: любов
+    - many: багато
+    - my: мій
+    - name: ім'я
+    - nation: нація
+    - nations: нації
+    - of: з
+    - our: наш
+    - poland: польща
+    - pole: поляк
+    - rich: багатий
+    - russian: російський
+    - she: вона
+    - slav: слов'янин
+    - slavic: слов'янський
+    - speak: говорити
+    - speaks: говорить
+    - the: to
+    - this: це
+    - three: три
+    - we: ми
+    - well: добре
+    - with: з
+    - you: ви

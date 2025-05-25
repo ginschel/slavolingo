@@ -86,128 +86,113 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - бързо: undefined
-    - вода: undefined
-    - въ: undefined
-    - вꙑсока: undefined
-    - глѧдаѭтъ: undefined
-    - гора: undefined
-    - горами: undefined
-    - до: undefined
-    - долина: undefined
-    - долинѫ: undefined
-    - домомъ: undefined
-    - дрѣвами: undefined
-    - дрѣво: undefined
-    - дьнь: undefined
-    - дꙋбъ: undefined
-    - дꙋбꙋ: undefined
-    - за: undefined
-    - зєлєна: undefined
-    - зємли: undefined
-    - зємлѥ: undefined
-    - зємлꙗ: undefined
-    - идємъ: undefined
-    - идєтъ: undefined
-    - идѫтъ: undefined
-    - изъ: undefined
-    - камєни: undefined
-    - камєниѭ: undefined
-    - камєнь: undefined
-    - красьна: undefined
-    - красьно: undefined
-    - къ: undefined
-    - лєжати: undefined
-    - лєжитъ: undefined
-    - лєсъ: undefined
-    - лѣсъ: undefined
-    - лꙋна: undefined
-    - мокра: undefined
-    - мьного: undefined
-    - мєждꙋ: undefined
-    - мꙑ: undefined
-    - на: undefined
-    - они: undefined
-    - онъ: undefined
-    - полиѥ: undefined
-    - полиѭ: undefined
-    - полиꙗми: undefined
-    - расти: undefined
-    - растєтъ: undefined
-    - роза: undefined
-    - рѣка: undefined
-    - рѣкꙑ: undefined
-    - стои: undefined
-    - стоимъ: undefined
-    - съ: undefined
-    - сѫтъ: undefined
-    - трава: undefined
-    - тєчєтъ: undefined
-    - тѧжькє: undefined
-    - тꙋ: undefined
-    - цвѣсти: undefined
-    - цвѣтъ: undefined
-    - цвѣтєтъ: undefined
-    - цвѣтꙋтъ: undefined
-    - цвѣтꙑ: undefined
-    - чрѣзъ: undefined
-    - широкъо: undefined
-    - ѥстъ: undefined
+    - бързо: fast, quickly
+    - вода: water
+    - въ: in, at
+    - вꙑсока: high, tall (feminine)
+    - глѧдаѭтъ: they watch
+    - горами: with mountains
+    - до: to, until
+    - долинѫ: valley (accusative)
+    - домомъ: with a house
+    - дрѣвами: with trees
+    - дьнь: day
+    - дꙋбꙋ: to the oak
+    - за: for, behind
+    - зєлєна: green (feminine)
+    - зємли: of the earth
+    - зємлѥ: on the earth
+    - идємъ: we go
+    - идєтъ: he/she/it goes
+    - идѫтъ: they go
+    - изъ: from
+    - камєни: stones
+    - камєниѭ: with a stone
+    - красьна: beautiful (feminine)
+    - красьно: beautiful (neuter)
+    - къ: to, towards
+    - лєжати: to lie down
+    - лєжитъ: he/she/it is lying down
+    - лєсъ: forest
+    - мокра: wet (feminine)
+    - мьного: much, many
+    - мꙑ: we
+    - на: on, to
+    - они: they (masculine)
+    - онъ: he
+    - полиѭ: field (accusative)
+    - полиꙗми: with fields
+    - расти: to grow
+    - растєтъ: it grows
+    - рѣкꙑ: of the river
+    - стои: it costs, it stands
+    - стоимъ: we stand
+    - съ: with
+    - сѫтъ: they are
+    - тєчєтъ: it flows
+    - тѧжькє: heavy (neuter)
+    - тꙋ: here
+    - цвѣсти: to bloom
+    - цвѣтєтъ: it blooms
+    - цвѣтꙋтъ: they bloom
+    - цвѣтꙑ: flowers
+    - широкъо: wide
+    - ѥстъ: he/she/it is
   English:
-    - a: undefined
-    - are: undefined
-    - beautiful: undefined
-    - beautifully: undefined
-    - behind: undefined
-    - between: undefined
-    - bloom: undefined
-    - earth: undefined
-    - fast: undefined
-    - field: undefined
-    - fields: undefined
-    - flower: undefined
-    - flowers: undefined
-    - flows: undefined
-    - forest: undefined
-    - from: undefined
-    - goes: undefined
-    - going: undefined
-    - grass: undefined
-    - green: undefined
-    - grow: undefined
-    - grows: undefined
-    - he: undefined
-    - heavy: undefined
-    - high: undefined
-    - house: undefined
-    - in: undefined
-    - into: undefined
-    - is: undefined
-    - lie: undefined
-    - lies: undefined
-    - looking: undefined
-    - many: undefined
-    - moon: undefined
-    - mountain: undefined
-    - mountains: undefined
-    - oak: undefined
-    - on: undefined
-    - river: undefined
-    - rose: undefined
-    - standing: undefined
-    - stone: undefined
-    - stones: undefined
-    - the: undefined
-    - they: undefined
-    - through: undefined
-    - to: undefined
-    - today: undefined
-    - towards: undefined
-    - tree: undefined
-    - trees: undefined
-    - valley: undefined
-    - water: undefined
-    - we: undefined
-    - wet: undefined
-    - wide: undefined
-    - with: undefined
+    - a: jedin/один
+    - are: byti/быти
+    - beautiful: красьнъ
+    - beautifully: красивє
+    - behind: за
+    - between: мєждꙋ
+    - bloom: цвѣсти
+    - earth: зємлꙗ
+    - fast: бързъ
+    - field: полиѥ
+    - fields: полиꙗ
+    - flower: цвѣтъ
+    - flowers: цвѣтꙑ
+    - flows: тєчєтъ
+    - forest: лѣсъ
+    - from: отъ, изъ
+    - goes: идєтъ
+    - going: идєтъ
+    - grass: трава
+    - green: зєлєнъ
+    - grow: расти
+    - grows: растєтъ
+    - he: онъ
+    - heavy: тѧжькъ
+    - high: вꙑсокъ
+    - house: домъ
+    - in: въ
+    - into: въ
+    - is: ѥстъ
+    - lie: лъгати
+    - lies: лєжитъ
+    - looking: глѧдаѥтъ
+    - many: мьного
+    - moon: лꙋна, мѣсѧць
+    - mountain: гора
+    - mountains: горꙑ
+    - oak: дꙋбъ
+    - on: на
+    - river: рѣка
+    - rose: роза
+    - standing: стоитъ
+    - stone: камєнь
+    - stones: камєни
+    - the: to
+    - they: они, онꙑ
+    - through: чрѣзъ
+    - to: къ, на
+    - today: дьньсь
+    - towards: къ
+    - tree: дрѣво
+    - trees: дрєва
+    - valley: долина
+    - water: вода
+    - we: мꙑ
+    - wet: мокръ
+    - wide: широкъ
+    - with: съ

@@ -78,112 +78,100 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - аѵто: undefined
-    - аѵтобꙋсъ: undefined
-    - бръзина: undefined
-    - бързо: undefined
-    - бєзъопacьности: undefined
-    - важьна: undefined
-    - вєдєтъ: undefined
-    - вєлика: undefined
-    - вꙑсокъи: undefined
-    - града: undefined
-    - два: undefined
-    - до: undefined
-    - дорога: undefined
-    - за: undefined
-    - зєлєно: undefined
-    - и: undefined
-    - идєтъ: undefined
-    - коло: undefined
-    - красьно: undefined
-    - людии: undefined
-    - лѣсъ: undefined
-    - можьно: undefined
-    - мостъ: undefined
-    - мьного: undefined
-    - на: undefined
-    - ново: undefined
-    - ограничєна: undefined
-    - остражьнъ: undefined
-    - отъворєна: undefined
-    - показоваѥтъ: undefined
-    - поѥздъ: undefined
-    - празбито: undefined
-    - разбито: undefined
-    - свѣтофоръ: undefined
-    - свѧжєтъ: undefined
-    - свѧзати: undefined
-    - станициꙗ: undefined
-    - станицю: undefined
-    - стои: undefined
-    - сѣвєръ: undefined
-    - сѣдєтъ: undefined
-    - сѣдѣниѥ: undefined
-    - сѣсти: undefined
-    - тꙋ: undefined
-    - цєнтра: undefined
-    - чрьвєно: undefined
-    - чрѣзъ: undefined
-    - широка: undefined
-    - шофєръ: undefined
-    - ылици: undefined
-    - ѥдєтъ: undefined
-    - ѥстъ: undefined
-    - ѥхати: undefined
+    - бързо: fast, quickly
+    - бєзъопacьности: of security
+    - важьна: important (feminine)
+    - вєдєтъ: he/she/it leads
+    - вєлика: big, great (feminine)
+    - вꙑсокъи: high, tall
+    - града: of the city
+    - два: two
+    - до: to, until
+    - за: for, behind
+    - зєлєно: green (neuter)
+    - и: and
+    - идєтъ: he/she/it goes
+    - красьно: beautiful (neuter)
+    - людии: of people
+    - лѣсъ: forest
+    - можьно: possible
+    - мьного: much, many
+    - на: on, to
+    - ново: new (neuter)
+    - ограничєна: limited (feminine)
+    - отъворєна: open (feminine)
+    - показоваѥтъ: he/she/it shows
+    - празбито: broken
+    - свѧжєтъ: he/she/it will tie
+    - свѧзати: to tie
+    - станицю: station (accusative)
+    - стои: it costs, it stands
+    - сѣвєръ: north
+    - сѣдєтъ: he/she/it sits
+    - сѣдѣниѥ: undef
+    - сѣсти: to sit down
+    - тꙋ: here
+    - цєнтра: of the center
+    - чрьвєно: red (neuter)
+    - чрѣзъ: through
+    - широка: wide (feminine)
+    - ылици: on the street
+    - ѥдєтъ: he/she/it eats
+    - ѥстъ: he/she/it is
+    - ѥхати: to go, to ride
   English:
-    - a: undefined
-    - and: undefined
-    - beautiful: undefined
-    - bicycle: undefined
-    - big: undefined
-    - bridge: undefined
-    - broken: undefined
-    - bus: undefined
-    - can: undefined
-    - car: undefined
-    - careful: undefined
-    - carries: undefined
-    - center: undefined
-    - cities: undefined
-    - connect/tie: undefined
-    - connects: undefined
-    - driver: undefined
-    - drives: undefined
-    - fast: undefined
-    - for: undefined
-    - forest: undefined
-    - go/drive: undefined
-    - goes: undefined
-    - green: undefined
-    - here: undefined
-    - high: undefined
-    - important: undefined
-    - is: undefined
-    - light: undefined
-    - limit: undefined
-    - limited: undefined
-    - many: undefined
-    - new: undefined
-    - north: undefined
-    - on: undefined
-    - one: undefined
-    - open: undefined
-    - people: undefined
-    - red: undefined
-    - road: undefined
-    - seat: undefined
-    - security: undefined
-    - shows: undefined
-    - sit: undefined
-    - speed: undefined
-    - standing: undefined
-    - station: undefined
-    - street: undefined
-    - the: undefined
-    - through: undefined
-    - to: undefined
-    - traffic: undefined
-    - train: undefined
-    - two: undefined
-    - wide: undefined
+    - a: jedin/один
+    - and: и
+    - beautiful: красьнъ
+    - bicycle: вєлосипєдъ
+    - big: вєликъ
+    - bridge: мостъ
+    - broken: разбитъ
+    - bus: аѵтобꙋсъ
+    - can: мощи
+    - car: аѵто
+    - careful: остражьнъ
+    - carries: носитъ
+    - center: цєнтръ
+    - cities: градꙑ
+    - connect/tie: свѧзати
+    - connects: свѧжєтъ
+    - driver: шофєръ
+    - drives: (ѥдєтъ)
+    - fast: бързъ
+    - for: за, на
+    - forest: лѣсъ
+    - go/drive: ѥхати
+    - goes: идєтъ
+    - green: зєлєнъ
+    - here: тꙋ
+    - high: вꙑсокъ
+    - important: важьнъ
+    - is: ѥстъ
+    - light: свѣтъ
+    - limit: (no direct equivalent)
+    - limited: ограничєнъ
+    - many: мьного
+    - new: новъ
+    - north: сѣвєръ
+    - on: на
+    - one: ѥдинъ
+    - open: отъворѥнъ
+    - people: людиѥ
+    - red: чрьвєнъ
+    - road: дорога
+    - seat: сѣдѣниѥ
+    - security: бєзъопасность
+    - shows: показоваѥтъ
+    - sit: сѣдѣти
+    - speed: бръзина
+    - standing: стоитъ
+    - station: станициꙗ
+    - street: ылица
+    - the: to
+    - through: чрѣзъ
+    - to: къ, на
+    - traffic: (no direct equivalent, свѣтофоръ for traffic light)
+    - train: поѥздъ
+    - two: дъва, дъвѣ
+    - wide: широкъ

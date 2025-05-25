@@ -70,115 +70,105 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - библиотека: undefined
-    - библиотекꙑ: undefined
-    - библиотецѣ: undefined
-    - близъко: undefined
-    - бѣла: undefined
-    - въ: undefined
-    - вєдєтъ: undefined
-    - вєликъи: undefined
-    - вєсти: undefined
-    - градъ: undefined
-    - градꙋ: undefined
-    - до: undefined
-    - домовъ: undefined
-    - домъ: undefined
-    - дълъга: undefined
-    - дьнь: undefined
-    - и: undefined
-    - идємъ: undefined
-    - идєтъ: undefined
-    - имаѥтъ: undefined
-    - книгѫ: undefined
-    - красьнъи: undefined
-    - кꙋпꙋѥмъ: undefined
-    - людии: undefined
-    - магазина: undefined
-    - магазинꙋ: undefined
-    - мои: undefined
-    - мостъ: undefined
-    - мьного: undefined
-    - на: undefined
-    - новъи: undefined
-    - отъворѥнъи: undefined
-    - поѥздовъ: undefined
-    - пълънъ: undefined
-    - рѣкѫ: undefined
-    - станициꙗ: undefined
-    - стара: undefined
-    - стои: undefined
-    - сь: undefined
-    - тръга: undefined
-    - тръгъ: undefined
-    - тръгꙋ: undefined
-    - търговищи: undefined
-    - търговищє: undefined
-    - тєпла: undefined
-    - тꙋ: undefined
-    - фонтана: undefined
-    - хлѣбъ: undefined
-    - црькъвь: undefined
-    - цєнтра: undefined
-    - читаѭ: undefined
-    - чрѣзъ: undefined
-    - ылица: undefined
-    - ылици: undefined
-    - ѥстъ: undefined
+    - библиотекꙑ: of the library
+    - библиотецѣ: in the library
+    - близъко: near, close
+    - бѣла: white (feminine)
+    - въ: in, at
+    - вєдєтъ: he/she/it leads
+    - вєликъи: big, great
+    - вєсти: to lead
+    - градꙋ: to the city
+    - до: to, until
+    - домовъ: of houses
+    - дълъга: long (feminine)
+    - дьнь: day
+    - и: and
+    - идємъ: we go
+    - идєтъ: he/she/it goes
+    - имаѥтъ: he/she/it has
+    - книгѫ: book (accusative)
+    - красьнъи: beautiful
+    - кꙋпꙋѥмъ: we buy
+    - людии: of people
+    - магазинꙋ: to the store
+    - мои: my (plural)
+    - мьного: much, many
+    - на: on, to
+    - новъи: new
+    - отъворѥнъи: open
+    - поѥздовъ: of trains
+    - пълънъ: full (masculine)
+    - рѣкѫ: river (accusative)
+    - стара: old (feminine)
+    - стои: it costs, it stands
+    - сь: this
+    - тръга: of the market
+    - тръгꙋ: at the market
+    - търговищи: at the market
+    - тєпла: warm (feminine)
+    - тꙋ: here
+    - фонтана: of the fountain
+    - хлѣбъ: bread
+    - цєнтра: of the center
+    - читаѭ: I read
+    - чрѣзъ: through
+    - ылици: on the street
+    - ѥстъ: he/she/it is
   English:
-    - a: undefined
-    - and: undefined
-    - are: undefined
-    - at: undefined
-    - beautiful: undefined
-    - big: undefined
-    - book: undefined
-    - bread: undefined
-    - bridge: undefined
-    - buy: undefined
-    - center: undefined
-    - church: undefined
-    - city: undefined
-    - fountain: undefined
-    - full: undefined
-    - goes: undefined
-    - going: undefined
-    - has: undefined
-    - house: undefined
-    - houses: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - lead: undefined
-    - leads: undefined
-    - library: undefined
-    - long: undefined
-    - many: undefined
-    - market: undefined
-    - my: undefined
-    - near: undefined
-    - new: undefined
-    - of: undefined
-    - old: undefined
-    - on: undefined
-    - open: undefined
-    - over: undefined
-    - people: undefined
-    - read: undefined
-    - river: undefined
-    - shop: undefined
-    - shop/store: undefined
-    - square: undefined
-    - square/market: undefined
-    - stands: undefined
-    - station: undefined
-    - street: undefined
-    - the: undefined
-    - there: undefined
-    - this: undefined
-    - to: undefined
-    - today: undefined
-    - trains: undefined
-    - warm: undefined
-    - we: undefined
-    - white: undefined
+    - a: jedin/один
+    - and: и
+    - are: byti/быти
+    - at: въ
+    - beautiful: красьнъ
+    - big: вєликъ
+    - book: книга
+    - bread: хлѣбъ
+    - bridge: мостъ
+    - buy: кꙋпити
+    - center: цєнтръ
+    - church: црькъвь
+    - city: градъ
+    - fountain: фонтанъ
+    - full: пълънъ
+    - goes: идєтъ
+    - going: идєтъ
+    - has: имаѥтъ
+    - house: домъ
+    - houses: домовє
+    - i: азъ, ꙗ
+    - in: въ
+    - is: ѥстъ
+    - lead: вєсти
+    - leads: вєдєтъ
+    - library: библиотека
+    - long: дълъгъ
+    - many: мьного
+    - market: търгъ
+    - my: мои, моꙗ, моѥ
+    - near: близъко
+    - new: новъ
+    - of: (genitive case)
+    - old: старъ
+    - on: на
+    - open: отъворѥнъ
+    - over: надъ
+    - people: людиѥ
+    - read: читати
+    - river: рѣка
+    - shop: магазинъ
+    - shop/store: магазинъ
+    - square: квадратъ
+    - square/market: търгъ
+    - stands: стоитъ
+    - station: станициꙗ
+    - street: ылица
+    - the: to
+    - there: тамъ
+    - this: сь, сꙗ, сє
+    - to: къ, на
+    - today: дьньсь
+    - trains: поѥзди
+    - warm: тєплъ
+    - we: мꙑ
+    - white: бѣлъ

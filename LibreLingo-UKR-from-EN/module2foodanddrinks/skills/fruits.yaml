@@ -31,15 +31,15 @@ New words:
     Translation: melon
 
 Phrases:
-  - Phrase: Яблуко є червоне.
+  - Phrase: Яблуко червоне.
     Translation: The apple is red.
-  - Phrase: Грушка є смачна.
+  - Phrase: Грушка смачна.
     Translation: The pear is tasty.
   - Phrase: Банан є жовтий.
     Translation: The banana is yellow.
-  - Phrase: Помаранчі є солодкі.
+  - Phrase: Помаранчі солодкі.
     Translation: The oranges are sweet.
-  - Phrase: Вишня є кисла.
+  - Phrase: Вишня кисла.
     Translation: The cherry is sour.
   - Phrase: Ягода є мала і смачна.
     Translation: The strawberry is small and tasty.
@@ -49,7 +49,7 @@ Phrases:
     Translation: The plum is dark.
   - Phrase: Лимон є кислий і жовтий.
     Translation: The lemon is sour and yellow.
-  - Phrase: Диня є велика і солодка.
+  - Phrase: Диня велика і солодка.
     Translation: The melon is big and sweet.
   - Phrase: Він готує сливовицю зі слив.
     Translation: He is preparing plum brandy from plums.
@@ -74,109 +74,96 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - банан: undefined
-    - в: undefined
-    - велика: undefined
-    - вже: undefined
-    - виноград: undefined
-    - винограднику: undefined
-    - вишня: undefined
-    - вона: undefined
-    - він: undefined
-    - готує: undefined
-    - грушка: undefined
-    - грушки: undefined
-    - дереві: undefined
-    - диня: undefined
-    - додається: undefined
-    - дозріла: undefined
-    - дозрілий: undefined
-    - дуже: undefined
-    - жовтий: undefined
-    - з: undefined
-    - зі: undefined
-    - кисла: undefined
-    - кислий: undefined
-    - купуємо: undefined
-    - лежать: undefined
-    - лимон: undefined
-    - мала: undefined
-    - ми: undefined
-    - мисці: undefined
-    - на: undefined
-    - п'є: undefined
-    - помаранча/апельсин: undefined
-    - помаранчі: undefined
-    - помаранчів: undefined
-    - росте: undefined
-    - слив: undefined
-    - слива: undefined
-    - сливовицю: undefined
-    - смачна: undefined
-    - солодка: undefined
-    - солодкий: undefined
-    - солодкі: undefined
-    - столі: undefined
-    - сік: undefined
-    - темна: undefined
-    - торбі: undefined
-    - чай: undefined
-    - червоне: undefined
-    - яблуко: undefined
-    - ягода: undefined
-    - ягоди: undefined
-    - є: undefined
-    - і: undefined
+    - в: in, at
+    - велика: big (feminine)
+    - вже: already
+    - винограднику: in the vineyard
+    - вона: she
+    - він: he
+    - готує: cooks, prepares
+    - грушки: pears
+    - дереві: on the tree
+    - додається: is added
+    - дозріла: ripe (feminine)
+    - дуже: very
+    - жовтий: yellow (masculine)
+    - з: with, from
+    - зі: with
+    - кисла: sour (feminine)
+    - купуємо: we buy
+    - лежать: they lie
+    - мала: had (feminine), small (feminine)
+    - ми: we
+    - мисці: in the bowl
+    - на: on, at
+    - п'є: drinks
+    - помаранчі: oranges
+    - помаранчів: of oranges
+    - росте: grows
+    - слив: of plums
+    - сливовицю: plum brandy (accusative)
+    - смачна: tasty (feminine)
+    - солодка: sweet (feminine)
+    - солодкі: sweet (plural)
+    - столі: on the table
+    - сік: juice
+    - темна: dark (feminine)
+    - торбі: in the bag
+    - чай: tea
+    - червоне: red (neuter)
+    - ягоди: berries
+    - є: is, are
+    - і: and
   English:
-    - a: undefined
-    - added: undefined
-    - already: undefined
-    - and: undefined
-    - apple: undefined
-    - are: undefined
-    - bag: undefined
-    - banana: undefined
-    - big: undefined
-    - bowl: undefined
-    - brandy: undefined
-    - buying: undefined
-    - cherry: undefined
-    - dark: undefined
-    - drinking: undefined
-    - from: undefined
-    - grapes: undefined
-    - grow: undefined
-    - grows: undefined
-    - he: undefined
-    - in: undefined
-    - is: undefined
-    - juice: undefined
-    - lemon: undefined
-    - lying: undefined
-    - melon: undefined
-    - on: undefined
-    - orange: undefined
-    - oranges: undefined
-    - pear: undefined
-    - pears: undefined
-    - plum: undefined
-    - plums: undefined
-    - preparing: undefined
-    - red: undefined
-    - ripe: undefined
-    - she: undefined
-    - small: undefined
-    - sour: undefined
-    - strawberries: undefined
-    - strawberry: undefined
-    - sweet: undefined
-    - table: undefined
-    - tasty: undefined
-    - tea: undefined
-    - the: undefined
-    - to: undefined
-    - tree: undefined
-    - very: undefined
-    - vineyard: undefined
-    - we: undefined
-    - yellow: undefined
+    - a: jedin/один
+    - added: додано
+    - already: вже
+    - and: і
+    - apple: яблуко
+    - are: byti/быти
+    - bag: сумка
+    - banana: банан
+    - big: великий
+    - bowl: миска
+    - brandy: бренді
+    - buying: купівля
+    - cherry: вишня
+    - dark: темний
+    - drinking: пиття
+    - from: від
+    - grapes: виноград
+    - grow: рости
+    - grows: росте
+    - he: він
+    - in: в
+    - is: є
+    - juice: сік
+    - lemon: лимон
+    - lying: лежить
+    - melon: диня
+    - on: на
+    - orange: помаранчевий
+    - oranges: апельсини
+    - pear: груша
+    - pears: груші
+    - plum: слива
+    - plums: сливи
+    - preparing: готує
+    - red: червоний
+    - ripe: стиглий
+    - she: вона
+    - small: малий
+    - sour: кислий
+    - strawberries: полуниця
+    - strawberry: полуниця
+    - sweet: солодкий
+    - table: стіл
+    - tasty: смачний
+    - tea: чай
+    - the: to
+    - to: до
+    - tree: дерево
+    - very: дуже
+    - vineyard: виноградник
+    - we: ми
+    - yellow: жовтий

@@ -58,144 +58,144 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - азъ: undefined
-    - бꙑти: undefined
-    - васъ: undefined
-    - ваша: undefined
-    - ває: undefined
-    - видимъ: undefined
-    - видиши: undefined
-    - водѫ: undefined
-    - всєгда: undefined
-    - въ: undefined
-    - въсє: undefined
-    - вєсєло: undefined
-    - вѣдѣти: undefined
-    - вѣсть: undefined
-    - вѣщи: undefined
-    - вѣщь: undefined
-    - глаголимъ: undefined
-    - глаголиши: undefined
-    - даи: undefined
-    - даръ: undefined
-    - даси: undefined
-    - даѥтъ: undefined
-    - даѥши: undefined
-    - домꙋ: undefined
-    - дълъго: undefined
-    - женꙑ: undefined
-    - знати: undefined
-    - знаѭ: undefined
-    - или: undefined
-    - имаши: undefined
-    - кава: undefined
-    - кого: undefined
-    - комꙋ: undefined
-    - кости: undefined
-    - красьнє: undefined
-    - кътори: undefined
-    - любитъ: undefined
-    - лєжѧтъ: undefined
-    - мьнѣ: undefined
-    - мєнє: undefined
-    - нами: undefined
-    - ничьто: undefined
-    - нє: undefined
-    - нємаѥтъ: undefined
-    - о: undefined
-    - онъ: undefined
-    - оужє: undefined
-    - покои: undefined
-    - приꙗтєльѥвъ: undefined
-    - пьсꙋ: undefined
-    - самъ: undefined
-    - собоѭ: undefined
-    - собѣ: undefined
-    - спати: undefined
-    - спокойноѥго: undefined
-    - съ: undefined
-    - съна: undefined
-    - сънъ: undefined
-    - сь: undefined
-    - сє: undefined
-    - сѧ: undefined
-    - сѫтъ: undefined
-    - тобоѭ: undefined
-    - тобѣ: undefined
-    - того: undefined
-    - тои: undefined
-    - томъ: undefined
-    - томꙋ: undefined
-    - тѫ: undefined
-    - тꙑ: undefined
-    - тꙑмъ: undefined
-    - тꙑхъ: undefined
-    - чьмь: undefined
-    - чьсєго: undefined
-    - ѥѩ: undefined
-    - ꙗ: undefined
+    - азъ: I
+    - бꙑти: to be
+    - васъ: you (plural, accusative/genitive)
+    - ваша: your (feminine)
+    - ває: (this word is unclear, could be a typo or a rare form)
+    - видимъ: we see
+    - видиши: you (singular) see
+    - водѫ: water (accusative)
+    - всєгда: always
+    - въ: in, at
+    - въсє: everything
+    - вєсєло: cheerfully
+    - вѣдѣти: to know
+    - вѣсть: news
+    - вѣщи: things
+    - вѣщь: thing
+    - глаголимъ: we speak
+    - глаголиши: you (singular) speak
+    - даи: give (imperative)
+    - даръ: gift
+    - даси: you (singular) will give
+    - даѥтъ: he/she/it gives
+    - даѥши: you (singular) give
+    - домꙋ: to the house
+    - дълъго: long
+    - женꙑ: of the wife
+    - знати: to know
+    - знаѭ: I know
+    - или: or
+    - имаши: you (singular) have
+    - кава: coffee
+    - кого: whom
+    - комꙋ: to whom
+    - кости: bones
+    - красьнє: beautifully
+    - кътори: which
+    - любитъ: he/she/it loves
+    - лєжѧтъ: they are lying down
+    - мьнѣ: to me
+    - мєнє: me
+    - нами: with us
+    - ничьто: nothing
+    - нє: no, not
+    - нємаѥтъ: he/she/it doesn't have
+    - о: about, on
+    - онъ: he
+    - оужє: already
+    - покои: room
+    - приꙗтєльѥвъ: of the friend
+    - пьсꙋ: to the dog
+    - самъ: alone, self
+    - собоѭ: with oneself
+    - собѣ: to oneself
+    - спати: to sleep
+    - спокойноѥго: of calm
+    - съ: with
+    - съна: of a dream
+    - сънъ: dream, sleep
+    - сь: this
+    - сє: this
+    - сѧ: oneself (reflexive pronoun)
+    - сѫтъ: they are
+    - тобоѭ: with you
+    - тобѣ: to you
+    - того: of that
+    - тои: that
+    - томъ: in that
+    - томꙋ: to that
+    - тѫ: that (accusative feminine)
+    - тꙑ: you (singular)
+    - тꙑмъ: with that
+    - тꙑхъ: of those
+    - чьмь: with what
+    - чьсєго: of what
+    - ѥѩ: her
+    - ꙗ: I
   English:
-    - a: undefined
-    - about: undefined
-    - alone: undefined
-    - always: undefined
-    - am: undefined
-    - are: undefined
-    - at: undefined
-    - be: undefined
-    - beautiful: undefined
-    - bones: undefined
-    - cheerful: undefined
-    - coffee: undefined
-    - do: undefined
-    - dog: undefined
-    - don't: undefined
-    - dream: undefined
-    - everything: undefined
-    - for: undefined
-    - friends: undefined
-    - gift: undefined
-    - give: undefined
-    - going: undefined
-    - have: undefined
-    - he: undefined
-    - her: undefined
-    - here: undefined
-    - himself: undefined
-    - house: undefined
-    - i: undefined
-    - is: undefined
-    - isn't: undefined
-    - it: undefined
-    - know: undefined
-    - known: undefined
-    - likes: undefined
-    - long: undefined
-    - me: undefined
-    - no: undefined
-    - not: undefined
-    - nothing: undefined
-    - or: undefined
-    - others: undefined
-    - peaceful: undefined
-    - see: undefined
-    - sleep: undefined
-    - stops: undefined
-    - talking: undefined
-    - talt: undefined
-    - that: undefined
-    - these: undefined
-    - thing: undefined
-    - this: undefined
-    - those: undefined
-    - time: undefined
-    - to: undefined
-    - troubling: undefined
-    - us: undefined
-    - water: undefined
-    - what: undefined
-    - who: undefined
-    - with: undefined
-    - women: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - about: о
+    - alone: самъ
+    - always: всєгда
+    - am: ѥсмь
+    - are: byti/быти
+    - at: въ
+    - be: бꙑти
+    - beautiful: красьнъ
+    - bones: кости
+    - cheerful: вєсєлъ
+    - coffee: кава
+    - do: дѣлати
+    - dog: пєсъ
+    - don't: (нє + verb)
+    - dream: сънъ
+    - everything: въсє
+    - for: за, на
+    - friends: приꙗтєли
+    - gift: даръ
+    - give: дати
+    - going: идєтъ
+    - have: имати
+    - he: онъ
+    - her: ѥѩ
+    - here: тꙋ
+    - himself: сѧ
+    - house: домъ
+    - i: азъ, ꙗ
+    - is: ѥстъ
+    - isn't: нє ѥстъ
+    - it: ono
+    - know: знати, вѣдѣти
+    - known: знаѥмъ
+    - likes: любитъ
+    - long: дълъгъ
+    - me: мєнє
+    - no: нє
+    - not: нє
+    - nothing: ничьто
+    - or: или
+    - others: ини
+    - peaceful: мирьнъ
+    - see: видѣти
+    - sleep: спати
+    - stops: (no direct equivalent)
+    - talking: бєсѣдꙋѥтъ
+    - talt: (unclear word)
+    - that: тъ, та, то
+    - these: си
+    - thing: вѣщь
+    - this: сь, сꙗ, сє
+    - those: ти, тꙑ
+    - time: врѣмѧ, часъ
+    - to: къ, на
+    - troubling: (no direct equivalent)
+    - us: насъ
+    - water: вода
+    - what: чьто
+    - who: къто
+    - with: съ
+    - women: женꙑ
+    - you: тꙑ, вꙑ
+    - your: твои

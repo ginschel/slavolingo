@@ -72,122 +72,115 @@ Phrases:
 
 Mini-dictionary:
   Upper Sorbian:
-    - a: undefined
-    - drastu: undefined
-    - dźenik: undefined
-    - film: undefined
-    - gitaru: undefined
-    - hladamy: undefined
-    - hladać: undefined
-    - hladaš: undefined
-    - hra: undefined
-    - hrajemy: undefined
-    - hrać: undefined
-    - ja: undefined
-    - knihu: undefined
-    - koparsku: undefined
-    - list: undefined
-    - mnoho: undefined
-    - molować: undefined
-    - molujemy: undefined
-    - moluju: undefined
-    - muziku: undefined
-    - my: undefined
-    - na: undefined
-    - pisać: undefined
-    - piše: undefined
-    - posłuchaja: undefined
-    - posłuchać: undefined
-    - pěsnje: undefined
-    - přećelemi: undefined
-    - radio: undefined
-    - romany: undefined
-    - rěče: undefined
-    - sedźeć: undefined
-    - seriju: undefined
-    - skupinu: undefined
-    - so: undefined
-    - spěwa: undefined
-    - spěwam: undefined
-    - spěwać: undefined
-    - sydźi: undefined
-    - tancuju: undefined
-    - tanćować: undefined
-    - tule: undefined
-    - ty: undefined
-    - wobraz: undefined
-    - wona: undefined
-    - woni: undefined
-    - wuknjemy: undefined
-    - wuknjeće: undefined
-    - wuknyć: undefined
-    - wy: undefined
-    - wón: undefined
-    - z: undefined
-    - ze: undefined
-    - čita: undefined
-    - čitam: undefined
-    - čitać: undefined
-    - čitaš: undefined
-    - šach: undefined
-    - šije: undefined
-    - šiješ: undefined
-    - šiju: undefined
-    - šić: undefined
+    - a: and
+    - drastu: costume
+    - dźenik: diary
+    - film: film
+    - gitaru: guitar
+    - hladamy: we look
+    - hladaš: you look
+    - hra: plays
+    - hrajemy: we play
+    - ja: i
+    - knihu: book
+    - koparsku: football
+    - list: letter
+    - mnoho: much
+    - molujemy: we paint
+    - moluju: i paint
+    - muziku: music
+    - my: we
+    - na: on
+    - pisać: to write
+    - piše: writes
+    - posłuchaja: they listen
+    - pěsnje: songs
+    - přećelemi: with friends
+    - radio: radio
+    - romany: romans
+    - rěče: speaks
+    - sedźeć: to sit
+    - seriju: series
+    - skupinu: group
+    - so: oneself
+    - spěwa: sings
+    - spěwam: i sing
+    - sydźi: sits
+    - tancuju: i dance
+    - tule: here
+    - ty: you
+    - wobraz: picture
+    - wona: she
+    - woni: they
+    - wuknjemy: we learn
+    - wuknjeće: you learn
+    - wuknyć: to learn
+    - wy: you
+    - wón: he
+    - z: with
+    - ze: from
+    - čita: reads
+    - čitam: i read
+    - čitaš: you read
+    - šach: chess
+    - šije: sews
+    - šiješ: you sew
+    - šiju: i sew
+    - šić: to sew
   English:
-    - a: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - book: undefined
-    - chess: undefined
-    - clothes: undefined
-    - dance: undefined
-    - diary: undefined
-    - do: undefined
-    - film: undefined
-    - football: undefined
-    - friends: undefined
-    - group: undefined
-    - guitar: undefined
-    - he: undefined
-    - here: undefined
-    - i: undefined
-    - is: undefined
-    - language: undefined
-    - learn: undefined
-    - learning: undefined
-    - letters: undefined
-    - listen: undefined
-    - listening: undefined
-    - lot: undefined
-    - music: undefined
-    - novels: undefined
-    - paint: undefined
-    - painting: undefined
-    - picture: undefined
-    - pictures: undefined
-    - play: undefined
-    - playing: undefined
-    - radio: undefined
-    - read: undefined
-    - reading: undefined
-    - series: undefined
-    - sew: undefined
-    - sewing: undefined
-    - she: undefined
-    - sing: undefined
-    - singing: undefined
-    - sit: undefined
-    - sitting: undefined
-    - songs: undefined
-    - the: undefined
-    - they: undefined
-    - to: undefined
-    - watch: undefined
-    - watching: undefined
-    - we: undefined
-    - with: undefined
-    - write: undefined
-    - writing: undefined
-    - you: undefined
+    - a: jedin/один
+    - am: sym
+    - and: a
+    - are: byti/быти
+    - book: kniha
+    - chess: šach
+    - clothes: drasta
+    - dance: tanćować
+    - diary: dźenik
+    - do: činić
+    - film: film
+    - football: koparska
+    - friends: přećeljo
+    - group: skupinu
+    - guitar: gitaru
+    - he: wón
+    - here: tu
+    - i: ja
+    - is: je
+    - language: rěč
+    - learn: wuknyć
+    - learning: wuknje
+    - letters: list
+    - listen: posłuchać
+    - listening: posłuchaja
+    - lot: mnoho
+    - music: muzika
+    - novels: romany
+    - paint: molować
+    - painting: moluje
+    - picture: wobraz
+    - pictures: wobrazy
+    - play: hrać
+    - playing: hra
+    - radio: radio
+    - read: čitać
+    - reading: čita
+    - series: seriju
+    - sew: šić
+    - sewing: šije
+    - she: wona
+    - sing: spěwać
+    - singing: spěwa
+    - sit: sedźeć
+    - sitting: sydźenje
+    - songs: pěsnje
+    - the: to
+    - they: woni
+    - to: k
+    - watch: wobhladować
+    - watching: wobhladowuje
+    - we: my
+    - with: z
+    - write: pisać
+    - writing: pisaju
+    - you: ty

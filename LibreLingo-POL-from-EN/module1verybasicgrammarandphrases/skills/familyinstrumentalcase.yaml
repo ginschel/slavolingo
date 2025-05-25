@@ -9,7 +9,7 @@ New words:
     Translation: grandfather
   - Word: babcia
     Translation: grandmother
-  - Word: ciotka
+  - Word: ciocia
     Translation: aunt
   - Word: wnuk
     Translation: grandson
@@ -43,11 +43,11 @@ Phrases:
     Translation: He is your father
   - Phrase: Ona idzie z matką.
     Translation: She is going with her mother.
-  - Phrase: On mówi z dziadkiem.
+  - Phrase: On rozmawia z dziadkiem.
     Translation: He is talking with his grandfather.
   - Phrase: My bawimy się z naszymi dziećmi.
     Translation: We are playing with our children.
-  - Phrase: Oni jadą z ciotką.
+  - Phrase: Oni jadą z ciocią.
     Translation: They are going with their aunt.
   - Phrase: Rozmawiam z twoją siostrą.
     Translation: I am talking with your sister.
@@ -73,130 +73,114 @@ Phrases:
     Translation: We are going with our daughter.
   - Phrase: Oni tu są z dziadkiem.
     Translation: They are here with their grandfather.
-  - Phrase: On żyje z ciotką i ze stryjem.
+  - Phrase: On żyje z ciocią i ze stryjem.
     Translation: He lives with his aunt and uncle.
   - Phrase: Ona rozmawia z wnukiem często.
     Translation: She talks with her grandson often.
 
 Mini-dictionary:
   Polish:
-    - babcia: undefined
-    - babcią: undefined
-    - bawi: undefined
-    - bawimy: undefined
-    - brat: undefined
-    - bratem: undefined
-    - braćmi: undefined
-    - ciotka: undefined
-    - ciotką: undefined
-    - często: undefined
-    - córka: undefined
-    - córką: undefined
-    - do: undefined
-    - dom: undefined
-    - dziadek: undefined
-    - dziadkiem: undefined
-    - dziećmi: undefined
-    - herbaty: undefined
-    - i: undefined
-    - idzie: undefined
-    - idziemy: undefined
-    - idziesz: undefined
-    - idę: undefined
-    - jadą: undefined
-    - jest: undefined
-    - kim: undefined
-    - lepsze: undefined
-    - matka: undefined
-    - matką: undefined
-    - moim: undefined
-    - moją: undefined
-    - my: undefined
-    - mówi: undefined
-    - na: undefined
-    - naszymi: undefined
-    - ojcem: undefined
-    - ojciec: undefined
-    - on: undefined
-    - ona: undefined
-    - oni: undefined
-    - parku: undefined
-    - picie: undefined
-    - rodzina: undefined
-    - rodziną: undefined
-    - rozmawia: undefined
-    - rozmawiam: undefined
-    - siostrą: undefined
-    - się: undefined
-    - spacer: undefined
-    - stryj: undefined
-    - stryjem: undefined
-    - syn: undefined
-    - synem: undefined
-    - są: undefined
-    - to: undefined
-    - tu: undefined
-    - twoim: undefined
-    - twoją: undefined
-    - wnuczka: undefined
-    - wnuczką: undefined
-    - wnuk: undefined
-    - wnukiem: undefined
-    - z: undefined
-    - ze: undefined
-    - żyje: undefined
+    - babcią: grandmother
+    - bawi: plays
+    - bawimy: play
+    - bratem: brother
+    - braćmi: brothers
+    - ciocią: aunt
+    - często: often
+    - córką: daughter
+    - do: to
+    - dom: home
+    - dziadkiem: grandfather
+    - dziećmi: children
+    - herbaty: tea
+    - i: and
+    - idziesz: you go
+    - idę: I go
+    - jadą: they drive
+    - jest: is
+    - kim: who
+    - lepsze: better
+    - matką: mother
+    - moim: my
+    - moją: my
+    - my: we
+    - na: on
+    - naszymi: our
+    - ojcem: father
+    - on: he
+    - ona: she
+    - oni: they
+    - parku: park
+    - picie: drinking
+    - rodziną: family
+    - rozmawia: talks
+    - rozmawiam: I talk
+    - siostrą: sister
+    - się: oneself
+    - spacer: walk
+    - stryjem: uncle
+    - synem: son
+    - są: are
+    - to: this
+    - tu: here
+    - twoim: your
+    - twoją: your
+    - wnuczką: granddaughter
+    - wnukiem: grandson
+    - z: with
+    - ze: from
   English:
-    - a: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - aunt: undefined
-    - better: undefined
-    - brother: undefined
-    - brothers: undefined
-    - children: undefined
-    - daughter: undefined
-    - drinking: undefined
-    - family: undefined
-    - father: undefined
-    - for: undefined
-    - go: undefined
-    - goes: undefined
-    - going: undefined
-    - granddaughter: undefined
-    - grandfather: undefined
-    - grandmother: undefined
-    - grandson: undefined
-    - he: undefined
-    - her: undefined
-    - here: undefined
-    - his: undefined
-    - house: undefined
-    - i: undefined
-    - is: undefined
-    - lives: undefined
-    - mother: undefined
-    - my: undefined
-    - often: undefined
-    - our: undefined
-    - park: undefined
-    - playing: undefined
-    - she: undefined
-    - sister: undefined
-    - son: undefined
-    - speaks: undefined
-    - talking: undefined
-    - talks: undefined
-    - tea: undefined
-    - the: undefined
-    - their: undefined
-    - they: undefined
-    - this: undefined
-    - to: undefined
-    - uncle: undefined
-    - walk: undefined
-    - we: undefined
-    - who: undefined
-    - with: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - am: jestem
+    - and: i
+    - are: byti/быти
+    - aunt: ciocia
+    - better: lepsze
+    - brother: brat
+    - brothers: braćmi
+    - children: dzieci
+    - daughter: córka
+    - drinking: picie
+    - family: rodzina
+    - father: ojciec
+    - for: dla
+    - go: iść
+    - goes: idzie
+    - going: idzie
+    - granddaughter: wnuczka
+    - grandfather: dziadek
+    - grandmother: babcia
+    - grandson: wnuk
+    - he: on
+    - her: jej
+    - here: tu
+    - his: jego
+    - house: dom
+    - i: ja
+    - is: jest
+    - lives: żyje
+    - mother: matka
+    - my: mój
+    - often: często
+    - our: nasz
+    - park: park
+    - playing: granie
+    - she: ona
+    - sister: siostra
+    - son: syn
+    - speaks: mówi
+    - talking: rozmawianie
+    - talks: rozmawia
+    - tea: herbata
+    - the: to
+    - their: ich
+    - they: oni
+    - this: to
+    - to: do
+    - uncle: stryj
+    - walk: spacer
+    - we: my
+    - who: kto
+    - with: z
+    - you: ty
+    - your: twój

@@ -37,9 +37,9 @@ New words:
 Phrases:
   - Phrase: Czuję się radośnie dzisiaj.
     Translation: We feel joyful this week.
-  - Phrase: Żałośnie/Smutno on mówił.
+  - Phrase: Żałośnie on mówił.
     Translation: He spoke sadly.
-  - Phrase: On gniewnie/źle każe mu pracować.
+  - Phrase: On gniewnie każe jemu pracować.
     Translation: He angrily tells him to work.
   - Phrase: Miłość to silna emocja.
     Translation: Love is a strong emotion.
@@ -67,7 +67,7 @@ Phrases:
     Translation: Fear is inside us.
   - Phrase: Przestraszony on uciekał.
     Translation: He was frightened and ran away.
-  - Phrase: Wstyd jest dużo silny.
+  - Phrase: Wstyd jest bardzo silny.
     Translation: Shame is very strong.
   - Phrase: Radośnie szedł do domu.
     Translation: He joyfully went home.
@@ -78,158 +78,143 @@ Phrases:
 
 Mini-dictionary:
   Polish:
-    - chcemy: undefined
-    - cierpieć: undefined
-    - czarna: undefined
-    - czuje: undefined
-    - czujemy: undefined
-    - czuję: undefined
-    - czuć: undefined
-    - dla: undefined
-    - do: undefined
-    - domu: undefined
-    - drżenie/strach: undefined
-    - dumnie: undefined
-    - dumny: undefined
-    - duszy: undefined
-    - dużo: undefined
-    - dzisiaj: undefined
-    - emocja: undefined
-    - gniew: undefined
-    - gniewnie/źle: undefined
-    - gniewny/zły: undefined
-    - idzie: undefined
-    - im: undefined
-    - ja: undefined
-    - jemu: undefined
-    - jest: undefined
-    - każe: undefined
-    - kiedy: undefined
-    - kochamy: undefined
-    - mam: undefined
-    - miłość: undefined
-    - mu: undefined
-    - my: undefined
-    - mówił: undefined
-    - na: undefined
-    - napełniło: undefined
-    - nas: undefined
-    - naturalna: undefined
-    - niego: undefined
-    - on: undefined
-    - ona: undefined
-    - patrzy: undefined
-    - pokazuje: undefined
-    - pracować: undefined
-    - pracę: undefined
-    - przestraszony: undefined
-    - radosny: undefined
-    - radośnie: undefined
-    - radość: undefined
-    - reakcja: undefined
-    - serce: undefined
-    - sercu: undefined
-    - silna: undefined
-    - silny: undefined
-    - się: undefined
-    - spokój: undefined
-    - strach: undefined
-    - swoją: undefined
-    - swój: undefined
-    - szedł: undefined
-    - to: undefined
-    - tylko: undefined
-    - uciekać: undefined
-    - uciekał: undefined
-    - ukrywa: undefined
-    - ukrywać: undefined
-    - w: undefined
-    - ważny: undefined
-    - wesoło: undefined
-    - wesoły: undefined
-    - wewnątrz: undefined
-    - wstyd: undefined
-    - wstydliwie: undefined
-    - wstydliwy: undefined
-    - z: undefined
-    - zazdrośnie: undefined
-    - zazdrość: undefined
-    - żal: undefined
-    - żałosny/smutny: undefined
-    - żałośnie/smutno: undefined
+    - bardzo: very
+    - chcemy: we want
+    - cierpieć: suffer
+    - czarna: black
+    - czuje: feels
+    - czujemy: we feel
+    - czuję: I feel
+    - czuć: feel
+    - dla: for
+    - do: to
+    - domu: home
+    - dumnie: proudly
+    - duszy: soul
+    - dzisiaj: today
+    - emocja: emotion
+    - gniew: anger
+    - gniewnie: angrily
+    - idzie: goes
+    - im: them
+    - ja: I
+    - jemu: him
+    - jest: is
+    - każe: orders
+    - kiedy: when
+    - kochamy: we love
+    - mam: I have
+    - my: we
+    - mówił: said
+    - na: on
+    - napełniło: filled
+    - nas: us
+    - naturalna: natural
+    - niego: him
+    - on: he
+    - ona: she
+    - patrzy: looks
+    - pokazuje: shows
+    - pracować: work
+    - pracę: work
+    - radośnie: joyfully
+    - radość: joy
+    - reakcja: reaction
+    - serce: heart
+    - sercu: heart
+    - silna: strong
+    - silny: strong
+    - się: oneself
+    - strach: fear
+    - swoją: one's own
+    - swój: one's own
+    - szedł: went
+    - to: this
+    - tylko: only
+    - uciekał: ran away
+    - ukrywa: hides
+    - w: in
+    - ważny: important
+    - wesoło: cheerfully
+    - wewnątrz: inside
+    - wstydliwie: shyly
+    - z: with
+    - zazdrośnie: enviously
+    - żal: regret
+    - żałośnie: pitifully
   English:
-    - a: undefined
-    - and: undefined
-    - anger: undefined
-    - angrily: undefined
-    - angry: undefined
-    - ashamed: undefined
-    - away: undefined
-    - cheerful: undefined
-    - comes: undefined
-    - dark: undefined
-    - emotion: undefined
-    - envy: undefined
-    - fear: undefined
-    - feel: undefined
-    - feels: undefined
-    - filled: undefined
-    - for: undefined
-    - frightened: undefined
-    - from: undefined
-    - have: undefined
-    - he: undefined
-    - heart: undefined
-    - her: undefined
-    - hide: undefined
-    - hides: undefined
-    - him: undefined
-    - his: undefined
-    - home: undefined
-    - i: undefined
-    - important: undefined
-    - in: undefined
-    - inside: undefined
-    - is: undefined
-    - jealous: undefined
-    - joy: undefined
-    - joyful: undefined
-    - joyfully: undefined
-    - love: undefined
-    - my: undefined
-    - natural: undefined
-    - of: undefined
-    - only: undefined
-    - peace: undefined
-    - peaceful: undefined
-    - proud: undefined
-    - proudly: undefined
-    - ran: undefined
-    - reaction: undefined
-    - run: undefined
-    - sad: undefined
-    - sadly: undefined
-    - sadness: undefined
-    - shame: undefined
-    - she: undefined
-    - shows: undefined
-    - soul: undefined
-    - spoke: undefined
-    - strong: undefined
-    - suffer: undefined
-    - tells: undefined
-    - the: undefined
-    - them: undefined
-    - this: undefined
-    - to: undefined
-    - tremor: undefined
-    - us: undefined
-    - very: undefined
-    - was: undefined
-    - we: undefined
-    - week: undefined
-    - went: undefined
-    - when: undefined
-    - with: undefined
-    - within: undefined
-    - work: undefined
+    - a: jedin/один
+    - and: i
+    - anger: gniew
+    - angrily: gniewnie
+    - angry: gniewny/zły
+    - ashamed: wstydliwy
+    - away: daleko
+    - cheerful: wesoły
+    - comes: przychodzi
+    - dark: ciemny
+    - emotion: emocja
+    - envy: zazdrość
+    - fear: strach
+    - feel: czuć
+    - feels: czuje
+    - filled: napełniona
+    - for: dla
+    - frightened: przestraszony
+    - from: z
+    - have: mieć
+    - he: on
+    - heart: serce
+    - her: jej
+    - hide: ukrywać
+    - hides: ukrywa
+    - him: jemu
+    - his: jego
+    - home: dom
+    - i: ja
+    - important: ważny
+    - in: w
+    - inside: wewnątrz
+    - is: jest
+    - jealous: zazdrosny
+    - joy: radość
+    - joyful: radosny
+    - joyfully: radośnie
+    - love: miłość
+    - my: mój
+    - natural: naturalna
+    - of: z
+    - only: tylko
+    - peace: spokój
+    - peaceful: spokojny
+    - proud: dumny
+    - proudly: dumnie
+    - ran: pobiegł
+    - reaction: reakcja
+    - run: biegać
+    - sad: smutny
+    - sadly: smutno
+    - sadness: smutek
+    - shame: wstyd
+    - she: ona
+    - shows: pokazuje
+    - soul: dusza
+    - spoke: mówił
+    - strong: silny
+    - suffer: cierpieć
+    - tells: mówi
+    - the: to
+    - them: ich
+    - this: to
+    - to: do
+    - tremor: drżenie/strach
+    - us: nas
+    - very: bardzo
+    - was: był
+    - we: my
+    - week: tydzień
+    - went: poszedł
+    - when: kiedy
+    - with: z
+    - within: wewnątrz
+    - work: praca

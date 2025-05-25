@@ -72,124 +72,117 @@ Phrases:
 
 Mini-dictionary:
   Kashubian:
-    - balë: undefined
-    - czëtac: undefined
-    - czëtóm: undefined
-    - czëtô: undefined
-    - czëtôsz: undefined
-    - drastã: undefined
-    - dzénnik: undefined
-    - film: undefined
-    - gitarze: undefined
-    - grac: undefined
-    - grajemë: undefined
-    - grô: undefined
-    - i: undefined
-    - ja: undefined
-    - jãzëka: undefined
-    - knégã: undefined
-    - lëstë: undefined
-    - malowac: undefined
-    - malëjemë: undefined
-    - malëjã: undefined
-    - më: undefined
-    - mùzëkã: undefined
-    - na: undefined
-    - on: undefined
-    - pisac: undefined
-    - pisze: undefined
-    - przëjacelama: undefined
-    - radio: undefined
-    - romani: undefined
-    - sedzec: undefined
-    - sedzy: undefined
-    - serëjã: undefined
-    - skùpą: undefined
-    - spiéwac: undefined
-    - spiéwkã: undefined
-    - spiéwóm: undefined
-    - spiéwô: undefined
-    - szachë: undefined
-    - szaic: undefined
-    - szaje: undefined
-    - szajiesz: undefined
-    - szajã: undefined
-    - sã: undefined
-    - słëchac: undefined
-    - słëchają: undefined
-    - tańcowac: undefined
-    - tańcëjã: undefined
-    - tu: undefined
-    - të: undefined
-    - w: undefined
-    - wiele: undefined
-    - wë: undefined
-    - z: undefined
-    - ze: undefined
-    - òbraz: undefined
-    - òbrazë: undefined
-    - òbzérac: undefined
-    - òbzérómë: undefined
-    - òbzérôsz: undefined
-    - òna: undefined
-    - òni: undefined
-    - ùczimë: undefined
-    - ùczëc: undefined
-    - ùczëce: undefined
+    - balë: balls
+    - czëtóm: I read
+    - czëtô: reads
+    - czëtôsz: you read
+    - drastã: cloth
+    - dzénnik: newspaper
+    - film: film
+    - gitarze: guitar
+    - grajemë: we play
+    - grô: plays
+    - i: and
+    - ja: yes
+    - jãzëka: language
+    - knégã: book
+    - lëstë: leaves
+    - malëjemë: we paint
+    - malëjã: I paint
+    - më: we
+    - mùzëkã: music
+    - na: on
+    - on: he
+    - pisac: to write
+    - pisze: writes
+    - przëjacelama: friends
+    - radio: radio
+    - romani: Gypsy
+    - sedzec: to sit
+    - sedzy: sits
+    - serëjã: I believe
+    - skùpą: expensive
+    - spiéwkã: song
+    - spiéwóm: I sing
+    - spiéwô: sings
+    - szachë: chess
+    - szaic: to piss
+    - szaje: pisses
+    - szajiesz: you piss
+    - szajã: I piss
+    - sã: yourself
+    - słëchają: they listen
+    - tańcëjã: I dance
+    - tu: here
+    - të: you
+    - w: in
+    - wiele: many
+    - wë: you
+    - z: with
+    - ze: with
+    - òbraz: image
+    - òbrazë: images
+    - òbzérómë: we look at
+    - òbzérôsz: you look at
+    - òna: she
+    - òni: they
+    - ùczimë: we learn
+    - ùczëc: to teach
+    - ùczëce: you teach
   English:
-    - a: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - book: undefined
-    - chess: undefined
-    - clothes: undefined
-    - dance: undefined
-    - diary: undefined
-    - do: undefined
-    - film: undefined
-    - football: undefined
-    - friends: undefined
-    - group: undefined
-    - guitar: undefined
-    - he: undefined
-    - here: undefined
-    - i: undefined
-    - is: undefined
-    - language: undefined
-    - learn: undefined
-    - learning: undefined
-    - letters: undefined
-    - listen: undefined
-    - listening: undefined
-    - lot: undefined
-    - music: undefined
-    - novels: undefined
-    - paint: undefined
-    - painting: undefined
-    - picture: undefined
-    - pictures: undefined
-    - play: undefined
-    - playing: undefined
-    - radio: undefined
-    - read: undefined
-    - reading: undefined
-    - series: undefined
-    - sew: undefined
-    - sewing: undefined
-    - she: undefined
-    - sing: undefined
-    - singing: undefined
-    - sit: undefined
-    - sitting: undefined
-    - songs: undefined
-    - the: undefined
-    - they: undefined
-    - to: undefined
-    - watch: undefined
-    - watching: undefined
-    - we: undefined
-    - with: undefined
-    - write: undefined
-    - writing: undefined
-    - you: undefined
+    - a: jedin/один
+    - am: jem
+    - and: ë
+    - are: byti/быти
+    - book: knéga
+    - chess: szachë
+    - clothes: òblaczenié
+    - dance: tuńcowac
+    - diary: dodów
+    - do: robic
+    - film: film
+    - football: futbal
+    - friends: kamradë
+    - group: grëpa
+    - guitar: gitara
+    - he: on
+    - here: tu
+    - i: jô
+    - is: je
+    - language: jãzëk
+    - learn: ùczëc
+    - learning: ùczenié
+    - letters: lëtrowie
+    - listen: słëchac
+    - listening: słëchanié
+    - lot: wiele
+    - music: mùzyka
+    - novels: nowelë
+    - paint: malowac
+    - painting: malowanié
+    - picture: òbrôz
+    - pictures: òbrôzë
+    - play: grac
+    - playing: granié
+    - radio: radio
+    - read: czëtac
+    - reading: czëtanié
+    - series: seriô
+    - sew: szëc
+    - sewing: szëcé
+    - she: òna
+    - sing: spiéwac
+    - singing: spiéwanié
+    - sit: sedzec
+    - sitting: sedzenié
+    - songs: piesni
+    - the: to
+    - they: òni
+    - to: do
+    - watch: òbzërac
+    - watching: òbzëranie
+    - we: më
+    - with: z
+    - write: pisac
+    - writing: pisanié
+    - you: të

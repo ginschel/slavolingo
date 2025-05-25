@@ -5,7 +5,7 @@ The **Instrumental case** primarily indicates *with whom* or *with what* an acti
 * **Nouns:**
     * *Singular Masculine/Neuter:* ending **-em**. (e.g., z brat**em** - with a brother, z nauczyciel**em** - with a teacher, z miast**em** - with a city, z pol**em** - with a field)
     * *Singular Feminine:* ending **-ą**. (e.g., z siostr**ą** - with a sister, z ziemi**ą** - with the earth)
-    * *Plural (all genders):* ending **-ami**. (e.g., z brat**ami** - with brothers, z nauczyciel**ami** - with teachers, z siostr**ami** - with sisters, z miast**ami** - with cities)
+    * *Plural (all genders):* ending **-ami**. (e.g., z student**ami** - with students, z nauczyciel**ami** - with teachers, z siostr**ami** - with sisters, z miast**ami** - with cities)
 * **Adjectives:**
     * *Singular Masculine/Neuter:* ending **-ym** or **-im**. (e.g., z dobrym bratem - with a good brother, z ostatn**im** nauczycielem - with the last teacher)
     * *Singular Feminine:* ending **-ą**. (e.g., z dobrą siostrą - with a good sister, z ostatni**ą** ziemi**ą** - with the last piece of land)

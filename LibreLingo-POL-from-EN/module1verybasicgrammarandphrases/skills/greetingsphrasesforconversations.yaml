@@ -5,7 +5,7 @@ Skill:
 New words:
   - Word: pozdrowienie
     Translation: greeting
-  - Word: zdrowy/cześć
+  - Word: cześć
     Translation: healthy/hello
   - Word: rozmowa
     Translation: conversation
@@ -45,13 +45,13 @@ New words:
     Translation: let's go
 
 Phrases:
-  - Phrase: Dzień dobry (rano)!
+  - Phrase: Dzień dobry!
     Translation: Good morning!
   - Phrase: Dobry wieczór!
     Translation: Good evening!
   - Phrase: Dobry dzień!
     Translation: Good day!
-  - Phrase: Dobra noc!
+  - Phrase: Dobranoc!
     Translation: Good night!
   - Phrase: Jak się masz?
     Translation: How are you?
@@ -65,11 +65,11 @@ Phrases:
     Translation: Excuse me, I don't understand.
   - Phrase: Cześć (na powitanie)!
     Translation: Greetings!
-  - Phrase: Cześć (na powitanie)!
+  - Phrase: Witaj (na powitanie)!
     Translation: Hello!
   - Phrase: Dzień dobry, jak się masz?
     Translation: Good day, how are you?
-  - Phrase: Jesteś zdrowy/zdrowa?
+  - Phrase: Jesteś zdrowy?
     Translation: Are you healthy?
   - Phrase: Witaj/Witajcie!
     Translation: Welcome!
@@ -126,132 +126,113 @@ Phrases:
 
 Mini-dictionary:
   Polish:
-    - a: undefined
-    - bardzo: undefined
-    - bartek: undefined
-    - bogiem: undefined
-    - być: undefined
-    - chodź: undefined
-    - ci: undefined
-    - co: undefined
-    - cześć: undefined
-    - czy: undefined
-    - dawaj: undefined
-    - dobra: undefined
-    - dobry: undefined
-    - dobrze: undefined
-    - dzień: undefined
-    - dziękuję: undefined
-    - gotowy/gotowa: undefined
-    - ja: undefined
-    - jak: undefined
-    - jest: undefined
-    - jesteś: undefined
-    - lepiej: undefined
-    - lepsze: undefined
-    - mam: undefined
-    - masz: undefined
-    - może: undefined
-    - możliwe: undefined
-    - można: undefined
-    - na: undefined
-    - nazywam: undefined
-    - nazywasz: undefined
-    - nie: undefined
-    - niedobrze: undefined
-    - noc: undefined
-    - potwierdzenie: undefined
-    - powitanie: undefined
-    - powtórz: undefined
-    - pozdrowienie: undefined
-    - pozdrów: undefined
-    - przepraszam: undefined
-    - rano: undefined
-    - rozmowa: undefined
-    - rozmowę: undefined
-    - rozumiem: undefined
-    - siostrę: undefined
-    - się: undefined
-    - szkoda: undefined
-    - tak: undefined
-    - też: undefined
-    - to: undefined
-    - twoją: undefined
-    - ty: undefined
-    - wieczór: undefined
-    - wiem: undefined
-    - witaj/witajcie: undefined
-    - wybacz: undefined
-    - z: undefined
-    - za: undefined
-    - zdrowie: undefined
-    - zdrowy/cześć: undefined
-    - zdrowy/zdrowa: undefined
-    - znaczy: undefined
-    - zrozumiałem: undefined
+    - a: a
+    - bardzo: very
+    - bartek: Bartek
+    - bogiem: God
+    - być: be
+    - chodź: come
+    - ci: these
+    - czy: whether
+    - dobranoc: goodnight
+    - dobrze: good
+    - gotowy/gotowa: ready
+    - ja: I
+    - jak: how
+    - jest: is
+    - jesteś: you are
+    - lepsze: better
+    - mam: I have
+    - masz: you have
+    - możliwe: possible
+    - na: on
+    - nazywam: I am called
+    - nazywasz: you are called
+    - niedobrze: not good
+    - potwierdzenie: confirmation
+    - powitanie: welcome
+    - powtórz: repeat
+    - pozdrów: greet
+    - rozmowę: conversation
+    - rozumiem: I understand
+    - siostrę: sister
+    - się: oneself
+    - też: also
+    - to: this
+    - twoją: your
+    - ty: you
+    - wiem: I know
+    - witaj: hello
+    - witaj/witajcie: hello/welcome
+    - z: with
+    - za: behind
+    - zdrowie: health
+    - zdrowy: healthy
+    - znaczy: means
+    - zrozumiałem: I understood
   English:
-    - a: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - bartek: undefined
-    - better: undefined
-    - conversation: undefined
-    - day: undefined
-    - didn't: undefined
-    - does: undefined
-    - don't: undefined
-    - evening: undefined
-    - excuse: undefined
-    - for: undefined
-    - go: undefined
-    - god: undefined
-    - good: undefined
-    - greet: undefined
-    - greeting: undefined
-    - greetings: undefined
-    - health: undefined
-    - healthy: undefined
-    - healthy/hello: undefined
-    - hello: undefined
-    - how: undefined
-    - i: undefined
-    - is: undefined
-    - it: undefined
-    - know: undefined
-    - let's: undefined
-    - maybe: undefined
-    - maybe/can: undefined
-    - me: undefined
-    - mean: undefined
-    - morning: undefined
-    - much: undefined
-    - my: undefined
-    - name: undefined
-    - night: undefined
-    - no: undefined
-    - not: undefined
-    - pardon: undefined
-    - perhaps: undefined
-    - pity: undefined
-    - possible: undefined
-    - ready: undefined
-    - repeat: undefined
-    - sister: undefined
-    - so: undefined
-    - thank: undefined
-    - thanks: undefined
-    - that: undefined
-    - the: undefined
-    - this: undefined
-    - to: undefined
-    - too: undefined
-    - understand: undefined
-    - very: undefined
-    - welcome: undefined
-    - well: undefined
-    - what: undefined
-    - with: undefined
-    - yes: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - am: jestem
+    - and: i
+    - are: byti/быти
+    - bartek: Bartek
+    - better: lepsze
+    - conversation: rozmowa
+    - day: dzień
+    - didn't: nie zrobił
+    - does: robi
+    - don't: nie
+    - evening: wieczór
+    - excuse: przepraszam
+    - for: dla
+    - go: iść
+    - god: Bóg
+    - good: dobry
+    - greet: pozdrów
+    - greeting: pozdrowienie
+    - greetings: pozdrowienia
+    - health: zdrowie
+    - healthy: zdrowy
+    - healthy/hello: cześć
+    - hello: cześć
+    - how: jak
+    - i: ja
+    - is: jest
+    - it: to
+    - know: znać
+    - let's: chodźmy
+    - maybe: może
+    - maybe/can: może
+    - me: mnie
+    - mean: znaczyć
+    - morning: ranek
+    - much: dużo
+    - my: mój
+    - name: nazwa
+    - night: noc
+    - no: nie
+    - not: nie
+    - pardon: przepraszam
+    - perhaps: może
+    - pity: szkoda
+    - possible: możliwe
+    - ready: gotowy/gotowa
+    - repeat: powtórz
+    - sister: siostra
+    - so: więc
+    - thank: dziękować
+    - thanks: dzięki
+    - that: że
+    - the: to
+    - this: to
+    - to: do
+    - too: też
+    - understand: rozumieć
+    - very: bardzo
+    - welcome: powitanie
+    - well: dobrze
+    - what: co
+    - with: z
+    - yes: tak
+    - you: ty
+    - your: twój

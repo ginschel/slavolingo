@@ -68,53 +68,43 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - велосипедів: undefined
-    - вісімнадцять: undefined
-    - годинників: undefined
-    - два: undefined
-    - двадцять: undefined
-    - дванадцять: undefined
-    - девятнадцять: undefined
-    - доларів: undefined
-    - жінок: undefined
-    - комп'ютерів: undefined
-    - котів: undefined
-    - одинадцять: undefined
-    - полів: undefined
-    - пятнадцять: undefined
-    - пять: undefined
-    - речей: undefined
-    - рублів: undefined
-    - собаки: undefined
-    - сонць: undefined
-    - сімнадцять: undefined
-    - тринадцять: undefined
-    - хлопців: undefined
-    - чоловіків: undefined
-    - чотирнадцять: undefined
-    - шістнадцять: undefined
-    - шість: undefined
+    - велосипедів: of bicycles
+    - годинників: of clocks
+    - два: two
+    - доларів: of dollars
+    - жінок: of women
+    - комп'ютерів: of computers
+    - котів: of cats
+    - полів: of fields
+    - пять: five
+    - речей: of things
+    - рублів: of rubles
+    - собаки: dogs
+    - сонць: of suns
+    - хлопців: of boys
+    - чоловіків: of men
+    - шість: six
   English:
-    - bicycles: undefined
-    - boys: undefined
-    - cats: undefined
-    - clocks: undefined
-    - computers: undefined
-    - dogs: undefined
-    - dollars: undefined
-    - eighteen: undefined
-    - eleven: undefined
-    - fields: undefined
-    - fifteen: undefined
-    - fourteen: undefined
-    - men: undefined
-    - nineteen: undefined
-    - rubles: undefined
-    - seventeen: undefined
-    - sixteen: undefined
-    - suns: undefined
-    - things: undefined
-    - thirteen: undefined
-    - twelve: undefined
-    - twenty: undefined
-    - women: undefined
+    - bicycles: велосипеди
+    - boys: хлопчики
+    - cats: коти
+    - clocks: годинники
+    - computers: комп'ютери
+    - dogs: собаки
+    - dollars: долари
+    - eighteen: вісімнадцять
+    - eleven: одинадцять
+    - fields: поля
+    - fifteen: п'ятнадцять
+    - fourteen: чотирнадцять
+    - men: чоловіки
+    - nineteen: дев'ятнадцять
+    - rubles: рублі
+    - seventeen: сімнадцять
+    - sixteen: шістнадцять
+    - suns: сонця
+    - things: речі
+    - thirteen: тринадцять
+    - twelve: дванадцять
+    - twenty: двадцять
+    - women: жінки

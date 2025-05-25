@@ -53,11 +53,11 @@ Phrases:
     Translation: The wind is blowing strongly.
   - Phrase: Сьогодні є тепло.
     Translation: It is warm today.
-  - Phrase: В Росії є холодно.
+  - Phrase: В Росії холодно.
     Translation: In Russia it is cold.
-  - Phrase: Мороз є сильний.
+  - Phrase: Мороз сильний.
     Translation: The frost is strong.
-  - Phrase: Хмари є темні.
+  - Phrase: Хмари темні.
     Translation: The clouds are dark.
   - Phrase: Падає сніг і дощ.
     Translation: Snow and rain are falling.
@@ -65,13 +65,13 @@ Phrases:
     Translation: The weather is changing.
   - Phrase: Сонце гріє нас.
     Translation: The sun heats us.
-  - Phrase: Сьогодні є тепло і сухо.
+  - Phrase: Сьогодні тепло і сухо.
     Translation: It is warm and dry today.
   - Phrase: Чи вітер сильний?
     Translation: Is the wind strong?
-  - Phrase: Мороз є вранці.
+  - Phrase: Мороз вранці.
     Translation: There is frost in the morning.
-  - Phrase: Хмарно є сьогодні.
+  - Phrase: Хмарно сьогодні.
     Translation: It is cloudy today.
   - Phrase: Повітря пахне після дощу.
     Translation: The air smells of rain.
@@ -82,107 +82,93 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - бачимо: undefined
-    - бачити: undefined
-    - бачить: undefined
-    - в: undefined
-    - вранці: undefined
-    - вітер: undefined
-    - гріти: undefined
-    - гріє: undefined
-    - добра: undefined
-    - дощ: undefined
-    - дощу: undefined
-    - дує: undefined
-    - з: undefined
-    - землі: undefined
-    - змінювати: undefined
-    - змінюється: undefined
-    - лежить: undefined
-    - мороз: undefined
-    - на: undefined
-    - нас: undefined
-    - не: undefined
-    - падати: undefined
-    - падає: undefined
-    - пахне: undefined
-    - пахнути: undefined
-    - повітря: undefined
-    - погода: undefined
-    - півночі: undefined
-    - після: undefined
-    - росії: undefined
-    - світити: undefined
-    - світить: undefined
-    - сильний: undefined
-    - сильно: undefined
-    - сніг: undefined
-    - сонце: undefined
-    - сухо: undefined
-    - сьогодні: undefined
-    - темні: undefined
-    - тепло: undefined
-    - хмар: undefined
-    - хмара: undefined
-    - хмари: undefined
-    - хмарно: undefined
-    - холодний: undefined
-    - холодно: undefined
-    - чи: undefined
-    - чисте: undefined
-    - є: undefined
-    - і: undefined
+    - бачимо: we see
+    - бачити: to see
+    - бачить: he/she sees
+    - в: in, at
+    - вранці: in the morning
+    - гріти: to heat
+    - гріє: heats
+    - добра: good (feminine)
+    - дощу: of rain
+    - дує: blows
+    - з: with, from
+    - землі: of the earth
+    - змінюється: it changes
+    - лежить: lies
+    - на: on, at
+    - нас: us
+    - не: not
+    - падає: falls
+    - пахне: smells
+    - пахнути: to smell
+    - півночі: in the north
+    - після: after
+    - росії: of Russia
+    - світить: shines
+    - сильний: strong (masculine)
+    - сильно: strongly
+    - сухо: dry
+    - сьогодні: today
+    - темні: dark (plural)
+    - хмар: of clouds
+    - хмари: clouds
+    - холодний: cold (masculine)
+    - чи: if, whether
+    - чисте: clean (neuter)
+    - є: is, are
+    - і: and
   English:
-    - a: undefined
-    - air: undefined
-    - and: undefined
-    - are: undefined
-    - blowing: undefined
-    - change: undefined
-    - changing: undefined
-    - clean: undefined
-    - cloud: undefined
-    - clouds: undefined
-    - cloudy: undefined
-    - cold: undefined
-    - dark: undefined
-    - do: undefined
-    - dry: undefined
-    - fall: undefined
-    - falling: undefined
-    - from: undefined
-    - frost: undefined
-    - good: undefined
-    - ground: undefined
-    - heat: undefined
-    - heats: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - it: undefined
-    - lies: undefined
-    - morning: undefined
-    - north: undefined
-    - not: undefined
-    - of: undefined
-    - on: undefined
-    - rain: undefined
-    - raining: undefined
-    - russia: undefined
-    - see: undefined
-    - shine: undefined
-    - shining: undefined
-    - smell: undefined
-    - smells: undefined
-    - snow: undefined
-    - strong: undefined
-    - strongly: undefined
-    - sun: undefined
-    - the: undefined
-    - there: undefined
-    - to: undefined
-    - today: undefined
-    - us: undefined
-    - warm: undefined
-    - weather: undefined
-    - wind: undefined
+    - a: jedin/один
+    - air: повітря
+    - and: і
+    - are: byti/быти
+    - blowing: дме
+    - change: змінити
+    - changing: змінюється
+    - clean: чистий
+    - cloud: хмара
+    - clouds: хмари
+    - cloudy: хмарно
+    - cold: холодний
+    - dark: темний
+    - do: робити
+    - dry: сухий
+    - fall: падіння
+    - falling: падає
+    - from: від
+    - frost: мороз
+    - good: добрий
+    - ground: земля
+    - heat: тепло
+    - heats: гріє
+    - i: я
+    - in: в
+    - is: є
+    - it: це
+    - lies: лежить
+    - morning: ранок
+    - north: північ
+    - not: не
+    - of: з
+    - on: на
+    - rain: дощ
+    - raining: дощить
+    - russia: росія
+    - see: бачити
+    - shine: сяяти
+    - shining: сяючий
+    - smell: запах
+    - smells: пахне
+    - snow: сніг
+    - strong: сильний
+    - strongly: сильно
+    - sun: сонце
+    - the: to
+    - there: там
+    - to: до
+    - today: сьогодні
+    - us: нас
+    - warm: теплий
+    - weather: погода
+    - wind: вітер

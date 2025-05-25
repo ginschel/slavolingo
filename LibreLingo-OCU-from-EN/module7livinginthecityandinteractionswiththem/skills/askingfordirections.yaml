@@ -68,103 +68,93 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - библиотека: undefined
-    - библиотекꙑ: undefined
-    - близъко: undefined
-    - близъкъи: undefined
-    - гдѣ: undefined
-    - далєка: undefined
-    - далєко: undefined
-    - до: undefined
-    - дорога: undefined
-    - дорогꙋ: undefined
-    - дълъга: undefined
-    - женѫ: undefined
-    - за: undefined
-    - и: undefined
-    - иди: undefined
-    - идємъ: undefined
-    - идєтъ: undefined
-    - идєтє: undefined
-    - ихъ: undefined
-    - кꙋдꙑ: undefined
-    - ли: undefined
-    - магазина: undefined
-    - можєтє: undefined
-    - моста: undefined
-    - мьнѣ: undefined
-    - налѣво: undefined
-    - направо: undefined
-    - онъ: undefined
-    - отъ: undefined
-    - показати: undefined
-    - показоваѥтъ: undefined
-    - потомъ: undefined
-    - поѥздъ: undefined
-    - проспєкъть: undefined
-    - прємо: undefined
-    - пꙋть: undefined
-    - пꙑтати: undefined
-    - пꙑтаѭ: undefined
-    - ровьно: undefined
-    - станициꙗ: undefined
-    - старꙋ: undefined
-    - тръга: undefined
-    - тръгъ: undefined
-    - тъи: undefined
-    - хотєла: undefined
-    - хотєлъ: undefined
-    - цєнтра: undefined
-    - ылица: undefined
-    - ѥдєтъ: undefined
-    - ѥстъ: undefined
+    - библиотека: library
+    - библиотекꙑ: of the library
+    - близъкъи: close, near
+    - далєка: far (feminine)
+    - до: to, until
+    - дорога: road
+    - дорогꙋ: road (accusative)
+    - дълъга: long (feminine)
+    - женѫ: wife (accusative)
+    - за: for, behind
+    - и: and
+    - иди: go (imperative)
+    - идємъ: we go
+    - идєтъ: he/she/it goes
+    - идєтє: you (plural) go
+    - ихъ: their, them
+    - ли: if, whether
+    - магазина: of the store
+    - можєтє: you (plural) can
+    - моста: of the bridge
+    - мьнѣ: to me
+    - онъ: he
+    - отъ: from
+    - показоваѥтъ: he/she/it shows
+    - потомъ: then, after
+    - поѥздъ: train
+    - проспєкъть: avenue
+    - пꙑтаѭ: I ask
+    - ровьно: exactly
+    - станициꙗ: station
+    - старꙋ: old (accusative)
+    - тръга: of the market
+    - тръгъ: market
+    - тъи: that
+    - хотєла: she wanted
+    - хотєлъ: he wanted
+    - цєнтра: of the center
+    - ылица: street
+    - ѥдєтъ: he/she/it eats
+    - ѥстъ: he/she/it is
   English:
-    - and: undefined
-    - are: undefined
-    - ask: undefined
-    - avenue: undefined
-    - away: undefined
-    - bridge: undefined
-    - can: undefined
-    - center: undefined
-    - does: undefined
-    - far: undefined
-    - for: undefined
-    - from: undefined
-    - go: undefined
-    - goes: undefined
-    - going: undefined
-    - he: undefined
-    - hotel: undefined
-    - i: undefined
-    - is: undefined
-    - left: undefined
-    - library: undefined
-    - long: undefined
-    - me: undefined
-    - near: undefined
-    - nearest: undefined
-    - old: undefined
-    - on: undefined
-    - path/way: undefined
-    - right: undefined
-    - road: undefined
-    - shop: undefined
-    - show: undefined
-    - shows: undefined
-    - square: undefined
-    - station: undefined
-    - straight: undefined
-    - street: undefined
-    - that: undefined
-    - the: undefined
-    - them: undefined
-    - then: undefined
-    - to: undefined
-    - train: undefined
-    - way: undefined
-    - we: undefined
-    - where: undefined
-    - which: undefined
-    - woman: undefined
-    - you: undefined
+    - and: и
+    - are: byti/быти
+    - ask: пꙑтати
+    - avenue: проспєкъть
+    - away: (part of phrasal verbs)
+    - bridge: мостъ
+    - can: мощи
+    - center: цєнтръ
+    - does: дѣлаѥтъ
+    - far: далєко
+    - for: за, на
+    - from: отъ, изъ
+    - go: ити
+    - goes: идєтъ
+    - going: идєтъ
+    - he: онъ
+    - hotel: (no direct equivalent)
+    - i: азъ, ꙗ
+    - is: ѥстъ
+    - left: лѣвъ
+    - library: библиотека
+    - long: дълъгъ
+    - me: мєнє
+    - near: близъко
+    - nearest: ближьнъ
+    - old: старъ
+    - on: на
+    - path/way: пꙋть
+    - right: правъ, направо
+    - road: дорога
+    - shop: магазинъ
+    - show: показати
+    - shows: показоваѥтъ
+    - square: квадратъ
+    - station: станициꙗ
+    - straight: прѣмо
+    - street: ылица
+    - that: тъ, та, то
+    - the: to
+    - them: ихъ
+    - then: потомъ
+    - to: къ, на
+    - train: поѥздъ
+    - way: пꙋть
+    - we: мꙑ
+    - where: гдѣ
+    - which: къторъ
+    - woman: жена
+    - you: тꙑ, вꙑ

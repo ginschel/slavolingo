@@ -7,7 +7,7 @@ New words:
     Translation: brother
   - Word: дід
     Translation: grandfather
-  - Word: бабця
+  - Word: бабуся
     Translation: grandmother
   - Word: тітка
     Translation: aunt
@@ -17,7 +17,7 @@ New words:
     Translation: granddaughter
   - Word: мати
     Translation: mother
-  - Word: отець/батько
+  - Word: батько
     Translation: father
   - Word: родина
     Translation: family
@@ -37,9 +37,9 @@ New words:
     Translation: lives
 
 Phrases:
-  - Phrase: Він є моїм братом.
+  - Phrase: Він моїм братом.
     Translation: He is my brother.
-  - Phrase: Він є твоїм батьком
+  - Phrase: Він твоїм батьком
     Translation: He is your father
   - Phrase: Вона йде з маткою.
     Translation: She is going with her mother.
@@ -53,7 +53,7 @@ Phrases:
     Translation: I am talking with your sister.
   - Phrase: Йду в парк з родиною.
     Translation: We are going to the park with the family.
-  - Phrase: Він є з онуком.
+  - Phrase: Він з онуком.
     Translation: He is with his grandson.
   - Phrase: Вона грає з онучкою.
     Translation: She is playing with her granddaughter.
@@ -61,9 +61,9 @@ Phrases:
     Translation: Drinking tea with mother is better.
   - Phrase: З ким ти йдеш?
     Translation: Who are you going with?
-  - Phrase: Вона говорить з моєю бабкою.
+  - Phrase: Вона говорить з моєю бабусею.
     Translation: She is talking with my grandmother.
-  - Phrase: Це є домом з родиною.
+  - Phrase: Це домом з родиною.
     Translation: This is a house with a family.
   - Phrase: Він живе з сином.
     Translation: He lives with his son.
@@ -80,121 +80,105 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - бабкою: undefined
-    - бабця: undefined
-    - батьком: undefined
-    - брат: undefined
-    - братами: undefined
-    - братом: undefined
-    - в: undefined
-    - вона: undefined
-    - вони: undefined
-    - він: undefined
-    - говорить: undefined
-    - говорю: undefined
-    - грає: undefined
-    - граємо: undefined
-    - домом: undefined
-    - дочка: undefined
-    - дочкою: undefined
-    - дід: undefined
-    - дідом: undefined
-    - дітьми: undefined
-    - живе: undefined
-    - з: undefined
-    - зі: undefined
-    - йде: undefined
-    - йдемо: undefined
-    - йдеш: undefined
-    - йду: undefined
-    - ким: undefined
-    - краще: undefined
-    - мати: undefined
-    - маткою: undefined
-    - ми: undefined
-    - моєю: undefined
-    - моїм: undefined
-    - на: undefined
-    - нашими: undefined
-    - онук: undefined
-    - онуком: undefined
-    - онучка: undefined
-    - онучкою: undefined
-    - отець/батько: undefined
-    - парк: undefined
-    - пити: undefined
-    - прогулянку: undefined
-    - родина: undefined
-    - родиною: undefined
-    - сестрою: undefined
-    - син: undefined
-    - сином: undefined
-    - стрий: undefined
-    - стриєм: undefined
-    - твоєю: undefined
-    - твоїм: undefined
-    - ти: undefined
-    - тут: undefined
-    - тітка: undefined
-    - тіткою: undefined
-    - це: undefined
-    - чай: undefined
-    - часто: undefined
-    - є: undefined
-    - і: undefined
-    - їдуть: undefined
+    - бабусею: with a grandmother
+    - батьком: with a father
+    - братами: with brothers
+    - братом: with a brother
+    - в: in, at
+    - вона: she
+    - вони: they
+    - він: he
+    - говорю: I speak
+    - грає: plays
+    - граємо: we play
+    - домом: with a house
+    - дочкою: with a daughter
+    - дідом: with a grandfather
+    - дітьми: with children
+    - з: with, from
+    - зі: with
+    - йдеш: you go
+    - йду: I go
+    - ким: with whom
+    - краще: better
+    - маткою: with a mother
+    - ми: we
+    - моєю: with my (feminine)
+    - моїм: with my
+    - на: on, at
+    - нашими: with our
+    - онуком: with a grandson
+    - онучкою: with a granddaughter
+    - парк: park
+    - пити: to drink
+    - прогулянку: a walk (accusative)
+    - родиною: with the family
+    - сестрою: with a sister
+    - сином: with a son
+    - стриєм: with an uncle
+    - твоєю: with your
+    - твоїм: with your
+    - ти: you (singular)
+    - тут: here
+    - тіткою: with an aunt
+    - це: this is, it is
+    - чай: tea
+    - часто: often
+    - є: is, are
+    - і: and
+    - їдуть: they go (by transport)
   English:
-    - a: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - aunt: undefined
-    - better: undefined
-    - brother: undefined
-    - brothers: undefined
-    - children: undefined
-    - daughter: undefined
-    - drinking: undefined
-    - family: undefined
-    - father: undefined
-    - for: undefined
-    - go: undefined
-    - goes: undefined
-    - going: undefined
-    - granddaughter: undefined
-    - grandfather: undefined
-    - grandmother: undefined
-    - grandson: undefined
-    - he: undefined
-    - her: undefined
-    - here: undefined
-    - his: undefined
-    - house: undefined
-    - i: undefined
-    - is: undefined
-    - lives: undefined
-    - mother: undefined
-    - my: undefined
-    - often: undefined
-    - our: undefined
-    - park: undefined
-    - playing: undefined
-    - she: undefined
-    - sister: undefined
-    - son: undefined
-    - speaks: undefined
-    - talking: undefined
-    - talks: undefined
-    - tea: undefined
-    - the: undefined
-    - their: undefined
-    - they: undefined
-    - this: undefined
-    - to: undefined
-    - uncle: undefined
-    - walk: undefined
-    - we: undefined
-    - who: undefined
-    - with: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - am: є
+    - and: і
+    - are: byti/быти
+    - aunt: тітка
+    - better: краще
+    - brother: брат
+    - brothers: брати
+    - children: діти
+    - daughter: дочка
+    - drinking: пиття
+    - family: сім'я
+    - father: батько
+    - for: для
+    - go: йти
+    - goes: йде
+    - going: йде
+    - granddaughter: онука
+    - grandfather: дідусь
+    - grandmother: бабуся
+    - grandson: онук
+    - he: він
+    - her: її
+    - here: тут
+    - his: його
+    - house: будинок
+    - i: я
+    - is: є
+    - lives: життя
+    - mother: мати
+    - my: мій
+    - often: часто
+    - our: наш
+    - park: парк
+    - playing: грає
+    - she: вона
+    - sister: сестра
+    - son: син
+    - speaks: говорить
+    - talking: говорить
+    - talks: говорить
+    - tea: чай
+    - the: to
+    - their: їхній
+    - they: вони
+    - this: це
+    - to: до
+    - uncle: дядько
+    - walk: гуляти
+    - we: ми
+    - who: хто
+    - with: з
+    - you: ви
+    - your: ваш

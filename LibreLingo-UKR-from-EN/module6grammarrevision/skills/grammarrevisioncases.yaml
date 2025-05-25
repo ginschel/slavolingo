@@ -13,7 +13,7 @@ New words:
     Translation: mirror
 
 Phrases:
-  - Phrase: Кістки тут нема.
+  - Phrase: Кості тут нема.
     Translation: There is no bone here.
   - Phrase: Дам жінці.
     Translation: I give to the woman.
@@ -60,138 +60,138 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - багато: undefined
-    - бананів: undefined
-    - бачить: undefined
-    - бачу: undefined
-    - брата: undefined
-    - братам: undefined
-    - братів: undefined
-    - в: undefined
-    - вже: undefined
-    - вона: undefined
-    - всесвіт: undefined
-    - всесвіті: undefined
-    - він: undefined
-    - говоримо: undefined
-    - говорити: undefined
-    - говорить: undefined
-    - дам: undefined
-    - дар: undefined
-    - дає: undefined
-    - дзеркало: undefined
-    - дзеркалом: undefined
-    - домі: undefined
-    - друзями: undefined
-    - душу: undefined
-    - душі: undefined
-    - жінкою: undefined
-    - жінку: undefined
-    - жінці: undefined
-    - з: undefined
-    - зі: undefined
-    - зірок: undefined
-    - кістки: undefined
-    - любить: undefined
-    - людей: undefined
-    - має: undefined
-    - маєш: undefined
-    - можливо: undefined
-    - містах: undefined
-    - місті: undefined
-    - на: undefined
-    - не: undefined
-    - нема: undefined
-    - ножем: undefined
-    - ночі: undefined
-    - очах: undefined
-    - очі: undefined
-    - побачиш: undefined
-    - полі: undefined
-    - працюю/працюємо: undefined
-    - про: undefined
-    - ріже: undefined
-    - різати: undefined
-    - свою: undefined
-    - своєю: undefined
-    - сонць: undefined
-    - спокійної: undefined
-    - також: undefined
-    - твою: undefined
-    - ти: undefined
-    - тут: undefined
-    - у: undefined
-    - це: undefined
-    - чоловіком: undefined
-    - чоловіків: undefined
-    - є: undefined
-    - і: undefined
-    - імені: undefined
+    - багато: a lot, many, much
+    - бананів: of bananas
+    - бачить: he/she sees
+    - бачу: I see
+    - брата: of the brother
+    - братам: to the brothers
+    - братів: of brothers
+    - в: in, at
+    - вже: already
+    - вона: she
+    - всесвіт: universe
+    - всесвіті: in the universe
+    - він: he
+    - говоримо: we speak
+    - говорити: to speak
+    - говорить: speaks
+    - дам: I will give
+    - дар: gift
+    - дає: gives
+    - дзеркало: mirror
+    - дзеркалом: with a mirror
+    - домі: in the house
+    - друзями: with friends
+    - душу: soul (accusative)
+    - душі: of the soul
+    - жінкою: with a woman
+    - жінку: woman (accusative)
+    - жінці: to the woman
+    - з: with, from
+    - зі: with
+    - зірок: of stars
+    - кості: bones
+    - любить: loves
+    - людей: of people
+    - має: has
+    - маєш: you have
+    - можливо: maybe
+    - містах: in the cities
+    - місті: in the city
+    - на: on, at
+    - не: not
+    - нема: there is no
+    - ножем: with a knife
+    - ночі: of the night
+    - очах: in the eyes
+    - очі: eyes
+    - побачиш: you will see
+    - полі: in the field
+    - працюю/працюємо: I work/we work
+    - про: about
+    - ріже: cuts
+    - різати: to cut
+    - свою: my/his/her/its (accusative)
+    - своєю: with my/his/her/its
+    - сонць: of suns
+    - спокійної: of the calm
+    - також: also
+    - твою: your (accusative)
+    - ти: you (singular)
+    - тут: here
+    - у: in, at
+    - це: this is, it is
+    - чоловіком: with a man
+    - чоловіків: of men
+    - є: is, are
+    - і: and
+    - імені: of the name
   English:
-    - a: undefined
-    - about: undefined
-    - also: undefined
-    - and: undefined
-    - are: undefined
-    - bananas: undefined
-    - be: undefined
-    - bone: undefined
-    - brother: undefined
-    - brothers: undefined
-    - can: undefined
-    - cities: undefined
-    - city: undefined
-    - cut: undefined
-    - do: undefined
-    - don't: undefined
-    - eyes: undefined
-    - field: undefined
-    - friends: undefined
-    - gift: undefined
-    - give: undefined
-    - gives: undefined
-    - good: undefined
-    - has: undefined
-    - have: undefined
-    - he: undefined
-    - her: undefined
-    - here: undefined
-    - his: undefined
-    - house: undefined
-    - husband: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - knife: undefined
-    - likes: undefined
-    - lot: undefined
-    - many: undefined
-    - men: undefined
-    - mirror: undefined
-    - more: undefined
-    - name: undefined
-    - night: undefined
-    - no: undefined
-    - not: undefined
-    - of: undefined
-    - people: undefined
-    - see: undefined
-    - sees: undefined
-    - she: undefined
-    - soul: undefined
-    - stars: undefined
-    - suns: undefined
-    - talk: undefined
-    - talks: undefined
-    - the: undefined
-    - there: undefined
-    - this: undefined
-    - to: undefined
-    - universe: undefined
-    - wife: undefined
-    - will: undefined
-    - with: undefined
-    - woman: undefined
-    - work: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - about: про
+    - also: також
+    - and: і
+    - are: byti/быти
+    - bananas: банани
+    - be: бути
+    - bone: кістка
+    - brother: брат
+    - brothers: брати
+    - can: може
+    - cities: міста
+    - city: місто
+    - cut: різати
+    - do: робити
+    - don't: не роблять
+    - eyes: очі
+    - field: поле
+    - friends: друзі
+    - gift: подарунок
+    - give: дати
+    - gives: дає
+    - good: добрий
+    - has: має
+    - have: мати
+    - he: він
+    - her: її
+    - here: тут
+    - his: його
+    - house: будинок
+    - husband: чоловік
+    - i: я
+    - in: в
+    - is: є
+    - knife: ніж
+    - likes: любить
+    - lot: багато
+    - many: багато
+    - men: чоловіки
+    - mirror: дзеркало
+    - more: більше
+    - name: ім'я
+    - night: ніч
+    - no: ні
+    - not: не
+    - of: з
+    - people: люди
+    - see: бачити
+    - sees: бачить
+    - she: вона
+    - soul: душа
+    - stars: зірки
+    - suns: сонця
+    - talk: говорити
+    - talks: говорить
+    - the: to
+    - there: там
+    - this: це
+    - to: до
+    - universe: всесвіт
+    - wife: дружина
+    - will: буде
+    - with: з
+    - woman: жінка
+    - work: робота
+    - you: ви
+    - your: ваш

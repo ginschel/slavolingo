@@ -53,9 +53,9 @@ Phrases:
     Translation: Good day!
   - Phrase: Добра ніч!
     Translation: Good night!
-  - Phrase: Як ти є?
+  - Phrase: Як справи?
     Translation: How are you?
-  - Phrase: Я є добрий, дякую!
+  - Phrase: Я добрий, дякую!
     Translation: I am well, thank you!
   - Phrase: А ти?
     Translation: And you?
@@ -65,11 +65,11 @@ Phrases:
     Translation: Excuse me, I don't understand.
   - Phrase: Привіт!
     Translation: Greetings!
-  - Phrase: Привіт!
+  - Phrase: Ало!
     Translation: Hello!
-  - Phrase: Добрий день, як ти є?
+  - Phrase: Добрий день, як справи?
     Translation: Good day, how are you?
-  - Phrase: Ти є здоровий?
+  - Phrase: Ти здоровий?
     Translation: Are you healthy?
   - Phrase: Ласкаво просимо!
     Translation: Welcome!
@@ -97,9 +97,9 @@ Phrases:
     Translation: Good!
   - Phrase: Недобре.
     Translation: Not good.
-  - Phrase: Це є краще.
+  - Phrase: Це краще.
     Translation: This is better.
-  - Phrase: Це не є краще.
+  - Phrase: Це не краще.
     Translation: This is not better.
   - Phrase: Так, може.
     Translation: Yes, it is possible.
@@ -119,137 +119,120 @@ Phrases:
     Translation: Perhaps.
   - Phrase: Повтори. Не зрозумів.
     Translation: Repeat. I didn't understand.
-  - Phrase: Ти є готовий?
+  - Phrase: Ти готовий?
     Translation: Are you ready?
   - Phrase: Давай!
     Translation: Let's go!
 
 Mini-dictionary:
   Ukrainian:
-    - а: undefined
-    - бартек: undefined
-    - бесіда/розмова: undefined
-    - бесіду: undefined
-    - богом: undefined
-    - бути: undefined
-    - вечір: undefined
-    - вибач: undefined
-    - готовий: undefined
-    - давай: undefined
-    - день: undefined
-    - добра: undefined
-    - добре: undefined
-    - добрий: undefined
-    - доброго: undefined
-    - дуже: undefined
-    - дякую: undefined
-    - з: undefined
-    - за: undefined
-    - звуть: undefined
-    - здоров'я: undefined
-    - здоровий: undefined
-    - здоровий/привіт: undefined
-    - знаю: undefined
-    - зрозумів: undefined
-    - краще: undefined
-    - ласкаво: undefined
-    - мене: undefined
-    - може: undefined
-    - можливо: undefined
-    - на: undefined
-    - не: undefined
-    - недобре: undefined
-    - ні: undefined
-    - ніч: undefined
-    - означає: undefined
-    - перепрошую: undefined
-    - повтори: undefined
-    - привіт: undefined
-    - привітай: undefined
-    - привітання: undefined
-    - просимо: undefined
-    - ранку: undefined
-    - ранок: undefined
-    - розумію: undefined
-    - сестру: undefined
-    - ствердно: undefined
-    - так: undefined
-    - так/отже: undefined
-    - також: undefined
-    - твою: undefined
-    - тебе: undefined
-    - ти: undefined
-    - тобі: undefined
-    - це: undefined
-    - чи: undefined
-    - шкода: undefined
-    - що: undefined
-    - я: undefined
-    - як: undefined
-    - є: undefined
+    - а: and
+    - ало: hello
+    - бартек: Bartek
+    - бесіду: conversation (accusative)
+    - богом: with God
+    - бути: to be
+    - готовий: ready
+    - добра: good (feminine)
+    - добре: good, well
+    - доброго: of good
+    - дуже: very
+    - з: with, from
+    - за: for, behind
+    - звуть: they call
+    - здоров'я: health
+    - здоровий: healthy (masculine)
+    - знаю: I know
+    - зрозумів: understood
+    - ласкаво: welcome
+    - мене: me
+    - на: on, at
+    - не: not
+    - недобре: not good
+    - означає: means
+    - повтори: repeat
+    - привіт: hello
+    - привітай: greet
+    - просимо: we ask, please
+    - ранку: of the morning
+    - розумію: I understand
+    - сестру: sister (accusative)
+    - справи: matters, affairs
+    - ствердно: affirmatively
+    - так: yes
+    - також: also
+    - твою: your (accusative)
+    - тебе: you
+    - ти: you (singular)
+    - тобі: to you
+    - це: this is, it is
+    - чи: if, whether
+    - я: I
+    - як: how, as
+    - є: is, are
   English:
-    - a: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - bartek: undefined
-    - better: undefined
-    - conversation: undefined
-    - day: undefined
-    - didn't: undefined
-    - does: undefined
-    - don't: undefined
-    - evening: undefined
-    - excuse: undefined
-    - for: undefined
-    - go: undefined
-    - god: undefined
-    - good: undefined
-    - greet: undefined
-    - greeting: undefined
-    - greetings: undefined
-    - health: undefined
-    - healthy: undefined
-    - healthy/hello: undefined
-    - hello: undefined
-    - how: undefined
-    - i: undefined
-    - is: undefined
-    - it: undefined
-    - know: undefined
-    - let's: undefined
-    - maybe: undefined
-    - maybe/can: undefined
-    - me: undefined
-    - mean: undefined
-    - morning: undefined
-    - much: undefined
-    - my: undefined
-    - name: undefined
-    - night: undefined
-    - no: undefined
-    - not: undefined
-    - pardon: undefined
-    - perhaps: undefined
-    - pity: undefined
-    - possible: undefined
-    - ready: undefined
-    - repeat: undefined
-    - sister: undefined
-    - so: undefined
-    - thank: undefined
-    - thanks: undefined
-    - that: undefined
-    - the: undefined
-    - this: undefined
-    - to: undefined
-    - too: undefined
-    - understand: undefined
-    - very: undefined
-    - welcome: undefined
-    - well: undefined
-    - what: undefined
-    - with: undefined
-    - yes: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - am: є
+    - and: і
+    - are: byti/быти
+    - bartek: бартек
+    - better: краще
+    - conversation: розмова
+    - day: день
+    - didn't: не зробив
+    - does: робить
+    - don't: не роблять
+    - evening: вечір
+    - excuse: вибачте
+    - for: для
+    - go: йти
+    - god: бог
+    - good: добрий
+    - greet: вітати
+    - greeting: вітання
+    - greetings: вітання
+    - health: здоров'я
+    - healthy: здоровий
+    - healthy/hello: здоровий/привіт
+    - hello: привіт
+    - how: як
+    - i: я
+    - is: є
+    - it: це
+    - know: знати
+    - let's: давай
+    - maybe: можливо
+    - maybe/can: можливо/може
+    - me: мене
+    - mean: означає
+    - morning: ранок
+    - much: багато
+    - my: мій
+    - name: ім'я
+    - night: ніч
+    - no: ні
+    - not: не
+    - pardon: вибачте
+    - perhaps: можливо
+    - pity: жалість
+    - possible: можливий
+    - ready: готовий
+    - repeat: повторити
+    - sister: сестра
+    - so: так
+    - thank: дякую
+    - thanks: дякую
+    - that: той
+    - the: to
+    - this: це
+    - to: до
+    - too: теж
+    - understand: розуміти
+    - very: дуже
+    - welcome: ласкаво просимо
+    - well: добре
+    - what: що
+    - with: з
+    - yes: так
+    - you: ви
+    - your: ваш

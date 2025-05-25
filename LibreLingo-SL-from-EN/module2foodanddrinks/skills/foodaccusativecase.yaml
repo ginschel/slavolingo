@@ -82,116 +82,102 @@ Phrases:
 
 Mini-dictionary:
   Slovenian:
-    - bereš: undefined
-    - da: undefined
-    - dan: undefined
-    - imajo: undefined
-    - imaš: undefined
-    - in: undefined
-    - jajca: undefined
-    - jajce: undefined
-    - jaz: undefined
-    - je: undefined
-    - jed: undefined
-    - jedjo: undefined
-    - jem: undefined
-    - jemo: undefined
-    - jesti: undefined
-    - ješ: undefined
-    - knjiga: undefined
-    - knjigo: undefined
-    - kosilo: undefined
-    - kruh: undefined
-    - kuha: undefined
-    - kuhamo: undefined
-    - kuhati: undefined
-    - kupim: undefined
-    - kupiti: undefined
-    - kupujejo: undefined
-    - ljubi: undefined
-    - ljubiš: undefined
-    - maslo: undefined
-    - maslom: undefined
-    - meso: undefined
-    - mi: undefined
-    - mizi: undefined
-    - mleko: undefined
-    - na: undefined
-    - nese: undefined
-    - nesti: undefined
-    - on: undefined
-    - ona: undefined
-    - oni: undefined
-    - pico: undefined
-    - pije: undefined
-    - sladko: undefined
-    - ti: undefined
-    - tvojo: undefined
-    - vedno: undefined
-    - vedo: undefined
-    - vem: undefined
-    - večerja: undefined
-    - večerjo: undefined
-    - vidim: undefined
-    - vidimo: undefined
-    - vlada: undefined
-    - vsak: undefined
-    - z: undefined
-    - zajtrk: undefined
+    - bereš: you read
+    - da: that
+    - dan: day
+    - imajo: they have
+    - imaš: you have
+    - in: and
+    - jajca: eggs
+    - jaz: I
+    - je: is
+    - jedjo: dish
+    - jem: I eat
+    - jemo: we eat
+    - jesti: to eat
+    - ješ: you eat
+    - knjigo: book
+    - kuha: cooks
+    - kuhamo: we cook
+    - kupim: I buy
+    - kupujejo: they buy
+    - ljubi: loves
+    - ljubiš: you love
+    - maslom: butter
+    - mi: we
+    - mizi: table
+    - na: on
+    - nese: carries
+    - on: he
+    - ona: she
+    - oni: they
+    - pico: pizza
+    - pije: drinks
+    - ti: you (singular informal)
+    - tvojo: your
+    - vedno: always
+    - vedo: they know
+    - vem: I know
+    - večerjo: dinner
+    - vidim: I see
+    - vidimo: we see
+    - vlada: government
+    - vsak: every
+    - z: with
   English:
-    - a: undefined
-    - always: undefined
-    - am: undefined
-    - an: undefined
-    - and: undefined
-    - are: undefined
-    - book: undefined
-    - bread: undefined
-    - breakfast: undefined
-    - butter: undefined
-    - buy: undefined
-    - buying: undefined
-    - carry: undefined
-    - carrying: undefined
-    - day: undefined
-    - dinner: undefined
-    - dish: undefined
-    - do: undefined
-    - drinking: undefined
-    - eat: undefined
-    - eating: undefined
-    - eats: undefined
-    - egg: undefined
-    - eggs: undefined
-    - every: undefined
-    - food: undefined
-    - have: undefined
-    - having: undefined
-    - he: undefined
-    - i: undefined
-    - is: undefined
-    - know: undefined
-    - like: undefined
-    - likes: undefined
-    - lunch: undefined
-    - meat: undefined
-    - milk: undefined
-    - on: undefined
-    - pizza: undefined
-    - prepare: undefined
-    - preparing: undefined
-    - reading: undefined
-    - see: undefined
-    - she: undefined
-    - sweet: undefined
-    - table: undefined
-    - that: undefined
-    - the: undefined
-    - they: undefined
-    - to: undefined
-    - vlad: undefined
-    - we: undefined
-    - will: undefined
-    - with: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - always: vedno
+    - am: sem
+    - an: en
+    - and: in
+    - are: byti/быти
+    - book: knjiga
+    - bread: kruh
+    - breakfast: zajtrk
+    - butter: maslo
+    - buy: kupiti
+    - buying: kupuje
+    - carry: nositi
+    - carrying: nosim
+    - day: dan
+    - dinner: večerja
+    - dish: jed
+    - do: delati
+    - drinking: pije
+    - eat: jesti
+    - eating: jem
+    - eats: je
+    - egg: jajce
+    - eggs: jajca
+    - every: vsak
+    - food: hrano
+    - have: imam
+    - having: imaš
+    - he: on
+    - i: jaz
+    - is: je
+    - know: vedeti
+    - like: rad
+    - likes: ima rad
+    - lunch: kosilo
+    - meat: meso
+    - milk: mleko
+    - on: na
+    - pizza: pica
+    - prepare: pripraviti
+    - preparing: pripravljen
+    - reading: bere
+    - see: videti
+    - she: ona
+    - sweet: sladko
+    - table: miza
+    - that: da
+    - the: to
+    - they: oni
+    - to: do
+    - vlad: vlad
+    - we: mi
+    - will: bo
+    - with: z
+    - you: ti
+    - your: tvoj

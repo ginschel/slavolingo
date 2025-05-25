@@ -9,7 +9,7 @@ New words:
     Translation: minute
   - Word: sekunda
     Translation: second
-  - Word: godzina (trwania)
+  - Word: godzina
     Translation: hour
   - Word: dzisiaj
     Translation: today
@@ -45,7 +45,7 @@ New words:
     Translation: to last
 
 Phrases:
-  - Phrase: Która godzina?
+  - Phrase: Która jest godzina?
     Translation: What time is it?
   - Phrase: On miał jedną godzinę.
     Translation: He had one hour.
@@ -71,7 +71,7 @@ Phrases:
     Translation: A minute is a small unit of time.
   - Phrase: Sekunda jest krótka.
     Translation: A second is short.
-  - Phrase: Dzisiaj nie miałeś/miałaś na to czasu.
+  - Phrase: Dzisiaj nie miałeś na to czasu.
     Translation: Today you did not have an hour for that.
   - Phrase: Widzimy się wieczorem o dziewiątej godzinie.
     Translation: We will see each other in the evening at the ninth hour.
@@ -90,152 +90,132 @@ Phrases:
 
 Mini-dictionary:
   Polish:
-    - byli: undefined
-    - byliście: undefined
-    - był: undefined
-    - była: undefined
-    - byłem: undefined
-    - było: undefined
-    - cicha: undefined
-    - ciepło: undefined
-    - czas: undefined
-    - czasu: undefined
-    - do: undefined
-    - domu: undefined
-    - dużo: undefined
-    - dwadzieścia: undefined
-    - dziewiątej: undefined
-    - dzisiaj: undefined
-    - film: undefined
-    - godzina: undefined
-    - godzinie: undefined
-    - godzinę: undefined
-    - ile: undefined
-    - jednostką: undefined
-    - jedną: undefined
-    - jest: undefined
-    - jutro: undefined
-    - kinie: undefined
-    - krótka: undefined
-    - która: undefined
-    - lepiej: undefined
-    - ma: undefined
-    - małą: undefined
-    - miał: undefined
-    - miałeś/miałaś: undefined
-    - minut: undefined
-    - minuta: undefined
-    - na: undefined
-    - nic: undefined
-    - nie: undefined
-    - o: undefined
-    - on: undefined
-    - ona: undefined
-    - oni: undefined
-    - pierwszej: undefined
-    - poniedziałek: undefined
-    - poszliśmy: undefined
-    - północ: undefined
-    - północy: undefined
-    - późno: undefined
-    - rano: undefined
-    - restauracji: undefined
-    - robili: undefined
-    - sekund: undefined
-    - sekunda: undefined
-    - się: undefined
-    - spać: undefined
-    - szedł: undefined
-    - szli: undefined
-    - szła: undefined
-    - szło: undefined
-    - to: undefined
-    - trwa: undefined
-    - trwania: undefined
-    - trwać: undefined
-    - trzeciej: undefined
-    - w: undefined
-    - wczoraj: undefined
-    - widzimy: undefined
-    - wieczorem: undefined
-    - wieczór: undefined
-    - za: undefined
-    - zimno: undefined
-    - ósmej: undefined
-    - śpi: undefined
+    - byliście: you were
+    - byłem: I was
+    - cicha: quiet
+    - ciepło: warm
+    - czasu: time
+    - do: to
+    - domu: home
+    - dużo: much
+    - dwadzieścia: twenty
+    - dziewiątej: ninth
+    - film: film
+    - godzinie: hour
+    - godzinę: hour
+    - jednostką: unit
+    - jedną: one
+    - jest: is
+    - kinie: cinema
+    - krótka: short
+    - która: which
+    - lepiej: better
+    - ma: has
+    - małą: small
+    - miał: had
+    - miałeś: you had
+    - minut: minutes
+    - na: on
+    - nic: nothing
+    - nie: no
+    - o: about
+    - on: he
+    - ona: she
+    - oni: they
+    - pierwszej: first
+    - poniedziałek: Monday
+    - poszliśmy: we went
+    - północy: north
+    - późno: late
+    - rano: morning
+    - restauracji: restaurant
+    - robili: did
+    - sekund: seconds
+    - się: oneself
+    - spać: sleep
+    - to: this
+    - trwa: lasts
+    - trzeciej: third
+    - w: in
+    - widzimy: we see
+    - wieczorem: evening
+    - za: behind
+    - zimno: cold
+    - ósmej: eighth
+    - śpi: sleeps
   English:
-    - a: undefined
-    - an: undefined
-    - are: undefined
-    - at: undefined
-    - better: undefined
-    - cinema: undefined
-    - cold: undefined
-    - did: undefined
-    - does: undefined
-    - each: undefined
-    - eighth: undefined
-    - evening: undefined
-    - film: undefined
-    - first: undefined
-    - for: undefined
-    - gone: undefined
-    - had: undefined
-    - have: undefined
-    - he: undefined
-    - home: undefined
-    - hour: undefined
-    - how: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - it: undefined
-    - last: undefined
-    - late: undefined
-    - many: undefined
-    - midnight: undefined
-    - minute: undefined
-    - minutes: undefined
-    - monday: undefined
-    - morning: undefined
-    - much: undefined
-    - ninth: undefined
-    - not: undefined
-    - nothing: undefined
-    - of: undefined
-    - one: undefined
-    - other: undefined
-    - past: undefined
-    - quiet: undefined
-    - restaurant: undefined
-    - second: undefined
-    - seconds: undefined
-    - see: undefined
-    - she: undefined
-    - short: undefined
-    - sleep: undefined
-    - sleeps: undefined
-    - small: undefined
-    - that: undefined
-    - the: undefined
-    - they: undefined
-    - third: undefined
-    - time: undefined
-    - to: undefined
-    - today: undefined
-    - tomorrow: undefined
-    - too: undefined
-    - twenty: undefined
-    - unit: undefined
-    - until: undefined
-    - very: undefined
-    - warm: undefined
-    - was: undefined
-    - we: undefined
-    - went: undefined
-    - went/walked: undefined
-    - were: undefined
-    - what: undefined
-    - will: undefined
-    - yesterday: undefined
-    - you: undefined
+    - a: jedin/один
+    - an: pewien
+    - are: byti/быти
+    - at: w
+    - better: lepsze
+    - cinema: kino
+    - cold: zimno
+    - did: zrobił
+    - does: robi
+    - each: każdy
+    - eighth: ósmy
+    - evening: wieczór
+    - film: film
+    - first: pierwszy
+    - for: dla
+    - gone: poszedł
+    - had: miał
+    - have: mieć
+    - he: on
+    - home: dom
+    - hour: godzina
+    - how: jak
+    - i: ja
+    - in: w
+    - is: jest
+    - it: to
+    - last: ostatni
+    - late: późno
+    - many: wiele
+    - midnight: północ
+    - minute: minuta
+    - minutes: minut
+    - monday: poniedziałek
+    - morning: ranek
+    - much: dużo
+    - ninth: dziewiąty
+    - not: nie
+    - nothing: nic
+    - of: z
+    - one: jeden
+    - other: inny
+    - past: przeszły
+    - quiet: cichy
+    - restaurant: restauracja
+    - second: drugi
+    - seconds: sekund
+    - see: widzieć
+    - she: ona
+    - short: krótki
+    - sleep: spać
+    - sleeps: śpi
+    - small: mały
+    - that: że
+    - the: to
+    - they: oni
+    - third: trzeci
+    - time: czas
+    - to: do
+    - today: dzisiaj
+    - tomorrow: jutro
+    - too: też
+    - twenty: dwadzieścia
+    - unit: jednostka
+    - until: dopóki
+    - very: bardzo
+    - warm: ciepły
+    - was: był
+    - we: my
+    - went: poszedł
+    - went/walked: szedł
+    - were: byl/был
+    - what: co
+    - will: będzie
+    - yesterday: wczoraj
+    - you: ty

@@ -68,64 +68,54 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - велосипед: undefined
-    - велосипедів: undefined
-    - вісім: undefined
-    - вісімдесят: undefined
-    - годинник: undefined
-    - годинників: undefined
-    - два: undefined
-    - двадцять: undefined
-    - девяносто: undefined
-    - десять: undefined
-    - доларів: undefined
-    - жінок: undefined
-    - комп'ютери: undefined
-    - котів: undefined
-    - один: undefined
-    - полів: undefined
-    - пятдесят: undefined
-    - речі: undefined
-    - рублів: undefined
-    - собак: undefined
-    - сонця: undefined
-    - сорок: undefined
-    - сто: undefined
-    - сім: undefined
-    - сімдесят: undefined
-    - три: undefined
-    - тридцять: undefined
-    - хлопців: undefined
-    - чоловіків: undefined
-    - чотири: undefined
-    - шістдесят: undefined
+    - велосипед: bicycle
+    - велосипедів: of bicycles
+    - вісім: eight
+    - годинник: clock
+    - годинників: of clocks
+    - два: two
+    - доларів: of dollars
+    - жінок: of women
+    - комп'ютери: computers
+    - котів: of cats
+    - один: one
+    - полів: of fields
+    - речі: things
+    - рублів: of rubles
+    - собак: of dogs
+    - сонця: of the sun
+    - сім: seven
+    - три: three
+    - хлопців: of boys
+    - чоловіків: of men
+    - чотири: four
   English:
-    - bicycles: undefined
-    - boys: undefined
-    - cats: undefined
-    - clocks: undefined
-    - computers: undefined
-    - dogs: undefined
-    - dollars: undefined
-    - eight: undefined
-    - eighty: undefined
-    - fields: undefined
-    - fifty: undefined
-    - forty: undefined
-    - four: undefined
-    - hundred: undefined
-    - men: undefined
-    - ninety: undefined
-    - one: undefined
-    - rubles: undefined
-    - seven: undefined
-    - seventy: undefined
-    - sixty: undefined
-    - suns: undefined
-    - ten: undefined
-    - things: undefined
-    - thirty: undefined
-    - three: undefined
-    - twenty: undefined
-    - two: undefined
-    - women: undefined
+    - bicycles: велосипеди
+    - boys: хлопчики
+    - cats: коти
+    - clocks: годинники
+    - computers: комп'ютери
+    - dogs: собаки
+    - dollars: долари
+    - eight: вісім
+    - eighty: вісімдесят
+    - fields: поля
+    - fifty: п'ятдесят
+    - forty: сорок
+    - four: чотири
+    - hundred: сто
+    - men: чоловіки
+    - ninety: дев'яносто
+    - one: один
+    - rubles: рублі
+    - seven: сім
+    - seventy: сімдесят
+    - sixty: шістдесят
+    - suns: сонця
+    - ten: десять
+    - things: речі
+    - thirty: тридцять
+    - three: три
+    - twenty: двадцять
+    - two: два
+    - women: жінки

@@ -41,11 +41,11 @@ Phrases:
     Translation: The table stands in the middle of the room.
   - Phrase: Стул есть близко стола.
     Translation: The chair is near the table.
-  - Phrase: Постель есть мягкая.
+  - Phrase: Постель мягкая.
     Translation: The bed is soft.
-  - Phrase: Окно есть открыто.
+  - Phrase: Окно открыто.
     Translation: The window is open.
-  - Phrase: Двери суть закрыты.
+  - Phrase: Двери закрыты.
     Translation: The doors are closed.
   - Phrase: Шкаф имеет много одежды.
     Translation: The wardrobe has many clothes.
@@ -61,7 +61,7 @@ Phrases:
     Translation: A book is lying on the table.
   - Phrase: Стул есть старый, но комфортный.
     Translation: The chair is old, but comfortable.
-  - Phrase: Постель есть новая.
+  - Phrase: Постель новая.
     Translation: The bed is new.
   - Phrase: Двери ведут до кухни.
     Translation: The doors lead to the kitchen.
@@ -73,127 +73,113 @@ Phrases:
     Translation: The shelf hangs on the wall.
   - Phrase: Лампа даёт свет.
     Translation: The lamp gives light.
-  - Phrase: В комнате есть спокойно.
+  - Phrase: В комнате спокойно.
     Translation: It is quiet in the room.
 
 Mini-dictionary:
   Russian:
-    - близко: undefined
-    - в: undefined
-    - ведут: undefined
-    - висеть: undefined
-    - висит: undefined
-    - давать: undefined
-    - даёт: undefined
-    - два: undefined
-    - двери: undefined
-    - дерева: undefined
-    - держать: undefined
-    - держит: undefined
-    - до: undefined
-    - есть: undefined
-    - закрыты: undefined
-    - и: undefined
-    - из: undefined
-    - имеет: undefined
-    - книга: undefined
-    - книги: undefined
-    - комната: undefined
-    - комнате: undefined
-    - комнаты: undefined
-    - комфортный: undefined
-    - кухни: undefined
-    - лампа: undefined
-    - лежит: undefined
-    - много: undefined
-    - мягкая: undefined
-    - на: undefined
-    - над: undefined
-    - но: undefined
-    - новая: undefined
-    - одежды: undefined
-    - окна: undefined
-    - окно: undefined
-    - открыто: undefined
-    - под: undefined
-    - подушка: undefined
-    - полка: undefined
-    - полный: undefined
-    - постель: undefined
-    - постелью: undefined
-    - свет: undefined
-    - светит: undefined
-    - середине: undefined
-    - спокойно: undefined
-    - старый: undefined
-    - стена: undefined
-    - стене: undefined
-    - стоит: undefined
-    - стол: undefined
-    - стола: undefined
-    - столе: undefined
-    - столом: undefined
-    - стул: undefined
-    - сундук: undefined
-    - суть: undefined
-    - тихая: undefined
-    - тёплая: undefined
-    - шкаф: undefined
+    - близко: near
+    - в: in
+    - ведут: lead
+    - висеть: hang
+    - висит: hangs
+    - даёт: gives
+    - два: two
+    - дерева: wood
+    - держать: hold
+    - держит: holds
+    - до: to
+    - есть: is
+    - закрыты: closed
+    - и: and
+    - из: from
+    - имеет: has
+    - книга: book
+    - книги: book
+    - комнате: room
+    - комнаты: room
+    - комфортный: comfortable
+    - кухни: kitchen
+    - лежит: lies
+    - много: many
+    - мягкая: soft
+    - на: on
+    - над: above
+    - но: but
+    - новая: new
+    - одежды: clothes
+    - окна: windows
+    - открыто: open
+    - под: under
+    - полный: full
+    - постелью: bed
+    - свет: light
+    - светит: shines
+    - середине: middle
+    - спокойно: peacefully
+    - старый: old
+    - стене: wall
+    - стоит: stands
+    - стола: table
+    - столе: table
+    - столом: table
+    - тихая: quiet
+    - тёплая: warm
   English:
-    - a: undefined
-    - above: undefined
-    - and: undefined
-    - are: undefined
-    - bed: undefined
-    - book: undefined
-    - books: undefined
-    - but: undefined
-    - chair: undefined
-    - chest: undefined
-    - closed: undefined
-    - clothes: undefined
-    - comfortable: undefined
-    - doors: undefined
-    - full: undefined
-    - give: undefined
-    - gives: undefined
-    - hang: undefined
-    - hangs: undefined
-    - has: undefined
-    - hold: undefined
-    - holds: undefined
-    - in: undefined
-    - is: undefined
-    - it: undefined
-    - kitchen: undefined
-    - lamp: undefined
-    - lead: undefined
-    - light: undefined
-    - lying: undefined
-    - made: undefined
-    - many: undefined
-    - middle: undefined
-    - near: undefined
-    - new: undefined
-    - of: undefined
-    - old: undefined
-    - on: undefined
-    - open: undefined
-    - pillow: undefined
-    - quiet: undefined
-    - room: undefined
-    - shelf: undefined
-    - shines: undefined
-    - soft: undefined
-    - stands: undefined
-    - table: undefined
-    - the: undefined
-    - to: undefined
-    - two: undefined
-    - under: undefined
-    - wall: undefined
-    - wardrobe: undefined
-    - warm: undefined
-    - window: undefined
-    - windows: undefined
-    - wood: undefined
+    - a: jedin/один
+    - above: выше
+    - and: и
+    - are: byti/быти
+    - bed: кровать
+    - book: книга
+    - books: книги
+    - but: но
+    - chair: стул
+    - chest: грудь
+    - closed: закрытый
+    - clothes: одежда
+    - comfortable: удобный
+    - doors: двери
+    - full: полный
+    - give: давать
+    - gives: дает
+    - hang: висеть
+    - hangs: висит
+    - has: имеет
+    - hold: держать
+    - holds: держит
+    - in: в
+    - is: есть
+    - it: это
+    - kitchen: кухня
+    - lamp: лампа
+    - lead: вести
+    - light: свет
+    - lying: лежит
+    - made: сделал
+    - many: много
+    - middle: середина
+    - near: рядом
+    - new: новый
+    - of: из
+    - old: старый
+    - on: на
+    - open: открытый
+    - pillow: подушка
+    - quiet: тихий
+    - room: комната
+    - shelf: полка
+    - shines: светит
+    - soft: мягкий
+    - stands: стоит
+    - table: стол
+    - the: to
+    - to: к
+    - two: два
+    - under: под
+    - wall: стена
+    - wardrobe: гардероб
+    - warm: теплый
+    - window: окно
+    - windows: окна
+    - wood: дерево

@@ -78,122 +78,109 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - близъко: undefined
-    - виситъ: undefined
-    - висѣти: undefined
-    - въ: undefined
-    - вєдѫтъ: undefined
-    - давати: undefined
-    - даѥтъ: undefined
-    - двєри: undefined
-    - двѣ: undefined
-    - до: undefined
-    - дрьжати: undefined
-    - дрьжитъ: undefined
-    - дрєва: undefined
-    - закрьтє: undefined
-    - и: undefined
-    - имаѥтъ: undefined
-    - книга: undefined
-    - комфортьна: undefined
-    - кънигꙑ: undefined
-    - кꙋхъниѥ: undefined
-    - лампа: undefined
-    - лєжитъ: undefined
-    - мьного: undefined
-    - мѧкъка: undefined
-    - на: undefined
-    - надъ: undefined
-    - нова: undefined
-    - нъ: undefined
-    - одєждꙑ: undefined
-    - окна: undefined
-    - окно: undefined
-    - отъкрꙑто: undefined
-    - подъ: undefined
-    - подꙋшька: undefined
-    - покои: undefined
-    - покоꙗ: undefined
-    - полица: undefined
-    - постєлѥ: undefined
-    - постєлѭ: undefined
-    - пълъна: undefined
-    - свѣтитъ: undefined
-    - свѣтъло: undefined
-    - скринѥ: undefined
-    - спокойно: undefined
-    - срєдъинѣ: undefined
-    - стара: undefined
-    - стои: undefined
-    - стола: undefined
-    - столица: undefined
-    - столомъ: undefined
-    - столъ: undefined
-    - столѣ: undefined
-    - стѣна: undefined
-    - стѣнѣ: undefined
-    - стꙋлъ: undefined
-    - съ: undefined
-    - сѫтъ: undefined
-    - тихъи: undefined
-    - тєплъи: undefined
-    - шафа: undefined
-    - ѥстъ: undefined
+    - близъко: near, close
+    - виситъ: it hangs
+    - висѣти: to hang
+    - въ: in, at
+    - вєдѫтъ: they lead
+    - даѥтъ: he/she/it gives
+    - двѣ: two (feminine/neuter)
+    - до: to, until
+    - дрьжати: to hold
+    - дрьжитъ: he/she/it holds
+    - дрєва: trees
+    - закрьтє: closed
+    - и: and
+    - имаѥтъ: he/she/it has
+    - книга: book
+    - комфортьна: comfortable (feminine)
+    - кънигꙑ: books
+    - кꙋхъниѥ: of the kitchen
+    - лєжитъ: he/she/it is lying down
+    - мьного: much, many
+    - мѧкъка: soft (feminine)
+    - на: on, to
+    - надъ: above
+    - нова: new (feminine)
+    - нъ: but
+    - одєждꙑ: of clothes
+    - окна: windows
+    - отъкрꙑто: open
+    - подъ: under
+    - покоꙗ: of the room
+    - постєлѭ: bed (accusative)
+    - пълъна: full (feminine)
+    - свѣтитъ: it shines
+    - свѣтъло: bright
+    - спокойно: calmly
+    - срєдъинѣ: in the middle
+    - стара: old (feminine)
+    - стои: it costs, it stands
+    - стола: of the table
+    - столица: capital city
+    - столомъ: with a table
+    - столѣ: on the table
+    - стѣнѣ: on the wall
+    - съ: with
+    - сѫтъ: they are
+    - тихъи: quiet
+    - тєплъи: warm
+    - ѥстъ: he/she/it is
   English:
-    - a: undefined
-    - above: undefined
-    - and: undefined
-    - are: undefined
-    - bed: undefined
-    - book: undefined
-    - books: undefined
-    - but: undefined
-    - chair: undefined
-    - chest: undefined
-    - closed: undefined
-    - clothes: undefined
-    - comfortable: undefined
-    - doors: undefined
-    - full: undefined
-    - give: undefined
-    - gives: undefined
-    - hang: undefined
-    - hangs: undefined
-    - has: undefined
-    - hold: undefined
-    - holds: undefined
-    - in: undefined
-    - is: undefined
-    - it: undefined
-    - kitchen: undefined
-    - lamp: undefined
-    - lead: undefined
-    - light: undefined
-    - lying: undefined
-    - made: undefined
-    - many: undefined
-    - middle: undefined
-    - near: undefined
-    - new: undefined
-    - of: undefined
-    - old: undefined
-    - on: undefined
-    - open: undefined
-    - pillow: undefined
-    - quiet: undefined
-    - room: undefined
-    - shelf: undefined
-    - shines: undefined
-    - soft: undefined
-    - stands: undefined
-    - table: undefined
-    - the: undefined
-    - to: undefined
-    - two: undefined
-    - under: undefined
-    - wall: undefined
-    - wardrobe: undefined
-    - warm: undefined
-    - window: undefined
-    - windows: undefined
-    - wood: undefined
+    - a: jedin/один
+    - above: надъ
+    - and: и
+    - are: byti/быти
+    - bed: постєль
+    - book: книга
+    - books: кънигꙑ
+    - but: нъ, алє
+    - chair: стꙋлъ
+    - chest: (скриня for box)
+    - closed: закрьтъ
+    - clothes: одєжь
+    - comfortable: комфортьнъ
+    - doors: двєри
+    - full: пълънъ
+    - give: дати
+    - gives: даѥтъ
+    - hang: висѣти
+    - hangs: виситъ
+    - has: имаѥтъ
+    - hold: дрьжати
+    - holds: дрьжитъ
+    - in: въ
+    - is: ѥстъ
+    - it: ono
+    - kitchen: кꙋхънꙗ
+    - lamp: лампа
+    - lead: вєсти
+    - light: свѣтъ
+    - lying: лєжитъ
+    - made: сьдѣлалъ
+    - many: мьного
+    - middle: срѣда
+    - near: близъко
+    - new: новъ
+    - of: (genitive case)
+    - old: старъ
+    - on: на
+    - open: отъворѥнъ
+    - pillow: подꙋшька
+    - quiet: тихъ
+    - room: покои
+    - shelf: полица
+    - shines: блѣскаѥтъ, свѣтитъ
+    - soft: мѧкъкъ
+    - stands: стоитъ
+    - table: столъ
+    - the: to
+    - to: къ, на
+    - two: дъва, дъвѣ
+    - under: подъ
+    - wall: стѣна
+    - wardrobe: шафа
+    - warm: тєплъ
+    - window: окно
+    - windows: окна
+    - wood: дрѣво

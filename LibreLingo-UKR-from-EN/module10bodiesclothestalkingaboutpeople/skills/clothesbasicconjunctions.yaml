@@ -78,168 +78,153 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - а: undefined
-    - бридкий/поганий: undefined
-    - бридкі: undefined
-    - буду: undefined
-    - білий: undefined
-    - біля: undefined
-    - білі: undefined
-    - в: undefined
-    - важкий: undefined
-    - вже: undefined
-    - взимку: undefined
-    - взуття: undefined
-    - висить: undefined
-    - влітку: undefined
-    - вона: undefined
-    - вчора: undefined
-    - він: undefined
-    - годині: undefined
-    - дверей: undefined
-    - дорогий: undefined
-    - другій: undefined
-    - завжди: undefined
-    - зараз: undefined
-    - зелена: undefined
-    - зелену: undefined
-    - комфортні: undefined
-    - короткі: undefined
-    - красиве: undefined
-    - красиві: undefined
-    - купила: undefined
-    - лежать: undefined
-    - має: undefined
-    - мої: undefined
-    - на: undefined
-    - не: undefined
-    - новий: undefined
-    - нову: undefined
-    - нові: undefined
-    - носив: undefined
-    - носити: undefined
-    - носить: undefined
-    - ношу: undefined
-    - ні: undefined
-    - о: undefined
-    - одяг: undefined
-    - одягав: undefined
-    - одягати: undefined
-    - одягає: undefined
-    - пальто: undefined
-    - певен: undefined
-    - потребувати: undefined
-    - піжама: undefined
-    - рукавичка: undefined
-    - рукавички: undefined
-    - рукавичок: undefined
-    - синю: undefined
-    - скрині: undefined
-    - сорочка: undefined
-    - сорочку: undefined
-    - столі: undefined
-    - стіні: undefined
-    - тамта: undefined
-    - тепле: undefined
-    - теплий: undefined
-    - ти: undefined
-    - труси/штани: undefined
-    - тільки: undefined
-    - футболка: undefined
-    - футболку: undefined
-    - хочеш: undefined
-    - чи: undefined
-    - чистий: undefined
-    - чорні: undefined
-    - шапка: undefined
-    - шапки: undefined
-    - шапку: undefined
-    - шарф: undefined
-    - шкарпетка: undefined
-    - шкарпетки: undefined
-    - штани: undefined
-    - я: undefined
-    - є: undefined
-    - і: undefined
+    - а: and
+    - бридкі: ugly (plural)
+    - буду: I will be
+    - білий: white (masculine)
+    - біля: near, by
+    - білі: white (plural)
+    - в: in, at
+    - важкий: heavy (masculine)
+    - вже: already
+    - взимку: in winter
+    - висить: hangs
+    - влітку: in summer
+    - вона: she
+    - вчора: yesterday
+    - він: he
+    - годині: at (o'clock)
+    - дверей: of the doors
+    - дорогий: expensive, dear
+    - другій: at second (o'clock)
+    - завжди: always
+    - зараз: now
+    - зелена: green (feminine)
+    - зелену: green (accusative)
+    - комфортні: comfortable (plural)
+    - короткі: short (plural)
+    - красиве: beautiful (neuter)
+    - красиві: beautiful (plural)
+    - купила: she bought
+    - лежать: they lie
+    - має: has
+    - мої: my (plural)
+    - на: on, at
+    - не: not
+    - новий: new (masculine)
+    - нову: new (accusative)
+    - нові: new (plural)
+    - носив: wore, carried
+    - носить: wears, carries
+    - ношу: I wear, I carry
+    - ні: no
+    - о: about
+    - одягав: wore
+    - одягає: wears
+    - певен: sure
+    - потребувати: to need
+    - рукавички: gloves
+    - рукавичок: of gloves
+    - синю: blue (accusative)
+    - скрині: in the chest
+    - сорочку: shirt (accusative)
+    - столі: on the table
+    - стіні: on the wall
+    - тамта: that one (feminine)
+    - тепле: warm (neuter)
+    - теплий: warm (masculine)
+    - ти: you (singular)
+    - тільки: only
+    - футболку: t-shirt (accusative)
+    - хочеш: you want
+    - чи: if, whether
+    - чистий: clean (masculine)
+    - чорні: black (plural)
+    - шапки: of the hat
+    - шапку: hat (accusative)
+    - шкарпетки: socks
+    - я: I
+    - є: is, are
+    - і: and
   English:
-    - a: undefined
-    - always: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - at: undefined
-    - beautiful: undefined
-    - black: undefined
-    - blue: undefined
-    - bought: undefined
-    - but: undefined
-    - by: undefined
-    - clean: undefined
-    - clothes: undefined
-    - coat: undefined
-    - comfortable: undefined
-    - door: undefined
-    - drawer: undefined
-    - dress: undefined
-    - expensive: undefined
-    - footwear: undefined
-    - glove: undefined
-    - gloves: undefined
-    - green: undefined
-    - hangs: undefined
-    - has: undefined
-    - hat: undefined
-    - he: undefined
-    - heavy: undefined
-    - i: undefined
-    - i'm: undefined
-    - in: undefined
-    - is: undefined
-    - lying: undefined
-    - my: undefined
-    - need: undefined
-    - new: undefined
-    - not: undefined
-    - now: undefined
-    - on: undefined
-    - only: undefined
-    - or: undefined
-    - pajama: undefined
-    - pajamas: undefined
-    - put: undefined
-    - putting: undefined
-    - red: undefined
-    - right: undefined
-    - scarf: undefined
-    - she: undefined
-    - shirt: undefined
-    - shoe: undefined
-    - shoes: undefined
-    - short: undefined
-    - shorts: undefined
-    - sock: undefined
-    - socks: undefined
-    - summer: undefined
-    - sure: undefined
-    - t-shirt: undefined
-    - table: undefined
-    - tennis: undefined
-    - that: undefined
-    - the: undefined
-    - to: undefined
-    - trousers: undefined
-    - two: undefined
-    - ugly: undefined
-    - underwear: undefined
-    - wall: undefined
-    - want: undefined
-    - warm: undefined
-    - we: undefined
-    - wear: undefined
-    - wears: undefined
-    - white: undefined
-    - will: undefined
-    - winter: undefined
-    - wore: undefined
-    - yesterday: undefined
-    - you: undefined
+    - a: jedin/один
+    - always: завжди
+    - am: є
+    - and: і
+    - are: byti/быти
+    - at: в
+    - beautiful: красивий
+    - black: чорний
+    - blue: синій
+    - bought: купив
+    - but: але
+    - by: за
+    - clean: чистий
+    - clothes: одяг
+    - coat: пальто
+    - comfortable: зручний
+    - door: двері
+    - drawer: шухляда
+    - dress: сукня
+    - expensive: дорогий
+    - footwear: взуття
+    - glove: рукавичка
+    - gloves: рукавички
+    - green: зелений
+    - hangs: висить
+    - has: має
+    - hat: капелюх
+    - he: він
+    - heavy: важкий
+    - i: я
+    - i'm: я
+    - in: в
+    - is: є
+    - lying: лежить
+    - my: мій
+    - need: потреба
+    - new: новий
+    - not: не
+    - now: зараз
+    - on: на
+    - only: тільки
+    - or: або
+    - pajama: піжама
+    - pajamas: піжами
+    - put: покласти
+    - putting: кладе
+    - red: червоний
+    - right: праворуч
+    - scarf: шарф
+    - she: вона
+    - shirt: сорочка
+    - shoe: взуття
+    - shoes: взуття
+    - short: короткий
+    - shorts: шорти
+    - sock: шкарпетка
+    - socks: шкарпетки
+    - summer: літо
+    - sure: звичайно
+    - t-shirt: футболка
+    - table: стіл
+    - tennis: теніс
+    - that: той
+    - the: to
+    - to: до
+    - trousers: штани
+    - two: два
+    - ugly: потворний
+    - underwear: спідня білизна
+    - wall: стіна
+    - want: хотіти
+    - warm: теплий
+    - we: ми
+    - wear: носити
+    - wears: носить
+    - white: білий
+    - will: буде
+    - winter: зима
+    - wore: носив
+    - yesterday: вчора
+    - you: ви

@@ -5,7 +5,7 @@ Skill:
 New words:
   - Word: pierwszy
     Translation: first
-  - Word: wtóry/drugi
+  - Word: drugi
     Translation: second
   - Word: trzeci
     Translation: third
@@ -76,95 +76,83 @@ Phrases:
 
 Mini-dictionary:
   Polish:
-    - brat: undefined
-    - czterysta: undefined
-    - czwartej: undefined
-    - czwarty: undefined
-    - dolar: undefined
-    - druga: undefined
-    - drugi: undefined
-    - drugiej: undefined
-    - dwadzieścia: undefined
-    - dwunastej: undefined
-    - dwusetny: undefined
-    - dwustu: undefined
-    - dziesiątej: undefined
-    - dziesięć: undefined
-    - dziewiątej: undefined
-    - dziewiąty: undefined
-    - dziewięćsetny: undefined
-    - godzina: undefined
-    - godzinie: undefined
-    - góra: undefined
-    - jedenastej: undefined
-    - komputer: undefined
-    - mąż: undefined
-    - o: undefined
-    - osiemset: undefined
-    - pełnej: undefined
-    - pierwszej: undefined
-    - pierwszy: undefined
-    - pies: undefined
-    - piąta: undefined
-    - piątej: undefined
-    - piąty: undefined
-    - pięć: undefined
-    - pięćdziesiąt: undefined
-    - rower: undefined
-    - setny: undefined
-    - siódma: undefined
-    - siódmy: undefined
-    - sześćsetny: undefined
-    - szóstej: undefined
-    - szósty: undefined
-    - trzeci: undefined
-    - trzeciej: undefined
-    - trzy: undefined
-    - trzydziesty: undefined
-    - trzydzieści: undefined
-    - tysięczny: undefined
-    - wtóry/drugi: undefined
-    - zegarek: undefined
-    - ósmej: undefined
-    - ósmy: undefined
+    - brat: brother
+    - czterysta: four hundred
+    - czwartej: fourth
+    - dolar: dollar
+    - druga: second
+    - drugiej: second
+    - dwadzieścia: twenty
+    - dwunastej: twelfth
+    - dwusetny: two hundredth
+    - dwustu: two hundred
+    - dziesiątej: tenth
+    - dziesięć: ten
+    - dziewiątej: ninth
+    - dziewięćsetny: nine hundredth
+    - godzina: hour
+    - godzinie: hour
+    - góra: mountain
+    - jedenastej: eleventh
+    - komputer: computer
+    - mąż: husband
+    - o: about
+    - osiemset: eight hundred
+    - pełnej: full
+    - pierwszej: first
+    - pies: dog
+    - piąta: fifth
+    - piątej: fifth
+    - pięć: five
+    - pięćdziesiąt: fifty
+    - rower: bicycle
+    - siódma: seventh
+    - sześćsetny: six hundredth
+    - szóstej: sixth
+    - trzeciej: third
+    - trzy: three
+    - trzydziesty: thirtieth
+    - trzydzieści: thirty
+    - zegarek: watch
+    - ósmej: eighth
   English:
-    - at: undefined
-    - bicycle: undefined
-    - brother: undefined
-    - clock: undefined
-    - computer: undefined
-    - dog: undefined
-    - dollar: undefined
-    - eight: undefined
-    - eighth: undefined
-    - eleventh: undefined
-    - fifteen: undefined
-    - fifth: undefined
-    - fifty: undefined
-    - first: undefined
-    - five: undefined
-    - four: undefined
-    - fourth: undefined
-    - hour: undefined
-    - hundred: undefined
-    - hundredth: undefined
-    - man: undefined
-    - mountain: undefined
-    - nine: undefined
-    - ninth: undefined
-    - past: undefined
-    - second: undefined
-    - seven: undefined
-    - seventh: undefined
-    - six: undefined
-    - sixth: undefined
-    - tenth: undefined
-    - the: undefined
-    - third: undefined
-    - thirtieth: undefined
-    - thirty: undefined
-    - thousandth: undefined
-    - three: undefined
-    - twelfth: undefined
-    - twenty: undefined
-    - two: undefined
+    - at: w
+    - bicycle: rower
+    - brother: brat
+    - clock: zegar
+    - computer: komputer
+    - dog: pies
+    - dollar: dolar
+    - eight: osiem
+    - eighth: ósmy
+    - eleventh: jedenasty
+    - fifteen: piętnaście
+    - fifth: piąty
+    - fifty: pięćdziesiąt
+    - first: pierwszy
+    - five: pięć
+    - four: cztery
+    - fourth: czwarty
+    - hour: godzina
+    - hundred: sto
+    - hundredth: setny
+    - man: mężczyzna
+    - mountain: góra
+    - nine: dziewięć
+    - ninth: dziewiąty
+    - past: przeszły
+    - second: drugi
+    - seven: siedem
+    - seventh: siódmy
+    - six: sześć
+    - sixth: szósty
+    - tenth: dziesiąty
+    - the: to
+    - third: trzeci
+    - thirtieth: trzydziesty
+    - thirty: trzydzieści
+    - thousandth: tysięczny
+    - three: trzy
+    - twelfth: dwunasty
+    - twenty: dwadzieścia
+    - two: dwa

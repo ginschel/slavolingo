@@ -12,11 +12,14 @@ Course:
   # Repository: Update this if needed - using a placeholder from original
   Repository: https://github.com/LibreLingoCommunity/LibreLingo-Isv-from-EN
   Special characters: # Keep the list as is for display
-    - "ě"
-    - "š"
+    - "Č"
     - "č"
+    - "Š"
+    - "š"
+    - "Ž"
     - "ž"
-    - "Ł"
+    - "–"
+
 
 Modules: # List the TRANSFORMED, alphanumeric module folder names
   - module1verybasicgrammarandphrases # Transform module names for listing

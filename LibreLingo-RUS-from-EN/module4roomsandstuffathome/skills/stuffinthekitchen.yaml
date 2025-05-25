@@ -39,11 +39,11 @@ New words:
 Phrases:
   - Phrase: Нож лежит на столе.
     Translation: The knife is lying on the table.
-  - Phrase: Вилка есть серебряная.
+  - Phrase: Вилка серебряная.
     Translation: The fork is silver.
   - Phrase: Ложка есть в соли.
     Translation: The spoon is in the salt.
-  - Phrase: Тарелка есть полна еды.
+  - Phrase: Тарелка полна еды.
     Translation: The plate is full of food.
   - Phrase: Чаша есть наполнена водою.
     Translation: The cup is filled with water.
@@ -69,140 +69,123 @@ Phrases:
     Translation: There is meat in the frying pan.
   - Phrase: Нож есть острый.
     Translation: The knife is sharp.
-  - Phrase: Вилки и ножи суть на столе.
+  - Phrase: Вилки и ножи на столе.
     Translation: Forks and knives are on the table.
   - Phrase: Ложка есть полна перца.
     Translation: The spoon is full of pepper.
   - Phrase: Тарелка лежит на полу.
     Translation: The plate is lying on the floor.
-  - Phrase: Консерва есть пустая.
+  - Phrase: Консерва пустая.
     Translation: The can is empty.
   - Phrase: Кухня имеет добрый запах вечером.
     Translation: The kitchen has a good smell in the evening.
 
 Mini-dictionary:
   Russian:
-    - блин: undefined
-    - в: undefined
-    - варится: undefined
-    - варить: undefined
-    - вечером: undefined
-    - вилка: undefined
-    - вилки: undefined
-    - вилкою: undefined
-    - водою: undefined
-    - горшке: undefined
-    - горшок: undefined
-    - горячий: undefined
-    - готовим: undefined
-    - дам: undefined
-    - добрый: undefined
-    - еды: undefined
-    - ест: undefined
-    - есть: undefined
-    - запах: undefined
-    - и: undefined
-    - из: undefined
-    - имеет: undefined
-    - консерва: undefined
-    - кухня: undefined
-    - лежит: undefined
-    - ложка: undefined
-    - миска: undefined
-    - миске: undefined
-    - много: undefined
-    - мой: undefined
-    - мы: undefined
-    - мясо: undefined
-    - на: undefined
-    - наполнена: undefined
-    - нож: undefined
-    - ножи: undefined
-    - он: undefined
-    - она: undefined
-    - острый: undefined
-    - пельмень: undefined
-    - перец: undefined
-    - перца: undefined
-    - пламени: undefined
-    - полна: undefined
-    - полу: undefined
-    - пустая: undefined
-    - пьёт: undefined
-    - с: undefined
-    - сахар: undefined
-    - сахара: undefined
-    - серебряная: undefined
-    - сковородка: undefined
-    - сковородке: undefined
-    - соли: undefined
-    - соль: undefined
-    - столе: undefined
-    - суть: undefined
-    - тарелка: undefined
-    - чай: undefined
-    - чаша: undefined
-    - чаши: undefined
-    - чистая: undefined
+    - в: in
+    - варится: cooking
+    - вечером: evening
+    - вилки: fork
+    - вилкою: fork
+    - водою: water
+    - горшке: pot
+    - готовим: cook
+    - дам: give
+    - добрый: good
+    - еды: food
+    - ест: eats
+    - есть: is
+    - запах: smell
+    - и: and
+    - из: from
+    - имеет: has
+    - консерва: can
+    - лежит: lies
+    - миске: bowl
+    - много: many
+    - мой: my
+    - мы: we
+    - мясо: meat
+    - на: on
+    - наполнена: filled
+    - ножи: knives
+    - он: he
+    - она: she
+    - острый: sharp
+    - перца: pepper
+    - пламени: flame
+    - полна: full
+    - полу: half
+    - пустая: empty
+    - пьёт: drinks
+    - с: with
+    - сахара: sugar
+    - серебряная: silver
+    - сковородке: pan
+    - соли: salt
+    - столе: table
+    - чай: tea
+    - чаши: bowl
+    - чистая: clean
   English:
-    - a: undefined
-    - add: undefined
-    - and: undefined
-    - are: undefined
-    - bowl: undefined
-    - can: undefined
-    - clean: undefined
-    - cook: undefined
-    - cooking: undefined
-    - cup: undefined
-    - drinks: undefined
-    - dumpling: undefined
-    - eats: undefined
-    - empty: undefined
-    - evening: undefined
-    - filled: undefined
-    - flame: undefined
-    - floor: undefined
-    - food: undefined
-    - fork: undefined
-    - forks: undefined
-    - from: undefined
-    - frying: undefined
-    - full: undefined
-    - good: undefined
-    - has: undefined
-    - he: undefined
-    - hot: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - kitchen: undefined
-    - knife: undefined
-    - knives: undefined
-    - lot: undefined
-    - lying: undefined
-    - meat: undefined
-    - my: undefined
-    - of: undefined
-    - on: undefined
-    - pan: undefined
-    - pancake: undefined
-    - pepper: undefined
-    - plate: undefined
-    - pot: undefined
-    - salt: undefined
-    - sharp: undefined
-    - she: undefined
-    - silver: undefined
-    - smell: undefined
-    - spoon: undefined
-    - sugar: undefined
-    - table: undefined
-    - tea: undefined
-    - the: undefined
-    - there: undefined
-    - to: undefined
-    - water: undefined
-    - we: undefined
-    - will: undefined
-    - with: undefined
+    - a: jedin/один
+    - add: добавить
+    - and: и
+    - are: byti/быти
+    - bowl: миска
+    - can: может
+    - clean: чистый
+    - cook: готовить
+    - cooking: готовит
+    - cup: чашка
+    - drinks: напитки
+    - dumpling: клецка
+    - eats: ест
+    - empty: пустой
+    - evening: вечер
+    - filled: наполненный
+    - flame: пламя
+    - floor: пол
+    - food: еда
+    - fork: вилка
+    - forks: вилки
+    - from: от
+    - frying: жарка
+    - full: полный
+    - good: хороший
+    - has: имеет
+    - he: он
+    - hot: горячий
+    - i: я
+    - in: в
+    - is: есть
+    - kitchen: кухня
+    - knife: нож
+    - knives: ножи
+    - lot: много
+    - lying: лежит
+    - meat: мясо
+    - my: мой
+    - of: из
+    - on: на
+    - pan: кастрюля
+    - pancake: блин
+    - pepper: перец
+    - plate: тарелка
+    - pot: горшок
+    - salt: соль
+    - sharp: острый
+    - she: она
+    - silver: серебро
+    - smell: запах
+    - spoon: ложка
+    - sugar: сахар
+    - table: стол
+    - tea: чай
+    - the: to
+    - there: там
+    - to: к
+    - water: вода
+    - we: мы
+    - will: будет
+    - with: с

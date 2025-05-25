@@ -35,7 +35,7 @@ Phrases:
     Translation: Then to the left.
   - Phrase: Иди прямо до моста.
     Translation: Go straight to the bridge.
-  - Phrase: Проспект есть близко площади/рынка.
+  - Phrase: Проспект есть близко площади.
     Translation: The avenue is near the square.
   - Phrase: Библиотека есть далека.
     Translation: The library is far away.
@@ -55,7 +55,7 @@ Phrases:
     Translation: The station is on the left.
   - Phrase: Магазин есть близко библиотеки.
     Translation: The shop is near the library.
-  - Phrase: Площадь/Рынок есть далеко от отеля.
+  - Phrase: Рынок есть далеко от отеля.
     Translation: The square is far from the hotel.
   - Phrase: Спрашиваю старую женщину.
     Translation: I ask the old woman.
@@ -68,103 +68,93 @@ Phrases:
 
 Mini-dictionary:
   Russian:
-    - библиотека: undefined
-    - библиотеки: undefined
-    - близкий: undefined
-    - близко: undefined
-    - где: undefined
-    - далека: undefined
-    - далеко: undefined
-    - длинная: undefined
-    - до: undefined
-    - дорога: undefined
-    - дорогу: undefined
-    - едет: undefined
-    - есть: undefined
-    - женщину: undefined
-    - за: undefined
-    - и: undefined
-    - иди: undefined
-    - идите: undefined
-    - идём: undefined
-    - идёт: undefined
-    - идёте: undefined
-    - их: undefined
-    - куда: undefined
-    - магазин: undefined
-    - мне: undefined
-    - можете: undefined
-    - моста: undefined
-    - налево: undefined
-    - направо: undefined
-    - он: undefined
-    - от: undefined
-    - отель: undefined
-    - отеля: undefined
-    - площади/рынка: undefined
-    - площадь/рынок: undefined
-    - поезд: undefined
-    - показать: undefined
-    - показывает: undefined
-    - потом: undefined
-    - проспект: undefined
-    - прямо: undefined
-    - путь: undefined
-    - путь/дорога: undefined
-    - спрашивать: undefined
-    - спрашиваю: undefined
-    - станция: undefined
-    - старую: undefined
-    - тот: undefined
-    - улица: undefined
-    - центра: undefined
+    - библиотека: library
+    - библиотеки: library
+    - близкий: near
+    - далека: far
+    - длинная: long
+    - до: to
+    - дорога: road
+    - дорогу: road
+    - едет: goes
+    - есть: is
+    - женщину: woman
+    - за: behind
+    - и: and
+    - иди: go
+    - идите: go
+    - идём: go
+    - идёт: goes
+    - идёте: go
+    - их: their
+    - магазин: shop
+    - мне: me
+    - можете: can
+    - моста: bridge
+    - он: he
+    - от: from
+    - отель: hotel
+    - отеля: hotel
+    - площади: square
+    - поезд: train
+    - показывает: shows
+    - потом: then
+    - проспект: brochure
+    - путь: path/way
+    - рынок: market
+    - спрашиваю: ask
+    - станция: station
+    - старую: old
+    - тот: that
+    - улица: street
+    - центра: center
   English:
-    - and: undefined
-    - are: undefined
-    - ask: undefined
-    - avenue: undefined
-    - away: undefined
-    - bridge: undefined
-    - can: undefined
-    - center: undefined
-    - does: undefined
-    - far: undefined
-    - for: undefined
-    - from: undefined
-    - go: undefined
-    - goes: undefined
-    - going: undefined
-    - he: undefined
-    - hotel: undefined
-    - i: undefined
-    - is: undefined
-    - left: undefined
-    - library: undefined
-    - long: undefined
-    - me: undefined
-    - near: undefined
-    - nearest: undefined
-    - old: undefined
-    - on: undefined
-    - path/way: undefined
-    - right: undefined
-    - road: undefined
-    - shop: undefined
-    - show: undefined
-    - shows: undefined
-    - square: undefined
-    - station: undefined
-    - straight: undefined
-    - street: undefined
-    - that: undefined
-    - the: undefined
-    - them: undefined
-    - then: undefined
-    - to: undefined
-    - train: undefined
-    - way: undefined
-    - we: undefined
-    - where: undefined
-    - which: undefined
-    - woman: undefined
-    - you: undefined
+    - and: и
+    - are: byti/быти
+    - ask: спросить
+    - avenue: проспект
+    - away: прочь
+    - bridge: мост
+    - can: может
+    - center: центр
+    - does: делает
+    - far: далеко
+    - for: для
+    - from: от
+    - go: идти
+    - goes: идет
+    - going: идет
+    - he: он
+    - hotel: отель
+    - i: я
+    - is: есть
+    - left: левый
+    - library: библиотека
+    - long: длинный
+    - me: меня
+    - near: рядом
+    - nearest: ближайший
+    - old: старый
+    - on: на
+    - path/way: путь
+    - right: правый
+    - road: дорога
+    - shop: магазин
+    - show: показывать
+    - shows: показывает
+    - square: квадрат
+    - station: станция
+    - straight: прямо
+    - street: улица
+    - that: что
+    - the: to
+    - them: их
+    - then: тогда
+    - to: к
+    - train: поезд
+    - way: путь
+    - we: мы
+    - where: где
+    - which: который
+    - woman: женщина
+    - you: ты

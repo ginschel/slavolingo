@@ -76,119 +76,105 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - артистъ: undefined
-    - аѵтобꙋсъ: undefined
-    - братъ: undefined
-    - въ: undefined
-    - вєдєтъ: undefined
-    - вєчєрꙋ: undefined
-    - готови: undefined
-    - градꙋ: undefined
-    - докторомъ: undefined
-    - докторъ: undefined
-    - докꙋмєнтꙑ: undefined
-    - домъ: undefined
-    - дѣлати: undefined
-    - дѣлаѥтъ: undefined
-    - инъжєнѥромъ: undefined
-    - инъжєнѥръ: undefined
-    - кажєтъ: undefined
-    - контролѥтъ: undefined
-    - кꙋхаромъ: undefined
-    - кꙋхаръ: undefined
-    - людамъ: undefined
-    - людꙑ: undefined
-    - магазинꙋ: undefined
-    - мои: undefined
-    - мостꙋ: undefined
-    - на: undefined
-    - она: undefined
-    - онъ: undefined
-    - отєць: undefined
-    - оучитєль: undefined
-    - оучитєлѥмъ: undefined
-    - оучєникамъ: undefined
-    - офисꙋ: undefined
-    - писарь: undefined
-    - пишєтъ: undefined
-    - планъ: undefined
-    - показоваѥтъ: undefined
-    - полицииникъ: undefined
-    - помагаѥтъ: undefined
-    - портрєтъ: undefined
-    - працьѥвати: undefined
-    - працьѥтъ: undefined
-    - продавьць: undefined
-    - продаѥтъ: undefined
-    - работати: undefined
-    - работаѥтъ: undefined
-    - работникъ: undefined
-    - работъникъ: undefined
-    - рꙑсовати: undefined
-    - рꙑсꙋѥтъ: undefined
-    - своѭ: undefined
-    - ситꙋацию: undefined
-    - стои: undefined
-    - строи: undefined
-    - творбꙋ: undefined
-    - шофєръ: undefined
-    - ылици: undefined
-    - ѥдѫ: undefined
-    - ѥстъ: undefined
+    - аѵтобꙋсъ: bus
+    - братъ: brother
+    - въ: in, at
+    - вєдєтъ: he/she/it leads
+    - вєчєрꙋ: for dinner
+    - готови: he/she/it prepares
+    - градꙋ: to the city
+    - докторомъ: with a doctor
+    - докꙋмєнтꙑ: documents
+    - домъ: house
+    - дѣлаѥтъ: he/she/it does
+    - инъжєнѥромъ: by an engineer
+    - кажєтъ: he/she/it says
+    - контролѥтъ: he/she/it controls
+    - кꙋхаромъ: with a cook
+    - людамъ: to the people
+    - людꙑ: people (accusative)
+    - магазинꙋ: to the store
+    - мои: my (plural)
+    - мостꙋ: to the bridge
+    - на: on, to
+    - она: she
+    - онъ: he
+    - отєць: father
+    - оучитєлѥмъ: with a teacher
+    - оучєникамъ: to the students
+    - офисꙋ: to the office
+    - пишєтъ: he/she/it writes
+    - планъ: plan
+    - показоваѥтъ: he/she/it shows
+    - помагаѥтъ: he/she/it helps
+    - портрєтъ: portrait
+    - працьѥтъ: he/she/it works
+    - продаѥтъ: he/she/it sells
+    - работаѥтъ: he/she/it works
+    - работникъ: worker
+    - рꙑсꙋѥтъ: he/she/it draws
+    - своѭ: his/her/its own (accusative)
+    - ситꙋацию: situation (accusative)
+    - стои: it costs, it stands
+    - строи: he/she/it builds
+    - творбꙋ: creation (accusative)
+    - ылици: on the street
+    - ѥдѫ: food (accusative)
+    - ѥстъ: he/she/it is
   English:
-    - a: undefined
-    - an: undefined
-    - artist: undefined
-    - bridge: undefined
-    - brother: undefined
-    - building: undefined
-    - bus: undefined
-    - city: undefined
-    - controls: undefined
-    - cook: undefined
-    - dinner: undefined
-    - do: undefined
-    - do/make: undefined
-    - doctor: undefined
-    - documents: undefined
-    - draw: undefined
-    - drawing: undefined
-    - driver: undefined
-    - drives: undefined
-    - engineer: undefined
-    - father: undefined
-    - food: undefined
-    - he: undefined
-    - helps: undefined
-    - his: undefined
-    - house: undefined
-    - in: undefined
-    - is: undefined
-    - makes: undefined
-    - my: undefined
-    - office: undefined
-    - on: undefined
-    - people: undefined
-    - plan: undefined
-    - policeman: undefined
-    - portrait: undefined
-    - preparing: undefined
-    - seller: undefined
-    - sells: undefined
-    - she: undefined
-    - shop: undefined
-    - shows: undefined
-    - situation: undefined
-    - standing: undefined
-    - street: undefined
-    - students: undefined
-    - teacher: undefined
-    - tells: undefined
-    - the: undefined
-    - to: undefined
-    - work: undefined
-    - worker: undefined
-    - working: undefined
-    - works: undefined
-    - writer: undefined
-    - writes: undefined
+    - a: jedin/один
+    - an: (not directly translated)
+    - artist: артистъ
+    - bridge: мостъ
+    - brother: братъ
+    - building: (no direct equivalent)
+    - bus: аѵтобꙋсъ
+    - city: градъ
+    - controls: контролѥтъ
+    - cook: кꙋхаръ
+    - dinner: вєчєрꙗ
+    - do: дѣлати
+    - do/make: дѣлати
+    - doctor: докторъ
+    - documents: докꙋмєнтꙑ
+    - draw: рꙑсовати
+    - drawing: рꙑсꙋѥтъ
+    - driver: шофєръ
+    - drives: (ѥдєтъ)
+    - engineer: инъжєнѥръ
+    - father: отєць
+    - food: ѥда
+    - he: онъ
+    - helps: помагаѥтъ
+    - his: ѥго
+    - house: домъ
+    - in: въ
+    - is: ѥстъ
+    - makes: дѣлаѥтъ
+    - my: мои, моꙗ, моѥ
+    - office: офисъ
+    - on: на
+    - people: людиѥ
+    - plan: планъ
+    - policeman: полициꙗнтъ
+    - portrait: портрєтъ
+    - preparing: готовитъ
+    - seller: продавьць
+    - sells: продаѥтъ
+    - she: она
+    - shop: магазинъ
+    - shows: показоваѥтъ
+    - situation: ситꙋациꙗ
+    - standing: стоитъ
+    - street: ылица
+    - students: оучєници
+    - teacher: оучитєль
+    - tells: глаголѥтъ
+    - the: to
+    - to: къ, на
+    - work: работа
+    - worker: работникъ
+    - working: работаѥтъ
+    - works: работаѥтъ
+    - writer: писарь
+    - writes: пишєтъ

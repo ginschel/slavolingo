@@ -45,23 +45,23 @@ New words:
     Translation: dark
 
 Phrases:
-  - Phrase: On jest wyżej/bardziej wysoki i silny niż on.
+  - Phrase: On jest bardziej wysoki i silny niż on.
     Translation: He is taller and stronger than he is.
-  - Phrase: Ona jest niższa i chuda jak on.
+  - Phrase: Ona jest niżska i chuda jak on.
     Translation: She is shorter and thinner like him.
   - Phrase: Gruby mąż idzie po ulicy.
     Translation: The fat man is walking down the street.
   - Phrase: Chudy ma mniej masy ciała niż gruby.
     Translation: The thin person has less body mass than the fat one.
-  - Phrase: To jest wyżej/bardziej piękny człowiek niż tamten.
+  - Phrase: To jest bardziej piękny człowiek niż tamten.
     Translation: He is a more beautiful person than that one.
-  - Phrase: Starzy ludzie są wyżej/bardziej mądrzy niż my.
+  - Phrase: Starzy ludzie są bardziej mądrzy niż my.
     Translation: Old people are wiser than us.
   - Phrase: Młody ma dużo energii.
     Translation: The young one has a lot of energy.
   - Phrase: Jego włosy są jasne/blond.
     Translation: His hair is blonde.
-  - Phrase: Oczy są wyżej/bardziej zielone niż u niego.
+  - Phrase: Te oczy są bardziej zielone niż u niego.
     Translation: Her eyes are greener than his.
   - Phrase: Skóra jego jest biała.
     Translation: His skin is white.
@@ -81,7 +81,7 @@ Phrases:
     Translation: The short girl is going home.
   - Phrase: Piękne oczy błyszczą jak gwiazdy na niebie.
     Translation: Beautiful eyes shine like stars in the sky.
-  - Phrase: Chudy nosi wyżej/bardziej dużą koszulę niż ja.
+  - Phrase: Chudy nosi bardziej dużą koszulę niż ja.
     Translation: The thin one wears a larger shirt than I do.
   - Phrase: Jej włosy są jasne i długie.
     Translation: Her hair is light and long.
@@ -90,165 +90,147 @@ Phrases:
 
 Mini-dictionary:
   Polish:
-    - a: undefined
-    - biała: undefined
-    - brzydki: undefined
-    - błyszczeć: undefined
-    - błyszczą: undefined
-    - chuda: undefined
-    - chudy: undefined
-    - ciała: undefined
-    - ciemne: undefined
-    - ciemny: undefined
-    - czapkę: undefined
-    - często: undefined
-    - człowiek: undefined
-    - do: undefined
-    - domu: undefined
-    - dużo: undefined
-    - dużą: undefined
-    - dziewczyna: undefined
-    - długie: undefined
-    - energii: undefined
-    - gruby: undefined
-    - gwiazda: undefined
-    - gwiazdy: undefined
-    - gładka: undefined
-    - i: undefined
-    - idzie: undefined
-    - ja: undefined
-    - jak: undefined
-    - jasne: undefined
-    - jasne/blond: undefined
-    - jasny: undefined
-    - jego: undefined
-    - jej: undefined
-    - jest: undefined
-    - kobieta: undefined
-    - koszulę: undefined
-    - ludzie: undefined
-    - ma: undefined
-    - masy: undefined
-    - mały: undefined
-    - mniej: undefined
-    - my: undefined
-    - mądrzy: undefined
-    - mąż: undefined
-    - młody: undefined
-    - młodzi: undefined
-    - na: undefined
-    - niebie: undefined
-    - niego: undefined
-    - niska: undefined
-    - niski: undefined
-    - niż: undefined
-    - niższa: undefined
-    - noc: undefined
-    - nosi: undefined
-    - oczy: undefined
-    - on: undefined
-    - ona: undefined
-    - piękne: undefined
-    - piękny: undefined
-    - po: undefined
-    - silny: undefined
-    - się: undefined
-    - skóra: undefined
-    - sport: undefined
-    - stara: undefined
-    - stary: undefined
-    - starzy: undefined
-    - są: undefined
-    - tamten: undefined
-    - to: undefined
-    - u: undefined
-    - ulicy: undefined
-    - uprawiają: undefined
-    - więcej: undefined
-    - wysoki: undefined
-    - wyżej: undefined
-    - wyżej/bardziej: undefined
-    - włosy: undefined
-    - zielone: undefined
-    - śmiać: undefined
-    - śmieje: undefined
+    - a: a
+    - bardziej: more
+    - biała: white
+    - błyszczą: shine
+    - chuda: thin
+    - ciała: body
+    - ciemne: dark
+    - czapkę: cap
+    - często: often
+    - człowiek: human
+    - do: to
+    - domu: home
+    - dużo: much
+    - dużą: large
+    - dziewczyna: girl
+    - długie: long
+    - energii: energy
+    - gwiazdy: stars
+    - gładka: smooth
+    - i: and
+    - idzie: goes
+    - ja: I
+    - jak: how
+    - jasne: bright
+    - jasne/blond: bright/blonde
+    - jego: his
+    - jej: her
+    - jest: is
+    - kobieta: woman
+    - koszulę: shirt
+    - ludzie: people
+    - ma: has
+    - masy: mass
+    - my: we
+    - mądrzy: wise
+    - mąż: husband
+    - młodzi: young
+    - na: on
+    - niebie: sky
+    - niego: him
+    - niska: low
+    - niżska: lower
+    - noc: night
+    - nosi: wears
+    - on: he
+    - ona: she
+    - piękne: beautiful
+    - po: after
+    - silny: strong
+    - się: oneself
+    - sport: sport
+    - stara: old
+    - starzy: old
+    - są: are
+    - tamten: that
+    - te: these
+    - to: this
+    - u: at
+    - ulicy: street
+    - uprawiają: they cultivate
+    - więcej: more
+    - zielone: green
+    - śmiać: laugh
+    - śmieje: laughs
   English:
-    - a: undefined
-    - and: undefined
-    - are: undefined
-    - as: undefined
-    - beautiful: undefined
-    - blonde: undefined
-    - body: undefined
-    - dark: undefined
-    - do: undefined
-    - down: undefined
-    - energy: undefined
-    - eyes: undefined
-    - fat: undefined
-    - girl: undefined
-    - going: undefined
-    - green: undefined
-    - greener: undefined
-    - hair: undefined
-    - has: undefined
-    - hat: undefined
-    - he: undefined
-    - her: undefined
-    - him: undefined
-    - his: undefined
-    - home: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - larger: undefined
-    - laugh: undefined
-    - laughs: undefined
-    - less: undefined
-    - light: undefined
-    - like: undefined
-    - long: undefined
-    - lot: undefined
-    - louder: undefined
-    - man: undefined
-    - mass: undefined
-    - more: undefined
-    - night: undefined
-    - of: undefined
-    - often: undefined
-    - old: undefined
-    - one: undefined
-    - people: undefined
-    - person: undefined
-    - play: undefined
-    - she: undefined
-    - shine: undefined
-    - shirt: undefined
-    - short: undefined
-    - shorter: undefined
-    - skin: undefined
-    - sky: undefined
-    - small: undefined
-    - smooth: undefined
-    - sports: undefined
-    - star: undefined
-    - stars: undefined
-    - street: undefined
-    - stronger: undefined
-    - tall: undefined
-    - taller: undefined
-    - taller/higher: undefined
-    - than: undefined
-    - that: undefined
-    - the: undefined
-    - thin: undefined
-    - thinner: undefined
-    - to: undefined
-    - ugly: undefined
-    - us: undefined
-    - walking: undefined
-    - wears: undefined
-    - white: undefined
-    - wiser: undefined
-    - woman: undefined
-    - young: undefined
+    - a: jedin/один
+    - and: i
+    - are: byti/быти
+    - as: jak
+    - beautiful: piękna
+    - blonde: jasne/blond
+    - body: ciało
+    - dark: ciemny
+    - do: robić
+    - down: w dół
+    - energy: energii
+    - eyes: oczy
+    - fat: gruby
+    - girl: dziewczyna
+    - going: idzie
+    - green: zielony
+    - greener: zieleńszy
+    - hair: włosy
+    - has: ma
+    - hat: czapka
+    - he: on
+    - her: jej
+    - him: jemu
+    - his: jego
+    - home: dom
+    - i: ja
+    - in: w
+    - is: jest
+    - larger: większy
+    - laugh: śmiać się
+    - laughs: śmieje się
+    - less: mniej
+    - light: światło
+    - like: lubić
+    - long: długi
+    - lot: dużo
+    - louder: głośniej
+    - man: mężczyzna
+    - mass: masa
+    - more: więcej
+    - night: noc
+    - of: z
+    - often: często
+    - old: stary
+    - one: jeden
+    - people: ludzie
+    - person: osoba
+    - play: grać
+    - she: ona
+    - shine: świecić
+    - shirt: koszula
+    - short: krótki
+    - shorter: krótszy
+    - skin: skóra
+    - sky: niebo
+    - small: mały
+    - smooth: gładka
+    - sports: sport
+    - star: gwiazda
+    - stars: gwiazdy
+    - street: ulica
+    - stronger: silniejszy
+    - tall: wysoki
+    - taller: wyższy
+    - taller/higher: wyżej
+    - than: niż
+    - that: że
+    - the: to
+    - thin: chudy
+    - thinner: chudszy
+    - to: do
+    - ugly: brzydki
+    - us: nas
+    - walking: chodzenie
+    - wears: nosi
+    - white: biały
+    - wiser: mądrzejszy
+    - woman: kobieta
+    - young: młody

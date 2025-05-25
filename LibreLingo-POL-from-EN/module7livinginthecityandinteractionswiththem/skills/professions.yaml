@@ -11,7 +11,7 @@ New words:
     Translation: engineer
   - Word: robotnik
     Translation: worker
-  - Word: pisarz/urzędnik
+  - Word: pisarz
     Translation: writer
   - Word: sprzedawca
     Translation: seller
@@ -41,7 +41,7 @@ Phrases:
     Translation: He is an engineer in the city.
   - Phrase: Robotnik pracuje na moście.
     Translation: The worker is working on the bridge.
-  - Phrase: Pisarz/Urzędnik pisze w biurze.
+  - Phrase: Pisarz pisze w biurze.
     Translation: The writer writes in the office.
   - Phrase: Sprzedawca pracuje w sklepie.
     Translation: The seller works in the shop.
@@ -61,7 +61,7 @@ Phrases:
     Translation: The engineer makes a plan.
   - Phrase: Robotnik buduje dom.
     Translation: The worker is building a house.
-  - Phrase: Pisarz/Urzędnik pisze dokumenty.
+  - Phrase: Pisarz pisze dokumenty.
     Translation: The writer writes documents.
   - Phrase: Sprzedawca sprzedaje jedzenie.
     Translation: The seller sells food.
@@ -76,117 +76,104 @@ Phrases:
 
 Mini-dictionary:
   Polish:
-    - artysta: undefined
-    - autobus: undefined
-    - biurze: undefined
-    - brat: undefined
-    - buduje: undefined
-    - doktor: undefined
-    - doktorem: undefined
-    - dokumenty: undefined
-    - dom: undefined
-    - gotuje: undefined
-    - inżynier: undefined
-    - inżynierem: undefined
-    - jedzenie: undefined
-    - jest: undefined
-    - każe: undefined
-    - kolację: undefined
-    - kontroluje: undefined
-    - kucharz: undefined
-    - kucharzem: undefined
-    - ludzi: undefined
-    - ludziom: undefined
-    - mieście: undefined
-    - moście: undefined
-    - mój: undefined
-    - na: undefined
-    - nauczyciel: undefined
-    - nauczycielem: undefined
-    - ojciec: undefined
-    - on: undefined
-    - ona: undefined
-    - pisarz/urzędnik: undefined
-    - pisze: undefined
-    - plan: undefined
-    - pokazuje: undefined
-    - policjant: undefined
-    - pomaga: undefined
-    - portret: undefined
-    - pracować: undefined
-    - pracuje: undefined
-    - prowadzi: undefined
-    - robi: undefined
-    - robić: undefined
-    - robotnik: undefined
-    - rysować: undefined
-    - rysuje: undefined
-    - sklepie: undefined
-    - sprzedaje: undefined
-    - sprzedawca: undefined
-    - stoi: undefined
-    - swoją: undefined
-    - sytuację: undefined
-    - szofer/kierowca: undefined
-    - twórczość: undefined
-    - uczniom: undefined
-    - ulicy: undefined
-    - w: undefined
-    - wiezie: undefined
+    - autobus: bus
+    - biurze: office
+    - brat: brother
+    - buduje: builds
+    - doktorem: doctor
+    - dokumenty: documents
+    - dom: home
+    - gotuje: cooks
+    - inżynierem: engineer
+    - jedzenie: food
+    - jest: is
+    - każe: orders
+    - kolację: supper
+    - kontroluje: controls
+    - kucharzem: cook
+    - ludzi: people
+    - ludziom: people
+    - mieście: city
+    - moście: bridge
+    - mój: my
+    - na: on
+    - nauczycielem: teacher
+    - ojciec: father
+    - on: he
+    - ona: she
+    - pisze: writes
+    - plan: plan
+    - pokazuje: shows
+    - pomaga: helps
+    - portret: portrait
+    - pracuje: works
+    - prowadzi: leads
+    - robi: does
+    - rysuje: draws
+    - sklepie: shop
+    - sprzedaje: sells
+    - stoi: stands
+    - swoją: one's own
+    - sytuację: situation
+    - twórczość: creativity
+    - uczniom: students
+    - ulicy: street
+    - w: in
+    - wiezie: transports
   English:
-    - a: undefined
-    - an: undefined
-    - artist: undefined
-    - bridge: undefined
-    - brother: undefined
-    - building: undefined
-    - bus: undefined
-    - city: undefined
-    - controls: undefined
-    - cook: undefined
-    - dinner: undefined
-    - do: undefined
-    - do/make: undefined
-    - doctor: undefined
-    - documents: undefined
-    - draw: undefined
-    - drawing: undefined
-    - driver: undefined
-    - drives: undefined
-    - engineer: undefined
-    - father: undefined
-    - food: undefined
-    - he: undefined
-    - helps: undefined
-    - his: undefined
-    - house: undefined
-    - in: undefined
-    - is: undefined
-    - makes: undefined
-    - my: undefined
-    - office: undefined
-    - on: undefined
-    - people: undefined
-    - plan: undefined
-    - policeman: undefined
-    - portrait: undefined
-    - preparing: undefined
-    - seller: undefined
-    - sells: undefined
-    - she: undefined
-    - shop: undefined
-    - shows: undefined
-    - situation: undefined
-    - standing: undefined
-    - street: undefined
-    - students: undefined
-    - teacher: undefined
-    - tells: undefined
-    - the: undefined
-    - to: undefined
-    - work: undefined
-    - worker: undefined
-    - working: undefined
-    - works: undefined
-    - writer: undefined
-    - writes: undefined
+    - a: jedin/один
+    - an: pewien
+    - artist: artysta
+    - bridge: most
+    - brother: brat
+    - building: budynek
+    - bus: autobus
+    - city: miasto
+    - controls: kontroluje
+    - cook: kucharz
+    - dinner: obiad
+    - do: robić
+    - do/make: robić
+    - doctor: doktor
+    - documents: dokumenty
+    - draw: rysować
+    - drawing: rysowanie
+    - driver: kierowca
+    - drives: jedzie
+    - engineer: inżynier
+    - father: ojciec
+    - food: jedzenie
+    - he: on
+    - helps: pomaga
+    - his: jego
+    - house: dom
+    - in: w
+    - is: jest
+    - makes: robi
+    - my: mój
+    - office: biuro
+    - on: na
+    - people: ludzie
+    - plan: plan
+    - policeman: policjant
+    - portrait: portret
+    - preparing: przygotowywanie
+    - seller: sprzedawca
+    - sells: sprzedaje
+    - she: ona
+    - shop: sklep
+    - shows: pokazuje
+    - situation: sytuacja
+    - standing: stojący
+    - street: ulica
+    - students: studenci
+    - teacher: nauczyciel
+    - tells: mówi
+    - the: to
+    - to: do
+    - work: praca
+    - worker: robotnik
+    - working: pracujący
+    - works: pracuje
+    - writer: pisarz
+    - writes: pisze

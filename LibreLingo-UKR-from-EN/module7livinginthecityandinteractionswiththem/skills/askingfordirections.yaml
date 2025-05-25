@@ -25,7 +25,7 @@ New words:
     Translation: path/way
 
 Phrases:
-  - Phrase: Де є станція?
+  - Phrase: Де станція?
     Translation: Where is the station?
   - Phrase: Куди йде дорога?
     Translation: Which way does the road go?
@@ -35,7 +35,7 @@ Phrases:
     Translation: Then to the left.
   - Phrase: Йди прямо до моста.
     Translation: Go straight to the bridge.
-  - Phrase: Проспект є близько площі/майдану.
+  - Phrase: Проспект близько майдану.
     Translation: The avenue is near the square.
   - Phrase: Бібліотека є далеко.
     Translation: The library is far away.
@@ -45,7 +45,7 @@ Phrases:
     Translation: Can you show me the way?
   - Phrase: Вулиця йде до центру.
     Translation: The street goes to the center.
-  - Phrase: Де є найближчий готель?
+  - Phrase: Де найближчий готель?
     Translation: Where is the nearest hotel?
   - Phrase: Куди йдете?
     Translation: Which way are you going?
@@ -68,102 +68,92 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - близько: undefined
-    - бібліотека: undefined
-    - бібліотеки: undefined
-    - вулиця: undefined
-    - від: undefined
-    - він: undefined
-    - готель: undefined
-    - готелю: undefined
-    - далеко: undefined
-    - де: undefined
-    - до: undefined
-    - довга: undefined
-    - дорога: undefined
-    - дорога/шлях: undefined
-    - дорогу: undefined
-    - жінку: undefined
-    - йде: undefined
-    - йдемо: undefined
-    - йдете: undefined
-    - йди: undefined
-    - йдіть: undefined
-    - куди: undefined
-    - магазин: undefined
-    - мені: undefined
-    - можете: undefined
-    - моста: undefined
-    - найближчий: undefined
-    - наліво: undefined
-    - направо: undefined
-    - питати: undefined
-    - питаю: undefined
-    - площа/майдан: undefined
-    - площі/майдану: undefined
-    - показати: undefined
-    - показує: undefined
-    - потім: undefined
-    - поїзд: undefined
-    - про: undefined
-    - проспект: undefined
-    - прямо: undefined
-    - станція: undefined
-    - стару: undefined
-    - той: undefined
-    - центру: undefined
-    - шлях: undefined
-    - є: undefined
-    - і: undefined
-    - їде: undefined
-    - їх: undefined
+    - бібліотека: library
+    - бібліотеки: of the library
+    - вулиця: street
+    - від: from
+    - він: he
+    - готель: hotel
+    - готелю: of the hotel
+    - до: to, until
+    - довга: long (feminine)
+    - дорога: road
+    - дорогу: road (accusative)
+    - жінку: woman (accusative)
+    - йде: goes
+    - йдемо: we go
+    - йдете: you go
+    - йди: go
+    - йдіть: go (plural)
+    - магазин: shop
+    - майдану: of the square
+    - мені: to me
+    - можете: you can
+    - моста: of the bridge
+    - найближчий: nearest
+    - питаю: I ask
+    - площа/майдан: square
+    - показує: shows
+    - потім: then
+    - поїзд: train
+    - про: about
+    - проспект: avenue
+    - станція: station
+    - стару: old (accusative)
+    - той: that (masculine)
+    - центру: of the center
+    - шлях: way, path
+    - є: is, are
+    - і: and
+    - їде: goes (by transport)
+    - їх: them, their
   English:
-    - and: undefined
-    - are: undefined
-    - ask: undefined
-    - avenue: undefined
-    - away: undefined
-    - bridge: undefined
-    - can: undefined
-    - center: undefined
-    - does: undefined
-    - far: undefined
-    - for: undefined
-    - from: undefined
-    - go: undefined
-    - goes: undefined
-    - going: undefined
-    - he: undefined
-    - hotel: undefined
-    - i: undefined
-    - is: undefined
-    - left: undefined
-    - library: undefined
-    - long: undefined
-    - me: undefined
-    - near: undefined
-    - nearest: undefined
-    - old: undefined
-    - on: undefined
-    - path/way: undefined
-    - right: undefined
-    - road: undefined
-    - shop: undefined
-    - show: undefined
-    - shows: undefined
-    - square: undefined
-    - station: undefined
-    - straight: undefined
-    - street: undefined
-    - that: undefined
-    - the: undefined
-    - them: undefined
-    - then: undefined
-    - to: undefined
-    - train: undefined
-    - way: undefined
-    - we: undefined
-    - where: undefined
-    - which: undefined
-    - woman: undefined
-    - you: undefined
+    - and: і
+    - are: byti/быти
+    - ask: запитати
+    - avenue: проспект
+    - away: геть
+    - bridge: міст
+    - can: може
+    - center: центр
+    - does: робить
+    - far: далеко
+    - for: для
+    - from: від
+    - go: йти
+    - goes: йде
+    - going: йде
+    - he: він
+    - hotel: готель
+    - i: я
+    - is: є
+    - left: лівий
+    - library: бібліотека
+    - long: довгий
+    - me: мене
+    - near: біля
+    - nearest: найближчий
+    - old: старий
+    - on: на
+    - path/way: шлях/дорога
+    - right: праворуч
+    - road: дорога
+    - shop: магазин
+    - show: показати
+    - shows: показує
+    - square: квадрат
+    - station: станція
+    - straight: прямий
+    - street: вулиця
+    - that: той
+    - the: to
+    - them: їх
+    - then: потім
+    - to: до
+    - train: поїзд
+    - way: шлях
+    - we: ми
+    - where: де
+    - which: який
+    - woman: жінка
+    - you: ви

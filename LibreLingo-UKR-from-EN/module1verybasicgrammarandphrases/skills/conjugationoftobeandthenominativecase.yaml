@@ -55,7 +55,7 @@ New words:
     Translation: friend
   - Word: сестра
     Translation: sister
-  - Word: батько/мати (один з батьків)
+  - Word: батькі
     Translation: parent
   - Word: дім
     Translation: house
@@ -69,7 +69,7 @@ New words:
     Translation: who
 
 Phrases:
-  - Phrase: Я є мудрий.
+  - Phrase: Я мудрий.
     Translation: I am wise.
   - Phrase: Це моя сестра.
     Translation: This is my sister.
@@ -83,19 +83,19 @@ Phrases:
     Translation: This is a good person.
   - Phrase: Та жінка є добра.
     Translation: This woman is good.
-  - Phrase: Це є мій дім.
+  - Phrase: Це мій дім.
     Translation: This is my house.
   - Phrase: Він також добрий друг
     Translation: He is a good friend
-  - Phrase: Ви є добрі.
+  - Phrase: Ви добрі.
     Translation: You are good.
-  - Phrase: Це є друзі.
+  - Phrase: Це друзі.
     Translation: These are friends.
-  - Phrase: Хто ти є?
+  - Phrase: Хто ти?
     Translation: Who are you?
   - Phrase: Той чоловік милий.
     Translation: That man is kind.
-  - Phrase: Це є приємне місто.
+  - Phrase: Це приємне місто.
     Translation: This is a pleasant city.
   - Phrase: Та жінка є висока.
     Translation: That woman is tall.
@@ -122,108 +122,86 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - авто: undefined
-    - батько/мати: undefined
-    - батьків: undefined
-    - ви: undefined
-    - висока: undefined
-    - вона: undefined
-    - вони: undefined
-    - воно: undefined
-    - він: undefined
-    - він/вона/воно: undefined
-    - день: undefined
-    - дитина: undefined
-    - дитя: undefined
-    - добра: undefined
-    - добре: undefined
-    - добрий: undefined
-    - добрі: undefined
-    - друг: undefined
-    - друзі: undefined
-    - дуже: undefined
-    - дім: undefined
-    - жін: undefined
-    - жінка: undefined
-    - жіночий: undefined
-    - з: undefined
-    - красивий: undefined
-    - людина: undefined
-    - ми: undefined
-    - милий: undefined
-    - милі: undefined
-    - моя: undefined
-    - моє: undefined
-    - мудра: undefined
-    - мудрий: undefined
-    - мудрі: undefined
-    - мій: undefined
-    - місто: undefined
-    - не: undefined
-    - один: undefined
-    - приємне: undefined
-    - р: undefined
-    - ранок: undefined
-    - рід: undefined
-    - середній: undefined
-    - сестра: undefined
-    - та: undefined
-    - також: undefined
-    - тамта: undefined
-    - тамтой: undefined
-    - твій: undefined
-    - ти: undefined
-    - той: undefined
-    - холодний: undefined
-    - хто: undefined
-    - це: undefined
-    - цей: undefined
-    - ця: undefined
-    - чол: undefined
-    - чоловік: undefined
-    - чоловічий: undefined
-    - я: undefined
-    - є: undefined
+    - авто: car
+    - висока: tall (feminine)
+    - вони: they
+    - він/вона/воно: he/she/it
+    - дитя: child
+    - добра: good (feminine)
+    - добре: good, well
+    - добрий: good (masculine)
+    - добрі: good (plural)
+    - друзі: friends
+    - дуже: very
+    - жін: women
+    - жіночий: female
+    - красивий: beautiful (masculine)
+    - милий: dear, nice
+    - милі: dear, nice (plural)
+    - моя: my (feminine)
+    - моє: my (neuter)
+    - мудра: wise (feminine)
+    - мудрий: wise (masculine)
+    - мудрі: wise (plural)
+    - мій: my (masculine)
+    - не: not
+    - приємне: pleasant
+    - р: r
+    - ранок: morning
+    - рід: kind, family
+    - середній: middle
+    - та: and, so
+    - тамта: that one (feminine)
+    - тамтой: that one (masculine)
+    - твій: your
+    - той: that (masculine)
+    - холодний: cold (masculine)
+    - це: this is, it is
+    - цей: this (masculine)
+    - ця: this (feminine)
+    - чол: male
+    - чоловічий: male
+    - є: is, are
   English:
-    - a: undefined
-    - also: undefined
-    - am: undefined
-    - are: undefined
-    - beautiful: undefined
-    - car: undefined
-    - child: undefined
-    - city: undefined
-    - cold: undefined
-    - day: undefined
-    - friend: undefined
-    - friends: undefined
-    - good: undefined
-    - he: undefined
-    - house: undefined
-    - i: undefined
-    - is: undefined
-    - it: undefined
-    - kind: undefined
-    - man: undefined
-    - morning: undefined
-    - my: undefined
-    - not: undefined
-    - over: undefined
-    - parent: undefined
-    - person: undefined
-    - pleasant: undefined
-    - she: undefined
-    - sister: undefined
-    - tall: undefined
-    - that: undefined
-    - there: undefined
-    - these: undefined
-    - they: undefined
-    - this: undefined
-    - very: undefined
-    - we: undefined
-    - who: undefined
-    - wise: undefined
-    - woman: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - also: також
+    - am: є
+    - are: byti/быти
+    - beautiful: красивий
+    - car: автомобіль
+    - child: дитина
+    - city: місто
+    - cold: холодний
+    - day: день
+    - friend: друг
+    - friends: друзі
+    - good: добрий
+    - he: він
+    - house: будинок
+    - i: я
+    - is: є
+    - it: це
+    - kind: добрий
+    - man: чоловік
+    - morning: ранок
+    - my: мій
+    - not: не
+    - over: над
+    - parent: батько
+    - person: людина
+    - pleasant: приємний
+    - she: вона
+    - sister: сестра
+    - tall: високий
+    - that: той
+    - there: там
+    - these: ці
+    - they: вони
+    - this: це
+    - very: дуже
+    - we: ми
+    - who: хто
+    - wise: мудрий
+    - woman: жінка
+    - you: ви
+    - your: ваш

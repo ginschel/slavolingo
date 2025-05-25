@@ -5,7 +5,7 @@ Skill:
 New words:
   - Word: "знати (факти)"
     Translation: to know
-  - Word: "знати (когось/щось)"
+  - Word: "відати"
     Translation: to know
   - Word: "сон"
     Translation: dream
@@ -17,9 +17,9 @@ Phrases:
     Translation: I don't know that.
   - Phrase: Про те вже давно знаю.
     Translation: I have known about that thing for a long time.
-  - Phrase: Кого ти бачиш?.
+  - Phrase: Кого ти бачиш?
     Translation: Who do you see?.
-  - Phrase: Тим, хто лягає спати, спокійного сну.
+  - Phrase: Тим, хто лягаєся спати, спокійного сну.
     Translation: To those who are going to sleep, a peaceful dream.
   - Phrase: Про ту річ я нічого не знаю.
     Translation: I know nothing about that thing.
@@ -58,142 +58,142 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - бачиш: undefined
-    - бачу: undefined
-    - бути: undefined
-    - в: undefined
-    - вас: undefined
-    - ваша: undefined
-    - весело: undefined
-    - вже: undefined
-    - воду: undefined
-    - все: undefined
-    - він: undefined
-    - говориш: undefined
-    - говорю: undefined
-    - давно: undefined
-    - дай: undefined
-    - дар: undefined
-    - даси: undefined
-    - дає: undefined
-    - даєш: undefined
-    - домі: undefined
-    - друзів: undefined
-    - жінки: undefined
-    - з: undefined
-    - завжди: undefined
-    - знати: undefined
-    - знаю: undefined
-    - зі: undefined
-    - кава: undefined
-    - кого: undefined
-    - когось/щось: undefined
-    - кому: undefined
-    - красиві: undefined
-    - кістки: undefined
-    - любить: undefined
-    - лягає: undefined
-    - маєш: undefined
-    - мене: undefined
-    - мені: undefined
-    - нами: undefined
-    - не: undefined
-    - нема: undefined
-    - ні: undefined
-    - нічого: undefined
-    - про: undefined
-    - псу: undefined
-    - річ: undefined
-    - сам: undefined
-    - сну: undefined
-    - собою: undefined
-    - собі: undefined
-    - сон: undefined
-    - спати: undefined
-    - спокій: undefined
-    - спокійного: undefined
-    - те: undefined
-    - тебе: undefined
-    - ти: undefined
-    - тим: undefined
-    - тобою: undefined
-    - того: undefined
-    - тому: undefined
-    - ту: undefined
-    - тут: undefined
-    - факти: undefined
-    - хто: undefined
-    - це: undefined
-    - цих: undefined
-    - ці: undefined
-    - чи: undefined
-    - чого: undefined
-    - що: undefined
-    - я: undefined
-    - є: undefined
-    - її: undefined
+    - бачиш: you see
+    - бачу: I see
+    - бути: to be
+    - в: in, at
+    - вас: you (plural)
+    - ваша: your (feminine)
+    - весело: cheerfully
+    - вже: already
+    - воду: water (accusative)
+    - все: everything
+    - відати: to know
+    - він: he
+    - говориш: you speak
+    - говорю: I speak
+    - давно: long ago
+    - дай: give
+    - дар: gift
+    - даси: you will give
+    - дає: gives
+    - даєш: you give
+    - домі: in the house
+    - друзів: of friends
+    - жінки: of the woman, women
+    - з: with, from
+    - завжди: always
+    - знати: to know
+    - знаю: I know
+    - зі: with
+    - кава: coffee
+    - кого: whom
+    - кому: to whom
+    - красиві: beautiful (plural)
+    - кістки: bones
+    - любить: loves
+    - лягаєся: lies down
+    - маєш: you have
+    - мене: me
+    - мені: to me
+    - нами: with us
+    - не: not
+    - нема: there is no
+    - ні: no
+    - нічого: nothing
+    - про: about
+    - псу: to the dog
+    - річ: thing
+    - сам: alone, self
+    - сну: of a dream
+    - собою: with oneself
+    - собі: to oneself
+    - сон: dream, sleep
+    - спати: to sleep
+    - спокій: peace
+    - спокійного: of the calm
+    - те: that (neuter)
+    - тебе: you
+    - ти: you (singular)
+    - тим: with that
+    - тобою: with you
+    - того: of that
+    - тому: because, to that
+    - ту: that (accusative)
+    - тут: here
+    - факти: facts
+    - хто: who
+    - це: this is, it is
+    - цих: of these
+    - ці: these
+    - чи: if, whether
+    - чого: of what
+    - що: what, that
+    - я: I
+    - є: is, are
+    - її: her
   English:
-    - a: undefined
-    - about: undefined
-    - alone: undefined
-    - always: undefined
-    - am: undefined
-    - are: undefined
-    - at: undefined
-    - be: undefined
-    - beautiful: undefined
-    - bones: undefined
-    - cheerful: undefined
-    - coffee: undefined
-    - do: undefined
-    - dog: undefined
-    - don't: undefined
-    - dream: undefined
-    - everything: undefined
-    - for: undefined
-    - friends: undefined
-    - gift: undefined
-    - give: undefined
-    - going: undefined
-    - have: undefined
-    - he: undefined
-    - her: undefined
-    - here: undefined
-    - himself: undefined
-    - house: undefined
-    - i: undefined
-    - is: undefined
-    - isn't: undefined
-    - it: undefined
-    - know: undefined
-    - known: undefined
-    - likes: undefined
-    - long: undefined
-    - me: undefined
-    - no: undefined
-    - not: undefined
-    - nothing: undefined
-    - or: undefined
-    - others: undefined
-    - peaceful: undefined
-    - see: undefined
-    - sleep: undefined
-    - stops: undefined
-    - talking: undefined
-    - talt: undefined
-    - that: undefined
-    - these: undefined
-    - thing: undefined
-    - this: undefined
-    - those: undefined
-    - time: undefined
-    - to: undefined
-    - troubling: undefined
-    - us: undefined
-    - water: undefined
-    - what: undefined
-    - who: undefined
-    - with: undefined
-    - women: undefined
-    - you: undefined
-    - your: undefined
+    - a: jedin/один
+    - about: про
+    - alone: сам
+    - always: завжди
+    - am: є
+    - are: byti/быти
+    - at: в
+    - be: бути
+    - beautiful: красивий
+    - bones: кістки
+    - cheerful: веселий
+    - coffee: кава
+    - do: робити
+    - dog: собака
+    - don't: не роблять
+    - dream: мрія
+    - everything: все
+    - for: для
+    - friends: друзі
+    - gift: подарунок
+    - give: дати
+    - going: йде
+    - have: мати
+    - he: він
+    - her: її
+    - here: тут
+    - himself: сам
+    - house: будинок
+    - i: я
+    - is: є
+    - isn't: немає
+    - it: це
+    - know: знати
+    - known: відомий
+    - likes: любить
+    - long: довгий
+    - me: мене
+    - no: ні
+    - not: не
+    - nothing: нічого
+    - or: або
+    - others: інші
+    - peaceful: мирний
+    - see: бачити
+    - sleep: спати
+    - stops: зупиняється
+    - talking: говорить
+    - talt: тальт
+    - that: той
+    - these: ці
+    - thing: річ
+    - this: це
+    - those: ті
+    - time: час
+    - to: до
+    - troubling: тривожний
+    - us: нас
+    - water: вода
+    - what: що
+    - who: хто
+    - with: з
+    - women: жінки
+    - you: ви
+    - your: ваш

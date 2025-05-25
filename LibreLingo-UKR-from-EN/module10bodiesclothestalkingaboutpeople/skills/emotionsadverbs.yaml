@@ -37,7 +37,7 @@ New words:
 Phrases:
   - Phrase: Чуюся радісно сьогодні.
     Translation: We feel joyful this week.
-  - Phrase: Сумно/Жалісно він говорив.
+  - Phrase: Жалісно він говорив.
     Translation: He spoke sadly.
   - Phrase: Він гнівно йому каже працювати.
     Translation: He angrily tells him to work.
@@ -59,11 +59,11 @@ Phrases:
     Translation: I have sadness in my heart.
   - Phrase: Вона показує їм свою роботу весело.
     Translation: She shows them her work joyfully.
-  - Phrase: Він скриває/ховає гордо свій гнів.
+  - Phrase: Він скриває гордо свій гнів.
     Translation: He hides his anger proudly.
   - Phrase: Ми відчуваємо спокій.
     Translation: We feel peaceful.
-  - Phrase: Страх є в нас.
+  - Phrase: Страх в нас.
     Translation: Fear is inside us.
   - Phrase: Переляканий він втікав.
     Translation: He was frightened and ran away.
@@ -78,155 +78,141 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - в: undefined
-    - важливий: undefined
-    - веселий: undefined
-    - весело: undefined
-    - вона: undefined
-    - втікав: undefined
-    - втікати: undefined
-    - відчувати: undefined
-    - відчуває: undefined
-    - відчуваємо: undefined
-    - він: undefined
-    - гнів: undefined
-    - гнівний: undefined
-    - гнівно: undefined
-    - говорив: undefined
-    - гордий: undefined
-    - гордо: undefined
-    - дивиться: undefined
-    - для: undefined
-    - додому: undefined
-    - дуже: undefined
-    - душі: undefined
-    - емоція: undefined
-    - жаль: undefined
-    - заздрісно: undefined
-    - заздрість: undefined
-    - зсередини: undefined
-    - йде: undefined
-    - йому: undefined
-    - каже: undefined
-    - коли: undefined
-    - любимо: undefined
-    - любов: undefined
-    - маю: undefined
-    - ми: undefined
-    - на: undefined
-    - наповнилося: undefined
-    - нас: undefined
-    - нього: undefined
-    - переляканий: undefined
-    - показує: undefined
-    - працювати: undefined
-    - природна: undefined
-    - пішов: undefined
-    - радісний: undefined
-    - радісно: undefined
-    - радість: undefined
-    - реакція: undefined
-    - роботу: undefined
-    - свою: undefined
-    - свій: undefined
-    - серце: undefined
-    - серці: undefined
-    - сильна: undefined
-    - сильний: undefined
-    - скривати/ховати: undefined
-    - скриває/ховає: undefined
-    - сором: undefined
-    - соромливий: undefined
-    - соромно: undefined
-    - спокій: undefined
-    - страх: undefined
-    - сумний/жалісний: undefined
-    - сумно/жалісно: undefined
-    - сьогодні: undefined
-    - терпіти: undefined
-    - то: undefined
-    - трепет/страх: undefined
-    - тільки: undefined
-    - у: undefined
-    - хочемо: undefined
-    - чорна: undefined
-    - чуюся: undefined
-    - я: undefined
-    - є: undefined
-    - їм: undefined
+    - в: in, at
+    - важливий: important (masculine)
+    - весело: cheerfully
+    - вона: she
+    - втікав: ran away
+    - відчувати: to feel
+    - відчуває: feels
+    - відчуваємо: we feel
+    - він: he
+    - гнів: anger
+    - гнівно: angrily
+    - говорив: spoke
+    - гордо: proudly
+    - дивиться: watches
+    - для: for
+    - додому: home (to home)
+    - дуже: very
+    - душі: of the soul
+    - емоція: emotion
+    - жаль: pity
+    - жалісно: sadly
+    - заздрісно: enviously
+    - зсередини: from inside
+    - йде: goes
+    - йому: to him
+    - каже: says
+    - коли: when
+    - любимо: we love
+    - маю: I have
+    - ми: we
+    - на: on, at
+    - наповнилося: became filled
+    - нас: us
+    - нього: him
+    - показує: shows
+    - працювати: to work
+    - природна: natural
+    - пішов: he went
+    - радісно: joyfully
+    - радість: joy
+    - реакція: reaction
+    - роботу: work (accusative)
+    - свою: my/his/her/its (accusative)
+    - свій: my/his/her/its own
+    - серце: heart
+    - серці: in the heart
+    - сильна: strong (feminine)
+    - сильний: strong (masculine)
+    - скриває: hides
+    - соромно: ashamed
+    - страх: fear
+    - сьогодні: today
+    - терпіти: to suffer, to endure
+    - то: then, that is
+    - тільки: only
+    - у: in, at
+    - хочемо: we want
+    - чорна: black (feminine)
+    - чуюся: I feel
+    - я: I
+    - є: is, are
+    - їм: I eat
   English:
-    - a: undefined
-    - and: undefined
-    - anger: undefined
-    - angrily: undefined
-    - angry: undefined
-    - ashamed: undefined
-    - away: undefined
-    - cheerful: undefined
-    - comes: undefined
-    - dark: undefined
-    - emotion: undefined
-    - envy: undefined
-    - fear: undefined
-    - feel: undefined
-    - feels: undefined
-    - filled: undefined
-    - for: undefined
-    - frightened: undefined
-    - from: undefined
-    - have: undefined
-    - he: undefined
-    - heart: undefined
-    - her: undefined
-    - hide: undefined
-    - hides: undefined
-    - him: undefined
-    - his: undefined
-    - home: undefined
-    - i: undefined
-    - important: undefined
-    - in: undefined
-    - inside: undefined
-    - is: undefined
-    - jealous: undefined
-    - joy: undefined
-    - joyful: undefined
-    - joyfully: undefined
-    - love: undefined
-    - my: undefined
-    - natural: undefined
-    - of: undefined
-    - only: undefined
-    - peace: undefined
-    - peaceful: undefined
-    - proud: undefined
-    - proudly: undefined
-    - ran: undefined
-    - reaction: undefined
-    - run: undefined
-    - sad: undefined
-    - sadly: undefined
-    - sadness: undefined
-    - shame: undefined
-    - she: undefined
-    - shows: undefined
-    - soul: undefined
-    - spoke: undefined
-    - strong: undefined
-    - suffer: undefined
-    - tells: undefined
-    - the: undefined
-    - them: undefined
-    - this: undefined
-    - to: undefined
-    - tremor: undefined
-    - us: undefined
-    - very: undefined
-    - was: undefined
-    - we: undefined
-    - week: undefined
-    - went: undefined
-    - when: undefined
-    - with: undefined
-    - within: undefined
-    - work: undefined
+    - a: jedin/один
+    - and: і
+    - anger: гнів
+    - angrily: сердито
+    - angry: злий
+    - ashamed: соромно
+    - away: геть
+    - cheerful: веселий
+    - comes: приходить
+    - dark: темний
+    - emotion: емоція
+    - envy: заздрість
+    - fear: страх
+    - feel: відчувати
+    - feels: відчуває
+    - filled: заповнений
+    - for: для
+    - frightened: наляканий
+    - from: від
+    - have: мати
+    - he: він
+    - heart: серце
+    - her: її
+    - hide: ховати
+    - hides: ховає
+    - him: його
+    - his: його
+    - home: дім
+    - i: я
+    - important: важливий
+    - in: в
+    - inside: всередині
+    - is: є
+    - jealous: ревнощі
+    - joy: радість
+    - joyful: радісний
+    - joyfully: радісно
+    - love: любов
+    - my: мій
+    - natural: природний
+    - of: з
+    - only: тільки
+    - peace: мир
+    - peaceful: мирний
+    - proud: гордий
+    - proudly: гордо
+    - ran: біг
+    - reaction: реакція
+    - run: бігти
+    - sad: сумний
+    - sadly: сумний
+    - sadness: смуток
+    - shame: сором
+    - she: вона
+    - shows: показує
+    - soul: душа
+    - spoke: говорив
+    - strong: сильний
+    - suffer: страждати
+    - tells: каже
+    - the: to
+    - them: їх
+    - this: це
+    - to: до
+    - tremor: тремтіння
+    - us: нас
+    - very: дуже
+    - was: був
+    - we: ми
+    - week: тиждень
+    - went: пішов
+    - when: коли
+    - with: з
+    - within: всередині
+    - work: робота

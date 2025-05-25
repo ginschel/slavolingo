@@ -82,111 +82,96 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - видимъ: undefined
-    - видитъ: undefined
-    - видѣти: undefined
-    - вонѧти: undefined
-    - вонѧѥтъ: undefined
-    - въ: undefined
-    - възъдꙋхъ: undefined
-    - вѣтръ: undefined
-    - грѣти: undefined
-    - грѣѥтъ: undefined
-    - добра: undefined
-    - дъждь: undefined
-    - дъждьꙋ: undefined
-    - дьнь: undefined
-    - дꙋѥтъ: undefined
-    - зємли: undefined
-    - и: undefined
-    - измѣнѧти: undefined
-    - измѣнѧѥтъ: undefined
-    - изъ: undefined
-    - ли: undefined
-    - лєжитъ: undefined
-    - мразъ: undefined
-    - на: undefined
-    - насъ: undefined
-    - нє: undefined
-    - облаковъ: undefined
-    - облакъ: undefined
-    - облаци: undefined
-    - облачьно: undefined
-    - оутромъ: undefined
-    - падати: undefined
-    - падаѥтъ: undefined
-    - по: undefined
-    - погода: undefined
-    - росии: undefined
-    - свѣтити: undefined
-    - свѣтитъ: undefined
-    - силььно: undefined
-    - силььнъ: undefined
-    - силььнъи: undefined
-    - слъньцє: undefined
-    - снѣгъ: undefined
-    - сѣвєра: undefined
-    - сѧ: undefined
-    - сѫтъ: undefined
-    - сꙋхо: undefined
-    - тьмьни: undefined
-    - тєпло: undefined
-    - тꙋ: undefined
-    - хладьно: undefined
-    - хладьнъи: undefined
-    - чистъи: undefined
-    - ѥстъ: undefined
+    - видимъ: we see
+    - видитъ: he/she/it sees
+    - видѣти: to see
+    - вонѧѥтъ: it stinks
+    - въ: in, at
+    - грѣти: to warm
+    - грѣѥтъ: it warms
+    - добра: good (feminine)
+    - дъждьꙋ: to the rain
+    - дьнь: day
+    - дꙋѥтъ: it blows
+    - зємли: of the earth
+    - и: and
+    - измѣнѧѥтъ: it changes
+    - изъ: from
+    - ли: if, whether
+    - лєжитъ: he/she/it is lying down
+    - на: on, to
+    - насъ: us
+    - нє: no, not
+    - облаковъ: of clouds
+    - облаци: clouds
+    - оутромъ: in the morning
+    - падаѥтъ: it falls
+    - по: after, along
+    - росии: of Russia
+    - свѣтитъ: it shines
+    - силььно: strongly
+    - силььнъ: strong (masculine)
+    - силььнъи: strong
+    - сѣвєра: of the north
+    - сѧ: oneself (reflexive pronoun)
+    - сѫтъ: they are
+    - сꙋхо: dry (neuter)
+    - тьмьни: dark (plural)
+    - тꙋ: here
+    - хладьнъи: cold
+    - чистъи: clean
+    - ѥстъ: he/she/it is
   English:
-    - a: undefined
-    - air: undefined
-    - and: undefined
-    - are: undefined
-    - blowing: undefined
-    - change: undefined
-    - changing: undefined
-    - clean: undefined
-    - cloud: undefined
-    - clouds: undefined
-    - cloudy: undefined
-    - cold: undefined
-    - dark: undefined
-    - do: undefined
-    - dry: undefined
-    - fall: undefined
-    - falling: undefined
-    - from: undefined
-    - frost: undefined
-    - good: undefined
-    - ground: undefined
-    - heat: undefined
-    - heats: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - it: undefined
-    - lies: undefined
-    - morning: undefined
-    - north: undefined
-    - not: undefined
-    - of: undefined
-    - on: undefined
-    - rain: undefined
-    - raining: undefined
-    - russia: undefined
-    - see: undefined
-    - shine: undefined
-    - shining: undefined
-    - smell: undefined
-    - smells: undefined
-    - snow: undefined
-    - strong: undefined
-    - strongly: undefined
-    - sun: undefined
-    - the: undefined
-    - there: undefined
-    - to: undefined
-    - today: undefined
-    - us: undefined
-    - warm: undefined
-    - weather: undefined
-    - wind: undefined
+    - a: jedin/один
+    - air: възъдꙋхъ
+    - and: и
+    - are: byti/быти
+    - blowing: дꙋѥтъ
+    - change: измѣнѧти
+    - changing: измѣнѧѥтъ
+    - clean: чистъ
+    - cloud: облакъ
+    - clouds: облаци
+    - cloudy: облачьно
+    - cold: хладънъ
+    - dark: тьмьнъ
+    - do: дѣлати
+    - dry: сꙋхъ
+    - fall: падати
+    - falling: падаѥтъ
+    - from: отъ, изъ
+    - frost: мразъ
+    - good: добръ
+    - ground: зємлꙗ
+    - heat: грѣти
+    - heats: грѣѥтъ
+    - i: азъ, ꙗ
+    - in: въ
+    - is: ѥстъ
+    - it: ono
+    - lies: лєжитъ
+    - morning: оутро
+    - north: сѣвєръ
+    - not: нє
+    - of: (genitive case)
+    - on: на
+    - rain: дъждь
+    - raining: дъждитъ
+    - russia: росиꙗ
+    - see: видѣти
+    - shine: блѣскати
+    - shining: блѣскаѥтъ
+    - smell: запахъ
+    - smells: вонѧѥтъ
+    - snow: снѣгъ
+    - strong: силььнъ
+    - strongly: силььно
+    - sun: слъньцє
+    - the: to
+    - there: тамъ
+    - to: къ, на
+    - today: дьньсь
+    - us: насъ
+    - warm: тєплъ
+    - weather: погода
+    - wind: вѣтръ

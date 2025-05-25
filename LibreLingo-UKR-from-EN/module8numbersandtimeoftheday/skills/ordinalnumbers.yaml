@@ -29,7 +29,7 @@ New words:
     Translation: five thousandth
   - Word: сьомий тисячний
     Translation: seven thousandth
-  - Word: година (як у "о котрій")
+  - Word: година
     Translation: hour
 
 Phrases:
@@ -76,96 +76,81 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - брат: undefined
-    - велосипед: undefined
-    - восьмий: undefined
-    - восьмій: undefined
-    - вісімсот: undefined
-    - година: undefined
-    - годинник: undefined
-    - годині: undefined
-    - гора: undefined
-    - двадцять: undefined
-    - дванадцятій: undefined
-    - двохсотий: undefined
-    - двісті: undefined
-    - девятий: undefined
-    - девятсотий: undefined
-    - девятій: undefined
-    - десята: undefined
-    - десятій: undefined
-    - долар: undefined
-    - друга: undefined
-    - другий: undefined
-    - другій: undefined
-    - комп'ютер: undefined
-    - котрій: undefined
-    - о: undefined
-    - одинадцятій: undefined
-    - п'ять: undefined
-    - перший: undefined
-    - першій: undefined
-    - пес: undefined
-    - пята: undefined
-    - пятдесят: undefined
-    - пятий: undefined
-    - пять: undefined
-    - пятій: undefined
-    - сотий: undefined
-    - сьома: undefined
-    - сьомий: undefined
-    - тисячний: undefined
-    - третій: undefined
-    - три: undefined
-    - тридцятий: undefined
-    - тридцять: undefined
-    - у: undefined
-    - четвертий: undefined
-    - четвертій: undefined
-    - чоловік: undefined
-    - чотириста: undefined
-    - шостий: undefined
-    - шостій: undefined
-    - шістсотий: undefined
-    - як: undefined
+    - брат: brother
+    - велосипед: bicycle
+    - восьмій: at eight (o'clock)
+    - вісімсот: eight hundred
+    - годинник: clock
+    - годині: at (o'clock)
+    - гора: mountain
+    - двадцять: twenty
+    - дванадцятій: at twelve (o'clock)
+    - двохсотий: two hundredth
+    - двісті: two hundred
+    - девятсотий: nine hundredth
+    - девятій: at nine (o'clock)
+    - десята: tenth (feminine)
+    - десятій: at ten (o'clock)
+    - долар: dollar
+    - друга: of a friend, second
+    - другій: at second (o'clock)
+    - комп'ютер: computer
+    - о: about
+    - одинадцятій: at eleven (o'clock)
+    - п'ять: five
+    - першій: at one (o'clock)
+    - пес: dog
+    - пята: heel
+    - пятдесят: fifty
+    - пять: five
+    - пятій: at five (o'clock)
+    - сьома: seventh (feminine)
+    - три: three
+    - тридцятий: thirtieth
+    - тридцять: thirty
+    - четвертій: at four (o'clock)
+    - чоловік: man, husband
+    - чотириста: four hundred
+    - шостій: at six (o'clock)
+    - шістсотий: six hundredth
   English:
-    - at: undefined
-    - bicycle: undefined
-    - brother: undefined
-    - clock: undefined
-    - computer: undefined
-    - dog: undefined
-    - dollar: undefined
-    - eight: undefined
-    - eighth: undefined
-    - eleventh: undefined
-    - fifteen: undefined
-    - fifth: undefined
-    - fifty: undefined
-    - first: undefined
-    - five: undefined
-    - four: undefined
-    - fourth: undefined
-    - hour: undefined
-    - hundred: undefined
-    - hundredth: undefined
-    - man: undefined
-    - mountain: undefined
-    - nine: undefined
-    - ninth: undefined
-    - past: undefined
-    - second: undefined
-    - seven: undefined
-    - seventh: undefined
-    - six: undefined
-    - sixth: undefined
-    - tenth: undefined
-    - the: undefined
-    - third: undefined
-    - thirtieth: undefined
-    - thirty: undefined
-    - thousandth: undefined
-    - three: undefined
-    - twelfth: undefined
-    - twenty: undefined
-    - two: undefined
+    - at: в
+    - bicycle: велосипед
+    - brother: брат
+    - clock: годинник
+    - computer: комп'ютер
+    - dog: собака
+    - dollar: долар
+    - eight: вісім
+    - eighth: восьмий
+    - eleventh: одинадцятий
+    - fifteen: п'ятнадцять
+    - fifth: п'ятий
+    - fifty: п'ятдесят
+    - first: перший
+    - five: п'ять
+    - four: чотири
+    - fourth: четвертий
+    - hour: година
+    - hundred: сто
+    - hundredth: сотий
+    - man: чоловік
+    - mountain: гора
+    - nine: дев'ять
+    - ninth: дев'ятий
+    - past: минуле
+    - second: другий
+    - seven: сім
+    - seventh: сьомий
+    - six: шість
+    - sixth: шостий
+    - tenth: десятий
+    - the: to
+    - third: третій
+    - thirtieth: тридцятий
+    - thirty: тридцять
+    - thousandth: тисячний
+    - three: три
+    - twelfth: дванадцятий
+    - twenty: двадцять
+    - two: два

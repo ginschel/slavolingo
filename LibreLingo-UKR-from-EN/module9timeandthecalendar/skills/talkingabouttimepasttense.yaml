@@ -71,7 +71,7 @@ Phrases:
     Translation: A minute is a small unit of time.
   - Phrase: Секунда є коротка.
     Translation: A second is short.
-  - Phrase: Сьогодні ти не мав/мала часу на те.
+  - Phrase: Сьогодні ти не мав часу на те.
     Translation: Today you did not have an hour for that.
   - Phrase: Бачимось ввечері о девятій годині.
     Translation: We will see each other in the evening at the ninth hour.
@@ -90,154 +90,135 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - бачимось: undefined
-    - був: undefined
-    - була: undefined
-    - були: undefined
-    - було: undefined
-    - в: undefined
-    - ввечері: undefined
-    - вдома: undefined
-    - вечір: undefined
-    - ви: undefined
-    - вона: undefined
-    - вони: undefined
-    - восьмій: undefined
-    - вранці: undefined
-    - вчора: undefined
-    - він: undefined
-    - година: undefined
-    - годину: undefined
-    - годині: undefined
-    - двадцять: undefined
-    - девятій: undefined
-    - до: undefined
-    - додому: undefined
-    - дуже: undefined
-    - завтра: undefined
-    - запізно: undefined
-    - йшла: undefined
-    - йшли: undefined
-    - йшло: undefined
-    - йшов: undefined
-    - коротка: undefined
-    - краще: undefined
-    - кінотеатру: undefined
-    - мав: undefined
-    - мав/мала: undefined
-    - маленькою: undefined
-    - має: undefined
-    - ми: undefined
-    - на: undefined
-    - не: undefined
-    - нічого: undefined
-    - о: undefined
-    - одиницею: undefined
-    - одну: undefined
-    - першій: undefined
-    - понеділок: undefined
-    - півночі: undefined
-    - північ: undefined
-    - пішли: undefined
-    - пішов: undefined
-    - ресторан: undefined
-    - робили: undefined
-    - секунд: undefined
-    - секунда: undefined
-    - скільки: undefined
-    - спати: undefined
-    - спить: undefined
-    - сьогодні: undefined
-    - те: undefined
-    - тепло: undefined
-    - ти: undefined
-    - тиха: undefined
-    - третій: undefined
-    - тривалість: undefined
-    - тривати: undefined
-    - триває: undefined
-    - удома: undefined
-    - фільм: undefined
-    - хвилин: undefined
-    - хвилина: undefined
-    - холодно: undefined
-    - час: undefined
-    - часу: undefined
-    - я: undefined
-    - є: undefined
+    - бачимось: we see each other
+    - в: in, at
+    - ввечері: in the evening
+    - вдома: at home
+    - ви: you (plural)
+    - вона: she
+    - вони: they
+    - восьмій: at eight (o'clock)
+    - вранці: in the morning
+    - він: he
+    - година: hour
+    - годину: hour (accusative)
+    - годині: at (o'clock)
+    - двадцять: twenty
+    - девятій: at nine (o'clock)
+    - до: to, until
+    - додому: home (to home)
+    - дуже: very
+    - запізно: too late
+    - коротка: short (feminine)
+    - краще: better
+    - кінотеатру: of the cinema
+    - мав: had
+    - маленькою: with a small one
+    - має: has
+    - ми: we
+    - на: on, at
+    - не: not
+    - нічого: nothing
+    - о: about
+    - одиницею: with a unit
+    - одну: one (accusative)
+    - першій: at one (o'clock)
+    - понеділок: Monday
+    - півночі: in the north
+    - пішли: they went
+    - пішов: he went
+    - ресторан: restaurant
+    - робили: they did, they made
+    - секунд: of seconds
+    - спати: to sleep
+    - спить: sleeps
+    - те: that (neuter)
+    - тепло: warm, warmly
+    - ти: you (singular)
+    - тиха: quiet (feminine)
+    - третій: third
+    - тривалість: duration
+    - триває: lasts
+    - удома: at home
+    - фільм: film, movie
+    - хвилин: of minutes
+    - холодно: cold (adverb)
+    - часу: of time
+    - я: I
+    - є: is, are
   English:
-    - a: undefined
-    - an: undefined
-    - are: undefined
-    - at: undefined
-    - better: undefined
-    - cinema: undefined
-    - cold: undefined
-    - did: undefined
-    - does: undefined
-    - each: undefined
-    - eighth: undefined
-    - evening: undefined
-    - film: undefined
-    - first: undefined
-    - for: undefined
-    - gone: undefined
-    - had: undefined
-    - have: undefined
-    - he: undefined
-    - home: undefined
-    - hour: undefined
-    - how: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - it: undefined
-    - last: undefined
-    - late: undefined
-    - many: undefined
-    - midnight: undefined
-    - minute: undefined
-    - minutes: undefined
-    - monday: undefined
-    - morning: undefined
-    - much: undefined
-    - ninth: undefined
-    - not: undefined
-    - nothing: undefined
-    - of: undefined
-    - one: undefined
-    - other: undefined
-    - past: undefined
-    - quiet: undefined
-    - restaurant: undefined
-    - second: undefined
-    - seconds: undefined
-    - see: undefined
-    - she: undefined
-    - short: undefined
-    - sleep: undefined
-    - sleeps: undefined
-    - small: undefined
-    - that: undefined
-    - the: undefined
-    - they: undefined
-    - third: undefined
-    - time: undefined
-    - to: undefined
-    - today: undefined
-    - tomorrow: undefined
-    - too: undefined
-    - twenty: undefined
-    - unit: undefined
-    - until: undefined
-    - very: undefined
-    - warm: undefined
-    - was: undefined
-    - we: undefined
-    - went: undefined
-    - went/walked: undefined
-    - were: undefined
-    - what: undefined
-    - will: undefined
-    - yesterday: undefined
-    - you: undefined
+    - a: jedin/один
+    - an: ан
+    - are: byti/быти
+    - at: в
+    - better: краще
+    - cinema: кіно
+    - cold: холодний
+    - did: зробив
+    - does: робить
+    - each: кожен
+    - eighth: восьмий
+    - evening: вечір
+    - film: фільм
+    - first: перший
+    - for: для
+    - gone: пішов
+    - had: мав
+    - have: мати
+    - he: він
+    - home: дім
+    - hour: година
+    - how: як
+    - i: я
+    - in: в
+    - is: є
+    - it: це
+    - last: останній
+    - late: пізній
+    - many: багато
+    - midnight: північ
+    - minute: хвилина
+    - minutes: хвилини
+    - monday: понеділок
+    - morning: ранок
+    - much: багато
+    - ninth: дев'ятий
+    - not: не
+    - nothing: нічого
+    - of: з
+    - one: один
+    - other: інший
+    - past: минуле
+    - quiet: тихий
+    - restaurant: ресторан
+    - second: другий
+    - seconds: секунди
+    - see: бачити
+    - she: вона
+    - short: короткий
+    - sleep: спати
+    - sleeps: спить
+    - small: малий
+    - that: той
+    - the: to
+    - they: вони
+    - third: третій
+    - time: час
+    - to: до
+    - today: сьогодні
+    - tomorrow: завтра
+    - too: теж
+    - twenty: двадцять
+    - unit: одиниця
+    - until: доки
+    - very: дуже
+    - warm: теплий
+    - was: був
+    - we: ми
+    - went: пішов
+    - went/walked: пішов/гуляв
+    - were: byl/был
+    - what: що
+    - will: буде
+    - yesterday: вчора
+    - you: ви

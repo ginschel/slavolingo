@@ -82,128 +82,112 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - варити: undefined
-    - варитъ: undefined
-    - вилица: undefined
-    - вилѥцє: undefined
-    - вилѥцєѭ: undefined
-    - водоѭ: undefined
-    - въ: undefined
-    - вєчєрꙋ: undefined
-    - горѧшти: undefined
-    - готовимъ: undefined
-    - гръньци: undefined
-    - гръньць: undefined
-    - дамъ: undefined
-    - до: undefined
-    - добръи: undefined
-    - запахъ: undefined
-    - и: undefined
-    - изъ: undefined
-    - имаѥтъ: undefined
-    - консєрва: undefined
-    - кꙋхъниꙗ: undefined
-    - ложитъ: undefined
-    - ложька: undefined
-    - лєжитъ: undefined
-    - миска: undefined
-    - мискѣ: undefined
-    - моꙗ: undefined
-    - мьного: undefined
-    - мѧсо: undefined
-    - мꙑ: undefined
-    - на: undefined
-    - наполънѥна: undefined
-    - ножь: undefined
-    - ножє: undefined
-    - она: undefined
-    - онъ: undefined
-    - остръи: undefined
-    - палачинька: undefined
-    - палмєнь: undefined
-    - пиѥтъ: undefined
-    - пламєни: undefined
-    - подлогѣ: undefined
-    - пълъна: undefined
-    - пєпрьца: undefined
-    - пєпрьць: undefined
-    - пꙋста: undefined
-    - сковъродъка: undefined
-    - сковъродъцѣ: undefined
-    - соли: undefined
-    - срєбръна: undefined
-    - столѣ: undefined
-    - съ: undefined
-    - сѫтъ: undefined
-    - талирька: undefined
-    - цꙋкра: undefined
-    - цꙋкръ: undefined
-    - чаша: undefined
-    - чашька: undefined
-    - чашькꙑ: undefined
-    - чаꙗ: undefined
-    - чиста: undefined
-    - ѥдꙑ: undefined
-    - ѥстъ: undefined
+    - варитъ: he/she/it cooks
+    - вилѥцє: with a fork
+    - вилѥцєѭ: with a fork
+    - водоѭ: with water
+    - въ: in, at
+    - вєчєрꙋ: for dinner
+    - готовимъ: we prepare
+    - гръньци: pots
+    - дамъ: I will give
+    - до: to, until
+    - добръи: good
+    - запахъ: smell, scent
+    - и: and
+    - изъ: from
+    - имаѥтъ: he/she/it has
+    - консєрва: canned food
+    - ложитъ: he/she/it puts
+    - лєжитъ: he/she/it is lying down
+    - мискѣ: in the bowl
+    - моꙗ: my (feminine)
+    - мьного: much, many
+    - мѧсо: meat
+    - мꙑ: we
+    - на: on, to
+    - наполънѥна: filled (feminine)
+    - ножє: knives
+    - она: she
+    - онъ: he
+    - остръи: sharp
+    - пиѥтъ: he/she/it drinks
+    - пламєни: of the flame
+    - подлогѣ: on the floor
+    - пълъна: full (feminine)
+    - пєпрьца: of pepper
+    - пꙋста: empty (feminine)
+    - сковъродъцѣ: in the frying pan
+    - срєбръна: silver (feminine)
+    - столѣ: on the table
+    - съ: with
+    - сѫтъ: they are
+    - цꙋкра: of sugar
+    - чашька: cup
+    - чашькꙑ: of the cup
+    - чаꙗ: of tea
+    - чиста: clean (feminine)
+    - ѥдꙑ: of food
+    - ѥстъ: he/she/it is
   English:
-    - a: undefined
-    - add: undefined
-    - and: undefined
-    - are: undefined
-    - bowl: undefined
-    - can: undefined
-    - clean: undefined
-    - cook: undefined
-    - cooking: undefined
-    - cup: undefined
-    - drinks: undefined
-    - dumpling: undefined
-    - eats: undefined
-    - empty: undefined
-    - evening: undefined
-    - filled: undefined
-    - flame: undefined
-    - floor: undefined
-    - food: undefined
-    - fork: undefined
-    - forks: undefined
-    - from: undefined
-    - frying: undefined
-    - full: undefined
-    - good: undefined
-    - has: undefined
-    - he: undefined
-    - hot: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - kitchen: undefined
-    - knife: undefined
-    - knives: undefined
-    - lot: undefined
-    - lying: undefined
-    - meat: undefined
-    - my: undefined
-    - of: undefined
-    - on: undefined
-    - pan: undefined
-    - pancake: undefined
-    - pepper: undefined
-    - plate: undefined
-    - pot: undefined
-    - salt: undefined
-    - sharp: undefined
-    - she: undefined
-    - silver: undefined
-    - smell: undefined
-    - spoon: undefined
-    - sugar: undefined
-    - table: undefined
-    - tea: undefined
-    - the: undefined
-    - there: undefined
-    - to: undefined
-    - water: undefined
-    - we: undefined
-    - will: undefined
-    - with: undefined
+    - a: jedin/один
+    - add: додавати
+    - and: и
+    - are: byti/быти
+    - bowl: миска
+    - can: мощи
+    - clean: чистъ
+    - cook: кꙋхаръ
+    - cooking: варитъ
+    - cup: чаша, чашька
+    - drinks: пиѥтъ
+    - dumpling: (no direct equivalent)
+    - eats: ѥстъ
+    - empty: пꙋстъ
+    - evening: вєчєръ
+    - filled: пълънъ
+    - flame: пламєнь
+    - floor: подлога
+    - food: ѥда
+    - fork: вилица
+    - forks: вилицє
+    - from: отъ, изъ
+    - frying: (part of frying pan)
+    - full: пълънъ
+    - good: добръ
+    - has: имаѥтъ
+    - he: онъ
+    - hot: горѧщь
+    - i: азъ, ꙗ
+    - in: въ
+    - is: ѥстъ
+    - kitchen: кꙋхънꙗ
+    - knife: ножь
+    - knives: ножє
+    - lot: мьного
+    - lying: лєжитъ
+    - meat: мѧсо
+    - my: мои, моꙗ, моѥ
+    - of: (genitive case)
+    - on: на
+    - pan: сковърода
+    - pancake: палачинька
+    - pepper: пєпрьць
+    - plate: талирька, блѭдо
+    - pot: гръньць
+    - salt: соль
+    - sharp: остръ
+    - she: она
+    - silver: срєбрънъ
+    - smell: запахъ
+    - spoon: ложька
+    - sugar: цꙋкръ
+    - table: столъ
+    - tea: чаи
+    - the: to
+    - there: тамъ
+    - to: къ, на
+    - water: вода
+    - we: мꙑ
+    - will: (future tense expressed by verb form)
+    - with: съ

@@ -90,154 +90,136 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - азъ: undefined
-    - бꙑла: undefined
-    - бꙑли: undefined
-    - бꙑло: undefined
-    - бꙑлъ: undefined
-    - видимъ: undefined
-    - въ: undefined
-    - въчєра: undefined
-    - вєчєромъ: undefined
-    - вєчєръ: undefined
-    - вꙑ: undefined
-    - до: undefined
-    - дома: undefined
-    - домꙋ: undefined
-    - дъвадесѧть: undefined
-    - дьнь: undefined
-    - дєвѧтои: undefined
-    - дѣлали: undefined
-    - за: undefined
-    - завътъра: undefined
-    - имаѥтъ: undefined
-    - имѣлъ: undefined
-    - кина: undefined
-    - колико: undefined
-    - кратъка: undefined
-    - лѣпьѥ: undefined
-    - мала: undefined
-    - минꙋта: undefined
-    - минꙋтъ: undefined
-    - мьного: undefined
-    - мꙑ: undefined
-    - ничьто: undefined
-    - нє: undefined
-    - о: undefined
-    - она: undefined
-    - они: undefined
-    - онъ: undefined
-    - осмои: undefined
-    - оутромъ: undefined
-    - поздьно: undefined
-    - полънощи: undefined
-    - полънощь: undefined
-    - понєдѣлъкъ: undefined
-    - пръвомъ: undefined
-    - рєсторанъ: undefined
-    - спати: undefined
-    - спитъ: undefined
-    - сєкꙋнда: undefined
-    - сєкꙋндъ: undefined
-    - сѧ: undefined
-    - тиха: undefined
-    - тръвати: undefined
-    - тръваѥтъ: undefined
-    - трєтьѥмъ: undefined
-    - тъ: undefined
-    - тєпло: undefined
-    - тꙋ: undefined
-    - тꙑ: undefined
-    - фильмъ: undefined
-    - хладьно: undefined
-    - часа: undefined
-    - части: undefined
-    - частинꙑ: undefined
-    - частъ: undefined
-    - часъ: undefined
-    - шьла: undefined
-    - шьли: undefined
-    - шьло: undefined
-    - шєлъ: undefined
-    - ѥдиница: undefined
-    - ѥдинѫ: undefined
-    - ѥси: undefined
-    - ѥсмь: undefined
-    - ѥстъ: undefined
-    - ѥстє: undefined
+    - азъ: I
+    - видимъ: we see
+    - въ: in, at
+    - вєчєромъ: in the evening
+    - вꙑ: you (plural)
+    - до: to, until
+    - дома: at home
+    - домꙋ: to the house
+    - дъвадесѧть: twenty
+    - дьнь: day
+    - дєвѧтои: ninth
+    - дѣлали: they did
+    - за: for, behind
+    - имаѥтъ: he/she/it has
+    - имѣлъ: he had
+    - кина: of the cinema
+    - кратъка: short (feminine)
+    - лѣпьѥ: better
+    - мала: small (feminine)
+    - минꙋтъ: of minutes
+    - мьного: much, many
+    - мꙑ: we
+    - ничьто: nothing
+    - нє: no, not
+    - о: about, on
+    - она: she
+    - они: they (masculine)
+    - онъ: he
+    - осмои: eighth
+    - оутромъ: in the morning
+    - поздьно: late
+    - полънощи: of midnight
+    - понєдѣлъкъ: Monday
+    - пръвомъ: in the first
+    - рєсторанъ: restaurant
+    - спати: to sleep
+    - спитъ: he/she/it sleeps
+    - сєкꙋндъ: of seconds
+    - сѧ: oneself (reflexive pronoun)
+    - тиха: quiet (feminine)
+    - тръваѥтъ: it lasts
+    - трєтьѥмъ: in the third
+    - тъ: that, he
+    - тєпло: warm (neuter)
+    - тꙋ: here
+    - тꙑ: you (singular)
+    - фильмъ: film, movie
+    - хладьно: cold
+    - часа: of the hour
+    - части: parts
+    - частинꙑ: of the part
+    - ѥдиница: unit
+    - ѥдинѫ: one (accusative)
+    - ѥси: you are (singular)
+    - ѥсмь: I am
+    - ѥстъ: he/she/it is
+    - ѥстє: you are (plural)
   English:
-    - a: undefined
-    - an: undefined
-    - are: undefined
-    - at: undefined
-    - better: undefined
-    - cinema: undefined
-    - cold: undefined
-    - did: undefined
-    - does: undefined
-    - each: undefined
-    - eighth: undefined
-    - evening: undefined
-    - film: undefined
-    - first: undefined
-    - for: undefined
-    - gone: undefined
-    - had: undefined
-    - have: undefined
-    - he: undefined
-    - home: undefined
-    - hour: undefined
-    - how: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - it: undefined
-    - last: undefined
-    - late: undefined
-    - many: undefined
-    - midnight: undefined
-    - minute: undefined
-    - minutes: undefined
-    - monday: undefined
-    - morning: undefined
-    - much: undefined
-    - ninth: undefined
-    - not: undefined
-    - nothing: undefined
-    - of: undefined
-    - one: undefined
-    - other: undefined
-    - past: undefined
-    - quiet: undefined
-    - restaurant: undefined
-    - second: undefined
-    - seconds: undefined
-    - see: undefined
-    - she: undefined
-    - short: undefined
-    - sleep: undefined
-    - sleeps: undefined
-    - small: undefined
-    - that: undefined
-    - the: undefined
-    - they: undefined
-    - third: undefined
-    - time: undefined
-    - to: undefined
-    - today: undefined
-    - tomorrow: undefined
-    - too: undefined
-    - twenty: undefined
-    - unit: undefined
-    - until: undefined
-    - very: undefined
-    - warm: undefined
-    - was: undefined
-    - we: undefined
-    - went: undefined
-    - went/walked: undefined
-    - were: undefined
-    - what: undefined
-    - will: undefined
-    - yesterday: undefined
-    - you: undefined
+    - a: jedin/один
+    - an: (not directly translated)
+    - are: byti/быти
+    - at: въ
+    - better: лѣпьшє
+    - cinema: кино
+    - cold: хладънъ
+    - did: (past tense verb ending)
+    - does: дѣлаѥтъ
+    - each: каждъи
+    - eighth: осмъ
+    - evening: вєчєръ
+    - film: фильмъ
+    - first: пръвъ
+    - for: за, на
+    - gone: шєлъ
+    - had: имѣлъ
+    - have: имати
+    - he: онъ
+    - home: домъ, дома
+    - hour: часъ
+    - how: како, какъ
+    - i: азъ, ꙗ
+    - in: въ
+    - is: ѥстъ
+    - it: ono
+    - last: послѣдьнъ
+    - late: поздьно
+    - many: мьного
+    - midnight: полънощь
+    - minute: минꙋта
+    - minutes: минꙋтꙑ
+    - monday: понєдѣлъкъ
+    - morning: оутро
+    - much: мьного
+    - ninth: дєвѧтъ
+    - not: нє
+    - nothing: ничьто
+    - of: (genitive case)
+    - one: ѥдинъ
+    - other: инъ
+    - past: (past tense)
+    - quiet: тихъ
+    - restaurant: рєсторанъ
+    - second: въторъ, сєкꙋнда
+    - seconds: сєкꙋндꙑ
+    - see: видѣти
+    - she: она
+    - short: кратъкъ
+    - sleep: спати
+    - sleeps: спитъ
+    - small: малъ
+    - that: тъ, та, то
+    - the: to
+    - they: они, онꙑ
+    - third: трєтии
+    - time: врѣмѧ, часъ
+    - to: къ, на
+    - today: дьньсь
+    - tomorrow: завътра
+    - too: тъждє
+    - twenty: дъвадесѧть
+    - unit: ѥдиница
+    - until: до
+    - very: вєльми, прємо
+    - warm: тєплъ
+    - was: бꙑлъ, бꙑла, бꙑло
+    - we: мꙑ
+    - went: шєлъ
+    - went/walked: шєлъ
+    - were: byl/был
+    - what: чьто
+    - will: (future tense expressed by verb form)
+    - yesterday: въчєра
+    - you: тꙑ, вꙑ

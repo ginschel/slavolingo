@@ -45,7 +45,7 @@ Phrases:
     Translation: The river flows through the valley.
   - Phrase: Góra jest wysoka.
     Translation: The mountain is high.
-  - Phrase: My idziemy do lasu.
+  - Phrase: My idziemy w las.
     Translation: We are going to the forest.
   - Phrase: Trawa jest zielona.
     Translation: The grass is green.
@@ -75,7 +75,7 @@ Phrases:
     Translation: The field is behind the house.
   - Phrase: Idziemy do dębu.
     Translation: We are going towards the oak.
-  - Phrase: Księżyc dzisiaj piękny
+  - Phrase: Księżyc jest dzisiaj piękny
     Translation: The moon today is beautiful
   - Phrase: My stoimy na ziemi.
     Translation: We are standing on the earth.
@@ -86,123 +86,107 @@ Phrases:
 
 Mini-dictionary:
   Polish:
-    - ciężkie: undefined
-    - do: undefined
-    - dolina: undefined
-    - dolinę: undefined
-    - domem: undefined
-    - drzewami: undefined
-    - drzewo: undefined
-    - dzisiaj: undefined
-    - dąb: undefined
-    - dębu: undefined
-    - góra: undefined
-    - górami: undefined
-    - idziemy: undefined
-    - idą: undefined
-    - jest: undefined
-    - kamienie: undefined
-    - kamieniu: undefined
-    - kamień: undefined
-    - księżyc: undefined
-    - kwiat: undefined
-    - kwiaty: undefined
-    - kwitnie: undefined
-    - kwitną: undefined
-    - kwitnąć: undefined
-    - las: undefined
-    - lasu: undefined
-    - leżeć: undefined
-    - leży: undefined
-    - między: undefined
-    - mokra: undefined
-    - my: undefined
-    - na: undefined
-    - on: undefined
-    - oni: undefined
-    - patrzą: undefined
-    - pięknie: undefined
-    - piękny: undefined
-    - polami: undefined
-    - pole: undefined
-    - polu: undefined
-    - przez: undefined
-    - płynie: undefined
-    - rosnąć: undefined
-    - rośnie: undefined
-    - rzeka: undefined
-    - rzeki: undefined
-    - róża: undefined
-    - stoi: undefined
-    - stoimy: undefined
-    - szerokie: undefined
-    - szybko: undefined
-    - są: undefined
-    - trawa: undefined
-    - w: undefined
-    - wieloma: undefined
-    - woda: undefined
-    - wysoka: undefined
-    - z: undefined
-    - za: undefined
-    - zielona: undefined
-    - ziemi: undefined
-    - ziemia: undefined
+    - ciężkie: heavy
+    - do: to
+    - dolinę: valley
+    - domem: home
+    - drzewami: trees
+    - dzisiaj: today
+    - dębu: oak
+    - górami: mountains
+    - idziemy: we go
+    - idą: they go
+    - jest: is
+    - kamienie: stones
+    - kamieniu: stone
+    - kwiaty: flowers
+    - kwitnie: blooms
+    - kwitną: bloom
+    - kwitnąć: bloom
+    - leżeć: lie
+    - leży: lies
+    - mokra: wet
+    - my: we
+    - na: on
+    - on: he
+    - oni: they
+    - patrzą: they look
+    - pięknie: beautifully
+    - piękny: beautiful
+    - polami: fields
+    - polu: field
+    - płynie: flows
+    - rosnąć: grow
+    - rośnie: grows
+    - rzeki: river
+    - stoi: stands
+    - stoimy: we stand
+    - szerokie: wide
+    - szybko: fast
+    - są: are
+    - w: in
+    - wieloma: many
+    - woda: water
+    - wysoka: high
+    - z: with
+    - za: behind
+    - zielona: green
+    - ziemi: earth
   English:
-    - a: undefined
-    - are: undefined
-    - beautiful: undefined
-    - beautifully: undefined
-    - behind: undefined
-    - between: undefined
-    - bloom: undefined
-    - earth: undefined
-    - fast: undefined
-    - field: undefined
-    - fields: undefined
-    - flower: undefined
-    - flowers: undefined
-    - flows: undefined
-    - forest: undefined
-    - from: undefined
-    - goes: undefined
-    - going: undefined
-    - grass: undefined
-    - green: undefined
-    - grow: undefined
-    - grows: undefined
-    - he: undefined
-    - heavy: undefined
-    - high: undefined
-    - house: undefined
-    - in: undefined
-    - into: undefined
-    - is: undefined
-    - lie: undefined
-    - lies: undefined
-    - looking: undefined
-    - many: undefined
-    - moon: undefined
-    - mountain: undefined
-    - mountains: undefined
-    - oak: undefined
-    - on: undefined
-    - river: undefined
-    - rose: undefined
-    - standing: undefined
-    - stone: undefined
-    - stones: undefined
-    - the: undefined
-    - they: undefined
-    - through: undefined
-    - to: undefined
-    - today: undefined
-    - towards: undefined
-    - tree: undefined
-    - trees: undefined
-    - valley: undefined
-    - water: undefined
-    - we: undefined
-    - wet: undefined
-    - wide: undefined
-    - with: undefined
+    - a: jedin/один
+    - are: byti/быти
+    - beautiful: piękna
+    - beautifully: pięknie
+    - behind: za
+    - between: między
+    - bloom: kwitnąć
+    - earth: ziemia
+    - fast: szybki
+    - field: pole
+    - fields: pola
+    - flower: kwiat
+    - flowers: kwiaty
+    - flows: płynie
+    - forest: las
+    - from: z
+    - goes: idzie
+    - going: idzie
+    - grass: trawa
+    - green: zielony
+    - grow: rosnąć
+    - grows: rośnie
+    - he: on
+    - heavy: ciężki
+    - high: wysoki
+    - house: dom
+    - in: w
+    - into: do
+    - is: jest
+    - lie: leżeć
+    - lies: leży
+    - looking: patrzenie
+    - many: wiele
+    - moon: księżyc
+    - mountain: góra
+    - mountains: górami
+    - oak: dąb
+    - on: na
+    - river: rzeka
+    - rose: róża
+    - standing: stojący
+    - stone: kamień
+    - stones: kamienie
+    - the: to
+    - they: oni
+    - through: przez
+    - to: do
+    - today: dzisiaj
+    - towards: w stronę
+    - tree: drzewo
+    - trees: drzewa
+    - valley: dolina
+    - water: woda
+    - we: my
+    - wet: mokry
+    - wide: szeroki
+    - with: z

@@ -72,123 +72,116 @@ Phrases:
 
 Mini-dictionary:
   Interslavic:
-    - dnevnik: undefined
-    - film: undefined
-    - futbol: undefined
-    - gitaru: undefined
-    - gleděmo: undefined
-    - gleděti: undefined
-    - gleděš: undefined
-    - grupoju: undefined
-    - i: undefined
-    - igra: undefined
-    - igramo: undefined
-    - igrati: undefined
-    - ja: undefined
-    - jezyka: undefined
-    - knigu: undefined
-    - malovati: undefined
-    - malujem: undefined
-    - malujemo: undefined
-    - mnogo: undefined
-    - muzyku: undefined
-    - my: undefined
-    - na: undefined
-    - obraz: undefined
-    - obrazy: undefined
-    - oděždu: undefined
-    - on: undefined
-    - ona: undefined
-    - oni: undefined
-    - pisati: undefined
-    - pisma: undefined
-    - piše: undefined
-    - prijateljami: undefined
-    - pěsnje: undefined
-    - pěva: undefined
-    - pěvam: undefined
-    - pěvati: undefined
-    - radio: undefined
-    - romany: undefined
-    - s: undefined
-    - se: undefined
-    - seriju: undefined
-    - slušajut: undefined
-    - slušati: undefined
-    - sědi: undefined
-    - sěděti: undefined
-    - tancevati: undefined
-    - tancujem: undefined
-    - tu: undefined
-    - ty: undefined
-    - učimo: undefined
-    - učite: undefined
-    - učiti: undefined
-    - v: undefined
-    - vy: undefined
-    - čita: undefined
-    - čitam: undefined
-    - čitati: undefined
-    - čitaš: undefined
-    - šah: undefined
-    - šije: undefined
-    - šijem: undefined
-    - šiješ: undefined
-    - šiti: undefined
+    - dnevnik: diary
+    - film: film
+    - futbol: football
+    - gitaru: guitar
+    - gleděmo: we look
+    - gleděš: you look
+    - grupoju: group
+    - i: and
+    - igra: plays
+    - igramo: we play
+    - ja: i
+    - jezyka: language
+    - knigu: book
+    - malujem: i paint
+    - malujemo: we paint
+    - mnogo: many
+    - muzyku: music
+    - my: we
+    - na: on
+    - obraz: image
+    - obrazy: images
+    - oděždu: clothes
+    - on: he
+    - ona: she
+    - oni: they
+    - pisati: to write
+    - pisma: letter
+    - piše: writes
+    - prijateljami: friends
+    - pěsnje: songs
+    - pěva: sings
+    - pěvam: i sing
+    - radio: radio
+    - romany: novels
+    - s: with
+    - se: himself
+    - seriju: series
+    - slušajut: they listen
+    - sědi: sits
+    - sěděti: to sit
+    - tancujem: i dance
+    - tu: here
+    - ty: you
+    - učimo: we learn
+    - učite: you learn
+    - učiti: to teach
+    - v: in
+    - vy: you
+    - čita: reads
+    - čitam: i read
+    - čitaš: you read
+    - šah: chess
+    - šije: sews
+    - šijem: i sew
+    - šiješ: you sew
+    - šiti: to sew
   English:
-    - a: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - book: undefined
-    - chess: undefined
-    - clothes: undefined
-    - dance: undefined
-    - diary: undefined
-    - do: undefined
-    - film: undefined
-    - football: undefined
-    - friends: undefined
-    - group: undefined
-    - guitar: undefined
-    - he: undefined
-    - here: undefined
-    - i: undefined
-    - is: undefined
-    - language: undefined
-    - learn: undefined
-    - learning: undefined
-    - letters: undefined
-    - listen: undefined
-    - listening: undefined
-    - lot: undefined
-    - music: undefined
-    - novels: undefined
-    - paint: undefined
-    - painting: undefined
-    - picture: undefined
-    - pictures: undefined
-    - play: undefined
-    - playing: undefined
-    - radio: undefined
-    - read: undefined
-    - reading: undefined
-    - series: undefined
-    - sew: undefined
-    - sewing: undefined
-    - she: undefined
-    - sing: undefined
-    - singing: undefined
-    - sit: undefined
-    - sitting: undefined
-    - songs: undefined
-    - the: undefined
-    - they: undefined
-    - to: undefined
-    - watch: undefined
-    - watching: undefined
-    - we: undefined
-    - with: undefined
-    - write: undefined
-    - writing: undefined
-    - you: undefined
+    - a: jedin/один
+    - am: jesm
+    - and: i
+    - are: byti/быти
+    - book: kniga
+    - chess: šah
+    - clothes: odež
+    - dance: tancevati
+    - diary: dnevnik
+    - do: dělati
+    - film: film
+    - football: futbol
+    - friends: prijatelje
+    - group: grupoju
+    - guitar: gitaru
+    - he: on
+    - here: tu
+    - i: ja
+    - is: jest
+    - language: jezyk
+    - learn: učiti
+    - learning: učimo
+    - letters: pisma
+    - listen: slušati
+    - listening: slušajut
+    - lot: mnogo
+    - music: muzika
+    - novels: romany
+    - paint: malovati
+    - painting: maluje
+    - picture: obraz
+    - pictures: obrazy
+    - play: igrati
+    - playing: igra
+    - radio: radio
+    - read: čitati
+    - reading: čita
+    - series: seriju
+    - sew: šiti
+    - sewing: šije
+    - she: ona
+    - sing: pěvati
+    - singing: pěva
+    - sit: sěděti
+    - sitting: sědi
+    - songs: pěsnje
+    - the: to
+    - they: oni
+    - to: do
+    - watch: časovnik
+    - watching: gledaje
+    - we: my
+    - with: s
+    - write: pisati
+    - writing: pišem
+    - you: ty

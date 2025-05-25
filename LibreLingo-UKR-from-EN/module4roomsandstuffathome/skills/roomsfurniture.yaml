@@ -78,121 +78,108 @@ Phrases:
 
 Mini-dictionary:
   Ukrainian:
-    - але: undefined
-    - багато: undefined
-    - близько: undefined
-    - в: undefined
-    - ведуть: undefined
-    - висить: undefined
-    - висіти: undefined
-    - відкрите: undefined
-    - вікна: undefined
-    - вікно: undefined
-    - давати: undefined
-    - дає: undefined
-    - два: undefined
-    - двері: undefined
-    - дерева: undefined
-    - до: undefined
-    - з: undefined
-    - закриті: undefined
-    - книжка: undefined
-    - книжки: undefined
-    - комфортний: undefined
-    - кухні: undefined
-    - кімната: undefined
-    - кімнати: undefined
-    - кімнаті: undefined
-    - лампа: undefined
-    - лежить: undefined
-    - ліжко: undefined
-    - ліжком: undefined
-    - м'яке: undefined
-    - має: undefined
-    - на: undefined
-    - над: undefined
-    - нове: undefined
-    - одягу: undefined
-    - повна: undefined
-    - подушка: undefined
-    - полиця: undefined
-    - посередині: undefined
-    - під: undefined
-    - світить: undefined
-    - світло: undefined
-    - скриня: undefined
-    - спокійно: undefined
-    - старий: undefined
-    - столом: undefined
-    - столу: undefined
-    - столі: undefined
-    - стоїть: undefined
-    - стіл: undefined
-    - стілець: undefined
-    - стіна: undefined
-    - стіні: undefined
-    - тепла: undefined
-    - тиха: undefined
-    - тримати: undefined
-    - тримає: undefined
-    - шафа: undefined
-    - є: undefined
-    - і: undefined
+    - але: but
+    - багато: a lot, many, much
+    - близько: near, close
+    - в: in, at
+    - ведуть: they lead
+    - висить: hangs
+    - висіти: to hang
+    - відкрите: open (neuter)
+    - вікна: windows
+    - дає: gives
+    - два: two
+    - дерева: trees
+    - до: to, until
+    - з: with, from
+    - закриті: closed
+    - книжка: book
+    - книжки: books
+    - комфортний: comfortable
+    - кухні: in the kitchen
+    - кімнати: of the room
+    - кімнаті: in the room
+    - лежить: lies
+    - ліжком: with a bed
+    - м'яке: soft
+    - має: has
+    - на: on, at
+    - над: above
+    - нове: new (neuter)
+    - одягу: of clothes
+    - повна: full (feminine)
+    - посередині: in the middle
+    - під: under
+    - світить: shines
+    - світло: light (noun)
+    - спокійно: calmly
+    - старий: old (masculine)
+    - столом: with the table
+    - столу: of the table
+    - столі: on the table
+    - стоїть: stands
+    - стіні: on the wall
+    - тепла: warm (feminine)
+    - тиха: quiet (feminine)
+    - тримати: to hold
+    - тримає: holds
+    - є: is, are
+    - і: and
   English:
-    - a: undefined
-    - above: undefined
-    - and: undefined
-    - are: undefined
-    - bed: undefined
-    - book: undefined
-    - books: undefined
-    - but: undefined
-    - chair: undefined
-    - chest: undefined
-    - closed: undefined
-    - clothes: undefined
-    - comfortable: undefined
-    - doors: undefined
-    - full: undefined
-    - give: undefined
-    - gives: undefined
-    - hang: undefined
-    - hangs: undefined
-    - has: undefined
-    - hold: undefined
-    - holds: undefined
-    - in: undefined
-    - is: undefined
-    - it: undefined
-    - kitchen: undefined
-    - lamp: undefined
-    - lead: undefined
-    - light: undefined
-    - lying: undefined
-    - made: undefined
-    - many: undefined
-    - middle: undefined
-    - near: undefined
-    - new: undefined
-    - of: undefined
-    - old: undefined
-    - on: undefined
-    - open: undefined
-    - pillow: undefined
-    - quiet: undefined
-    - room: undefined
-    - shelf: undefined
-    - shines: undefined
-    - soft: undefined
-    - stands: undefined
-    - table: undefined
-    - the: undefined
-    - to: undefined
-    - two: undefined
-    - under: undefined
-    - wall: undefined
-    - wardrobe: undefined
-    - warm: undefined
-    - window: undefined
-    - windows: undefined
-    - wood: undefined
+    - a: jedin/один
+    - above: вище
+    - and: і
+    - are: byti/быти
+    - bed: ліжко
+    - book: книга
+    - books: книги
+    - but: але
+    - chair: стілець
+    - chest: груди
+    - closed: зачинено
+    - clothes: одяг
+    - comfortable: зручний
+    - doors: двері
+    - full: повний
+    - give: дати
+    - gives: дає
+    - hang: вішати
+    - hangs: висить
+    - has: має
+    - hold: тримати
+    - holds: тримає
+    - in: в
+    - is: є
+    - it: це
+    - kitchen: кухня
+    - lamp: лампа
+    - lead: вести
+    - light: світло
+    - lying: лежить
+    - made: зроблено
+    - many: багато
+    - middle: середина
+    - near: біля
+    - new: новий
+    - of: з
+    - old: старий
+    - on: на
+    - open: відкритий
+    - pillow: подушка
+    - quiet: тихий
+    - room: кімната
+    - shelf: полиця
+    - shines: сяє
+    - soft: м'який
+    - stands: стоїть
+    - table: стіл
+    - the: to
+    - to: до
+    - two: два
+    - under: під
+    - wall: стіна
+    - wardrobe: гардероб
+    - warm: теплий
+    - window: вікно
+    - windows: вікна
+    - wood: дерево

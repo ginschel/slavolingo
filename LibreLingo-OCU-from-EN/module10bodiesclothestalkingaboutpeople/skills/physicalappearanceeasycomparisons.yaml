@@ -90,166 +90,147 @@ Phrases:
 
 Mini-dictionary:
   Old Church Slavonic:
-    - а: undefined
-    - блѣскати: undefined
-    - блѣскаѭтъ: undefined
-    - бридъкъ: undefined
-    - бридъкъи: undefined
-    - бѣла: undefined
-    - власꙑ: undefined
-    - вєликꙋ: undefined
-    - вꙑсокъи: undefined
-    - вꙑшє: undefined
-    - гладка: undefined
-    - до: undefined
-    - дома: undefined
-    - дълъгє: undefined
-    - дєбєлъ: undefined
-    - дєбєлъи: undefined
-    - дѣвъка: undefined
-    - жена: undefined
-    - звѣзда: undefined
-    - звѣздꙑ: undefined
-    - зєлєнє: undefined
-    - и: undefined
-    - идєтъ: undefined
-    - имаѥтъ: undefined
-    - какъ: undefined
-    - кожа: undefined
-    - кошꙋлѭ: undefined
-    - красивє: undefined
-    - красьнъ: undefined
-    - красьнє: undefined
-    - люди: undefined
-    - малъи: undefined
-    - масꙑ: undefined
-    - млада: undefined
-    - млади: undefined
-    - младъ: undefined
-    - мьного: undefined
-    - мєньѥ: undefined
-    - мѫдри: undefined
-    - мѫжь: undefined
-    - мꙑ: undefined
-    - на: undefined
-    - низъка: undefined
-    - низъкъи: undefined
-    - носитъ: undefined
-    - нощь: undefined
-    - нєбꙋ: undefined
-    - нєже: undefined
-    - нѥго: undefined
-    - она: undefined
-    - онъ: undefined
-    - оу: undefined
-    - очи: undefined
-    - плави: undefined
-    - по: undefined
-    - свѣтлє: undefined
-    - свѣтълъ: undefined
-    - силььнъ: undefined
-    - смѣїти: undefined
-    - смѣѥтъ: undefined
-    - спортꙋѭтъ: undefined
-    - стара: undefined
-    - стари: undefined
-    - старъ: undefined
-    - сь: undefined
-    - сѧ: undefined
-    - сѫтъ: undefined
-    - тъи: undefined
-    - тьмьнъ: undefined
-    - тьмьнє: undefined
-    - тѣлєснои: undefined
-    - хꙋда: undefined
-    - хꙋдъ: undefined
-    - хꙋдъи: undefined
-    - часто: undefined
-    - чловѣкъ: undefined
-    - шапькѫ: undefined
-    - ылици: undefined
-    - єнєргии: undefined
-    - ѥго: undefined
-    - ѥстъ: undefined
-    - ѥѩ: undefined
-    - ꙗ: undefined
+    - а: and, but
+    - блѣскаѭтъ: they shine
+    - бридъкъи: ugly
+    - бѣла: white (feminine)
+    - вєликꙋ: big, great (accusative)
+    - гладка: smooth (feminine)
+    - до: to, until
+    - дома: at home
+    - дълъгє: long (neuter)
+    - дєбєлъи: thick, fat
+    - дѣвъка: girl
+    - жена: wife, woman
+    - звѣздꙑ: stars
+    - зєлєнє: green (plural)
+    - и: and
+    - идєтъ: he/she/it goes
+    - имаѥтъ: he/she/it has
+    - какъ: how
+    - кошꙋлѭ: shirt (accusative)
+    - красивє: beautifully
+    - красьнє: beautifully
+    - люди: people
+    - масꙑ: of the mass
+    - млада: young (feminine)
+    - млади: young (plural)
+    - мьного: much, many
+    - мѫдри: wise (plural)
+    - мѫжь: husband, man
+    - мꙑ: we
+    - на: on, to
+    - низъка: low (feminine)
+    - носитъ: he/she/it carries
+    - нощь: night
+    - нєбꙋ: to the sky
+    - нѥго: him, it
+    - она: she
+    - онъ: he
+    - оу: at, by
+    - плави: he/she/it swims
+    - по: after, along
+    - свѣтлє: brightly
+    - силььнъ: strong (masculine)
+    - смѣїти: to laugh
+    - смѣѥтъ: he/she/it laughs
+    - спортꙋѭтъ: they do sports
+    - стара: old (feminine)
+    - стари: old (plural)
+    - сь: this
+    - сѧ: oneself (reflexive pronoun)
+    - сѫтъ: they are
+    - тъи: that
+    - тьмьнє: dark (neuter)
+    - тѣлєснои: of the body
+    - хꙋда: bad (feminine)
+    - хꙋдъи: bad
+    - часто: often
+    - чловѣкъ: person, man
+    - шапькѫ: hat (accusative)
+    - ылици: on the street
+    - єнєргии: of energy
+    - ѥго: his, its
+    - ѥстъ: he/she/it is
+    - ѥѩ: her
+    - ꙗ: I
   English:
-    - a: undefined
-    - and: undefined
-    - are: undefined
-    - as: undefined
-    - beautiful: undefined
-    - blonde: undefined
-    - body: undefined
-    - dark: undefined
-    - do: undefined
-    - down: undefined
-    - energy: undefined
-    - eyes: undefined
-    - fat: undefined
-    - girl: undefined
-    - going: undefined
-    - green: undefined
-    - greener: undefined
-    - hair: undefined
-    - has: undefined
-    - hat: undefined
-    - he: undefined
-    - her: undefined
-    - him: undefined
-    - his: undefined
-    - home: undefined
-    - i: undefined
-    - in: undefined
-    - is: undefined
-    - larger: undefined
-    - laugh: undefined
-    - laughs: undefined
-    - less: undefined
-    - light: undefined
-    - like: undefined
-    - long: undefined
-    - lot: undefined
-    - louder: undefined
-    - man: undefined
-    - mass: undefined
-    - more: undefined
-    - night: undefined
-    - of: undefined
-    - often: undefined
-    - old: undefined
-    - one: undefined
-    - people: undefined
-    - person: undefined
-    - play: undefined
-    - she: undefined
-    - shine: undefined
-    - shirt: undefined
-    - short: undefined
-    - shorter: undefined
-    - skin: undefined
-    - sky: undefined
-    - small: undefined
-    - smooth: undefined
-    - sports: undefined
-    - star: undefined
-    - stars: undefined
-    - street: undefined
-    - stronger: undefined
-    - tall: undefined
-    - taller: undefined
-    - taller/higher: undefined
-    - than: undefined
-    - that: undefined
-    - the: undefined
-    - thin: undefined
-    - thinner: undefined
-    - to: undefined
-    - ugly: undefined
-    - us: undefined
-    - walking: undefined
-    - wears: undefined
-    - white: undefined
-    - wiser: undefined
-    - woman: undefined
-    - young: undefined
+    - a: jedin/один
+    - and: и
+    - are: byti/быти
+    - as: ꙗко
+    - beautiful: красьнъ
+    - blonde: (no direct equivalent)
+    - body: тѣло
+    - dark: тьмьнъ
+    - do: дѣлати
+    - down: (expressed by verb prefix)
+    - energy: єнєргиꙗ
+    - eyes: очи
+    - fat: дєбєлъ
+    - girl: дѣва, дѣвъка
+    - going: идєтъ
+    - green: зєлєнъ
+    - greener: зєлєнѣи
+    - hair: власъ, власꙑ
+    - has: имаѥтъ
+    - hat: шапька
+    - he: онъ
+    - her: ѥѩ
+    - him: ѥго
+    - his: ѥго
+    - home: домъ, дома
+    - i: азъ, ꙗ
+    - in: въ
+    - is: ѥстъ
+    - larger: бол҄ьши
+    - laugh: смѣꙗти сѧ
+    - laughs: смѣѥтъ сѧ
+    - less: мьньши
+    - light: свѣтъ
+    - like: ꙗко
+    - long: дълъгъ
+    - lot: мьного
+    - louder: гласьнѣѥ
+    - man: чловѣкъ
+    - mass: маса
+    - more: болѥ
+    - night: нощь
+    - of: (genitive case)
+    - often: часто
+    - old: старъ
+    - one: ѥдинъ
+    - people: людиѥ
+    - person: чловѣкъ
+    - play: играти
+    - she: она
+    - shine: блѣскати
+    - shirt: кошꙋлꙗ
+    - short: кратъкъ
+    - shorter: кратъши
+    - skin: кожа
+    - sky: нєбо
+    - small: малъ
+    - smooth: гладъкъ
+    - sports: спортъ
+    - star: звѣзда
+    - stars: звѣздꙑ
+    - street: ылица
+    - stronger: силььнѣи
+    - tall: вꙑсокъ
+    - taller: вꙑши
+    - taller/higher: вꙑши
+    - than: нєже
+    - that: тъ, та, то
+    - the: to
+    - thin: тънъкъ
+    - thinner: тънъши
+    - to: къ, на
+    - ugly: бридъкъ
+    - us: насъ
+    - walking: ходитъ
+    - wears: носитъ
+    - white: бѣлъ
+    - wiser: мѫдрѣи
+    - woman: жена
+    - young: младъ

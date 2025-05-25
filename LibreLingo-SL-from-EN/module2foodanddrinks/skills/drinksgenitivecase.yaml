@@ -84,118 +84,104 @@ Phrases:
 
 Mini-dictionary:
   Slovenian:
-    - brez: undefined
-    - dajte: undefined
-    - franku: undefined
-    - hoteti: undefined
-    - hoče: undefined
-    - imaš: undefined
-    - iz: undefined
-    - jaz: undefined
-    - je: undefined
-    - kava: undefined
-    - kave: undefined
-    - kozarec: undefined
-    - kupujejo: undefined
-    - leži: undefined
-    - ljubim: undefined
-    - mi: undefined
-    - mizi: undefined
-    - mleka: undefined
-    - mleko: undefined
-    - na: undefined
-    - najti: undefined
-    - ne: undefined
-    - ni: undefined
-    - nima: undefined
-    - nimam: undefined
-    - noče: undefined
-    - on: undefined
-    - ona: undefined
-    - oni: undefined
-    - pije: undefined
-    - pijemo: undefined
-    - piješ: undefined
-    - piti: undefined
-    - piva: undefined
-    - pivo: undefined
-    - poljske: undefined
-    - poskusiti: undefined
-    - poskuša: undefined
-    - pri: undefined
-    - prosim: undefined
-    - rad: undefined
-    - si: undefined
-    - skodelica: undefined
-    - skodelico: undefined
-    - sladkorja: undefined
-    - sok: undefined
-    - soka: undefined
-    - steklenic: undefined
-    - steklenica: undefined
-    - steklenice: undefined
-    - steklenico: undefined
-    - tebe: undefined
-    - ti: undefined
-    - to: undefined
-    - vina: undefined
-    - vino: undefined
-    - voda: undefined
-    - vode: undefined
-    - vodke: undefined
-    - za: undefined
-    - zame: undefined
-    - čaj: undefined
-    - čaja: undefined
+    - dajte: give
+    - franku: franc
+    - hoteti: to want
+    - hoče: wants
+    - imaš: you have
+    - jaz: I
+    - je: is
+    - kave: coffee
+    - kozarec: glass
+    - kupujejo: they buy
+    - leži: lies
+    - ljubim: I love
+    - mi: we
+    - mizi: table
+    - mleka: milk
+    - na: on
+    - najti: to find
+    - ne: no
+    - ni: is not
+    - nima: does not have
+    - nimam: I do not have
+    - noče: doesn't want
+    - on: he
+    - ona: she
+    - oni: they
+    - pije: drinks
+    - pijemo: we drink
+    - piješ: you drink
+    - piva: beer
+    - poljske: Poland
+    - poskusiti: to try
+    - poskuša: tries
+    - prosim: please
+    - rad: gladly / like
+    - si: you are
+    - skodelico: cup
+    - sladkorja: sugar
+    - soka: juice
+    - steklenic: bottles
+    - steklenice: bottle
+    - steklenico: bottle
+    - tebe: you (genitive)
+    - ti: you (singular informal)
+    - to: this
+    - vina: wine
+    - vode: water
+    - vodke: vodka
+    - zame: for me
+    - čaja: tea
   English:
-    - a: undefined
-    - are: undefined
-    - at/by: undefined
-    - beer: undefined
-    - bottle: undefined
-    - bottles: undefined
-    - buying: undefined
-    - coffee: undefined
-    - do: undefined
-    - does: undefined
-    - drink: undefined
-    - drinking: undefined
-    - find: undefined
-    - for: undefined
-    - frank: undefined
-    - from: undefined
-    - give: undefined
-    - glass: undefined
-    - has: undefined
-    - have: undefined
-    - he: undefined
-    - i: undefined
-    - is: undefined
-    - juice: undefined
-    - like: undefined
-    - lying: undefined
-    - me: undefined
-    - milk: undefined
-    - no: undefined
-    - not: undefined
-    - of: undefined
-    - on: undefined
-    - please: undefined
-    - poland: undefined
-    - she: undefined
-    - sugar: undefined
-    - table: undefined
-    - tea: undefined
-    - the: undefined
-    - they: undefined
-    - this: undefined
-    - to: undefined
-    - try: undefined
-    - trying: undefined
-    - vodka: undefined
-    - want: undefined
-    - water: undefined
-    - we: undefined
-    - wine: undefined
-    - without: undefined
-    - you: undefined
+    - a: jedin/один
+    - are: byti/быти
+    - at/by: ob
+    - beer: pivo
+    - bottle: steklenica
+    - bottles: steklenic
+    - buying: kupuje
+    - coffee: kava
+    - do: delati
+    - does: dela
+    - drink: piti
+    - drinking: pije
+    - find: najti
+    - for: za
+    - frank: franku
+    - from: od
+    - give: dati
+    - glass: kozarec
+    - has: ima
+    - have: imam
+    - he: on
+    - i: jaz
+    - is: je
+    - juice: sok
+    - like: rad
+    - lying: leži
+    - me: me
+    - milk: mleko
+    - no: ne
+    - not: ne
+    - of: od
+    - on: na
+    - please: prosim
+    - poland: poljska
+    - she: ona
+    - sugar: sladkor
+    - table: miza
+    - tea: čaj
+    - the: to
+    - they: oni
+    - this: ta
+    - to: do
+    - try: poskusiti
+    - trying: poskuša
+    - vodka: vodke
+    - want: hoteti
+    - water: voda
+    - we: mi
+    - wine: vino
+    - without: brez
+    - you: ti

@@ -49,11 +49,11 @@ Phrases:
     Translation: He is weak in sports.
   - Phrase: Śmiały mówi prawdę.
     Translation: Brave people speak the truth.
-  - Phrase: Jak byś usłyszał/usłyszała, to oni byliby cicho.
+  - Phrase: Jak byś usłyszał, to oni byliby cisi.
     Translation: If you would hear, they would be silent.
   - Phrase: Mądry wie dużo.
     Translation: A smart person knows much.
-  - Phrase: Jak byś nie był/była głupi/głupia, to byś nie robił/robiła głupstw.
+  - Phrase: Jak byś nie był głupi, to byś nie robił głupstw.
     Translation: If you were not stupid, you would not do foolish things.
   - Phrase: Szczery przyjaciel jest cenny.
     Translation: A sincere friend is valuable.
@@ -77,158 +77,140 @@ Phrases:
     Translation: A sincere person says what they think.
   - Phrase: Mądry milczy, kiedy trzeba.
     Translation: A wise person stays silent when needed.
-  - Phrase: Gdybym był/była śmiały/śmiała, to bym się nie bał/bała.
+  - Phrase: Gdybym był śmiały, to bym się nie bał.
     Translation: If I were brave, I would not be afraid.
 
 Mini-dictionary:
   Polish:
-    - ale: undefined
-    - bał/bała: undefined
-    - bolą: undefined
-    - byli: undefined
-    - byliby: undefined
-    - bylibyście: undefined
-    - bylibyśmy: undefined
-    - bym: undefined
-    - był/była: undefined
-    - byłby: undefined
-    - byłbym: undefined
-    - byłbyś: undefined
-    - byś: undefined
-    - byście: undefined
-    - byśmy: undefined
-    - cenny: undefined
-    - chce: undefined
-    - cicho: undefined
-    - cichy: undefined
-    - co: undefined
-    - czasem: undefined
-    - człowiek: undefined
-    - dobra: undefined
-    - dobry: undefined
-    - duch: undefined
-    - dużo: undefined
-    - dzieci: undefined
-    - gdybym: undefined
-    - głupi: undefined
-    - głupi/głupia: undefined
-    - głupstw: undefined
-    - i: undefined
-    - im: undefined
-    - jak: undefined
-    - jakby: undefined
-    - jakbyście: undefined
-    - jest: undefined
-    - kiedy: undefined
-    - leniwi: undefined
-    - leniwy: undefined
-    - milczeć: undefined
-    - milczy: undefined
-    - myśli: undefined
-    - mówi: undefined
-    - mądre: undefined
-    - mądry: undefined
-    - na: undefined
-    - nic: undefined
-    - nie: undefined
-    - on: undefined
-    - ona: undefined
-    - oni: undefined
-    - pomagali: undefined
-    - pracowali: undefined
-    - prawdę: undefined
-    - przyjaciel: undefined
-    - robić: undefined
-    - robił/robiła: undefined
-    - silny: undefined
-    - się: undefined
-    - sporcie: undefined
-    - swój: undefined
-    - szczera: undefined
-    - szczery: undefined
-    - są: undefined
-    - słabi: undefined
-    - słaby: undefined
-    - słowa: undefined
-    - to: undefined
-    - trzeba: undefined
-    - uczy: undefined
-    - usłyszał/usłyszała: undefined
-    - w: undefined
-    - ważny: undefined
-    - wie: undefined
-    - wiek: undefined
-    - zła: undefined
-    - złe: undefined
-    - zły: undefined
-    - śmiały: undefined
-    - śmiały/śmiała: undefined
+    - ale: but
+    - bał: feared
+    - bolą: hurt
+    - byli: were
+    - bym: I would
+    - był: was
+    - byś: you would
+    - byście: you would
+    - byśmy: we would
+    - cenny: valuable
+    - chce: wants
+    - cisi: quiet
+    - co: what
+    - czasem: sometimes
+    - człowiek: human
+    - dobra: good
+    - duch: ghost
+    - dużo: much
+    - dzieci: children
+    - gdybym: if I were
+    - głupstw: follies
+    - i: and
+    - im: them
+    - jak: how
+    - jakby: as if
+    - jakbyście: as if you were
+    - jest: is
+    - kiedy: when
+    - leniwi: lazy
+    - milczeć: be silent
+    - milczy: is silent
+    - myśli: thinks
+    - mówi: says
+    - mądre: wise
+    - na: on
+    - nic: nothing
+    - nie: no
+    - on: he
+    - ona: she
+    - oni: they
+    - pomagali: helped
+    - pracowali: worked
+    - prawdę: truth
+    - przyjaciel: friend
+    - robić: do
+    - robił: did
+    - się: oneself
+    - sporcie: sport
+    - swój: one's own
+    - szczera: sincere
+    - są: are
+    - słabi: weak
+    - słowa: words
+    - to: this
+    - trzeba: must
+    - uczy: teaches
+    - usłyszał: heard
+    - w: in
+    - ważny: important
+    - wie: knows
+    - wiek: age
+    - zła: bad
+    - złe: bad
   English:
-    - a: undefined
-    - afraid: undefined
-    - age: undefined
-    - and: undefined
-    - anything: undefined
-    - are: undefined
-    - bad: undefined
-    - be: undefined
-    - brave: undefined
-    - but: undefined
-    - children: undefined
-    - do: undefined
-    - foolish: undefined
-    - for: undefined
-    - friend: undefined
-    - good: undefined
-    - he: undefined
-    - he/she/it: undefined
-    - hear: undefined
-    - help: undefined
-    - hurt: undefined
-    - i: undefined
-    - if: undefined
-    - important: undefined
-    - in: undefined
-    - is: undefined
-    - knows: undefined
-    - lazy: undefined
-    - learn: undefined
-    - much: undefined
-    - needed: undefined
-    - not: undefined
-    - people: undefined
-    - person: undefined
-    - quiet: undefined
-    - says: undefined
-    - she: undefined
-    - silent: undefined
-    - sincere: undefined
-    - smart: undefined
-    - sometimes: undefined
-    - speak: undefined
-    - spirit: undefined
-    - sports: undefined
-    - stays: undefined
-    - strong: undefined
-    - stupid: undefined
-    - the: undefined
-    - their: undefined
-    - them: undefined
-    - they: undefined
-    - things: undefined
-    - think: undefined
-    - to: undefined
-    - truth: undefined
-    - valuable: undefined
-    - want: undefined
-    - we: undefined
-    - weak: undefined
-    - were: undefined
-    - what: undefined
-    - when: undefined
-    - wise: undefined
-    - wiser: undefined
-    - words: undefined
-    - work: undefined
-    - would: undefined
-    - you: undefined
+    - a: jedin/один
+    - afraid: przestraszony
+    - age: wiek
+    - and: i
+    - anything: nic
+    - are: byti/быти
+    - bad: zły
+    - be: być
+    - brave: śmiały
+    - but: ale
+    - children: dzieci
+    - do: robić
+    - foolish: głupi
+    - for: dla
+    - friend: przyjaciel
+    - good: dobry
+    - he: on
+    - he/she/it: ono
+    - hear: słyszeć
+    - help: pomagać
+    - hurt: boleć
+    - i: ja
+    - if: jeśli
+    - important: ważny
+    - in: w
+    - is: jest
+    - knows: zna
+    - lazy: leniwy
+    - learn: uczyć się
+    - much: dużo
+    - needed: potrzebny
+    - not: nie
+    - people: ludzie
+    - person: osoba
+    - quiet: cichy
+    - says: mówi
+    - she: ona
+    - silent: milczy
+    - sincere: szczery
+    - smart: mądry
+    - sometimes: czasem
+    - speak: mówić
+    - spirit: duch
+    - sports: sport
+    - stays: zostaje
+    - strong: silny
+    - stupid: głupi
+    - the: to
+    - their: ich
+    - them: ich
+    - they: oni
+    - things: rzeczy
+    - think: myśleć
+    - to: do
+    - truth: prawda
+    - valuable: cenny
+    - want: chcieć
+    - we: my
+    - weak: słaby
+    - were: byl/был
+    - what: co
+    - when: kiedy
+    - wise: mądry
+    - wiser: mądrzejszy
+    - words: słowa
+    - work: praca
+    - would: by
+    - you: ty

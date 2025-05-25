@@ -72,121 +72,114 @@ Phrases:
 
 Mini-dictionary:
   Slovenian:
-    - bere: undefined
-    - berem: undefined
-    - bereš: undefined
-    - brati: undefined
-    - dnevnik: undefined
-    - film: undefined
-    - glasbo: undefined
-    - gledamo: undefined
-    - gledati: undefined
-    - gledaš: undefined
-    - igra: undefined
-    - igramo: undefined
-    - igrati: undefined
-    - in: undefined
-    - jaz: undefined
-    - jezika: undefined
-    - kitaro: undefined
-    - knjigo: undefined
-    - mi: undefined
-    - nogomet: undefined
-    - obleko: undefined
-    - on: undefined
-    - ona: undefined
-    - oni: undefined
-    - pesmi: undefined
-    - peti: undefined
-    - pisati: undefined
-    - pisma: undefined
-    - piše: undefined
-    - plesati: undefined
-    - plešem: undefined
-    - poje: undefined
-    - pojem: undefined
-    - poslušajo: undefined
-    - poslušati: undefined
-    - prijatelji: undefined
-    - radio: undefined
-    - romane: undefined
-    - s: undefined
-    - se: undefined
-    - sedeti: undefined
-    - sedi: undefined
-    - serijo: undefined
-    - skupino: undefined
-    - slikam: undefined
-    - slikamo: undefined
-    - slikati: undefined
-    - slike: undefined
-    - sliko: undefined
-    - ti: undefined
-    - tukaj: undefined
-    - učimo: undefined
-    - učite: undefined
-    - učiti: undefined
-    - veliko: undefined
-    - vi: undefined
-    - šah: undefined
-    - šije: undefined
-    - šivam: undefined
-    - šivati: undefined
-    - šivaš: undefined
+    - bere: reads
+    - berem: I read
+    - bereš: you read
+    - dnevnik: diary
+    - film: film
+    - glasbo: music
+    - gledamo: we look
+    - gledaš: you look
+    - igra: plays
+    - igramo: we play
+    - in: and
+    - jaz: I
+    - jezika: language
+    - kitaro: guitar
+    - knjigo: book
+    - mi: we
+    - nogomet: football
+    - obleko: dress
+    - on: he
+    - ona: she
+    - oni: they
+    - pesmi: songs / poems
+    - pisati: to write
+    - pisma: letters
+    - piše: writes
+    - plešem: I dance
+    - poje: sings / eats
+    - pojem: I sing / I eat
+    - poslušajo: they listen
+    - prijatelji: friends
+    - radio: radio
+    - romane: novels
+    - s: with
+    - se: oneself / itself
+    - sedeti: to sit
+    - sedi: sits
+    - serijo: series
+    - skupino: group
+    - slikam: I paint / I take a picture
+    - slikamo: we paint / we take pictures
+    - slike: pictures
+    - sliko: picture
+    - ti: you (singular informal)
+    - tukaj: here
+    - učimo: we learn / we teach
+    - učite: you learn / you teach
+    - učiti: to learn / to teach
+    - veliko: much / many
+    - vi: you (plural formal)
+    - šah: chess
+    - šije: sews
+    - šivam: I sew
+    - šivati: to sew
+    - šivaš: you sew
   English:
-    - a: undefined
-    - am: undefined
-    - and: undefined
-    - are: undefined
-    - book: undefined
-    - chess: undefined
-    - clothes: undefined
-    - dance: undefined
-    - diary: undefined
-    - do: undefined
-    - film: undefined
-    - football: undefined
-    - friends: undefined
-    - group: undefined
-    - guitar: undefined
-    - he: undefined
-    - here: undefined
-    - i: undefined
-    - is: undefined
-    - language: undefined
-    - learn: undefined
-    - learning: undefined
-    - letters: undefined
-    - listen: undefined
-    - listening: undefined
-    - lot: undefined
-    - music: undefined
-    - novels: undefined
-    - paint: undefined
-    - painting: undefined
-    - picture: undefined
-    - pictures: undefined
-    - play: undefined
-    - playing: undefined
-    - radio: undefined
-    - read: undefined
-    - reading: undefined
-    - series: undefined
-    - sew: undefined
-    - sewing: undefined
-    - she: undefined
-    - sing: undefined
-    - singing: undefined
-    - sit: undefined
-    - sitting: undefined
-    - songs: undefined
-    - the: undefined
-    - they: undefined
-    - to: undefined
-    - watch: undefined
-    - watching: undefined
-    - we: undefined
-    - with: undefined
-    - write: undefined
-    - writing: undefined
-    - you: undefined
+    - a: jedin/один
+    - am: sem
+    - and: in
+    - are: byti/быти
+    - book: knjiga
+    - chess: šah
+    - clothes: obleke
+    - dance: plesati
+    - diary: dnevnik
+    - do: delati
+    - film: film
+    - football: nogomet
+    - friends: prijatelji
+    - group: skupino
+    - guitar: kitaro
+    - he: on
+    - here: tukaj
+    - i: jaz
+    - is: je
+    - language: jezik
+    - learn: učiti
+    - learning: uči
+    - letters: pisma
+    - listen: poslušati
+    - listening: poslušajo
+    - lot: veliko
+    - music: glasba
+    - novels: romane
+    - paint: malujem
+    - painting: slikanje
+    - picture: slika
+    - pictures: slike
+    - play: igrati
+    - playing: igrali
+    - radio: radio
+    - read: brati
+    - reading: bere
+    - series: serijo
+    - sew: šivati
+    - sewing: šivanje
+    - she: ona
+    - sing: poje
+    - singing: pojem
+    - sit: sedeti
+    - sitting: sedenje
+    - songs: pesmi
+    - the: to
+    - they: oni
+    - to: do
+    - watch: gledati
+    - watching: gledamo
+    - we: mi
+    - with: z
+    - write: pisati
+    - writing: pisanje
+    - you: ti
