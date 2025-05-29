@@ -1,0 +1,234 @@
+Skill:
+  Name: Greetings & Phrases
+  Id: 2
+
+New words:
+  - Word: powitać
+    Translation: greeting
+  - Word: zdrowy/jo
+    Translation: healthy/hello
+  - Word: godka
+    Translation: conversation
+  - Word: rano
+    Translation: morning
+  - Word: wieczōr
+    Translation: evening
+  - Word: dziyń
+    Translation: day
+  - Word: noc
+    Translation: night
+  - Word: dziynkuja
+    Translation: thanks
+  - Word: pardon
+    Translation: pardon
+  - Word: przeprōsz
+    Translation: excuse me
+  - Word: dobry
+    Translation: good
+  - Word: lepszy
+    Translation: better
+  - Word: idzie/możno
+    Translation: possible
+  - Word: szkoda
+    Translation: pity
+  - Word: tak
+    Translation: so
+  - Word: co
+    Translation: what
+  - Word: niy
+    Translation: no
+  - Word: ja
+    Translation: yes
+  - Word: snoc
+    Translation: maybe/can
+  - Word: dej
+    Translation: let's go
+
+Phrases:
+  - Phrase: Dobre rano!
+    Translation: Good morning!
+  - Phrase: Dobry wieczōr!
+    Translation: Good evening!
+  - Phrase: Dobry dziyń!
+    Translation: Good day!
+  - Phrase: Dobryj nocy!
+    Translation: Good night!
+  - Phrase: Jak żeś je?
+    Translation: How are you?
+  - Phrase: Żech je dobrze, dziynkuja!
+    Translation: I am well, thank you!
+  - Phrase: A ty?
+    Translation: And you?
+  - Phrase: Dziynkuja ci barzij.
+    Translation: Thank you very much.
+  - Phrase: Pardon, niy rozumia.
+    Translation: Excuse me, I don't understand.
+  - Phrase: Witoj!
+    Translation: Greetings!
+  - Phrase: Jo!
+    Translation: Hello!
+  - Phrase: Dobry dziyń, jak żeś je?
+    Translation: Good day, how are you?
+  - Phrase: Jesteś zdrowy?
+    Translation: Are you healthy?
+  - Phrase: Witejcie!
+    Translation: Welcome!
+  - Phrase: Na zdrowie!
+    Translation: To your health!
+  - Phrase: Pozdrōw twoja siostra.
+    Translation: Greet your sister.
+  - Phrase: Jak sie mianujesz?
+    Translation: What is your name?
+  - Phrase: Ja sie mianuja Bartek.
+    Translation: My name is Bartek.
+  - Phrase: Dziynkuja za godka.
+    Translation: Thank you for the conversation.
+  - Phrase: Tak je.
+    Translation: That is so.
+  - Phrase: Niy tak.
+    Translation: Not so.
+  - Phrase: Snoc może być.
+    Translation: Maybe.
+  - Phrase: Niy idzie.
+    Translation: Not possible.
+  - Phrase: Szkoda!
+    Translation: What a pity!
+  - Phrase: Dobrze!
+    Translation: Good!
+  - Phrase: Niy dobrze.
+    Translation: Not good.
+  - Phrase: To je lepszy.
+    Translation: This is better.
+  - Phrase: To niy je lepszy.
+    Translation: This is not better.
+  - Phrase: Ja, idzie.
+    Translation: Yes, it is possible.
+  - Phrase: Niy, niy idzie.
+    Translation: No, it is not possible.
+  - Phrase: Idzie to?
+    Translation: Is this possible?
+  - Phrase: Co to mianuje?
+    Translation: What does this mean?
+  - Phrase: Tyż jo.
+    Translation: Me too.
+  - Phrase: Z Bogiem!
+    Translation: Go with God!
+  - Phrase: Niy wia.
+    Translation: I don't know.
+  - Phrase: Snoc.
+    Translation: Perhaps.
+  - Phrase: Powtōrz. Niy zrozumiuł.
+    Translation: Repeat. I didn't understand.
+  - Phrase: Jesteś gotowy?
+    Translation: Are you ready?
+  - Phrase: Dej!
+    Translation: Let's go!
+
+Mini-dictionary:
+  Silesian:
+    - a: a
+    - bartek: Bartek
+    - barzij: more
+    - bogiem: God
+    - być: be
+    - ci: you
+    - dobre: good
+    - dobryj: good
+    - dobrze: well
+    - gotowy: ready
+    - idzie: goes
+    - jak: as
+    - je: is
+    - jesteś: are
+    - jo: I
+    - mianuja: name
+    - mianuje: names
+    - mianujesz: name
+    - może: can
+    - na: on
+    - nocy: night
+    - powtōrz: repeat
+    - pozdrōw: greeting
+    - rozumia: understand
+    - sie: herself
+    - siostra: sister
+    - to: to
+    - twoja: your
+    - ty: you
+    - tyż: too
+    - wia: knows
+    - witejcie: welcome
+    - witoj: hello
+    - z: from
+    - za: behind
+    - zdrowie: health
+    - zdrowy: healthy
+    - zrozumiuł: understood
+    - żech: I
+    - żeś: you
+  English:
+    - a: jedin/один
+    - am: jeżech
+    - and: a
+    - are: byti/быти
+    - bartek: Bartek
+    - better: lepszy
+    - conversation: godka
+    - day: dziyń
+    - didn't: niy zrobiōł
+    - does: robi
+    - don't: niy rōb
+    - evening: wieczōr
+    - excuse: przeprōszynie
+    - for: dlo
+    - go: iś
+    - god: Bōg
+    - good: dobry
+    - greet: witać
+    - greeting: witanie
+    - greetings: witania
+    - health: zdrowie
+    - healthy: zdrowy
+    - healthy/hello: zdrowo
+    - hello: witaj
+    - how: jak
+    - i: jŏ
+    - is: je
+    - it: to
+    - know: wiedzieć
+    - let's: pōdźmy
+    - maybe: możno
+    - maybe/can: możno
+    - me: mie
+    - mean: znaczyć
+    - morning: rano
+    - much: wiela
+    - my: mōj
+    - name: mjano
+    - night: noc
+    - no: niy
+    - not: niy
+    - pardon: przebaczyń
+    - perhaps: możno
+    - pity: żol
+    - possible: możebny
+    - ready: fertich
+    - repeat: powtōrzić
+    - sister: siostra
+    - so: tak
+    - thank: dziynkować
+    - thanks: dziynkujã
+    - that: co
+    - the: to
+    - this: tyn
+    - to: do
+    - too: tyż
+    - understand: rozumić
+    - very: fest
+    - welcome: witajcie
+    - well: dobrze
+    - what: co
+    - with: z
+    - yes: ja
+    - you: ty
+    - your: twōj

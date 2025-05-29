@@ -1,0 +1,195 @@
+Skill:
+  Name: Cases revision
+  Id: 19
+
+New words:
+  - Word: "rezati (reže)"
+    Translation: to cut
+  - Word: "darilo"
+    Translation: gift
+  - Word: "vesolje"
+    Translation: universe
+  - Word: "ogledalo"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Kosti tu ni.
+    Translation: There is no bone here.
+  - Phrase: Dam ženski.
+    Translation: I give to the woman.
+  - Phrase: Ona je v mestu.
+    Translation: She is in the city.
+  - Phrase: Govorim s prijatelji.
+    Translation: I talk with friends.
+  - Phrase: Imena on nima.
+    Translation: He has no name.
+  - Phrase: Ti duše nimaš?!
+    Translation: You don't have a soul?!
+  - Phrase: On vidi svojo ženo.
+    Translation: He sees his wife.
+  - Phrase: Brata tu ni.
+    Translation: There is no brother here.
+  - Phrase: To se da rezati z nožem.
+    Translation: This can be cut with a knife.
+  - Phrase: Ona z možem govori.
+    Translation: She talks with her husband.
+  - Phrase: Ona govori o bratih.
+    Translation: She talks about brothers.
+  - Phrase: Ona daje darilo bratom.
+    Translation: She gives a gift to the brothers.
+  - Phrase: Na polju veliko delam.
+    Translation: I work a lot in the field.
+  - Phrase: Je veliko sonc v vesolju.
+    Translation: There are many suns in the universe.
+  - Phrase: In tudi je veliko zvezd.
+    Translation: And there are also many stars.
+  - Phrase: On rad govori s svojo ženo.
+    Translation: He likes to talk with his wife.
+  - Phrase: Ni več banan v hiši.
+    Translation: There are no more bananas in the house.
+  - Phrase: V očeh vidim dušo tvojo.
+    Translation: In the eyes I see your soul.
+  - Phrase: Oči so ogledalo duše.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Moških tu ne vidim.
+    Translation: I do not see men here.
+  - Phrase: V mestih boš videl veliko ljudi.
+    Translation: In the cities you will see many people.
+  - Phrase: Mirno noč!
+    Translation: Good night!
+
+Mini-dictionary:
+  Slovenian:
+    - banan: bananas
+    - boš: you will
+    - brata: brother
+    - bratih: brothers
+    - bratom: brother
+    - da: that
+    - daje: gives
+    - dam: I give
+    - darilo: gift
+    - delam: I work
+    - duše: soul
+    - dušo: soul
+    - govori: speaks
+    - govorim: I speak
+    - hiši: house
+    - imena: names
+    - in: and
+    - je: is
+    - kosti: bones
+    - ljudi: people
+    - mestih: cities
+    - mestu: city
+    - mirno: peacefully
+    - moških: men
+    - možem: man
+    - na: on
+    - ne: no
+    - ni: is not
+    - nima: does not have
+    - nimaš: you do not have
+    - noč: night
+    - nožem: knife
+    - o: about
+    - ogledalo: mirror
+    - on: he
+    - ona: she
+    - očeh: eyes
+    - oči: eyes
+    - polju: field
+    - prijatelji: friends
+    - rad: gladly / like
+    - rezati: to cut
+    - reže: cuts
+    - s: with
+    - se: oneself / itself
+    - so: they are
+    - sonc: sun
+    - svojo: his/her/its/their own
+    - ti: you (singular informal)
+    - to: this
+    - tu: here
+    - tudi: also
+    - tvojo: your
+    - v: in
+    - veliko: much / many
+    - vesolje: universe
+    - vesolju: universe
+    - več: more
+    - videl: saw
+    - vidi: sees
+    - vidim: I see
+    - z: with
+    - zvezd: stars
+    - ženo: wife
+    - ženski: female
+  English:
+    - a: jedin/один
+    - about: o
+    - also: tudi
+    - and: in
+    - are: byti/быти
+    - bananas: banan
+    - be: biti
+    - bone: kost
+    - brother: brat
+    - brothers: bratih
+    - can: lahko
+    - cities: mestih
+    - city: mesto
+    - cut: rezati
+    - do: delati
+    - don't: nimam
+    - eyes: oči
+    - field: polje
+    - friends: prijatelji
+    - gift: darilo
+    - give: dati
+    - gives: daje
+    - good: dober
+    - has: ima
+    - have: imam
+    - he: on
+    - her: njen
+    - here: tukaj
+    - his: njegov
+    - house: hiša
+    - husband: mož
+    - i: jaz
+    - in: v
+    - is: je
+    - knife: nož
+    - likes: ima rad
+    - lot: veliko
+    - many: veliko
+    - men: moških
+    - mirror: ogledalo
+    - more: več
+    - name: ime
+    - night: noč
+    - no: ne
+    - not: ne
+    - of: od
+    - people: ljudje
+    - see: videti
+    - sees: vidi
+    - she: ona
+    - soul: duša
+    - stars: zvezd
+    - suns: sonca
+    - talk: pogovor
+    - talks: govori
+    - the: to
+    - there: tam
+    - this: ta
+    - to: do
+    - universe: vesolje
+    - wife: žena
+    - will: bo
+    - with: z
+    - woman: ženska
+    - work: delo
+    - you: ti
+    - your: tvoj

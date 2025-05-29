@@ -1,0 +1,201 @@
+Skill:
+  Name: Conjugation of to be
+  Id: 1
+
+New words:
+  - Word: сь
+    Translation: this (m)
+  - Word: си
+    Translation: this (f)
+  - Word: сє
+    Translation: that (m)
+  - Word: тамьсь
+    Translation: that over there (f)
+  - Word: тамьси
+    Translation: that over there (n)
+  - Word: ѥсмь
+    Translation: i am
+  - Word: ѥси
+    Translation: you are (sg)
+  - Word: ѥстъ
+    Translation: he is
+  - Word: ѥсмъ
+    Translation: we are
+  - Word: ѥстє
+    Translation: you are (pl)
+  - Word: сѫтъ
+    Translation: they are
+  - Word: азъ
+    Translation: I
+  - Word: тꙑ
+    Translation: you
+  - Word: онъ
+    Translation: he
+  - Word: она
+    Translation: she
+  - Word: оно
+    Translation: it
+  - Word: мꙑ
+    Translation: we
+  - Word: вꙑ
+    Translation: you
+  - Word: они
+    Translation: they
+  - Word: онꙑ
+    Translation: they
+  - Word: чловѣкъ
+    Translation: person
+  - Word: жена
+    Translation: woman
+  - Word: мѫжь
+    Translation: man
+  - Word: дѣтѧ
+    Translation: child
+  - Word: приꙗтєль
+    Translation: friend
+  - Word: сєстра
+    Translation: sister
+  - Word: родитєль
+    Translation: parent
+  - Word: домъ
+    Translation: house
+  - Word: градъ
+    Translation: city
+  - Word: дьнь
+    Translation: day
+  - Word: тъждє
+    Translation: also
+  - Word: къто
+    Translation: who
+
+Phrases:
+  - Phrase: Азъ ѥсмь мѫдръ.
+    Translation: I am wise.
+  - Phrase: Сь моꙗ сєстра.
+    Translation: This is my sister.
+  - Phrase: Она мьного мѫдра
+    Translation: She is very wise
+  - Phrase: Мꙑ мьного мѫдри
+    Translation: We are very wise
+  - Phrase: Вꙑ тъждє мѫдри?
+    Translation: Are you also wise?
+  - Phrase: Сь добръ чловѣкъ.
+    Translation: This is a good person.
+  - Phrase: Си жена ѥстъ добра.
+    Translation: This woman is good.
+  - Phrase: Сь ѥстъ мои домъ.
+    Translation: This is my house.
+  - Phrase: Онъ тъ добрии приꙗтєль
+    Translation: He is a good friend
+  - Phrase: Вꙑ ѥстє добри.
+    Translation: You are good.
+  - Phrase: Сь сѫтъ приꙗтєльѥ.
+    Translation: These are friends.
+  - Phrase: Къто тꙑ ѥси?
+    Translation: Who are you?
+  - Phrase: Тъи мѫжь милъ.
+    Translation: That man is kind.
+  - Phrase: Сь ѥстъ приѥмьнъ градъ.
+    Translation: This is a pleasant city.
+  - Phrase: Си жена ѥстъ вꙑсока.
+    Translation: That woman is tall.
+  - Phrase: Тъи дьнь ѥстъ хладънъ.
+    Translation: That day is cold.
+  - Phrase: Тамьтъи домъ ѥстъ красьнъ.
+    Translation: That house over there is beautiful.
+  - Phrase: Сь моѥ дѣтѧ.
+    Translation: This is my child.
+  - Phrase: Тамьтъ оутро ѥстъ хладьно.
+    Translation: That morning over there is cold.
+  - Phrase: Сь нє моꙗ сєстра.
+    Translation: This is not my sister.
+  - Phrase: Сь нє твои домъ.
+    Translation: This is not your house.
+  - Phrase: Сь добро аѵто?
+    Translation: Is this a good car?
+  - Phrase: Сь добри приꙗтєльѥ?
+    Translation: Are these good friends?
+  - Phrase: Онꙑ сѫтъ мьного милꙑ.
+    Translation: They are very kind.
+  - Phrase: Они сѫтъ мьного мили
+    Translation: They are very kind
+
+Mini-dictionary:
+  Church Slavonic:
+    - аѵто: car
+    - вꙑсока: high
+    - добра: good
+    - добри: good
+    - добрии: good
+    - добро: good
+    - добръ: good
+    - красьнъ: beautiful
+    - мили: dear
+    - милъ: dear
+    - милꙑ: dear
+    - мои: my
+    - моѥ: my
+    - моꙗ: my
+    - мьного: many
+    - мѫдра: wise
+    - мѫдри: wise
+    - мѫдръ: wise
+    - нє: not
+    - оутро: morning
+    - приѥмьнъ: pleasant
+    - приꙗтєльѥ: friends
+    - тамьтъ: there
+    - тамьтъи: there
+    - твои: your
+    - тъ: that
+    - тъи: that
+    - хладънъ: cold
+    - хладьно: cold
+  English:
+    - a: jedin/один
+    - also: такожъ
+    - am: єсмь
+    - are: byti/быти
+    - beautiful: красьнъ
+    - car: кола
+    - child: чадо
+    - city: градъ
+    - cold: стꙋденъ
+    - day: дьнь
+    - f: undef
+    - friend: дрꙋгъ
+    - friends: дрꙋзи
+    - good: добръ
+    - he: онъ
+    - house: домъ
+    - i: азъ
+    - is: єсть
+    - it: то
+    - kind: видъ
+    - m: undef
+    - man: мѫжь
+    - morning: ꙋтро
+    - my: мои
+    - n: undef
+    - not: не
+    - over: надъ
+    - parent: родитель
+    - person: чловѣкъ
+    - pl: undef
+    - pleasant: приѭтънъ
+    - sg: undef
+    - she: она
+    - sister: сестра
+    - tall: высокъ
+    - that: тъ
+    - there: тамъ
+    - these: си
+    - they: они
+    - this: си
+    - very: ѕѣло
+    - we: мы
+    - who: кто
+    - wise: мѫдръ
+    - woman: жена
+    - you: ты
+    - your: твои

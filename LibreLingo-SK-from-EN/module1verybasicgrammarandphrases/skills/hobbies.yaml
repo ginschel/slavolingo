@@ -1,0 +1,186 @@
+Skill:
+  Name: Hobbies
+  Id: 4
+
+New words:
+  - Word: čítať
+    Translation: to read
+  - Word: písať(píše)
+    Translation: to write
+  - Word: hrať
+    Translation: to play
+  - Word: pozerať
+    Translation: to watch
+  - Word: počúvať
+    Translation: to listen
+  - Word: maľovať
+    Translation: to paint
+  - Word: spievať
+    Translation: to sing
+  - Word: učiť sa
+    Translation: to learn
+  - Word: sedieť(sedí)
+    Translation: to sit
+  - Word: šiť (šije)
+    Translation: to sew
+  - Word: tancovať
+    Translation: to dance
+
+Phrases:
+  - Phrase: Ja čítam knihu.
+    Translation: I am reading a book.
+  - Phrase: Ona píše listy.
+    Translation: She is writing letters.
+  - Phrase: On hrá futbal.
+    Translation: He is playing football.
+  - Phrase: My pozeráme film.
+    Translation: We are watching a film.
+  - Phrase: Oni počúvajú hudbu.
+    Translation: They are listening to music.
+  - Phrase: Ona sedí a číta.
+    Translation: She is sitting and reading.
+  - Phrase: Ja maľujem obraz.
+    Translation: I am painting a picture.
+  - Phrase: On spieva piesne.
+    Translation: He is singing songs.
+  - Phrase: Vy sa učíte jazyk.
+    Translation: You are learning a language.
+  - Phrase: Ja šijem oblečenie.
+    Translation: I am sewing clothes.
+  - Phrase: Ty pozeráš seriál?
+    Translation: Are you watching a series?
+  - Phrase: My hráme šach.
+    Translation: We are playing chess.
+  - Phrase: Oni počúvajú rádio.
+    Translation: They are listening to the radio.
+  - Phrase: Čítaš ty romány?
+    Translation: Do you read novels?
+  - Phrase: On píše denník.
+    Translation: He is writing a diary.
+  - Phrase: Učíme sa tu.
+    Translation: We are learning here.
+  - Phrase: Maľujeme s priateľmi obrazy.
+    Translation: We are painting pictures with friends.
+  - Phrase: Ty šiješ?
+    Translation: Are you sewing?
+  - Phrase: Ja spievam s skupinou.
+    Translation: I am singing with a group.
+  - Phrase: Ja tancujem veľa
+    Translation: I dance a lot
+  - Phrase: Ona hrá na gitaru.
+    Translation: She is playing the guitar.
+
+Mini-dictionary:
+  Slovak:
+    - a: and
+    - denník: diary
+    - film: film
+    - futbal: football
+    - gitaru: guitar
+    - hrá: plays
+    - hráme: we play
+    - hudbu: music
+    - ja: I
+    - jazyk: language
+    - knihu: book
+    - listy: leaves
+    - maľujem: I paint
+    - maľujeme: we paint
+    - my: we
+    - na: on
+    - oblečenie: clothes
+    - obraz: picture
+    - obrazy: pictures
+    - on: he
+    - ona: she
+    - oni: they
+    - piesne: songs
+    - pozeráme: we look
+    - pozeráš: you look
+    - počúvajú: they listen
+    - priateľmi: friends
+    - písať: to write
+    - píše: writes
+    - romány: novels
+    - rádio: radio
+    - s: with
+    - sa: oneself
+    - sedieť: to sit
+    - sedí: sits
+    - seriál: series
+    - skupinou: group
+    - spieva: sings
+    - spievam: I sing
+    - tancujem: I dance
+    - tu: here
+    - ty: you
+    - učiť: to teach
+    - učíme: we teach
+    - učíte: you teach
+    - veľa: many
+    - vy: you
+    - číta: reads
+    - čítam: I read
+    - čítaš: you read
+    - šach: chess
+    - šije: sews
+    - šijem: I sew
+    - šiješ: you sew
+    - šiť: to sew
+  English:
+    - a: jedin/один
+    - am: som
+    - and: a
+    - are: byti/быти
+    - book: kniha
+    - chess: šach
+    - clothes: oblečenie
+    - dance: tancovať
+    - diary: denník
+    - do: robiť
+    - film: film
+    - football: futbal
+    - friends: priatelia
+    - group: skupina
+    - guitar: gitaru
+    - he: on
+    - here: tu
+    - i: ja
+    - is: je
+    - language: jazyk
+    - learn: učiť sa
+    - learning: učenie
+    - letters: listy
+    - listen: počúvať
+    - listening: počúvajú
+    - lot: veľa
+    - music: hudba
+    - novels: romány
+    - paint: maľovať
+    - painting: maľovanie
+    - picture: obraz
+    - pictures: obrazy
+    - play: hrať
+    - playing: hranie
+    - radio: rádio
+    - read: čítať
+    - reading: čítanie
+    - series: seriál
+    - sew: šiť
+    - sewing: šitie
+    - she: ona
+    - sing: spievať
+    - singing: spev
+    - sit: sedieť
+    - sitting: sedenie
+    - songs: piesne
+    - the: to
+    - they: oni
+    - to: do
+    - watch: pozerať
+    - watching: pozerajú
+    - we: my
+    - with: s
+    - write: písať
+    - writing: písanie
+    - you: ty

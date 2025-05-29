@@ -1,0 +1,186 @@
+Skill:
+  Name: Food
+  Id: 6
+
+New words:
+  - Word: kruh
+    Translation: bread
+  - Word: kuhati
+    Translation: to prepare
+  - Word: nositi
+    Translation: to carry
+  - Word: jesti (jede)
+    Translation: to eat
+  - Word: maslac
+    Translation: butter
+  - Word: mlijeko
+    Translation: milk
+  - Word: meso
+    Translation: meat
+  - Word: jaje
+    Translation: egg
+  - Word: doručak
+    Translation: breakfast
+  - Word: ručak
+    Translation: lunch
+  - Word: kupiti
+    Translation: to buy
+  - Word: večera
+    Translation: dinner
+  - Word: jelo
+    Translation: dish
+  - Word: knjiga
+    Translation: book
+  - Word: sladak
+    Translation: sweet
+  - Word: hrana
+    Translation: food
+
+Phrases:
+  - Phrase: Ja jedem kruh.
+    Translation: I am eating bread.
+  - Phrase: Ona jede meso.
+    Translation: She is eating meat.
+  - Phrase: On voli mlijeko.
+    Translation: He likes milk.
+  - Phrase: Ja vidim Vlada s hranom
+    Translation: I see Vlad with food
+  - Phrase: Ti jedeš jaje?
+    Translation: Are you eating an egg?
+  - Phrase: Mi jedemo večeru.
+    Translation: We are eating dinner.
+  - Phrase: Oni imaju doručak.
+    Translation: They are having breakfast.
+  - Phrase: Ja ću kupiti maslac.
+    Translation: I will buy butter.
+  - Phrase: On kuha ručak.
+    Translation: He is preparing lunch.
+  - Phrase: Ona nosi jelo.
+    Translation: She is carrying a dish.
+  - Phrase: Oni kupuju maslac i kruh.
+    Translation: They are buying butter and bread.
+  - Phrase: On pije mlijeko i jede meso.
+    Translation: He is drinking milk and eating meat.
+  - Phrase: Čitaš li ti knjigu i jedeš doručak?
+    Translation: Are you reading a book and eating breakfast?
+  - Phrase: Ja vidim ručak na stolu.
+    Translation: I see lunch on the table.
+  - Phrase: Imaš li maslac?
+    Translation: Do you have butter?
+  - Phrase: Mi kuhamo večeru svaki dan.
+    Translation: We prepare dinner every day.
+  - Phrase: Ja znam, da ti voliš jaja.
+    Translation: I know that you like eggs.
+  - Phrase: On jede slatku hranu.
+    Translation: He eats sweet food.
+  - Phrase: Ona voli kuhati večeru.
+    Translation: She likes to prepare dinner.
+  - Phrase: Mi vidimo tvoju pizzu na stolu.
+    Translation: We see your pizza on the table.
+  - Phrase: Oni znaju, da ja uvijek jedem kruh s maslacem.
+    Translation: They know that I always eat bread with butter.
+
+Mini-dictionary:
+  Croatian:
+    - da: yes
+    - dan: day
+    - hranom: food
+    - hranu: food
+    - i: and
+    - imaju: they have
+    - imaš: you have
+    - ja: I
+    - jaja: eggs
+    - jede: eats
+    - jedem: I eat
+    - jedemo: we eat
+    - jedeš: you eat
+    - jesti: to eat
+    - knjigu: book
+    - kuha: cooks
+    - kuhamo: we cook
+    - kupuju: they buy
+    - li: whether
+    - maslacem: butter
+    - mi: we
+    - na: on
+    - nosi: wears
+    - on: he
+    - ona: she
+    - oni: they
+    - pije: drinks
+    - pizzu: pizza
+    - s: with
+    - slatku: sweet
+    - stolu: table
+    - svaki: every
+    - ti: you
+    - tvoju: your
+    - uvijek: always
+    - večeru: dinner
+    - vidim: I see
+    - vidimo: we see
+    - vlada: government
+    - voli: loves
+    - voliš: you love
+    - znaju: they know
+    - znam: I know
+    - ću: I will
+    - čitaš: you read
+  English:
+    - a: jedin/один
+    - always: uvijek
+    - am: sam
+    - an: an
+    - and: i
+    - are: byti/быти
+    - book: knjiga
+    - bread: kruh
+    - breakfast: doručak
+    - butter: maslac
+    - buy: kupiti
+    - buying: kupuje
+    - carry: nositi
+    - carrying: nosi
+    - day: dan
+    - dinner: večera
+    - dish: jelo
+    - do: činiti/raditi
+    - drinking: pije
+    - eat: jesti
+    - eating: jede
+    - eats: jede
+    - egg: jaje
+    - eggs: jaja
+    - every: svaki
+    - food: hrana
+    - have: imati
+    - having: ima
+    - he: on
+    - i: ja
+    - is: je
+    - know: znati
+    - like: voljeti/sviđati
+    - likes: voli
+    - lunch: ručak
+    - meat: meso
+    - milk: mlijeko
+    - on: na
+    - pizza: pizzu
+    - prepare: priprema
+    - preparing: priprema
+    - reading: čita
+    - see: vidjeti
+    - she: ona
+    - sweet: sladak
+    - table: stol
+    - that: taj
+    - the: to
+    - they: oni
+    - to: do
+    - vlad: vlad
+    - we: mi
+    - will: će
+    - with: sa
+    - you: ti
+    - your: tvoj

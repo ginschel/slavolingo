@@ -1,0 +1,169 @@
+Skill:
+  Name: Sports
+  Id: 5
+
+New words:
+  - Word: fusbal
+    Translation: football
+  - Word: kôszkôwka
+    Translation: basketball
+  - Word: tenis
+    Translation: tennis
+  - Word: pływanie
+    Translation: swimming
+  - Word: pływać
+    Translation: to swim
+  - Word: bieganie
+    Translation: running
+  - Word: biegać
+    Translation: to run
+  - Word: rano
+    Translation: in the morning
+  - Word: lubić
+    Translation: to love/like
+  - Word: hokej
+    Translation: hockey
+  - Word: szport
+    Translation: sport
+  - Word: gra
+    Translation: game
+  - Word: trenować
+    Translation: to train
+  - Word: sztadijōn
+    Translation: stadium
+  - Word: wartko
+    Translation: fast
+  - Word: ciynżki
+    Translation: difficult
+
+Phrases:
+  - Phrase: Grōm we fusbal.
+    Translation: I play football.
+  - Phrase: Ôna gro we kôszkôwka.
+    Translation: She plays basketball.
+  - Phrase: Ôn gro we tenis.
+    Translation: He plays tennis.
+  - Phrase: My pływōmy we rzyce.
+    Translation: We swim in the river.
+  - Phrase: Ôni biygajōm rano.
+    Translation: They run in the morning.
+  - Phrase: Ôn trenuje kożdy dziyń.
+    Translation: He trains every day.
+  - Phrase: Szport je ważny.
+    Translation: Sport is important.
+  - Phrase: Ôna gro na sztadijōnie.
+    Translation: She plays at the stadium.
+  - Phrase: Trza trenować.
+    Translation: It is necessary to train.
+  - Phrase: Ôni lubiōm szport.
+    Translation: They love sport.
+  - Phrase: Jo niy grōm we hokej.
+    Translation: I do not play hockey.
+  - Phrase: Sztadijōn je we mieście.
+    Translation: The stadium is in the city.
+  - Phrase: Kôszkôwka to ciekawy szport.
+    Translation: Basketball is an interesting sport.
+  - Phrase: Pływanie je dobre dlo zdrowia.
+    Translation: Swimming is good for health.
+  - Phrase: Kto gro we tenis?
+    Translation: Who plays tennis?
+  - Phrase: Ôn biygŏ wartko.
+    Translation: He runs fast.
+  - Phrase: My pływōmy często.
+    Translation: We swim often.
+  - Phrase: Ôn trenuje ze kamratym.
+    Translation: He trains with a friend.
+  - Phrase: Jo grōm z bratami.
+    Translation: I play with my brothers.
+  - Phrase: Hokej je ciynżki.
+    Translation: Hockey is difficult.
+
+Mini-dictionary:
+  Silesian:
+    - biygajōm: running
+    - biygŏ: runs
+    - bratami: brothers
+    - ciekawy: interesting
+    - często: often
+    - dlo: for
+    - dobre: good
+    - dziyń: day
+    - gro: plays
+    - grōm: game
+    - je: is
+    - jo: I
+    - kamratym: friend
+    - kożdy: each
+    - kto: who
+    - lubiōm: love/like
+    - mieście: city
+    - my: we
+    - na: on
+    - niy: not
+    - pływōmy: swim
+    - rzyce: river
+    - sztadijōnie: stadium
+    - to: to
+    - trenuje: trains
+    - trza: necessary
+    - ważny: important
+    - we: in
+    - z: from
+    - zdrowia: health
+    - ze: from
+    - ôn: he
+    - ôna: she
+    - ôni: they
+  English:
+    - a: jedin/один
+    - an: [no direct equivalent, often implied or 'jedyn']
+    - at: przi
+    - basketball: koszykówka
+    - brothers: braty
+    - city: miasto
+    - day: dziyń
+    - difficult: ciynżki
+    - do: robić
+    - every: kożdy
+    - fast: wartki
+    - football: fusbal
+    - for: dlo
+    - friend: kamrat
+    - game: gra
+    - good: dobry
+    - he: ôn
+    - health: zdrowie
+    - hockey: hokej
+    - i: jŏ
+    - important: ważny
+    - in: w
+    - interesting: interesujōncy
+    - is: je
+    - it: to
+    - love: miłować
+    - love/like: miłować
+    - morning: rano
+    - my: mōj
+    - necessary: kōnieczny
+    - not: niy
+    - often: czynsto
+    - play: grać
+    - plays: gro
+    - river: rzyka
+    - run: biegać
+    - running: bieganie
+    - runs: biega
+    - she: ôna
+    - sport: sport
+    - stadium: sztadijōn
+    - swim: pływać
+    - swimming: pływanie
+    - tennis: tyńis
+    - the: to
+    - they: ôni
+    - to: do
+    - train: cug
+    - trains: cugi
+    - we: my
+    - who: fto
+    - with: z

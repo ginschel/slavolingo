@@ -1,0 +1,229 @@
+Skill:
+  Name: Physical Appearance
+  Id: 38
+
+New words:
+  - Word: vysoký
+    Translation: tall
+  - Word: nízký
+    Translation: short
+  - Word: tlustý
+    Translation: fat
+  - Word: hubený
+    Translation: thin
+  - Word: malý
+    Translation: small
+  - Word: krásný
+    Translation: beautiful
+  - Word: ošklivý
+    Translation: ugly
+  - Word: starý
+    Translation: old
+  - Word: mladý
+    Translation: young
+  - Word: vlasy
+    Translation: hair
+  - Word: oči
+    Translation: eyes
+  - Word: než
+    Translation: than
+  - Word: výše
+    Translation: taller/higher
+  - Word: kůže
+    Translation: skin
+  - Word: méně
+    Translation: less
+  - Word: smát se (směje se)
+    Translation: to laugh
+  - Word: blýskat se
+    Translation: to shine
+  - Word: hvězda
+    Translation: star
+  - Word: světlý
+    Translation: light
+  - Word: temný
+    Translation: dark
+
+Phrases:
+  - Phrase: On je výše vysoký a silný, než on.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Ona je nízká a hubená, jako on.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Tlustý muž jde po ulici.
+    Translation: The fat man is walking down the street.
+  - Phrase: Hubený má méně tělesné hmotnosti, než tlustý.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: To je výše krásný člověk, než ten.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Staří lidé jsou výše moudří, než my.
+    Translation: Old people are wiser than us.
+  - Phrase: Mladý má mnoho energie.
+    Translation: The young one has a lot of energy.
+  - Phrase: Jeho vlasy jsou světlé.
+    Translation: His hair is blonde.
+  - Phrase: Oči jsou výše zelené, než u něho.
+    Translation: Her eyes are greener than his.
+  - Phrase: Kůže jeho je bílá.
+    Translation: His skin is white.
+  - Phrase: On má dlouhé vlasy.
+    Translation: He has long hair.
+  - Phrase: Ona má zelené oči.
+    Translation: She has green eyes.
+  - Phrase: Kůže je hladká.
+    Translation: Her skin is smooth.
+  - Phrase: Stará žena nosí čepici.
+    Translation: The old woman wears a hat.
+  - Phrase: Mladí lidé často sportují.
+    Translation: Young people often play sports.
+  - Phrase: Tlustý muž směje se výše, než ten ošklivý muž.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Nízká dívka jde domů.
+    Translation: The short girl is going home.
+  - Phrase: Krásné oči blýskají jako hvězdy na nebi.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Hubený nosí výše velkou košili, než já.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Její vlasy jsou světlé a dlouhé.
+    Translation: Her hair is light and long.
+  - Phrase: A jeho krásné vlasy jsou temné, jako noc.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Czech:
+    - a: a
+    - blýskají: flash
+    - blýskat: flash
+    - bílá: white
+    - dlouhé: long
+    - domů: home
+    - dívka: girl
+    - energie: energy
+    - hladká: smooth
+    - hmotnosti: mass
+    - hubená: thin
+    - hvězdy: stars
+    - jako: as/like
+    - jde: goes
+    - je: is
+    - jeho: his
+    - její: her
+    - jsou: are
+    - já: I
+    - košili: shirt
+    - krásné: beautiful
+    - lidé: people
+    - mladí: young
+    - mnoho: many/much
+    - moudří: wise
+    - muž: man
+    - my: we
+    - má: has
+    - na: on
+    - nebi: sky
+    - noc: night
+    - nosí: wears/carries
+    - nízká: low
+    - něho: him
+    - on: he
+    - ona: she
+    - po: after/on
+    - se: oneself
+    - silný: strong
+    - smát: laugh
+    - směje: laughs
+    - sportují: they play sports
+    - stará: old
+    - staří: old
+    - světlé: light
+    - temné: dark
+    - ten: the/that
+    - to: it/that
+    - tělesné: bodily
+    - u: at/by
+    - ulici: street
+    - velkou: big
+    - zelené: green
+    - často: often
+    - čepici: cap
+    - člověk: person
+    - žena: woman
+  English:
+    - a: jedin/один
+    - and: a
+    - are: byti/быти
+    - as: jako
+    - beautiful: krásný
+    - blonde: blondýna
+    - body: tělo
+    - dark: tmavý
+    - do: dělat
+    - down: dolů
+    - energy: energie
+    - eyes: oči
+    - fat: tlustý
+    - girl: dívka
+    - going: jít
+    - green: zelená
+    - greener: zelenější
+    - hair: vlasy
+    - has: má
+    - hat: klobouk
+    - he: on
+    - her: její
+    - him: jemu
+    - his: jeho
+    - home: domov
+    - i: já
+    - in: v
+    - is: je
+    - larger: větší
+    - laugh: smát se
+    - laughs: směje se
+    - less: méně
+    - light: světlo
+    - like: rád
+    - long: dlouhý
+    - lot: hodně
+    - louder: hlasitější
+    - man: muž
+    - mass: hmota
+    - more: více
+    - night: noc
+    - of: z
+    - often: často
+    - old: starý
+    - one: jeden
+    - people: lidé
+    - person: osoba
+    - play: hrát
+    - she: ona
+    - shine: svítit
+    - shirt: košile
+    - short: krátký
+    - shorter: kratší
+    - skin: kůže
+    - sky: obloha
+    - small: malý
+    - smooth: hladký
+    - sports: sporty
+    - star: hvězda
+    - stars: hvězdy
+    - street: ulice
+    - stronger: silnější
+    - tall: vysoký
+    - taller: vyšší
+    - taller/higher: vyšší
+    - than: než
+    - that: to
+    - the: to
+    - thin: tenký
+    - thinner: tenčí
+    - to: do
+    - ugly: ošklivý
+    - us: nás
+    - walking: chůze
+    - wears: nosí
+    - white: bílá
+    - wiser: moudřejší
+    - woman: žena
+    - young: mladý

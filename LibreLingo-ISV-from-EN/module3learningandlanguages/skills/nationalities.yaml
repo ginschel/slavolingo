@@ -1,0 +1,177 @@
+Skill:
+  Name: Nationalities
+  Id: 11
+
+New words:
+  - Word: slovjanin
+    Translation: Slav
+  - Word: jezyk
+    Translation: language
+  - Word: država
+    Translation: country
+  - Word: narod
+    Translation: nation
+  - Word: ime
+    Translation: name
+  - Word: Hrvatka
+    Translation: Croat
+  - Word: Rus
+    Translation: Russian
+  - Word: Poljak
+    Translation: Pole
+  - Word: Němec
+    Translation: German
+  - Word: Angličanin
+    Translation: Englishman
+
+Phrases:
+  - Phrase: On jest Slovjaninom.
+    Translation: He is a Slav.
+  - Phrase: Ona govori na slovjanskom jezyku.
+    Translation: She speaks the Slavic language.
+  - Phrase: To jest moj jezyk.
+    Translation: This is my language.
+  - Phrase: Državoj jest Poljska.
+    Translation: The country is Poland.
+  - Phrase: Ja jesm Poljakom.
+    Translation: I am a Pole.
+  - Phrase: Ona jest Hrvatkoju.
+    Translation: She is a Croat.
+  - Phrase: On jest Rusom.
+    Translation: He is a Russian.
+  - Phrase: Govoriš li na němečskom jezyku?
+    Translation: Do you speak the German language?
+  - Phrase: Angličanin govori na anglijskom jezyku.
+    Translation: An Englishman speaks the English language.
+  - Phrase: My ljubimo svoj narod.
+    Translation: We love our nation.
+  - Phrase: To jest ime mojej državy.
+    Translation: This is the name of my country.
+  - Phrase: On znaje tri jęeyky.
+    Translation: He knows three languages.
+  - Phrase: Hrvat govori na hrvatskom jezyku.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Němec žive v Germanii.
+    Translation: A German lives in Germany.
+  - Phrase: Ona zna rusky i slovjansky.
+    Translation: She knows Russian and Slavic.
+  - Phrase: To jest narod s bogatoju kulturoju.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Ty jesi Angličaninom?
+    Translation: Are you an Englishman?
+  - Phrase: On govori každym językom dobro.
+    Translation: He speaks every language well.
+  - Phrase: My učimo se ruskogo jezyka.
+    Translation: We are learning the Russian language.
+  - Phrase: Ona zna mnogo narodov.
+    Translation: She knows many nations.
+
+Mini-dictionary:
+  Interslavic:
+    - anglijskom: english
+    - angličanin: englishman
+    - angličaninom: englishman
+    - bogatoju: rich
+    - dobro: good
+    - državoj: state
+    - državy: state
+    - germanii: germany
+    - govori: speaks
+    - govoriš: you speak
+    - hrvat: croat
+    - hrvatka: croatian woman
+    - hrvatkoju: croatian woman
+    - hrvatskom: croatian
+    - i: and
+    - ja: i
+    - jesi: you are
+    - jesm: i am
+    - jest: is
+    - jezyka: language
+    - jezyku: language
+    - jęeyky: languages
+    - językom: undef
+    - každym: undef
+    - kulturoju: culture
+    - li: whether
+    - ljubimo: we love
+    - mnogo: many
+    - moj: my
+    - mojej: my
+    - my: we
+    - na: on
+    - narodov: peoples
+    - němec: german
+    - němečskom: german
+    - on: he
+    - ona: she
+    - poljak: pole
+    - poljakom: pole
+    - poljska: poland
+    - rus: russian
+    - ruskogo: russian
+    - rusky: russian
+    - rusom: russian
+    - s: with
+    - se: himself
+    - slovjaninom: slav
+    - slovjanskom: slavic
+    - slovjansky: slavic
+    - svoj: his own
+    - to: this
+    - tri: three
+    - ty: you
+    - učimo: we learn
+    - v: in
+    - zna: knows
+    - znaje: knows
+    - žive: lives
+  English:
+    - a: jedin/один
+    - am: jesm
+    - an: edin
+    - and: i
+    - are: byti/быти
+    - country: država
+    - croat: hrvat
+    - croatian: hrvatskom
+    - culture: kulturoju
+    - do: dělati
+    - english: anglijskom
+    - englishman: angličanin
+    - every: vsaky
+    - german: němec
+    - germany: germanii
+    - he: on
+    - i: ja
+    - in: v
+    - is: jest
+    - knows: zna
+    - language: jezyk
+    - languages: jęeyky
+    - learning: učimo
+    - lives: živemo
+    - love: ljubov
+    - many: mnogo
+    - my: moj
+    - name: ime
+    - nation: narod
+    - nations: narodov
+    - of: iz
+    - our: našimi
+    - poland: poljska
+    - pole: poljak
+    - rich: bogatoju
+    - russian: rusky
+    - she: ona
+    - slav: slovjanin
+    - slavic: slovjansky
+    - speak: govoriti
+    - speaks: govori
+    - the: to
+    - this: tutdenj
+    - three: tri
+    - we: my
+    - well: dobro
+    - with: s
+    - you: ty

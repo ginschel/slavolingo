@@ -1,0 +1,188 @@
+Skill:
+  Name: Hobbies
+  Id: 4
+
+New words:
+  - Word: читать
+    Translation: to read
+  - Word: писать (пишет)
+    Translation: to write
+  - Word: играть
+    Translation: to play
+  - Word: смотреть
+    Translation: to watch
+  - Word: слушать
+    Translation: to listen
+  - Word: рисовать (красками)
+    Translation: to paint
+  - Word: петь
+    Translation: to sing
+  - Word: учиться
+    Translation: to learn
+  - Word: сидеть (сидит)
+    Translation: to sit
+  - Word: шить (шьёт)
+    Translation: to sew
+  - Word: танцевать
+    Translation: to dance
+
+Phrases:
+  - Phrase: Я читаю книгу.
+    Translation: I am reading a book.
+  - Phrase: Она пишет письма.
+    Translation: She is writing letters.
+  - Phrase: Он играет в футбол.
+    Translation: He is playing football.
+  - Phrase: Мы смотрим фильм.
+    Translation: We are watching a film.
+  - Phrase: Они слушают музыку.
+    Translation: They are listening to music.
+  - Phrase: Она сидит и читает.
+    Translation: She is sitting and reading.
+  - Phrase: Я рисую картину.
+    Translation: I am painting a picture.
+  - Phrase: Он поёт песни.
+    Translation: He is singing songs.
+  - Phrase: Вы учитеся языку.
+    Translation: You are learning a language.
+  - Phrase: Я шью одежду.
+    Translation: I am sewing clothes.
+  - Phrase: Ты смотришь сериал?
+    Translation: Are you watching a series?
+  - Phrase: Мы играем в шахматы.
+    Translation: We are playing chess.
+  - Phrase: Они слушают радио.
+    Translation: They are listening to the radio.
+  - Phrase: Читаешь ли ты романы?
+    Translation: Do you read novels?
+  - Phrase: Он пишет дневник.
+    Translation: He is writing a diary.
+  - Phrase: Учимся здесь.
+    Translation: We are learning here.
+  - Phrase: Рисуем с приятелями картины.
+    Translation: We are painting pictures with friends.
+  - Phrase: Ты шьёшь?
+    Translation: Are you sewing?
+  - Phrase: Я пою с группою.
+    Translation: I am singing with a group.
+  - Phrase: Я танцую много
+    Translation: I dance a lot
+  - Phrase: Она играет на гитаре.
+    Translation: She is playing the guitar.
+
+Mini-dictionary:
+  Russian:
+    - в: in
+    - вы: you
+    - гитаре: guitar
+    - группою: group
+    - дневник: diary
+    - здесь: here
+    - и: and
+    - играем: play
+    - играет: plays
+    - картину: picture
+    - картины: pictures
+    - книгу: book
+    - красками: paints
+    - ли: whether
+    - много: many
+    - музыку: music
+    - мы: we
+    - на: on
+    - одежду: clothes
+    - он: he
+    - она: she
+    - они: they
+    - песни: songs
+    - писать: write
+    - письма: letters
+    - пишет: writes
+    - пою: sing
+    - поёт: sings
+    - приятелями: friends
+    - радио: radio
+    - рисовать: draw
+    - рисуем: draw
+    - рисую: draw
+    - романы: novels
+    - с: with
+    - сериал: series
+    - сидеть: sit
+    - сидит: sits
+    - слушают: listen
+    - смотрим: look
+    - смотришь: look
+    - танцую: dance
+    - ты: you
+    - учимся: learn
+    - учитеся: learn
+    - фильм: film
+    - футбол: football
+    - читает: reads
+    - читаешь: read
+    - читаю: read
+    - шахматы: chess
+    - шить: sew
+    - шью: sew
+    - шьёт: sews
+    - шьёшь: sew
+    - я: i
+    - языку: language
+  English:
+    - a: jedin/один
+    - am: есть
+    - and: и
+    - are: byti/быти
+    - book: книга
+    - chess: шахматы
+    - clothes: одежда
+    - dance: танцевать
+    - diary: дневник
+    - do: делать
+    - film: фильм
+    - football: футбол
+    - friends: друзья
+    - group: группа
+    - guitar: гитара
+    - he: он
+    - here: здесь
+    - i: я
+    - is: есть
+    - language: язык
+    - learn: учиться
+    - learning: учится
+    - letters: буквы
+    - listen: слушать
+    - listening: слушает
+    - lot: много
+    - music: музыка
+    - novels: романы
+    - paint: рисовать
+    - painting: картина
+    - picture: картина
+    - pictures: картины
+    - play: играть
+    - playing: играет
+    - radio: радио
+    - read: читать
+    - reading: читает
+    - series: серия
+    - sew: шить
+    - sewing: шьет
+    - she: она
+    - sing: петь
+    - singing: поет
+    - sit: сидеть
+    - sitting: сидит
+    - songs: песни
+    - the: to
+    - they: они
+    - to: к
+    - watch: смотреть
+    - watching: смотрит
+    - we: мы
+    - with: с
+    - write: писать
+    - writing: пишет
+    - you: ты

@@ -1,0 +1,168 @@
+Skill:
+  Name: Sports
+  Id: 5
+
+New words:
+  - Word: фꙋтболъ
+    Translation: football
+  - Word: баскетъболъ
+    Translation: basketball
+  - Word: тєнисъ
+    Translation: tennis
+  - Word: плаваниѥ
+    Translation: swimming
+  - Word: плавати
+    Translation: to swim
+  - Word: бѣгъ
+    Translation: running
+  - Word: бѣгати
+    Translation: to run
+  - Word: оутромъ
+    Translation: in the morning
+  - Word: любити
+    Translation: to love/like
+  - Word: хокєи
+    Translation: hockey
+  - Word: спортъ
+    Translation: sport
+  - Word: игра
+    Translation: game
+  - Word: трєновати
+    Translation: to train
+  - Word: стадионъ
+    Translation: stadium
+  - Word: бързо
+    Translation: fast
+  - Word: тѧжькъ
+    Translation: difficult
+
+Phrases:
+  - Phrase: Играѭ въ фꙋтболъ.
+    Translation: I play football.
+  - Phrase: Она играѥтъ въ баскетъболъ.
+    Translation: She plays basketball.
+  - Phrase: Онъ играѥтъ въ тєнисъ.
+    Translation: He plays tennis.
+  - Phrase: Мꙑ плаваѥмъ въ рѣцѣ.
+    Translation: We swim in the river.
+  - Phrase: Они бѣгаѭтъ оутромъ.
+    Translation: They run in the morning.
+  - Phrase: Онъ трєнꙋѥтъ каждъи дьнь.
+    Translation: He trains every day.
+  - Phrase: Спортъ ѥстъ важьнъ.
+    Translation: Sport is important.
+  - Phrase: Она играѥтъ на стадионѣ.
+    Translation: She plays at the stadium.
+  - Phrase: Трѣба трєновати.
+    Translation: It is necessary to train.
+  - Phrase: Они любѧтъ спортъ.
+    Translation: They love sport.
+  - Phrase: Азъ нє играѭ въ хокєи.
+    Translation: I do not play hockey.
+  - Phrase: Стадионъ ѥстъ въ градѣ.
+    Translation: The stadium is in the city.
+  - Phrase: Баскетъболъ тъ интєрєсьнъ спортъ.
+    Translation: Basketball is an interesting sport.
+  - Phrase: Плаваниѥ ѥстъ добро за здравѥ.
+    Translation: Swimming is good for health.
+  - Phrase: Къто играѥтъ въ тєнисъ?
+    Translation: Who plays tennis?
+  - Phrase: Онъ бѣгаѥтъ бързо.
+    Translation: He runs fast.
+  - Phrase: Мꙑ плаваѥмъ часто.
+    Translation: We swim often.
+  - Phrase: Онъ трєнꙋѥтъ съ приꙗтєлѥмъ.
+    Translation: He trains with a friend.
+  - Phrase: Азъ играѭ съ братиѭ.
+    Translation: I play with my brothers.
+  - Phrase: Хокєи ѥстъ тѧжькъ.
+    Translation: Hockey is difficult.
+
+Mini-dictionary:
+  Old Church Slavonic:
+    - азъ: I
+    - братиѭ: with the brother
+    - бѣгаѥтъ: he/she/it runs
+    - бѣгаѭтъ: they run
+    - важьнъ: important (masculine)
+    - въ: in, at
+    - градѣ: in the city
+    - добро: good
+    - дьнь: day
+    - за: for, behind
+    - здравѥ: health
+    - играѥтъ: he/she/it plays
+    - играѭ: I play
+    - интєрєсьнъ: interesting (masculine)
+    - каждъи: each, every
+    - къто: who
+    - любѧтъ: they love
+    - мꙑ: we
+    - на: on, to
+    - нє: no, not
+    - она: she
+    - они: they (masculine)
+    - онъ: he
+    - плаваѥмъ: we swim
+    - приꙗтєлѥмъ: with a friend
+    - рѣцѣ: in the river
+    - стадионѣ: at the stadium
+    - съ: with
+    - трєнꙋѥтъ: he/she/it trains
+    - трѣба: need
+    - тъ: that, he
+    - часто: often
+    - ѥстъ: he/she/it is
+  English:
+    - a: jedin/один
+    - an: (not directly translated)
+    - at: въ
+    - basketball: баскетъболъ
+    - brothers: братиꙗ
+    - city: градъ
+    - day: дьнь
+    - difficult: сложьнъ, тѧжькъ
+    - do: дѣлати
+    - every: въсѧкъ
+    - fast: бързъ
+    - football: фꙋтболъ
+    - for: за, на
+    - friend: приꙗтєль
+    - game: игра
+    - good: добръ
+    - he: онъ
+    - health: здравѥ
+    - hockey: хокєи
+    - i: азъ, ꙗ
+    - important: важьнъ
+    - in: въ
+    - interesting: интєрєсьнъ
+    - is: ѥстъ
+    - it: ono
+    - love: любовь
+    - love/like: любити
+    - morning: оутро
+    - my: мои, моꙗ, моѥ
+    - necessary: трѣба
+    - not: нє
+    - often: часто
+    - play: играти
+    - plays: играѥтъ
+    - river: рѣка
+    - run: бѣгати
+    - running: бѣгаѥтъ
+    - runs: бѣгаѥтъ
+    - she: она
+    - sport: спортъ
+    - stadium: стадионъ
+    - swim: плавати
+    - swimming: плаваниѥ
+    - tennis: тєнисъ
+    - the: to
+    - they: они, онꙑ
+    - to: къ, на
+    - train: поѥздъ
+    - trains: поѥзди
+    - we: мꙑ
+    - who: къто
+    - with: съ

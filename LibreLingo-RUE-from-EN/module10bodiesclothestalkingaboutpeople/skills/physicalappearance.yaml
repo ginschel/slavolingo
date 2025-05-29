@@ -1,0 +1,232 @@
+Skill:
+  Name: Physical Appearance
+  Id: 38
+
+New words:
+  - Word: высокый
+    Translation: tall
+  - Word: низкый
+    Translation: short
+  - Word: грубый
+    Translation: fat
+  - Word: худый
+    Translation: thin
+  - Word: малый
+    Translation: small
+  - Word: красный
+    Translation: beautiful
+  - Word: брїдкый
+    Translation: ugly
+  - Word: старый
+    Translation: old
+  - Word: молодой
+    Translation: young
+  - Word: волося
+    Translation: hair
+  - Word: очі
+    Translation: eyes
+  - Word: нїж
+    Translation: than
+  - Word: выше
+    Translation: taller/higher
+  - Word: кожа
+    Translation: skin
+  - Word: менше
+    Translation: less
+  - Word: смїяти ся (смїє ся)
+    Translation: to laugh
+  - Word: блискати ся
+    Translation: to shine
+  - Word: звїзда
+    Translation: star
+  - Word: світлый
+    Translation: light
+  - Word: темный
+    Translation: dark
+
+Phrases:
+  - Phrase: Он є выше высокый і сильный нїж он.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Она є низка і худа як он.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Грубый муж іде по улиці.
+    Translation: The fat man is walking down the street.
+  - Phrase: Худый має менше тїлесной масы нїж грубый.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: Тото є выше красный чоловік нїж тот.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Стары люди суть выше мудры нїж мы.
+    Translation: Old people are wiser than us.
+  - Phrase: Молода має много енерґії.
+    Translation: The young one has a lot of energy.
+  - Phrase: Єго волося суть світлы.
+    Translation: His hair is blonde.
+  - Phrase: Очі суть выше зелены нїж у него.
+    Translation: Her eyes are greener than his.
+  - Phrase: Єго кожа є бїла.
+    Translation: His skin is white.
+  - Phrase: Он має довге волося.
+    Translation: He has long hair.
+  - Phrase: Она має зелены очі.
+    Translation: She has green eyes.
+  - Phrase: Кожа є гладка.
+    Translation: Her skin is smooth.
+  - Phrase: Стара жена носить шапку.
+    Translation: The old woman wears a hat.
+  - Phrase: Молоды люди часто шпортують.
+    Translation: Young people often play sports.
+  - Phrase: Грубый муж смїє ся выше нїж тот брїдкый муж.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Низка дївка іде до дому.
+    Translation: The short girl is going home.
+  - Phrase: Красны очі блискають ся як звїзда на небї.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Худый носить выше велику кошулю нїж я.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Єї волося суть світлы і довгы.
+    Translation: Her hair is light and long.
+  - Phrase: А єго красны волося суть темны як ніч.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Rusin:
+    - а: undef
+    - блискати: shine
+    - блискають: shines
+    - бїла: white
+    - велику: big
+    - гладка: smooth
+    - до: to
+    - довге: long
+    - довгы: long
+    - дому: home
+    - дївка: girl
+    - енерґії: energy
+    - жена: wife
+    - зелены: green
+    - кошулю: shirt
+    - красны: beautiful
+    - люди: people
+    - масы: mass
+    - має: has
+    - много: many
+    - молода: young
+    - молоды: young
+    - мудры: wise
+    - муж: husband
+    - мы: we
+    - на: on
+    - небї: sky
+    - него: him
+    - низка: low
+    - носить: wears
+    - ніч: night
+    - он: he
+    - она: she
+    - по: after
+    - світлы: light
+    - сильный: strong
+    - смїяти: laugh
+    - смїє: laughs
+    - стара: old
+    - стары: old
+    - суть: are
+    - ся: itself
+    - темны: dark
+    - тот: this
+    - тото: this
+    - тїлесной: body
+    - у: at
+    - улиці: street
+    - худа: thin
+    - часто: often
+    - чоловік: man
+    - шапку: hat
+    - шпортують: sports
+    - я: I
+    - як: as
+    - є: is
+    - єго: his
+    - єї: her
+    - і: and
+    - іде: goes
+  English:
+    - a: jedin/один
+    - and: и
+    - are: byti/быти
+    - as: як
+    - beautiful: файный
+    - blonde: блондинкa
+    - body: тїло
+    - dark: темный
+    - do: робити
+    - down: долов
+    - energy: енерґія
+    - eyes: очі
+    - fat: тучный
+    - girl: дївча
+    - going: йде
+    - green: зеленый
+    - greener: зеленїшый
+    - hair: волосы
+    - has: мать
+    - hat: шапка
+    - he: він
+    - her: єй
+    - him: го
+    - his: його
+    - home: домів
+    - i: я
+    - in: в
+    - is: є
+    - larger: векшый
+    - laugh: сміяти ся
+    - laughs: сміє ся
+    - less: менше
+    - light: світло
+    - like: як
+    - long: довгый
+    - lot: много
+    - louder: голосніше
+    - man: чоловік
+    - mass: маса
+    - more: веце
+    - night: ніч
+    - of: з
+    - often: часто
+    - old: старый
+    - one: єден
+    - people: люде
+    - person: особа
+    - play: грати
+    - she: она
+    - shine: світити
+    - shirt: кошуля
+    - short: куртый
+    - shorter: куртшый
+    - skin: шкіра
+    - sky: небо
+    - small: малый
+    - smooth: гладкый
+    - sports: шпорты
+    - star: звізда
+    - stars: звізды
+    - street: вулиця
+    - stronger: силнїшый
+    - tall: высокый
+    - taller: высочішый
+    - taller/higher: высочішый
+    - than: як
+    - that: тот
+    - the: to
+    - thin: танкый
+    - thinner: танкшій
+    - to: до
+    - ugly: поганый
+    - us: нас
+    - walking: йде
+    - wears: носить
+    - white: білый
+    - wiser: мудрїшый
+    - woman: жона
+    - young: молодый

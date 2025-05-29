@@ -1,0 +1,176 @@
+Skill:
+  Name: Studying & Writing
+  Id: 9
+
+New words:
+  - Word: szkoła
+    Translation: school
+  - Word: nauczycielka
+    Translation: female teacher
+  - Word: nauczyciel
+    Translation: male teacher
+  - Word: notatka/zapis
+    Translation: note
+  - Word: uczeń
+    Translation: student
+  - Word: książka
+    Translation: book
+  - Word: zadanie (domowe)
+    Translation: assignment
+  - Word: stół
+    Translation: table
+  - Word: tusz
+    Translation: ink
+  - Word: papier
+    Translation: paper
+  - Word: przedmiot
+    Translation: subject
+  - Word: metoda
+    Translation: method
+  - Word: pióro
+    Translation: pen
+  - Word: zeszyt
+    Translation: notebook
+  - Word: na
+    Translation: on
+
+Phrases:
+  - Phrase: To moja szkoła.
+    Translation: This is my school.
+  - Phrase: Ona jest nauczycielką.
+    Translation: She is a teacher.
+  - Phrase: On jest uczniem.
+    Translation: He is a student.
+  - Phrase: Książka jest na stole.
+    Translation: The book is on the table.
+  - Phrase: Ja mam zadanie domowe.
+    Translation: I have an assignment.
+  - Phrase: Tusz jest jeszcze mokry.
+    Translation: The ink is still wet.
+  - Phrase: Papier jest biały.
+    Translation: The paper is white.
+  - Phrase: Tamten przedmiot to matematyka.
+    Translation: This subject is mathematics.
+  - Phrase: Ta metoda jest dobra.
+    Translation: This method is good.
+  - Phrase: Uczeń ma książkę.
+    Translation: The student has a book.
+  - Phrase: To jest mój stół.
+    Translation: This is my desk.
+  - Phrase: Mój zeszyt jest pełny notatek z piórem
+    Translation: My notebook is full of notes with a pen
+  - Phrase: Piszę na papierze piórem.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Szkoła jest w centrum.
+    Translation: The school is in the center.
+  - Phrase: My piszemy zadanie.
+    Translation: We are writing the assignment.
+  - Phrase: Nauczyciel rozmawia ze studentami.
+    Translation: The teacher is talking with students.
+  - Phrase: Ona ma dużo zadań.
+    Translation: She has many assignments.
+  - Phrase: Ja szybko piszę tym piórem.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Przedmiot jest skomplikowany.
+    Translation: The subject is complex.
+  - Phrase: Książka jest nowa.
+    Translation: The book is new.
+  - Phrase: On jest moim nauczycielem.
+    Translation: He is my teacher.
+
+Mini-dictionary:
+  Polish:
+    - biały: white
+    - centrum: center
+    - dobra: good
+    - domowe: home
+    - dużo: much
+    - ja: I
+    - jest: is
+    - jeszcze: yet
+    - książkę: book
+    - ma: has
+    - mam: I have
+    - matematyka: mathematics
+    - moim: my
+    - moja: my
+    - mokry: wet
+    - my: we
+    - mój: my
+    - nauczycielem: teacher
+    - nauczycielką: teacher (female)
+    - notatek: notes
+    - nowa: new
+    - on: he
+    - ona: she
+    - papierze: paper
+    - pełny: full
+    - piszemy: we write
+    - piszę: I write
+    - piórem: pen
+    - rozmawia: talks
+    - skomplikowany: complicated
+    - stole: table
+    - studentami: students
+    - szybko: fast
+    - ta: this
+    - tamten: that
+    - to: this
+    - tym: this
+    - uczniem: student
+    - w: in
+    - z: with
+    - zadanie: task
+    - zadań: tasks
+    - ze: from
+  English:
+    - a: jedin/один
+    - am: jestem
+    - an: pewien
+    - are: byti/быти
+    - assignment: zadanie
+    - assignments: zadań
+    - book: książka
+    - center: centrum
+    - complex: skomplikowany
+    - desk: biurko
+    - female: żeński
+    - full: pełny
+    - good: dobry
+    - has: ma
+    - have: mieć
+    - he: on
+    - i: ja
+    - in: w
+    - ink: tusz
+    - is: jest
+    - male: męski
+    - many: wiele
+    - mathematics: matematyka
+    - method: metoda
+    - my: mój
+    - new: nowy
+    - note: notatka/zapis
+    - notebook: zeszyt
+    - notes: notatek
+    - of: z
+    - on: na
+    - paper: papier
+    - pen: pióro
+    - quickly: szybko
+    - school: szkoła
+    - she: ona
+    - still: nadal
+    - student: uczeń
+    - students: studenci
+    - subject: przedmiot
+    - table: stół
+    - talking: rozmawianie
+    - teacher: nauczyciel
+    - the: to
+    - this: to
+    - we: my
+    - wet: mokry
+    - white: biały
+    - with: z
+    - writing: pisanie

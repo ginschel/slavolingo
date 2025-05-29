@@ -1,0 +1,175 @@
+Skill:
+  Name: Studying & Writing
+  Id: 9
+
+New words:
+  - Word: школа
+    Translation: school
+  - Word: вчителька
+    Translation: female teacher
+  - Word: вчитель
+    Translation: male teacher
+  - Word: запис
+    Translation: note
+  - Word: учень
+    Translation: student
+  - Word: книжка
+    Translation: book
+  - Word: завдання
+    Translation: assignment
+  - Word: стіл
+    Translation: table
+  - Word: туш
+    Translation: ink
+  - Word: папір
+    Translation: paper
+  - Word: предмет
+    Translation: subject
+  - Word: метод
+    Translation: method
+  - Word: перо
+    Translation: pen
+  - Word: записник/зошит
+    Translation: notebook
+  - Word: на
+    Translation: on
+
+Phrases:
+  - Phrase: Це моя школа.
+    Translation: This is my school.
+  - Phrase: Вона вчителькою.
+    Translation: She is a teacher.
+  - Phrase: Він учнем.
+    Translation: He is a student.
+  - Phrase: Книжка є на столі.
+    Translation: The book is on the table.
+  - Phrase: Я маю завдання.
+    Translation: I have an assignment.
+  - Phrase: Туш ще мокрий.
+    Translation: The ink is still wet.
+  - Phrase: Папір є білий.
+    Translation: The paper is white.
+  - Phrase: Той предмет то математика.
+    Translation: This subject is mathematics.
+  - Phrase: Той метод є добрий.
+    Translation: This method is good.
+  - Phrase: Учень має книжку.
+    Translation: The student has a book.
+  - Phrase: Це мій стіл.
+    Translation: This is my desk.
+  - Phrase: Мій записник повний записів з пером
+    Translation: My notebook is full of notes with a pen
+  - Phrase: Пишу на папері пером.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Школа є в центрі.
+    Translation: The school is in the center.
+  - Phrase: Ми пишемо завдання.
+    Translation: We are writing the assignment.
+  - Phrase: Вчитель говорить зі студентами.
+    Translation: The teacher is talking with students.
+  - Phrase: Вона має багато завдань.
+    Translation: She has many assignments.
+  - Phrase: Я швидко пишу цим пером.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Предмет складний.
+    Translation: The subject is complex.
+  - Phrase: Книжка нова.
+    Translation: The book is new.
+  - Phrase: Він моїм вчителем.
+    Translation: He is my teacher.
+
+Mini-dictionary:
+  Ukrainian:
+    - багато: a lot, many, much
+    - білий: white (masculine)
+    - в: in, at
+    - вона: she
+    - вчителем: with a teacher
+    - вчителькою: with a female teacher
+    - він: he
+    - говорить: speaks
+    - добрий: good (masculine)
+    - з: with, from
+    - завдань: of tasks
+    - записник: notebook
+    - записів: of notes
+    - зі: with
+    - книжку: book (accusative)
+    - математика: mathematics
+    - маю: I have
+    - має: has
+    - ми: we
+    - мокрий: wet (masculine)
+    - моя: my (feminine)
+    - моїм: with my
+    - мій: my (masculine)
+    - нова: new (feminine)
+    - папері: on paper
+    - пером: with a pen
+    - пишемо: we write
+    - пишу: I write
+    - повний: full (masculine)
+    - складний: difficult, complex
+    - столі: on the table
+    - студентами: with students
+    - то: then, that is
+    - той: that (masculine)
+    - учнем: with a student
+    - це: this is, it is
+    - центрі: in the center
+    - цим: with this
+    - швидко: fast, quickly
+    - ще: still, yet
+    - я: I
+    - є: is, are
+  English:
+    - a: jedin/один
+    - am: є
+    - an: ан
+    - are: byti/быти
+    - assignment: завдання
+    - assignments: завдання
+    - book: книга
+    - center: центр
+    - complex: складний
+    - desk: стіл
+    - female: жіночий
+    - full: повний
+    - good: добрий
+    - has: має
+    - have: мати
+    - he: він
+    - i: я
+    - in: в
+    - ink: чорнило
+    - is: є
+    - male: чоловічий
+    - many: багато
+    - mathematics: математика
+    - method: метод
+    - my: мій
+    - new: новий
+    - note: примітка
+    - notebook: зошит
+    - notes: нотатки
+    - of: з
+    - on: на
+    - paper: папір
+    - pen: ручка
+    - quickly: швидко
+    - school: школа
+    - she: вона
+    - still: ще
+    - student: студент
+    - students: студенти
+    - subject: предмет
+    - table: стіл
+    - talking: говорить
+    - teacher: вчитель
+    - the: to
+    - this: це
+    - we: ми
+    - wet: мокрий
+    - white: білий
+    - with: з
+    - writing: написання

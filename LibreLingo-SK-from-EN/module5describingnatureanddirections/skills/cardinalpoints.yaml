@@ -1,0 +1,189 @@
+Skill:
+  Name: Cardinal points
+  Id: 18
+
+New words:
+  - Word: sever
+    Translation: north
+  - Word: juh
+    Translation: south
+  - Word: západ
+    Translation: west
+  - Word: východ
+    Translation: east
+  - Word: severný
+    Translation: northern
+  - Word: južný
+    Translation: southern
+  - Word: západný
+    Translation: western
+  - Word: východný
+    Translation: eastern
+  - Word: kompas
+    Translation: compass
+  - Word: strana
+    Translation: side
+  - Word: kde
+    Translation: where
+  - Word: vstať (vstane)
+    Translation: to rise
+  - Word: ukazovať
+    Translation: to show
+  - Word: mapa
+    Translation: map
+  - Word: cestovať
+    Translation: to travel
+  - Word: vpravo
+    Translation: right
+  - Word: vľavo
+    Translation: left
+  - Word: priamo
+    Translation: straight
+
+Phrases:
+  - Phrase: Sever je chladný.
+    Translation: The north is cold.
+  - Phrase: Juh je teplý.
+    Translation: The south is warm.
+  - Phrase: Slnko vstane na východe.
+    Translation: The sun rises in the east.
+  - Phrase: Ono zapadá na západe.
+    Translation: It sets in the west.
+  - Phrase: To je severná strana.
+    Translation: This is the northern side.
+  - Phrase: Žijeme na juhu.
+    Translation: We live in the south.
+  - Phrase: Kompas ukazuje sever.
+    Translation: The compass shows north.
+  - Phrase: Východ je tam.
+    Translation: The east is there.
+  - Phrase: Západný vietor duje.
+    Translation: A western wind is blowing.
+  - Phrase: Ideme k juho-západu.
+    Translation: We are going to the southwest.
+  - Phrase: To je severo-západný región.
+    Translation: This is the northwestern region.
+  - Phrase: Strana na mape ukazuje západ.
+    Translation: The side on the map shows west.
+  - Phrase: Juho-východ je tam, kde hreje slnko.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Ideme k južnej strane.
+    Translation: We are going to the southern side.
+  - Phrase: On cestuje východne.
+    Translation: He travels eastward.
+  - Phrase: Na severe je sneh.
+    Translation: In the north there is snow.
+  - Phrase: Južné kraje sú teplé.
+    Translation: The southern regions are warm.
+  - Phrase: Západ je vľavo na mape.
+    Translation: West is left on the map.
+  - Phrase: Východná hudba je zaujímavá.
+    Translation: Eastern music is interesting.
+  - Phrase: Pozeráme na sever.
+    Translation: We are looking to the north.
+  - Phrase: Ideme hneď vpravo a potom priamo.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Slovak:
+    - a: and
+    - cestuje: travels
+    - chladný: cold
+    - duje: blows
+    - hneď: immediately
+    - hreje: warms
+    - hudba: music
+    - ideme: we go
+    - je: is
+    - juho-východ: southeast
+    - juho-západu: southwest
+    - juhu: south
+    - južnej: southern
+    - južné: southern
+    - k: to
+    - kraje: regions
+    - mape: map
+    - na: on
+    - on: he
+    - ono: it
+    - potom: then
+    - pozeráme: we look
+    - región: region
+    - severe: north
+    - severná: northern
+    - severo-západný: northwest
+    - slnko: sun
+    - sneh: snow
+    - strane: side
+    - sú: are
+    - tam: there
+    - teplé: warm
+    - teplý: warm
+    - to: it
+    - ukazuje: shows
+    - vietor: wind
+    - vstane: gets up
+    - vstať: to get up
+    - východe: east
+    - východne: eastern
+    - východná: eastern
+    - zapadá: sets
+    - zaujímavá: interesting
+    - západe: west
+    - žijeme: we live
+  English:
+    - a: jedin/один
+    - and: a
+    - are: byti/быти
+    - blowing: duje
+    - cold: chladno
+    - compass: kompas
+    - east: východ
+    - eastern: východný
+    - eastward: východne
+    - going: idúci
+    - he: on
+    - in: v
+    - interesting: zaujímavý
+    - is: je
+    - it: to
+    - left: vľavo
+    - live: žiť
+    - looking: pozerá
+    - map: mapa
+    - music: hudba
+    - north: sever
+    - northern: severná
+    - northwestern: severo-západný
+    - now: teraz
+    - on: na
+    - region: región
+    - regions: kraje
+    - right: vpravo
+    - rise: vstať
+    - rises: vstane
+    - sets: zapadá
+    - show: ukázať
+    - shows: ukazuje
+    - side: strana
+    - snow: sneh
+    - south: juh
+    - southeast: juho-východ
+    - southern: južný
+    - southwest: juho-západu
+    - straight: rovno
+    - sun: slnko
+    - the: to
+    - then: potom
+    - there: tam
+    - this: tento
+    - to: do
+    - travel: cestovať
+    - travels: cestuje
+    - warm: teplý
+    - warms: hreje
+    - we: my
+    - west: západ
+    - western: západný
+    - where: kde
+    - wind: vietor

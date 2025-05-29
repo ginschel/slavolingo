@@ -1,0 +1,170 @@
+Skill:
+  Name: Nationalities
+  Id: 11
+
+New words:
+  - Word: slovan
+    Translation: Slav
+  - Word: jazyk
+    Translation: language
+  - Word: stát/země
+    Translation: country
+  - Word: národ
+    Translation: nation
+  - Word: jméno
+    Translation: name
+  - Word: Chorvatka
+    Translation: Croat
+  - Word: Rus
+    Translation: Russian
+  - Word: Polák
+    Translation: Pole
+  - Word: Němec
+    Translation: German
+  - Word: Angličan
+    Translation: Englishman
+
+Phrases:
+  - Phrase: On je Slovanem.
+    Translation: He is a Slav.
+  - Phrase: Ona mluví slovanským jazykem.
+    Translation: She speaks the Slavic language.
+  - Phrase: To je můj jazyk.
+    Translation: This is my language.
+  - Phrase: Státem je Polsko.
+    Translation: The country is Poland.
+  - Phrase: Já jsem Polákem.
+    Translation: I am a Pole.
+  - Phrase: Ona je Chorvatkou.
+    Translation: She is a Croat.
+  - Phrase: On je Rus.
+    Translation: He is a Russian.
+  - Phrase: Mluvíš německým jazykem?
+    Translation: Do you speak the German language?
+  - Phrase: Angličan mluví anglickým jazykem.
+    Translation: An Englishman speaks the English language.
+  - Phrase: My milujeme svůj národ.
+    Translation: We love our nation.
+  - Phrase: To je jméno mého státu.
+    Translation: This is the name of my country.
+  - Phrase: On zná tři jazyky.
+    Translation: He knows three languages.
+  - Phrase: Chorvat mluví chorvatským jazykem.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Němec žije v Německu.
+    Translation: A German lives in Germany.
+  - Phrase: Ona zná ruský a slovanský.
+    Translation: She knows Russian and Slavic.
+  - Phrase: To je národ s bohatou kulturou.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Jsi ty Angličanem?
+    Translation: Are you an Englishman?
+  - Phrase: On mluví každý jazyk dobře.
+    Translation: He speaks every language well.
+  - Phrase: My učíme se ruský jazyk.
+    Translation: We are learning the Russian language.
+  - Phrase: Ona zná mnoho národů.
+    Translation: She knows many nations.
+
+Mini-dictionary:
+  Czech:
+    - a: a
+    - anglickým: English
+    - angličan: Englishman
+    - angličanem: Englishman
+    - bohatou: rich
+    - chorvat: Croat
+    - chorvatka: Croat (female)
+    - chorvatkou: Croat (female)
+    - chorvatským: Croatian
+    - dobře: well
+    - jazykem: language
+    - jazyky: languages
+    - je: is
+    - jsem: I am
+    - jsi: you are
+    - já: I
+    - každý: each/every
+    - kulturou: culture
+    - milujeme: we love
+    - mluví: speaks/talks
+    - mluvíš: you speak/talk
+    - mnoho: many/much
+    - my: we
+    - mého: my
+    - můj: my
+    - národů: nations
+    - němec: German
+    - německu: Germany
+    - německým: German
+    - on: he
+    - ona: she
+    - polsko: Poland
+    - polák: Pole
+    - polákem: Pole
+    - rus: Russian
+    - ruský: Russian
+    - s: with
+    - se: oneself
+    - slovanem: Slav
+    - slovanský: Slavic
+    - slovanským: Slavic
+    - státem: state
+    - státu: state
+    - svůj: own
+    - to: it/that
+    - ty: you
+    - tři: three
+    - učíme: we learn/teach
+    - v: in
+    - zná: knows
+    - žije: lives
+  English:
+    - a: jedin/один
+    - am: jsem
+    - an: nějaký
+    - and: a
+    - are: byti/быти
+    - country: země
+    - croat: Chorvat
+    - croatian: chorvatský
+    - culture: kultura
+    - do: dělat
+    - english: anglický
+    - englishman: Angličan
+    - every: každý
+    - german: německý
+    - germany: Německo
+    - he: on
+    - i: já
+    - in: v
+    - is: je
+    - knows: ví
+    - language: jazyk
+    - languages: jazyky
+    - learning: učení
+    - lives: životy
+    - love: láska
+    - many: mnoho
+    - my: můj
+    - name: jméno
+    - nation: národ
+    - nations: národy
+    - of: z
+    - our: naše
+    - poland: Polsko
+    - pole: Polák
+    - rich: bohatý
+    - russian: ruský
+    - she: ona
+    - slav: Slovan
+    - slavic: slovanský
+    - speak: mluvit
+    - speaks: mluví
+    - the: to
+    - this: toto
+    - three: tři
+    - we: my
+    - well: dobře
+    - with: s
+    - you: ty/vy

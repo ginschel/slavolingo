@@ -1,0 +1,197 @@
+Skill:
+  Name: Cases revision
+  Id: 19
+
+New words:
+  - Word: "різати (ріже)"
+    Translation: to cut
+  - Word: "дар"
+    Translation: gift
+  - Word: "всесвіт"
+    Translation: universe
+  - Word: "дзеркало"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Кості тут нема.
+    Translation: There is no bone here.
+  - Phrase: Дам жінці.
+    Translation: I give to the woman.
+  - Phrase: Вона є в місті.
+    Translation: She is in the city.
+  - Phrase: Говоримо з друзями.
+    Translation: I talk with friends.
+  - Phrase: Імені він не має.
+    Translation: He has no name.
+  - Phrase: Ти душі не маєш?!
+    Translation: You don't have a soul?!
+  - Phrase: Він бачить свою жінку.
+    Translation: He sees his wife.
+  - Phrase: Брата тут нема.
+    Translation: There is no brother here.
+  - Phrase: Це можливо різати ножем.
+    Translation: This can be cut with a knife.
+  - Phrase: Вона з чоловіком говорить.
+    Translation: She talks with her husband.
+  - Phrase: Вона говорить про братів.
+    Translation: She talks about brothers.
+  - Phrase: Вона дає дар братам.
+    Translation: She gives a gift to the brothers.
+  - Phrase: На полі багато працюю/працюємо.
+    Translation: I work a lot in the field.
+  - Phrase: Є багато сонць у всесвіті.
+    Translation: There are many suns in the universe.
+  - Phrase: І також є багато зірок.
+    Translation: And there are also many stars.
+  - Phrase: Він любить говорити зі своєю жінкою.
+    Translation: He likes to talk with his wife.
+  - Phrase: Вже нема бананів у домі.
+    Translation: There are no more bananas in the house.
+  - Phrase: В очах бачу душу твою.
+    Translation: In the eyes I see your soul.
+  - Phrase: Очі є дзеркалом душі.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Чоловіків тут не бачу.
+    Translation: I do not see men here.
+  - Phrase: В містах побачиш багато людей.
+    Translation: In the cities you will see many people.
+  - Phrase: Спокійної ночі!
+    Translation: Good night!
+
+Mini-dictionary:
+  Ukrainian:
+    - багато: a lot, many, much
+    - бананів: of bananas
+    - бачить: he/she sees
+    - бачу: I see
+    - брата: of the brother
+    - братам: to the brothers
+    - братів: of brothers
+    - в: in, at
+    - вже: already
+    - вона: she
+    - всесвіт: universe
+    - всесвіті: in the universe
+    - він: he
+    - говоримо: we speak
+    - говорити: to speak
+    - говорить: speaks
+    - дам: I will give
+    - дар: gift
+    - дає: gives
+    - дзеркало: mirror
+    - дзеркалом: with a mirror
+    - домі: in the house
+    - друзями: with friends
+    - душу: soul (accusative)
+    - душі: of the soul
+    - жінкою: with a woman
+    - жінку: woman (accusative)
+    - жінці: to the woman
+    - з: with, from
+    - зі: with
+    - зірок: of stars
+    - кості: bones
+    - любить: loves
+    - людей: of people
+    - має: has
+    - маєш: you have
+    - можливо: maybe
+    - містах: in the cities
+    - місті: in the city
+    - на: on, at
+    - не: not
+    - нема: there is no
+    - ножем: with a knife
+    - ночі: of the night
+    - очах: in the eyes
+    - очі: eyes
+    - побачиш: you will see
+    - полі: in the field
+    - працюю/працюємо: I work/we work
+    - про: about
+    - ріже: cuts
+    - різати: to cut
+    - свою: my/his/her/its (accusative)
+    - своєю: with my/his/her/its
+    - сонць: of suns
+    - спокійної: of the calm
+    - також: also
+    - твою: your (accusative)
+    - ти: you (singular)
+    - тут: here
+    - у: in, at
+    - це: this is, it is
+    - чоловіком: with a man
+    - чоловіків: of men
+    - є: is, are
+    - і: and
+    - імені: of the name
+  English:
+    - a: jedin/один
+    - about: про
+    - also: також
+    - and: і
+    - are: byti/быти
+    - bananas: банани
+    - be: бути
+    - bone: кістка
+    - brother: брат
+    - brothers: брати
+    - can: може
+    - cities: міста
+    - city: місто
+    - cut: різати
+    - do: робити
+    - don't: не роблять
+    - eyes: очі
+    - field: поле
+    - friends: друзі
+    - gift: подарунок
+    - give: дати
+    - gives: дає
+    - good: добрий
+    - has: має
+    - have: мати
+    - he: він
+    - her: її
+    - here: тут
+    - his: його
+    - house: будинок
+    - husband: чоловік
+    - i: я
+    - in: в
+    - is: є
+    - knife: ніж
+    - likes: любить
+    - lot: багато
+    - many: багато
+    - men: чоловіки
+    - mirror: дзеркало
+    - more: більше
+    - name: ім'я
+    - night: ніч
+    - no: ні
+    - not: не
+    - of: з
+    - people: люди
+    - see: бачити
+    - sees: бачить
+    - she: вона
+    - soul: душа
+    - stars: зірки
+    - suns: сонця
+    - talk: говорити
+    - talks: говорить
+    - the: to
+    - there: там
+    - this: це
+    - to: до
+    - universe: всесвіт
+    - wife: дружина
+    - will: буде
+    - with: з
+    - woman: жінка
+    - work: робота
+    - you: ви
+    - your: ваш

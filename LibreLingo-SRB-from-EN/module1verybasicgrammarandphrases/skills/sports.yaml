@@ -1,0 +1,169 @@
+Skill:
+  Name: Sports
+  Id: 5
+
+New words:
+  - Word: фудбал
+    Translation: football
+  - Word: баскетбал
+    Translation: basketball
+  - Word: тенис
+    Translation: tennis
+  - Word: плавање
+    Translation: swimming
+  - Word: плавати
+    Translation: to swim
+  - Word: бег
+    Translation: running
+  - Word: бегати
+    Translation: to run
+  - Word: утром
+    Translation: in the morning
+  - Word: љубити
+    Translation: to love/like
+  - Word: хокеј
+    Translation: hockey
+  - Word: спорт
+    Translation: sport
+  - Word: игра
+    Translation: game
+  - Word: тренирати
+    Translation: to train
+  - Word: стадион
+    Translation: stadium
+  - Word: брзо
+    Translation: fast
+  - Word: тежки
+    Translation: difficult
+
+Phrases:
+  - Phrase: Играм в фудбал.
+    Translation: I play football.
+  - Phrase: Она игра в баскетбал.
+    Translation: She plays basketball.
+  - Phrase: Он игра в тенис.
+    Translation: He plays tennis.
+  - Phrase: Ми плавамо в реци.
+    Translation: We swim in the river.
+  - Phrase: Они бегају утром.
+    Translation: They run in the morning.
+  - Phrase: Он тренирује кажди дањ.
+    Translation: He trains every day.
+  - Phrase: Спорт јест важни.
+    Translation: Sport is important.
+  - Phrase: Она игра на стадиону.
+    Translation: She plays at the stadium.
+  - Phrase: Треба тренирати.
+    Translation: It is necessary to train.
+  - Phrase: Они љубе спорт.
+    Translation: They love sport.
+  - Phrase: Ја не играм в хокеј.
+    Translation: I do not play hockey.
+  - Phrase: Стадион јест в месту.
+    Translation: The stadium is in the city.
+  - Phrase: Баскетбол то интересни спорт.
+    Translation: Basketball is an interesting sport.
+  - Phrase: Плавање јест добро за здравље.
+    Translation: Swimming is good for health.
+  - Phrase: Кто игра в тенис?
+    Translation: Who plays tennis?
+  - Phrase: Он бега брзо.
+    Translation: He runs fast.
+  - Phrase: Ми плавамо често.
+    Translation: We swim often.
+  - Phrase: Он тренирује с пријатељем.
+    Translation: He trains with a friend.
+  - Phrase: Ја играм с братами.
+    Translation: I play with my brothers.
+  - Phrase: Хокеј јест тешки.
+    Translation: Hockey is difficult.
+
+Mini-dictionary:
+  Serbian:
+    - баскетбол: basketball
+    - бега: runs
+    - бегају: run
+    - братами: brothers
+    - в: in
+    - важни: important
+    - дањ: day
+    - добро: good
+    - за: for
+    - здравље: health
+    - играм: i play
+    - интересни: interesting
+    - кажди: every
+    - кто: who
+    - месту: place
+    - ми: we
+    - на: on
+    - не: no
+    - он: he
+    - она: she
+    - они: they
+    - плавамо: we swim
+    - пријатељем: friend
+    - реци: river
+    - с: with
+    - стадиону: stadium
+    - тешки: heavy
+    - то: that
+    - треба: needs
+    - тренирује: trains
+    - често: often
+    - ја: i
+    - јест: is
+    - љубе: love
+  English:
+    - a: jedin/один
+    - an: а
+    - at: при
+    - basketball: баскетбол
+    - brothers: братам
+    - city: град
+    - day: дан
+    - difficult: сложни
+    - do: делати
+    - every: всяки
+    - fast: брзи
+    - football: фудбал
+    - for: за
+    - friend: пријатељ
+    - game: игра
+    - good: добра
+    - he: он
+    - health: здравље
+    - hockey: хокеј
+    - i: ја
+    - important: важна
+    - in: у
+    - interesting: интересна
+    - is: је
+    - it: оно
+    - love: љубов
+    - love/like: волети
+    - morning: јутро
+    - my: мој
+    - necessary: потребно
+    - not: не
+    - often: често
+    - play: играти
+    - plays: игра
+    - river: река
+    - run: бегати
+    - running: бег
+    - runs: бега
+    - she: она
+    - sport: спорт
+    - stadium: стадион
+    - swim: плавати
+    - swimming: плавање
+    - tennis: тенис
+    - the: to
+    - they: они
+    - to: до
+    - train: појезд
+    - trains: појездов
+    - we: ми
+    - who: кто
+    - with: с

@@ -1,0 +1,201 @@
+Skill:
+  Name: Pronouns revision
+  Id: 20
+
+New words:
+  - Word: "знати"
+    Translation: to know
+  - Word: "вѣдѣти (вѣсть)"
+    Translation: to know
+  - Word: "сънъ"
+    Translation: dream
+  - Word: "вѣщь"
+    Translation: thing
+
+Phrases:
+  - Phrase: Того нє знаѭ.
+    Translation: I don't know that.
+  - Phrase: О томъ оужє дълъго ває вѣсть.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Кого тꙑ видиши?.
+    Translation: Who do you see?.
+  - Phrase: Тꙑмъ кътори лєжѧтъ сѧ спати спокойноѥго съна.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: О тои вѣщи ꙗ ничьто нє знаѭ.
+    Translation: I know nothing about that thing.
+  - Phrase: Глаголимъ съ тобоѭ.
+    Translation: I am talking with you.
+  - Phrase: Азъ видимъ васъ.
+    Translation: I see you.
+  - Phrase: Онъ любитъ бꙑти самъ съ собоѭ.
+    Translation: He likes to be alone with himself.
+  - Phrase: Даи мьнѣ водѫ.
+    Translation: Give me water.
+  - Phrase: Съ нами всєгда въсє вєсєло.
+    Translation: With us everything is always cheerful.
+  - Phrase: Мєнє нє видиши.
+    Translation: You don't see me.
+  - Phrase: Комꙋ даси даръ?
+    Translation: Who do you give a gift to?
+  - Phrase: О мьнѣ глаголиши?
+    Translation: Are you talking about me?
+  - Phrase: Нє, азъ нє глаголимъ о тобѣ.
+    Translation: No, I don't talt about you.
+  - Phrase: О чьмь тꙑ глаголиши?
+    Translation: What are you talking about?
+  - Phrase: Сє женꙑ сѫтъ красьнє.
+    Translation: These women are beautiful.
+  - Phrase: Тꙑхъ приꙗтєльѥвъ нє имаши.
+    Translation: You do not have those friends.
+  - Phrase: Онъ даѥтъ собѣ покои.
+    Translation: He stops troubling others.
+  - Phrase: Чьсєго тѫ нємаѥтъ въ домꙋ?
+    Translation: What isn't at this house here?
+  - Phrase: Томꙋ пьсꙋ тꙑ даѥши кости.
+    Translation: You give to this dog bones.
+  - Phrase: Сь ваша кава или ѥѩ?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Church Slavonic:
+    - азъ: I
+    - бꙑти: to be
+    - васъ: you
+    - ваша: your
+    - ває: you
+    - видимъ: we see
+    - видиши: you see
+    - водѫ: water
+    - всєгда: always
+    - въ: in
+    - въсє: all
+    - вєсєло: cheerful
+    - вѣдѣти: to know
+    - вѣсть: news
+    - вѣщи: things
+    - вѣщь: thing
+    - глаголимъ: we speak
+    - глаголиши: you speak
+    - даи: give
+    - даръ: gift
+    - даси: you will give
+    - даѥтъ: gives
+    - даѥши: you give
+    - домꙋ: home
+    - дълъго: long
+    - женꙑ: women
+    - знати: to know
+    - знаѭ: I know
+    - или: or
+    - имаши: you have
+    - кава: coffee
+    - кого: whom
+    - комꙋ: to whom
+    - кости: bones
+    - красьнє: beautiful
+    - кътори: which
+    - любитъ: loves
+    - лєжѧтъ: they lie
+    - мьнѣ: to me
+    - мєнє: me
+    - нами: us
+    - ничьто: nothing
+    - нє: not
+    - нємаѥтъ: has not
+    - о: about
+    - онъ: he
+    - оужє: already
+    - покои: room
+    - приꙗтєльѥвъ: friends
+    - пьсꙋ: dog
+    - самъ: himself
+    - собоѭ: with himself
+    - собѣ: to himself
+    - спати: to sleep
+    - спокойноѥго: calm
+    - съ: with
+    - съна: dream
+    - сънъ: dream
+    - сь: this
+    - сє: this
+    - сѧ: oneself
+    - сѫтъ: are
+    - тобоѭ: with you
+    - тобѣ: to you
+    - того: that
+    - тои: that
+    - томъ: that
+    - томꙋ: that
+    - тѫ: that
+    - тꙑ: you
+    - тꙑмъ: that
+    - тꙑхъ: those
+    - чьмь: what
+    - чьсєго: what
+    - ѥѩ: her
+    - ꙗ: I
+  English:
+    - a: jedin/один
+    - about: ѡ҃
+    - alone: самъ
+    - always: всегда
+    - am: єсмь
+    - are: byti/быти
+    - at: при
+    - be: быти
+    - beautiful: красьнъ
+    - bones: кости
+    - cheerful: веселъ
+    - coffee: кафа
+    - do: дѣлати
+    - dog: пьсъ
+    - don't: не
+    - dream: сънъ
+    - everything: вьсе
+    - for: длѧ
+    - friends: дрꙋзи
+    - gift: даръ
+    - give: дати
+    - going: идѧщи
+    - have: имѣти
+    - he: онъ
+    - her: єи
+    - here: здѣ
+    - himself: самъ
+    - house: домъ
+    - i: азъ
+    - is: єсть
+    - isn't: не єсть
+    - it: то
+    - know: вѣдѣти
+    - known: извѣстенъ
+    - likes: любитъ
+    - long: дльгъ
+    - me: мѧ
+    - no: не
+    - not: не
+    - nothing: ничто
+    - or: или
+    - others: ини
+    - peaceful: мирьнъ
+    - see: видѣти
+    - sleep: спати
+    - stops: престаѥтъ
+    - talking: бесѣдоѭщи
+    - talt: гл҃аше
+    - that: тъ
+    - these: си
+    - thing: вещь
+    - this: си
+    - those: они
+    - time: врѣмѧ
+    - to: къ
+    - troubling: трꙋблѧѭщи
+    - us: насъ
+    - water: вода
+    - what: что
+    - who: кто
+    - with: съ
+    - women: жены
+    - you: ты
+    - your: твои

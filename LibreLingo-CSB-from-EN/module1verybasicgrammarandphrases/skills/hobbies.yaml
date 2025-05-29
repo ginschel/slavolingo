@@ -1,0 +1,188 @@
+Skill:
+  Name: Hobbies
+  Id: 4
+
+New words:
+  - Word: czëtac
+    Translation: to read
+  - Word: pisac (pisze)
+    Translation: to write
+  - Word: grac
+    Translation: to play
+  - Word: òbzérac
+    Translation: to watch
+  - Word: słëchac
+    Translation: to listen
+  - Word: malowac
+    Translation: to paint
+  - Word: spiéwac
+    Translation: to sing
+  - Word: ùczëc sã
+    Translation: to learn
+  - Word: sedzec (sedzy)
+    Translation: to sit
+  - Word: szaic (szaje)
+    Translation: to sew
+  - Word: tańcowac
+    Translation: to dance
+
+Phrases:
+  - Phrase: Ja czëtóm knégã.
+    Translation: I am reading a book.
+  - Phrase: Òna pisze lëstë.
+    Translation: She is writing letters.
+  - Phrase: On grô w balë.
+    Translation: He is playing football.
+  - Phrase: Më òbzérómë film.
+    Translation: We are watching a film.
+  - Phrase: Òni słëchają mùzëkã.
+    Translation: They are listening to music.
+  - Phrase: Òna sedzy i czëtô.
+    Translation: She is sitting and reading.
+  - Phrase: Ja malëjã òbraz.
+    Translation: I am painting a picture.
+  - Phrase: On spiéwô spiéwkã.
+    Translation: He is singing songs.
+  - Phrase: Wë ùczëce sã jãzëka.
+    Translation: You are learning a language.
+  - Phrase: Ja szajã drastã.
+    Translation: I am sewing clothes.
+  - Phrase: Të òbzérôsz serëjã?
+    Translation: Are you watching a series?
+  - Phrase: Më grajemë w szachë.
+    Translation: We are playing chess.
+  - Phrase: Òni słëchają radio.
+    Translation: They are listening to the radio.
+  - Phrase: Czëtôsz të romani?
+    Translation: Do you read novels?
+  - Phrase: On pisze dzénnik.
+    Translation: He is writing a diary.
+  - Phrase: Ùczimë sã tu.
+    Translation: We are learning here.
+  - Phrase: Malëjemë z przëjacelama òbrazë.
+    Translation: We are painting pictures with friends.
+  - Phrase: Të szajiesz?
+    Translation: Are you sewing?
+  - Phrase: Ja spiéwóm ze skùpą.
+    Translation: I am singing with a group.
+  - Phrase: Ja tańcëjã wiele
+    Translation: I dance a lot
+  - Phrase: Òna grô na gitarze.
+    Translation: She is playing the guitar.
+
+Mini-dictionary:
+  Kashubian:
+    - balë: balls
+    - czëtóm: I read
+    - czëtô: reads
+    - czëtôsz: you read
+    - drastã: cloth
+    - dzénnik: newspaper
+    - film: film
+    - gitarze: guitar
+    - grajemë: we play
+    - grô: plays
+    - i: and
+    - ja: yes
+    - jãzëka: language
+    - knégã: book
+    - lëstë: leaves
+    - malëjemë: we paint
+    - malëjã: I paint
+    - më: we
+    - mùzëkã: music
+    - na: on
+    - on: he
+    - pisac: to write
+    - pisze: writes
+    - przëjacelama: friends
+    - radio: radio
+    - romani: Gypsy
+    - sedzec: to sit
+    - sedzy: sits
+    - serëjã: I believe
+    - skùpą: expensive
+    - spiéwkã: song
+    - spiéwóm: I sing
+    - spiéwô: sings
+    - szachë: chess
+    - szaic: to piss
+    - szaje: pisses
+    - szajiesz: you piss
+    - szajã: I piss
+    - sã: yourself
+    - słëchają: they listen
+    - tańcëjã: I dance
+    - tu: here
+    - të: you
+    - w: in
+    - wiele: many
+    - wë: you
+    - z: with
+    - ze: with
+    - òbraz: image
+    - òbrazë: images
+    - òbzérómë: we look at
+    - òbzérôsz: you look at
+    - òna: she
+    - òni: they
+    - ùczimë: we learn
+    - ùczëc: to teach
+    - ùczëce: you teach
+  English:
+    - a: jedin/один
+    - am: jem
+    - and: ë
+    - are: byti/быти
+    - book: knéga
+    - chess: szachë
+    - clothes: òblaczenié
+    - dance: tuńcowac
+    - diary: dodów
+    - do: robic
+    - film: film
+    - football: futbal
+    - friends: kamradë
+    - group: grëpa
+    - guitar: gitara
+    - he: on
+    - here: tu
+    - i: jô
+    - is: je
+    - language: jãzëk
+    - learn: ùczëc
+    - learning: ùczenié
+    - letters: lëtrowie
+    - listen: słëchac
+    - listening: słëchanié
+    - lot: wiele
+    - music: mùzyka
+    - novels: nowelë
+    - paint: malowac
+    - painting: malowanié
+    - picture: òbrôz
+    - pictures: òbrôzë
+    - play: grac
+    - playing: granié
+    - radio: radio
+    - read: czëtac
+    - reading: czëtanié
+    - series: seriô
+    - sew: szëc
+    - sewing: szëcé
+    - she: òna
+    - sing: spiéwac
+    - singing: spiéwanié
+    - sit: sedzec
+    - sitting: sedzenié
+    - songs: piesni
+    - the: to
+    - they: òni
+    - to: do
+    - watch: òbzërac
+    - watching: òbzëranie
+    - we: më
+    - with: z
+    - write: pisac
+    - writing: pisanié
+    - you: të

@@ -1,0 +1,232 @@
+Skill:
+  Name: Clothes
+  Id: 34
+
+New words:
+  - Word: srajca
+    Translation: shirt
+  - Word: nositi
+    Translation: to wear
+  - Word: hlače
+    Translation: trousers
+  - Word: majica
+    Translation: t-shirt
+  - Word: šal
+    Translation: scarf
+  - Word: kapa
+    Translation: hat
+  - Word: plašč
+    Translation: coat
+  - Word: rokavica
+    Translation: glove
+  - Word: spodnjice
+    Translation: underwear
+  - Word: nogavica
+    Translation: sock
+  - Word: obutev
+    Translation: footwear
+  - Word: oblačila
+    Translation: clothes
+  - Word: grd
+    Translation: ugly
+  - Word: oblačiti se
+    Translation: to dress
+  - Word: pižama
+    Translation: pajamas
+
+Phrases:
+  - Phrase: On nosi modro srajco.
+    Translation: He wears a blue shirt.
+  - Phrase: Ona ima črne hlače, a on bele.
+    Translation: She has black trousers, and he has white.
+  - Phrase: Obutev in plašč ležita pri vratih.
+    Translation: Shoes and the coat are lying by the door.
+  - Phrase: Šal je težek in topel.
+    Translation: The scarf is heavy and warm.
+  - Phrase: Pozimi nosim vedno kapo, a poleti ne.
+    Translation: In winter, I always wear a hat, but not in summer.
+  - Phrase: Spodnjice so lepe ali grde?
+    Translation: Are the shorts beautiful or ugly?
+  - Phrase: Nosim rokavice pozimi.
+    Translation: We wear gloves in winter.
+  - Phrase: Tista pižama je zelena.
+    Translation: That pajama is green.
+  - Phrase: Nove spodnjice so udobne.
+    Translation: New shorts are comfortable.
+  - Phrase: Nova oblačila so draga.
+    Translation: New clothes are expensive.
+  - Phrase: Srajca je v omari.
+    Translation: The shirt is in the drawer.
+  - Phrase: Kapa visi na steni.
+    Translation: The hat hangs on the wall.
+  - Phrase: On se je oblačil in nosil včeraj ob drugi uri zeleno majico ali srajco. Nisem prepričan zdaj.
+    Translation: He wore and put on a green tennis shoe or shirt yesterday at two AM. I'm not sure right now.
+  - Phrase: Ti hočeš šal ali srajco.
+    Translation: You want a scarf or a shirt.
+  - Phrase: Grde rokavice ležijo na mizi, a lep plašč nosim.
+    Translation: The ugly gloves are lying on the table, and I wear the red coat.
+  - Phrase: Ona je kupila toplo obutev.
+    Translation: She bought warm shoes.
+  - Phrase: On si oblači novo srajco.
+    Translation: He is putting on a new shirt.
+  - Phrase: Moje nogavice so kratke.
+    Translation: My socks are short.
+  - Phrase: Pozimi bom potreboval kapo in rokavice.
+    Translation: In winter I will need a hat and gloves.
+  - Phrase: Oblačila so čista in samo še bela.
+    Translation: The clothes are clean and only the underwear is white.
+
+Mini-dictionary:
+  Slovenian:
+    - a: a
+    - ali: or
+    - bela: white
+    - bele: white
+    - bom: I will
+    - draga: dear
+    - drugi: second
+    - grde: ugly
+    - hočeš: you want
+    - ima: has
+    - in: and
+    - je: is
+    - kapo: cap
+    - kratke: short
+    - kupila: bought
+    - lep: beautiful
+    - lepe: beautiful
+    - ležijo: lie
+    - ležita: they two lie
+    - majico: t-shirt
+    - mizi: table
+    - modro: blue
+    - moje: my
+    - na: on
+    - ne: no
+    - nisem: I am not
+    - nogavice: socks
+    - nosi: carries
+    - nosil: carried
+    - nosim: I carry
+    - nova: new
+    - nove: new
+    - novo: new
+    - ob: at / by
+    - oblači: dresses
+    - oblačil: clothes
+    - oblačiti: to dress
+    - omari: wardrobe
+    - on: he
+    - ona: she
+    - poleti: in summer / flies
+    - potreboval: needed
+    - pozimi: in winter
+    - prepričan: convinced
+    - pri: at / by
+    - rokavice: gloves
+    - samo: only
+    - se: oneself / itself
+    - si: you are
+    - so: they are
+    - srajco: shirt
+    - steni: wall
+    - težek: heavy / difficult
+    - ti: you (singular informal)
+    - tista: that
+    - topel: warm
+    - toplo: warm
+    - udobne: comfortable
+    - uri: hour / clock
+    - v: in
+    - vedno: always
+    - visi: hangs
+    - vratih: door
+    - včeraj: yesterday
+    - zdaj: now
+    - zelena: green
+    - zeleno: green
+    - čista: clean
+    - črne: black
+    - še: still / yet
+  English:
+    - a: jedin/один
+    - always: vedno
+    - am: sem
+    - and: in
+    - are: byti/быти
+    - at: pri
+    - beautiful: lep
+    - black: črn
+    - blue: moder
+    - bought: kupil
+    - but: toda
+    - by: po
+    - clean: čist
+    - clothes: obleke
+    - coat: plašč
+    - comfortable: udoben
+    - door: vrata
+    - drawer: predal
+    - dress: obleka
+    - expensive: dragocen
+    - footwear: obutev
+    - glove: rokavica
+    - gloves: rokavice
+    - green: zelen
+    - hangs: visi
+    - has: ima
+    - hat: klobuk
+    - he: on
+    - heavy: težak
+    - i: jaz
+    - i'm: sem
+    - in: v
+    - is: je
+    - lying: leži
+    - my: moj
+    - need: potrebujejo
+    - new: nov
+    - not: ne
+    - now: zdaj
+    - on: na
+    - only: samo
+    - or: ali
+    - pajama: pižama
+    - pajamas: pižama
+    - put: dati
+    - putting: daje
+    - red: rdeč
+    - right: desno
+    - scarf: šal
+    - she: ona
+    - shirt: srajca
+    - shoe: čevelj
+    - shoes: čevlji
+    - short: kratek
+    - shorts: kratke hlače
+    - sock: nogavica
+    - socks: nogavice
+    - summer: poletje
+    - sure: prepričan
+    - t-shirt: majica
+    - table: miza
+    - tennis: tenis
+    - that: da
+    - the: to
+    - to: do
+    - trousers: hlače
+    - two: dva
+    - ugly: grd
+    - underwear: spodnjice
+    - wall: stena
+    - want: hoteti
+    - warm: topel
+    - we: mi
+    - wear: nositi
+    - wears: nosi
+    - white: bel
+    - will: bo
+    - winter: zima
+    - wore: nosil
+    - yesterday: včeraj
+    - you: ti

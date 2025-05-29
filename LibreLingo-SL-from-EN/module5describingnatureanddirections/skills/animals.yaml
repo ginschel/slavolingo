@@ -1,0 +1,171 @@
+Skill:
+  Name: Animals
+  Id: 14
+
+New words:
+  - Word: mačka
+    Translation: cat
+  - Word: pes
+    Translation: dog
+  - Word: ptica
+    Translation: bird
+  - Word: pomagati
+    Translation: to help
+  - Word: pokazati (pokaže)
+    Translation: to show
+  - Word: konj
+    Translation: horse
+  - Word: dati (da)
+    Translation: to give
+  - Word: riba
+    Translation: fish
+  - Word: žaba
+    Translation: frog
+  - Word: medved
+    Translation: bear
+  - Word: volk
+    Translation: wolf
+  - Word: miš
+    Translation: mouse
+  - Word: žival
+    Translation: animal
+
+Phrases:
+  - Phrase: Jaz dam mački ribo.
+    Translation: I give the cat a fish.
+  - Phrase: Ona pokaže psu.
+    Translation: She says to the dog.
+  - Phrase: On pomaga ptici.
+    Translation: He helps the bird.
+  - Phrase: Dajemo konju vodo.
+    Translation: We give the horse water.
+  - Phrase: Ona nese miši sir.
+    Translation: She carries cheese to the mouse.
+  - Phrase: On pomaga medvedu.
+    Translation: He helps the bear.
+  - Phrase: Mi dajemo žabi kruh.
+    Translation: We give bread to the frog.
+  - Phrase: Oni dajo živali roko.
+    Translation: They give their hand to the animal.
+  - Phrase: Pomagamo volku.
+    Translation: We help the wolf.
+  - Phrase: Boš mi dal ribo?
+    Translation: Will you give me a fish?
+  - Phrase: Jaz dam mački ime.
+    Translation: I give the cat a name.
+  - Phrase: On da miši sir.
+    Translation: On da myši syr.
+  - Phrase: Mi pomagamo pticam.
+    Translation: We help the birds.
+  - Phrase: Dajemo žabi vodo.
+    Translation: We give the frog water.
+  - Phrase: Oni nesejo medvedu hrano.
+    Translation: They are carrying food to the bear.
+  - Phrase: Ona da psu dobro ime.
+    Translation: She gives the dog a good name.
+  - Phrase: Boste dali konju.
+    Translation: You will give the horse.
+  - Phrase: Jaz dam ribi vodo.
+    Translation: I give the fish water.
+  - Phrase: Ona mu je pomagala z živaljo.
+    Translation: She helped him with the animal.
+  - Phrase: Boš dal psu okusno kost?
+    Translation: Will you give the dog a tasty bone?
+
+Mini-dictionary:
+  Slovenian:
+    - boste: you will
+    - boš: you will
+    - da: that
+    - dajemo: we give
+    - dajo: they give
+    - dal: gave
+    - dali: gave
+    - dam: I give
+    - dati: to give
+    - dobro: good
+    - hrano: food
+    - ime: name
+    - jaz: I
+    - je: is
+    - konju: horse
+    - kost: bone
+    - kruh: bread
+    - mački: cats
+    - medvedu: bear
+    - mi: we
+    - miši: mice
+    - mu: him
+    - nese: carries
+    - nesejo: carry
+    - okusno: tasty
+    - on: he
+    - ona: she
+    - oni: they
+    - pokazati: to show
+    - pokaže: shows
+    - pomaga: helps
+    - pomagala: helped
+    - pomagamo: we help
+    - psu: dog
+    - pticam: birds
+    - ptici: bird
+    - ribi: fish
+    - ribo: fish
+    - roko: hand
+    - sir: cheese
+    - vodo: water
+    - volku: wolf
+    - z: with
+    - žabi: frog
+    - živali: animals
+    - živaljo: animal
+  English:
+    - a: jedin/один
+    - animal: žival
+    - are: byti/быти
+    - bear: medved
+    - bird: ptica
+    - birds: ptice
+    - bone: kost
+    - bread: kruh
+    - carries: nosi
+    - carrying: nosim
+    - cat: mačka
+    - cheese: sir
+    - da: da
+    - dog: pes
+    - fish: riba
+    - food: hrano
+    - frog: žaba
+    - give: dati
+    - gives: daje
+    - good: dober
+    - hand: roka
+    - he: on
+    - help: pomagati
+    - helped: pomagal
+    - helps: pomaga
+    - him: mu
+    - horse: konj
+    - i: jaz
+    - me: me
+    - mouse: miš
+    - myši: miši
+    - name: ime
+    - on: na
+    - says: pravi
+    - she: ona
+    - show: kazati
+    - syr: sir
+    - tasty: okusno
+    - the: to
+    - their: njihov
+    - they: oni
+    - to: do
+    - water: voda
+    - we: mi
+    - will: bo
+    - with: z
+    - wolf: volk
+    - you: ti

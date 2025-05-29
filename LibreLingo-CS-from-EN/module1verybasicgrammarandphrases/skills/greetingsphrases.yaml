@@ -1,0 +1,231 @@
+Skill:
+  Name: Greetings & Phrases
+  Id: 2
+
+New words:
+  - Word: pozdrav
+    Translation: greeting
+  - Word: zdravý/ahoj
+    Translation: healthy/hello
+  - Word: rozhovor
+    Translation: conversation
+  - Word: ráno
+    Translation: morning
+  - Word: večer
+    Translation: evening
+  - Word: den
+    Translation: day
+  - Word: noc
+    Translation: night
+  - Word: děkuji
+    Translation: thanks
+  - Word: pardon
+    Translation: pardon
+  - Word: promiň
+    Translation: excuse me
+  - Word: dobrý
+    Translation: good
+  - Word: lépe
+    Translation: better
+  - Word: možno
+    Translation: possible
+  - Word: škoda
+    Translation: pity
+  - Word: takto
+    Translation: so
+  - Word: co
+    Translation: what
+  - Word: ne
+    Translation: no
+  - Word: ano
+    Translation: yes
+  - Word: může
+    Translation: maybe/can
+  - Word: dávej
+    Translation: let's go
+
+Phrases:
+  - Phrase: Dobré ráno!
+    Translation: Good morning!
+  - Phrase: Dobrý večer!
+    Translation: Good evening!
+  - Phrase: Dobrý den!
+    Translation: Good day!
+  - Phrase: Dobrou noc!
+    Translation: Good night!
+  - Phrase: Jak se máš?
+    Translation: How are you?
+  - Phrase: Jsem dobře, děkuji!
+    Translation: I am well, thank you!
+  - Phrase: A ty?
+    Translation: And you?
+  - Phrase: Děkuji ti mnohokrát.
+    Translation: Thank you very much.
+  - Phrase: Pardon, nerozumím.
+    Translation: Excuse me, I don't understand.
+  - Phrase: Pozdrav!
+    Translation: Greetings!
+  - Phrase: Ahoj!
+    Translation: Hello!
+  - Phrase: Dobrý den, jak se máš?
+    Translation: Good day, how are you?
+  - Phrase: Jsi zdravý?
+    Translation: Are you healthy?
+  - Phrase: Vítejte!
+    Translation: Welcome!
+  - Phrase: Na zdraví!
+    Translation: To your health!
+  - Phrase: Pozdrav svou sestru.
+    Translation: Greet your sister.
+  - Phrase: Jak se jmenuješ?
+    Translation: What is your name?
+  - Phrase: Jmenuji se Bartek.
+    Translation: My name is Bartek.
+  - Phrase: Děkuji za rozhovor.
+    Translation: Thank you for the conversation.
+  - Phrase: Takto je.
+    Translation: That is so.
+  - Phrase: Ne takto.
+    Translation: Not so.
+  - Phrase: Může být.
+    Translation: Maybe.
+  - Phrase: Není možno.
+    Translation: Not possible.
+  - Phrase: Škoda!
+    Translation: What a pity!
+  - Phrase: Dobře!
+    Translation: Good!
+  - Phrase: Není dobře.
+    Translation: Not good.
+  - Phrase: To je lépe.
+    Translation: This is better.
+  - Phrase: To není lépe.
+    Translation: This is not better.
+  - Phrase: Ano, může.
+    Translation: Yes, it is possible.
+  - Phrase: Ne, není možno.
+    Translation: No, it is not possible.
+  - Phrase: Je to možno?
+    Translation: Is this possible?
+  - Phrase: Co to znamená?
+    Translation: What does this mean?
+  - Phrase: Také já.
+    Translation: Me too.
+  - Phrase: S Bohem!
+    Translation: Go with God!
+  - Phrase: Nevím.
+    Translation: I don't know.
+  - Phrase: Může.
+    Translation: Perhaps.
+  - Phrase: Opakuj. Nerozuměl.
+    Translation: Repeat. I didn't understand.
+  - Phrase: Jsi hotový?
+    Translation: Are you ready?
+  - Phrase: Dávej!
+    Translation: Let's go!
+
+Mini-dictionary:
+  Czech:
+    - a: a
+    - ahoj: hello
+    - bartek: Bartek
+    - bohem: God
+    - být: be
+    - dobrou: good
+    - dobré: good
+    - dobře: well
+    - hotový: ready
+    - jak: how
+    - je: is
+    - jmenuješ: your name is
+    - jmenuji: my name is
+    - jsem: I am
+    - jsi: you are
+    - já: I
+    - mnohokrát: many times
+    - máš: you have
+    - na: on
+    - není: isn't
+    - nerozumím: I don't understand
+    - nerozuměl: didn't understand
+    - nevím: I don't know
+    - opakuj: repeat
+    - s: with
+    - se: oneself
+    - sestru: sister
+    - svou: own
+    - také: also
+    - ti: you
+    - to: it/that
+    - ty: you
+    - vítejte: welcome
+    - za: behind
+    - zdraví: health
+    - zdravý: healthy
+    - znamená: means
+  English:
+    - a: jedin/один
+    - am: jsem
+    - and: a
+    - are: byti/быти
+    - bartek: Bartek
+    - better: lepší
+    - conversation: rozhovor
+    - day: den
+    - didn't: neudělal
+    - does: dělá
+    - don't: nedělej
+    - evening: večer
+    - excuse: omluva
+    - for: pro
+    - go: jít
+    - god: bůh
+    - good: dobrý
+    - greet: pozdravit
+    - greeting: pozdrav
+    - greetings: pozdravy
+    - health: zdraví
+    - healthy: zdravý
+    - healthy/hello: zdravý/ahoj
+    - hello: ahoj
+    - how: jak
+    - i: já
+    - is: je
+    - it: to
+    - know: vědět
+    - let's: pojďme
+    - maybe: možná
+    - maybe/can: možná/může
+    - me: mě
+    - mean: znamenat
+    - morning: ráno
+    - much: hodně
+    - my: můj
+    - name: jméno
+    - night: noc
+    - no: ne
+    - not: ne
+    - pardon: promiňte
+    - perhaps: možná
+    - pity: lítost
+    - possible: možný
+    - ready: připravený
+    - repeat: opakovat
+    - sister: sestra
+    - so: tak
+    - thank: děkovat
+    - thanks: díky
+    - that: to
+    - the: to
+    - this: toto
+    - to: do
+    - too: příliš
+    - understand: rozumět
+    - very: velmi
+    - welcome: vítaný
+    - well: dobře
+    - what: co
+    - with: s
+    - yes: ano
+    - you: ty/vy
+    - your: tvůj/váš

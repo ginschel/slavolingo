@@ -1,0 +1,196 @@
+Skill:
+  Name: Pronouns revision
+  Id: 20
+
+New words:
+  - Word: "wiedzieć"
+    Translation: to know
+  - Word: "znać"
+    Translation: to know
+  - Word: "sny"
+    Translation: dream
+  - Word: "rzecz"
+    Translation: thing
+
+Phrases:
+  - Phrase: Tego niy wia.
+    Translation: I don't know that.
+  - Phrase: Ô tym juž dugo zna.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Kogo ty widzisz?.
+    Translation: Who do you see?.
+  - Phrase: Tym kierzy leżōm spać spokojnego sny.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: Ô tej rzecy jo nic niy wia.
+    Translation: I know nothing about that thing.
+  - Phrase: Godōm z tobōm.
+    Translation: I am talking with you.
+  - Phrase: Jo widza wos.
+    Translation: I see you.
+  - Phrase: Ôn lubi być sam ze sobōm.
+    Translation: He likes to be alone with himself.
+  - Phrase: Dej mi woda.
+    Translation: Give me water.
+  - Phrase: Z nami zawżdy wszyjsko wesoło.
+    Translation: With us everything is always cheerful.
+  - Phrase: Mnie niy widzisz.
+    Translation: You don't see me.
+  - Phrase: Komu dōsz darōnek?
+    Translation: Who do you give a gift to?
+  - Phrase: Ô mnie godosz?
+    Translation: Are you talking about me?
+  - Phrase: Niy, jo niy godōm ô tobie.
+    Translation: No, I don't talt about you.
+  - Phrase: Ô czym ty godosz?
+    Translation: What are you talking about?
+  - Phrase: Te baby som piykne.
+    Translation: These women are beautiful.
+  - Phrase: Tych kamratōw niy mosz.
+    Translation: You do not have those friends.
+  - Phrase: Ôn dowo sobie pokōj.
+    Translation: He stops troubling others.
+  - Phrase: Czego sam niy mo we dōmu?
+    Translation: What isn't at this house here?
+  - Phrase: Tymu psowi ty dajesz kości.
+    Translation: You give to this dog bones.
+  - Phrase: To woszo kafa abo jej?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Silesian:
+    - abo: or
+    - baby: women
+    - być: be
+    - czego: what
+    - czym: what
+    - dajesz: give
+    - darōnek: gift
+    - dej: give
+    - dowo: gives
+    - dugo: long
+    - dōmu: home
+    - dōsz: went
+    - godosz: speak
+    - godōm: speaking
+    - jej: her
+    - jo: I
+    - juž: already
+    - kafa: coffee
+    - kamratōw: friends
+    - kierzy: bushes
+    - kogo: whom
+    - komu: to whom
+    - kości: bones
+    - leżōm: lying
+    - lubi: likes
+    - mi: me
+    - mnie: me
+    - mo: has
+    - mosz: have
+    - nami: us
+    - nic: nothing
+    - niy: not
+    - piykne: beautiful
+    - pokōj: room
+    - psowi: dog
+    - rzecy: things
+    - rzecz: thing
+    - sam: himself
+    - sny: dreams
+    - sobie: himself
+    - sobōm: himself
+    - som: am
+    - spać: sleep
+    - spokojnego: peaceful
+    - te: these
+    - tego: that
+    - tej: this
+    - to: to
+    - tobie: you
+    - tobōm: you
+    - ty: you
+    - tych: those
+    - tym: this
+    - tymu: him
+    - we: in
+    - wesoło: cheerful
+    - wia: knows
+    - widza: see
+    - widzisz: see
+    - wiedzieć: know
+    - woda: water
+    - wos: us
+    - woszo: your
+    - wszyjsko: everything
+    - z: from
+    - zawżdy: always
+    - ze: from
+    - zna: knows
+    - znać: know
+    - ô: about
+    - ôn: he
+  English:
+    - a: jedin/один
+    - about: ôkoło
+    - alone: sōm
+    - always: dycki
+    - am: jeżech
+    - are: byti/быти
+    - at: przi
+    - be: być
+    - beautiful: piykny
+    - bones: kości
+    - cheerful: wesoły
+    - coffee: kawa
+    - do: robić
+    - dog: pies
+    - don't: niy rōb
+    - dream: śńić
+    - everything: wszyjsko
+    - for: dlo
+    - friends: kamraty
+    - gift: geszynk
+    - give: dać
+    - going: idōnc
+    - have: mieć
+    - he: ôn
+    - her: jeji
+    - here: sam
+    - himself: sōm
+    - house: chałpa
+    - i: jŏ
+    - is: je
+    - isn't: niy je
+    - it: to
+    - know: wiedzieć
+    - known: znōmy
+    - likes: lubi
+    - long: dugi
+    - me: mie
+    - no: niy
+    - not: niy
+    - nothing: nic
+    - or: abo
+    - others: inksi
+    - peaceful: pokōjny
+    - see: widzieć
+    - sleep: spać
+    - stops: stōpiyń
+    - talking: gōdanie
+    - talt: talt
+    - that: co
+    - these: te
+    - thing: rzecz
+    - this: tyn
+    - those: tamte
+    - time: czas
+    - to: do
+    - troubling: trōngujōncy
+    - us: nōm
+    - water: woda
+    - what: co
+    - who: fto
+    - with: z
+    - women: baby
+    - you: ty
+    - your: twōj

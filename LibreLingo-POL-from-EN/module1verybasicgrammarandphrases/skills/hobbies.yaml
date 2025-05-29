@@ -1,0 +1,189 @@
+Skill:
+  Name: Hobbies
+  Id: 4
+
+New words:
+  - Word: czytać
+    Translation: to read
+  - Word: pisać (pisze)
+    Translation: to write
+  - Word: grać
+    Translation: to play
+  - Word: patrzeć
+    Translation: to watch
+  - Word: słuchać
+    Translation: to listen
+  - Word: malować
+    Translation: to paint
+  - Word: śpiewać
+    Translation: to sing
+  - Word: uczyć się
+    Translation: to learn
+  - Word: siedzieć (siedzi)
+    Translation: to sit
+  - Word: szyć (szyje)
+    Translation: to sew
+  - Word: tańczyć
+    Translation: to dance
+
+Phrases:
+  - Phrase: Ja czytam książkę.
+    Translation: I am reading a book.
+  - Phrase: Ona pisze listy.
+    Translation: She is writing letters.
+  - Phrase: On gra w piłkę nożną.
+    Translation: He is playing football.
+  - Phrase: My oglądamy film.
+    Translation: We are watching a film.
+  - Phrase: Oni słuchają muzyki.
+    Translation: They are listening to music.
+  - Phrase: Ona siedzi i czyta.
+    Translation: She is sitting and reading.
+  - Phrase: Ja maluję obraz.
+    Translation: I am painting a picture.
+  - Phrase: On śpiewa piosenki.
+    Translation: He is singing songs.
+  - Phrase: Wy uczycie się języka.
+    Translation: You are learning a language.
+  - Phrase: Ja szyję odzież.
+    Translation: I am sewing clothes.
+  - Phrase: Ty oglądasz serial?
+    Translation: Are you watching a series?
+  - Phrase: My gramy w szachy.
+    Translation: We are playing chess.
+  - Phrase: Oni słuchają radia.
+    Translation: They are listening to the radio.
+  - Phrase: Czy czytasz romanse?
+    Translation: Do you read novels?
+  - Phrase: On pisze pamiętnik.
+    Translation: He is writing a diary.
+  - Phrase: Uczymy się tutaj.
+    Translation: We are learning here.
+  - Phrase: Malujemy z przyjaciółmi obrazy.
+    Translation: We are painting pictures with friends.
+  - Phrase: Ty szyjesz?
+    Translation: Are you sewing?
+  - Phrase: Ja śpiewam z grupą.
+    Translation: I am singing with a group.
+  - Phrase: Ja tańczę dużo
+    Translation: I dance a lot
+  - Phrase: Ona gra na gitarze.
+    Translation: She is playing the guitar.
+
+Mini-dictionary:
+  Polish:
+    - czy: whether
+    - czyta: reads
+    - czytam: I read
+    - czytasz: you read
+    - dużo: much
+    - film: film
+    - gitarze: guitar
+    - gra: plays
+    - gramy: we play
+    - grupą: group
+    - i: and
+    - ja: I
+    - języka: language
+    - książkę: book
+    - listy: letters
+    - malujemy: we paint
+    - maluję: I paint
+    - muzyki: music
+    - my: we
+    - na: on
+    - nożną: football
+    - obraz: picture
+    - obrazy: pictures
+    - odzież: clothing
+    - oglądamy: we watch
+    - oglądasz: you watch
+    - on: he
+    - ona: she
+    - oni: they
+    - pamiętnik: diary
+    - piosenki: songs
+    - pisać: write
+    - pisze: writes
+    - piłkę: ball
+    - przyjaciółmi: friends
+    - radia: radio
+    - romanse: romances
+    - serial: series
+    - siedzi: sits
+    - siedzieć: sit
+    - się: oneself
+    - szachy: chess
+    - szyje: sews
+    - szyjesz: you sew
+    - szyję: I sew
+    - szyć: sew
+    - słuchają: they listen
+    - tańczę: I dance
+    - tutaj: here
+    - ty: you
+    - uczycie: you teach
+    - uczymy: we teach
+    - uczyć: teach
+    - w: in
+    - wy: you
+    - z: with
+    - śpiewa: sings
+    - śpiewam: I sing
+  English:
+    - a: jedin/один
+    - am: jestem
+    - and: i
+    - are: byti/быти
+    - book: książka
+    - chess: szachy
+    - clothes: odzież
+    - dance: tańczyć
+    - diary: pamiętnik
+    - do: robić
+    - film: film
+    - football: piłka nożna
+    - friends: przyjaciele
+    - group: grupa
+    - guitar: gitara
+    - he: on
+    - here: tu
+    - i: ja
+    - is: jest
+    - language: język
+    - learn: uczyć się
+    - learning: uczenie się
+    - letters: listy
+    - listen: słuchać
+    - listening: słuchanie
+    - lot: dużo
+    - music: muzyka
+    - novels: romanse
+    - paint: malować
+    - painting: malowanie
+    - picture: obraz
+    - pictures: obrazy
+    - play: grać
+    - playing: granie
+    - radio: radio
+    - read: czytać
+    - reading: czytanie
+    - series: serial
+    - sew: szyć
+    - sewing: szycie
+    - she: ona
+    - sing: śpiewać
+    - singing: śpiewanie
+    - sit: siedzieć
+    - sitting: siedzenie
+    - songs: piosenki
+    - the: to
+    - they: oni
+    - to: do
+    - watch: zegarek
+    - watching: oglądanie
+    - we: my
+    - with: z
+    - write: pisać
+    - writing: pisanie
+    - you: ty

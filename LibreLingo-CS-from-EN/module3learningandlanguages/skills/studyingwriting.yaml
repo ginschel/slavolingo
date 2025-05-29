@@ -1,0 +1,174 @@
+Skill:
+  Name: Studying & Writing
+  Id: 9
+
+New words:
+  - Word: škola
+    Translation: school
+  - Word: učitelka
+    Translation: female teacher
+  - Word: učitel
+    Translation: male teacher
+  - Word: zápis
+    Translation: note
+  - Word: žák
+    Translation: student
+  - Word: kniha
+    Translation: book
+  - Word: úkol
+    Translation: assignment
+  - Word: stůl
+    Translation: table
+  - Word: tuš
+    Translation: ink
+  - Word: papír
+    Translation: paper
+  - Word: předmět
+    Translation: subject
+  - Word: metoda
+    Translation: method
+  - Word: pero
+    Translation: pen
+  - Word: zápisník/sešit
+    Translation: notebook
+  - Word: na
+    Translation: on
+
+Phrases:
+  - Phrase: To moje škola.
+    Translation: This is my school.
+  - Phrase: Ona je učitelkou.
+    Translation: She is a teacher.
+  - Phrase: On je žákem.
+    Translation: He is a student.
+  - Phrase: Kniha je na stole.
+    Translation: The book is on the table.
+  - Phrase: Já mám úkol.
+    Translation: I have an assignment.
+  - Phrase: Tuš je ještě mokrý.
+    Translation: The ink is still wet.
+  - Phrase: Papír je bílý.
+    Translation: The paper is white.
+  - Phrase: Ten předmět je matematika.
+    Translation: This subject is mathematics.
+  - Phrase: Ta metoda je dobrá.
+    Translation: This method is good.
+  - Phrase: Žák má knihu.
+    Translation: The student has a book.
+  - Phrase: To je můj stůl.
+    Translation: This is my desk.
+  - Phrase: Můj zápisník je plný zápisů s perem
+    Translation: My notebook is full of notes with a pen
+  - Phrase: Píšu na papíře perem.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Škola je v centru.
+    Translation: The school is in the center.
+  - Phrase: My píšeme úkol.
+    Translation: We are writing the assignment.
+  - Phrase: Učitel mluví s žáky.
+    Translation: The teacher is talking with students.
+  - Phrase: Ona má mnoho úkolů.
+    Translation: She has many assignments.
+  - Phrase: Já rychle píšu tímto perem.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Předmět je složitý.
+    Translation: The subject is complex.
+  - Phrase: Kniha je nová.
+    Translation: The book is new.
+  - Phrase: On je mým učitelem.
+    Translation: He is my teacher.
+
+Mini-dictionary:
+  Czech:
+    - bílý: white
+    - centru: center
+    - dobrá: good
+    - je: is
+    - ještě: still
+    - já: I
+    - knihu: book
+    - matematika: mathematics
+    - mluví: speaks/talks
+    - mnoho: many/much
+    - moje: my
+    - mokrý: wet
+    - my: we
+    - má: has
+    - mám: I have
+    - mým: my
+    - můj: my
+    - nová: new
+    - on: he
+    - ona: she
+    - papíře: paper
+    - perem: pen
+    - plný: full
+    - píšeme: we write
+    - píšu: I write
+    - rychle: quickly
+    - s: with
+    - složitý: difficult/complex
+    - stole: table
+    - ta: that
+    - ten: the/that
+    - to: it/that
+    - tímto: this
+    - učitelem: teacher
+    - učitelkou: teacher (female)
+    - v: in
+    - zápisník: notebook
+    - zápisů: notes
+    - úkolů: assignments
+    - žákem: student
+    - žáky: students
+  English:
+    - a: jedin/один
+    - am: jsem
+    - an: nějaký
+    - are: byti/быти
+    - assignment: úkol
+    - assignments: úkoly
+    - book: kniha
+    - center: centrum
+    - complex: složitý
+    - desk: stůl
+    - female: ženský
+    - full: plný
+    - good: dobrý
+    - has: má
+    - have: mít
+    - he: on
+    - i: já
+    - in: v
+    - ink: inkoust
+    - is: je
+    - male: mužský
+    - many: mnoho
+    - mathematics: matematika
+    - method: metoda
+    - my: můj
+    - new: nový
+    - note: poznámka
+    - notebook: sešit
+    - notes: poznámky
+    - of: z
+    - on: na
+    - paper: papír
+    - pen: pero
+    - quickly: rychle
+    - school: škola
+    - she: ona
+    - still: stále
+    - student: student
+    - students: studenti
+    - subject: předmět
+    - table: stůl
+    - talking: mluvení
+    - teacher: učitel
+    - the: to
+    - this: toto
+    - we: my
+    - wet: mokrý
+    - white: bílá
+    - with: s
+    - writing: psaní

@@ -1,0 +1,226 @@
+Skill:
+  Name: Clothes
+  Id: 34
+
+New words:
+  - Word: heja
+    Translation: shirt
+  - Word: nosić
+    Translation: to wear
+  - Word: galoty
+    Translation: trousers
+  - Word: t-šyrt
+    Translation: t-shirt
+  - Word: szalik
+    Translation: scarf
+  - Word: czopka
+    Translation: hat
+  - Word: mantyl
+    Translation: coat
+  - Word: rynkawiczka
+    Translation: glove
+  - Word: gacie
+    Translation: underwear
+  - Word: skarpeta
+    Translation: sock
+  - Word: ôbuw
+    Translation: footwear
+  - Word: ôblyczynia
+    Translation: clothes
+  - Word: brzidki
+    Translation: ugly
+  - Word: ôblykać
+    Translation: to dress
+  - Word: piżama
+    Translation: pajamas
+
+Phrases:
+  - Phrase: Ôn nosi modro heja.
+    Translation: He wears a blue shirt.
+  - Phrase: Ôna mo czŏrne galoty, a ôn biołe.
+    Translation: She has black trousers, and he has white.
+  - Phrase: Ôbuw a mantyl leżōm przi dźwiyrzach.
+    Translation: Shoes and the coat are lying by the door.
+  - Phrase: Szalik je ciynżki a ciepły.
+    Translation: The scarf is heavy and warm.
+  - Phrase: Zimōm nosza zawżdy czopka, a we lecie niy.
+    Translation: In winter, I always wear a hat, but not in summer.
+  - Phrase: Gacie som piykne abo brzidke?
+    Translation: Are the shorts beautiful or ugly?
+  - Phrase: Nosza rynkawiczki we zimie.
+    Translation: We wear gloves in winter.
+  - Phrase: Tamta piżama je zielōno.
+    Translation: That pajama is green.
+  - Phrase: Nowe gacie som wygodne.
+    Translation: New shorts are comfortable.
+  - Phrase: Nowe ôblyczynia som drogie.
+    Translation: New clothes are expensive.
+  - Phrase: Heja je we szuflada.
+    Translation: The shirt is in the drawer.
+  - Phrase: Czopka wisi na ścianie.
+    Translation: The hat hangs on the wall.
+  - Phrase: Ôn ôblykał a nosił wcora ô drugij godźinie zielōnõ t-šyrt abo heja. Jo niy żech je piywny terŏz.
+    Translation: He wore and put on a green tennis shoe or shirt yesterday at two AM. I'm not sure right now.
+  - Phrase: Ty chcesz szalik abo heja.
+    Translation: You want a scarf or a shirt.
+  - Phrase: Brzidke rynkawiczki leżōm na stole, a piykny mantyl nosza.
+    Translation: The ugly gloves are lying on the table, and I wear the red coat.
+  - Phrase: Ôna kupiyła ciepłe ôbuw.
+    Translation: She bought warm shoes.
+  - Phrase: Ôn ôblyko nowo heja.
+    Translation: He is putting on a new shirt.
+  - Phrase: Moje skarpety som krōtkie.
+    Translation: My socks are short.
+  - Phrase: We zimie byda potrzibować czopki a rynkawiczek.
+    Translation: In winter I will need a hat and gloves.
+  - Phrase: Ôblyczynia som czyste a yno juž biołe.
+    Translation: The clothes are clean and only the underwear is white.
+
+Mini-dictionary:
+  Silesian:
+    - a: a
+    - abo: or
+    - biołe: white
+    - brzidke: ugly
+    - byda: will be
+    - chcesz: want
+    - ciepłe: warm
+    - ciepły: warm
+    - ciynżki: heavy
+    - czopki: hat
+    - czyste: clean
+    - czŏrne: black
+    - drogie: expensive
+    - drugij: second
+    - dźwiyrzach: door
+    - godźinie: hour
+    - je: is
+    - jo: I
+    - juž: already
+    - krōtkie: short
+    - kupiyła: bought
+    - lecie: summer
+    - leżōm: lying
+    - mo: has
+    - modro: blue
+    - moje: my
+    - na: on
+    - niy: not
+    - nosi: wears
+    - nosił: wore
+    - nosza: wear
+    - nowe: new
+    - nowo: new
+    - piykne: beautiful
+    - piykny: beautiful
+    - piywny: beer
+    - potrzibować: need
+    - przi: at/by
+    - rynkawiczek: gloves
+    - rynkawiczki: gloves
+    - skarpety: socks
+    - som: am
+    - stole: table
+    - szuflada: drawer
+    - tamta: that
+    - terŏz: now
+    - ty: you
+    - wcora: yesterday
+    - we: in
+    - wisi: hangs
+    - wygodne: comfortable
+    - yno: only
+    - zawżdy: always
+    - zielōno: green
+    - zielōnõ: greener
+    - zimie: winter
+    - zimōm: winter
+    - ô: about
+    - ôblykał: wore
+    - ôblyko: wears
+    - ôn: he
+    - ôna: she
+    - ścianie: wall
+    - żech: I
+  English:
+    - a: jedin/один
+    - always: dycki
+    - am: jeżech
+    - and: a
+    - are: byti/быти
+    - at: przi
+    - beautiful: piykny
+    - black: czorny
+    - blue: modry
+    - bought: kupiōny
+    - but: ale
+    - by: bez
+    - clean: czysty
+    - clothes: ôblyczynia
+    - coat: mantl
+    - comfortable: wygodny
+    - door: dźwiyrze
+    - drawer: szuflada
+    - dress: sukńa
+    - expensive: drogi
+    - footwear: ôbuw
+    - glove: rynkawiczka
+    - gloves: rynkawiczki
+    - green: zielōny
+    - hangs: wisi
+    - has: mo
+    - hat: hōt
+    - he: ôn
+    - heavy: ciynżki
+    - i: jŏ
+    - i'm: jŏ jeżech
+    - in: w
+    - is: je
+    - lying: leżōnc
+    - my: mōj
+    - need: potrzebować
+    - new: nowy
+    - not: niy
+    - now: terŏzki
+    - on: na
+    - only: yno
+    - or: abo
+    - pajama: piżama
+    - pajamas: piżamy
+    - put: położyć
+    - putting: kłodzynie
+    - red: czyrwōny
+    - right: richtich
+    - scarf: szalik
+    - she: ôna
+    - shirt: hemt
+    - shoe: szula
+    - shoes: szule
+    - short: krōtki
+    - shorts: szorty
+    - sock: skarpeta
+    - socks: skarpety
+    - summer: lato
+    - sure: pewny
+    - t-shirt: t-szirt
+    - table: tisch
+    - tennis: tyńis
+    - that: co
+    - the: to
+    - to: do
+    - trousers: galoty
+    - two: dwa
+    - ugly: brzidki
+    - underwear: unterwaśka
+    - wall: wand
+    - want: chcieć
+    - warm: ciepły
+    - we: my
+    - wear: nosić
+    - wears: nosi
+    - white: bioły
+    - will: bydź
+    - winter: zima
+    - wore: nosiōł
+    - yesterday: wczorej
+    - you: ty

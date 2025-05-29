@@ -1,0 +1,185 @@
+Skill:
+  Name: Family
+  Id: 3
+
+New words:
+  - Word: brat
+    Translation: brother
+  - Word: děd
+    Translation: grandfather
+  - Word: babka
+    Translation: grandmother
+  - Word: tetka
+    Translation: aunt
+  - Word: vnuk
+    Translation: grandson
+  - Word: vnučka
+    Translation: granddaughter
+  - Word: matka
+    Translation: mother
+  - Word: otěc
+    Translation: father
+  - Word: rodina
+    Translation: family
+  - Word: syn
+    Translation: son
+  - Word: dočerka
+    Translation: daughter
+  - Word: stryjec
+    Translation: uncle
+  - Word: govori
+    Translation: speaks
+  - Word: ide
+    Translation: goes
+  - Word: idemo
+    Translation: we go
+  - Word: žive
+    Translation: lives
+
+Phrases:
+  - Phrase: On jest moim bratom.
+    Translation: He is my brother.
+  - Phrase: On jest tvojim otcom
+    Translation: He is your father
+  - Phrase: Ona ide s matkoju.
+    Translation: She is going with her mother.
+  - Phrase: On govori s dědom.
+    Translation: He is talking with his grandfather.
+  - Phrase: My igramo s našimi dětmi.
+    Translation: We are playing with our children.
+  - Phrase: Oni jedut s tetkoju.
+    Translation: They are going with their aunt.
+  - Phrase: Govorim s tvojeju sestroju.
+    Translation: I am talking with your sister.
+  - Phrase: Idem v park s rodinoju.
+    Translation: We are going to the park with the family.
+  - Phrase: On je s vnukom.
+    Translation: He is with his grandson.
+  - Phrase: Ona igra s vnučkoju.
+    Translation: She is playing with her granddaughter.
+  - Phrase: Piti čaj s matkoju jest lepše.
+    Translation: Drinking tea with mother is better.
+  - Phrase: S kim ty ideš?
+    Translation: Who are you going with?
+  - Phrase: Ona govori s mojeju babkoju.
+    Translation: She is talking with my grandmother.
+  - Phrase: To jest domom s rodinoju.
+    Translation: This is a house with a family.
+  - Phrase: On žive s synom.
+    Translation: He lives with his son.
+  - Phrase: Idemo na pohod s bratami.
+    Translation: We are going for a walk with brothers.
+  - Phrase: Idemo s dočerkoju.
+    Translation: We are going with our daughter.
+  - Phrase: Oni tu sut s dědom.
+    Translation: They are here with their grandfather.
+  - Phrase: On žive s tetkoju i s stryjcem.
+    Translation: He lives with his aunt and uncle.
+  - Phrase: Ona govori s vnukom često.
+    Translation: She talks with her grandson often.
+
+Mini-dictionary:
+  Interslavic:
+    - babkoju: grandmother
+    - bratami: brothers
+    - bratom: brother
+    - domom: house
+    - dočerkoju: daughter
+    - dědom: grandfather
+    - dětmi: children
+    - govorim: i speak
+    - i: and
+    - idem: i go
+    - ideš: you go
+    - igra: plays
+    - igramo: we play
+    - je: is
+    - jedut: they eat
+    - jest: is
+    - kim: whom
+    - lepše: better
+    - matkoju: mother
+    - moim: my
+    - mojeju: my
+    - my: we
+    - na: on
+    - našimi: our
+    - on: he
+    - ona: she
+    - oni: they
+    - otcom: father
+    - park: park
+    - piti: to drink
+    - pohod: walk
+    - rodinoju: family
+    - s: with
+    - sestroju: sister
+    - stryjcem: uncle
+    - sut: they are
+    - synom: son
+    - tetkoju: aunt
+    - to: this
+    - tu: here
+    - tvojeju: your
+    - tvojim: your
+    - ty: you
+    - v: in
+    - vnukom: grandson
+    - vnučkoju: granddaughter
+    - čaj: tea
+    - često: often
+  English:
+    - a: jedin/один
+    - am: jesm
+    - and: i
+    - are: byti/быти
+    - aunt: tetka
+    - better: lěpše
+    - brother: brat
+    - brothers: bratah
+    - children: dětmi
+    - daughter: dočerka
+    - drinking: pije
+    - family: rodina
+    - father: otec
+    - for: dlja
+    - go: iti
+    - goes: ide
+    - going: idem
+    - granddaughter: vnučka
+    - grandfather: děd
+    - grandmother: babka
+    - grandson: vnuk
+    - he: on
+    - her: jej
+    - here: tu
+    - his: jego
+    - house: dom
+    - i: ja
+    - is: jest
+    - lives: živemo
+    - mother: matka
+    - my: moj
+    - often: často
+    - our: našimi
+    - park: park
+    - playing: igra
+    - she: ona
+    - sister: sestra
+    - son: syn
+    - speaks: govori
+    - talking: govori
+    - talks: govori
+    - tea: čaj
+    - the: to
+    - their: ih
+    - they: oni
+    - this: tutdenj
+    - to: do
+    - uncle: stryjec
+    - walk: pohod
+    - we: my
+    - who: kto
+    - with: s
+    - you: ty
+    - your: tvoj

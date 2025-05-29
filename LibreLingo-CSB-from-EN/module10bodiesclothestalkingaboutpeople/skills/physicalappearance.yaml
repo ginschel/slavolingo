@@ -1,0 +1,231 @@
+Skill:
+  Name: Physical Appearance
+  Id: 38
+
+New words:
+  - Word: wësoki
+    Translation: tall
+  - Word: niszczi
+    Translation: short
+  - Word: grëbi
+    Translation: fat
+  - Word: chùdi
+    Translation: thin
+  - Word: môłi
+    Translation: small
+  - Word: snôżi
+    Translation: beautiful
+  - Word: brzëtczi
+    Translation: ugly
+  - Word: stôri
+    Translation: old
+  - Word: młodi
+    Translation: young
+  - Word: włoscë
+    Translation: hair
+  - Word: òczë
+    Translation: eyes
+  - Word: jakno
+    Translation: than
+  - Word: wicy
+    Translation: taller/higher
+  - Word: skórka
+    Translation: skin
+  - Word: mnié
+    Translation: less
+  - Word: smiac sã (smieje sã)
+    Translation: to laugh
+  - Word: lësnąc sã
+    Translation: to shine
+  - Word: gwiôzda
+    Translation: star
+  - Word: swietłi
+    Translation: light
+  - Word: cëmni
+    Translation: dark
+
+Phrases:
+  - Phrase: On je wicy wësoki i sëlni jakno on.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Òna je niszkô i chùdô jakno on.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Grëbi chłop jidze pò ùlicë.
+    Translation: The fat man is walking down the street.
+  - Phrase: Chùdi mô mnié całówi masë jakno grëbi.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: To je wicy snôżi człowiek jakno ten.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Stôri lëdze są wicy mądri jakno më.
+    Translation: Old people are wiser than us.
+  - Phrase: Młodô mô wiele energie.
+    Translation: The young one has a lot of energy.
+  - Phrase: Jegò włoscë są plëwé.
+    Translation: His hair is blonde.
+  - Phrase: Òczë są wicy zielené jakno ù jegò.
+    Translation: Her eyes are greener than his.
+  - Phrase: Jegò skórka je biôłô.
+    Translation: His skin is white.
+  - Phrase: On mô długé włosë.
+    Translation: He has long hair.
+  - Phrase: Òna mô zielené òczë.
+    Translation: She has green eyes.
+  - Phrase: Skórka je gładkô.
+    Translation: Her skin is smooth.
+  - Phrase: Stôrô białka nosy czapkã.
+    Translation: The old woman wears a hat.
+  - Phrase: Młodë lëdze czãsto sportują.
+    Translation: Young people often play sports.
+  - Phrase: Grëbi chłop smieje sã wicy jakno ten brzëtczi chłop.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Niszkô dzëwczã jidze do dodomù.
+    Translation: The short girl is going home.
+  - Phrase: Snôżé òczë lësną jakno gwiôzdë na niebie.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Chùdi nosy wicy wiôlgą kòszëlã jakno ja.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Jej włoscë są swietłé i długé.
+    Translation: Her hair is light and long.
+  - Phrase: A jegò snôżé włoscë są cëmné jakno noc.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Kashubian:
+    - a: and
+    - białka: woman
+    - biôłô: white
+    - całówi: whole
+    - chùdô: thin
+    - chłop: man
+    - czapkã: cap
+    - czãsto: often
+    - człowiek: human
+    - cëmné: dark
+    - do: to
+    - dodomù: home
+    - dzëwczã: girl
+    - długé: long
+    - energie: energy
+    - gwiôzdë: stars
+    - gładkô: smooth
+    - i: and
+    - ja: yes
+    - je: is
+    - jegò: his
+    - jej: her
+    - jidze: goes
+    - kòszëlã: shirt
+    - lëdze: people
+    - lësną: glisten
+    - lësnąc: to glisten
+    - masë: mass
+    - më: we
+    - mô: has
+    - mądri: wise
+    - młodë: young
+    - młodô: young
+    - na: on
+    - niebie: sky
+    - niszkô: low
+    - noc: night
+    - nosy: nose
+    - on: he
+    - plëwé: spits
+    - pò: after
+    - smiac: to laugh
+    - smieje: laughs
+    - snôżé: beautiful
+    - sportują: they play sports
+    - stôrô: old
+    - swietłé: light
+    - sã: yourself
+    - sëlni: strong
+    - są: they are
+    - ten: this
+    - to: this
+    - wiele: many
+    - wiôlgą: big
+    - włosë: hair
+    - zielené: green
+    - òna: she
+    - ù: at
+    - ùlicë: street
+  English:
+    - a: jedin/один
+    - and: ë
+    - are: byti/быти
+    - as: jakò
+    - beautiful: piãkny
+    - blonde: blond
+    - body: czało
+    - dark: cemni
+    - do: robic
+    - down: na dół
+    - energy: energiô
+    - eyes: òczë
+    - fat: tëłsti
+    - girl: dzéwczë
+    - going: jidzen
+    - green: zelonô
+    - greener: barżi zelony
+    - hair: włosë
+    - has: mô
+    - hat: czapka
+    - he: on
+    - her: ji
+    - him: mù
+    - his: jegò
+    - home: dodóm
+    - i: jô
+    - in: w
+    - is: je
+    - larger: wiãkszi
+    - laugh: smiac
+    - laughs: smieje
+    - less: mni
+    - light: swiatło
+    - like: lubic
+    - long: dłudżi
+    - lot: wiele
+    - louder: głośni
+    - man: chłopa
+    - mass: masa
+    - more: więcej
+    - night: noc
+    - of: òd
+    - often: czãsto
+    - old: stôri
+    - one: jeden
+    - people: lëdze
+    - person: persòna
+    - play: grac
+    - she: òna
+    - shine: swiecëc
+    - shirt: kòszëla
+    - short: krótczi
+    - shorter: krótczi
+    - skin: skóra
+    - sky: niebo
+    - small: môłi
+    - smooth: gładczi
+    - sports: sportë
+    - star: gwiôzda
+    - stars: gwiôzdë
+    - street: ùlica
+    - stronger: môcniészë
+    - tall: wësoczi
+    - taller: wësoczészë
+    - taller/higher: wësoczészë
+    - than: jak
+    - that: to
+    - the: to
+    - thin: cënczi
+    - thinner: cënczi
+    - to: do
+    - ugly: brzëdczi
+    - us: nama
+    - walking: chòdzenié
+    - wears: nosy
+    - white: biôłi
+    - wiser: mądriészë
+    - woman: białka
+    - young: młodi

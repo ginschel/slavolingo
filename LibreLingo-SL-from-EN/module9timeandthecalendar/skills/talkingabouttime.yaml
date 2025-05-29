@@ -1,0 +1,222 @@
+Skill:
+  Name: Talking about Time
+  Id: 31
+
+New words:
+  - Word: čas
+    Translation: time
+  - Word: minuta
+    Translation: minute
+  - Word: sekunda
+    Translation: second
+  - Word: ura
+    Translation: hour
+  - Word: danes
+    Translation: today
+  - Word: bil
+    Translation: was
+  - Word: bila
+    Translation: was
+  - Word: bilo
+    Translation: was
+  - Word: bili
+    Translation: were
+  - Word: šel
+    Translation: went/walked
+  - Word: šla
+    Translation: went/walked
+  - Word: šlo
+    Translation: went/walked
+  - Word: šli
+    Translation: went/walked
+  - Word: včeraj
+    Translation: yesterday
+  - Word: jutri
+    Translation: tomorrow
+  - Word: večer
+    Translation: evening
+  - Word: polnoč
+    Translation: midnight
+  - Word: koliko
+    Translation: how much
+  - Word: spati (spi)
+    Translation: to sleep
+  - Word: trajati
+    Translation: to last
+
+Phrases:
+  - Phrase: Koliko je ura?
+    Translation: What time is it?
+  - Phrase: On je imel eno uro.
+    Translation: He had one hour.
+  - Phrase: Jutri je prepozno.
+    Translation: Tomorrow is too late.
+  - Phrase: Včeraj je bil ponedeljek.
+    Translation: Yesterday was Monday.
+  - Phrase: Včeraj je bila doma ob osmi uri.
+    Translation: Yesterday she was at home at the eighth hour.
+  - Phrase: Zjutraj ni bilo zelo toplo.
+    Translation: In the morning it was not very warm.
+  - Phrase: Ob tretji uri dvajset je bilo hladno.
+    Translation: At twenty past the third hour it was cold.
+  - Phrase: Polnoč je tiha.
+    Translation: Midnight is quiet.
+  - Phrase: On je šel domov.
+    Translation: He went home.
+  - Phrase: Ste šli v kino?
+    Translation: Have you gone to the cinema?
+  - Phrase: Oni niso nič delali.
+    Translation: They did nothing.
+  - Phrase: Minuta je majhna enota časa.
+    Translation: A minute is a small unit of time.
+  - Phrase: Sekunda je kratka.
+    Translation: A second is short.
+  - Phrase: Danes ti nisi imel časa za to.
+    Translation: Today you did not have an hour for that.
+  - Phrase: Se vidimo zvečer ob deveti uri.
+    Translation: We will see each other in the evening at the ninth hour.
+  - Phrase: Včeraj ob prvi uri je bilo bolje.
+    Translation: Yesterday at the first hour it was better.
+  - Phrase: Koliko minut traja film?
+    Translation: How many minutes does the film last?
+  - Phrase: Jaz sem bil doma zjutraj.
+    Translation: I was at home in the morning.
+  - Phrase: On spi do polnoči.
+    Translation: He sleeps until midnight.
+  - Phrase: Koliko sekund ima minuta?
+    Translation: How many seconds are in a minute?
+  - Phrase: Zvečer smo šli v restavracijo.
+    Translation: In the evening we went to the restaurant.
+
+Mini-dictionary:
+  Slovenian:
+    - bolje: better
+    - delali: worked
+    - deveti: ninth
+    - do: to
+    - doma: at home
+    - domov: home
+    - dvajset: twenty
+    - eno: one
+    - enota: unit
+    - film: film
+    - hladno: cold
+    - ima: has
+    - imel: had
+    - jaz: I
+    - je: is
+    - kino: cinema
+    - kratka: short
+    - majhna: small
+    - minut: minutes
+    - ni: is not
+    - nisi: you are not
+    - niso: they are not
+    - nič: nothing
+    - ob: at / by
+    - on: he
+    - oni: they
+    - osmi: eighth
+    - polnoči: midnight
+    - ponedeljek: Monday
+    - prepozno: too late
+    - prvi: first
+    - restavracijo: restaurant
+    - se: oneself / itself
+    - sekund: seconds
+    - sem: I am
+    - smo: we are
+    - spati: to sleep
+    - spi: sleeps
+    - ste: you are
+    - ti: you (singular informal)
+    - tiha: quiet
+    - to: this
+    - toplo: warm
+    - traja: lasts
+    - tretji: third
+    - uri: hour / clock
+    - uro: hour / clock
+    - v: in
+    - vidimo: we see
+    - za: for
+    - zelo: very
+    - zjutraj: in the morning
+    - zvečer: in the evening
+    - časa: time
+  English:
+    - a: jedin/один
+    - an: en
+    - are: byti/быти
+    - at: pri
+    - better: bolje
+    - cinema: kino
+    - cold: hladen
+    - did: delal
+    - does: dela
+    - each: vsak
+    - eighth: osmi
+    - evening: večer
+    - film: film
+    - first: prvi
+    - for: za
+    - gone: šel
+    - had: imel
+    - have: imam
+    - he: on
+    - home: dom
+    - hour: ura
+    - how: kako
+    - i: jaz
+    - in: v
+    - is: je
+    - it: ono
+    - last: zadnji
+    - late: pozno
+    - many: veliko
+    - midnight: polnoč
+    - minute: minuta
+    - minutes: minut
+    - monday: ponedeljek
+    - morning: jutro
+    - much: veliko
+    - ninth: deveti
+    - not: ne
+    - nothing: nič
+    - of: od
+    - one: en
+    - other: drug
+    - past: preteklost
+    - quiet: tih
+    - restaurant: restavracijo
+    - second: drugi
+    - seconds: sekund
+    - see: videti
+    - she: ona
+    - short: kratek
+    - sleep: spati
+    - sleeps: spi
+    - small: majhen
+    - that: da
+    - the: to
+    - they: oni
+    - third: tretji
+    - time: čas
+    - to: do
+    - today: danes
+    - tomorrow: jutri
+    - too: tudi
+    - twenty: dvajset
+    - unit: enota
+    - until: do
+    - very: zelo
+    - warm: topel
+    - was: bil
+    - we: mi
+    - went: šel
+    - went/walked: šel
+    - were: byl/был
+    - what: kaj
+    - will: bo
+    - yesterday: včeraj
+    - you: ti

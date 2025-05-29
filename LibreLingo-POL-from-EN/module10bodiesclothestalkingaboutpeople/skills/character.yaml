@@ -1,0 +1,216 @@
+Skill:
+  Name: Character
+  Id: 36
+
+New words:
+  - Word: dobry
+    Translation: good
+  - Word: zły
+    Translation: bad
+  - Word: silny
+    Translation: strong
+  - Word: słaby
+    Translation: weak
+  - Word: śmiały
+    Translation: brave
+  - Word: cichy
+    Translation: quiet
+  - Word: mądry
+    Translation: wise
+  - Word: głupi
+    Translation: stupid
+  - Word: szczery
+    Translation: sincere
+  - Word: leniwy
+    Translation: lazy
+  - Word: byłbym
+    Translation: I would be
+  - Word: byłbyś
+    Translation: you would be
+  - Word: byłby
+    Translation: he/she/it would be
+  - Word: bylibyśmy
+    Translation: we would be
+  - Word: bylibyście
+    Translation: you would be
+  - Word: byliby
+    Translation: they would be
+  - Word: milczeć (milczy)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: On to dobry człowiek.
+    Translation: He is a good person.
+  - Phrase: Ona jest czasem zła.
+    Translation: She is sometimes bad.
+  - Phrase: Silny duch jest ważny.
+    Translation: A strong spirit is important.
+  - Phrase: On jest słaby w sporcie.
+    Translation: He is weak in sports.
+  - Phrase: Śmiały mówi prawdę.
+    Translation: Brave people speak the truth.
+  - Phrase: Jak byś usłyszał, to oni byliby cisi.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Mądry wie dużo.
+    Translation: A smart person knows much.
+  - Phrase: Jak byś nie był głupi, to byś nie robił głupstw.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Szczery przyjaciel jest cenny.
+    Translation: A sincere friend is valuable.
+  - Phrase: Jakby oni nie byli leniwi, to byśmy im pomagali.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Ona jest dobra i szczera.
+    Translation: She is good and sincere.
+  - Phrase: On jest silny, ale śmiały.
+    Translation: He is strong but brave.
+  - Phrase: Dzieci są mądre jak na swój wiek.
+    Translation: Children are wiser for their age.
+  - Phrase: Jakbyście nie byli słabi, to byście pracowali.
+    Translation: If you were not weak, you would work.
+  - Phrase: Złe słowa bolą.
+    Translation: Bad words hurt.
+  - Phrase: Głupi się nie uczy.
+    Translation: Stupid people do not learn.
+  - Phrase: Leniwy nie chce nic robić.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Szczery mówi co myśli.
+    Translation: A sincere person says what they think.
+  - Phrase: Mądry milczy, kiedy trzeba.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Gdybym był śmiały, to bym się nie bał.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Polish:
+    - ale: but
+    - bał: feared
+    - bolą: hurt
+    - byli: were
+    - bym: I would
+    - był: was
+    - byś: you would
+    - byście: you would
+    - byśmy: we would
+    - cenny: valuable
+    - chce: wants
+    - cisi: quiet
+    - co: what
+    - czasem: sometimes
+    - człowiek: human
+    - dobra: good
+    - duch: ghost
+    - dużo: much
+    - dzieci: children
+    - gdybym: if I were
+    - głupstw: follies
+    - i: and
+    - im: them
+    - jak: how
+    - jakby: as if
+    - jakbyście: as if you were
+    - jest: is
+    - kiedy: when
+    - leniwi: lazy
+    - milczeć: be silent
+    - milczy: is silent
+    - myśli: thinks
+    - mówi: says
+    - mądre: wise
+    - na: on
+    - nic: nothing
+    - nie: no
+    - on: he
+    - ona: she
+    - oni: they
+    - pomagali: helped
+    - pracowali: worked
+    - prawdę: truth
+    - przyjaciel: friend
+    - robić: do
+    - robił: did
+    - się: oneself
+    - sporcie: sport
+    - swój: one's own
+    - szczera: sincere
+    - są: are
+    - słabi: weak
+    - słowa: words
+    - to: this
+    - trzeba: must
+    - uczy: teaches
+    - usłyszał: heard
+    - w: in
+    - ważny: important
+    - wie: knows
+    - wiek: age
+    - zła: bad
+    - złe: bad
+  English:
+    - a: jedin/один
+    - afraid: przestraszony
+    - age: wiek
+    - and: i
+    - anything: nic
+    - are: byti/быти
+    - bad: zły
+    - be: być
+    - brave: śmiały
+    - but: ale
+    - children: dzieci
+    - do: robić
+    - foolish: głupi
+    - for: dla
+    - friend: przyjaciel
+    - good: dobry
+    - he: on
+    - he/she/it: ono
+    - hear: słyszeć
+    - help: pomagać
+    - hurt: boleć
+    - i: ja
+    - if: jeśli
+    - important: ważny
+    - in: w
+    - is: jest
+    - knows: zna
+    - lazy: leniwy
+    - learn: uczyć się
+    - much: dużo
+    - needed: potrzebny
+    - not: nie
+    - people: ludzie
+    - person: osoba
+    - quiet: cichy
+    - says: mówi
+    - she: ona
+    - silent: milczy
+    - sincere: szczery
+    - smart: mądry
+    - sometimes: czasem
+    - speak: mówić
+    - spirit: duch
+    - sports: sport
+    - stays: zostaje
+    - strong: silny
+    - stupid: głupi
+    - the: to
+    - their: ich
+    - them: ich
+    - they: oni
+    - things: rzeczy
+    - think: myśleć
+    - to: do
+    - truth: prawda
+    - valuable: cenny
+    - want: chcieć
+    - we: my
+    - weak: słaby
+    - were: byl/был
+    - what: co
+    - when: kiedy
+    - wise: mądry
+    - wiser: mądrzejszy
+    - words: słowa
+    - work: praca
+    - would: by
+    - you: ty

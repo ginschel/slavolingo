@@ -1,0 +1,188 @@
+Skill:
+  Name: Cardinal points
+  Id: 18
+
+New words:
+  - Word: sever
+    Translation: north
+  - Word: jug
+    Translation: south
+  - Word: zahod
+    Translation: west
+  - Word: vzhod
+    Translation: east
+  - Word: severni
+    Translation: northern
+  - Word: južni
+    Translation: southern
+  - Word: zahodni
+    Translation: western
+  - Word: vzhodni
+    Translation: eastern
+  - Word: kompas
+    Translation: compass
+  - Word: stran
+    Translation: side
+  - Word: kje
+    Translation: where
+  - Word: vstati (vstane)
+    Translation: to rise
+  - Word: kazati
+    Translation: to show
+  - Word: zemljevid
+    Translation: map
+  - Word: potovati
+    Translation: to travel
+  - Word: desno
+    Translation: right
+  - Word: levo
+    Translation: left
+  - Word: naravnost
+    Translation: straight
+
+Phrases:
+  - Phrase: Sever je hladen.
+    Translation: The north is cold.
+  - Phrase: Jug je topel.
+    Translation: The south is warm.
+  - Phrase: Sonce vstane na vzhodu.
+    Translation: The sun rises in the east.
+  - Phrase: Ono zahaja na zahodu.
+    Translation: It sets in the west.
+  - Phrase: To je severna stran.
+    Translation: This is the northern side.
+  - Phrase: Živimo na jugu.
+    Translation: We live in the south.
+  - Phrase: Kompas kaže sever.
+    Translation: The compass shows north.
+  - Phrase: Vzhod je tam.
+    Translation: The east is there.
+  - Phrase: Zahodni veter piha.
+    Translation: A western wind is blowing.
+  - Phrase: Gremo proti jugozahodu.
+    Translation: We are going to the southwest.
+  - Phrase: To je severozahodna regija.
+    Translation: This is the northwestern region.
+  - Phrase: Stran na zemljevidu kaže zahod.
+    Translation: The side on the map shows west.
+  - Phrase: Jugovzhod je tam, kjer greje sonce.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Gremo na južno stran.
+    Translation: We are going to the southern side.
+  - Phrase: On potuje vzhodno.
+    Translation: He travels eastward.
+  - Phrase: Na severu je sneg.
+    Translation: In the north there is snow.
+  - Phrase: Južni kraji so topli.
+    Translation: The southern regions are warm.
+  - Phrase: Zahod je levo na zemljevidu.
+    Translation: West is left on the map.
+  - Phrase: Vzhodna glasba je zanimiva.
+    Translation: Eastern music is interesting.
+  - Phrase: Gledamo na sever.
+    Translation: We are looking to the north.
+  - Phrase: Gremo zdaj desno in potem naravnost.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Slovenian:
+    - glasba: music
+    - gledamo: we look
+    - greje: heats
+    - gremo: we go
+    - hladen: cold
+    - in: and
+    - je: is
+    - jugovzhod: southeast
+    - jugozahodu: southwest
+    - jugu: south
+    - južno: southern
+    - kaže: shows
+    - kjer: where
+    - kraji: places
+    - na: on
+    - on: he
+    - ono: it
+    - piha: blows
+    - potem: then
+    - potuje: travels
+    - proti: against
+    - regija: region
+    - severna: northern
+    - severozahodna: northwestern
+    - severu: north
+    - sneg: snow
+    - so: they are
+    - sonce: sun
+    - tam: there
+    - to: this
+    - topel: warm
+    - topli: warm
+    - veter: wind
+    - vstane: stands up
+    - vstati: to stand up
+    - vzhodna: eastern
+    - vzhodno: eastern
+    - vzhodu: east
+    - zahaja: sets
+    - zahodu: west
+    - zanimiva: interesting
+    - zdaj: now
+    - zemljevidu: map
+    - živimo: we live
+  English:
+    - a: jedin/один
+    - and: in
+    - are: byti/быти
+    - blowing: piha
+    - cold: hladen
+    - compass: kompas
+    - east: vzhod
+    - eastern: vzhodna
+    - eastward: vzhodno
+    - going: gremo
+    - he: on
+    - in: v
+    - interesting: zanimiv
+    - is: je
+    - it: ono
+    - left: levo
+    - live: živeti
+    - looking: gleda
+    - map: mapa
+    - music: glasba
+    - north: sever
+    - northern: severna
+    - northwestern: severozahodni
+    - now: zdaj
+    - on: na
+    - region: regija
+    - regions: regije
+    - right: desno
+    - rise: vstane
+    - rises: vstane
+    - sets: zahaja
+    - show: kazati
+    - shows: kaže
+    - side: stran
+    - snow: sneg
+    - south: jug
+    - southeast: jugovzhod
+    - southern: južni
+    - southwest: jugozahodni
+    - straight: naravnost
+    - sun: sonce
+    - the: to
+    - then: potem
+    - there: tam
+    - this: ta
+    - to: do
+    - travel: potovati
+    - travels: potuje
+    - warm: topel
+    - warms: greje
+    - we: mi
+    - west: zahod
+    - western: zahodni
+    - where: kje
+    - wind: veter

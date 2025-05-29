@@ -1,0 +1,165 @@
+Skill:
+  Name: Nationalities
+  Id: 11
+
+New words:
+  - Word: славянин
+    Translation: Slav
+  - Word: язык
+    Translation: language
+  - Word: держава/государство
+    Translation: country
+  - Word: народ
+    Translation: nation
+  - Word: имя
+    Translation: name
+  - Word: хорватка
+    Translation: Croat
+  - Word: русский
+    Translation: Russian
+  - Word: поляк
+    Translation: Pole
+  - Word: немец
+    Translation: German
+  - Word: англичанин
+    Translation: Englishman
+
+Phrases:
+  - Phrase: Он есть славянином.
+    Translation: He is a Slav.
+  - Phrase: Она говорит на славянском языке.
+    Translation: She speaks the Slavic language.
+  - Phrase: Это мой язык.
+    Translation: This is my language.
+  - Phrase: Государством есть Польша.
+    Translation: The country is Poland.
+  - Phrase: Я поляком.
+    Translation: I am a Pole.
+  - Phrase: Она есть хорваткою.
+    Translation: She is a Croat.
+  - Phrase: Он есть русским.
+    Translation: He is a Russian.
+  - Phrase: Говоришь ли на немецком языке?
+    Translation: Do you speak the German language?
+  - Phrase: Англичанин говорит на английском языке.
+    Translation: An Englishman speaks the English language.
+  - Phrase: Мы любим свой народ.
+    Translation: We love our nation.
+  - Phrase: Это есть имя моего государства.
+    Translation: This is the name of my country.
+  - Phrase: Он знает три языка.
+    Translation: He knows three languages.
+  - Phrase: Хорват говорит на хорватском языке.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Немец живёт в Германии.
+    Translation: A German lives in Germany.
+  - Phrase: Она знает русский и славянский.
+    Translation: She knows Russian and Slavic.
+  - Phrase: Это есть народ с богатою культурою.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Ты англичанином?
+    Translation: Are you an Englishman?
+  - Phrase: Он говорит каждый язык хорошо.
+    Translation: He speaks every language well.
+  - Phrase: Мы учимся русского языка.
+    Translation: We are learning the Russian language.
+  - Phrase: Она знает много народов.
+    Translation: She knows many nations.
+
+Mini-dictionary:
+  Russian:
+    - английском: english
+    - англичанином: englishman
+    - богатою: rich
+    - в: in
+    - германии: germany
+    - говорит: says
+    - говоришь: talk
+    - государства: state
+    - государством: state
+    - есть: is
+    - живёт: lives
+    - знает: knows
+    - и: and
+    - каждый: every
+    - культурою: culture
+    - ли: whether
+    - любим: love
+    - много: many
+    - моего: my
+    - мой: my
+    - мы: we
+    - на: on
+    - народов: nations
+    - немецком: german
+    - он: he
+    - она: she
+    - польша: poland
+    - поляком: pole
+    - русским: russian
+    - русского: russian
+    - с: with
+    - свой: his/her/its own
+    - славянином: slav
+    - славянский: slavic
+    - славянском: slavic
+    - три: three
+    - ты: you
+    - учимся: learn
+    - хорват: croat
+    - хорваткою: croat
+    - хорватском: croatian
+    - хорошо: good
+    - это: it
+    - я: i
+    - языка: language
+    - языке: language
+  English:
+    - a: jedin/один
+    - am: есть
+    - an: an
+    - and: и
+    - are: byti/быти
+    - country: страна
+    - croat: хорват
+    - croatian: хорватский
+    - culture: культура
+    - do: делать
+    - english: английский
+    - englishman: англичанин
+    - every: каждый
+    - german: немецкий
+    - germany: германия
+    - he: он
+    - i: я
+    - in: в
+    - is: есть
+    - knows: знает
+    - language: язык
+    - languages: языки
+    - learning: учится
+    - lives: живет
+    - love: любовь
+    - many: много
+    - my: мой
+    - name: имя
+    - nation: нация
+    - nations: нации
+    - of: из
+    - our: наш
+    - poland: польша
+    - pole: поляк
+    - rich: богатый
+    - russian: русский
+    - she: она
+    - slav: славянин
+    - slavic: славянский
+    - speak: говорить
+    - speaks: говорит
+    - the: to
+    - this: это
+    - three: три
+    - we: мы
+    - well: хорошо
+    - with: с
+    - you: ты

@@ -1,0 +1,195 @@
+Skill:
+  Name: Cases revision
+  Id: 19
+
+New words:
+  - Word: "rězać (rěže)"
+    Translation: to cut
+  - Word: " dar"
+    Translation: gift
+  - Word: "wšeswět"
+    Translation: universe
+  - Word: " zerkało"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Kość tu njeje.
+    Translation: There is no bone here.
+  - Phrase: Dam žonje.
+    Translation: I give to the woman.
+  - Phrase: Wona je w měsće.
+    Translation: She is in the city.
+  - Phrase: Rěčim z přećelemi.
+    Translation: I talk with friends.
+  - Phrase: Mjeno wón nima.
+    Translation: He has no name.
+  - Phrase: Ty dušu nimaš?!
+    Translation: You don't have a soul?!
+  - Phrase: Wón widźi swoju žonu.
+    Translation: He sees his wife.
+  - Phrase: Brata tu njeje.
+    Translation: There is no brother here.
+  - Phrase: To je móžno rězać z nožom.
+    Translation: This can be cut with a knife.
+  - Phrase: Wona z mužom rěči.
+    Translation: She talks with her husband.
+  - Phrase: Wona rěči wo bratrach.
+    Translation: She talks about brothers.
+  - Phrase: Wona dawa dar bratrjej.
+    Translation: She gives a gift to the brothers.
+  - Phrase: Na pólu mnoho dźěłam.
+    Translation: I work a lot in the field.
+  - Phrase: Je mnoho słóncow we wšeswěće.
+    Translation: There are many suns in the universe.
+  - Phrase: A tež je mnoho hwězdow.
+    Translation: And there are also many stars.
+  - Phrase: Wón lubi rěčeć ze swojej žonu.
+    Translation: He likes to talk with his wife.
+  - Phrase: Hižo njeje bananow w domje.
+    Translation: There are no more bananas in the house.
+  - Phrase: W wočomaj widźimy dušu twoju.
+    Translation: In the eyes I see your soul.
+  - Phrase: Woči su zerkało duše.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Mužow tu njewidźimy.
+    Translation: I do not see men here.
+  - Phrase: W měsće uwidźiš mnoho ludźi.
+    Translation: In the cities you will see many people.
+  - Phrase: Měrna nóc!
+    Translation: Good night!
+
+Mini-dictionary:
+  Upper Sorbian:
+    - a: and
+    - bananow: bananas
+    - brata: brother
+    - bratrach: brothers
+    - bratrjej: brother
+    - dam: i will give
+    - dar: gift
+    - dawa: gives
+    - domje: at home
+    - duše: soul
+    - dušu: soul
+    - dźěłam: i work
+    - hižo: already
+    - hwězdow: stars
+    - je: is
+    - kość: bone
+    - lubi: loves
+    - ludźi: people
+    - mjeno: name
+    - mnoho: much
+    - mužom: man
+    - mužow: men
+    - móžno: possible
+    - měrna: peaceful
+    - měsće: city
+    - na: on
+    - nima: has not
+    - nimaš: you do not have
+    - njeje: is not
+    - njewidźimy: we do not see
+    - nožom: knife
+    - nóc: night
+    - pólu: field
+    - přećelemi: with friends
+    - rězać: to cut
+    - rěčeć: to speak
+    - rěči: speaks
+    - rěčim: i speak
+    - rěže: cuts
+    - su: are
+    - swojej: his
+    - swoju: his
+    - słóncow: suns
+    - tež: also
+    - to: this
+    - tu: here
+    - twoju: your
+    - ty: you
+    - uwidźiš: you will see
+    - w: in
+    - we: in
+    - widźi: sees
+    - widźimy: we see
+    - wo: about
+    - wona: she
+    - woči: eyes
+    - wočomaj: eyes
+    - wón: he
+    - wšeswět: universe
+    - wšeswěće: universe
+    - z: with
+    - ze: from
+    - zerkało: mirror
+    - žonje: woman
+    - žonu: woman
+  English:
+    - a: jedin/один
+    - about: wo
+    - also: tež
+    - and: a
+    - are: byti/быти
+    - bananas: bananow
+    - be: być
+    - bone: košć
+    - brother: bratr
+    - brothers: bratrach
+    - can: móže
+    - cities: města
+    - city: město
+    - cut: rězać
+    - do: činić
+    - don't: nje
+    - eyes: woči
+    - field: pólo
+    - friends: přećeljo
+    - gift: dar
+    - give: daj
+    - gives: dawa
+    - good: dobry
+    - has: ma
+    - have: měć
+    - he: wón
+    - her: jeje
+    - here: tu
+    - his: jeho
+    - house: dom
+    - husband: muž
+    - i: ja
+    - in: w
+    - is: je
+    - knife: nóž
+    - likes: lubi
+    - lot: mnoho
+    - many: mnoho
+    - men: mužow
+    - mirror: zerkało
+    - more: wjace
+    - name: mjeno
+    - night: nóc
+    - no: nic
+    - not: nje
+    - of: wot
+    - people: ludźi
+    - see: widźeć
+    - sees: widźi
+    - she: wona
+    - soul: duše
+    - stars: hwězdy
+    - suns: słóncow
+    - talk: rěčeć
+    - talks: rěči
+    - the: to
+    - there: tam
+    - this: to
+    - to: k
+    - universe: wšeswět
+    - wife: žona
+    - will: budu
+    - with: z
+    - woman: žona
+    - work: dźěło
+    - you: ty
+    - your: twój

@@ -1,0 +1,219 @@
+Skill:
+  Name: Emotions
+  Id: 37
+
+New words:
+  - Word: radostný
+    Translation: joyful
+  - Word: žalostný
+    Translation: sad
+  - Word: hnevlivý
+    Translation: angry
+  - Word: láska
+    Translation: love
+  - Word: prestrašený
+    Translation: frightened
+  - Word: pokoj
+    Translation: peace
+  - Word: závisť
+    Translation: envy
+  - Word: hanebný
+    Translation: ashamed
+  - Word: hanba
+    Translation: shame
+  - Word: hrdý
+    Translation: proud
+  - Word: veselý
+    Translation: cheerful
+  - Word: chvenie
+    Translation: tremor
+  - Word: cítiť (cíti)
+    Translation: to feel
+  - Word: skrývať
+    Translation: to hide
+  - Word: utekať
+    Translation: to run away
+
+Phrases:
+  - Phrase: Cítim sa radostne dnes.
+    Translation: We feel joyful this week.
+  - Phrase: Žalostne on hovoril.
+    Translation: He spoke sadly.
+  - Phrase: On hnevlivo mu káže pracovať.
+    Translation: He angrily tells him to work.
+  - Phrase: Láska to je silná emócia.
+    Translation: Love is a strong emotion.
+  - Phrase: Strach to je prirodzená reakcia.
+    Translation: Fear is a natural reaction.
+  - Phrase: Pokoj je dôležitý pre dušu.
+    Translation: Peace is important for the soul.
+  - Phrase: Závisť to je čierna emócia.
+    Translation: Envy is a dark emotion.
+  - Phrase: Hanebne on cíti hanbu.
+    Translation: He feels ashamed.
+  - Phrase: Veselo sa mu naplnilo srdce.
+    Translation: His heart was filled with joy.
+  - Phrase: Závisle on pozerá na neho.
+    Translation: He is jealous of him.
+  - Phrase: Ja mám žiaľ v srdci.
+    Translation: I have sadness in my heart.
+  - Phrase: Ona im ukazuje svoju prácu veselo.
+    Translation: She shows them her work joyfully.
+  - Phrase: On skrýva hrdo svoj hnev.
+    Translation: He hides his anger proudly.
+  - Phrase: My cítime pokoj.
+    Translation: We feel peaceful.
+  - Phrase: Strach je v nás.
+    Translation: Fear is inside us.
+  - Phrase: Prestrašene on utekal.
+    Translation: He was frightened and ran away.
+  - Phrase: Hanba je veľmi silná.
+    Translation: Shame is very strong.
+  - Phrase: Radostne šiel domov.
+    Translation: He joyfully went home.
+  - Phrase: Radosť ide zvnútra.
+    Translation: Joy comes from within.
+  - Phrase: Trpieť len chceme, keď ľúbime.
+    Translation: We only suffer when we love.
+
+Mini-dictionary:
+  Slovak:
+    - chceme: we want
+    - cíti: feels
+    - cítim: I feel
+    - cítime: we feel
+    - cítiť: to feel
+    - dnes: today
+    - domov: home
+    - dušu: soul
+    - dôležitý: important
+    - emócia: emotion
+    - hanbu: shame
+    - hanebne: shamefully
+    - hnev: anger
+    - hnevlivo: angrily
+    - hovoril: said
+    - hrdo: proudly
+    - ide: goes
+    - im: them
+    - ja: I
+    - je: is
+    - keď: when
+    - káže: preaches
+    - len: only
+    - mu: him
+    - my: we
+    - mám: I have
+    - na: on
+    - naplnilo: filled
+    - neho: him
+    - nás: us
+    - on: he
+    - ona: she
+    - pozerá: looks
+    - pracovať: to work
+    - pre: for
+    - prestrašene: fearfully
+    - prirodzená: natural
+    - prácu: work
+    - radostne: joyfully
+    - radosť: joy
+    - reakcia: reaction
+    - sa: oneself
+    - silná: strong
+    - skrýva: hides
+    - srdce: heart
+    - srdci: heart
+    - strach: fear
+    - svoj: his/her/its own
+    - svoju: his/her/its own
+    - to: it
+    - trpieť: to suffer
+    - ukazuje: shows
+    - utekal: ran away
+    - v: in
+    - veselo: cheerfully
+    - veľmi: very
+    - zvnútra: inside
+    - závisle: dependently
+    - čierna: black
+    - ľúbime: we love
+    - šiel: went
+    - žalostne: sadly
+    - žiaľ: sorrow
+  English:
+    - a: jedin/один
+    - and: a
+    - anger: hnev
+    - angrily: hnevlivo
+    - angry: hnevlivý
+    - ashamed: zahanbený
+    - away: preč
+    - cheerful: veselý
+    - comes: príde
+    - dark: tmavý
+    - emotion: emócia
+    - envy: závisť
+    - fear: strach
+    - feel: cítiť
+    - feels: cíti
+    - filled: naplnený
+    - for: pre
+    - frightened: prestrašený
+    - from: z
+    - have: mať
+    - he: on
+    - heart: srdce
+    - her: jej
+    - hide: skrývať
+    - hides: skrýva
+    - him: mu
+    - his: jeho
+    - home: domov
+    - i: ja
+    - important: dôležitý
+    - in: v
+    - inside: zvnútra
+    - is: je
+    - jealous: závistlivý
+    - joy: radosť
+    - joyful: radostný
+    - joyfully: radostne
+    - love: láska
+    - my: môj
+    - natural: prirodzená
+    - of: z
+    - only: len
+    - peace: pokoj
+    - peaceful: pokojný
+    - proud: hrdý
+    - proudly: hrdo
+    - ran: utekal
+    - reaction: reakcia
+    - run: behať
+    - sad: žalostný
+    - sadly: žalostne
+    - sadness: žiaľ
+    - shame: hanba
+    - she: ona
+    - shows: ukazuje
+    - soul: duša
+    - spoke: hovoril
+    - strong: silný
+    - suffer: trpieť
+    - tells: povie
+    - the: to
+    - them: im
+    - this: tento
+    - to: do
+    - tremor: chvenie
+    - us: nás
+    - very: veľmi
+    - was: bol
+    - we: my
+    - week: týždeň
+    - went: išiel
+    - when: keď
+    - with: s
+    - within: vnútri
+    - work: práca

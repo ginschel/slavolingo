@@ -1,0 +1,190 @@
+Skill:
+  Name: Cardinal points
+  Id: 18
+
+New words:
+  - Word: norda
+    Translation: north
+  - Word: pòłnié
+    Translation: south
+  - Word: zôpôd
+    Translation: west
+  - Word: pòrénk
+    Translation: east
+  - Word: nordowi
+    Translation: northern
+  - Word: pòłniowi
+    Translation: southern
+  - Word: zôpôdni
+    Translation: western
+  - Word: pòrénkòwi
+    Translation: eastern
+  - Word: kòmpas
+    Translation: compass
+  - Word: strona
+    Translation: side
+  - Word: dze
+    Translation: where
+  - Word: wstac (wstané)
+    Translation: to rise
+  - Word: pòkôzac
+    Translation: to show
+  - Word: mapa
+    Translation: map
+  - Word: céstowac
+    Translation: to travel
+  - Word: wprôwò
+    Translation: right
+  - Word: wlewò
+    Translation: left
+  - Word: prosto
+    Translation: straight
+
+Phrases:
+  - Phrase: Norda je zëmnô.
+    Translation: The north is cold.
+  - Phrase: Pòłnié je ciepłé.
+    Translation: The south is warm.
+  - Phrase: Słuncé wstané na pòrénkù.
+    Translation: The sun rises in the east.
+  - Phrase: Òno zôpôdô na zôpôdze.
+    Translation: It sets in the west.
+  - Phrase: To je nordowô strona.
+    Translation: This is the northern side.
+  - Phrase: Żëjemë na pòłniu.
+    Translation: We live in the south.
+  - Phrase: Kòmpas pòkôzëje nordã.
+    Translation: The compass shows north.
+  - Phrase: Pòrénk je tam.
+    Translation: The east is there.
+  - Phrase: Zôpôdni wiatrzënk dmie.
+    Translation: A western wind is blowing.
+  - Phrase: Jidzemë do pòłniowegò zôpôdu.
+    Translation: We are going to the southwest.
+  - Phrase: To je nordowò-zôpôdni región.
+    Translation: This is the northwestern region.
+  - Phrase: Strona na mapie pòkôzëje zôpôd.
+    Translation: The side on the map shows west.
+  - Phrase: Pòłniowò-pòrénk je tam, dze grzeje słuncé.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Jidzemë do pòłniowégò starnë.
+    Translation: We are going to the southern side.
+  - Phrase: On céstëje pòrénkòwò.
+    Translation: He travels eastward.
+  - Phrase: Na nordze je sniég.
+    Translation: In the north there is snow.
+  - Phrase: Pòłniowé kraje są ciepłé.
+    Translation: The southern regions are warm.
+  - Phrase: Zôpôd je wlewò na mapie.
+    Translation: West is left on the map.
+  - Phrase: Pòrénkòwô mùzëka je jinteresantnô.
+    Translation: Eastern music is interesting.
+  - Phrase: Òbzérómë na nordã.
+    Translation: We are looking to the north.
+  - Phrase: Jidzemë dzysô wprôwò i pòtemù prosto.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Kashubian:
+    - ciepłé: warm
+    - céstëje: travels
+    - dmie: blows
+    - do: to
+    - dzysô: today
+    - grzeje: heats
+    - i: and
+    - je: is
+    - jidzemë: we go
+    - jinteresantnô: interesting
+    - kraje: countries
+    - mapie: map
+    - mùzëka: music
+    - na: on
+    - nordowò-zôpôdni: northwest
+    - nordowô: northern
+    - nordze: north
+    - nordã: north
+    - on: he
+    - pòkôzëje: shows
+    - pòrénkòwò: morning
+    - pòrénkòwô: morning
+    - pòrénkù: morning
+    - pòtemù: then
+    - pòłniowegò: noon
+    - pòłniowé: noon
+    - pòłniowégò: noon
+    - pòłniowò-pòrénk: southeast
+    - pòłniu: noon
+    - región: region
+    - sniég: snow
+    - starnë: pages
+    - są: they are
+    - słuncé: sun
+    - tam: there
+    - to: this
+    - wiatrzënk: wind
+    - wstac: to get up
+    - wstané: standing
+    - zëmnô: cold
+    - zôpôdu: west
+    - zôpôdze: west
+    - zôpôdô: sets
+    - òbzérómë: we look at
+    - òno: it
+    - żëjemë: we live
+  English:
+    - a: jedin/один
+    - and: ë
+    - are: byti/быти
+    - blowing: wiéjący
+    - cold: zëmny
+    - compass: kòmpas
+    - east: pòrénk
+    - eastern: pòrénkòwi
+    - eastward: na pòrénk
+    - going: jidzen
+    - he: on
+    - in: w
+    - interesting: jinteresëjący
+    - is: je
+    - it: to
+    - left: lewô
+    - live: mieszkac
+    - looking: wëzdrzący
+    - map: mapa
+    - music: mùzyka
+    - north: norda
+    - northern: nordowi
+    - northwestern: nordozôpôdni
+    - now: terô
+    - on: na
+    - region: region
+    - regions: regionë
+    - right: prawô
+    - rise: pòdwiesc
+    - rises: pòdwiesc
+    - sets: zestawiô
+    - show: ùkôzac
+    - shows: ùkazywô
+    - side: strona
+    - snow: snieg
+    - south: pôłnié
+    - southeast: pôłniowò-pòrénkòwi
+    - southern: pôłniowi
+    - southwest: pôłniowò-zôpôdni
+    - straight: prosto
+    - sun: słunéczkò
+    - the: to
+    - then: zôs
+    - there: tam
+    - this: to
+    - to: do
+    - travel: pùtëk
+    - travels: pùtëje
+    - warm: ciepłi
+    - warms: ciepłi
+    - we: më
+    - west: zôpôd
+    - western: zôpôdni
+    - where: dze
+    - wind: wiater

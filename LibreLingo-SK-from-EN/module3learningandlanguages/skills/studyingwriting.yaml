@@ -1,0 +1,175 @@
+Skill:
+  Name: Studying & Writing
+  Id: 9
+
+New words:
+  - Word: škola
+    Translation: school
+  - Word: učiteľka
+    Translation: female teacher
+  - Word: učiteľ
+    Translation: male teacher
+  - Word: zápis
+    Translation: note
+  - Word: žiak
+    Translation: student
+  - Word: kniha
+    Translation: book
+  - Word: úloha
+    Translation: assignment
+  - Word: stôl
+    Translation: table
+  - Word: tuš
+    Translation: ink
+  - Word: papier
+    Translation: paper
+  - Word: predmet
+    Translation: subject
+  - Word: metóda
+    Translation: method
+  - Word: pero
+    Translation: pen
+  - Word: zápisník
+    Translation: notebook
+  - Word: na
+    Translation: on
+
+Phrases:
+  - Phrase: To je moja škola.
+    Translation: This is my school.
+  - Phrase: Ona je učiteľkou.
+    Translation: She is a teacher.
+  - Phrase: On je žiakom.
+    Translation: He is a student.
+  - Phrase: Kniha je na stole.
+    Translation: The book is on the table.
+  - Phrase: Ja mám úlohu.
+    Translation: I have an assignment.
+  - Phrase: Tuš je ešte mokrý.
+    Translation: The ink is still wet.
+  - Phrase: Papier je biely.
+    Translation: The paper is white.
+  - Phrase: Ten predmet je matematika.
+    Translation: This subject is mathematics.
+  - Phrase: Tá metóda je dobrá.
+    Translation: This method is good.
+  - Phrase: Žiak má knihu.
+    Translation: The student has a book.
+  - Phrase: To je môj stôl.
+    Translation: This is my desk.
+  - Phrase: Môj zápisník je plný zápisov s perom
+    Translation: My notebook is full of notes with a pen
+  - Phrase: Píšem na papieri perom.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Škola je v centre.
+    Translation: The school is in the center.
+  - Phrase: My píšeme úlohu.
+    Translation: We are writing the assignment.
+  - Phrase: Učiteľ hovorí so študentmi.
+    Translation: The teacher is talking with students.
+  - Phrase: Ona má veľa úloh.
+    Translation: She has many assignments.
+  - Phrase: Ja rýchlo píšem s týmto perom.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Predmet je zložitý.
+    Translation: The subject is complex.
+  - Phrase: Kniha je nová.
+    Translation: The book is new.
+  - Phrase: On je mojím učiteľom.
+    Translation: He is my teacher.
+
+Mini-dictionary:
+  Slovak:
+    - biely: white
+    - centre: center
+    - dobrá: good
+    - ešte: still
+    - hovorí: says
+    - ja: I
+    - je: is
+    - knihu: book
+    - matematika: mathematics
+    - moja: my
+    - mojím: my
+    - mokrý: wet
+    - my: we
+    - má: has
+    - mám: I have
+    - môj: my
+    - nová: new
+    - on: he
+    - ona: she
+    - papieri: paper
+    - perom: pen
+    - plný: full
+    - píšem: I write
+    - píšeme: we write
+    - rýchlo: fast
+    - s: with
+    - so: with
+    - stole: table
+    - ten: that
+    - to: it
+    - tá: that
+    - týmto: this
+    - učiteľkou: teacher
+    - učiteľom: teacher
+    - v: in
+    - veľa: many
+    - zložitý: complex
+    - zápisov: entries
+    - úloh: tasks
+    - úlohu: task
+    - študentmi: students
+    - žiakom: pupil
+  English:
+    - a: jedin/один
+    - am: som
+    - an: a
+    - are: byti/быти
+    - assignment: úloha
+    - assignments: úloh
+    - book: kniha
+    - center: centrum
+    - complex: komplexná
+    - desk: stôl
+    - female: ženský
+    - full: plný
+    - good: dobrý
+    - has: má
+    - have: mať
+    - he: on
+    - i: ja
+    - in: v
+    - ink: tuš
+    - is: je
+    - male: mužský
+    - many: mnoho
+    - mathematics: matematika
+    - method: metóda
+    - my: môj
+    - new: nový
+    - note: poznámka
+    - notebook: zápisník
+    - notes: zápisov
+    - of: z
+    - on: na
+    - paper: papier
+    - pen: pero
+    - quickly: rýchlo
+    - school: škola
+    - she: ona
+    - still: ešte
+    - student: študent
+    - students: študentmi
+    - subject: predmet
+    - table: stôl
+    - talking: rozprávanie
+    - teacher: učiteľ
+    - the: to
+    - this: tento
+    - we: my
+    - wet: mokrá
+    - white: biely
+    - with: s
+    - writing: písanie

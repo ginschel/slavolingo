@@ -1,0 +1,174 @@
+Skill:
+  Name: Sports
+  Id: 5
+
+New words:
+  - Word: piłka nożna
+    Translation: football
+  - Word: koszykówka
+    Translation: basketball
+  - Word: tenis
+    Translation: tennis
+  - Word: pływanie
+    Translation: swimming
+  - Word: pływać
+    Translation: to swim
+  - Word: bieganie
+    Translation: running
+  - Word: biegać
+    Translation: to run
+  - Word: rano
+    Translation: in the morning
+  - Word: lubić
+    Translation: to love/like
+  - Word: hokej
+    Translation: hockey
+  - Word: sport
+    Translation: sport
+  - Word: gra
+    Translation: game
+  - Word: trenować
+    Translation: to train
+  - Word: stadion
+    Translation: stadium
+  - Word: szybko
+    Translation: fast
+  - Word: ciężki
+    Translation: difficult
+
+Phrases:
+  - Phrase: Gram w piłkę nożną.
+    Translation: I play football.
+  - Phrase: Ona gra w koszykówkę.
+    Translation: She plays basketball.
+  - Phrase: On gra w tenisa.
+    Translation: He plays tennis.
+  - Phrase: My pływamy w rzece.
+    Translation: We swim in the river.
+  - Phrase: Oni biegają rano.
+    Translation: They run in the morning.
+  - Phrase: On trenuje codziennie.
+    Translation: He trains every day.
+  - Phrase: Sport jest ważny.
+    Translation: Sport is important.
+  - Phrase: Ona gra na stadionie.
+    Translation: She plays at the stadium.
+  - Phrase: Trzeba trenować.
+    Translation: It is necessary to train.
+  - Phrase: Oni lubią sport.
+    Translation: They love sport.
+  - Phrase: Ja nie gram w hokeja.
+    Translation: I do not play hockey.
+  - Phrase: Stadion jest w mieście.
+    Translation: The stadium is in the city.
+  - Phrase: Koszykówka to ciekawy sport.
+    Translation: Basketball is an interesting sport.
+  - Phrase: Pływanie jest dobre dla zdrowia.
+    Translation: Swimming is good for health.
+  - Phrase: Kto gra w tenisa?
+    Translation: Who plays tennis?
+  - Phrase: On biega szybko.
+    Translation: He runs fast.
+  - Phrase: My pływamy często.
+    Translation: We swim often.
+  - Phrase: On trenuje z przyjacielem.
+    Translation: He trains with a friend.
+  - Phrase: Ja gram z braćmi.
+    Translation: I play with my brothers.
+  - Phrase: Hokej jest trudny.
+    Translation: Hockey is difficult.
+
+Mini-dictionary:
+  Polish:
+    - biega: runs
+    - biegają: run
+    - braćmi: brothers
+    - ciekawy: interesting
+    - codziennie: daily
+    - często: often
+    - dla: for
+    - dobre: good
+    - gram: I play
+    - hokeja: hockey
+    - ja: I
+    - jest: is
+    - koszykówkę: basketball
+    - kto: who
+    - lubią: they like
+    - mieście: city
+    - my: we
+    - na: on
+    - nie: no
+    - nożna: football
+    - nożną: football
+    - on: he
+    - ona: she
+    - oni: they
+    - piłka: ball
+    - piłkę: ball
+    - przyjacielem: friend
+    - pływamy: we swim
+    - rzece: river
+    - stadionie: stadium
+    - tenisa: tennis
+    - to: this
+    - trenuje: trains
+    - trudny: difficult
+    - trzeba: must
+    - w: in
+    - ważny: important
+    - z: with
+    - zdrowia: health
+  English:
+    - a: jedin/один
+    - an: pewien
+    - at: w
+    - basketball: koszykówka
+    - brothers: braćmi
+    - city: miasto
+    - day: dzień
+    - difficult: trudny
+    - do: robić
+    - every: każdy
+    - fast: szybki
+    - football: piłka nożna
+    - for: dla
+    - friend: przyjaciel
+    - game: gra
+    - good: dobry
+    - he: on
+    - health: zdrowie
+    - hockey: hokej
+    - i: ja
+    - important: ważny
+    - in: w
+    - interesting: interesująca
+    - is: jest
+    - it: to
+    - love: miłość
+    - love/like: lubić
+    - morning: ranek
+    - my: mój
+    - necessary: konieczny
+    - not: nie
+    - often: często
+    - play: grać
+    - plays: gra
+    - river: rzeka
+    - run: biegać
+    - running: bieganie
+    - runs: biega
+    - she: ona
+    - sport: sport
+    - stadium: stadion
+    - swim: pływać
+    - swimming: pływanie
+    - tennis: tenis
+    - the: to
+    - they: oni
+    - to: do
+    - train: pociąg
+    - trains: pociągów
+    - we: my
+    - who: kto
+    - with: z

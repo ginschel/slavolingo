@@ -2,6 +2,6 @@ Module:
   Name: Module 2 – Food and Drinks
 
 Skills:
-  - foodaccusativecase.yaml
-  - drinksgenitivecase.yaml
+  - food.yaml
+  - drinks.yaml
   - fruits.yaml

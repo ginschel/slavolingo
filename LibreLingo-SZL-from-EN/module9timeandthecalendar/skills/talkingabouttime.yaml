@@ -1,0 +1,221 @@
+Skill:
+  Name: Talking about Time
+  Id: 31
+
+New words:
+  - Word: czas
+    Translation: time
+  - Word: minuta
+    Translation: minute
+  - Word: sekunda
+    Translation: second
+  - Word: godzina
+    Translation: hour
+  - Word: dzisiŏj
+    Translation: today
+  - Word: bōł
+    Translation: was
+  - Word: bōła
+    Translation: was
+  - Word: bōło
+    Translation: was
+  - Word: byli
+    Translation: were
+  - Word: szedł
+    Translation: went/walked
+  - Word: szła
+    Translation: went/walked
+  - Word: szło
+    Translation: went/walked
+  - Word: szli
+    Translation: went/walked
+  - Word: wcora
+    Translation: yesterday
+  - Word: juter
+    Translation: tomorrow
+  - Word: wieczōr
+    Translation: evening
+  - Word: pōłnoc
+    Translation: midnight
+  - Word: wiela
+    Translation: how much
+  - Word: spać (śpi)
+    Translation: to sleep
+  - Word: trwać
+    Translation: to last
+
+Phrases:
+  - Phrase: Wiela je czasu?
+    Translation: What time is it?
+  - Phrase: Ôn mioł jedna godzina.
+    Translation: He had one hour.
+  - Phrase: Juter je za fest.
+    Translation: Tomorrow is too late.
+  - Phrase: Wcora bōł pōniydziałek.
+    Translation: Yesterday was Monday.
+  - Phrase: Wcora ôna bōła we dōmu ô ôsmyj godźinie.
+    Translation: Yesterday she was at home at the eighth hour.
+  - Phrase: Rano niy bōło fest ciepło.
+    Translation: In the morning it was not very warm.
+  - Phrase: Ô trzećij godźinie dwadzieścia bōło zimno.
+    Translation: At twenty past the third hour it was cold.
+  - Phrase: Pōłnoc je cicho.
+    Translation: Midnight is quiet.
+  - Phrase: Ôn szedł do dōmu.
+    Translation: He went home.
+  - Phrase: Wy żeście szli do kina?
+    Translation: Have you gone to the cinema?
+  - Phrase: Ôni nic niy robili.
+    Translation: They did nothing.
+  - Phrase: Minuta je mało jednotka czasu.
+    Translation: A minute is a small unit of time.
+  - Phrase: Sekunda je krotko.
+    Translation: A second is short.
+  - Phrase: Dzisiŏj ty żeś niy mioł czasu na to.
+    Translation: Today you did not have an hour for that.
+  - Phrase: Widzymy sie wieczorym ô dziewiōntyj godźinie.
+    Translation: We will see each other in the evening at the ninth hour.
+  - Phrase: Wcora ô piyrwszyj godźinie bōło lepsze.
+    Translation: Yesterday at the first hour it was better.
+  - Phrase: Wiela minut trwo film?
+    Translation: How many minutes does the film last?
+  - Phrase: Jo żech bōł we dōmu rano.
+    Translation: I was at home in the morning.
+  - Phrase: Ôn śpi do pōłnocy.
+    Translation: He sleeps until midnight.
+  - Phrase: Wiela sekund mo minuta?
+    Translation: How many seconds are in a minute?
+  - Phrase: Wieczorym my szli we restauracyjo.
+    Translation: In the evening we went to the restaurant.
+
+Mini-dictionary:
+  Silesian:
+    - cicho: quiet
+    - ciepło: warm
+    - czasu: time
+    - do: to
+    - dwadzieścia: twenty
+    - dziewiōntyj: ninth
+    - dōmu: home
+    - fest: very
+    - film: film
+    - godźinie: hour
+    - je: is
+    - jedna: one
+    - jednotka: unit
+    - jo: I
+    - kina: cinema
+    - krotko: short
+    - lepsze: better
+    - mało: small
+    - minut: minutes
+    - mioł: had
+    - mo: has
+    - my: we
+    - na: on
+    - nic: nothing
+    - niy: not
+    - piyrwszyj: first
+    - pōniydziałek: Monday
+    - pōłnocy: north
+    - rano: morning
+    - restauracyjo: restaurant
+    - robili: did
+    - sekund: seconds
+    - sie: herself
+    - spać: sleep
+    - to: to
+    - trwo: last
+    - trzećij: third
+    - ty: you
+    - we: in
+    - widzymy: see
+    - wieczorym: evening
+    - wy: you
+    - za: behind
+    - zimno: cold
+    - ô: about
+    - ôn: he
+    - ôna: she
+    - ôni: they
+    - ôsmyj: eighth
+    - śpi: sleeps
+    - żech: I
+    - żeś: you
+    - żeście: you
+  English:
+    - a: jedin/один
+    - an: [no direct equivalent, often implied or 'jedyn']
+    - are: byti/быти
+    - at: przi
+    - better: lepszy
+    - cinema: kino
+    - cold: zimny
+    - did: zrobiōł
+    - does: robi
+    - each: kożdy
+    - eighth: ôziōmy
+    - evening: wieczōr
+    - film: film
+    - first: piyrszy
+    - for: dlo
+    - gone: poszło
+    - had: mioł
+    - have: mieć
+    - he: ôn
+    - home: dōm
+    - hour: godzina
+    - how: jak
+    - i: jŏ
+    - in: w
+    - is: je
+    - it: to
+    - last: ôstatni
+    - late: pōźno
+    - many: wiela
+    - midnight: północ
+    - minute: minuta
+    - minutes: minuty
+    - monday: pōńdziyłek
+    - morning: rano
+    - much: wiela
+    - ninth: dziywiōnty
+    - not: niy
+    - nothing: nic
+    - of: ôd
+    - one: jedyn
+    - other: inkszy
+    - past: przeszły
+    - quiet: cicho
+    - restaurant: restauracyjo
+    - second: drugi
+    - seconds: sekōndy
+    - see: widzieć
+    - she: ôna
+    - short: krōtki
+    - sleep: spać
+    - sleeps: śpi
+    - small: mały
+    - that: co
+    - the: to
+    - they: ôni
+    - third: trzeći
+    - time: czas
+    - to: do
+    - today: dzisiej
+    - tomorrow: jutro
+    - too: tyż
+    - twenty: dwadzieścia
+    - unit: jednotka
+    - until: aże
+    - very: fest
+    - warm: ciepły
+    - was: bōł
+    - we: my
+    - went: poszoł
+    - went/walked: poszoł
+    - were: byl/был
+    - what: co
+    - will: bydź
+    - yesterday: wczorej
+    - you: ty

@@ -1,0 +1,228 @@
+Skill:
+  Name: Physical Appearance
+  Id: 38
+
+New words:
+  - Word: wysoki
+    Translation: tall
+  - Word: niski
+    Translation: short
+  - Word: gruby
+    Translation: fat
+  - Word: chudy
+    Translation: thin
+  - Word: mały
+    Translation: small
+  - Word: piykny
+    Translation: beautiful
+  - Word: brzidki
+    Translation: ugly
+  - Word: stary
+    Translation: old
+  - Word: młody
+    Translation: young
+  - Word: włosy
+    Translation: hair
+  - Word: ôczy
+    Translation: eyes
+  - Word: niż
+    Translation: than
+  - Word: wyżej
+    Translation: taller/higher
+  - Word: skōra
+    Translation: skin
+  - Word: mynij
+    Translation: less
+  - Word: śmiŏć sie (śmieje sie)
+    Translation: to laugh
+  - Word: bliszczeć
+    Translation: to shine
+  - Word: gwiazda
+    Translation: star
+  - Word: jasno
+    Translation: light
+  - Word: ćmawo
+    Translation: dark
+
+Phrases:
+  - Phrase: Ôn je wyżej wysoki a srogi niż ôn.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Ôna je nisko a chudo jak ôn.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Gruby chop idzie po banhofie.
+    Translation: The fat man is walking down the street.
+  - Phrase: Chudy mo mynij ciała niż gruby.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: To je wyżej piykny czowiek niż tamtyn.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Stare ludzie som wyżej mondre niż my.
+    Translation: Old people are wiser than us.
+  - Phrase: Młody mo moc ynergije.
+    Translation: The young one has a lot of energy.
+  - Phrase: Jego włosy som jasne.
+    Translation: His hair is blonde.
+  - Phrase: Ôczy som wyżej zielōne niż u jymu.
+    Translation: Her eyes are greener than his.
+  - Phrase: Jego skōra je bioło.
+    Translation: His skin is white.
+  - Phrase: Ôn mo duge włosy.
+    Translation: He has long hair.
+  - Phrase: Ôna mo zielōne ôczy.
+    Translation: She has green eyes.
+  - Phrase: Skōra je gladko.
+    Translation: Her skin is smooth.
+  - Phrase: Stara baba nosi czopka.
+    Translation: The old woman wears a hat.
+  - Phrase: Młode ludzie często szportujōm.
+    Translation: Young people often play sports.
+  - Phrase: Gruby chop śmieje sie wyżej niż tamtyn brzidki chop.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Nisko dziecha idzie do dōmu.
+    Translation: The short girl is going home.
+  - Phrase: Piykne ôczy bliszczōm jak gwiazdy na niybie.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Chudy nosi wyżej wielgo heja niż jo.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Jej włosy som jasne a duge.
+    Translation: Her hair is light and long.
+  - Phrase: A jego piykne włosy som ćmawe jak noc.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Silesian:
+    - a: a
+    - baba: woman
+    - banhofie: station
+    - bioło: white
+    - bliszczōm: shining
+    - chop: man
+    - chudo: thin
+    - ciała: body
+    - czopka: hat
+    - czowiek: person
+    - często: often
+    - do: to
+    - duge: long
+    - dziecha: child
+    - dōmu: home
+    - gladko: smooth
+    - gwiazdy: stars
+    - heja: hello
+    - idzie: goes
+    - jak: as
+    - jasne: light
+    - je: is
+    - jego: his
+    - jej: her
+    - jo: I
+    - jymu: him
+    - ludzie: people
+    - mo: has
+    - moc: much
+    - mondre: smart
+    - my: we
+    - młode: young
+    - na: on
+    - nisko: low
+    - niybie: sky
+    - noc: night
+    - nosi: wears
+    - piykne: beautiful
+    - po: after
+    - sie: herself
+    - som: am
+    - srogi: big
+    - stara: old
+    - stare: old
+    - szportujōm: sport
+    - tamtyn: that
+    - to: to
+    - u: at
+    - wielgo: big
+    - ynergije: energy
+    - zielōne: green
+    - ôn: he
+    - ôna: she
+    - ćmawe: dark
+    - śmieje: laughs
+    - śmiŏć: laugh
+  English:
+    - a: jedin/один
+    - and: a
+    - are: byti/быти
+    - as: jak
+    - beautiful: piykny
+    - blonde: blond
+    - body: ciało
+    - dark: ćmaw
+    - do: robić
+    - down: na dōł
+    - energy: ynerygijo
+    - eyes: ôczy
+    - fat: gruby
+    - girl: dziołcha
+    - going: idōnc
+    - green: zielōny
+    - greener: zielōńszy
+    - hair: włosy
+    - has: mo
+    - hat: hōt
+    - he: ôn
+    - her: jeji
+    - him: jymu
+    - his: jego
+    - home: dōm
+    - i: jŏ
+    - in: w
+    - is: je
+    - larger: wiynkszy
+    - laugh: śmioć sie
+    - laughs: śmieje sie
+    - less: mynij
+    - light: światło
+    - like: lubić
+    - long: dugi
+    - lot: kupa
+    - louder: głośńyjszy
+    - man: chop
+    - mass: masa
+    - more: wiyncyj
+    - night: noc
+    - of: ôd
+    - often: czynsto
+    - old: stary
+    - one: jedyn
+    - people: ludzie
+    - person: persōna
+    - play: grać
+    - she: ôna
+    - shine: błyszczeć
+    - shirt: hemt
+    - short: krōtki
+    - shorter: krōtszy
+    - skin: skōra
+    - sky: niebo
+    - small: mały
+    - smooth: gładki
+    - sports: sporty
+    - star: gwiŏzda
+    - stars: gwiŏzdy
+    - street: hulica
+    - stronger: mocniyjszy
+    - tall: wysoki
+    - taller: wyższy
+    - taller/higher: wyższy
+    - than: niż
+    - that: co
+    - the: to
+    - thin: ciynki
+    - thinner: ciyniszy
+    - to: do
+    - ugly: brzidki
+    - us: nōm
+    - walking: idzynie
+    - wears: nosi
+    - white: bioły
+    - wiser: mōndrzyjszy
+    - woman: baba
+    - young: młody

@@ -100,7 +100,7 @@ Modules: # List the TRANSFORMED, alphanumeric module folder names
 
 Settings:
   Audio:
-    Enabled: True
+    Enabled: False
     TTS:
       - Provider: Polly
         Voice: Lucia

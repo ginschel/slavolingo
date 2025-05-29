@@ -1,0 +1,219 @@
+Skill:
+  Name: Emotions
+  Id: 37
+
+New words:
+  - Word: radostny
+    Translation: joyful
+  - Word: žałostny
+    Translation: sad
+  - Word: zajećany
+    Translation: angry
+  - Word: lubosć
+    Translation: love
+  - Word: přestrašeny
+    Translation: frightened
+  - Word: měr
+    Translation: peace
+  - Word: zawěsć
+    Translation: envy
+  - Word: zahanbjeny
+    Translation: ashamed
+  - Word: hanba
+    Translation: shame
+  - Word: hórdy
+    Translation: proud
+  - Word: wjesoły
+    Translation: cheerful
+  - Word: třěsnjenje
+    Translation: tremor
+  - Word: čuć (čuje)
+    Translation: to feel
+  - Word: schować
+    Translation: to hide
+  - Word: ćěžeć
+    Translation: to run away
+
+Phrases:
+  - Phrase: Čuju so radostnje dźensa.
+    Translation: We feel joyful this week.
+  - Phrase: Žałostnje wón rěčeše.
+    Translation: He spoke sadly.
+  - Phrase: Wón zajećano jemu kaže dźěłać.
+    Translation: He angrily tells him to work.
+  - Phrase: Lubosć to je sylna emocija.
+    Translation: Love is a strong emotion.
+  - Phrase: Strah to je přirodna reakcija.
+    Translation: Fear is a natural reaction.
+  - Phrase: Měr je wažny za dušu.
+    Translation: Peace is important for the soul.
+  - Phrase: Zawěsć to je čorna emocija.
+    Translation: Envy is a dark emotion.
+  - Phrase: Zahanbjenje wón čuje hanbu.
+    Translation: He feels ashamed.
+  - Phrase: Wjesoło so jemu napołni wutroba.
+    Translation: His heart was filled with joy.
+  - Phrase: Z zawěsću wón hlada na njeho.
+    Translation: He is jealous of him.
+  - Phrase: Ja mam žałosć w wutroby.
+    Translation: I have sadness in my heart.
+  - Phrase: Wona pokazuje jim swoju dźěło wjesoło.
+    Translation: She shows them her work joyfully.
+  - Phrase: Wón schowa hórdy swoj hniew.
+    Translation: He hides his anger proudly.
+  - Phrase: My čujemy měr.
+    Translation: We feel peaceful.
+  - Phrase: Strah je w nas.
+    Translation: Fear is inside us.
+  - Phrase: Přestrašeny wón ćěžeše.
+    Translation: He was frightened and ran away.
+  - Phrase: Hanba je wulcesylna.
+    Translation: Shame is very strong.
+  - Phrase: Radostnje šoł do doma.
+    Translation: He joyfully went home.
+  - Phrase: Radost dźe znutřka.
+    Translation: Joy comes from within.
+  - Phrase: Ćerpjeć chcemy jenož, hdyž lubimy.
+    Translation: We only suffer when we love.
+
+Mini-dictionary:
+  Upper Sorbian:
+    - chcemy: we want
+    - do: into
+    - doma: at home
+    - dušu: soul
+    - dźe: goes
+    - dźensa: today
+    - dźěłać: to work
+    - dźěło: work
+    - emocija: emotion
+    - hanbu: shame
+    - hdyž: when
+    - hlada: looks
+    - hniew: anger
+    - ja: i
+    - je: is
+    - jemu: him
+    - jenož: only
+    - jim: them
+    - kaže: says
+    - lubimy: we love
+    - mam: i have
+    - my: we
+    - na: on
+    - napołni: fills
+    - nas: us
+    - njeho: him
+    - pokazuje: shows
+    - přirodna: natural
+    - radost: joy
+    - radostnje: joyfully
+    - reakcija: reaction
+    - rěčeše: spoke
+    - schowa: hides
+    - so: oneself
+    - strah: fear
+    - swoj: his
+    - swoju: his
+    - sylna: strong
+    - to: this
+    - w: in
+    - wažny: important
+    - wjesoło: joyfully
+    - wona: she
+    - wulcesylna: very strong
+    - wutroba: heart
+    - wutroby: heart
+    - wón: he
+    - z: with
+    - za: for
+    - zahanbjenje: shame
+    - zajećano: busy
+    - zawěsću: i assure
+    - znutřka: inside
+    - ćerpjeć: to suffer
+    - ćěžeše: weighed
+    - čorna: black
+    - čuje: feels
+    - čujemy: we feel
+    - čuju: i feel
+    - čuć: to feel
+    - šoł: went
+    - žałostnje: sadly
+    - žałosć: sadness
+  English:
+    - a: jedin/один
+    - and: a
+    - anger: hniew
+    - angrily: hnydom
+    - angry: hniwy
+    - ashamed: zahanbjeny
+    - away: preč
+    - cheerful: wjesoły
+    - comes: přińdźe
+    - dark: ćěmny
+    - emotion: emocija
+    - envy: zawisć
+    - fear: strah
+    - feel: čuć
+    - feels: čuje
+    - filled: napołnjena
+    - for: za
+    - frightened: přestrašeny
+    - from: wot
+    - have: měć
+    - he: wón
+    - heart: wutroba
+    - her: jeje
+    - hide: schować
+    - hides: schowa
+    - him: jemu
+    - his: jeho
+    - home: dom
+    - i: ja
+    - important: wažny
+    - in: w
+    - inside: znutřka
+    - is: je
+    - jealous: zawisny
+    - joy: radost
+    - joyful: radostny
+    - joyfully: radostnje
+    - love: lubosć
+    - my: mój
+    - natural: přirodna
+    - of: wot
+    - only: jenož
+    - peace: měr
+    - peaceful: měrny
+    - proud: hórdy
+    - proudly: hórdy
+    - ran: běh
+    - reaction: reakcija
+    - run: běhać
+    - sad: žałostny
+    - sadly: žałostnje
+    - sadness: žałosć
+    - shame: hanba
+    - she: wona
+    - shows: pokazuje
+    - soul: duše
+    - spoke: rěčeše
+    - strong: sylny
+    - suffer: ćerpjeć
+    - tells: praji
+    - the: to
+    - them: jim
+    - this: to
+    - to: k
+    - tremor: třěsnjenje
+    - us: nas
+    - very: wulce
+    - was: běše
+    - we: my
+    - week: tydźeń
+    - went: šoł
+    - when: hdyž
+    - with: z
+    - within: znutřka
+    - work: dźěło

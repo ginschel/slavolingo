@@ -1,0 +1,184 @@
+Skill:
+  Name: Food
+  Id: 6
+
+New words:
+  - Word: chlieb
+    Translation: bread
+  - Word: variť
+    Translation: to prepare
+  - Word: niesť
+    Translation: to carry
+  - Word: jesť (je)
+    Translation: to eat
+  - Word: maslo
+    Translation: butter
+  - Word: mlieko
+    Translation: milk
+  - Word: mäso
+    Translation: meat
+  - Word: vajce
+    Translation: egg
+  - Word: raňajky
+    Translation: breakfast
+  - Word: obed
+    Translation: lunch
+  - Word: kúpiť
+    Translation: to buy
+  - Word: večera
+    Translation: dinner
+  - Word: jedlo
+    Translation: dish
+  - Word: kniha
+    Translation: book
+  - Word: sladký
+    Translation: sweet
+  - Word: jedlo
+    Translation: food
+
+Phrases:
+  - Phrase: Ja jem chlieb.
+    Translation: I am eating bread.
+  - Phrase: Ona je mäso.
+    Translation: She is eating meat.
+  - Phrase: On ľúbi mlieko.
+    Translation: He likes milk.
+  - Phrase: Ja vidím Vlada s jedlom
+    Translation: I see Vlad with food
+  - Phrase: Ty ješ vajce?
+    Translation: Are you eating an egg?
+  - Phrase: My jeme večeru.
+    Translation: We are eating dinner.
+  - Phrase: Oni majú raňajky.
+    Translation: They are having breakfast.
+  - Phrase: Ja kúpim maslo.
+    Translation: I will buy butter.
+  - Phrase: On varí obed.
+    Translation: He is preparing lunch.
+  - Phrase: Ona nesie jedlo.
+    Translation: She is carrying a dish.
+  - Phrase: Oni kupujú maslo a chlieb.
+    Translation: They are buying butter and bread.
+  - Phrase: On pije mlieko a je mäso.
+    Translation: He is drinking milk and eating meat.
+  - Phrase: Čítaš ty knihu a ješ raňajky?
+    Translation: Are you reading a book and eating breakfast?
+  - Phrase: Ja vidím obed na stole.
+    Translation: I see lunch on the table.
+  - Phrase: Ty máš maslo?
+    Translation: Do you have butter?
+  - Phrase: My varíme večeru každý deň.
+    Translation: We prepare dinner every day.
+  - Phrase: Ja viem, čo ty ľúbiš vajcia.
+    Translation: I know that you like eggs.
+  - Phrase: On je sladké jedlo.
+    Translation: He eats sweet food.
+  - Phrase: Ona ľúbi variť večeru.
+    Translation: She likes to prepare dinner.
+  - Phrase: My vidíme tvoju pizzu na stole.
+    Translation: We see your pizza on the table.
+  - Phrase: Oni vedia, čo ja vždy jem chlieb s maslom.
+    Translation: They know that I always eat bread with butter.
+
+Mini-dictionary:
+  Slovak:
+    - a: and
+    - deň: day
+    - ja: I
+    - je: is
+    - jedlom: food
+    - jem: I eat
+    - jeme: we eat
+    - jesť: to eat
+    - ješ: you eat
+    - každý: every
+    - knihu: book
+    - kupujú: they buy
+    - kúpim: I will buy
+    - majú: have
+    - maslom: butter
+    - my: we
+    - máš: you have
+    - na: on
+    - nesie: carries
+    - on: he
+    - ona: she
+    - oni: they
+    - pije: drinks
+    - pizzu: pizza
+    - s: with
+    - sladké: sweet
+    - stole: table
+    - tvoju: your
+    - ty: you
+    - vajcia: eggs
+    - varí: cooks
+    - varíme: we cook
+    - vedia: they know
+    - večeru: dinner
+    - vidím: I see
+    - vidíme: we see
+    - viem: I know
+    - vlada: government
+    - vždy: always
+    - čo: what
+    - čítaš: you read
+    - ľúbi: loves
+    - ľúbiš: you love
+  English:
+    - a: jedin/один
+    - always: vždy
+    - am: som
+    - an: a
+    - and: a
+    - are: byti/быти
+    - book: kniha
+    - bread: chlieb
+    - breakfast: raňajky
+    - butter: maslo
+    - buy: kúpiť
+    - buying: kupuje
+    - carry: niesť
+    - carrying: nosí
+    - day: deň
+    - dinner: večera
+    - dish: jedlo
+    - do: robiť
+    - drinking: pitie
+    - eat: jesť
+    - eating: jedenie
+    - eats: je
+    - egg: vajce
+    - eggs: vajcia
+    - every: každý
+    - food: jedlo
+    - have: mať
+    - having: majúci
+    - he: on
+    - i: ja
+    - is: je
+    - know: vedieť
+    - like: rád
+    - likes: má rád
+    - lunch: obed
+    - meat: mäso
+    - milk: mlieko
+    - on: na
+    - pizza: pizzu
+    - prepare: pripraviť
+    - preparing: pripravuje
+    - reading: čítanie
+    - see: vidieť
+    - she: ona
+    - sweet: sladké
+    - table: stôl
+    - that: ten
+    - the: to
+    - they: oni
+    - to: do
+    - vlad: vlada
+    - we: my
+    - will: bude
+    - with: s
+    - you: ty
+    - your: tvoj

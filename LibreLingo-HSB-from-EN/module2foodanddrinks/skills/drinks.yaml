@@ -1,0 +1,188 @@
+Skill:
+  Name: Drinks
+  Id: 7
+
+New words:
+  - Word: woda
+    Translation: water
+  - Word: piwo
+    Translation: beer
+  - Word: pić
+    Translation: to drink
+  - Word: wino
+    Translation: wine
+  - Word: kawa
+    Translation: coffee
+  - Word: džus
+    Translation: juice
+  - Word: chcyć (chce)
+    Translation: to want
+  - Word: fliška
+    Translation: bottle
+  - Word: spytać namakać
+    Translation: to try to find
+  - Word: čaša
+    Translation: glass
+  - Word: butelka
+    Translation: bottle
+  - Word: čaj
+    Translation: tea
+  - Word: mloko
+    Translation: milk
+  - Word: bjez
+    Translation: without
+  - Word: za
+    Translation: for
+  - Word: z
+    Translation: from
+  - Word: pola
+    Translation: at/by
+
+Phrases:
+  - Phrase: Ja nimam wody.
+    Translation: I do not have water.
+  - Phrase: Wona njepije wina.
+    Translation: She does not drink wine.
+  - Phrase: My njepijemy piwa.
+    Translation: We do not drink beer.
+  - Phrase: Ty maš flišku džusa?
+    Translation: Do you have a bottle of juice?
+  - Phrase: Woni njekupuja butelki piwa.
+    Translation: They are not buying bottles of beer.
+  - Phrase: Wón nima kawy.
+    Translation: He does not have coffee.
+  - Phrase: Piješ bjez mloka?
+    Translation: Do you drink without milk?
+  - Phrase: Wona njepije čaja.
+    Translation: She does not drink tea.
+  - Phrase: Čaša wina za mnje, prošu.
+    Translation: A glass of wine for me, please.
+  - Phrase: Butelka wody leži na stole.
+    Translation: A bottle of water is lying on the table.
+  - Phrase: Ja lubju džus bjez cukra.
+    Translation: I like juice without sugar.
+  - Phrase: Wón njelubi kawy bjez mloka.
+    Translation: He does not like coffee without milk.
+  - Phrase: Sy ty bjez fliški?
+    Translation: Are you without a bottle?
+  - Phrase: Wona spyta namakać čašu bjez wina.
+    Translation: She is trying to find a glass without wine.
+  - Phrase: Wón nechce pić džusa.
+    Translation: He does not want to drink juice.
+  - Phrase: Ty piješ wino?
+    Translation: Do you drink wine?
+  - Phrase: To wino je z Pólskeje.
+    Translation: This wine is from Poland.
+  - Phrase: Pola Franka wodki njeje.
+    Translation: Frank has no vodka.
+  - Phrase: My pijemy z butelki piwo.
+    Translation: We are drinking beer from the bottle.
+  - Phrase: Dajće mi čašu wina, prošu.
+    Translation: Give me a glass of wine, please.
+  - Phrase: Wón pije za tebje
+    Translation: He is drinking for you
+
+Mini-dictionary:
+  Upper Sorbian:
+    - butelki: bottles
+    - chce: wants
+    - chcyć: to want
+    - cukra: sugar
+    - dajće: give
+    - džusa: juice
+    - fliški: bottles
+    - flišku: bottle
+    - franka: franc
+    - ja: i
+    - je: is
+    - kawy: coffee
+    - leži: lies
+    - lubju: i love
+    - maš: you have
+    - mi: me
+    - mloka: milk
+    - mnje: me
+    - my: we
+    - na: on
+    - namakać: to find
+    - nechce: does not want
+    - nima: has not
+    - nimam: i do not have
+    - njeje: is not
+    - njekupuja: they do not buy
+    - njelubi: does not like
+    - njepije: does not drink
+    - njepijemy: we do not drink
+    - pije: drinks
+    - pijemy: we drink
+    - piješ: you drink
+    - piwa: beer
+    - prošu: please
+    - pólskeje: polish
+    - spyta: tries
+    - spytać: to try
+    - stole: table
+    - sy: are
+    - tebje: you
+    - to: this
+    - ty: you
+    - wina: wine
+    - wodki: vodka
+    - wody: water
+    - wona: she
+    - woni: they
+    - wón: he
+    - čaja: tea
+    - čašu: cup
+  English:
+    - a: jedin/один
+    - are: byti/быти
+    - at/by: pola
+    - beer: piwo
+    - bottle: butelka
+    - bottles: butelki
+    - buying: kupuje
+    - coffee: kawa
+    - do: činić
+    - does: čini
+    - drink: pić
+    - drinking: pije
+    - find: namakać
+    - for: za
+    - frank: franka
+    - from: wot
+    - give: daj
+    - glass: škleńca
+    - has: ma
+    - have: měć
+    - he: wón
+    - i: ja
+    - is: je
+    - juice: džus
+    - like: lubić
+    - lying: leži
+    - me: mi
+    - milk: mloko
+    - no: nic
+    - not: nje
+    - of: wot
+    - on: na
+    - please: prošu
+    - poland: pólska
+    - she: wona
+    - sugar: cokor
+    - table: stół
+    - tea: čaj
+    - the: to
+    - they: woni
+    - this: to
+    - to: k
+    - try: spytać
+    - trying: spyta
+    - vodka: wodki
+    - want: chcyć
+    - water: woda
+    - we: my
+    - wine: wino
+    - without: bjez
+    - you: ty

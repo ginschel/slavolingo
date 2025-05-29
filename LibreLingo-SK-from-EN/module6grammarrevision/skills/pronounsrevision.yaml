@@ -1,0 +1,199 @@
+Skill:
+  Name: Pronouns revision
+  Id: 20
+
+New words:
+  - Word: "vedieť"
+    Translation: to know
+  - Word: "vedieť (vie)"
+    Translation: to know
+  - Word: "sen"
+    Translation: dream
+  - Word: "vec"
+    Translation: thing
+
+Phrases:
+  - Phrase: To neviem.
+    Translation: I don't know that.
+  - Phrase: O tom už dlho vie.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Koho ty vidíš?.
+    Translation: Who do you see?.
+  - Phrase: Tým, ktorí ležia spať, pokojný sen.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: O tej veci ja nič neviem.
+    Translation: I know nothing about that thing.
+  - Phrase: Hovorím s tebou.
+    Translation: I am talking with you.
+  - Phrase: Ja vidím vás.
+    Translation: I see you.
+  - Phrase: On rád byť sám so sebou.
+    Translation: He likes to be alone with himself.
+  - Phrase: Daj mne vodu.
+    Translation: Give me water.
+  - Phrase: S nami vždy všetko veselé.
+    Translation: With us everything is always cheerful.
+  - Phrase: Mňa nevidíš.
+    Translation: You don't see me.
+  - Phrase: Komu dáš dar?
+    Translation: Who do you give a gift to?
+  - Phrase: O mne hovoríš?
+    Translation: Are you talking about me?
+  - Phrase: Nie, ja nehovorím o tebe.
+    Translation: No, I don't talt about you.
+  - Phrase: O čom ty hovoríš?
+    Translation: What are you talking about?
+  - Phrase: Tie ženy sú krásne.
+    Translation: These women are beautiful.
+  - Phrase: Tých priateľov nemáš.
+    Translation: You do not have those friends.
+  - Phrase: On dáva sebe pokoj.
+    Translation: He stops troubling others.
+  - Phrase: Čo tu niet v dome?
+    Translation: What isn't at this house here?
+  - Phrase: Tomuto psovi ty dávaš kosti.
+    Translation: You give to this dog bones.
+  - Phrase: To je vaša káva alebo jej?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Slovak:
+    - alebo: or
+    - byť: to be
+    - daj: give
+    - dar: gift
+    - dlho: long
+    - dome: home
+    - dáva: gives
+    - dávaš: you give
+    - dáš: you will give
+    - hovorím: I say
+    - hovoríš: you say
+    - ja: I
+    - je: is
+    - jej: her
+    - koho: whom
+    - komu: to whom
+    - kosti: bones
+    - krásne: beautiful
+    - ktorí: who
+    - káva: coffee
+    - ležia: they lie
+    - mne: me
+    - mňa: me
+    - nami: us
+    - nehovorím: I am not speaking
+    - nemáš: you do not have
+    - nevidíš: you do not see
+    - neviem: I do not know
+    - nie: no
+    - niet: there is no
+    - nič: nothing
+    - o: about
+    - on: he
+    - pokoj: peace
+    - pokojný: peaceful
+    - priateľov: friends
+    - psovi: dog
+    - rád: glad
+    - s: with
+    - sebe: oneself
+    - sebou: oneself
+    - sen: dream
+    - so: with
+    - spať: to sleep
+    - sám: alone
+    - sú: are
+    - tebe: you
+    - tebou: you
+    - tej: that
+    - tie: those
+    - to: it
+    - tom: that
+    - tomuto: this
+    - tu: here
+    - ty: you
+    - tých: those
+    - tým: that
+    - už: already
+    - v: in
+    - vaša: your
+    - vec: thing
+    - veci: things
+    - vedieť: to know
+    - veselé: cheerful
+    - vidím: I see
+    - vidíš: you see
+    - vie: knows
+    - vodu: water
+    - vás: you
+    - všetko: everything
+    - vždy: always
+    - čo: what
+    - čom: what
+    - ženy: women
+  English:
+    - a: jedin/один
+    - about: o
+    - alone: sám
+    - always: vždy
+    - am: som
+    - are: byti/быти
+    - at: pri
+    - be: byť
+    - beautiful: krásny
+    - bones: kosti
+    - cheerful: veselý
+    - coffee: káva
+    - do: robiť
+    - dog: pes
+    - don't: nemám
+    - dream: sen
+    - everything: všetko
+    - for: pre
+    - friends: priatelia
+    - gift: dar
+    - give: dať
+    - going: idúci
+    - have: mať
+    - he: on
+    - her: jej
+    - here: tu
+    - himself: sebe
+    - house: dom
+    - i: ja
+    - is: je
+    - isn't: nie je
+    - it: to
+    - know: vedieť
+    - known: známy
+    - likes: má rád
+    - long: dlho
+    - me: mi
+    - no: nie
+    - not: nie
+    - nothing: nič
+    - or: alebo
+    - others: iní
+    - peaceful: pokojný
+    - see: vidieť
+    - sleep: spať
+    - stops: zastaví
+    - talking: rozprávanie
+    - talt: vysoký
+    - that: ten
+    - these: tieto
+    - thing: vec
+    - this: tento
+    - those: tie
+    - time: čas
+    - to: do
+    - troubling: znepokojujúce
+    - us: nás
+    - water: voda
+    - what: čo
+    - who: kto
+    - with: s
+    - women: ženy
+    - you: ty
+    - your: tvoj

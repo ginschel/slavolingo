@@ -1,0 +1,195 @@
+Skill:
+  Name: Conjugation of to be
+  Id: 1
+
+New words:
+  - Word: то
+    Translation: this (m)
+  - Word: та
+    Translation: this (f)
+  - Word: тај
+    Translation: that (m)
+  - Word: тамотај
+    Translation: that over there (f)
+  - Word: тамота
+    Translation: that over there (n)
+  - Word: јесам
+    Translation: i am
+  - Word: јеси
+    Translation: you are (sg)
+  - Word: јест
+    Translation: he is
+  - Word: јесмо
+    Translation: we are
+  - Word: јесте
+    Translation: you are (pl)
+  - Word: сут
+    Translation: they are
+  - Word: ја
+    Translation: I
+  - Word: ти
+    Translation: you
+  - Word: он
+    Translation: he
+  - Word: она
+    Translation: she
+  - Word: оно
+    Translation: it
+  - Word: ми
+    Translation: we
+  - Word: ви
+    Translation: you
+  - Word: они
+    Translation: they
+  - Word: оне
+    Translation: they
+  - Word: човек
+    Translation: person
+  - Word: жена
+    Translation: woman
+  - Word: муж
+    Translation: man
+  - Word: дете
+    Translation: child
+  - Word: пријатељ
+    Translation: friend
+  - Word: сестра
+    Translation: sister
+  - Word: родитељ
+    Translation: parent
+  - Word: дом
+    Translation: house
+  - Word: место
+    Translation: city
+  - Word: дан
+    Translation: day
+  - Word: тож
+    Translation: also
+  - Word: кто
+    Translation: who
+
+Phrases:
+  - Phrase: Ја јесам мудри.
+    Translation: I am wise.
+  - Phrase: То моја сестра.
+    Translation: This is my sister.
+  - Phrase: Она много мудра
+    Translation: She is very wise
+  - Phrase: Ми много мудри
+    Translation: We are very wise
+  - Phrase: Ви тож мудри?
+    Translation: Are you also wise?
+  - Phrase: То добри човек.
+    Translation: This is a good person.
+  - Phrase: Та жена јест добра.
+    Translation: This woman is good.
+  - Phrase: То јест мој дом.
+    Translation: This is my house.
+  - Phrase: Он то добри пријатељ
+    Translation: He is a good friend
+  - Phrase: Ви јесте добри.
+    Translation: You are good.
+  - Phrase: То сут пријатеље.
+    Translation: These are friends.
+  - Phrase: Кто ти јеси?
+    Translation: Who are you?
+  - Phrase: Тај муж мили.
+    Translation: That man is kind.
+  - Phrase: То јест пријемне место.
+    Translation: This is a pleasant city.
+  - Phrase: Та жена јест висока.
+    Translation: That woman is tall.
+  - Phrase: Тај дањ јест хладни.
+    Translation: That day is cold.
+  - Phrase: Тамотај дом јест красни.
+    Translation: That house over there is beautiful.
+  - Phrase: То моје дете.
+    Translation: This is my child.
+  - Phrase: Тамото јутро јест хладно.
+    Translation: That morning over there is cold.
+  - Phrase: То не моја сестра.
+    Translation: This is not my sister.
+  - Phrase: То не твој дом.
+    Translation: This is not your house.
+  - Phrase: То добро ауто?
+    Translation: Is this a good car?
+  - Phrase: То добри пријатеље?
+    Translation: Are these good friends?
+  - Phrase: Оне сут много миле.
+    Translation: They are very kind.
+  - Phrase: Они сут много мили
+    Translation: They are very kind
+
+Mini-dictionary:
+  Serbian:
+    - ауто: auto
+    - висока: high
+    - дањ: day
+    - добра: good
+    - добри: good
+    - добро: good
+    - красни: beautiful
+    - миле: dear
+    - мили: dear
+    - много: many
+    - мој: my
+    - моја: my
+    - моје: my
+    - мудра: wise
+    - мудри: wise
+    - не: no
+    - пријатеље: friends
+    - пријемне: pleasant
+    - тамото: there
+    - твој: your
+    - хладни: cold
+    - хладно: cold
+    - јутро: morning
+  English:
+    - a: jedin/один
+    - also: тож
+    - am: јем
+    - are: byti/быти
+    - beautiful: красни
+    - car: ауто
+    - child: дете
+    - city: град
+    - cold: хладни
+    - day: дан
+    - f: undef
+    - friend: пријатељ
+    - friends: пријатељами
+    - good: добра
+    - he: он
+    - house: кућа
+    - i: ја
+    - is: је
+    - it: оно
+    - kind: љубазан
+    - m: undef
+    - man: човек
+    - morning: јутро
+    - my: мој
+    - n: undef
+    - not: не
+    - over: над
+    - parent: родитељ
+    - person: особа
+    - pl: undef
+    - pleasant: пријемне
+    - sg: undef
+    - she: она
+    - sister: сестра
+    - tall: високи
+    - that: тај
+    - there: там
+    - these: ови
+    - they: они
+    - this: тај
+    - very: пра
+    - we: ми
+    - who: кто
+    - wise: мудра
+    - woman: жена
+    - you: ти
+    - your: твој

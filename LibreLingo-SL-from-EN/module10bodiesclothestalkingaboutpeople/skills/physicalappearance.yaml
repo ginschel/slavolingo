@@ -1,0 +1,234 @@
+Skill:
+  Name: Physical Appearance
+  Id: 38
+
+New words:
+  - Word: visok
+    Translation: tall
+  - Word: nizek
+    Translation: short
+  - Word: debel
+    Translation: fat
+  - Word: suh
+    Translation: thin
+  - Word: majhen
+    Translation: small
+  - Word: lep
+    Translation: beautiful
+  - Word: grd
+    Translation: ugly
+  - Word: star
+    Translation: old
+  - Word: mlad
+    Translation: young
+  - Word: lasje
+    Translation: hair
+  - Word: oči
+    Translation: eyes
+  - Word: kot
+    Translation: than
+  - Word: več
+    Translation: taller/higher
+  - Word: koža
+    Translation: skin
+  - Word: manj
+    Translation: less
+  - Word: smejati se (smeji se)
+    Translation: to laugh
+  - Word: bleščati se
+    Translation: to shine
+  - Word: zvezda
+    Translation: star
+  - Word: svetel
+    Translation: light
+  - Word: temen
+    Translation: dark
+
+Phrases:
+  - Phrase: On je bolj visok in močan kot on.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Ona je nizka in suha kot on.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Debel moški gre po ulici.
+    Translation: The fat man is walking down the street.
+  - Phrase: Suh ima manj telesne mase kot debel.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: To je bolj lep človek kot tisti.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Stari ljudje so bolj modri kot mi.
+    Translation: Old people are wiser than us.
+  - Phrase: Mlada ima veliko energije.
+    Translation: The young one has a lot of energy.
+  - Phrase: Njegovi lasje so svetli.
+    Translation: His hair is blonde.
+  - Phrase: Oči so bolj zelene kot pri njem.
+    Translation: Her eyes are greener than his.
+  - Phrase: Njegova koža je bela.
+    Translation: His skin is white.
+  - Phrase: On ima dolge lase.
+    Translation: He has long hair.
+  - Phrase: Ona ima zelene oči.
+    Translation: She has green eyes.
+  - Phrase: Koža je gladka.
+    Translation: Her skin is smooth.
+  - Phrase: Stara ženska nosi kapo.
+    Translation: The old woman wears a hat.
+  - Phrase: Mladi ljudje pogosto športajo.
+    Translation: Young people often play sports.
+  - Phrase: Debel moški se smeji bolj kot tisti grd moški.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Nizko dekle gre domov.
+    Translation: The short girl is going home.
+  - Phrase: Lepe oči se bleščijo kot zvezde na nebu.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Suh nosi bolj veliko srajco kot jaz.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Njeni lasje so svetli in dolgi.
+    Translation: Her hair is light and long.
+  - Phrase: In njegovi lepi lasje so temni kot noč.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Slovenian:
+    - bela: white
+    - bleščati: to shine
+    - bleščijo: shine
+    - bolj: more
+    - dekle: girl
+    - dolge: long
+    - dolgi: long
+    - domov: home
+    - energije: energy
+    - gladka: smooth
+    - gre: goes
+    - ima: has
+    - in: and
+    - jaz: I
+    - je: is
+    - kapo: cap
+    - lase: hair
+    - lepe: beautiful
+    - lepi: beautiful
+    - ljudje: people
+    - mase: mass
+    - mi: we
+    - mlada: young
+    - mladi: young
+    - modri: blue
+    - močan: strong
+    - moški: man
+    - na: on
+    - nebu: sky
+    - nizka: low
+    - nizko: low
+    - njegova: his
+    - njegovi: his
+    - njem: him
+    - njeni: her
+    - nosi: carries
+    - noč: night
+    - on: he
+    - ona: she
+    - po: after / by
+    - pogosto: often
+    - pri: at / by
+    - se: oneself / itself
+    - smejati: to laugh
+    - smeji: laughs
+    - so: they are
+    - srajco: shirt
+    - stara: old
+    - stari: old
+    - suha: dry / thin
+    - svetli: bright
+    - telesne: bodily
+    - temni: dark
+    - tisti: that
+    - to: this
+    - ulici: street
+    - veliko: much / many
+    - zelene: green
+    - zvezde: stars
+    - človek: human / person
+    - športajo: they play sports
+    - ženska: woman
+  English:
+    - a: jedin/один
+    - and: in
+    - are: byti/быти
+    - as: kot
+    - beautiful: lep
+    - blonde: blond
+    - body: telo
+    - dark: temen
+    - do: delati
+    - down: dol
+    - energy: energije
+    - eyes: oči
+    - fat: debel
+    - girl: dekle
+    - going: gremo
+    - green: zelen
+    - greener: bolj zelen
+    - hair: lasje
+    - has: ima
+    - hat: klobuk
+    - he: on
+    - her: njen
+    - him: mu
+    - his: njegov
+    - home: dom
+    - i: jaz
+    - in: v
+    - is: je
+    - larger: večji
+    - laugh: smejati
+    - laughs: smeji
+    - less: manj
+    - light: svetlobo
+    - like: rad
+    - long: dolg
+    - lot: veliko
+    - louder: glasneje
+    - man: moški
+    - mass: masa
+    - more: več
+    - night: noč
+    - of: od
+    - often: pogosto
+    - old: star
+    - one: en
+    - people: ljudje
+    - person: človek
+    - play: igrati
+    - she: ona
+    - shine: bleščati
+    - shirt: srajca
+    - short: kratek
+    - shorter: krajši
+    - skin: koža
+    - sky: nebo
+    - small: majhen
+    - smooth: gladka
+    - sports: športov
+    - star: zvezda
+    - stars: zvezd
+    - street: ulica
+    - stronger: močnejši
+    - tall: visok
+    - taller: višji
+    - taller/higher: visok
+    - than: kot
+    - that: da
+    - the: to
+    - thin: suh
+    - thinner: tanjši
+    - to: do
+    - ugly: grd
+    - us: nas
+    - walking: hodi
+    - wears: nosi
+    - white: bel
+    - wiser: modrejši
+    - woman: ženska
+    - young: mlad

@@ -1,0 +1,173 @@
+Skill:
+  Name: Studying & Writing
+  Id: 9
+
+New words:
+  - Word: школа
+    Translation: school
+  - Word: учителька
+    Translation: female teacher
+  - Word: учитель
+    Translation: male teacher
+  - Word: запис
+    Translation: note
+  - Word: ученик
+    Translation: student
+  - Word: кнїга
+    Translation: book
+  - Word: заданя
+    Translation: assignment
+  - Word: стол
+    Translation: table
+  - Word: туш
+    Translation: ink
+  - Word: папір
+    Translation: paper
+  - Word: предмет
+    Translation: subject
+  - Word: метода
+    Translation: method
+  - Word: перо
+    Translation: pen
+  - Word: записник
+    Translation: notebook
+  - Word: на
+    Translation: on
+
+Phrases:
+  - Phrase: Тото моя школа.
+    Translation: This is my school.
+  - Phrase: Она є учительков.
+    Translation: She is a teacher.
+  - Phrase: Он є учеником.
+    Translation: He is a student.
+  - Phrase: Кнїга є на столї.
+    Translation: The book is on the table.
+  - Phrase: Я маю заданя.
+    Translation: I have an assignment.
+  - Phrase: Туш є єщi мокрый.
+    Translation: The ink is still wet.
+  - Phrase: Папір є бiлый.
+    Translation: The paper is white.
+  - Phrase: Тотот предмет є математика.
+    Translation: This subject is mathematics.
+  - Phrase: Тота метода є добра.
+    Translation: This method is good.
+  - Phrase: Ученик має кнїгу.
+    Translation: The student has a book.
+  - Phrase: Тото є мой стол.
+    Translation: This is my desk.
+  - Phrase: Мой записник є повный записов з пером
+    Translation: My notebook is full of notes with a pen
+  - Phrase: Пишу на папірї пером.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Школа є в центрї.
+    Translation: The school is in the center.
+  - Phrase: Мы пишеме заданя.
+    Translation: We are writing the assignment.
+  - Phrase: Учитель говорити з студентами.
+    Translation: The teacher is talking with students.
+  - Phrase: Она має много задань.
+    Translation: She has many assignments.
+  - Phrase: Я барже пишу з тым пером.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Предмет є складный.
+    Translation: The subject is complex.
+  - Phrase: Кнїга є нова.
+    Translation: The book is new.
+  - Phrase: Он є моїм учителем.
+    Translation: He is my teacher.
+
+Mini-dictionary:
+  Rusin:
+    - бiлый: white
+    - барже: larger
+    - в: in
+    - говорити: speak
+    - добра: good
+    - з: from
+    - задань: assignments
+    - записов: notes
+    - кнїгу: book
+    - математика: mathematics
+    - маю: have
+    - має: has
+    - много: many
+    - мой: my
+    - мокрый: wet
+    - моя: my
+    - моїм: my
+    - мы: we
+    - нова: new
+    - он: he
+    - она: she
+    - папірї: paper
+    - пером: pen
+    - пишеме: write
+    - пишу: write
+    - повный: full
+    - складный: complex
+    - столї: table
+    - студентами: students
+    - тота: this
+    - тото: this
+    - тотот: this
+    - тым: that
+    - учеником: student
+    - учителем: teacher
+    - учительков: teacher
+    - центрї: center
+    - я: I
+    - є: is
+    - єщi: still
+  English:
+    - a: jedin/один
+    - am: єм
+    - an: єден
+    - are: byti/быти
+    - assignment: домашня робота
+    - assignments: домашнї роботы
+    - book: книжка
+    - center: центр
+    - complex: комплексный
+    - desk: бісїда
+    - female: жона
+    - full: повный
+    - good: добрый
+    - has: мать
+    - have: мати
+    - he: він
+    - i: я
+    - in: в
+    - ink: чорнило
+    - is: є
+    - male: мужскый
+    - many: много
+    - mathematics: математіка
+    - method: метод
+    - my: мій
+    - new: новый
+    - note: познамка
+    - notebook: нотовий
+    - notes: ноты
+    - of: з
+    - on: на
+    - paper: папір
+    - pen: перо
+    - quickly: швыдко
+    - school: школа
+    - she: она
+    - still: єщи
+    - student: штудент
+    - students: штуденты
+    - subject: предмет
+    - table: стіл
+    - talking: говорить
+    - teacher: учитель
+    - the: to
+    - this: тот
+    - we: мы
+    - wet: мокрый
+    - white: білый
+    - with: з
+    - writing: пише

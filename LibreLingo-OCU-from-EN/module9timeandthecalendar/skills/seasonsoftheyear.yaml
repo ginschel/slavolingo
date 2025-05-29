@@ -1,0 +1,188 @@
+Skill:
+  Name: Seasons of the year
+  Id: 33
+
+New words:
+  - Word: лѣто
+    Translation: summer
+  - Word: ѥсєнь
+    Translation: autumn
+  - Word: зима
+    Translation: winter
+  - Word: вєсьна
+    Translation: spring
+  - Word: сєзонъ
+    Translation: season
+  - Word: бꙑти
+    Translation: to be
+  - Word: бꙋдѫ
+    Translation: I will be
+  - Word: бꙋдєши
+    Translation: you will be
+  - Word: бꙋдєтъ
+    Translation: he/she/it will be
+  - Word: бꙋдємъ
+    Translation: we will be
+  - Word: бꙋдєтє
+    Translation: you will be
+  - Word: бꙋдѫтъ
+    Translation: they will be
+
+Phrases:
+  - Phrase: Въ лѣтꙋ бꙋдєтъ тєпло.
+    Translation: In the summer it will be warm.
+  - Phrase: Въ ѥсєни бꙋдємъ видѣти падаѭщи листꙑ.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: Въ зимѣ бꙋдєтє играти съ снѣгомъ.
+    Translation: In the winter you will play with snow.
+  - Phrase: Вєсьна принесєтъ цвѣтꙑ.
+    Translation: Spring will bring flowers.
+  - Phrase: Сєзонъ бꙋдєтъ измѣнѧти сѧ чєтꙑри разꙑ.
+    Translation: The season will change four times.
+  - Phrase: Въ зимѣ бꙋдєтъ падати снѣгъ.
+    Translation: In the winter it will snow.
+  - Phrase: Вєсноѭ растꙋтъ цвѣтꙑ.
+    Translation: In spring, flowers grow.
+  - Phrase: Въ лѣтꙋ ѥстъ мьного слъньца.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: Въ ѥсєни бꙋдєши мьного тръпѣти чрѣзъ дъждь.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Възъдꙋхъ въ зимѣ бꙋдєтъ хладьнъ.
+    Translation: The air in winter will be cold.
+  - Phrase: Лѣто ѥстъ сєзономъ отьпочинька при ѥзєрꙋ.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Ѥсєнь имаѥтъ мьного кологовъ.
+    Translation: Autumn has many colors.
+  - Phrase: Зима нє ѥстъ добра за спортъовъ.
+    Translation: Winter is not good for sports.
+  - Phrase: Вєсьна ѥстъ нꙋдьна.
+    Translation: Spring is boring.
+  - Phrase: Сєзонꙑ сѧ мѣнѧѭтъ чєтꙑри разꙑ въ рокꙋ.
+    Translation: The seasons change four times a year.
+  - Phrase: Скоро коньчаѥтъ сѧ лѣто.
+    Translation: Summer will soon end.
+  - Phrase: Въ ѥсєни тълико падаѥтъ дъждь.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Зима имаѥтъ мьного снѣга.
+    Translation: Winter has a lot of snow.
+  - Phrase: Они бꙋдѫтъ видѣти зєлєнъи краиобразъ.
+    Translation: They will see a green landscape.
+  - Phrase: Слъньцє бꙋдєтъ свѣтити силььно въ лѣтꙋ.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Old Church Slavonic:
+    - видѣти: to see
+    - въ: in, at
+    - възъдꙋхъ: air
+    - вєсноѭ: in spring
+    - добра: good (feminine)
+    - дъждь: rain
+    - за: for, behind
+    - зимѣ: in winter
+    - зєлєнъи: green
+    - играти: to play
+    - измѣнѧти: to change
+    - имаѥтъ: he/she/it has
+    - кологовъ: of the colors
+    - коньчаѥтъ: it ends
+    - краиобразъ: landscape
+    - листꙑ: leaves
+    - лѣтꙋ: in summer
+    - мьного: much, many
+    - мѣнѧѭтъ: they change
+    - нє: no, not
+    - нꙋдьна: boring (feminine)
+    - они: they (masculine)
+    - отьпочинька: of rest
+    - падати: to fall
+    - падаѥтъ: it falls
+    - падаѭщи: falling
+    - при: at, near
+    - принесєтъ: he/she/it will bring
+    - разꙑ: times
+    - растꙋтъ: they grow
+    - рокꙋ: in the year
+    - свѣтити: to shine
+    - силььно: strongly
+    - скоро: soon
+    - слъньца: of the sun
+    - слъньцє: sun
+    - снѣга: of snow
+    - снѣгомъ: with snow
+    - снѣгъ: snow
+    - спортъовъ: of sports
+    - съ: with
+    - сєзономъ: with the season
+    - сєзонꙑ: seasons
+    - сѧ: oneself (reflexive pronoun)
+    - тръпѣти: to suffer, to be patient
+    - тълико: so much
+    - тєпло: warm (neuter)
+    - хладьнъ: cold
+    - цвѣтꙑ: flowers
+    - чрѣзъ: through
+    - чєтꙑри: four
+    - ѥзєрꙋ: to the lake
+    - ѥстъ: he/she/it is
+    - ѥсєни: in autumn
+  English:
+    - a: jedin/один
+    - air: възъдꙋхъ
+    - autumn: ѥсєнь
+    - be: бꙑти
+    - because: за то чьто
+    - boring: нꙋдьнъ
+    - bring: принєсти
+    - by: (expressed by case)
+    - change: измѣнѧти
+    - cold: хладънъ
+    - colors: колорꙑ
+    - end: коньць
+    - falling: падаѥтъ
+    - flowers: цвѣтꙑ
+    - for: за, на
+    - four: чєтꙑри
+    - good: добръ
+    - green: зєлєнъ
+    - grow: расти
+    - has: имаѥтъ
+    - he/she/it: онъ, она, оно
+    - i: азъ, ꙗ
+    - in: въ
+    - is: ѥстъ
+    - it: ono
+    - lake: ѥзєро
+    - landscape: краиобразъ
+    - leaves: листиѥ
+    - lot: мьного
+    - many: мьного
+    - not: нє
+    - of: (genitive case)
+    - play: играти
+    - rain: дъждь
+    - rest: отьпочинъкъ
+    - season: сєзонъ
+    - seasons: сєзонꙑ
+    - see: видѣти
+    - shine: блѣскати
+    - snow: снѣгъ
+    - soon: скоро
+    - sports: спортъ
+    - spring: вєсьна
+    - strongly: силььно
+    - suffer: тръпѣти
+    - summer: лѣто
+    - sun: слъньцє
+    - the: to
+    - there: тамъ
+    - they: они, онꙑ
+    - times: разꙑ
+    - to: къ, на
+    - warm: тєплъ
+    - we: мꙑ
+    - will: (future tense expressed by verb form)
+    - winter: зима
+    - with: съ
+    - year: рокъ
+    - you: тꙑ, вꙑ

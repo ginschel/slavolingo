@@ -1,0 +1,201 @@
+Skill:
+  Name: Pronouns revision
+  Id: 20
+
+New words:
+  - Word: "znać (fakty)"
+    Translation: to know
+  - Word: "wiedzieć (wie)"
+    Translation: to know
+  - Word: "sen"
+    Translation: dream
+  - Word: "rzecz"
+    Translation: thing
+
+Phrases:
+  - Phrase: Tego nie znam.
+    Translation: I don't know that.
+  - Phrase: O tym już długo wiem.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Kogo widzisz?
+    Translation: Who do you see?.
+  - Phrase: Tym, którzy kładą się spać, spokojnego snu.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: O tej rzeczy ja nic nie wiem.
+    Translation: I know nothing about that thing.
+  - Phrase: Rozmawiam z tobą.
+    Translation: I am talking with you.
+  - Phrase: Ja widzę was.
+    Translation: I see you.
+  - Phrase: On lubi być sam ze sobą.
+    Translation: He likes to be alone with himself.
+  - Phrase: Daj mi wodę.
+    Translation: Give me water.
+  - Phrase: Z nami zawsze wszystko wesoło.
+    Translation: With us everything is always cheerful.
+  - Phrase: Mnie nie widzisz.
+    Translation: You don't see me.
+  - Phrase: Komu dasz prezent?
+    Translation: Who do you give a gift to?
+  - Phrase: O mnie mówisz?
+    Translation: Are you talking about me?
+  - Phrase: Nie, ja nie mówię o tobie.
+    Translation: No, I don't talt about you.
+  - Phrase: O czym mówisz?
+    Translation: What are you talking about?
+  - Phrase: Te kobiety są piękne.
+    Translation: These women are beautiful.
+  - Phrase: Tych przyjaciół nie masz.
+    Translation: You do not have those friends.
+  - Phrase: On daje sobie spokój.
+    Translation: He stops troubling others.
+  - Phrase: Czego tu nie ma w domu?
+    Translation: What isn't at this house here?
+  - Phrase: Temu psu dajesz kości.
+    Translation: You give to this dog bones.
+  - Phrase: To wasza kawa czy jej?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Polish:
+    - być: be
+    - czego: what
+    - czy: whether
+    - czym: what
+    - daj: give
+    - daje: gives
+    - dajesz: you give
+    - dasz: you will give
+    - domu: home
+    - długo: long
+    - fakty: facts
+    - ja: I
+    - jej: her
+    - już: already
+    - kawa: coffee
+    - kobiety: woman
+    - kogo: whom
+    - komu: to whom
+    - kości: bones
+    - którzy: who
+    - kładą: lay
+    - lubi: likes
+    - ma: has
+    - masz: you have
+    - mi: me
+    - mnie: me
+    - mówisz: you say
+    - mówię: I say
+    - nami: us
+    - nic: nothing
+    - nie: no
+    - o: about
+    - on: he
+    - piękne: beautiful
+    - prezent: present
+    - przyjaciół: friends
+    - psu: dog
+    - rozmawiam: I talk
+    - rzecz: thing
+    - rzeczy: things
+    - sam: alone
+    - sen: dream
+    - się: oneself
+    - snu: sleep
+    - sobie: oneself
+    - sobą: oneself
+    - spać: sleep
+    - spokojnego: calm
+    - spokój: peace
+    - są: are
+    - te: these
+    - tego: this
+    - tej: this
+    - temu: ago
+    - to: this
+    - tobie: you
+    - tobą: you
+    - tu: here
+    - tych: these
+    - tym: this
+    - w: in
+    - was: you
+    - wasza: your
+    - wesoło: cheerfully
+    - widzisz: you see
+    - widzę: I see
+    - wie: knows
+    - wiedzieć: know
+    - wiem: I know
+    - wodę: water
+    - wszystko: everything
+    - z: with
+    - zawsze: always
+    - ze: from
+    - znam: I know
+    - znać: know
+  English:
+    - a: jedin/один
+    - about: o
+    - alone: sam
+    - always: zawsze
+    - am: jestem
+    - are: byti/быти
+    - at: w
+    - be: być
+    - beautiful: piękna
+    - bones: kości
+    - cheerful: wesoły
+    - coffee: kawa
+    - do: robić
+    - dog: pies
+    - don't: nie
+    - dream: sen
+    - everything: wszystko
+    - for: dla
+    - friends: przyjaciele
+    - gift: prezent
+    - give: dać
+    - going: idzie
+    - have: mieć
+    - he: on
+    - her: jej
+    - here: tu
+    - himself: siebie
+    - house: dom
+    - i: ja
+    - is: jest
+    - isn't: nie jest
+    - it: to
+    - know: znać
+    - known: znany
+    - likes: lubi
+    - long: długi
+    - me: mnie
+    - no: nie
+    - not: nie
+    - nothing: nic
+    - or: lub
+    - others: inni
+    - peaceful: spokojny
+    - see: widzieć
+    - sleep: spać
+    - stops: zatrzymuje
+    - talking: rozmawianie
+    - talt: wysoki
+    - that: że
+    - these: te
+    - thing: rzecz
+    - this: to
+    - those: tamte
+    - time: czas
+    - to: do
+    - troubling: kłopotliwy
+    - us: nas
+    - water: woda
+    - what: co
+    - who: kto
+    - with: z
+    - women: kobiet
+    - you: ty
+    - your: twój

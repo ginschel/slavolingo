@@ -1,0 +1,232 @@
+Skill:
+  Name: Greetings & Phrases
+  Id: 2
+
+New words:
+  - Word: pozdrav
+    Translation: greeting
+  - Word: zdrav/bok
+    Translation: healthy/hello
+  - Word: razgovor
+    Translation: conversation
+  - Word: jutro
+    Translation: morning
+  - Word: večer
+    Translation: evening
+  - Word: dan
+    Translation: day
+  - Word: noć
+    Translation: night
+  - Word: hvala
+    Translation: thanks
+  - Word: pardon/oprostite
+    Translation: pardon
+  - Word: ispričaj
+    Translation: excuse me
+  - Word: dobar
+    Translation: good
+  - Word: bolje
+    Translation: better
+  - Word: moguće
+    Translation: possible
+  - Word: šteta
+    Translation: pity
+  - Word: tako
+    Translation: so
+  - Word: što
+    Translation: what
+  - Word: ne
+    Translation: no
+  - Word: da
+    Translation: yes
+  - Word: možda
+    Translation: maybe/can
+  - Word: daj
+    Translation: let's go
+
+Phrases:
+  - Phrase: Dobro jutro!
+    Translation: Good morning!
+  - Phrase: Dobar večer!
+    Translation: Good evening!
+  - Phrase: Dobar dan!
+    Translation: Good day!
+  - Phrase: Laku noć!
+    Translation: Good night!
+  - Phrase: Kako si?
+    Translation: How are you?
+  - Phrase: Dobro sam, hvala!
+    Translation: I am well, thank you!
+  - Phrase: A ti?
+    Translation: And you?
+  - Phrase: Hvala ti mnogo.
+    Translation: Thank you very much.
+  - Phrase: Oprostite, ne razumijem.
+    Translation: Excuse me, I don't understand.
+  - Phrase: Pozdrav!
+    Translation: Greetings!
+  - Phrase: Bok!
+    Translation: Hello!
+  - Phrase: Dobar dan, kako si?
+    Translation: Good day, how are you?
+  - Phrase: Jesi li zdrav?
+    Translation: Are you healthy?
+  - Phrase: Dobrodošli!
+    Translation: Welcome!
+  - Phrase: Na zdravlje!
+    Translation: To your health!
+  - Phrase: Pozdravi svoju sestru.
+    Translation: Greet your sister.
+  - Phrase: Kako se zoveš?
+    Translation: What is your name?
+  - Phrase: Zovem se Bartek.
+    Translation: My name is Bartek.
+  - Phrase: Hvala za razgovor.
+    Translation: Thank you for the conversation.
+  - Phrase: Tako je.
+    Translation: That is so.
+  - Phrase: Nije tako.
+    Translation: Not so.
+  - Phrase: Možda.
+    Translation: Maybe.
+  - Phrase: Nije moguće.
+    Translation: Not possible.
+  - Phrase: Šteta!
+    Translation: What a pity!
+  - Phrase: Dobro!
+    Translation: Good!
+  - Phrase: Nije dobro.
+    Translation: Not good.
+  - Phrase: To je bolje.
+    Translation: This is better.
+  - Phrase: To nije bolje.
+    Translation: This is not better.
+  - Phrase: Da, možda.
+    Translation: Yes, it is possible.
+  - Phrase: Ne, nije moguće.
+    Translation: No, it is not possible.
+  - Phrase: Je li to moguće?
+    Translation: Is this possible?
+  - Phrase: Što to znači?
+    Translation: What does this mean?
+  - Phrase: Također ja.
+    Translation: Me too.
+  - Phrase: S Bogom!
+    Translation: Go with God!
+  - Phrase: Ne znam.
+    Translation: I don't know.
+  - Phrase: Možda.
+    Translation: Perhaps.
+  - Phrase: Ponovi. Nisam razumio.
+    Translation: Repeat. I didn't understand.
+  - Phrase: Jesi li gotov?
+    Translation: Are you ready?
+  - Phrase: Daj!
+    Translation: Let's go!
+
+Mini-dictionary:
+  Croatian:
+    - a: and
+    - bartek: Bartek
+    - bogom: God
+    - bok: hi
+    - dobro: good
+    - dobrodošli: welcome
+    - gotov: finished
+    - ja: I
+    - je: is
+    - jesi: are
+    - kako: how
+    - laku: good (night)
+    - li: whether
+    - mnogo: many
+    - na: on
+    - nije: is not
+    - nisam: I am not
+    - oprostite: excuse me
+    - ponovi: repeat
+    - pozdravi: greetings
+    - razumijem: I understand
+    - razumio: understood
+    - s: with
+    - sam: I am
+    - se: oneself
+    - sestru: sister
+    - si: are
+    - svoju: his/her/its
+    - također: also
+    - ti: you
+    - to: that
+    - za: for
+    - zdrav: healthy
+    - zdravlje: health
+    - znam: I know
+    - znači: means
+    - zovem: I call
+    - zoveš: you call
+  English:
+    - a: jedin/один
+    - am: sam
+    - and: i
+    - are: byti/быти
+    - bartek: bartek
+    - better: bolje
+    - conversation: razgovor
+    - day: dan
+    - didn't: nije
+    - does: radi
+    - don't: nemam
+    - evening: večer
+    - excuse: oprostite
+    - for: za
+    - go: ići
+    - god: bogom
+    - good: dobar
+    - greet: pozdravi
+    - greeting: pozdrav
+    - greetings: pozdravi
+    - health: zdravlje
+    - healthy: zdrav
+    - healthy/hello: zdrav/bok
+    - hello: zdravo
+    - how: kako
+    - i: ja
+    - is: je
+    - it: to
+    - know: znati
+    - let's: idemo
+    - maybe: možda
+    - maybe/can: možda
+    - me: mene
+    - mean: znači
+    - morning: jutro
+    - much: koliko
+    - my: moj
+    - name: ime
+    - night: noć
+    - no: ne
+    - not: ne
+    - pardon: pardon/oprostite
+    - perhaps: možda
+    - pity: šteta
+    - possible: moguće
+    - ready: spreman
+    - repeat: ponovi
+    - sister: sestra
+    - so: tako
+    - thank: hvala
+    - thanks: hvala
+    - that: taj
+    - the: to
+    - this: ovaj
+    - to: do
+    - too: previše
+    - understand: razumijem
+    - very: vrlo
+    - welcome: dobrodošli
+    - well: dobro
+    - what: što
+    - with: sa
+    - yes: da
+    - you: ti
+    - your: tvoj

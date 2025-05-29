@@ -1,0 +1,192 @@
+Skill:
+  Name: Seasons of the year
+  Id: 33
+
+New words:
+  - Word: ljeto
+    Translation: summer
+  - Word: jesen
+    Translation: autumn
+  - Word: zima
+    Translation: winter
+  - Word: proljeće
+    Translation: spring
+  - Word: sezona
+    Translation: season
+  - Word: biti
+    Translation: to be
+  - Word: bit ću
+    Translation: I will be
+  - Word: bit ćeš
+    Translation: you will be
+  - Word: bit će
+    Translation: he/she/it will be
+  - Word: bit ćemo
+    Translation: we will be
+  - Word: bit ćete
+    Translation: you will be
+  - Word: bit će
+    Translation: they will be
+
+Phrases:
+  - Phrase: Ljeti će biti toplo.
+    Translation: In the summer it will be warm.
+  - Phrase: U jesen ćemo vidjeti padajuće lišće.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: Zimi ćete se igrati sa snijegom.
+    Translation: In the winter you will play with snow.
+  - Phrase: Proljeće će donijeti cvijeće.
+    Translation: Spring will bring flowers.
+  - Phrase: Sezona će se promijeniti četiri puta.
+    Translation: The season will change four times.
+  - Phrase: Zimi će padati snijeg.
+    Translation: In the winter it will snow.
+  - Phrase: U proljeće raste cvijeće.
+    Translation: In spring, flowers grow.
+  - Phrase: Ljeti ima mnogo sunca.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: U jesen ćete mnogo trpjeti zbog kiše.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Zrak zimi bit će hladan.
+    Translation: The air in winter will be cold.
+  - Phrase: Ljeto je sezona odmora na jezeru.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Jesen ima mnogo boja.
+    Translation: Autumn has many colors.
+  - Phrase: Zima nije dobra za sportaše.
+    Translation: Winter is not good for sports.
+  - Phrase: Proljeće je dosadno.
+    Translation: Spring is boring.
+  - Phrase: Sezone se mijenjaju četiri puta godišnje.
+    Translation: The seasons change four times a year.
+  - Phrase: Uskoro završava ljeto.
+    Translation: Summer will soon end.
+  - Phrase: U jesen samo pada kiša.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Zima ima mnogo snijega.
+    Translation: Winter has a lot of snow.
+  - Phrase: Oni će vidjeti zeleni krajolik.
+    Translation: They will see a green landscape.
+  - Phrase: Sunce će jako sjati ljeti.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Croatian:
+    - bit: be
+    - boja: color
+    - cvijeće: flowers
+    - dobra: good
+    - donijeti: to bring
+    - dosadno: boring
+    - godišnje: annually
+    - hladan: cold
+    - igrati: to play
+    - ima: has
+    - jako: very
+    - je: is
+    - jezeru: lake
+    - kiša: rain
+    - kiše: rain
+    - krajolik: landscape
+    - lišće: leaves
+    - ljeti: in summer
+    - mijenjaju: they change
+    - mnogo: many
+    - na: on
+    - nije: is not
+    - odmora: rest
+    - oni: they
+    - pada: falls
+    - padajuće: falling
+    - padati: to fall
+    - promijeniti: to change
+    - puta: time
+    - raste: grows
+    - sa: with
+    - samo: only
+    - se: oneself
+    - sezone: seasons
+    - sjati: to shine
+    - snijeg: snow
+    - snijega: snow
+    - snijegom: snow
+    - sportaše: athletes
+    - sunca: sun
+    - sunce: sun
+    - toplo: warm
+    - trpjeti: to suffer
+    - u: in
+    - uskoro: soon
+    - vidjeti: to see
+    - za: for
+    - završava: ends
+    - zbog: because of
+    - zeleni: green
+    - zimi: in winter
+    - zrak: air
+    - će: will
+    - ćemo: we will
+    - ćete: you will
+    - ćeš: you will
+    - ću: I will
+    - četiri: four
+  English:
+    - a: jedin/один
+    - air: zrak
+    - autumn: jesen
+    - be: biti
+    - because: jer
+    - boring: dosadno
+    - bring: donijeti
+    - by: po
+    - change: promijeniti
+    - cold: hladan
+    - colors: boje
+    - end: kraj
+    - falling: padajuće
+    - flowers: cvijeće
+    - for: za
+    - four: četiri
+    - good: dobar
+    - green: zelen
+    - grow: rasti
+    - has: ima
+    - he/she/it: on/ona/ono
+    - i: ja
+    - in: u
+    - is: je
+    - it: to
+    - lake: jezeru
+    - landscape: krajolik
+    - leaves: lišće
+    - lot: mnogo
+    - many: mnogo
+    - not: ne
+    - of: od
+    - play: igrati
+    - rain: kiša
+    - rest: odmor
+    - season: sezona
+    - seasons: sezone
+    - see: vidjeti
+    - shine: sjati
+    - snow: snijeg
+    - soon: uskoro
+    - sports: sportaše
+    - spring: proljeće
+    - strongly: jako
+    - suffer: trpjeti
+    - summer: ljeto
+    - sun: sunce
+    - the: to
+    - there: tamo
+    - they: oni
+    - times: puta
+    - to: do
+    - warm: topao
+    - we: mi
+    - will: će
+    - winter: zima
+    - with: sa
+    - year: godina
+    - you: ti

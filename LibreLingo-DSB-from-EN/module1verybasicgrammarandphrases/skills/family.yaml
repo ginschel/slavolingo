@@ -1,0 +1,186 @@
+Skill:
+  Name: Family
+  Id: 3
+
+New words:
+  - Word: bratš
+    Translation: brother
+  - Word: źěd
+    Translation: grandfather
+  - Word: babka
+    Translation: grandmother
+  - Word: śěśka
+    Translation: aunt
+  - Word: wnuk
+    Translation: grandson
+  - Word: wnucka
+    Translation: granddaughter
+  - Word: maś
+    Translation: mother
+  - Word: wótšc
+    Translation: father
+  - Word: familija
+    Translation: family
+  - Word: syn
+    Translation: son
+  - Word: źowka
+    Translation: daughter
+  - Word: wuj (wótcowy bratš)
+    Translation: uncle
+  - Word: powěda
+    Translation: speaks
+  - Word: źe
+    Translation: goes
+  - Word: źomy
+    Translation: we go
+  - Word: źiwe
+    Translation: lives
+
+Phrases:
+  - Phrase: Wón jo z mójim bratšom.
+    Translation: He is my brother.
+  - Phrase: Wón jo z twójim wótšcom
+    Translation: He is your father
+  - Phrase: Wóna źe z maśoju.
+    Translation: She is going with her mother.
+  - Phrase: Wón powěda z źědom.
+    Translation: He is talking with his grandfather.
+  - Phrase: My gramy z našymi źiśimi.
+    Translation: We are playing with our children.
+  - Phrase: Wóni jězu z śěśkoju.
+    Translation: They are going with their aunt.
+  - Phrase: Powědam z twójeju sotšu.
+    Translation: I am talking with your sister.
+  - Phrase: Źom do parka z familiju.
+    Translation: We are going to the park with the family.
+  - Phrase: Wón jo z wnukom.
+    Translation: He is with his grandson.
+  - Phrase: Wóna gra z wnucku.
+    Translation: She is playing with her granddaughter.
+  - Phrase: Piś piwo z maśoju jo lěpše.
+    Translation: Drinking tea with mother is better.
+  - Phrase: Z kim ty źeš?
+    Translation: Who are you going with?
+  - Phrase: Wóna powěda z mójeju babku.
+    Translation: She is talking with my grandmother.
+  - Phrase: To jo z domom z familiju.
+    Translation: This is a house with a family.
+  - Phrase: Wón źiwe z synom.
+    Translation: He lives with his son.
+  - Phrase: Źomy na spacer z bratšami.
+    Translation: We are going for a walk with brothers.
+  - Phrase: Źomy z źowku.
+    Translation: We are going with our daughter.
+  - Phrase: Wóni su tu z źědom.
+    Translation: They are here with their grandfather.
+  - Phrase: Wón źiwe z śěśkoju a z wujom.
+    Translation: He lives with his aunt and uncle.
+  - Phrase: Wóna powěda z wnukom cesto.
+    Translation: She talks with her grandson often.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: and
+    - babku: grandmother
+    - bratšami: brothers
+    - bratšom: brother
+    - cesto: often
+    - do: to, into
+    - domom: home
+    - familiju: family
+    - gra: plays
+    - gramy: grams
+    - jo: yes
+    - jězu: I drive
+    - kim: whom
+    - lěpše: better
+    - maśoju: mother
+    - my: we
+    - mójeju: my
+    - mójim: my
+    - na: on
+    - našymi: our
+    - parka: park
+    - piwo: beer
+    - piś: to drink
+    - powědam: I tell
+    - sotšu: sister
+    - spacer: walk
+    - su: are
+    - synom: son
+    - to: this
+    - tu: here
+    - twójeju: your
+    - twójim: your
+    - ty: you
+    - wnucku: granddaughter
+    - wnukom: grandson
+    - wuj: uncle
+    - wujom: uncle
+    - wón: he
+    - wóna: she
+    - wóni: they
+    - wótcowy: father's
+    - wótšcom: angle
+    - z: with
+    - śěśkoju: path
+    - źeš: you go
+    - źiśimi: children
+    - źom: I go
+    - źowku: girl
+    - źědom: grandfather
+  English:
+    - a: jedin/один
+    - am: som
+    - and: a
+    - are: byti/быти
+    - aunt: śěś
+    - better: lěpjej
+    - brother: bratš
+    - brothers: bratšy
+    - children: źiśi
+    - daughter: źowka
+    - drinking: pijućy
+    - family: familija
+    - father: nan
+    - for: za
+    - go: hyś
+    - goes: źo
+    - going: źucy
+    - granddaughter: wnucka
+    - grandfather: źěd
+    - grandmother: babka
+    - grandson: wnučk
+    - he: wón
+    - her: ju
+    - here: how
+    - his: jogo
+    - house: dom
+    - i: ja
+    - is: jo
+    - lives: žyjo
+    - mother: maś
+    - my: mój
+    - often: cesćej
+    - our: naš
+    - park: park
+    - playing: grajucy
+    - she: wóna
+    - sister: sotša
+    - son: syn
+    - speaks: rěca
+    - talking: rozgronjujucy
+    - talks: rozgronjo
+    - tea: teja
+    - the: to
+    - their: jich
+    - they: wóni
+    - this: toś
+    - to: do
+    - uncle: wuj
+    - walk: hyś
+    - we: my
+    - who: chto
+    - with: z
+    - you: ty
+    - your: twój

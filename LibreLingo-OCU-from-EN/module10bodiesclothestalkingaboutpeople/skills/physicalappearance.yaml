@@ -1,0 +1,236 @@
+Skill:
+  Name: Physical Appearance
+  Id: 38
+
+New words:
+  - Word: вꙑсокъи
+    Translation: tall
+  - Word: низъкъи
+    Translation: short
+  - Word: дєбєлъ
+    Translation: fat
+  - Word: хꙋдъ
+    Translation: thin
+  - Word: малъи
+    Translation: small
+  - Word: красьнъ
+    Translation: beautiful
+  - Word: бридъкъ
+    Translation: ugly
+  - Word: старъ
+    Translation: old
+  - Word: младъ
+    Translation: young
+  - Word: власꙑ
+    Translation: hair
+  - Word: очи
+    Translation: eyes
+  - Word: нєже
+    Translation: than
+  - Word: вꙑшє
+    Translation: taller/higher
+  - Word: кожа
+    Translation: skin
+  - Word: мєньѥ
+    Translation: less
+  - Word: смѣїти сѧ (смѣѥтъ сѧ)
+    Translation: to laugh
+  - Word: блѣскати
+    Translation: to shine
+  - Word: звѣзда
+    Translation: star
+  - Word: свѣтълъ
+    Translation: light
+  - Word: тьмьнъ
+    Translation: dark
+
+Phrases:
+  - Phrase: Онъ ѥстъ вꙑшє вꙑсокъи и силььнъ нєже онъ.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Она ѥстъ низъка и хꙋда какъ онъ.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Дєбєлъи мѫжь идєтъ по ылици.
+    Translation: The fat man is walking down the street.
+  - Phrase: Хꙋдъи имаѥтъ мєньѥ тѣлєснои масꙑ нєже дєбєлъи.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: Сь ѥстъ вꙑшє красьнъ чловѣкъ нєже тъи.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Стари люди сѫтъ вꙑшє мѫдри нєже мꙑ.
+    Translation: Old people are wiser than us.
+  - Phrase: Млада имаѥтъ мьного єнєргии.
+    Translation: The young one has a lot of energy.
+  - Phrase: Ѥго власꙑ сѫтъ плави.
+    Translation: His hair is blonde.
+  - Phrase: Очи сѫтъ вꙑшє зєлєнє нєже оу нѥго.
+    Translation: Her eyes are greener than his.
+  - Phrase: Кожа ѥго ѥстъ бѣла.
+    Translation: His skin is white.
+  - Phrase: Онъ имаѥтъ дълъгє власꙑ.
+    Translation: He has long hair.
+  - Phrase: Она имаѥтъ зєлєнє очи.
+    Translation: She has green eyes.
+  - Phrase: Кожа ѥстъ гладка.
+    Translation: Her skin is smooth.
+  - Phrase: Стара жена носитъ шапькѫ.
+    Translation: The old woman wears a hat.
+  - Phrase: Млади люди часто спортꙋѭтъ.
+    Translation: Young people often play sports.
+  - Phrase: Дєбєлъи мѫжь смѣѥтъ сѧ вꙑшє нєже тъи бридъкъи мѫжь.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Низъка дѣвъка идєтъ до дома.
+    Translation: The short girl is going home.
+  - Phrase: Красивє очи блѣскаѭтъ какъ звѣздꙑ на нєбꙋ.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Хꙋдъи носитъ вꙑшє вєликꙋ кошꙋлѭ нєже ꙗ.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Ѥѩ власꙑ сѫтъ свѣтлє и дълъгє.
+    Translation: Her hair is light and long.
+  - Phrase: А ѥго красьнє власꙑ сѫтъ тьмьнє какъ нощь.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Old Church Slavonic:
+    - а: and, but
+    - блѣскаѭтъ: they shine
+    - бридъкъи: ugly
+    - бѣла: white (feminine)
+    - вєликꙋ: big, great (accusative)
+    - гладка: smooth (feminine)
+    - до: to, until
+    - дома: at home
+    - дълъгє: long (neuter)
+    - дєбєлъи: thick, fat
+    - дѣвъка: girl
+    - жена: wife, woman
+    - звѣздꙑ: stars
+    - зєлєнє: green (plural)
+    - и: and
+    - идєтъ: he/she/it goes
+    - имаѥтъ: he/she/it has
+    - какъ: how
+    - кошꙋлѭ: shirt (accusative)
+    - красивє: beautifully
+    - красьнє: beautifully
+    - люди: people
+    - масꙑ: of the mass
+    - млада: young (feminine)
+    - млади: young (plural)
+    - мьного: much, many
+    - мѫдри: wise (plural)
+    - мѫжь: husband, man
+    - мꙑ: we
+    - на: on, to
+    - низъка: low (feminine)
+    - носитъ: he/she/it carries
+    - нощь: night
+    - нєбꙋ: to the sky
+    - нѥго: him, it
+    - она: she
+    - онъ: he
+    - оу: at, by
+    - плави: he/she/it swims
+    - по: after, along
+    - свѣтлє: brightly
+    - силььнъ: strong (masculine)
+    - смѣїти: to laugh
+    - смѣѥтъ: he/she/it laughs
+    - спортꙋѭтъ: they do sports
+    - стара: old (feminine)
+    - стари: old (plural)
+    - сь: this
+    - сѧ: oneself (reflexive pronoun)
+    - сѫтъ: they are
+    - тъи: that
+    - тьмьнє: dark (neuter)
+    - тѣлєснои: of the body
+    - хꙋда: bad (feminine)
+    - хꙋдъи: bad
+    - часто: often
+    - чловѣкъ: person, man
+    - шапькѫ: hat (accusative)
+    - ылици: on the street
+    - єнєргии: of energy
+    - ѥго: his, its
+    - ѥстъ: he/she/it is
+    - ѥѩ: her
+    - ꙗ: I
+  English:
+    - a: jedin/один
+    - and: и
+    - are: byti/быти
+    - as: ꙗко
+    - beautiful: красьнъ
+    - blonde: (no direct equivalent)
+    - body: тѣло
+    - dark: тьмьнъ
+    - do: дѣлати
+    - down: (expressed by verb prefix)
+    - energy: єнєргиꙗ
+    - eyes: очи
+    - fat: дєбєлъ
+    - girl: дѣва, дѣвъка
+    - going: идєтъ
+    - green: зєлєнъ
+    - greener: зєлєнѣи
+    - hair: власъ, власꙑ
+    - has: имаѥтъ
+    - hat: шапька
+    - he: онъ
+    - her: ѥѩ
+    - him: ѥго
+    - his: ѥго
+    - home: домъ, дома
+    - i: азъ, ꙗ
+    - in: въ
+    - is: ѥстъ
+    - larger: бол҄ьши
+    - laugh: смѣꙗти сѧ
+    - laughs: смѣѥтъ сѧ
+    - less: мьньши
+    - light: свѣтъ
+    - like: ꙗко
+    - long: дълъгъ
+    - lot: мьного
+    - louder: гласьнѣѥ
+    - man: чловѣкъ
+    - mass: маса
+    - more: болѥ
+    - night: нощь
+    - of: (genitive case)
+    - often: часто
+    - old: старъ
+    - one: ѥдинъ
+    - people: людиѥ
+    - person: чловѣкъ
+    - play: играти
+    - she: она
+    - shine: блѣскати
+    - shirt: кошꙋлꙗ
+    - short: кратъкъ
+    - shorter: кратъши
+    - skin: кожа
+    - sky: нєбо
+    - small: малъ
+    - smooth: гладъкъ
+    - sports: спортъ
+    - star: звѣзда
+    - stars: звѣздꙑ
+    - street: ылица
+    - stronger: силььнѣи
+    - tall: вꙑсокъ
+    - taller: вꙑши
+    - taller/higher: вꙑши
+    - than: нєже
+    - that: тъ, та, то
+    - the: to
+    - thin: тънъкъ
+    - thinner: тънъши
+    - to: къ, на
+    - ugly: бридъкъ
+    - us: насъ
+    - walking: ходитъ
+    - wears: носитъ
+    - white: бѣлъ
+    - wiser: мѫдрѣи
+    - woman: жена
+    - young: младъ

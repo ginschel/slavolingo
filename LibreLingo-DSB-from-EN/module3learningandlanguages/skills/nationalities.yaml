@@ -1,0 +1,169 @@
+Skill:
+  Name: Nationalities
+  Id: 11
+
+New words:
+  - Word: Słowjan
+    Translation: Slav
+  - Word: rěc
+    Translation: language
+  - Word: kraj
+    Translation: country
+  - Word: narod
+    Translation: nation
+  - Word: mě
+    Translation: name
+  - Word: Chorwatka
+    Translation: Croat
+  - Word: Ruso
+    Translation: Russian
+  - Word: Pólak
+    Translation: Pole
+  - Word: Nimc
+    Translation: German
+  - Word: Englez
+    Translation: Englishman
+
+Phrases:
+  - Phrase: Wón jo Słowjan.
+    Translation: He is a Slav.
+  - Phrase: Wóna powěda w słowjańskej rěcy.
+    Translation: She speaks the Slavic language.
+  - Phrase: To jo mója rěc.
+    Translation: This is my language.
+  - Phrase: Kraju jo Pólska.
+    Translation: The country is Poland.
+  - Phrase: Ja som Pólakom.
+    Translation: I am a Pole.
+  - Phrase: Wóna jo Chorwatka.
+    Translation: She is a Croat.
+  - Phrase: Wón jo Ruso.
+    Translation: He is a Russian.
+  - Phrase: Powědaš lě w nimskej rěcy?
+    Translation: Do you speak the German language?
+  - Phrase: Englez powěda w engelskej rěcy.
+    Translation: An Englishman speaks the English language.
+  - Phrase: My lubijomy swój narod.
+    Translation: We love our nation.
+  - Phrase: To jo mě mójogo kraja.
+    Translation: This is the name of my country.
+  - Phrase: Wón zna tśi rěcy.
+    Translation: He knows three languages.
+  - Phrase: Chorwat powěda w chorwatskej rěcy.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Nimc źiwe w Nimskej.
+    Translation: A German lives in Germany.
+  - Phrase: Wóna zna rusojsku a słowjańsku.
+    Translation: She knows Russian and Slavic.
+  - Phrase: To jo narod z bogatu kulturu.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Ty sy Englezom?
+    Translation: Are you an Englishman?
+  - Phrase: Wón powěda kuždu rěc derje.
+    Translation: He speaks every language well.
+  - Phrase: My wuknomy se rusojskeje rěcy.
+    Translation: We are learning the Russian language.
+  - Phrase: Wóna zna wjele narodow.
+    Translation: She knows many nations.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: and
+    - bogatu: rich
+    - chorwat: Croat
+    - chorwatka: Croat (female)
+    - chorwatskej: Croatian
+    - derje: well
+    - engelskej: English
+    - englez: Englishman
+    - englezom: Englishmen
+    - ja: I
+    - jo: yes
+    - kraja: country
+    - kraju: country
+    - kulturu: culture
+    - kuždu: every
+    - lubijomy: we love
+    - lě: is
+    - my: we
+    - mója: my
+    - mójogo: my
+    - narodow: nations
+    - nimc: German
+    - nimskej: German
+    - powěda: tells
+    - powědaš: you tell
+    - pólak: Pole (person)
+    - pólakom: Poles
+    - pólska: Poland
+    - ruso: Russian
+    - rusojskeje: Russian
+    - rusojsku: Russian
+    - rěcy: languages
+    - se: himself, herself, itself, themselves
+    - som: I am
+    - swój: his, her, its, their (reflexive possessive)
+    - sy: are
+    - słowjan: Slav
+    - słowjańskej: Slavic
+    - słowjańsku: Slavic
+    - to: this
+    - ty: you
+    - tśi: three
+    - w: in
+    - wjele: many
+    - wuknomy: we learn
+    - wón: he
+    - wóna: she
+    - z: with
+    - zna: knows
+    - źiwe: wild
+  English:
+    - a: jedin/один
+    - am: som
+    - an: jaden
+    - and: a
+    - are: byti/быти
+    - country: kraj
+    - croat: chorwat
+    - croatian: chorwatski
+    - culture: kultura
+    - do: cyniś
+    - english: engelski
+    - englishman: engelski
+    - every: kuždy
+    - german: nimski
+    - germany: nimska
+    - he: wón
+    - i: ja
+    - in: w
+    - is: jo
+    - knows: wě
+    - language: rěc
+    - languages: rěcy
+    - learning: wuknucy
+    - lives: žyjo
+    - love: lubowaś
+    - many: wjele
+    - my: mój
+    - name: mjeno
+    - nation: narod
+    - nations: narody
+    - of: wót
+    - our: naš
+    - poland: pólska
+    - pole: pólak
+    - rich: bogaty
+    - russian: ruski
+    - she: wóna
+    - slav: słowjański
+    - slavic: słowjański
+    - speak: rěcaś
+    - speaks: rěca
+    - the: to
+    - this: toś
+    - three: tśi
+    - we: my
+    - well: derje
+    - with: z
+    - you: ty

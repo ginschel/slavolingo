@@ -1,0 +1,236 @@
+Skill:
+  Name: Greetings & Phrases
+  Id: 2
+
+New words:
+  - Word: вітаньне
+    Translation: greeting
+  - Word: здаровы/прывіт
+    Translation: healthy/hello
+  - Word: размова
+    Translation: conversation
+  - Word: раніца
+    Translation: morning
+  - Word: вечар
+    Translation: evening
+  - Word: дзень
+    Translation: day
+  - Word: ноч
+    Translation: night
+  - Word: дзякуй
+    Translation: thanks
+  - Word: прабачце
+    Translation: pardon
+  - Word: прабач
+    Translation: excuse me
+  - Word: добры
+    Translation: good
+  - Word: лепш
+    Translation: better
+  - Word: можна
+    Translation: possible
+  - Word: шкада
+    Translation: pity
+  - Word: так
+    Translation: so
+  - Word: што
+    Translation: what
+  - Word: не
+    Translation: no
+  - Word: так (сцвярджэнне)
+    Translation: yes
+  - Word: можа быць
+    Translation: maybe/can
+  - Word: давай
+    Translation: let's go
+
+Phrases:
+  - Phrase: Добрай раніцы!
+    Translation: Good morning!
+  - Phrase: Добры вечар!
+    Translation: Good evening!
+  - Phrase: Добры дзень!
+    Translation: Good day!
+  - Phrase: Дабранач!
+    Translation: Good night!
+  - Phrase: Як ты ёсць?
+    Translation: How are you?
+  - Phrase: Я добра, дзякуй!
+    Translation: I am well, thank you!
+  - Phrase: А ты?
+    Translation: And you?
+  - Phrase: Дзякуй табе шмат.
+    Translation: Thank you very much.
+  - Phrase: Прабачце, не разумею.
+    Translation: Excuse me, I don't understand.
+  - Phrase: Прывітанне!
+    Translation: Greetings!
+  - Phrase: Прывітанне!
+    Translation: Hello!
+  - Phrase: Добры дзень, як ты ёсць?
+    Translation: Good day, how are you?
+  - Phrase: Ты ёсць здаровы?
+    Translation: Are you healthy?
+  - Phrase: Вітаем!
+    Translation: Welcome!
+  - Phrase: На здароўе!
+    Translation: To your health!
+  - Phrase: Прывітай сваю сястру.
+    Translation: Greet your sister.
+  - Phrase: Як цябе завуць?
+    Translation: What is your name?
+  - Phrase: Мяне завуць Бартэк.
+    Translation: My name is Bartek.
+  - Phrase: Дзякуй за размову.
+    Translation: Thank you for the conversation.
+  - Phrase: Так ёсць.
+    Translation: That is so.
+  - Phrase: Не так.
+    Translation: Not so.
+  - Phrase: Можа быць.
+    Translation: Maybe.
+  - Phrase: Нельга.
+    Translation: Not possible.
+  - Phrase: Шкада!
+    Translation: What a pity!
+  - Phrase: Добра!
+    Translation: Good!
+  - Phrase: Нядобра.
+    Translation: Not good.
+  - Phrase: Гэта ёсць лепш.
+    Translation: This is better.
+  - Phrase: Гэта не ёсць лепш.
+    Translation: This is not better.
+  - Phrase: Так, можа быць.
+    Translation: Yes, it is possible.
+  - Phrase: Не, нельга.
+    Translation: No, it is not possible.
+  - Phrase: Ці гэта магчыма?
+    Translation: Is this possible?
+  - Phrase: Што гэта значыць?
+    Translation: What does this mean?
+  - Phrase: Я таксама.
+    Translation: Me too.
+  - Phrase: З Богам!
+    Translation: Go with God!
+  - Phrase: Не ведаю.
+    Translation: I don't know.
+  - Phrase: Можа быць.
+    Translation: Perhaps.
+  - Phrase: Паўтары. Не зразумеў.
+    Translation: Repeat. I didn't understand.
+  - Phrase: Ты ёсць гатовы?
+    Translation: Are you ready?
+  - Phrase: Давай!
+    Translation: Let's go!
+
+Mini-dictionary:
+  Belarusian:
+    - а: a
+    - бартэк: bartek
+    - богам: god
+    - быць: be
+    - ведаю: know
+    - вітаем: welcome
+    - гатовы: ready
+    - гэта: this
+    - дабранач: goodnight
+    - добра: good
+    - добрай: good
+    - з: from
+    - за: for
+    - завуць: name
+    - здаровы: healthy
+    - здароўе: health
+    - значыць: mean
+    - зразумеў: understood
+    - магчыма: maybe/can
+    - можа: may
+    - мяне: me
+    - на: on
+    - нельга: no
+    - нядобра: bad
+    - паўтары: repeat
+    - прывітай: greet
+    - прывітанне: hello
+    - размову: conversation
+    - разумею: understand
+    - раніцы: morning
+    - сваю: my
+    - сцвярджэнне: statement
+    - сястру: sister
+    - табе: you
+    - таксама: also
+    - ты: you
+    - цябе: you
+    - ці: or
+    - шмат: much
+    - я: i
+    - як: as
+    - ёсць: is
+  English:
+    - a: jedin/один
+    - am: ёсць
+    - and: і
+    - are: byti/быти
+    - bartek: бартэк
+    - better: лепш
+    - conversation: размова
+    - day: дзень
+    - didn't: не рабіў
+    - does: робіць
+    - don't: не
+    - evening: вечар
+    - excuse: прабачэнне
+    - for: для
+    - go: ісці
+    - god: бог
+    - good: добры
+    - greet: вітаць
+    - greeting: прывітанне
+    - greetings: прывітанні
+    - health: здароўе
+    - healthy: здаровы
+    - healthy/hello: здаровы/прывітанне
+    - hello: прывітанне
+    - how: як
+    - i: я
+    - is: ёсць
+    - it: яно
+    - know: ведаць
+    - let's: давайце
+    - maybe: можа быць
+    - maybe/can: можа быць/можа
+    - me: мне
+    - mean: азначаць
+    - morning: раніца
+    - much: шмат
+    - my: мой
+    - name: імя
+    - night: ноч
+    - no: не
+    - not: не
+    - pardon: прабачэнне
+    - perhaps: магчыма
+    - pity: шкадаванне
+    - possible: магчымы
+    - ready: гатовы
+    - repeat: паўтараць
+    - sister: сястра
+    - so: так
+    - thank: дзякаваць
+    - thanks: дзякуй
+    - that: што
+    - the: to
+    - this: гэты
+    - to: да
+    - too: занадта
+    - understand: разумець
+    - very: вельмі
+    - welcome: сардэчна запрашаем
+    - well: добра
+    - what: што
+    - with: з
+    - yes: так
+    - you: ты
+    - your: твой

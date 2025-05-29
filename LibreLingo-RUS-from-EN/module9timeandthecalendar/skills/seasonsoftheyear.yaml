@@ -1,0 +1,187 @@
+Skill:
+  Name: Seasons of the year
+  Id: 33
+
+New words:
+  - Word: лето
+    Translation: summer
+  - Word: осень
+    Translation: autumn
+  - Word: зима
+    Translation: winter
+  - Word: весна
+    Translation: spring
+  - Word: сезон
+    Translation: season
+  - Word: быть
+    Translation: to be
+  - Word: буду
+    Translation: I will be
+  - Word: будешь
+    Translation: you will be
+  - Word: будет
+    Translation: he/she/it will be
+  - Word: будем
+    Translation: we will be
+  - Word: будете
+    Translation: you will be
+  - Word: будут
+    Translation: they will be
+
+Phrases:
+  - Phrase: В лете будет тепло.
+    Translation: In the summer it will be warm.
+  - Phrase: В осени будем видеть падающие листья.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: В зиме будете играть со снегом.
+    Translation: In the winter you will play with snow.
+  - Phrase: Весна принесёт цветы.
+    Translation: Spring will bring flowers.
+  - Phrase: Сезон будет изменяться четыре раза.
+    Translation: The season will change four times.
+  - Phrase: В зиме будет падать снег.
+    Translation: In the winter it will snow.
+  - Phrase: Весной растут цветы.
+    Translation: In spring, flowers grow.
+  - Phrase: В лете есть много солнца.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: В осени будешь много страдать через дождь.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Воздух в зиме будет холодный.
+    Translation: The air in winter will be cold.
+  - Phrase: Лето есть сезоном отдыха при озере.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Осень имеет много цветов.
+    Translation: Autumn has many colors.
+  - Phrase: Зима не есть добра для спортсменов.
+    Translation: Winter is not good for sports.
+  - Phrase: Весна есть скучная.
+    Translation: Spring is boring.
+  - Phrase: Сезоны меняются четыре раза в году.
+    Translation: The seasons change four times a year.
+  - Phrase: Скоро кончается лето.
+    Translation: Summer will soon end.
+  - Phrase: В осени только падает дождь.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Зима имеет много снега.
+    Translation: Winter has a lot of snow.
+  - Phrase: Они будут видеть зелёный пейзаж.
+    Translation: They will see a green landscape.
+  - Phrase: Солнце будет светить сильно в лете.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Russian:
+    - в: in
+    - весной: spring
+    - видеть: see
+    - воздух: air
+    - году: year
+    - для: for
+    - добра: good
+    - дождь: rain
+    - есть: is
+    - зелёный: green
+    - зиме: winter
+    - играть: play
+    - изменяться: change
+    - имеет: has
+    - кончается: ends
+    - лете: summer
+    - листья: leaves
+    - меняются: change
+    - много: many
+    - не: no
+    - озере: lake
+    - они: they
+    - осени: autumn
+    - отдыха: rest
+    - падает: falls
+    - падать: fall
+    - падающие: falling
+    - пейзаж: landscape
+    - при: at
+    - принесёт: brings
+    - раза: times
+    - растут: grow
+    - светить: shine
+    - сезоном: season
+    - сезоны: seasons
+    - сильно: strongly
+    - скоро: soon
+    - скучная: boring
+    - снег: snow
+    - снега: snow
+    - снегом: snow
+    - со: with
+    - солнца: sun
+    - солнце: sun
+    - спортсменов: athletes
+    - страдать: suffer
+    - тепло: warmth
+    - только: only
+    - холодный: cold
+    - цветов: flowers
+    - цветы: flowers
+    - через: through
+    - четыре: four
+  English:
+    - a: jedin/один
+    - air: воздух
+    - autumn: осень
+    - be: быть
+    - because: потому что
+    - boring: скучный
+    - bring: принести
+    - by: по
+    - change: менять
+    - cold: холодный
+    - colors: цвета
+    - end: конец
+    - falling: падает
+    - flowers: цветы
+    - for: для
+    - four: четыре
+    - good: хороший
+    - green: зеленый
+    - grow: расти
+    - has: имеет
+    - he/she/it: он/она/оно
+    - i: я
+    - in: в
+    - is: есть
+    - it: это
+    - lake: озеро
+    - landscape: пейзаж
+    - leaves: листья
+    - lot: много
+    - many: много
+    - not: не
+    - of: из
+    - play: играть
+    - rain: дождь
+    - rest: отдых
+    - season: сезон
+    - seasons: сезоны
+    - see: видеть
+    - shine: светить
+    - snow: снег
+    - soon: скоро
+    - sports: спорт
+    - spring: весна
+    - strongly: сильно
+    - suffer: страдать
+    - summer: лето
+    - sun: солнце
+    - the: to
+    - there: там
+    - they: они
+    - times: раз
+    - to: к
+    - warm: теплый
+    - we: мы
+    - will: будет
+    - winter: зима
+    - with: с
+    - year: год
+    - you: ты

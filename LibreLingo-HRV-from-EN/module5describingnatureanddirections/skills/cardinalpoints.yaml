@@ -1,0 +1,189 @@
+Skill:
+  Name: Cardinal points
+  Id: 18
+
+New words:
+  - Word: sjever
+    Translation: north
+  - Word: jug
+    Translation: south
+  - Word: zapad
+    Translation: west
+  - Word: istok
+    Translation: east
+  - Word: sjeverni
+    Translation: northern
+  - Word: južni
+    Translation: southern
+  - Word: zapadni
+    Translation: western
+  - Word: istočni
+    Translation: eastern
+  - Word: kompas
+    Translation: compass
+  - Word: strana/smjer
+    Translation: side
+  - Word: gdje
+    Translation: where
+  - Word: ustati (ustaje)
+    Translation: to rise
+  - Word: pokazati
+    Translation: to show
+  - Word: karta
+    Translation: map
+  - Word: putovati
+    Translation: to travel
+  - Word: desno
+    Translation: right
+  - Word: lijevo
+    Translation: left
+  - Word: ravno
+    Translation: straight
+
+Phrases:
+  - Phrase: Sjever je hladan.
+    Translation: The north is cold.
+  - Phrase: Jug je topao.
+    Translation: The south is warm.
+  - Phrase: Sunce ustaje na istoku.
+    Translation: The sun rises in the east.
+  - Phrase: Ono zalazi na zapadu.
+    Translation: It sets in the west.
+  - Phrase: To je sjeverna strana.
+    Translation: This is the northern side.
+  - Phrase: Živimo na jugu.
+    Translation: We live in the south.
+  - Phrase: Kompas pokazuje sjever.
+    Translation: The compass shows north.
+  - Phrase: Istok je tamo.
+    Translation: The east is there.
+  - Phrase: Puše zapadni vjetar.
+    Translation: A western wind is blowing.
+  - Phrase: Idemo na jugozapad.
+    Translation: We are going to the southwest.
+  - Phrase: To je sjeverozapadni region.
+    Translation: This is the northwestern region.
+  - Phrase: Strana na karti pokazuje zapad.
+    Translation: The side on the map shows west.
+  - Phrase: Jugoistok je tamo, gdje grije sunce.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Idemo do južne strane.
+    Translation: We are going to the southern side.
+  - Phrase: On putuje istočno.
+    Translation: He travels eastward.
+  - Phrase: Na sjeveru je snijeg.
+    Translation: In the north there is snow.
+  - Phrase: Južni krajevi su topli.
+    Translation: The southern regions are warm.
+  - Phrase: Zapad je lijevo na karti.
+    Translation: West is left on the map.
+  - Phrase: Istočna glazba je zanimljiva.
+    Translation: Eastern music is interesting.
+  - Phrase: Gledamo na sjever.
+    Translation: We are looking to the north.
+  - Phrase: Idemo sada desno i potom ravno.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Croatian:
+    - do: to
+    - glazba: music
+    - gledamo: we look
+    - grije: heats
+    - hladan: cold
+    - i: and
+    - idemo: we go
+    - istoku: east
+    - istočna: eastern
+    - istočno: eastern
+    - je: is
+    - jugoistok: southeast
+    - jugozapad: southwest
+    - jugu: south
+    - južne: southern
+    - karti: map
+    - krajevi: ends
+    - na: on
+    - on: he
+    - ono: that
+    - pokazuje: shows
+    - potom: then
+    - putuje: travels
+    - puše: blows
+    - region: region
+    - sada: now
+    - sjeverna: northern
+    - sjeverozapadni: northwestern
+    - sjeveru: north
+    - snijeg: snow
+    - strana: side
+    - strane: sides
+    - su: are
+    - sunce: sun
+    - tamo: there
+    - to: that
+    - topao: warm
+    - topli: warm
+    - ustaje: gets up
+    - ustati: to get up
+    - vjetar: wind
+    - zalazi: sets
+    - zanimljiva: interesting
+    - zapadu: west
+    - živimo: we live
+  English:
+    - a: jedin/один
+    - and: i
+    - are: byti/быти
+    - blowing: puše
+    - cold: hladan
+    - compass: kompas
+    - east: istok
+    - eastern: istočna
+    - eastward: istočno
+    - going: ide
+    - he: on
+    - in: u
+    - interesting: zanimljiv
+    - is: je
+    - it: to
+    - left: lijevo
+    - live: živjeti
+    - looking: gleda
+    - map: karta
+    - music: glazba
+    - north: sjever
+    - northern: sjeverna
+    - northwestern: sjeverozapadni
+    - now: sada
+    - on: na
+    - region: region
+    - regions: regioni
+    - right: desno
+    - rise: ustati
+    - rises: ustaje
+    - sets: zalazi
+    - show: pokazati
+    - shows: pokazuje
+    - side: strana
+    - snow: snijeg
+    - south: jug
+    - southeast: jugoistok
+    - southern: južne
+    - southwest: jugozapad
+    - straight: ravno
+    - sun: sunce
+    - the: to
+    - then: zatim
+    - there: tamo
+    - this: ovaj
+    - to: do
+    - travel: putovati
+    - travels: putuje
+    - warm: topao
+    - warms: grije
+    - we: mi
+    - west: zapad
+    - western: zapadni
+    - where: gdje
+    - wind: vjetar

@@ -1,0 +1,178 @@
+Skill:
+  Name: Studying & Writing
+  Id: 9
+
+New words:
+  - Word: школа
+    Translation: school
+  - Word: учительница
+    Translation: female teacher
+  - Word: учитель
+    Translation: male teacher
+  - Word: запись
+    Translation: note
+  - Word: ученик
+    Translation: student
+  - Word: книга
+    Translation: book
+  - Word: задание
+    Translation: assignment
+  - Word: стол
+    Translation: table
+  - Word: тушь
+    Translation: ink
+  - Word: бумага
+    Translation: paper
+  - Word: предмет
+    Translation: subject
+  - Word: метод
+    Translation: method
+  - Word: перо
+    Translation: pen
+  - Word: записная книжка
+    Translation: notebook
+  - Word: на
+    Translation: on
+
+Phrases:
+  - Phrase: Это моя школа.
+    Translation: This is my school.
+  - Phrase: Она учительницею.
+    Translation: She is a teacher.
+  - Phrase: Он учеником.
+    Translation: He is a student.
+  - Phrase: Книга есть на столе.
+    Translation: The book is on the table.
+  - Phrase: Я имею задание.
+    Translation: I have an assignment.
+  - Phrase: Тушь ещё мокрая.
+    Translation: The ink is still wet.
+  - Phrase: Бумага белая.
+    Translation: The paper is white.
+  - Phrase: Этот предмет то математика.
+    Translation: This subject is mathematics.
+  - Phrase: Этот метод добрый.
+    Translation: This method is good.
+  - Phrase: Ученик имеет книгу.
+    Translation: The student has a book.
+  - Phrase: Это мой стол.
+    Translation: This is my desk.
+  - Phrase: Моя записная книжка полна записей с пером
+    Translation: My notebook is full of notes with a pen
+  - Phrase: Пишу на бумаге пером.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Школа есть в центре.
+    Translation: The school is in the center.
+  - Phrase: Мы пишем задание.
+    Translation: We are writing the assignment.
+  - Phrase: Учитель говорит со студентами.
+    Translation: The teacher is talking with students.
+  - Phrase: У неё есть много заданий.
+    Translation: She has many assignments.
+  - Phrase: Я быстро пишу этим пером.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Предмет сложный.
+    Translation: The subject is complex.
+  - Phrase: Книга новая.
+    Translation: The book is new.
+  - Phrase: Он моим учителем.
+    Translation: He is my teacher.
+
+Mini-dictionary:
+  Russian:
+    - белая: white
+    - бумаге: paper
+    - быстро: fast
+    - в: in
+    - говорит: says
+    - добрый: good
+    - есть: is
+    - ещё: still
+    - заданий: tasks
+    - записей: entries
+    - записная: notebook
+    - имеет: has
+    - имею: have
+    - книгу: book
+    - книжка: book
+    - математика: mathematics
+    - много: many
+    - моим: my
+    - мой: my
+    - мокрая: wet
+    - моя: my
+    - мы: we
+    - неё: her
+    - новая: new
+    - он: he
+    - она: she
+    - пером: pen
+    - пишем: write
+    - пишу: write
+    - полна: full
+    - с: with
+    - сложный: complex
+    - со: with
+    - столе: table
+    - студентами: students
+    - то: it
+    - у: at
+    - учеником: pupil
+    - учителем: teacher
+    - учительницею: teacher
+    - центре: center
+    - этим: this
+    - это: it
+    - этот: this
+    - я: i
+  English:
+    - a: jedin/один
+    - am: есть
+    - an: an
+    - are: byti/быти
+    - assignment: задание
+    - assignments: задания
+    - book: книга
+    - center: центр
+    - complex: сложный
+    - desk: стол
+    - female: женский
+    - full: полный
+    - good: хороший
+    - has: имеет
+    - have: иметь
+    - he: он
+    - i: я
+    - in: в
+    - ink: чернила
+    - is: есть
+    - male: мужской
+    - many: много
+    - mathematics: математика
+    - method: метод
+    - my: мой
+    - new: новый
+    - note: заметка
+    - notebook: тетрадь
+    - notes: заметки
+    - of: из
+    - on: на
+    - paper: бумага
+    - pen: ручка
+    - quickly: быстро
+    - school: школа
+    - she: она
+    - still: еще
+    - student: студент
+    - students: студенты
+    - subject: предмет
+    - table: стол
+    - talking: разговаривает
+    - teacher: учитель
+    - the: to
+    - this: это
+    - we: мы
+    - wet: мокрый
+    - white: белый
+    - with: с
+    - writing: пишет

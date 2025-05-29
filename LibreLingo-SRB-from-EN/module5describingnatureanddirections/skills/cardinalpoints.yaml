@@ -1,0 +1,191 @@
+Skill:
+  Name: Cardinal points
+  Id: 18
+
+New words:
+  - Word: север
+    Translation: north
+  - Word: југ
+    Translation: south
+  - Word: запад
+    Translation: west
+  - Word: возход
+    Translation: east
+  - Word: северни
+    Translation: northern
+  - Word: јужни
+    Translation: southern
+  - Word: западни
+    Translation: western
+  - Word: возходни
+    Translation: eastern
+  - Word: компас
+    Translation: compass
+  - Word: страна
+    Translation: side
+  - Word: где
+    Translation: where
+  - Word: встати (встане)
+    Translation: to rise
+  - Word: показовати
+    Translation: to show
+  - Word: мапа
+    Translation: map
+  - Word: путовати
+    Translation: to travel
+  - Word: право
+    Translation: right
+  - Word: лево
+    Translation: left
+  - Word: премо
+    Translation: straight
+
+Phrases:
+  - Phrase: Север јест хладни.
+    Translation: The north is cold.
+  - Phrase: Југ јест тепли.
+    Translation: The south is warm.
+  - Phrase: Солнце встане на возходу.
+    Translation: The sun rises in the east.
+  - Phrase: Оно запада на западу.
+    Translation: It sets in the west.
+  - Phrase: То јест северна страна.
+    Translation: This is the northern side.
+  - Phrase: Живемо на југу.
+    Translation: We live in the south.
+  - Phrase: Компас показује север.
+    Translation: The compass shows north.
+  - Phrase: Возход јест там.
+    Translation: The east is there.
+  - Phrase: Западни ветр дује.
+    Translation: A western wind is blowing.
+  - Phrase: Идемо к југо-западу.
+    Translation: We are going to the southwest.
+  - Phrase: То јест северо-западни регион.
+    Translation: This is the northwestern region.
+  - Phrase: Страна на мапе показује запад.
+    Translation: The side on the map shows west.
+  - Phrase: Југо-возход јест там, где греје солнце.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Идемо до јужној страни.
+    Translation: We are going to the southern side.
+  - Phrase: Он путује возходно.
+    Translation: He travels eastward.
+  - Phrase: На северу јест снег.
+    Translation: In the north there is snow.
+  - Phrase: Јужни краје сут тепле.
+    Translation: The southern regions are warm.
+  - Phrase: Запад јест лево на мапе.
+    Translation: West is left on the map.
+  - Phrase: Возходна музика јест интересна.
+    Translation: Eastern music is interesting.
+  - Phrase: Гледамо к север.
+    Translation: We are looking to the north.
+  - Phrase: Идемо ту час вправо и потом премо.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Serbian:
+    - ветр: wind
+    - возходна: eastern
+    - возходно: eastern
+    - возходу: east
+    - вправо: right
+    - встане: stand up
+    - встати: stand up
+    - гледамо: we look
+    - греје: warms
+    - до: to
+    - дује: blows
+    - живемо: we live
+    - запада: west
+    - западу: west
+    - и: and
+    - идемо: we go
+    - интересна: interesting
+    - к: to
+    - краје: ends
+    - мапе: map
+    - музика: music
+    - на: on
+    - он: he
+    - оно: it
+    - показује: shows
+    - потом: then
+    - путује: travels
+    - регион: region
+    - северна: northern
+    - северо-западни: northwestern
+    - северу: north
+    - снег: snow
+    - солнце: sun
+    - страни: side
+    - сут: essence
+    - там: there
+    - тепле: warm
+    - тепли: warm
+    - то: that
+    - ту: here
+    - хладни: cold
+    - час: hour
+    - јест: is
+    - југо-возход: southeast
+    - југо-западу: southwest
+    - југу: south
+    - јужној: southern
+  English:
+    - a: jedin/один
+    - and: и
+    - are: byti/быти
+    - blowing: дује
+    - cold: хладни
+    - compass: компас
+    - east: возход
+    - eastern: возходна
+    - eastward: возходу
+    - going: иде
+    - he: он
+    - in: у
+    - interesting: интересна
+    - is: је
+    - it: оно
+    - left: лево
+    - live: живе
+    - looking: гледа
+    - map: мапа
+    - music: музика
+    - north: север
+    - northern: северна
+    - northwestern: северо-западни
+    - now: сада
+    - on: на
+    - region: регион
+    - regions: региони
+    - right: право
+    - rise: устати
+    - rises: излази
+    - sets: поставља
+    - show: показати
+    - shows: показује
+    - side: страна
+    - snow: снег
+    - south: југ
+    - southeast: југо-возход
+    - southern: јужни
+    - southwest: југо-западни
+    - straight: премо
+    - sun: солнце
+    - the: to
+    - then: потом
+    - there: там
+    - this: тај
+    - to: до
+    - travel: путовати
+    - travels: путује
+    - warm: тепла
+    - warms: греје
+    - we: ми
+    - west: запад
+    - western: западни
+    - where: где
+    - wind: ветр

@@ -1,0 +1,224 @@
+Skill:
+  Name: Talking about Time
+  Id: 31
+
+New words:
+  - Word: čas
+    Translation: time
+  - Word: minúta
+    Translation: minute
+  - Word: sekunda
+    Translation: second
+  - Word: hodina
+    Translation: hour
+  - Word: dnes
+    Translation: today
+  - Word: bol
+    Translation: was
+  - Word: bola
+    Translation: was
+  - Word: bolo
+    Translation: was
+  - Word: boli
+    Translation: were
+  - Word: išiel
+    Translation: went/walked
+  - Word: šla
+    Translation: went/walked
+  - Word: šlo
+    Translation: went/walked
+  - Word: šli
+    Translation: went/walked
+  - Word: včera
+    Translation: yesterday
+  - Word: zajtra
+    Translation: tomorrow
+  - Word: večer
+    Translation: evening
+  - Word: polnoc
+    Translation: midnight
+  - Word: koľko
+    Translation: how much
+  - Word: spať (spí)
+    Translation: to sleep
+  - Word: trvať
+    Translation: to last
+
+Phrases:
+  - Phrase: Koľko je hodín?
+    Translation: What time is it?
+  - Phrase: On mal jednu hodinu.
+    Translation: He had one hour.
+  - Phrase: Zajtra je príliš neskoro.
+    Translation: Tomorrow is too late.
+  - Phrase: Včera bol pondelok.
+    Translation: Yesterday was Monday.
+  - Phrase: Včera ona bola doma o ôsmej hodine.
+    Translation: Yesterday she was at home at the eighth hour.
+  - Phrase: Ráno nebolo veľmi teplo.
+    Translation: In the morning it was not very warm.
+  - Phrase: O tretej hodine dvadsať bolo chladno.
+    Translation: At twenty past the third hour it was cold.
+  - Phrase: Polnoc je tichá.
+    Translation: Midnight is quiet.
+  - Phrase: On išiel domov.
+    Translation: He went home.
+  - Phrase: Vy ste šli do kina?
+    Translation: Have you gone to the cinema?
+  - Phrase: Oni nič nerobili.
+    Translation: They did nothing.
+  - Phrase: Minúta je malá jednotka času.
+    Translation: A minute is a small unit of time.
+  - Phrase: Sekunda je krátka.
+    Translation: A second is short.
+  - Phrase: Dnes ty si nemal čas na to.
+    Translation: Today you did not have an hour for that.
+  - Phrase: Uvidíme sa večer o deviatej hodine.
+    Translation: We will see each other in the evening at the ninth hour.
+  - Phrase: Včera o prvej hodine bolo lepšie.
+    Translation: Yesterday at the first hour it was better.
+  - Phrase: Koľko minút trvá film?
+    Translation: How many minutes does the film last?
+  - Phrase: Ja som bol doma ráno.
+    Translation: I was at home in the morning.
+  - Phrase: On spí do polnoci.
+    Translation: He sleeps until midnight.
+  - Phrase: Koľko sekúnd má minúta?
+    Translation: How many seconds are in a minute?
+  - Phrase: Večer sme šli do reštaurácie.
+    Translation: In the evening we went to the restaurant.
+
+Mini-dictionary:
+  Slovak:
+    - chladno: cold
+    - deviatej: ninth
+    - do: to
+    - doma: at home
+    - domov: home
+    - dvadsať: twenty
+    - film: film
+    - hodine: hour
+    - hodinu: hour
+    - hodín: hours
+    - ja: I
+    - je: is
+    - jednotka: unit
+    - jednu: one
+    - kina: cinema
+    - krátka: short
+    - lepšie: better
+    - mal: had
+    - malá: small
+    - minút: minutes
+    - má: has
+    - na: on
+    - nebolo: was not
+    - nemal: did not have
+    - nerobili: did not do
+    - neskoro: late
+    - nič: nothing
+    - o: about
+    - on: he
+    - ona: she
+    - oni: they
+    - polnoci: midnight
+    - pondelok: Monday
+    - prvej: first
+    - príliš: too
+    - reštaurácie: restaurant
+    - ráno: morning
+    - sa: oneself
+    - sekúnd: seconds
+    - si: are
+    - sme: are
+    - som: am
+    - spať: to sleep
+    - spí: sleeps
+    - ste: are
+    - teplo: warmth
+    - tichá: quiet
+    - to: it
+    - tretej: third
+    - trvá: lasts
+    - ty: you
+    - uvidíme: we will see
+    - veľmi: very
+    - vy: you
+    - ôsmej: eighth
+    - času: time
+  English:
+    - a: jedin/один
+    - an: a
+    - are: byti/быти
+    - at: pri
+    - better: lepšie
+    - cinema: kina
+    - cold: chladno
+    - did: urobil
+    - does: robí
+    - each: každý
+    - eighth: ôsmy
+    - evening: večer
+    - film: film
+    - first: prvý
+    - for: pre
+    - gone: preč
+    - had: mal
+    - have: mať
+    - he: on
+    - home: domov
+    - hour: hodina
+    - how: ako
+    - i: ja
+    - in: v
+    - is: je
+    - it: to
+    - last: posledný
+    - late: neskoro
+    - many: mnoho
+    - midnight: polnoc
+    - minute: minúta
+    - minutes: minút
+    - monday: pondelok
+    - morning: ráno
+    - much: veľa
+    - ninth: deviaty
+    - not: nie
+    - nothing: nič
+    - of: z
+    - one: jeden
+    - other: iný
+    - past: minulý
+    - quiet: tichý
+    - restaurant: reštaurácia
+    - second: druhý
+    - seconds: sekúnd
+    - see: vidieť
+    - she: ona
+    - short: krátka
+    - sleep: spať
+    - sleeps: spí
+    - small: malý
+    - that: ten
+    - the: to
+    - they: oni
+    - third: tretí
+    - time: čas
+    - to: do
+    - today: dnes
+    - tomorrow: zajtra
+    - too: príliš
+    - twenty: dvadsať
+    - unit: jednotka
+    - until: kým
+    - very: veľmi
+    - warm: teplý
+    - was: bol
+    - we: my
+    - went: išiel
+    - went/walked: šiel
+    - were: byl/был
+    - what: čo
+    - will: bude
+    - yesterday: včera
+    - you: ty

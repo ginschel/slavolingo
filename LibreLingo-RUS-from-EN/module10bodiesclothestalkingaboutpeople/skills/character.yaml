@@ -1,0 +1,213 @@
+Skill:
+  Name: Character
+  Id: 36
+
+New words:
+  - Word: добрый
+    Translation: good
+  - Word: злой
+    Translation: bad
+  - Word: сильный
+    Translation: strong
+  - Word: слабый
+    Translation: weak
+  - Word: смелый
+    Translation: brave
+  - Word: тихий
+    Translation: quiet
+  - Word: мудрый
+    Translation: wise
+  - Word: глупый
+    Translation: stupid
+  - Word: искренний
+    Translation: sincere
+  - Word: ленивый
+    Translation: lazy
+  - Word: был бы
+    Translation: I would be
+  - Word: был бы
+    Translation: you would be
+  - Word: был бы
+    Translation: he/she/it would be
+  - Word: были бы
+    Translation: we would be
+  - Word: были бы
+    Translation: you would be
+  - Word: были бы
+    Translation: they would be
+  - Word: молчать (молчит)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: Он то добрый человек.
+    Translation: He is a good person.
+  - Phrase: Она есть злая иногда.
+    Translation: She is sometimes bad.
+  - Phrase: Сильный дух есть важный.
+    Translation: A strong spirit is important.
+  - Phrase: Он есть слабый в спорте.
+    Translation: He is weak in sports.
+  - Phrase: Смелый говорит правду.
+    Translation: Brave people speak the truth.
+  - Phrase: Как ты был бы слышал, то они были бы тихи.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Мудрый знает много.
+    Translation: A smart person knows much.
+  - Phrase: Как ты был бы не глупый, то бы ты не делал глупостей.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Искренний друг есть драгоценный.
+    Translation: A sincere friend is valuable.
+  - Phrase: Как они были бы не ленивы, то мы бы им помогали.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Она есть добрая и искренняя.
+    Translation: She is good and sincere.
+  - Phrase: Он есть сильный, но смелый.
+    Translation: He is strong but brave.
+  - Phrase: Дети суть мудрые для их возраста.
+    Translation: Children are wiser for their age.
+  - Phrase: Как вы не были бы слабы, то вы бы работали.
+    Translation: If you were not weak, you would work.
+  - Phrase: Злые слова болят.
+    Translation: Bad words hurt.
+  - Phrase: Глупый не учится.
+    Translation: Stupid people do not learn.
+  - Phrase: Ленивый не хочет ничего делать.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Искренний говорит что думает.
+    Translation: A sincere person says what they think.
+  - Phrase: Мудрый молчит когда надо.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Как я был бы смелый, то я был бы не боялся.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Russian:
+    - болят: hurt
+    - боялся: afraid
+    - бы: would
+    - был: was
+    - были: were
+    - в: in
+    - важный: important
+    - возраста: age
+    - вы: you
+    - глупостей: nonsense
+    - говорит: says
+    - делал: made
+    - делать: do/make
+    - дети: children
+    - для: for
+    - добрая: good
+    - драгоценный: valuable
+    - друг: friend
+    - думает: thinks
+    - дух: spirit
+    - есть: is
+    - злая: bad
+    - злые: bad
+    - знает: knows
+    - и: and
+    - им: them
+    - иногда: sometimes
+    - искренняя: sincere
+    - их: their
+    - как: as
+    - когда: when
+    - ленивы: lazy
+    - много: many
+    - молчать: silent
+    - молчит: silent
+    - мудрые: wise
+    - мы: we
+    - надо: necessary
+    - не: no
+    - ничего: nothing
+    - но: but
+    - он: he
+    - она: she
+    - они: they
+    - помогали: helped
+    - правду: truth
+    - работали: worked
+    - слабы: weak
+    - слова: words
+    - слышал: heard
+    - спорте: sport
+    - суть: are
+    - тихи: quiet
+    - то: it
+    - ты: you
+    - учится: teaches
+    - хочет: wants
+    - человек: person
+    - что: what
+    - я: i
+  English:
+    - a: jedin/один
+    - afraid: боится
+    - age: возраст
+    - and: и
+    - anything: что-нибудь
+    - are: byti/быти
+    - bad: плохой
+    - be: быть
+    - brave: храбрый
+    - but: но
+    - children: дети
+    - do: делать
+    - foolish: глупый
+    - for: для
+    - friend: друг
+    - good: хороший
+    - he: он
+    - he/she/it: он/она/оно
+    - hear: слышать
+    - help: помощь
+    - hurt: больно
+    - i: я
+    - if: если
+    - important: важный
+    - in: в
+    - is: есть
+    - knows: знает
+    - lazy: ленивый
+    - learn: учиться
+    - much: много
+    - needed: нужно было
+    - not: не
+    - people: люди
+    - person: человек
+    - quiet: тихий
+    - says: говорит
+    - she: она
+    - silent: молчаливый
+    - sincere: искренний
+    - smart: умный
+    - sometimes: иногда
+    - speak: говорить
+    - spirit: дух
+    - sports: спорт
+    - stays: остается
+    - strong: сильный
+    - stupid: глупый
+    - the: to
+    - their: их
+    - them: их
+    - they: они
+    - things: вещи
+    - think: думать
+    - to: к
+    - truth: правда
+    - valuable: ценный
+    - want: хотеть
+    - we: мы
+    - weak: слабый
+    - were: byl/был
+    - what: что
+    - when: когда
+    - wise: мудрый
+    - wiser: мудрее
+    - words: слова
+    - work: работа
+    - would: бы
+    - you: ты

@@ -1,0 +1,186 @@
+Skill:
+  Name: Seasons of the year
+  Id: 33
+
+New words:
+  - Word: lěśo
+    Translation: summer
+  - Word: nazymje
+    Translation: autumn
+  - Word: zyma
+    Translation: winter
+  - Word: nalěśe
+    Translation: spring
+  - Word: sezon
+    Translation: season
+  - Word: byś
+    Translation: to be
+  - Word: budu
+    Translation: I will be
+  - Word: buźoš
+    Translation: you will be
+  - Word: buźe
+    Translation: he/she/it will be
+  - Word: buźomy
+    Translation: we will be
+  - Word: buźośo
+    Translation: you will be
+  - Word: budu
+    Translation: they will be
+
+Phrases:
+  - Phrase: We lěśe buźe śopło.
+    Translation: In the summer it will be warm.
+  - Phrase: Na nazymje buźomy wiźeś padajuce łopjena.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: We zymje buźośo graś ze sněgom.
+    Translation: In the winter you will play with snow.
+  - Phrase: Nalěśe pśinjaso kwěśeń.
+    Translation: Spring will bring flowers.
+  - Phrase: Sezon buźe se wuzměniś styrjo raza.
+    Translation: The season will change four times.
+  - Phrase: We zymje buźe padaś sněg.
+    Translation: In the winter it will snow.
+  - Phrase: Nalěśe rosćo kwěśeń.
+    Translation: In spring, flowers grow.
+  - Phrase: We lěśe jo wjele słyńca.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: Na nazymje buźoš wjele śarpiś pśez dešć.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Powětš we zymje buźe zymne.
+    Translation: The air in winter will be cold.
+  - Phrase: Lěśo jo ze sezonem wótpocynka pśi jazorje.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Nazymje ma wjele kólorow.
+    Translation: Autumn has many colors.
+  - Phrase: Zyma nje jo dobra za sport.
+    Translation: Winter is not good for sports.
+  - Phrase: Nalěśe jo nudne.
+    Translation: Spring is boring.
+  - Phrase: Sezony se wuzměnjaju styrjo raza we lěśe.
+    Translation: The seasons change four times a year.
+  - Phrase: Snadnje se kóńcy lěśo.
+    Translation: Summer will soon end.
+  - Phrase: Na nazymje jano pada dešć.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Zyma ma wjele sněga.
+    Translation: Winter has a lot of snow.
+  - Phrase: Wóni budu wiźeś zeleznu krajinu.
+    Translation: They will see a green landscape.
+  - Phrase: Słyńco buźe swěśiś sylnje we lěśe.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - dešć: rain
+    - dobra: good
+    - graś: to play
+    - jano: only
+    - jazorje: lake
+    - jo: yes
+    - krajinu: landscape
+    - kwěśeń: April
+    - kólorow: colors
+    - kóńcy: ends
+    - lěśe: in summer
+    - ma: has
+    - na: on
+    - nje: no
+    - nudne: boring
+    - pada: falls
+    - padajuce: falling
+    - padaś: to fall
+    - powětš: air
+    - pśez: through
+    - pśi: at
+    - pśinjaso: brings
+    - raza: time (instance)
+    - rosćo: grows
+    - se: himself, herself, itself, themselves
+    - sezonem: season
+    - sezony: seasons
+    - snadnje: easily
+    - sněg: snow
+    - sněga: snow
+    - sněgom: snow
+    - sport: sport
+    - styrjo: four
+    - swěśiś: to shine
+    - sylnje: strongly
+    - słyńca: sun
+    - słyńco: sun
+    - we: in
+    - wiźeś: to see
+    - wjele: many
+    - wuzměniś: to change
+    - wuzměnjaju: change
+    - wóni: they
+    - wótpocynka: rest
+    - za: for
+    - ze: with
+    - zeleznu: iron
+    - zymje: in winter
+    - zymne: cold
+    - łopjena: leaves
+    - śarpiś: to suffer
+    - śopło: warm
+  English:
+    - a: jedin/один
+    - air: powětr
+    - autumn: nazymje
+    - be: byś
+    - because: dokulaž
+    - boring: znudźony
+    - bring: pśinjasć
+    - by: pśi
+    - change: změniś
+    - cold: zymny
+    - colors: barwy
+    - end: kóńc
+    - falling: padajucy
+    - flowers: kwětki
+    - for: za
+    - four: styrjo
+    - good: dobry
+    - green: zeleny
+    - grow: rosć
+    - has: ma
+    - he/she/it: wón/wóna/wóno
+    - i: ja
+    - in: w
+    - is: jo
+    - it: wóno
+    - lake: jazoro
+    - landscape: krajina
+    - leaves: łopjena
+    - lot: wjele
+    - many: wjele
+    - not: nic
+    - of: wót
+    - play: graś
+    - rain: dešć
+    - rest: wótpócowaś
+    - season: cas
+    - seasons: casy
+    - see: wiźeś
+    - shine: swěśiś
+    - snow: sněg
+    - soon: skóńc
+    - sports: sporty
+    - spring: nalěśe
+    - strongly: mócne
+    - suffer: śerpjeś
+    - summer: lěśe
+    - sun: słyńco
+    - the: to
+    - there: tam
+    - they: wóni
+    - times: casy
+    - to: do
+    - warm: śopły
+    - we: my
+    - will: buźo
+    - winter: zyma
+    - with: z
+    - year: lěto
+    - you: ty

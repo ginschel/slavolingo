@@ -1,0 +1,191 @@
+Skill:
+  Name: Family
+  Id: 3
+
+New words:
+  - Word: брат
+    Translation: brother
+  - Word: дед
+    Translation: grandfather
+  - Word: бабушка
+    Translation: grandmother
+  - Word: тётя
+    Translation: aunt
+  - Word: внук
+    Translation: grandson
+  - Word: внучка
+    Translation: granddaughter
+  - Word: матка
+    Translation: mother
+  - Word: отец
+    Translation: father
+  - Word: родина
+    Translation: family
+  - Word: сын
+    Translation: son
+  - Word: дочка
+    Translation: daughter
+  - Word: дядя (по отцу)
+    Translation: uncle
+  - Word: говорит
+    Translation: speaks
+  - Word: идёт (пешком)
+    Translation: goes
+  - Word: идём (пешком)
+    Translation: we go
+  - Word: живёт
+    Translation: lives
+
+Phrases:
+  - Phrase: Он моим братом.
+    Translation: He is my brother.
+  - Phrase: Он есть твоим отцом
+    Translation: He is your father
+  - Phrase: Она идёт с маткою.
+    Translation: She is going with her mother.
+  - Phrase: Он говорит с дедом.
+    Translation: He is talking with his grandfather.
+  - Phrase: Мы играем с нашими детьми.
+    Translation: We are playing with our children.
+  - Phrase: Они едут с тётею.
+    Translation: They are going with their aunt.
+  - Phrase: Говорим с твоею сестрою.
+    Translation: I am talking with your sister.
+  - Phrase: Идём в парк с родиною.
+    Translation: We are going to the park with the family.
+  - Phrase: Он есть с внуком.
+    Translation: He is with his grandson.
+  - Phrase: Она играет с внучкою.
+    Translation: She is playing with her granddaughter.
+  - Phrase: Пить чай с маткою есть лучше.
+    Translation: Drinking tea with mother is better.
+  - Phrase: С кем ты идёшь?
+    Translation: Who are you going with?
+  - Phrase: Она говорит с моею бабушкою.
+    Translation: She is talking with my grandmother.
+  - Phrase: Это есть домом с родиною.
+    Translation: This is a house with a family.
+  - Phrase: Он живёт с сыном.
+    Translation: He lives with his son.
+  - Phrase: Идём на прогулку с братами.
+    Translation: We are going for a walk with brothers.
+  - Phrase: Идём с дочкою.
+    Translation: We are going with our daughter.
+  - Phrase: Они тут суть с дедом.
+    Translation: They are here with their grandfather.
+  - Phrase: Он живёт с тёткою и со дядею.
+    Translation: He lives with his aunt and uncle.
+  - Phrase: Она говорит с внуком часто.
+    Translation: She talks with her grandson often.
+
+Mini-dictionary:
+  Russian:
+    - бабушкою: grandmother
+    - братами: brothers
+    - братом: brother
+    - в: in
+    - внуком: grandson
+    - внучкою: granddaughter
+    - говорим: talk
+    - дедом: grandfather
+    - детьми: children
+    - домом: home
+    - дочкою: daughter
+    - дядею: uncle
+    - дядя: uncle
+    - едут: go
+    - есть: is
+    - и: and
+    - играем: play
+    - играет: plays
+    - идём: go
+    - идёт: goes
+    - идёшь: go
+    - кем: whom
+    - лучше: better
+    - маткою: mother
+    - моею: my
+    - моим: my
+    - мы: we
+    - на: on
+    - нашими: our
+    - он: he
+    - она: she
+    - они: they
+    - отцом: father
+    - отцу: father
+    - парк: park
+    - пешком: on foot
+    - пить: drink
+    - по: after
+    - прогулку: walk
+    - родиною: homeland
+    - с: with
+    - сестрою: sister
+    - со: with
+    - суть: are
+    - сыном: son
+    - твоею: your
+    - твоим: your
+    - тут: here
+    - ты: you
+    - тётею: aunt
+    - тёткою: aunt
+    - чай: tea
+    - часто: often
+    - это: it
+  English:
+    - a: jedin/один
+    - am: есть
+    - and: и
+    - are: byti/быти
+    - aunt: тетя
+    - better: лучше
+    - brother: брат
+    - brothers: братья
+    - children: дети
+    - daughter: дочь
+    - drinking: пьет
+    - family: семья
+    - father: отец
+    - for: для
+    - go: идти
+    - goes: идет
+    - going: идет
+    - granddaughter: внучка
+    - grandfather: дедушка
+    - grandmother: бабушка
+    - grandson: внук
+    - he: он
+    - her: ее
+    - here: здесь
+    - his: его
+    - house: дом
+    - i: я
+    - is: есть
+    - lives: живет
+    - mother: мать
+    - my: мой
+    - often: часто
+    - our: наш
+    - park: парк
+    - playing: играет
+    - she: она
+    - sister: сестра
+    - son: сын
+    - speaks: говорит
+    - talking: разговаривает
+    - talks: говорит
+    - tea: чай
+    - the: to
+    - their: их
+    - they: они
+    - this: это
+    - to: к
+    - uncle: дядя
+    - walk: гулять
+    - we: мы
+    - who: кто
+    - with: с
+    - you: ты
+    - your: твой

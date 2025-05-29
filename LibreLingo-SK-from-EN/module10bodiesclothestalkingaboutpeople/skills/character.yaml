@@ -1,0 +1,219 @@
+Skill:
+  Name: Character
+  Id: 36
+
+New words:
+  - Word: dobrý
+    Translation: good
+  - Word: zlý
+    Translation: bad
+  - Word: silný
+    Translation: strong
+  - Word: slabý
+    Translation: weak
+  - Word: smelý
+    Translation: brave
+  - Word: tichý
+    Translation: quiet
+  - Word: múdry
+    Translation: wise
+  - Word: hlúpy
+    Translation: stupid
+  - Word: úprimný
+    Translation: sincere
+  - Word: lenivý
+    Translation: lazy
+  - Word: bol by som
+    Translation: I would be
+  - Word: bol by si
+    Translation: you would be
+  - Word: bol by
+    Translation: he/she/it would be
+  - Word: boli by sme
+    Translation: we would be
+  - Word: boli by ste
+    Translation: you would be
+  - Word: boli by
+    Translation: they would be
+  - Word: mlčať (mlčí)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: On je dobrý človek.
+    Translation: He is a good person.
+  - Phrase: Ona je niekedy zlá.
+    Translation: She is sometimes bad.
+  - Phrase: Silný duch je dôležitý.
+    Translation: A strong spirit is important.
+  - Phrase: On je slabý v športe.
+    Translation: He is weak in sports.
+  - Phrase: Smelý hovorí pravdu.
+    Translation: Brave people speak the truth.
+  - Phrase: Ako by si ty počul, tak oni by boli tichí.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Múdry vie veľa.
+    Translation: A smart person knows much.
+  - Phrase: Ak by si ty nebol hlúpy, tak by si nerobil hlúposti.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Úprimný priateľ je drahocenný.
+    Translation: A sincere friend is valuable.
+  - Phrase: Ak by oni neboli leniví, tak by sme im pomáhali.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Ona je dobrá a úprimná.
+    Translation: She is good and sincere.
+  - Phrase: On je silný, ale smelý.
+    Translation: He is strong but brave.
+  - Phrase: Deti sú múdre na svoj vek.
+    Translation: Children are wiser for their age.
+  - Phrase: Ak by ste vy neboli slabí, tak by ste pracovali.
+    Translation: If you were not weak, you would work.
+  - Phrase: Zlé slová bolia.
+    Translation: Bad words hurt.
+  - Phrase: Hlúpy sa neučí.
+    Translation: Stupid people do not learn.
+  - Phrase: Lenivý nechce nič robiť.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Úprimný hovorí, čo si myslí.
+    Translation: A sincere person says what they think.
+  - Phrase: Múdry mlčí, keď treba.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Ak by som ja bol smelý, tak by som sa nebál.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Slovak:
+    - a: and
+    - ak: if
+    - ako: as
+    - ale: but
+    - bol: was
+    - boli: were
+    - bolia: they hurt
+    - by: would
+    - deti: children
+    - dobrá: good
+    - drahocenný: precious
+    - duch: spirit
+    - dôležitý: important
+    - hlúposti: nonsense
+    - hovorí: says
+    - im: them
+    - ja: I
+    - je: is
+    - keď: when
+    - leniví: lazy
+    - mlčať: to be silent
+    - mlčí: is silent
+    - myslí: thinks
+    - múdre: wise
+    - na: on
+    - nebol: was not
+    - neboli: were not
+    - nebál: was not afraid
+    - nechce: does not want
+    - nerobil: did not do
+    - neučí: does not teach
+    - niekedy: sometimes
+    - nič: nothing
+    - on: he
+    - ona: she
+    - oni: they
+    - pomáhali: helped
+    - počul: heard
+    - pracovali: worked
+    - pravdu: truth
+    - priateľ: friend
+    - robiť: to do
+    - sa: oneself
+    - si: are
+    - slabí: weak
+    - slová: words
+    - sme: are
+    - som: am
+    - ste: are
+    - svoj: his/her/its own
+    - sú: are
+    - tak: so
+    - tichí: quiet
+    - treba: it is necessary
+    - ty: you
+    - v: in
+    - vek: age
+    - veľa: many
+    - vie: knows
+    - vy: you
+    - zlá: bad
+    - zlé: bad
+    - úprimná: sincere
+    - človek: person
+    - čo: what
+    - športe: sport
+  English:
+    - a: jedin/один
+    - afraid: bál
+    - age: vek
+    - and: a
+    - anything: nič
+    - are: byti/быти
+    - bad: zlý
+    - be: byť
+    - brave: smelý
+    - but: ale
+    - children: deti
+    - do: robiť
+    - foolish: hlúpy
+    - for: pre
+    - friend: priateľ
+    - good: dobrý
+    - he: on
+    - he/she/it: ono
+    - hear: počuť
+    - help: pomáhať
+    - hurt: bolieť
+    - i: ja
+    - if: ak
+    - important: dôležitý
+    - in: v
+    - is: je
+    - knows: pozná
+    - lazy: lenivý
+    - learn: učiť sa
+    - much: veľa
+    - needed: potrebné
+    - not: nie
+    - people: ľudia
+    - person: človek
+    - quiet: tichý
+    - says: hovorí
+    - she: ona
+    - silent: mlčí
+    - sincere: úprimný
+    - smart: múdry
+    - sometimes: niekedy
+    - speak: hovoriť
+    - spirit: duch
+    - sports: športovcov
+    - stays: zostáva
+    - strong: silný
+    - stupid: hlúpy
+    - the: to
+    - their: ich
+    - them: im
+    - they: oni
+    - things: veci
+    - think: myslieť
+    - to: do
+    - truth: pravdu
+    - valuable: drahocenný
+    - want: chcieť
+    - we: my
+    - weak: slabý
+    - were: byl/был
+    - what: čo
+    - when: keď
+    - wise: múdry
+    - wiser: múdrejší
+    - words: slová
+    - work: práca
+    - would: by
+    - you: ty

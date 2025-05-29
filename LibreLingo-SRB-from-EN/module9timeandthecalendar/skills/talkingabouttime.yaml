@@ -1,0 +1,225 @@
+Skill:
+  Name: Talking about Time
+  Id: 31
+
+New words:
+  - Word: час
+    Translation: time
+  - Word: минута
+    Translation: minute
+  - Word: секунда
+    Translation: second
+  - Word: часина
+    Translation: hour
+  - Word: ту дањ
+    Translation: today
+  - Word: био
+    Translation: was
+  - Word: била
+    Translation: was
+  - Word: било
+    Translation: was
+  - Word: били
+    Translation: were
+  - Word: шео
+    Translation: went/walked
+  - Word: шла
+    Translation: went/walked
+  - Word: шло
+    Translation: went/walked
+  - Word: шли
+    Translation: went/walked
+  - Word: вчера
+    Translation: yesterday
+  - Word: завтра
+    Translation: tomorrow
+  - Word: вечер
+    Translation: evening
+  - Word: полноћ
+    Translation: midnight
+  - Word: колико
+    Translation: how much
+  - Word: спати (спи)
+    Translation: to sleep
+  - Word: трајати
+    Translation: to last
+
+Phrases:
+  - Phrase: Колико јест часа?
+    Translation: What time is it?
+  - Phrase: Он имал једну часину.
+    Translation: He had one hour.
+  - Phrase: Завтра јест за поздно.
+    Translation: Tomorrow is too late.
+  - Phrase: Вчера био понедељак.
+    Translation: Yesterday was Monday.
+  - Phrase: Вчера она била в дому о осмој часине.
+    Translation: Yesterday she was at home at the eighth hour.
+  - Phrase: Утром не било много тепло.
+    Translation: In the morning it was not very warm.
+  - Phrase: О трећем часине двадесет било хладно.
+    Translation: At twenty past the third hour it was cold.
+  - Phrase: Полноћ јест тиха.
+    Translation: Midnight is quiet.
+  - Phrase: Он шео до дома.
+    Translation: He went home.
+  - Phrase: Ви јесте шли до кина?
+    Translation: Have you gone to the cinema?
+  - Phrase: Они ничто не делали.
+    Translation: They did nothing.
+  - Phrase: Минута јест мала јединица часа.
+    Translation: A minute is a small unit of time.
+  - Phrase: Секунда јест кратка.
+    Translation: A second is short.
+  - Phrase: Ту дањ ти јеси не имал часине за то.
+    Translation: Today you did not have an hour for that.
+  - Phrase: Видимо се вечером о деветој часине.
+    Translation: We will see each other in the evening at the ninth hour.
+  - Phrase: Вчера о првом часине било лепје.
+    Translation: Yesterday at the first hour it was better.
+  - Phrase: Колико минут траја филм?
+    Translation: How many minutes does the film last?
+  - Phrase: Ја јесам био в дому утром.
+    Translation: I was at home in the morning.
+  - Phrase: Он спи до полноћи.
+    Translation: He sleeps until midnight.
+  - Phrase: Колико секунд има минута?
+    Translation: How many seconds are in a minute?
+  - Phrase: Вечером ми шли в ресторан.
+    Translation: In the evening we went to the restaurant.
+
+Mini-dictionary:
+  Serbian:
+    - в: in
+    - вечером: in the evening
+    - ви: you
+    - видимо: we see
+    - дањ: day
+    - двадесет: twenty
+    - деветој: ninth
+    - делали: did
+    - до: to
+    - дома: home
+    - дому: home
+    - за: for
+    - има: has
+    - имал: had
+    - кина: china
+    - кратка: short
+    - лепје: better
+    - мала: small
+    - ми: we
+    - минут: minute
+    - много: many
+    - не: no
+    - ничто: nothing
+    - о: about
+    - он: he
+    - она: she
+    - они: they
+    - осмој: eighth
+    - поздно: late
+    - полноћи: midnight
+    - понедељак: monday
+    - првом: first
+    - ресторан: restaurant
+    - се: himself
+    - секунд: second
+    - спати: sleep
+    - спи: sleeps
+    - тепло: warm
+    - ти: you
+    - тиха: quiet
+    - то: that
+    - траја: lasts
+    - трећем: third
+    - ту: here
+    - утром: in the morning
+    - филм: film
+    - хладно: cold
+    - часа: hour
+    - часине: hour
+    - часину: hour
+    - ја: i
+    - јединица: unit
+    - једну: one
+    - јесам: i am
+    - јеси: you are
+    - јест: is
+    - јесте: you are
+  English:
+    - a: jedin/один
+    - an: а
+    - are: byti/быти
+    - at: при
+    - better: лепше
+    - cinema: кино
+    - cold: хладни
+    - did: делал
+    - does: дела
+    - each: сваки
+    - eighth: осми
+    - evening: вечер
+    - film: филм
+    - first: први
+    - for: за
+    - gone: отишао
+    - had: имал
+    - have: имати
+    - he: он
+    - home: дом
+    - hour: час
+    - how: како
+    - i: ја
+    - in: у
+    - is: је
+    - it: оно
+    - last: последни
+    - late: поздно
+    - many: много
+    - midnight: полноћ
+    - minute: минут
+    - minutes: минута
+    - monday: понедељак
+    - morning: јутро
+    - much: много
+    - ninth: девети
+    - not: не
+    - nothing: ништо
+    - of: од
+    - one: један
+    - other: други
+    - past: прошлост
+    - quiet: тиха
+    - restaurant: ресторан
+    - second: секунд
+    - seconds: секунда
+    - see: видети
+    - she: она
+    - short: кратка
+    - sleep: спати
+    - sleeps: спи
+    - small: мала
+    - that: тај
+    - the: to
+    - they: они
+    - third: трећи
+    - time: време
+    - to: до
+    - today: данас
+    - tomorrow: завтра
+    - too: такође
+    - twenty: двадесет
+    - unit: јединица
+    - until: док
+    - very: пра
+    - warm: тепла
+    - was: био
+    - we: ми
+    - went: шео
+    - went/walked: ишао
+    - were: byl/был
+    - what: что
+    - will: ће
+    - yesterday: вчера
+    - you: ти

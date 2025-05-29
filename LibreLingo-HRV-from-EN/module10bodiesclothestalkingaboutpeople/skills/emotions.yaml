@@ -1,0 +1,217 @@
+Skill:
+  Name: Emotions
+  Id: 37
+
+New words:
+  - Word: radostan
+    Translation: joyful
+  - Word: žalostan/tužan
+    Translation: sad
+  - Word: gnjevan
+    Translation: angry
+  - Word: ljubav
+    Translation: love
+  - Word: prestrašen
+    Translation: frightened
+  - Word: mir
+    Translation: peace
+  - Word: zavist
+    Translation: envy
+  - Word: sramotan
+    Translation: ashamed
+  - Word: sram
+    Translation: shame
+  - Word: ponosan
+    Translation: proud
+  - Word: veseo
+    Translation: cheerful
+  - Word: drhtanje/strah
+    Translation: tremor
+  - Word: osjećati (osjeća)
+    Translation: to feel
+  - Word: skrivati
+    Translation: to hide
+  - Word: bježati
+    Translation: to run away
+
+Phrases:
+  - Phrase: Osjećam se radosno danas.
+    Translation: We feel joyful this week.
+  - Phrase: Žalostno/Tužno je govorio.
+    Translation: He spoke sadly.
+  - Phrase: On gnjevno mu kaže raditi.
+    Translation: He angrily tells him to work.
+  - Phrase: Ljubav je snažna emocija.
+    Translation: Love is a strong emotion.
+  - Phrase: Strah je prirodna reakcija.
+    Translation: Fear is a natural reaction.
+  - Phrase: Mir je važan za dušu.
+    Translation: Peace is important for the soul.
+  - Phrase: Zavist je crna emocija.
+    Translation: Envy is a dark emotion.
+  - Phrase: Sramotno on osjeća sram.
+    Translation: He feels ashamed.
+  - Phrase: Veselo mu se ispunilo srce.
+    Translation: His heart was filled with joy.
+  - Phrase: Zavidno on gleda na njega.
+    Translation: He is jealous of him.
+  - Phrase: Ja imam tugu u srcu.
+    Translation: I have sadness in my heart.
+  - Phrase: Ona im pokazuje svoj rad veselo.
+    Translation: She shows them her work joyfully.
+  - Phrase: On skriva ponosno svoj gnjev.
+    Translation: He hides his anger proudly.
+  - Phrase: Mi osjećamo mir.
+    Translation: We feel peaceful.
+  - Phrase: Strah je u nama.
+    Translation: Fear is inside us.
+  - Phrase: Prestrašeno je pobjegao.
+    Translation: He was frightened and ran away.
+  - Phrase: Sram je vrlo jak.
+    Translation: Shame is very strong.
+  - Phrase: Radosno je otišao kući.
+    Translation: He joyfully went home.
+  - Phrase: Radost dolazi iznutra.
+    Translation: Joy comes from within.
+  - Phrase: Trpjeti želimo samo kad volimo.
+    Translation: We only suffer when we love.
+
+Mini-dictionary:
+  Croatian:
+    - crna: black
+    - danas: today
+    - dolazi: comes
+    - dušu: soul
+    - emocija: emotion
+    - gleda: looks
+    - gnjev: anger
+    - gnjevno: angrily
+    - govorio: spoke
+    - im: them
+    - imam: I have
+    - ispunilo: fulfilled
+    - iznutra: inside
+    - ja: I
+    - jak: strong
+    - je: is
+    - kad: when
+    - kaže: says
+    - kući: home
+    - mi: we
+    - mu: him
+    - na: on
+    - nama: us
+    - njega: him
+    - on: he
+    - ona: she
+    - osjeća: feels
+    - osjećam: I feel
+    - osjećamo: we feel
+    - osjećati: to feel
+    - otišao: went
+    - pobjegao: ran away
+    - pokazuje: shows
+    - ponosno: proudly
+    - prestrašeno: scared
+    - prirodna: natural
+    - rad: work
+    - raditi: to work
+    - radosno: joyfully
+    - radost: joy
+    - reakcija: reaction
+    - samo: only
+    - se: oneself
+    - skriva: hides
+    - snažna: strong
+    - sramotno: shamefully
+    - srce: heart
+    - srcu: heart
+    - strah: fear
+    - svoj: his/her/its
+    - trpjeti: to suffer
+    - tugu: sadness
+    - u: in
+    - važan: important
+    - veselo: cheerfully
+    - volimo: we love
+    - vrlo: very
+    - za: for
+    - zavidno: enviously
+    - žalostno/tužno: sadly/sadly
+    - želimo: we want
+  English:
+    - a: jedin/один
+    - and: i
+    - anger: gnjev
+    - angrily: gnjevno
+    - angry: gnjevan
+    - ashamed: sramotan
+    - away: daleko
+    - cheerful: veseo
+    - comes: dolazi
+    - dark: taman
+    - emotion: emocija
+    - envy: zavist
+    - fear: strah
+    - feel: osjećati
+    - feels: osjeća
+    - filled: napunjena
+    - for: za
+    - frightened: prestrašen
+    - from: iz
+    - have: imati
+    - he: on
+    - heart: srce
+    - her: njezina
+    - hide: skrivati
+    - hides: skriva
+    - him: mu
+    - his: njegov
+    - home: dom
+    - i: ja
+    - important: važan
+    - in: u
+    - inside: iznutra
+    - is: je
+    - jealous: zavidno
+    - joy: radost
+    - joyful: radostan
+    - joyfully: radosno
+    - love: ljubav
+    - my: moj
+    - natural: prirodna
+    - of: od
+    - only: samo
+    - peace: mir
+    - peaceful: miran
+    - proud: ponosan
+    - proudly: ponosno
+    - ran: pobjegao
+    - reaction: reakcija
+    - run: trčati
+    - sad: žalostan/tužan
+    - sadly: žalostno/tužno
+    - sadness: tugu
+    - shame: sram
+    - she: ona
+    - shows: pokazuje
+    - soul: duše
+    - spoke: govorio
+    - strong: snažan
+    - suffer: trpjeti
+    - tells: kaže
+    - the: to
+    - them: ih
+    - this: ovaj
+    - to: do
+    - tremor: drhtanje/strah
+    - us: nas
+    - very: vrlo
+    - was: bio
+    - we: mi
+    - week: tjedan
+    - went: išao
+    - when: kad
+    - with: sa
+    - within: unutra
+    - work: rad

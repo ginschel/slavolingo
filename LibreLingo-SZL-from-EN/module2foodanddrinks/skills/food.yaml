@@ -1,0 +1,183 @@
+Skill:
+  Name: Food
+  Id: 6
+
+New words:
+  - Word: chlyb
+    Translation: bread
+  - Word: warzyć
+    Translation: to prepare
+  - Word: nōńś
+    Translation: to carry
+  - Word: jeiś (je)
+    Translation: to eat
+  - Word: masło
+    Translation: butter
+  - Word: mlyko
+    Translation: milk
+  - Word: miyso
+    Translation: meat
+  - Word: jajco
+    Translation: egg
+  - Word: śniodanie
+    Translation: breakfast
+  - Word: ôbiad
+    Translation: lunch
+  - Word: kupić
+    Translation: to buy
+  - Word: wieczerza
+    Translation: dinner
+  - Word: danie/talyrz
+    Translation: dish
+  - Word: ksiónżka
+    Translation: book
+  - Word: słodki
+    Translation: sweet
+  - Word: jedzynie
+    Translation: food
+
+Phrases:
+  - Phrase: Jo jym chlyb.
+    Translation: I am eating bread.
+  - Phrase: Ôna je miyso.
+    Translation: She is eating meat.
+  - Phrase: Ôn lubi mlyko.
+    Translation: He likes milk.
+  - Phrase: Widza Vlada z jedzyniym
+    Translation: I see Vlad with food
+  - Phrase: Ty jes jajco?
+    Translation: Are you eating an egg?
+  - Phrase: My jymy wieczerza.
+    Translation: We are eating dinner.
+  - Phrase: Ôni majōm śniodanie.
+    Translation: They are having breakfast.
+  - Phrase: Jo kupia masło.
+    Translation: I will buy butter.
+  - Phrase: Ôn warzi ôbiad.
+    Translation: He is preparing lunch.
+  - Phrase: Ôna nōńsi danie.
+    Translation: She is carrying a dish.
+  - Phrase: Ôni kupujōm masło i chlyb.
+    Translation: They are buying butter and bread.
+  - Phrase: Ôn pije mlyko i je miyso.
+    Translation: He is drinking milk and eating meat.
+  - Phrase: Czytosz ty ksiónżka i jes śniodanie?
+    Translation: Are you reading a book and eating breakfast?
+  - Phrase: Widza ôbiad na stole.
+    Translation: I see lunch on the table.
+  - Phrase: Ty mosz masło?
+    Translation: Do you have butter?
+  - Phrase: My warzymy wieczerza kożdy dziyń.
+    Translation: We prepare dinner every day.
+  - Phrase: Jo wia, co ty lubisz jajca.
+    Translation: I know that you like eggs.
+  - Phrase: Ôn je słodke jedzynie.
+    Translation: He eats sweet food.
+  - Phrase: Ôna lubi warzyć wieczerza.
+    Translation: She likes to prepare dinner.
+  - Phrase: My widzymy twoja pizza na stole.
+    Translation: We see your pizza on the table.
+  - Phrase: Ôni wiedzōm, co jo zawżdy jym chlyb z masłym.
+    Translation: They know that I always eat bread with butter.
+
+Mini-dictionary:
+  Silesian:
+    - co: what
+    - czytosz: reads
+    - danie: dish
+    - dziyń: day
+    - i: and
+    - jajca: eggs
+    - je: is
+    - jedzyniym: food
+    - jeiś: eat
+    - jes: is
+    - jo: I
+    - jym: them
+    - jymy: them
+    - kożdy: each
+    - kupia: buy
+    - kupujōm: buy
+    - lubi: likes
+    - lubisz: love/like
+    - majōm: have
+    - masłym: butter
+    - mosz: have
+    - my: we
+    - na: on
+    - nōńsi: carries
+    - pije: drinks
+    - pizza: pizza
+    - stole: table
+    - słodke: sweet
+    - twoja: your
+    - ty: you
+    - vlada: vlad
+    - warzi: cooks
+    - warzymy: prepare
+    - wia: knows
+    - widza: see
+    - widzymy: see
+    - wiedzōm: know
+    - z: from
+    - zawżdy: always
+    - ôn: he
+    - ôna: she
+    - ôni: they
+  English:
+    - a: jedin/один
+    - always: dycki
+    - am: jeżech
+    - an: [no direct equivalent, often implied or 'jedyn']
+    - and: a
+    - are: byti/быти
+    - book: kńiżka
+    - bread: chlyb
+    - breakfast: frusztik
+    - butter: masło
+    - buy: kupić
+    - buying: kupowanie
+    - carry: nosić
+    - carrying: noszynie
+    - day: dziyń
+    - dinner: ôbiad
+    - dish: talyrz
+    - do: robić
+    - drinking: picie
+    - eat: jeś
+    - eating: jedzynie
+    - eats: je
+    - egg: jajco
+    - eggs: jajca
+    - every: kożdy
+    - food: jedzynie
+    - have: mieć
+    - having: majōńc
+    - he: ôn
+    - i: jŏ
+    - is: je
+    - know: wiedzieć
+    - like: lubić
+    - likes: lubi
+    - lunch: ôbiad
+    - meat: miyso
+    - milk: mlyko
+    - on: na
+    - pizza: picca
+    - prepare: pōgotować
+    - preparing: pōgotowanie
+    - reading: czytanie
+    - see: widzieć
+    - she: ôna
+    - sweet: słodki
+    - table: tisch
+    - that: co
+    - the: to
+    - they: ôni
+    - to: do
+    - vlad: Wład
+    - we: my
+    - will: bydź
+    - with: z
+    - you: ty
+    - your: twōj

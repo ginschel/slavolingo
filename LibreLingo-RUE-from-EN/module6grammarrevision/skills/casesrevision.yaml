@@ -1,0 +1,195 @@
+Skill:
+  Name: Cases revision
+  Id: 19
+
+New words:
+  - Word: "рїзати (рїже)"
+    Translation: to cut
+  - Word: "дар"
+    Translation: gift
+  - Word: "всесвіт"
+    Translation: universe
+  - Word: "зеркало"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Кістї ту не є.
+    Translation: There is no bone here.
+  - Phrase: Дам женї.
+    Translation: I give to the woman.
+  - Phrase: Она є в містї.
+    Translation: She is in the city.
+  - Phrase: Говориме з приятелями.
+    Translation: I talk with friends.
+  - Phrase: Імня он не має.
+    Translation: He has no name.
+  - Phrase: Ты душі не маєш?!
+    Translation: You don't have a soul?!
+  - Phrase: Он видить свою жену.
+    Translation: He sees his wife.
+  - Phrase: Брата ту не є.
+    Translation: There is no brother here.
+  - Phrase: Тото можна рїзати ножом.
+    Translation: This can be cut with a knife.
+  - Phrase: Она з мужом говорити.
+    Translation: She talks with her husband.
+  - Phrase: Она говорити о братах.
+    Translation: She talks about brothers.
+  - Phrase: Она дає дар братам.
+    Translation: She gives a gift to the brothers.
+  - Phrase: На поли много роблю.
+    Translation: I work a lot in the field.
+  - Phrase: Є много сонц в всесвітї.
+    Translation: There are many suns in the universe.
+  - Phrase: І тоже є много звїзд.
+    Translation: And there are also many stars.
+  - Phrase: Он любить говорити зо своєв женув.
+    Translation: He likes to talk with his wife.
+  - Phrase: Уж не є бананов в домї.
+    Translation: There are no more bananas in the house.
+  - Phrase: В очах видиме душу твою.
+    Translation: In the eyes I see your soul.
+  - Phrase: Очі суть зеркалом душі.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Мужов ту не видиме.
+    Translation: I do not see men here.
+  - Phrase: В містах увидиш много люди.
+    Translation: In the cities you will see many people.
+  - Phrase: Спокойної ночі!
+    Translation: Good night!
+
+Mini-dictionary:
+  Rusin:
+    - бананов: bananas
+    - брата: brother
+    - братам: brothers
+    - братах: brothers
+    - в: in
+    - видиме: see
+    - видить: sees
+    - всесвіт: universe
+    - всесвітї: universe
+    - говориме: speak
+    - говорити: speak
+    - дам: give
+    - дар: gift
+    - дає: gives
+    - домї: house
+    - душу: soul
+    - душі: soul
+    - жену: wife
+    - женув: wife
+    - женї: wife
+    - з: from
+    - звїзд: stars
+    - зеркало: mirror
+    - зеркалом: mirror
+    - зо: of
+    - кістї: bones
+    - любить: loves
+    - люди: people
+    - має: has
+    - маєш: have
+    - много: many
+    - можна: possible
+    - мужов: husband
+    - мужом: husband
+    - містах: cities
+    - містї: city
+    - на: on
+    - не: not
+    - ножом: knife
+    - ночі: night
+    - о: about
+    - он: he
+    - она: she
+    - очах: eyes
+    - очі: eyes
+    - поли: fields
+    - приятелями: friends
+    - роблю: work
+    - рїже: cuts
+    - рїзати: cut
+    - свою: your
+    - своєв: your
+    - сонц: sun
+    - спокойної: peaceful
+    - суть: are
+    - твою: your
+    - тоже: too
+    - тото: this
+    - ту: here
+    - ты: you
+    - увидиш: see
+    - уж: already
+    - є: is
+    - і: and
+    - імня: name
+  English:
+    - a: jedin/один
+    - about: о
+    - also: також
+    - and: и
+    - are: byti/быти
+    - bananas: бананы
+    - be: быти
+    - bone: кость
+    - brother: брат
+    - brothers: братя
+    - can: мочи
+    - cities: міста
+    - city: місто
+    - cut: різати
+    - do: робити
+    - don't: не
+    - eyes: очі
+    - field: поле
+    - friends: камараты
+    - gift: дар
+    - give: дати
+    - gives: давать
+    - good: добрый
+    - has: мать
+    - have: мати
+    - he: він
+    - her: єй
+    - here: ту
+    - his: його
+    - house: хыжа
+    - husband: муж
+    - i: я
+    - in: в
+    - is: є
+    - knife: ніж
+    - likes: любить
+    - lot: много
+    - many: много
+    - men: чоловікы
+    - mirror: зеркало
+    - more: веце
+    - name: імя
+    - night: ніч
+    - no: нї
+    - not: не
+    - of: з
+    - people: люде
+    - see: видіти
+    - sees: видить
+    - she: она
+    - soul: душа
+    - stars: звізды
+    - suns: сонця
+    - talk: говорити
+    - talks: говорить
+    - the: to
+    - there: там
+    - this: тот
+    - to: до
+    - universe: вселена
+    - wife: жона
+    - will: буде
+    - with: з
+    - woman: жона
+    - work: робити
+    - you: ты
+    - your: твій

@@ -1,0 +1,173 @@
+Skill:
+  Name: Animals
+  Id: 14
+
+New words:
+  - Word: кіт
+    Translation: cat
+  - Word: пес
+    Translation: dog
+  - Word: птах
+    Translation: bird
+  - Word: помагати
+    Translation: to help
+  - Word: указати (укаже)
+    Translation: to show
+  - Word: кінь
+    Translation: horse
+  - Word: дати (дасть)
+    Translation: to give
+  - Word: рыба
+    Translation: fish
+  - Word: жаба
+    Translation: frog
+  - Word: медвїдь
+    Translation: bear
+  - Word: волк
+    Translation: wolf
+  - Word: мыша
+    Translation: mouse
+  - Word: звїрь
+    Translation: animal
+
+Phrases:
+  - Phrase: Я дам котови рыбу.
+    Translation: I give the cat a fish.
+  - Phrase: Она укаже псови.
+    Translation: She says to the dog.
+  - Phrase: Он помагає птахови.
+    Translation: He helps the bird.
+  - Phrase: Даєме коню воду.
+    Translation: We give the horse water.
+  - Phrase: Она несе мыши сыр.
+    Translation: She carries cheese to the mouse.
+  - Phrase: Он помагає медвїдю.
+    Translation: He helps the bear.
+  - Phrase: Мы даєме жабі хлїб.
+    Translation: We give bread to the frog.
+  - Phrase: Они дають звїреви руку.
+    Translation: They give their hand to the animal.
+  - Phrase: Помагаєме волкови.
+    Translation: We help the wolf.
+  - Phrase: Ты даси мі рыбу?
+    Translation: Will you give me a fish?
+  - Phrase: Я дам котови імня.
+    Translation: I give the cat a name.
+  - Phrase: Он дасть мыши сыр.
+    Translation: On da myši syr.
+  - Phrase: Мы помагаєме птахам.
+    Translation: We help the birds.
+  - Phrase: Даєме жабі воду.
+    Translation: We give the frog water.
+  - Phrase: Они несуть медвїдю їду.
+    Translation: They are carrying food to the bear.
+  - Phrase: Она дає псови добре імня.
+    Translation: She gives the dog a good name.
+  - Phrase: Вы дасте коню.
+    Translation: You will give the horse.
+  - Phrase: Я дам рыбі воду.
+    Translation: I give the fish water.
+  - Phrase: Она помагала ёму зо звїрем.
+    Translation: She helped him with the animal.
+  - Phrase: Даси ли псови смачну кість?
+    Translation: Will you give the dog a tasty bone?
+
+Mini-dictionary:
+  Rusin:
+    - воду: water
+    - волкови: wolf
+    - вы: you
+    - дам: give
+    - даси: maybe
+    - дасте: give
+    - дасть: give
+    - дати: give
+    - дають: give
+    - дає: gives
+    - даєме: give
+    - добре: good
+    - жабі: frog
+    - звїреви: animal
+    - звїрем: animal
+    - зо: of
+    - коню: horse
+    - котови: cat
+    - кість: bone
+    - ли: if
+    - медвїдю: bear
+    - мы: we
+    - мыши: mouse
+    - мі: me
+    - несе: carries
+    - несуть: carry
+    - он: he
+    - она: she
+    - они: they
+    - помагала: helped
+    - помагає: helps
+    - помагаєме: help
+    - псови: dog
+    - птахам: birds
+    - птахови: bird
+    - руку: hand
+    - рыбу: fish
+    - рыбі: fish
+    - смачну: tasty
+    - сыр: cheese
+    - ты: you
+    - укаже: show
+    - указати: show
+    - хлїб: bread
+    - я: I
+    - ёму: him
+    - імня: name
+    - їду: eat
+  English:
+    - a: jedin/один
+    - animal: звіря
+    - are: byti/быти
+    - bear: медвідь
+    - bird: птах
+    - birds: птахы
+    - bone: кость
+    - bread: хлїб
+    - carries: несе
+    - carrying: несе
+    - cat: кот
+    - cheese: сыр
+    - da: да
+    - dog: пес
+    - fish: рыба
+    - food: їдло
+    - frog: жаба
+    - give: дати
+    - gives: давать
+    - good: добрый
+    - hand: рука
+    - he: він
+    - help: помочі
+    - helped: поміг
+    - helps: помагає
+    - him: го
+    - horse: кінь
+    - i: я
+    - me: мі
+    - mouse: мыша
+    - myši: мышы
+    - name: імя
+    - on: на
+    - says: каже
+    - she: она
+    - show: указати
+    - syr: сыр
+    - tasty: смачный
+    - the: to
+    - their: їх
+    - they: они
+    - to: до
+    - water: вода
+    - we: мы
+    - will: буде
+    - with: з
+    - wolf: вовк
+    - you: ты

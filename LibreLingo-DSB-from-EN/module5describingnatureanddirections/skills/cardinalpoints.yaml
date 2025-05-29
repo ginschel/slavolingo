@@ -1,0 +1,188 @@
+Skill:
+  Name: Cardinal points
+  Id: 18
+
+New words:
+  - Word: nord
+    Translation: north
+  - Word: sud
+    Translation: south
+  - Word: zapad
+    Translation: west
+  - Word: pódzajtšo
+    Translation: east
+  - Word: nordowy
+    Translation: northern
+  - Word: sudowy
+    Translation: southern
+  - Word: zapadny
+    Translation: western
+  - Word: pódzajtšny
+    Translation: eastern
+  - Word: kompas
+    Translation: compass
+  - Word: bok
+    Translation: side
+  - Word: źo
+    Translation: where
+  - Word: wustaś (wustajo)
+    Translation: to rise
+  - Word: pokazaś
+    Translation: to show
+  - Word: karta
+    Translation: map
+  - Word: puśowaś
+    Translation: to travel
+  - Word: rědne
+    Translation: right
+  - Word: lěwe
+    Translation: left
+  - Word: proste
+    Translation: straight
+
+Phrases:
+  - Phrase: Nord jo zymny.
+    Translation: The north is cold.
+  - Phrase: Sud jo śopły.
+    Translation: The south is warm.
+  - Phrase: Słyńco wustajo na pódzajśu.
+    Translation: The sun rises in the east.
+  - Phrase: Wóno zapadujo na zapadźe.
+    Translation: It sets in the west.
+  - Phrase: To jo nordowy bok.
+    Translation: This is the northern side.
+  - Phrase: Žyjomy na suźe.
+    Translation: We live in the south.
+  - Phrase: Kompas pokazujo nord.
+    Translation: The compass shows north.
+  - Phrase: Pódzajtšo jo tam.
+    Translation: The east is there.
+  - Phrase: Zapadny wětš dmujo.
+    Translation: A western wind is blowing.
+  - Phrase: Źomy k jugo-zapad.
+    Translation: We are going to the southwest.
+  - Phrase: To jo nordowo-zapadny region.
+    Translation: This is the northwestern region.
+  - Phrase: Bok na karśe pokazujo zapad.
+    Translation: The side on the map shows west.
+  - Phrase: Jugo-pódzajtšo jo tam, źo grějo słyńco.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Źomy do sudowego boka.
+    Translation: We are going to the southern side.
+  - Phrase: Wón puśujo na pódzajtšo.
+    Translation: He travels eastward.
+  - Phrase: Na nordźe jo sněg.
+    Translation: In the north there is snow.
+  - Phrase: Sudowe kraje su śopłe.
+    Translation: The southern regions are warm.
+  - Phrase: Zapad jo lěwe na karśe.
+    Translation: West is left on the map.
+  - Phrase: Pódzajtšna muzika jo zajmna.
+    Translation: Eastern music is interesting.
+  - Phrase: Glědamy k nord.
+    Translation: We are looking to the north.
+  - Phrase: Źomy nětśi rědne a pótom proste.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: and
+    - boka: side
+    - dmujo: blows
+    - do: to, into
+    - glědamy: we look
+    - grějo: warms
+    - jo: yes
+    - jugo-pódzajtšo: southeast
+    - jugo-zapad: southwest
+    - k: to
+    - karśe: card
+    - kraje: countries
+    - muzika: music
+    - na: on
+    - nordowo-zapadny: northwest
+    - nordźe: in the north
+    - nětśi: some
+    - pokazujo: shows
+    - puśujo: travels
+    - pódzajtšna: eastern
+    - pódzajśu: in the east
+    - pótom: then
+    - region: region
+    - sněg: snow
+    - su: are
+    - sudowe: court
+    - sudowego: court
+    - suźe: judge
+    - słyńco: sun
+    - tam: there
+    - to: this
+    - wustajo: displays
+    - wustaś: to display
+    - wón: he
+    - wóno: it
+    - wětš: wind
+    - zajmna: interesting
+    - zapadujo: falls
+    - zapadźe: in the west
+    - zymny: cold
+    - śopłe: warm
+    - śopły: warm
+    - źomy: we go
+    - žyjomy: we live
+  English:
+    - a: jedin/один
+    - and: a
+    - are: byti/быти
+    - blowing: dmucy
+    - cold: zymny
+    - compass: kompas
+    - east: pódzajtšo
+    - eastern: pódzajtšny
+    - eastward: pódzajtšo
+    - going: źucy
+    - he: wón
+    - in: w
+    - interesting: zajmny
+    - is: jo
+    - it: wóno
+    - left: lěwy
+    - live: žyś
+    - looking: glědajucy
+    - map: karta
+    - music: muzika
+    - north: pódpołnoc
+    - northern: pódpołnocny
+    - northwestern: pódpołnocno-zapadny
+    - now: něnto
+    - on: na
+    - region: region
+    - regions: regiony
+    - right: pšawy
+    - rise: wustaś
+    - rises: wustajo
+    - sets: stajajo
+    - show: pokazowaś
+    - shows: pokazujo
+    - side: bok
+    - snow: sněg
+    - south: pódpołdnjo
+    - southeast: pódpołdnjowo-pódzajtšo
+    - southern: pódpołdnjowy
+    - southwest: pódpołdnjowo-zapad
+    - straight: rowny
+    - sun: słyńco
+    - the: to
+    - then: pótom
+    - there: tam
+    - this: toś
+    - to: do
+    - travel: rejskaś
+    - travels: rejskajo
+    - warm: śopły
+    - warms: śopli
+    - we: my
+    - west: wjacor
+    - western: wjacorny
+    - where: źo
+    - wind: wětš

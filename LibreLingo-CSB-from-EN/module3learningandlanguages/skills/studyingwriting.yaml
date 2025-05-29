@@ -1,0 +1,174 @@
+Skill:
+  Name: Studying & Writing
+  Id: 9
+
+New words:
+  - Word: szkòła
+    Translation: school
+  - Word: ùczëcelka
+    Translation: female teacher
+  - Word: ùczëcel
+    Translation: male teacher
+  - Word: zôpisk
+    Translation: note
+  - Word: ùcznik
+    Translation: student
+  - Word: knéga
+    Translation: book
+  - Word: zadanié
+    Translation: assignment
+  - Word: stół
+    Translation: table
+  - Word: tusz
+    Translation: ink
+  - Word: papiór
+    Translation: paper
+  - Word: przedmiot
+    Translation: subject
+  - Word: metoda
+    Translation: method
+  - Word: pióro
+    Translation: pen
+  - Word: zôpisk
+    Translation: notebook
+  - Word: na
+    Translation: on
+
+Phrases:
+  - Phrase: To je mòja szkòła.
+    Translation: This is my school.
+  - Phrase: Òna je ùczëcelką.
+    Translation: She is a teacher.
+  - Phrase: On je ùcznikã.
+    Translation: He is a student.
+  - Phrase: Knéga je na stole.
+    Translation: The book is on the table.
+  - Phrase: Ja mëm zadanié.
+    Translation: I have an assignment.
+  - Phrase: Tusz je jesce mòkri.
+    Translation: The ink is still wet.
+  - Phrase: Papiór je biôłi.
+    Translation: The paper is white.
+  - Phrase: Ten przedmiot to matematiczô.
+    Translation: This subject is mathematics.
+  - Phrase: Ta metoda je dobrô.
+    Translation: This method is good.
+  - Phrase: Ùcznik mô knégã.
+    Translation: The student has a book.
+  - Phrase: To je mój stół.
+    Translation: This is my desk.
+  - Phrase: Mój zôpisk je peļni zôpisków z piórã
+    Translation: My notebook is full of notes with a pen
+  - Phrase: Pisze na papiórze piórã.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Szkòła je w centrom.
+    Translation: The school is in the center.
+  - Phrase: Më piszemë zadanié.
+    Translation: We are writing the assignment.
+  - Phrase: Ùczëcel gôdô ze studentama.
+    Translation: The teacher is talking with students.
+  - Phrase: Òna mô wiele zadaniów.
+    Translation: She has many assignments.
+  - Phrase: Ja chùtczi pisze z tim piórã.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Przedmiot je cãżczi.
+    Translation: The subject is complex.
+  - Phrase: Knéga je nowô.
+    Translation: The book is new.
+  - Phrase: On je mòjim ùczëcelã.
+    Translation: He is my teacher.
+
+Mini-dictionary:
+  Kashubian:
+    - biôłi: white
+    - centrom: centers
+    - chùtczi: fast
+    - cãżczi: heavy
+    - dobrô: good
+    - gôdô: speaks
+    - ja: yes
+    - je: is
+    - jesce: still
+    - knégã: book
+    - matematiczô: mathematics
+    - më: we
+    - mëm: I have
+    - mòja: my
+    - mòjim: my
+    - mòkri: wet
+    - mój: my
+    - mô: has
+    - nowô: new
+    - on: he
+    - papiórze: paper
+    - peļni: full
+    - pisze: writes
+    - piszemë: we write
+    - piórã: pen
+    - stole: table
+    - studentama: students
+    - ta: this
+    - ten: this
+    - tim: this
+    - to: this
+    - w: in
+    - wiele: many
+    - z: with
+    - zadaniów: tasks
+    - ze: with
+    - zôpisków: notes
+    - òna: she
+    - ùcznikã: student
+    - ùczëcelką: teacher (female)
+    - ùczëcelã: teacher
+  English:
+    - a: jedin/один
+    - am: jem
+    - an: jeden
+    - are: byti/быти
+    - assignment: zadanié
+    - assignments: zadanja
+    - book: knéga
+    - center: centrum
+    - complex: kòmpléksowi
+    - desk: biórkò
+    - female: żeńskô
+    - full: pełny
+    - good: dobri
+    - has: mô
+    - have: miec
+    - he: on
+    - i: jô
+    - in: w
+    - ink: tint
+    - is: je
+    - male: męsczi
+    - many: wiele
+    - mathematics: matematika
+    - method: metoda
+    - my: mój
+    - new: nowi
+    - note: nota
+    - notebook: zeszët
+    - notes: notë
+    - of: òd
+    - on: na
+    - paper: papiér
+    - pen: długopis
+    - quickly: chùtkò
+    - school: szkòła
+    - she: òna
+    - still: dali
+    - student: sztudént
+    - students: sztudéntë
+    - subject: przédzmiôt
+    - table: stół
+    - talking: gôdanié
+    - teacher: ùczëcél
+    - the: to
+    - this: to
+    - we: më
+    - wet: mòkri
+    - white: biôłi
+    - with: z
+    - writing: pisanié

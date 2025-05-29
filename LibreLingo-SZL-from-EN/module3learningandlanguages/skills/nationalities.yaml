@@ -1,0 +1,173 @@
+Skill:
+  Name: Nationalities
+  Id: 11
+
+New words:
+  - Word: słowian
+    Translation: Slav
+  - Word: gŏdka
+    Translation: language
+  - Word: kraj
+    Translation: country
+  - Word: nŏrōd
+    Translation: nation
+  - Word: miano
+    Translation: name
+  - Word: Kroatka
+    Translation: Croat
+  - Word: Rus
+    Translation: Russian
+  - Word: Polŏk
+    Translation: Pole
+  - Word: Niymiec
+    Translation: German
+  - Word: Anglik
+    Translation: Englishman
+
+Phrases:
+  - Phrase: Ôn je Słowianym.
+    Translation: He is a Slav.
+  - Phrase: Ôna godo po słowiańsku.
+    Translation: She speaks the Slavic language.
+  - Phrase: To je moja gŏdka.
+    Translation: This is my language.
+  - Phrase: Kraje je Polska.
+    Translation: The country is Poland.
+  - Phrase: Jo żech je Polŏkym.
+    Translation: I am a Pole.
+  - Phrase: Ôna je Kroatkōm.
+    Translation: She is a Croat.
+  - Phrase: Ôn je Rusym.
+    Translation: He is a Russian.
+  - Phrase: Godosz po niymiecku?
+    Translation: Do you speak the German language?
+  - Phrase: Anglik godo po angielsku.
+    Translation: An Englishman speaks the English language.
+  - Phrase: My lubiōmy nasz nŏrōd.
+    Translation: We love our nation.
+  - Phrase: To je miano mojigo kraju.
+    Translation: This is the name of my country.
+  - Phrase: Ôn wia trzi gŏdki.
+    Translation: He knows three languages.
+  - Phrase: Kroat godo po chorwacku.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Niymiec miyszko we Niymcach.
+    Translation: A German lives in Germany.
+  - Phrase: Ôna zna rusko a słowiańsko.
+    Translation: She knows Russian and Slavic.
+  - Phrase: To je nŏrōd z bogatōm kulturōm.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Ty żeś je Anglikym?
+    Translation: Are you an Englishman?
+  - Phrase: Ôn godo kożdōm gŏdka dobrze.
+    Translation: He speaks every language well.
+  - Phrase: My uczyjymy sie ruskij gŏdki.
+    Translation: We are learning the Russian language.
+  - Phrase: Ôna zna moc narodōw.
+    Translation: She knows many nations.
+
+Mini-dictionary:
+  Silesian:
+    - a: a
+    - angielsku: English
+    - anglik: Englishman
+    - anglikym: Englishman
+    - bogatōm: rich
+    - chorwacku: Croatian
+    - dobrze: well
+    - godo: speaks
+    - godosz: speak
+    - gŏdki: languages
+    - je: is
+    - jo: I
+    - kożdōm: every
+    - kraje: countries
+    - kraju: country
+    - kroat: Croat
+    - kroatka: Croat
+    - kroatkōm: Croat
+    - kulturōm: culture
+    - lubiōmy: love/like
+    - miyszko: lives
+    - moc: much
+    - moja: my
+    - mojigo: my
+    - my: we
+    - narodōw: nations
+    - nasz: our
+    - niymcach: Germany
+    - niymiec: German
+    - niymiecku: German
+    - po: after
+    - polska: Poland
+    - polŏk: Pole
+    - polŏkym: Pole
+    - rus: Russian
+    - ruskij: Russian
+    - rusko: Russian
+    - rusym: Russian
+    - sie: herself
+    - słowianym: Slav
+    - słowiańsko: Slavic
+    - słowiańsku: Slavic
+    - to: to
+    - trzi: three
+    - ty: you
+    - uczyjymy: teach
+    - we: in
+    - wia: knows
+    - z: from
+    - zna: knows
+    - ôn: he
+    - ôna: she
+    - żech: I
+    - żeś: you
+  English:
+    - a: jedin/один
+    - am: jeżech
+    - an: [no direct equivalent, often implied or 'jedyn']
+    - and: a
+    - are: byti/быти
+    - country: kraj
+    - croat: Chorwat
+    - croatian: chorwacki
+    - culture: kultura
+    - do: robić
+    - english: angelski
+    - englishman: Anglik
+    - every: kożdy
+    - german: mjymiecki
+    - germany: Mjymcy
+    - he: ôn
+    - i: jŏ
+    - in: w
+    - is: je
+    - knows: wie
+    - language: godka
+    - languages: godki
+    - learning: uczynie sie
+    - lives: miyszko
+    - love: miłować
+    - many: wiela
+    - my: mōj
+    - name: mjano
+    - nation: nacyjo
+    - nations: nacyje
+    - of: ôd
+    - our: nasz
+    - poland: Polska
+    - pole: Polok
+    - rich: bogaty
+    - russian: ruski
+    - she: ôna
+    - slav: Słowian
+    - slavic: słowiański
+    - speak: gōdać
+    - speaks: gōdo
+    - the: to
+    - this: tyn
+    - three: trzi
+    - we: my
+    - well: dobrze
+    - with: z
+    - you: ty

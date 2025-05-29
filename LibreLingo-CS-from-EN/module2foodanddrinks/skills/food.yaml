@@ -1,0 +1,186 @@
+Skill:
+  Name: Food
+  Id: 6
+
+New words:
+  - Word: chléb
+    Translation: bread
+  - Word: vařit
+    Translation: to prepare
+  - Word: nést
+    Translation: to carry
+  - Word: jíst (jí)
+    Translation: to eat
+  - Word: máslo
+    Translation: butter
+  - Word: mléko
+    Translation: milk
+  - Word: maso
+    Translation: meat
+  - Word: vejce
+    Translation: egg
+  - Word: snídaně
+    Translation: breakfast
+  - Word: oběd
+    Translation: lunch
+  - Word: koupit
+    Translation: to buy
+  - Word: večeře
+    Translation: dinner
+  - Word: jídlo/pokrm
+    Translation: dish
+  - Word: kniha
+    Translation: book
+  - Word: sladký
+    Translation: sweet
+  - Word: jídlo
+    Translation: food
+
+Phrases:
+  - Phrase: Já jím chléb.
+    Translation: I am eating bread.
+  - Phrase: Ona jí maso.
+    Translation: She is eating meat.
+  - Phrase: On má rád mléko.
+    Translation: He likes milk.
+  - Phrase: Já vidím Vlada s jídlem
+    Translation: I see Vlad with food
+  - Phrase: Ty jíš vejce?
+    Translation: Are you eating an egg?
+  - Phrase: My jíme večeři.
+    Translation: We are eating dinner.
+  - Phrase: Oni mají snídani.
+    Translation: They are having breakfast.
+  - Phrase: Já koupím máslo.
+    Translation: I will buy butter.
+  - Phrase: On vaří oběd.
+    Translation: He is preparing lunch.
+  - Phrase: Ona nese pokrm.
+    Translation: She is carrying a dish.
+  - Phrase: Oni kupují máslo a chléb.
+    Translation: They are buying butter and bread.
+  - Phrase: On pije mléko a jí maso.
+    Translation: He is drinking milk and eating meat.
+  - Phrase: Čteš ty knihu a jíš snídani?
+    Translation: Are you reading a book and eating breakfast?
+  - Phrase: Já vidím oběd na stole.
+    Translation: I see lunch on the table.
+  - Phrase: Ty máš máslo?
+    Translation: Do you have butter?
+  - Phrase: My vaříme večeři každý den.
+    Translation: We prepare dinner every day.
+  - Phrase: Já vím, že ty máš rád vejce.
+    Translation: I know that you like eggs.
+  - Phrase: On jí sladké jídlo.
+    Translation: He eats sweet food.
+  - Phrase: Ona má ráda vařit večeři.
+    Translation: She likes to prepare dinner.
+  - Phrase: My vidíme tvou pizzu na stole.
+    Translation: We see your pizza on the table.
+  - Phrase: Oni vědí, že já vždy jím chléb s máslem.
+    Translation: They know that I always eat bread with butter.
+
+Mini-dictionary:
+  Czech:
+    - a: a
+    - den: day
+    - já: I
+    - jí: eats/to her
+    - jídlem: food
+    - jím: I eat
+    - jíme: we eat
+    - jíst: eat
+    - jíš: you eat
+    - každý: each/every
+    - knihu: book
+    - koupím: I will buy
+    - kupují: they buy
+    - mají: have
+    - my: we
+    - má: has
+    - máslem: butter
+    - máš: you have
+    - na: on
+    - nese: carries
+    - on: he
+    - ona: she
+    - oni: they
+    - pije: drinks
+    - pizzu: pizza
+    - pokrm: dish
+    - rád: likes
+    - ráda: likes
+    - s: with
+    - sladké: sweet
+    - snídani: breakfast
+    - stole: table
+    - tvou: your
+    - ty: you
+    - vaří: cooks
+    - vaříme: we cook
+    - večeři: dinner
+    - vidím: I see
+    - vidíme: we see
+    - vlada: Vlad
+    - vím: I know
+    - vědí: they know
+    - vždy: always
+    - čteš: you read
+    - že: that
+  English:
+    - a: jedin/один
+    - always: vždy
+    - am: jsem
+    - an: nějaký
+    - and: a
+    - are: byti/быти
+    - book: kniha
+    - bread: chléb
+    - breakfast: snídaně
+    - butter: máslo
+    - buy: koupit
+    - buying: nakupování
+    - carry: nést
+    - carrying: nesoucí
+    - day: den
+    - dinner: večeře
+    - dish: jídlo
+    - do: dělat
+    - drinking: pití
+    - eat: jíst
+    - eating: jídlo
+    - eats: jí
+    - egg: vejce
+    - eggs: vejce
+    - every: každý
+    - food: jídlo
+    - have: mít
+    - having: mající
+    - he: on
+    - i: já
+    - is: je
+    - know: vědět
+    - like: rád
+    - likes: má rád
+    - lunch: oběd
+    - meat: maso
+    - milk: mléko
+    - on: na
+    - pizza: pizza
+    - prepare: připravit
+    - preparing: příprava
+    - reading: čtení
+    - see: vidět
+    - she: ona
+    - sweet: sladký
+    - table: stůl
+    - that: to
+    - the: to
+    - they: oni
+    - to: do
+    - vlad: Vlad
+    - we: my
+    - will: bude
+    - with: s
+    - you: ty/vy
+    - your: tvůj/váš

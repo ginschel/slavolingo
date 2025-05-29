@@ -1,0 +1,199 @@
+Skill:
+  Name: Pronouns revision
+  Id: 20
+
+New words:
+  - Word: "znaś"
+    Translation: to know
+  - Word: "wěźeś (wě)"
+    Translation: to know
+  - Word: "sna"
+    Translation: dream
+  - Word: "wěc"
+    Translation: thing
+
+Phrases:
+  - Phrase: Togo nje znam.
+    Translation: I don't know that.
+  - Phrase: Wó tom južo dłujgo wěm.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Kogo ty wiźiš?
+    Translation: Who do you see?.
+  - Phrase: Tym, kenž lažyju spaś, měrny sna.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: Wó tej wěcy ja nic nje wěm.
+    Translation: I know nothing about that thing.
+  - Phrase: Powědam z tobu.
+    Translation: I am talking with you.
+  - Phrase: Ja wiźim was.
+    Translation: I see you.
+  - Phrase: Wón lubi byś sam ze sobu.
+    Translation: He likes to be alone with himself.
+  - Phrase: Daj mě wódu.
+    Translation: Give me water.
+  - Phrase: Z nami zawšu wšykno wjasełe.
+    Translation: With us everything is always cheerful.
+  - Phrase: Mje nje wiźiš.
+    Translation: You don't see me.
+  - Phrase: Komu daš dar?
+    Translation: Who do you give a gift to?
+  - Phrase: Wó mě powědaš?
+    Translation: Are you talking about me?
+  - Phrase: Nje, ja nje powědam wó śi.
+    Translation: No, I don't talt about you.
+  - Phrase: Wó com ty powědaš?
+    Translation: What are you talking about?
+  - Phrase: Te žony su krasne.
+    Translation: These women are beautiful.
+  - Phrase: Tych pśijaśelow nje maš.
+    Translation: You do not have those friends.
+  - Phrase: Wón dajo swóju měr.
+    Translation: He stops troubling others.
+  - Phrase: Což how nje ma we domje?
+    Translation: What isn't at this house here?
+  - Phrase: Tomu psu ty dajoš kóski.
+    Translation: You give to this dog bones.
+  - Phrase: To waš kafa abo jen?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Lower Sorbian:
+    - abo: or
+    - byś: to be
+    - com: what
+    - což: which
+    - daj: give
+    - dajo: gives
+    - dajoš: you give
+    - dar: gift
+    - daš: you give
+    - domje: at home
+    - dłujgo: long
+    - how: here
+    - ja: I
+    - jen: him
+    - južo: already
+    - kafa: coffee
+    - kenž: who, which
+    - kogo: whom
+    - komu: to whom
+    - krasne: beautiful
+    - kóski: bones
+    - lažyju: lie
+    - lubi: loves
+    - ma: has
+    - maš: you have
+    - mje: me
+    - mě: me
+    - měr: peace
+    - měrny: peaceful
+    - nami: us
+    - nic: nothing
+    - nje: no
+    - powědam: I tell
+    - powědaš: you tell
+    - psu: dog
+    - pśijaśelow: friends
+    - sam: self
+    - sna: dream
+    - sobu: with
+    - spaś: to sleep
+    - su: are
+    - swóju: his, her, its, their (reflexive possessive)
+    - te: these
+    - tej: this
+    - to: this
+    - tobu: you
+    - togo: that
+    - tom: that
+    - tomu: that
+    - ty: you
+    - tych: those
+    - tym: them
+    - was: you
+    - waš: your
+    - we: in
+    - wiźim: I see
+    - wiźiš: you see
+    - wjasełe: cheerful
+    - wó: about
+    - wódu: water
+    - wón: he
+    - wě: knows
+    - wěc: thing
+    - wěcy: things
+    - wěm: I know
+    - wěźeś: to know
+    - wšykno: everything
+    - z: with
+    - zawšu: always
+    - ze: with
+    - znam: I know
+    - znaś: to know
+    - śi: you
+    - žony: women
+  English:
+    - a: jedin/один
+    - about: wó
+    - alone: sam
+    - always: wžedno
+    - am: som
+    - are: byti/быти
+    - at: pśi
+    - be: byś
+    - beautiful: rědny
+    - bones: kóśe
+    - cheerful: wjasoły
+    - coffee: kofe
+    - do: cyniś
+    - dog: pjas
+    - don't: njej
+    - dream: sył
+    - everything: wšykno
+    - for: za
+    - friends: pśijaśele
+    - gift: dar
+    - give: daś
+    - going: źucy
+    - have: měś
+    - he: wón
+    - her: ju
+    - here: how
+    - himself: sam
+    - house: dom
+    - i: ja
+    - is: jo
+    - isn't: njej
+    - it: wóno
+    - know: wěźeś
+    - known: znate
+    - likes: lubujo
+    - long: dłujki
+    - me: mě
+    - no: nic
+    - not: nic
+    - nothing: nic
+    - or: abo
+    - others: druge
+    - peaceful: měrowy
+    - see: wiźeś
+    - sleep: spaś
+    - stops: zastajo
+    - talking: rozgronjujucy
+    - talt: wusoki
+    - that: to
+    - these: toś
+    - thing: wěc
+    - this: toś
+    - those: toś te
+    - time: cas
+    - to: do
+    - troubling: drožko
+    - us: nam
+    - water: wóda
+    - what: což
+    - who: chto
+    - with: z
+    - women: žony
+    - you: ty
+    - your: twój

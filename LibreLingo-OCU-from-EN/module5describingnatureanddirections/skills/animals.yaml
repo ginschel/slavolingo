@@ -1,0 +1,172 @@
+Skill:
+  Name: Animals
+  Id: 14
+
+New words:
+  - Word: котъ
+    Translation: cat
+  - Word: пєсъ
+    Translation: dog
+  - Word: птица
+    Translation: bird
+  - Word: помагати
+    Translation: to help
+  - Word: казати (кажєтъ)
+    Translation: to show
+  - Word: конь
+    Translation: horse
+  - Word: дати (даѥтъ)
+    Translation: to give
+  - Word: рꙑба
+    Translation: fish
+  - Word: жаба
+    Translation: frog
+  - Word: мєдъвѣдь
+    Translation: bear
+  - Word: вълкъ
+    Translation: wolf
+  - Word: мꙑшь
+    Translation: mouse
+  - Word: звѣрь
+    Translation: animal
+
+Phrases:
+  - Phrase: Азъ дамъ котꙋ рꙑбѫ.
+    Translation: I give the cat a fish.
+  - Phrase: Она кажєтъ пьсꙋ.
+    Translation: She says to the dog.
+  - Phrase: Онъ помагаѥтъ птици.
+    Translation: He helps the bird.
+  - Phrase: Даѥмъ конѭ водѫ.
+    Translation: We give the horse water.
+  - Phrase: Она нєсєтъ мꙑши сꙑръ.
+    Translation: She carries cheese to the mouse.
+  - Phrase: Онъ помагаѥтъ мєдъвѣдꙋ.
+    Translation: He helps the bear.
+  - Phrase: Мꙑ даѥмъ жабѣ хлѣбъ.
+    Translation: We give bread to the frog.
+  - Phrase: Они даѭтъ звѣри рѫкѫ.
+    Translation: They give their hand to the animal.
+  - Phrase: Помагаѥмъ вълкꙋ.
+    Translation: We help the wolf.
+  - Phrase: Тꙑ даси мьнѣ рꙑбѫ?
+    Translation: Will you give me a fish?
+  - Phrase: Азъ дамъ котꙋ имѧ.
+    Translation: I give the cat a name.
+  - Phrase: Онъ даѥтъ мꙑши сꙑръ.
+    Translation: On da myši syr.
+  - Phrase: Мꙑ помагаѥмъ птицамъ.
+    Translation: We help the birds.
+  - Phrase: Даѥмъ жабѣ водѫ.
+    Translation: We give the frog water.
+  - Phrase: Они нєсѫтъ мєдъвѣдꙋ ѥдѫ.
+    Translation: They are carrying food to the bear.
+  - Phrase: Она даѥтъ пьсꙋ добро имѧ.
+    Translation: She gives the dog a good name.
+  - Phrase: Вꙑ даитє конѭ.
+    Translation: You will give the horse.
+  - Phrase: Азъ дамъ рꙑбѣ водѫ.
+    Translation: I give the fish water.
+  - Phrase: Она помогла ѥмꙋ съ звѣромъ.
+    Translation: She helped him with the animal.
+  - Phrase: Даси ли пьсꙋ вкꙋсьнѫ кость?
+    Translation: Will you give the dog a tasty bone?
+
+Mini-dictionary:
+  Old Church Slavonic:
+    - азъ: I
+    - вкꙋсьнѫ: tasty (accusative)
+    - водѫ: water (accusative)
+    - вълкꙋ: to the wolf
+    - вꙑ: you (plural)
+    - даитє: give (plural imperative)
+    - дамъ: I will give
+    - даси: you (singular) will give
+    - дати: to give
+    - даѥмъ: we give
+    - даѥтъ: he/she/it gives
+    - даѭтъ: they give
+    - добро: good
+    - жабѣ: to the frog
+    - звѣри: animals
+    - звѣромъ: with an animal
+    - имѧ: name
+    - кажєтъ: he/she/it says
+    - казати: to say
+    - конѭ: to the horse
+    - кость: bone
+    - котꙋ: to the cat
+    - ли: if, whether
+    - мьнѣ: to me
+    - мєдъвѣдꙋ: to the bear
+    - мꙑ: we
+    - мꙑши: mice
+    - нєсєтъ: he/she/it carries
+    - нєсѫтъ: they carry
+    - она: she
+    - они: they (masculine)
+    - онъ: he
+    - помагаѥмъ: we help
+    - помагаѥтъ: he/she/it helps
+    - помогла: she helped
+    - птицамъ: to the birds
+    - птици: birds
+    - пьсꙋ: to the dog
+    - рѫкѫ: hand (accusative)
+    - рꙑбѣ: to the fish
+    - рꙑбѫ: fish (accusative)
+    - съ: with
+    - сꙑръ: cheese
+    - тꙑ: you (singular)
+    - хлѣбъ: bread
+    - ѥдѫ: food (accusative)
+    - ѥмꙋ: to him
+  English:
+    - a: jedin/один
+    - animal: звѣрь
+    - are: byti/быти
+    - bear: мєдъвѣдь
+    - bird: птица
+    - birds: птици
+    - bone: кость
+    - bread: хлѣбъ
+    - carries: носитъ
+    - carrying: нєсєтъ
+    - cat: котъ
+    - cheese: сꙑръ
+    - da: да
+    - dog: пєсъ
+    - fish: рꙑба
+    - food: ѥда
+    - frog: жаба
+    - give: дати
+    - gives: даѥтъ
+    - good: добръ
+    - hand: рѫка
+    - he: онъ
+    - help: помагати
+    - helped: помоглъ
+    - helps: помагаѥтъ
+    - him: ѥго
+    - horse: конь
+    - i: азъ, ꙗ
+    - me: мєнє
+    - mouse: мꙑшь
+    - myši: мꙑши
+    - name: имѧ
+    - on: на
+    - says: глаголѥтъ
+    - she: она
+    - show: показати
+    - syr: сꙑръ
+    - tasty: вкꙋсьнъ
+    - the: to
+    - their: ихъ
+    - they: они, онꙑ
+    - to: къ, на
+    - water: вода
+    - we: мꙑ
+    - will: (future tense expressed by verb form)
+    - with: съ
+    - wolf: вълкъ
+    - you: тꙑ, вꙑ

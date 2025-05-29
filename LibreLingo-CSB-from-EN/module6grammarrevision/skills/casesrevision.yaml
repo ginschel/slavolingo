@@ -1,0 +1,195 @@
+Skill:
+  Name: Cases revision
+  Id: 19
+
+New words:
+  - Word: "rézac (réże)"
+    Translation: to cut
+  - Word: " dar"
+    Translation: gift
+  - Word: " wšeòbwôpòl"
+    Translation: universe
+  - Word: "spòdzérk"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Kòscë tu nie mô.
+    Translation: There is no bone here.
+  - Phrase: Dóm białce.
+    Translation: I give to the woman.
+  - Phrase: Òna je w gardze.
+    Translation: She is in the city.
+  - Phrase: Gôdómë z przëjacelama.
+    Translation: I talk with friends.
+  - Phrase: Miona on nie mô.
+    Translation: He has no name.
+  - Phrase: Të dëszë nie mësz?!
+    Translation: You don't have a soul?!
+  - Phrase: On widzy swòją białkã.
+    Translation: He sees his wife.
+  - Phrase: Bratta tu nie je.
+    Translation: There is no brother here.
+  - Phrase: To mòżna rézac nożã.
+    Translation: This can be cut with a knife.
+  - Phrase: Òna z chłopã gôdô.
+    Translation: She talks with her husband.
+  - Phrase: Òna gôdô ò bratach.
+    Translation: She talks about brothers.
+  - Phrase: Òna dawié dar bratama.
+    Translation: She gives a gift to the brothers.
+  - Phrase: Na pòlu wiele robie.
+    Translation: I work a lot in the field.
+  - Phrase: Je wiele słunzków w wšeòbwôpòlu.
+    Translation: There are many suns in the universe.
+  - Phrase: I téż je wiele gwiôzd.
+    Translation: And there are also many stars.
+  - Phrase: On miłuje gôdac ze swòją białkòj.
+    Translation: He likes to talk with his wife.
+  - Phrase: Ju nie mô bananów w dodomù.
+    Translation: There are no more bananas in the house.
+  - Phrase: W òczach widzymë dëszã twòją.
+    Translation: In the eyes I see your soul.
+  - Phrase: Òczë są spòdzérkã dëszë.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Chłopów tu nie widzymë.
+    Translation: I do not see men here.
+  - Phrase: W gardach òbôczësz wiele lëdzy.
+    Translation: In the cities you will see many people.
+  - Phrase: Spòkòjnô noc!
+    Translation: Good night!
+
+Mini-dictionary:
+  Kashubian:
+    - bananów: bananas
+    - białce: woman
+    - białkã: woman
+    - białkòj: woman
+    - bratach: brothers
+    - bratama: brothers
+    - bratta: brother
+    - chłopã: man
+    - chłopów: men
+    - dar: gift
+    - dawié: gives
+    - dodomù: home
+    - dëszã: soul
+    - dëszë: souls
+    - dóm: house
+    - gardach: cities
+    - gardze: city
+    - gwiôzd: star
+    - gôdac: to speak
+    - gôdómë: we speak
+    - gôdô: speaks
+    - i: and
+    - je: is
+    - ju: already
+    - kòscë: bones
+    - lëdzy: people
+    - miona: names
+    - miłuje: loves
+    - mësz: mouse
+    - mòżna: possible
+    - mô: has
+    - na: on
+    - nie: no
+    - noc: night
+    - nożã: knife
+    - on: he
+    - przëjacelama: friends
+    - pòlu: field
+    - robie: I do
+    - rézac: to cut
+    - réże: cuts
+    - spòdzérk: view
+    - spòdzérkã: view
+    - spòkòjnô: calm
+    - swòją: his
+    - są: they are
+    - słunzków: suns
+    - to: this
+    - tu: here
+    - twòją: your
+    - téż: also
+    - të: you
+    - w: in
+    - widzy: sees
+    - widzymë: we see
+    - wiele: many
+    - wšeòbwôpòl: everywhere
+    - wšeòbwôpòlu: everywhere
+    - z: with
+    - ze: with
+    - ò: about
+    - òbôczësz: you will see
+    - òczach: eyes
+    - òczë: eyes
+    - òna: she
+  English:
+    - a: jedin/один
+    - about: òbjim
+    - also: téż
+    - and: ë
+    - are: byti/быти
+    - bananas: bananë
+    - be: bëc
+    - bone: kòsc
+    - brother: brat
+    - brothers: brałtë
+    - can: mòże
+    - cities: miasta
+    - city: gard
+    - cut: rëznąc
+    - do: robic
+    - don't: nié
+    - eyes: òczë
+    - field: pòle
+    - friends: kamradë
+    - gift: dar
+    - give: dac
+    - gives: dôwô
+    - good: dobri
+    - has: mô
+    - have: miec
+    - he: on
+    - her: ji
+    - here: tu
+    - his: jegò
+    - house: dodóm
+    - husband: chłop
+    - i: jô
+    - in: w
+    - is: je
+    - knife: nóż
+    - likes: lubi
+    - lot: wiele
+    - many: wiele
+    - men: chłopcë
+    - mirror: zdrzadło
+    - more: więcej
+    - name: miono
+    - night: noc
+    - no: nié
+    - not: nié
+    - of: òd
+    - people: lëdze
+    - see: widzec
+    - sees: widzy
+    - she: òna
+    - soul: dëszô
+    - stars: gwiôzdë
+    - suns: słunéczkò
+    - talk: gôdac
+    - talks: gôdô
+    - the: to
+    - there: tam
+    - this: to
+    - to: do
+    - universe: wszechswiat
+    - wife: białka
+    - will: bãdzë
+    - with: z
+    - woman: białka
+    - work: robota
+    - you: të
+    - your: twòje

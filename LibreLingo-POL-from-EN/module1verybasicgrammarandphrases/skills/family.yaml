@@ -1,0 +1,186 @@
+Skill:
+  Name: Family
+  Id: 3
+
+New words:
+  - Word: brat
+    Translation: brother
+  - Word: dziadek
+    Translation: grandfather
+  - Word: babcia
+    Translation: grandmother
+  - Word: ciocia
+    Translation: aunt
+  - Word: wnuk
+    Translation: grandson
+  - Word: wnuczka
+    Translation: granddaughter
+  - Word: matka
+    Translation: mother
+  - Word: ojciec
+    Translation: father
+  - Word: rodzina
+    Translation: family
+  - Word: syn
+    Translation: son
+  - Word: córka
+    Translation: daughter
+  - Word: stryj
+    Translation: uncle
+  - Word: mówi
+    Translation: speaks
+  - Word: idzie
+    Translation: goes
+  - Word: idziemy
+    Translation: we go
+  - Word: żyje
+    Translation: lives
+
+Phrases:
+  - Phrase: On jest moim bratem.
+    Translation: He is my brother.
+  - Phrase: On jest twoim ojcem
+    Translation: He is your father
+  - Phrase: Ona idzie z matką.
+    Translation: She is going with her mother.
+  - Phrase: On rozmawia z dziadkiem.
+    Translation: He is talking with his grandfather.
+  - Phrase: My bawimy się z naszymi dziećmi.
+    Translation: We are playing with our children.
+  - Phrase: Oni jadą z ciocią.
+    Translation: They are going with their aunt.
+  - Phrase: Rozmawiam z twoją siostrą.
+    Translation: I am talking with your sister.
+  - Phrase: Idę do parku z rodziną.
+    Translation: We are going to the park with the family.
+  - Phrase: On jest z wnukiem.
+    Translation: He is with his grandson.
+  - Phrase: Ona bawi się z wnuczką.
+    Translation: She is playing with her granddaughter.
+  - Phrase: Picie herbaty z matką jest lepsze.
+    Translation: Drinking tea with mother is better.
+  - Phrase: Z kim idziesz?
+    Translation: Who are you going with?
+  - Phrase: Ona rozmawia z moją babcią.
+    Translation: She is talking with my grandmother.
+  - Phrase: To jest dom z rodziną.
+    Translation: This is a house with a family.
+  - Phrase: On żyje z synem.
+    Translation: He lives with his son.
+  - Phrase: Idziemy na spacer z braćmi.
+    Translation: We are going for a walk with brothers.
+  - Phrase: Idziemy z córką.
+    Translation: We are going with our daughter.
+  - Phrase: Oni tu są z dziadkiem.
+    Translation: They are here with their grandfather.
+  - Phrase: On żyje z ciocią i ze stryjem.
+    Translation: He lives with his aunt and uncle.
+  - Phrase: Ona rozmawia z wnukiem często.
+    Translation: She talks with her grandson often.
+
+Mini-dictionary:
+  Polish:
+    - babcią: grandmother
+    - bawi: plays
+    - bawimy: play
+    - bratem: brother
+    - braćmi: brothers
+    - ciocią: aunt
+    - często: often
+    - córką: daughter
+    - do: to
+    - dom: home
+    - dziadkiem: grandfather
+    - dziećmi: children
+    - herbaty: tea
+    - i: and
+    - idziesz: you go
+    - idę: I go
+    - jadą: they drive
+    - jest: is
+    - kim: who
+    - lepsze: better
+    - matką: mother
+    - moim: my
+    - moją: my
+    - my: we
+    - na: on
+    - naszymi: our
+    - ojcem: father
+    - on: he
+    - ona: she
+    - oni: they
+    - parku: park
+    - picie: drinking
+    - rodziną: family
+    - rozmawia: talks
+    - rozmawiam: I talk
+    - siostrą: sister
+    - się: oneself
+    - spacer: walk
+    - stryjem: uncle
+    - synem: son
+    - są: are
+    - to: this
+    - tu: here
+    - twoim: your
+    - twoją: your
+    - wnuczką: granddaughter
+    - wnukiem: grandson
+    - z: with
+    - ze: from
+  English:
+    - a: jedin/один
+    - am: jestem
+    - and: i
+    - are: byti/быти
+    - aunt: ciocia
+    - better: lepsze
+    - brother: brat
+    - brothers: braćmi
+    - children: dzieci
+    - daughter: córka
+    - drinking: picie
+    - family: rodzina
+    - father: ojciec
+    - for: dla
+    - go: iść
+    - goes: idzie
+    - going: idzie
+    - granddaughter: wnuczka
+    - grandfather: dziadek
+    - grandmother: babcia
+    - grandson: wnuk
+    - he: on
+    - her: jej
+    - here: tu
+    - his: jego
+    - house: dom
+    - i: ja
+    - is: jest
+    - lives: żyje
+    - mother: matka
+    - my: mój
+    - often: często
+    - our: nasz
+    - park: park
+    - playing: granie
+    - she: ona
+    - sister: siostra
+    - son: syn
+    - speaks: mówi
+    - talking: rozmawianie
+    - talks: rozmawia
+    - tea: herbata
+    - the: to
+    - their: ich
+    - they: oni
+    - this: to
+    - to: do
+    - uncle: stryj
+    - walk: spacer
+    - we: my
+    - who: kto
+    - with: z
+    - you: ty
+    - your: twój

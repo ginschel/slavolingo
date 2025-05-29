@@ -1,0 +1,168 @@
+Skill:
+  Name: Sports
+  Id: 5
+
+New words:
+  - Word: футбол
+    Translation: football
+  - Word: баскетбол
+    Translation: basketball
+  - Word: теніс
+    Translation: tennis
+  - Word: плаваня
+    Translation: swimming
+  - Word: плавати
+    Translation: to swim
+  - Word: біг
+    Translation: running
+  - Word: бігати
+    Translation: to run
+  - Word: утром
+    Translation: in the morning
+  - Word: любити
+    Translation: to love/like
+  - Word: хоккей
+    Translation: hockey
+  - Word: спорт
+    Translation: sport
+  - Word: гра
+    Translation: game
+  - Word: тренировати
+    Translation: to train
+  - Word: стадіон
+    Translation: stadium
+  - Word: барже
+    Translation: fast
+  - Word: тяжкый
+    Translation: difficult
+
+Phrases:
+  - Phrase: Грам в футбол.
+    Translation: I play football.
+  - Phrase: Она грає в баскетбол.
+    Translation: She plays basketball.
+  - Phrase: Он грає в теніс.
+    Translation: He plays tennis.
+  - Phrase: Мы плаваєме в рїцї.
+    Translation: We swim in the river.
+  - Phrase: Они бігають утром.
+    Translation: They run in the morning.
+  - Phrase: Он тренує кажный дїнь.
+    Translation: He trains every day.
+  - Phrase: Спорт є важный.
+    Translation: Sport is important.
+  - Phrase: Она грає на стадіонї.
+    Translation: She plays at the stadium.
+  - Phrase: Треба тренировати.
+    Translation: It is necessary to train.
+  - Phrase: Они люблять спорт.
+    Translation: They love sport.
+  - Phrase: Я не граю в хоккей.
+    Translation: I do not play hockey.
+  - Phrase: Стадіон є в містї.
+    Translation: The stadium is in the city.
+  - Phrase: Баскетбол є інтересный спорт.
+    Translation: Basketball is an interesting sport.
+  - Phrase: Плаваня є добре за здоровя.
+    Translation: Swimming is good for health.
+  - Phrase: Хто грає в теніс?
+    Translation: Who plays tennis?
+  - Phrase: Он бігає барже.
+    Translation: He runs fast.
+  - Phrase: Мы плаваєме часто.
+    Translation: We swim often.
+  - Phrase: Он тренує з приятелем.
+    Translation: He trains with a friend.
+  - Phrase: Я граю з братами.
+    Translation: I play with my brothers.
+  - Phrase: Хоккей є тяжкый.
+    Translation: Hockey is difficult.
+
+Mini-dictionary:
+  Rusin:
+    - братами: brothers
+    - бігають: run
+    - бігає: runs
+    - в: in
+    - важный: important
+    - грам: gram
+    - граю: play
+    - грає: plays
+    - добре: good
+    - дїнь: day
+    - з: from
+    - за: behind
+    - здоровя: health
+    - кажный: every
+    - люблять: love
+    - мы: we
+    - містї: city
+    - на: on
+    - не: not
+    - он: he
+    - она: she
+    - они: they
+    - плаваєме: swim
+    - приятелем: friend
+    - рїцї: river
+    - стадіонї: stadium
+    - треба: necessary
+    - тренує: trains
+    - хто: who
+    - часто: often
+    - я: I
+    - є: is
+    - інтересный: interesting
+  English:
+    - a: jedin/один
+    - an: єден
+    - at: при
+    - basketball: кошикова
+    - brothers: братя
+    - city: місто
+    - day: день
+    - difficult: тяжкый
+    - do: робити
+    - every: каждый
+    - fast: скоро
+    - football: футбол
+    - for: за
+    - friend: камарат
+    - game: гра
+    - good: добрый
+    - he: він
+    - health: здоровя
+    - hockey: гокей
+    - i: я
+    - important: важный
+    - in: в
+    - interesting: інтересный
+    - is: є
+    - it: то
+    - love: любити
+    - love/like: любити/любити
+    - morning: рано
+    - my: мій
+    - necessary: потребный
+    - not: не
+    - often: часто
+    - play: грати
+    - plays: грає
+    - river: ріка
+    - run: бігати
+    - running: бігать
+    - runs: бігать
+    - she: она
+    - sport: шпорт
+    - stadium: штадіон
+    - swim: плавати
+    - swimming: плавать
+    - tennis: теніс
+    - the: to
+    - they: они
+    - to: до
+    - train: влак
+    - trains: влакы
+    - we: мы
+    - who: хто
+    - with: з

@@ -1,0 +1,222 @@
+Skill:
+  Name: Emotions
+  Id: 37
+
+New words:
+  - Word: радостни
+    Translation: joyful
+  - Word: жалостни
+    Translation: sad
+  - Word: гневни
+    Translation: angry
+  - Word: љубов
+    Translation: love
+  - Word: престрашени
+    Translation: frightened
+  - Word: спокој
+    Translation: peace
+  - Word: завист
+    Translation: envy
+  - Word: срамни
+    Translation: ashamed
+  - Word: стид
+    Translation: shame
+  - Word: горди
+    Translation: proud
+  - Word: весели
+    Translation: cheerful
+  - Word: трепет
+    Translation: tremor
+  - Word: чути (чује)
+    Translation: to feel
+  - Word: скривати
+    Translation: to hide
+  - Word: убегати
+    Translation: to run away
+
+Phrases:
+  - Phrase: Чујем се радостно ту дањ.
+    Translation: We feel joyful this week.
+  - Phrase: Жалостно он говорил.
+    Translation: He spoke sadly.
+  - Phrase: Он гневно јему каже роботати.
+    Translation: He angrily tells him to work.
+  - Phrase: Љубов то силна емоција.
+    Translation: Love is a strong emotion.
+  - Phrase: Страх то натурална реакција.
+    Translation: Fear is a natural reaction.
+  - Phrase: Спокој јест важни за душе.
+    Translation: Peace is important for the soul.
+  - Phrase: Завист то црна емоција.
+    Translation: Envy is a dark emotion.
+  - Phrase: Стидно он чује срам.
+    Translation: He feels ashamed.
+  - Phrase: Весело јему се напунило срдце.
+    Translation: His heart was filled with joy.
+  - Phrase: Зависно он гледа на њега.
+    Translation: He is jealous of him.
+  - Phrase: Ја имам жалост в срци.
+    Translation: I have sadness in my heart.
+  - Phrase: Она показује им своју роботу весело.
+    Translation: She shows them her work joyfully.
+  - Phrase: Он скрива гордо свој гнев.
+    Translation: He hides his anger proudly.
+  - Phrase: Ми чујемо спокој.
+    Translation: We feel peaceful.
+  - Phrase: Страх јест в нас.
+    Translation: Fear is inside us.
+  - Phrase: Престрашено он убегал.
+    Translation: He was frightened and ran away.
+  - Phrase: Стид јест много силни.
+    Translation: Shame is very strong.
+  - Phrase: Радостно шео до дома.
+    Translation: He joyfully went home.
+  - Phrase: Радост иде изнутра.
+    Translation: Joy comes from within.
+  - Phrase: Трпети толико хчемо когда љубимо.
+    Translation: We only suffer when we love.
+
+Mini-dictionary:
+  Serbian:
+    - в: in
+    - важни: important
+    - весело: cheerfully
+    - гледа: looks
+    - гнев: anger
+    - гневно: angrily
+    - говорил: spoke
+    - гордо: proudly
+    - дањ: day
+    - до: to
+    - дома: home
+    - душе: soul
+    - емоција: emotion
+    - жалост: sadness
+    - жалостно: sadly
+    - за: for
+    - зависно: dependent
+    - иде: goes
+    - изнутра: inside
+    - им: them
+    - имам: i have
+    - каже: says
+    - когда: when
+    - ми: we
+    - много: many
+    - на: on
+    - напунило: filled
+    - нас: us
+    - натурална: natural
+    - он: he
+    - она: she
+    - показује: shows
+    - престрашено: scared
+    - радост: joy
+    - радостно: joyfully
+    - реакција: reaction
+    - роботати: work
+    - роботу: work
+    - свој: his own
+    - своју: his own
+    - се: himself
+    - силна: strong
+    - силни: strong
+    - скрива: hides
+    - срам: shame
+    - срдце: heart
+    - срци: heart
+    - стидно: shameful
+    - страх: fear
+    - то: that
+    - толико: so much
+    - трпети: suffer
+    - ту: here
+    - убегал: ran away
+    - хчемо: we want
+    - црна: black
+    - чути: hear
+    - чује: hears
+    - чујем: i hear
+    - чујемо: we hear
+    - шео: went
+    - ја: i
+    - јему: him
+    - јест: is
+    - љубимо: we love
+    - њега: him
+  English:
+    - a: jedin/один
+    - and: и
+    - anger: гнев
+    - angrily: гневно
+    - angry: гневни
+    - ashamed: стидно
+    - away: далеко
+    - cheerful: весели
+    - comes: долази
+    - dark: тамна
+    - emotion: емоција
+    - envy: завист
+    - fear: страх
+    - feel: осећати
+    - feels: осећа
+    - filled: напунило
+    - for: за
+    - frightened: престрашени
+    - from: од
+    - have: имати
+    - he: он
+    - heart: срце
+    - her: њеј
+    - hide: скривати
+    - hides: скрива
+    - him: њега
+    - his: његов
+    - home: дом
+    - i: ја
+    - important: важна
+    - in: у
+    - inside: изнутра
+    - is: је
+    - jealous: љубоморан
+    - joy: радост
+    - joyful: радостни
+    - joyfully: радостно
+    - love: љубов
+    - my: мој
+    - natural: натурална
+    - of: од
+    - only: само
+    - peace: покој
+    - peaceful: спокојни
+    - proud: горди
+    - proudly: гордо
+    - ran: убегал
+    - reaction: реакција
+    - run: бегати
+    - sad: жалостни
+    - sadly: жалостно
+    - sadness: жалост
+    - shame: срам
+    - she: она
+    - shows: показује
+    - soul: душе
+    - spoke: говорил
+    - strong: јак
+    - suffer: трпети
+    - tells: говори
+    - the: to
+    - them: им
+    - this: тај
+    - to: до
+    - tremor: трепет
+    - us: нас
+    - very: пра
+    - was: био
+    - we: ми
+    - week: тидањ
+    - went: шео
+    - when: когда
+    - with: с
+    - within: унутар
+    - work: робота

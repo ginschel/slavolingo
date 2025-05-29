@@ -1,0 +1,168 @@
+Skill:
+  Name: Sports
+  Id: 5
+
+New words:
+  - Word: futbal
+    Translation: football
+  - Word: basketbal
+    Translation: basketball
+  - Word: tenis
+    Translation: tennis
+  - Word: plávanie
+    Translation: swimming
+  - Word: plávať
+    Translation: to swim
+  - Word: beh
+    Translation: running
+  - Word: behať
+    Translation: to run
+  - Word: ráno
+    Translation: in the morning
+  - Word: ľúbiť
+    Translation: to love/like
+  - Word: hokej
+    Translation: hockey
+  - Word: šport
+    Translation: sport
+  - Word: hra
+    Translation: game
+  - Word: trénovať
+    Translation: to train
+  - Word: štadión
+    Translation: stadium
+  - Word: rýchlo
+    Translation: fast
+  - Word: ťažký
+    Translation: difficult
+
+Phrases:
+  - Phrase: Hrám futbal.
+    Translation: I play football.
+  - Phrase: Ona hrá basketbal.
+    Translation: She plays basketball.
+  - Phrase: On hrá tenis.
+    Translation: He plays tennis.
+  - Phrase: My plávame v rieke.
+    Translation: We swim in the river.
+  - Phrase: Oni behajú ráno.
+    Translation: They run in the morning.
+  - Phrase: On trénuje každý deň.
+    Translation: He trains every day.
+  - Phrase: Šport je dôležitý.
+    Translation: Sport is important.
+  - Phrase: Ona hrá na štadióne.
+    Translation: She plays at the stadium.
+  - Phrase: Treba trénovať.
+    Translation: It is necessary to train.
+  - Phrase: Oni ľúbia šport.
+    Translation: They love sport.
+  - Phrase: Ja nehrám hokej.
+    Translation: I do not play hockey.
+  - Phrase: Štadión je v meste.
+    Translation: The stadium is in the city.
+  - Phrase: Basketbal to je zaujímavý šport.
+    Translation: Basketball is an interesting sport.
+  - Phrase: Plávanie je dobré pre zdravie.
+    Translation: Swimming is good for health.
+  - Phrase: Kto hrá tenis?
+    Translation: Who plays tennis?
+  - Phrase: On behá rýchlo.
+    Translation: He runs fast.
+  - Phrase: My plávame často.
+    Translation: We swim often.
+  - Phrase: On trénuje s priateľom.
+    Translation: He trains with a friend.
+  - Phrase: Ja hrám s bratmi.
+    Translation: I play with my brothers.
+  - Phrase: Hokej je ťažký.
+    Translation: Hockey is difficult.
+
+Mini-dictionary:
+  Slovak:
+    - behajú: they run
+    - behá: runs
+    - bratmi: brothers
+    - deň: day
+    - dobré: good
+    - dôležitý: important
+    - hrá: plays
+    - hrám: I play
+    - ja: I
+    - je: is
+    - každý: every
+    - kto: who
+    - meste: city
+    - my: we
+    - na: on
+    - nehrám: I am not playing
+    - on: he
+    - ona: she
+    - oni: they
+    - plávame: we swim
+    - pre: for
+    - priateľom: friend
+    - rieke: river
+    - s: with
+    - to: it
+    - treba: it is necessary
+    - trénuje: trains
+    - v: in
+    - zaujímavý: interesting
+    - zdravie: health
+    - často: often
+    - ľúbia: they love
+    - štadióne: stadium
+  English:
+    - a: jedin/один
+    - an: a
+    - at: pri
+    - basketball: basketbal
+    - brothers: bratmi
+    - city: mesto
+    - day: deň
+    - difficult: zložitý
+    - do: robiť
+    - every: každý
+    - fast: rýchly
+    - football: futbal
+    - for: pre
+    - friend: priateľ
+    - game: hra
+    - good: dobrý
+    - he: on
+    - health: zdravie
+    - hockey: hokej
+    - i: ja
+    - important: dôležitý
+    - in: v
+    - interesting: zaujímavý
+    - is: je
+    - it: to
+    - love: láska
+    - love/like: ľúbiť
+    - morning: ráno
+    - my: môj
+    - necessary: potrebné
+    - not: nie
+    - often: často
+    - play: hrať
+    - plays: hrá
+    - river: rieka
+    - run: behať
+    - running: beh
+    - runs: behá
+    - she: ona
+    - sport: šport
+    - stadium: štadión
+    - swim: plávať
+    - swimming: plávanie
+    - tennis: tenis
+    - the: to
+    - they: oni
+    - to: do
+    - train: vlak
+    - trains: vlakov
+    - we: my
+    - who: kto
+    - with: s

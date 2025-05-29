@@ -1,0 +1,225 @@
+Skill:
+  Name: Talking about Time
+  Id: 31
+
+New words:
+  - Word: часъ
+    Translation: time
+  - Word: минꙋта
+    Translation: minute
+  - Word: сєкꙋнда
+    Translation: second
+  - Word: частъ
+    Translation: hour
+  - Word: тꙋ дьнь
+    Translation: today
+  - Word: бꙑлъ
+    Translation: was
+  - Word: бꙑла
+    Translation: was
+  - Word: бꙑло
+    Translation: was
+  - Word: бꙑли
+    Translation: were
+  - Word: шєлъ
+    Translation: went/walked
+  - Word: шьла
+    Translation: went/walked
+  - Word: шьло
+    Translation: went/walked
+  - Word: шьли
+    Translation: went/walked
+  - Word: въчєра
+    Translation: yesterday
+  - Word: завътъра
+    Translation: tomorrow
+  - Word: вєчєръ
+    Translation: evening
+  - Word: полънощь
+    Translation: midnight
+  - Word: колико
+    Translation: how much
+  - Word: спати (спитъ)
+    Translation: to sleep
+  - Word: тръвати
+    Translation: to last
+
+Phrases:
+  - Phrase: Колико ѥстъ часа?
+    Translation: What time is it?
+  - Phrase: Онъ имѣлъ ѥдинѫ частъ.
+    Translation: He had one hour.
+  - Phrase: Завътъра ѥстъ за поздьно.
+    Translation: Tomorrow is too late.
+  - Phrase: Въчєра бꙑлъ понєдѣлъкъ.
+    Translation: Yesterday was Monday.
+  - Phrase: Въчєра она бꙑла въ домꙋ о осмои части.
+    Translation: Yesterday she was at home at the eighth hour.
+  - Phrase: Оутромъ нє бꙑло мьного тєпло.
+    Translation: In the morning it was not very warm.
+  - Phrase: О трєтьѥмъ части дъвадесѧть бꙑло хладьно.
+    Translation: At twenty past the third hour it was cold.
+  - Phrase: Полънощь ѥстъ тиха.
+    Translation: Midnight is quiet.
+  - Phrase: Онъ шєлъ до дома.
+    Translation: He went home.
+  - Phrase: Вꙑ ѥстє шьли до кина?
+    Translation: Have you gone to the cinema?
+  - Phrase: Они ничьто нє дѣлали.
+    Translation: They did nothing.
+  - Phrase: Минꙋта ѥстъ мала ѥдиница часа.
+    Translation: A minute is a small unit of time.
+  - Phrase: Сєкꙋнда ѥстъ кратъка.
+    Translation: A second is short.
+  - Phrase: Тꙋ дьнь тꙑ ѥси нє имѣлъ частинꙑ за тъ.
+    Translation: Today you did not have an hour for that.
+  - Phrase: Видимъ сѧ вєчєромъ о дєвѧтои части.
+    Translation: We will see each other in the evening at the ninth hour.
+  - Phrase: Въчєра о пръвомъ части бꙑло лѣпьѥ.
+    Translation: Yesterday at the first hour it was better.
+  - Phrase: Колико минꙋтъ тръваѥтъ фильмъ?
+    Translation: How many minutes does the film last?
+  - Phrase: Азъ ѥсмь бꙑлъ въ домꙋ оутромъ.
+    Translation: I was at home in the morning.
+  - Phrase: Онъ спитъ до полънощи.
+    Translation: He sleeps until midnight.
+  - Phrase: Колико сєкꙋндъ имаѥтъ минꙋта?
+    Translation: How many seconds are in a minute?
+  - Phrase: Вєчєромъ мꙑ шьли въ рєсторанъ.
+    Translation: In the evening we went to the restaurant.
+
+Mini-dictionary:
+  Old Church Slavonic:
+    - азъ: I
+    - видимъ: we see
+    - въ: in, at
+    - вєчєромъ: in the evening
+    - вꙑ: you (plural)
+    - до: to, until
+    - дома: at home
+    - домꙋ: to the house
+    - дъвадесѧть: twenty
+    - дьнь: day
+    - дєвѧтои: ninth
+    - дѣлали: they did
+    - за: for, behind
+    - имаѥтъ: he/she/it has
+    - имѣлъ: he had
+    - кина: of the cinema
+    - кратъка: short (feminine)
+    - лѣпьѥ: better
+    - мала: small (feminine)
+    - минꙋтъ: of minutes
+    - мьного: much, many
+    - мꙑ: we
+    - ничьто: nothing
+    - нє: no, not
+    - о: about, on
+    - она: she
+    - они: they (masculine)
+    - онъ: he
+    - осмои: eighth
+    - оутромъ: in the morning
+    - поздьно: late
+    - полънощи: of midnight
+    - понєдѣлъкъ: Monday
+    - пръвомъ: in the first
+    - рєсторанъ: restaurant
+    - спати: to sleep
+    - спитъ: he/she/it sleeps
+    - сєкꙋндъ: of seconds
+    - сѧ: oneself (reflexive pronoun)
+    - тиха: quiet (feminine)
+    - тръваѥтъ: it lasts
+    - трєтьѥмъ: in the third
+    - тъ: that, he
+    - тєпло: warm (neuter)
+    - тꙋ: here
+    - тꙑ: you (singular)
+    - фильмъ: film, movie
+    - хладьно: cold
+    - часа: of the hour
+    - части: parts
+    - частинꙑ: of the part
+    - ѥдиница: unit
+    - ѥдинѫ: one (accusative)
+    - ѥси: you are (singular)
+    - ѥсмь: I am
+    - ѥстъ: he/she/it is
+    - ѥстє: you are (plural)
+  English:
+    - a: jedin/один
+    - an: (not directly translated)
+    - are: byti/быти
+    - at: въ
+    - better: лѣпьшє
+    - cinema: кино
+    - cold: хладънъ
+    - did: (past tense verb ending)
+    - does: дѣлаѥтъ
+    - each: каждъи
+    - eighth: осмъ
+    - evening: вєчєръ
+    - film: фильмъ
+    - first: пръвъ
+    - for: за, на
+    - gone: шєлъ
+    - had: имѣлъ
+    - have: имати
+    - he: онъ
+    - home: домъ, дома
+    - hour: часъ
+    - how: како, какъ
+    - i: азъ, ꙗ
+    - in: въ
+    - is: ѥстъ
+    - it: ono
+    - last: послѣдьнъ
+    - late: поздьно
+    - many: мьного
+    - midnight: полънощь
+    - minute: минꙋта
+    - minutes: минꙋтꙑ
+    - monday: понєдѣлъкъ
+    - morning: оутро
+    - much: мьного
+    - ninth: дєвѧтъ
+    - not: нє
+    - nothing: ничьто
+    - of: (genitive case)
+    - one: ѥдинъ
+    - other: инъ
+    - past: (past tense)
+    - quiet: тихъ
+    - restaurant: рєсторанъ
+    - second: въторъ, сєкꙋнда
+    - seconds: сєкꙋндꙑ
+    - see: видѣти
+    - she: она
+    - short: кратъкъ
+    - sleep: спати
+    - sleeps: спитъ
+    - small: малъ
+    - that: тъ, та, то
+    - the: to
+    - they: они, онꙑ
+    - third: трєтии
+    - time: врѣмѧ, часъ
+    - to: къ, на
+    - today: дьньсь
+    - tomorrow: завътра
+    - too: тъждє
+    - twenty: дъвадесѧть
+    - unit: ѥдиница
+    - until: до
+    - very: вєльми, прємо
+    - warm: тєплъ
+    - was: бꙑлъ, бꙑла, бꙑло
+    - we: мꙑ
+    - went: шєлъ
+    - went/walked: шєлъ
+    - were: byl/был
+    - what: чьто
+    - will: (future tense expressed by verb form)
+    - yesterday: въчєра
+    - you: тꙑ, вꙑ

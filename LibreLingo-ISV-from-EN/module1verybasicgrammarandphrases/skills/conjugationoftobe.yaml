@@ -1,0 +1,198 @@
+Skill:
+  Name: Conjugation of to be
+  Id: 1
+
+New words:
+  - Word: to
+    Translation: this (m)
+  - Word: ta
+    Translation: this (f)
+  - Word: toj
+    Translation: that (m)
+  - Word: tamtoj
+    Translation: that over there (f)
+  - Word: tamta
+    Translation: that over there (n)
+  - Word: jesm
+    Translation: i am
+  - Word: jesi
+    Translation: you are (sg)
+  - Word: jest
+    Translation: he is
+  - Word: jesmo
+    Translation: we are
+  - Word: jeste
+    Translation: you are (pl)
+  - Word: sut
+    Translation: they are
+  - Word: ja
+    Translation: I
+  - Word: ty
+    Translation: you
+  - Word: on
+    Translation: he
+  - Word: ona
+    Translation: she
+  - Word: ono
+    Translation: it
+  - Word: my
+    Translation: we
+  - Word: vy
+    Translation: you
+  - Word: oni
+    Translation: they
+  - Word: one
+    Translation: they
+  - Word: člověk
+    Translation: person
+  - Word: žena
+    Translation: woman
+  - Word: muž
+    Translation: man
+  - Word: děte
+    Translation: child
+  - Word: prijatelj
+    Translation: friend
+  - Word: sestra
+    Translation: sister
+  - Word: roditelj
+    Translation: parent
+  - Word: dom
+    Translation: house
+  - Word: město
+    Translation: city
+  - Word: denj
+    Translation: day
+  - Word: tož
+    Translation: also
+  - Word: kto
+    Translation: who
+
+Phrases:
+  - Phrase: Ja jesm mudry.
+    Translation: I am wise.
+  - Phrase: To moja sestra.
+    Translation: This is my sister.
+  - Phrase: Ona mnogo mudra
+    Translation: She is very wise
+  - Phrase: My jesmo mnogo mudri
+    Translation: We are very wise
+  - Phrase: Vy tož mudri?
+    Translation: Are you also wise?
+  - Phrase: To dobry človek.
+    Translation: This is a good person.
+  - Phrase: Ta žena jest dobra.
+    Translation: This woman is good.
+  - Phrase: To jest moj dom.
+    Translation: This is my house.
+  - Phrase: On to dobri prijatelj
+    Translation: He is a good friend
+  - Phrase: Vy jeste dobri.
+    Translation: You are good.
+  - Phrase: To sut prijatelje.
+    Translation: These are friends.
+  - Phrase: Kto ty jesi?
+    Translation: Who are you?
+  - Phrase: Toj muž mily.
+    Translation: That man is kind.
+  - Phrase: To jest prijemne město.
+    Translation: This is a pleasant city.
+  - Phrase: Ta žena jest vysoka.
+    Translation: That woman is tall.
+  - Phrase: Toj denj jest hladny.
+    Translation: That day is cold.
+  - Phrase: Tamtoj dom jest krasny.
+    Translation: That house over there is beautiful.
+  - Phrase: To moje děte.
+    Translation: This is my child.
+  - Phrase: Tamto utro jest hladno.
+    Translation: That morning over there is cold.
+  - Phrase: To ne moja sestra.
+    Translation: This is not my sister.
+  - Phrase: To ne tvoj dom.
+    Translation: This is not your house.
+  - Phrase: To dobro avto?
+    Translation: Is this a good car?
+  - Phrase: To dobri prijatelje?
+    Translation: Are these good friends?
+  - Phrase: One sut mnogo mile.
+    Translation: They are very kind.
+  - Phrase: Oni sut mnogo mili
+    Translation: They are very kind
+
+Mini-dictionary:
+  Interslavic:
+    - avto: car
+    - dobra: good
+    - dobri: good
+    - dobro: good
+    - dobry: good
+    - hladno: cold
+    - hladny: cold
+    - krasny: beautiful
+    - mile: dear
+    - mili: dear
+    - mily: dear
+    - mnogo: many
+    - moj: my
+    - moja: my
+    - moje: my
+    - mudra: wise
+    - mudri: wise
+    - mudry: wise
+    - ne: no
+    - prijatelje: friends
+    - prijemne: pleasant
+    - tamto: that
+    - tvoj: your
+    - utro: morning
+    - vysoka: high
+    - človek: man
+  English:
+    - a: jedin/один
+    - also: tož
+    - am: jesm
+    - are: byti/быти
+    - beautiful: krasivy
+    - car: avto
+    - child: děte
+    - city: grad
+    - cold: hladny
+    - day: denj
+    - f: undef
+    - friend: prijatelj
+    - friends: prijatelje
+    - good: dobry
+    - he: on
+    - house: dom
+    - i: ja
+    - is: jest
+    - it: ono
+    - kind: vid
+    - m: undef
+    - man: muž
+    - morning: jutro
+    - my: moj
+    - n: undef
+    - not: ne
+    - over: nad
+    - parent: roditelj
+    - person: člověk
+    - pl: undef
+    - pleasant: prijemne
+    - sg: undef
+    - she: ona
+    - sister: sestra
+    - tall: vysoky
+    - that: toj
+    - there: tam
+    - these: si
+    - they: oni
+    - this: tutdenj
+    - very: barzo
+    - we: my
+    - who: kto
+    - wise: mudry
+    - woman: žena
+    - you: ty
+    - your: tvoj

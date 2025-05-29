@@ -1,0 +1,171 @@
+Skill:
+  Name: Animals
+  Id: 14
+
+New words:
+  - Word: mačka
+    Translation: cat
+  - Word: pes
+    Translation: dog
+  - Word: vták
+    Translation: bird
+  - Word: pomáhať
+    Translation: to help
+  - Word: ukázať (ukáže)
+    Translation: to show
+  - Word: kôň
+    Translation: horse
+  - Word: dať (dá)
+    Translation: to give
+  - Word: ryba
+    Translation: fish
+  - Word: žaba
+    Translation: frog
+  - Word: medveď
+    Translation: bear
+  - Word: vlk
+    Translation: wolf
+  - Word: myš
+    Translation: mouse
+  - Word: zviera
+    Translation: animal
+
+Phrases:
+  - Phrase: Ja dám mačke rybu.
+    Translation: I give the cat a fish.
+  - Phrase: Ona ukáže psovi.
+    Translation: She says to the dog.
+  - Phrase: On pomáha vtákovi.
+    Translation: He helps the bird.
+  - Phrase: Dávame koňovi vodu.
+    Translation: We give the horse water.
+  - Phrase: Ona nesie myši syr.
+    Translation: She carries cheese to the mouse.
+  - Phrase: On pomáha medveďovi.
+    Translation: He helps the bear.
+  - Phrase: My dávame žabe chlieb.
+    Translation: We give bread to the frog.
+  - Phrase: Oni dávajú zvieraťu ruku.
+    Translation: They give their hand to the animal.
+  - Phrase: Pomáhame vlkovi.
+    Translation: We help the wolf.
+  - Phrase: Ty dáš mne rybu?
+    Translation: Will you give me a fish?
+  - Phrase: Ja dám mačke meno.
+    Translation: I give the cat a name.
+  - Phrase: On dá myši syr.
+    Translation: On da myši syr.
+  - Phrase: My pomáhame vtákom.
+    Translation: We help the birds.
+  - Phrase: Dávame žabe vodu.
+    Translation: We give the frog water.
+  - Phrase: Oni nesú medveďovi jedlo.
+    Translation: They are carrying food to the bear.
+  - Phrase: Ona dá psovi dobré meno.
+    Translation: She gives the dog a good name.
+  - Phrase: Vy dáte koňovi.
+    Translation: You will give the horse.
+  - Phrase: Ja dám rybe vodu.
+    Translation: I give the fish water.
+  - Phrase: Ona mu pomohla so zvieraťom.
+    Translation: She helped him with the animal.
+  - Phrase: Dáš psovi chutnú kosť?
+    Translation: Will you give the dog a tasty bone?
+
+Mini-dictionary:
+  Slovak:
+    - chlieb: bread
+    - chutnú: tasty
+    - dať: to give
+    - dobré: good
+    - dá: gives
+    - dám: I will give
+    - dáte: you will give
+    - dávajú: they give
+    - dávame: we give
+    - dáš: you will give
+    - ja: I
+    - jedlo: food
+    - kosť: bone
+    - koňovi: horse
+    - mačke: cat
+    - medveďovi: bear
+    - meno: name
+    - mne: me
+    - mu: him
+    - my: we
+    - myši: mouse
+    - nesie: carries
+    - nesú: they carry
+    - on: he
+    - ona: she
+    - oni: they
+    - pomohla: helped
+    - pomáha: helps
+    - pomáhame: we help
+    - psovi: dog
+    - ruku: hand
+    - rybe: fish
+    - rybu: fish
+    - so: with
+    - syr: cheese
+    - ty: you
+    - ukázať: to show
+    - ukáže: shows
+    - vlkovi: wolf
+    - vodu: water
+    - vtákom: bird
+    - vtákovi: bird
+    - vy: you
+    - zvieraťom: animal
+    - zvieraťu: animal
+    - žabe: frog
+  English:
+    - a: jedin/один
+    - animal: zviera
+    - are: byti/быти
+    - bear: medveď
+    - bird: vták
+    - birds: vtákov
+    - bone: kosť
+    - bread: chlieb
+    - carries: nesie
+    - carrying: nosí
+    - cat: mačka
+    - cheese: syr
+    - da: áno
+    - dog: pes
+    - fish: ryba
+    - food: jedlo
+    - frog: žaba
+    - give: dať
+    - gives: dáva
+    - good: dobrý
+    - hand: ruka
+    - he: on
+    - help: pomáhať
+    - helped: pomohla
+    - helps: pomáha
+    - him: mu
+    - horse: kôň
+    - i: ja
+    - me: mi
+    - mouse: myš
+    - myši: myši
+    - name: meno
+    - on: na
+    - says: hovorí
+    - she: ona
+    - show: ukázať
+    - syr: syr
+    - tasty: chutný
+    - the: to
+    - their: ich
+    - they: oni
+    - to: do
+    - water: voda
+    - we: my
+    - will: bude
+    - with: s
+    - wolf: vlk
+    - you: ty

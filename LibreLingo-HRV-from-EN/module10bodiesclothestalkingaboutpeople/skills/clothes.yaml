@@ -1,0 +1,233 @@
+Skill:
+  Name: Clothes
+  Id: 34
+
+New words:
+  - Word: košulja
+    Translation: shirt
+  - Word: nositi
+    Translation: to wear
+  - Word: hlače
+    Translation: trousers
+  - Word: majica
+    Translation: t-shirt
+  - Word: šal
+    Translation: scarf
+  - Word: kapa
+    Translation: hat
+  - Word: kaput
+    Translation: coat
+  - Word: rukavica
+    Translation: glove
+  - Word: donje rublje/gaće
+    Translation: underwear
+  - Word: čarapa
+    Translation: sock
+  - Word: obuća
+    Translation: footwear
+  - Word: odjeća
+    Translation: clothes
+  - Word: ružan
+    Translation: ugly
+  - Word: oblačiti
+    Translation: to dress
+  - Word: pidžama
+    Translation: pajamas
+
+Phrases:
+  - Phrase: On nosi plavu košulju.
+    Translation: He wears a blue shirt.
+  - Phrase: Ona ima crne hlače, a on bijele.
+    Translation: She has black trousers, and he has white.
+  - Phrase: Obuća i kaput leže kraj vrata.
+    Translation: Shoes and the coat are lying by the door.
+  - Phrase: Šal je težak i topao.
+    Translation: The scarf is heavy and warm.
+  - Phrase: Zimi uvijek nosim kapu, a ljeti ne.
+    Translation: In winter, I always wear a hat, but not in summer.
+  - Phrase: Jesu li gaće lijepe ili ružne?
+    Translation: Are the shorts beautiful or ugly?
+  - Phrase: Nosim rukavice zimi.
+    Translation: We wear gloves in winter.
+  - Phrase: Ona pidžama je zelena.
+    Translation: That pajama is green.
+  - Phrase: Nove gaće su udobne.
+    Translation: New shorts are comfortable.
+  - Phrase: Nova odjeća je skupa.
+    Translation: New clothes are expensive.
+  - Phrase: Košulja je u škrinji.
+    Translation: The shirt is in the drawer.
+  - Phrase: Kapa visi na zidu.
+    Translation: The hat hangs on the wall.
+  - Phrase: On se oblačio i nosio jučer u dva sata zelenu majicu ili košulju. Nisam siguran sada.
+    Translation: He wore and put on a green tennis shoe or shirt yesterday at two AM. I'm not sure right now.
+  - Phrase: Želiš li šal ili košulju.
+    Translation: You want a scarf or a shirt.
+  - Phrase: Ružne rukavice leže na stolu, a lijep kaput nosimo.
+    Translation: The ugly gloves are lying on the table, and I wear the red coat.
+  - Phrase: Ona je kupila toplu obuću.
+    Translation: She bought warm shoes.
+  - Phrase: On oblači novu košulju.
+    Translation: He is putting on a new shirt.
+  - Phrase: Moje čarape su kratke.
+    Translation: My socks are short.
+  - Phrase: Zimi ću trebati kapu i rukavice.
+    Translation: In winter I will need a hat and gloves.
+  - Phrase: Odjeća je čista i samo već bijela.
+    Translation: The clothes are clean and only the underwear is white.
+
+Mini-dictionary:
+  Croatian:
+    - a: and
+    - bijela: white
+    - bijele: white
+    - crne: black
+    - donje: lower
+    - dva: two
+    - gaće: underwear
+    - i: and
+    - ili: or
+    - ima: has
+    - je: is
+    - jesu: are
+    - jučer: yesterday
+    - kapu: cap
+    - košulju: shirt
+    - kraj: end
+    - kratke: short
+    - kupila: bought
+    - leže: they lie
+    - li: whether
+    - lijep: beautiful
+    - lijepe: beautiful
+    - ljeti: in summer
+    - majicu: t-shirt
+    - moje: my
+    - na: on
+    - ne: no
+    - nisam: I am not
+    - nosi: wears
+    - nosim: I wear
+    - nosimo: we wear
+    - nosio: wore
+    - nova: new
+    - nove: new
+    - novu: new
+    - oblači: dresses
+    - oblačio: dressed
+    - obuću: footwear
+    - on: he
+    - ona: she
+    - plavu: blue
+    - rublje/gaće: laundry/underwear
+    - rukavice: gloves
+    - ružne: ugly
+    - sada: now
+    - samo: only
+    - sata: hour
+    - se: oneself
+    - siguran: safe
+    - skupa: together
+    - stolu: table
+    - su: are
+    - težak: heavy
+    - topao: warm
+    - toplu: warm
+    - trebati: to need
+    - u: in
+    - udobne: comfortable
+    - uvijek: always
+    - već: already
+    - visi: hangs
+    - vrata: door
+    - zelena: green
+    - zelenu: green
+    - zidu: wall
+    - zimi: in winter
+    - ću: I will
+    - čarape: socks
+    - čista: clean
+    - škrinji: chest
+    - želiš: you want
+  English:
+    - a: jedin/один
+    - always: uvijek
+    - am: sam
+    - and: i
+    - are: byti/быти
+    - at: kod
+    - beautiful: lijep
+    - black: crn
+    - blue: plav
+    - bought: kupila
+    - but: ali
+    - by: po
+    - clean: čist
+    - clothes: odjeća
+    - coat: kaput
+    - comfortable: udobna
+    - door: vrata
+    - drawer: ladica
+    - dress: haljina
+    - expensive: skupo
+    - footwear: obuća
+    - glove: rukavica
+    - gloves: rukavice
+    - green: zelen
+    - hangs: visi
+    - has: ima
+    - hat: kapa
+    - he: on
+    - heavy: težak
+    - i: ja
+    - i'm: sam
+    - in: u
+    - is: je
+    - lying: leži
+    - my: moj
+    - need: trebati
+    - new: nov
+    - not: ne
+    - now: sada
+    - on: na
+    - only: samo
+    - or: ili
+    - pajama: pidžama
+    - pajamas: pidžama
+    - put: staviti
+    - putting: stavlja
+    - red: crven
+    - right: desno
+    - scarf: šal
+    - she: ona
+    - shirt: košulja
+    - shoe: cipela
+    - shoes: cipele
+    - short: kratka
+    - shorts: kratke
+    - sock: čarapa
+    - socks: čarape
+    - summer: ljeto
+    - sure: siguran
+    - t-shirt: majica
+    - table: stol
+    - tennis: tenis
+    - that: taj
+    - the: to
+    - to: do
+    - trousers: hlače
+    - two: dva
+    - ugly: ružan
+    - underwear: gaće
+    - wall: zid
+    - want: htjeti
+    - warm: topao
+    - we: mi
+    - wear: nositi
+    - wears: nosi
+    - white: bijel
+    - will: će
+    - winter: zima
+    - wore: nosio
+    - yesterday: jučer
+    - you: ti

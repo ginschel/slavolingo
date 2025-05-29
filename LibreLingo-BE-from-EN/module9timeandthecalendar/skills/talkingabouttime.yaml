@@ -1,0 +1,225 @@
+Skill:
+  Name: Talking about Time
+  Id: 31
+
+New words:
+  - Word: час
+    Translation: time
+  - Word: хвіліна
+    Translation: minute
+  - Word: секунда
+    Translation: second
+  - Word: гадзіна (працягласць)
+    Translation: hour
+  - Word: сёння
+    Translation: today
+  - Word: быў
+    Translation: was
+  - Word: была
+    Translation: was
+  - Word: было
+    Translation: was
+  - Word: былі
+    Translation: were
+  - Word: ішоў
+    Translation: went/walked
+  - Word: ішла
+    Translation: went/walked
+  - Word: ішло
+    Translation: went/walked
+  - Word: ішлі
+    Translation: went/walked
+  - Word: учора
+    Translation: yesterday
+  - Word: заўтра
+    Translation: tomorrow
+  - Word: вечар
+    Translation: evening
+  - Word: поўнач
+    Translation: midnight
+  - Word: колькі
+    Translation: how much
+  - Word: спаць (спіць)
+    Translation: to sleep
+  - Word: доўжыцца
+    Translation: to last
+
+Phrases:
+  - Phrase: Колькі ёсць часу?
+    Translation: What time is it?
+  - Phrase: Ён меў адну гадзіну.
+    Translation: He had one hour.
+  - Phrase: Заўтра ёсць занадта позна.
+    Translation: Tomorrow is too late.
+  - Phrase: Учора быў панядзелак.
+    Translation: Yesterday was Monday.
+  - Phrase: Учора яна была дома ў восем гадзін.
+    Translation: Yesterday she was at home at the eighth hour.
+  - Phrase: Раніцай не было вельмі цёпла.
+    Translation: In the morning it was not very warm.
+  - Phrase: У тры гадзіны дваццаць было холадна.
+    Translation: At twenty past the third hour it was cold.
+  - Phrase: Поўнач ёсць ціхая.
+    Translation: Midnight is quiet.
+  - Phrase: Ён пайшоў дадому.
+    Translation: He went home.
+  - Phrase: Вы ішлі ў кіно?
+    Translation: Have you gone to the cinema?
+  - Phrase: Яны нічога не рабілі.
+    Translation: They did nothing.
+  - Phrase: Хвіліна ёсць малая адзінка часу.
+    Translation: A minute is a small unit of time.
+  - Phrase: Секунда ёсць кароткая.
+    Translation: A second is short.
+  - Phrase: Сёння ты не меў/мела часу на тое.
+    Translation: Today you did not have an hour for that.
+  - Phrase: Бачымся ўвечары ў дзевяць гадзін.
+    Translation: We will see each other in the evening at the ninth hour.
+  - Phrase: Учора ў адну гадзіну было лепш.
+    Translation: Yesterday at the first hour it was better.
+  - Phrase: Колькі хвілін доўжыцца фільм?
+    Translation: How many minutes does the film last?
+  - Phrase: Я быў дома раніцай.
+    Translation: I was at home in the morning.
+  - Phrase: Ён спіць да поўначы.
+    Translation: He sleeps until midnight.
+  - Phrase: Колькі секунд мае хвіліна?
+    Translation: How many seconds are in a minute?
+  - Phrase: Увечары мы пайшлі ў рэстаран.
+    Translation: In the evening we went to the restaurant.
+
+Mini-dictionary:
+  Belarusian:
+    - адзінка: unit
+    - адну: one
+    - бачымся: see
+    - вельмі: very
+    - восем: eight
+    - вы: you
+    - гадзін: hours
+    - гадзіна: hour
+    - гадзіну: hour
+    - гадзіны: hour
+    - да: to
+    - дадому: home
+    - дваццаць: twenty
+    - дзевяць: nine
+    - дома: home
+    - занадта: too
+    - кароткая: short
+    - кіно: cinema
+    - лепш: better
+    - мае: has
+    - малая: small
+    - меў: had
+    - меў/мела: had
+    - мы: we
+    - на: on
+    - не: no
+    - нічога: nothing
+    - пайшлі: went/walked
+    - пайшоў: went
+    - панядзелак: monday
+    - позна: late
+    - поўначы: north
+    - працягласць: length
+    - рабілі: did
+    - раніцай: morning
+    - рэстаран: restaurant
+    - секунд: seconds
+    - спаць: sleep
+    - спіць: sleeps
+    - тое: that
+    - тры: three
+    - ты: you
+    - у: in
+    - увечары: evening
+    - фільм: film
+    - хвілін: minutes
+    - холадна: cold
+    - цёпла: warm
+    - ціхая: quiet
+    - часу: time
+    - я: i
+    - яна: she
+    - яны: they
+    - ён: he
+    - ёсць: is
+    - ў: in
+    - ўвечары: evening
+  English:
+    - a: jedin/один
+    - an: а
+    - are: byti/быти
+    - at: у
+    - better: лепш
+    - cinema: кіно
+    - cold: халодны
+    - did: зрабіў
+    - does: робіць
+    - each: кожны
+    - eighth: восьмы
+    - evening: вечар
+    - film: фільм
+    - first: першы
+    - for: для
+    - gone: пайшоў
+    - had: меў
+    - have: мець
+    - he: ён
+    - home: дом
+    - hour: гадзіна
+    - how: як
+    - i: я
+    - in: у
+    - is: ёсць
+    - it: яно
+    - last: апошні
+    - late: позні
+    - many: шмат
+    - midnight: поўнач
+    - minute: хвіліна
+    - minutes: хвіліны
+    - monday: панядзелак
+    - morning: раніца
+    - much: шмат
+    - ninth: дзевяты
+    - not: не
+    - nothing: нічога
+    - of: з
+    - one: адзін
+    - other: іншы
+    - past: мінулае
+    - quiet: ціхі
+    - restaurant: рэстаран
+    - second: другі
+    - seconds: секунды
+    - see: бачыць
+    - she: яна
+    - short: кароткі
+    - sleep: спаць
+    - sleeps: спіць
+    - small: маленькі
+    - that: што
+    - the: to
+    - they: яны
+    - third: трэці
+    - time: час
+    - to: да
+    - today: сёння
+    - tomorrow: заўтра
+    - too: занадта
+    - twenty: дваццаць
+    - unit: адзінка
+    - until: да
+    - very: вельмі
+    - warm: цёплы
+    - was: быў
+    - we: мы
+    - went: пайшоў
+    - went/walked: пайшоў/прайшоў
+    - were: byl/был
+    - what: што
+    - will: будзе
+    - yesterday: учора
+    - you: ты

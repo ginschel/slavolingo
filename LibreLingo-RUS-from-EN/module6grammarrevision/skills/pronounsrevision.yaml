@@ -1,0 +1,199 @@
+Skill:
+  Name: Pronouns revision
+  Id: 20
+
+New words:
+  - Word: "знать"
+    Translation: to know
+  - Word: "ведать (ведает)"
+    Translation: to know
+  - Word: "сон"
+    Translation: dream
+  - Word: "вещь"
+    Translation: thing
+
+Phrases:
+  - Phrase: Того не знаю.
+    Translation: I don't know that.
+  - Phrase: О том уже долго ведаю.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Кого ты видишь?.
+    Translation: Who do you see?.
+  - Phrase: Тем кто лежит спать, спокойного сна.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: О той вещи я ничего не знаю.
+    Translation: I know nothing about that thing.
+  - Phrase: Говорим с тобою.
+    Translation: I am talking with you.
+  - Phrase: Я вижу вас.
+    Translation: I see you.
+  - Phrase: Он любит быть сам с собою.
+    Translation: He likes to be alone with himself.
+  - Phrase: Дай мне воду.
+    Translation: Give me water.
+  - Phrase: С нами всегда всё весело.
+    Translation: With us everything is always cheerful.
+  - Phrase: Меня не видишь.
+    Translation: You don't see me.
+  - Phrase: Кому дашь дар?
+    Translation: Who do you give a gift to?
+  - Phrase: О мне говоришь?
+    Translation: Are you talking about me?
+  - Phrase: Нет, я не говорю о тебе.
+    Translation: No, I don't talt about you.
+  - Phrase: О чём ты говоришь?
+    Translation: What are you talking about?
+  - Phrase: Те женщины красивые.
+    Translation: These women are beautiful.
+  - Phrase: Этих друзей не имеешь.
+    Translation: You do not have those friends.
+  - Phrase: Он даёт себе покой.
+    Translation: He stops troubling others.
+  - Phrase: Чего тут нет в доме?
+    Translation: What isn't at this house here?
+  - Phrase: Тому псу ты даёшь кости.
+    Translation: You give to this dog bones.
+  - Phrase: Это ваша кофе или её?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Russian:
+    - быть: be
+    - в: in
+    - вас: you
+    - ваша: your
+    - ведает: knows
+    - ведать: know
+    - ведаю: know
+    - весело: cheerfully
+    - вещи: things
+    - вещь: thing
+    - видишь: see
+    - вижу: see
+    - воду: water
+    - всегда: always
+    - всё: everything
+    - говорим: talk
+    - говоришь: talk
+    - говорю: talk
+    - дай: give
+    - дар: gift
+    - дашь: give
+    - даёт: gives
+    - даёшь: give
+    - долго: long
+    - доме: home
+    - друзей: friends
+    - её: her
+    - женщины: women
+    - знать: know
+    - знаю: know
+    - или: or
+    - имеешь: have
+    - кого: whom
+    - кому: whom
+    - кости: bones
+    - кофе: coffee
+    - красивые: beautiful
+    - кто: who
+    - лежит: lies
+    - любит: loves
+    - меня: me
+    - мне: me
+    - нами: us
+    - не: no
+    - нет: no
+    - ничего: nothing
+    - о: about
+    - он: he
+    - покой: peace
+    - псу: dog
+    - с: with
+    - сам: alone
+    - себе: oneself
+    - сна: sleep
+    - собою: oneself
+    - сон: dream
+    - спать: sleep
+    - спокойного: peaceful
+    - те: those
+    - тебе: you
+    - тем: that
+    - тобою: you
+    - того: that
+    - той: that
+    - том: that
+    - тому: this
+    - тут: here
+    - ты: you
+    - уже: already
+    - чего: what
+    - чём: what
+    - этих: those
+    - это: it
+    - я: i
+  English:
+    - a: jedin/один
+    - about: о
+    - alone: один
+    - always: всегда
+    - am: есть
+    - are: byti/быти
+    - at: в
+    - be: быть
+    - beautiful: красивый
+    - bones: кости
+    - cheerful: веселый
+    - coffee: кофе
+    - do: делать
+    - dog: собака
+    - don't: не
+    - dream: мечта
+    - everything: все
+    - for: для
+    - friends: друзья
+    - gift: подарок
+    - give: давать
+    - going: идет
+    - have: иметь
+    - he: он
+    - her: ее
+    - here: здесь
+    - himself: сам
+    - house: дом
+    - i: я
+    - is: есть
+    - isn't: не
+    - it: это
+    - know: знать
+    - known: известный
+    - likes: нравится
+    - long: длинный
+    - me: меня
+    - no: нет
+    - not: не
+    - nothing: ничего
+    - or: или
+    - others: другие
+    - peaceful: мирный
+    - see: видеть
+    - sleep: спать
+    - stops: останавливается
+    - talking: разговаривает
+    - talt: талт
+    - that: что
+    - these: эти
+    - thing: вещь
+    - this: это
+    - those: те
+    - time: время
+    - to: к
+    - troubling: тревожный
+    - us: нас
+    - water: вода
+    - what: что
+    - who: кто
+    - with: с
+    - women: женщины
+    - you: ты
+    - your: твой

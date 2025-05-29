@@ -1,0 +1,220 @@
+Skill:
+  Name: Emotions
+  Id: 37
+
+New words:
+  - Word: radosny
+    Translation: joyful
+  - Word: żałosny/smutny
+    Translation: sad
+  - Word: gniewny/zły
+    Translation: angry
+  - Word: miłość
+    Translation: love
+  - Word: przestraszony
+    Translation: frightened
+  - Word: spokój
+    Translation: peace
+  - Word: zazdrość
+    Translation: envy
+  - Word: wstydliwy
+    Translation: ashamed
+  - Word: wstyd
+    Translation: shame
+  - Word: dumny
+    Translation: proud
+  - Word: wesoły
+    Translation: cheerful
+  - Word: drżenie/strach
+    Translation: tremor
+  - Word: czuć (czuje)
+    Translation: to feel
+  - Word: ukrywać
+    Translation: to hide
+  - Word: uciekać
+    Translation: to run away
+
+Phrases:
+  - Phrase: Czuję się radośnie dzisiaj.
+    Translation: We feel joyful this week.
+  - Phrase: Żałośnie on mówił.
+    Translation: He spoke sadly.
+  - Phrase: On gniewnie każe jemu pracować.
+    Translation: He angrily tells him to work.
+  - Phrase: Miłość to silna emocja.
+    Translation: Love is a strong emotion.
+  - Phrase: Strach to naturalna reakcja.
+    Translation: Fear is a natural reaction.
+  - Phrase: Spokój jest ważny dla duszy.
+    Translation: Peace is important for the soul.
+  - Phrase: Zazdrość to czarna emocja.
+    Translation: Envy is a dark emotion.
+  - Phrase: Wstydliwie on czuje wstyd.
+    Translation: He feels ashamed.
+  - Phrase: Wesoło jemu się napełniło serce.
+    Translation: His heart was filled with joy.
+  - Phrase: Zazdrośnie on patrzy na niego.
+    Translation: He is jealous of him.
+  - Phrase: Ja mam żal w sercu.
+    Translation: I have sadness in my heart.
+  - Phrase: Ona pokazuje im swoją pracę wesoło.
+    Translation: She shows them her work joyfully.
+  - Phrase: On ukrywa dumnie swój gniew.
+    Translation: He hides his anger proudly.
+  - Phrase: My czujemy spokój.
+    Translation: We feel peaceful.
+  - Phrase: Strach jest w nas.
+    Translation: Fear is inside us.
+  - Phrase: Przestraszony on uciekał.
+    Translation: He was frightened and ran away.
+  - Phrase: Wstyd jest bardzo silny.
+    Translation: Shame is very strong.
+  - Phrase: Radośnie szedł do domu.
+    Translation: He joyfully went home.
+  - Phrase: Radość idzie z wewnątrz.
+    Translation: Joy comes from within.
+  - Phrase: Cierpieć chcemy tylko, kiedy kochamy.
+    Translation: We only suffer when we love.
+
+Mini-dictionary:
+  Polish:
+    - bardzo: very
+    - chcemy: we want
+    - cierpieć: suffer
+    - czarna: black
+    - czuje: feels
+    - czujemy: we feel
+    - czuję: I feel
+    - czuć: feel
+    - dla: for
+    - do: to
+    - domu: home
+    - dumnie: proudly
+    - duszy: soul
+    - dzisiaj: today
+    - emocja: emotion
+    - gniew: anger
+    - gniewnie: angrily
+    - idzie: goes
+    - im: them
+    - ja: I
+    - jemu: him
+    - jest: is
+    - każe: orders
+    - kiedy: when
+    - kochamy: we love
+    - mam: I have
+    - my: we
+    - mówił: said
+    - na: on
+    - napełniło: filled
+    - nas: us
+    - naturalna: natural
+    - niego: him
+    - on: he
+    - ona: she
+    - patrzy: looks
+    - pokazuje: shows
+    - pracować: work
+    - pracę: work
+    - radośnie: joyfully
+    - radość: joy
+    - reakcja: reaction
+    - serce: heart
+    - sercu: heart
+    - silna: strong
+    - silny: strong
+    - się: oneself
+    - strach: fear
+    - swoją: one's own
+    - swój: one's own
+    - szedł: went
+    - to: this
+    - tylko: only
+    - uciekał: ran away
+    - ukrywa: hides
+    - w: in
+    - ważny: important
+    - wesoło: cheerfully
+    - wewnątrz: inside
+    - wstydliwie: shyly
+    - z: with
+    - zazdrośnie: enviously
+    - żal: regret
+    - żałośnie: pitifully
+  English:
+    - a: jedin/один
+    - and: i
+    - anger: gniew
+    - angrily: gniewnie
+    - angry: gniewny/zły
+    - ashamed: wstydliwy
+    - away: daleko
+    - cheerful: wesoły
+    - comes: przychodzi
+    - dark: ciemny
+    - emotion: emocja
+    - envy: zazdrość
+    - fear: strach
+    - feel: czuć
+    - feels: czuje
+    - filled: napełniona
+    - for: dla
+    - frightened: przestraszony
+    - from: z
+    - have: mieć
+    - he: on
+    - heart: serce
+    - her: jej
+    - hide: ukrywać
+    - hides: ukrywa
+    - him: jemu
+    - his: jego
+    - home: dom
+    - i: ja
+    - important: ważny
+    - in: w
+    - inside: wewnątrz
+    - is: jest
+    - jealous: zazdrosny
+    - joy: radość
+    - joyful: radosny
+    - joyfully: radośnie
+    - love: miłość
+    - my: mój
+    - natural: naturalna
+    - of: z
+    - only: tylko
+    - peace: spokój
+    - peaceful: spokojny
+    - proud: dumny
+    - proudly: dumnie
+    - ran: pobiegł
+    - reaction: reakcja
+    - run: biegać
+    - sad: smutny
+    - sadly: smutno
+    - sadness: smutek
+    - shame: wstyd
+    - she: ona
+    - shows: pokazuje
+    - soul: dusza
+    - spoke: mówił
+    - strong: silny
+    - suffer: cierpieć
+    - tells: mówi
+    - the: to
+    - them: ich
+    - this: to
+    - to: do
+    - tremor: drżenie/strach
+    - us: nas
+    - very: bardzo
+    - was: był
+    - we: my
+    - week: tydzień
+    - went: poszedł
+    - when: kiedy
+    - with: z
+    - within: wewnątrz
+    - work: praca

@@ -1,0 +1,216 @@
+Skill:
+  Name: Character
+  Id: 36
+
+New words:
+  - Word: dobry
+    Translation: good
+  - Word: zły
+    Translation: bad
+  - Word: sylny
+    Translation: strong
+  - Word: słaby
+    Translation: weak
+  - Word: wusudny
+    Translation: brave
+  - Word: śichy
+    Translation: quiet
+  - Word: mudry
+    Translation: wise
+  - Word: głupy
+    Translation: stupid
+  - Word: šćery
+    Translation: sincere
+  - Word: lěny
+    Translation: lazy
+  - Word: był by
+    Translation: I would be
+  - Word: był by
+    Translation: you would be
+  - Word: był by
+    Translation: he/she/it would be
+  - Word: byli by
+    Translation: we would be
+  - Word: byli by
+    Translation: you would be
+  - Word: byli by
+    Translation: they would be
+  - Word: mlčaś (mlcy)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: Wón to dobry cłowjek.
+    Translation: He is a good person.
+  - Phrase: Wóna jo zła casom.
+    Translation: She is sometimes bad.
+  - Phrase: Sylny duch jo ważny.
+    Translation: A strong spirit is important.
+  - Phrase: Wón jo słaby we sporśe.
+    Translation: He is weak in sports.
+  - Phrase: Wusudny powěda pšawdu.
+    Translation: Brave people speak the truth.
+  - Phrase: Kak ty był by słysał, to wóni byli by śiche.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Mudry wě wjele.
+    Translation: A smart person knows much.
+  - Phrase: Kak ty był by nje głupy, to był by nje cynił głuposći.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Šćery pśijaśel jo drogi.
+    Translation: A sincere friend is valuable.
+  - Phrase: Kak wóni byli by nje lěne, to my byli by jim pomagali.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Wóna jo dobra a šćera.
+    Translation: She is good and sincere.
+  - Phrase: Wón jo sylny ale wusudny.
+    Translation: He is strong but brave.
+  - Phrase: Źiśe su mudre za jich lěto.
+    Translation: Children are wiser for their age.
+  - Phrase: Kak wy nje byli by słabe, to wy byliby źěłali.
+    Translation: If you were not weak, you would work.
+  - Phrase: Złe słowa bola.
+    Translation: Bad words hurt.
+  - Phrase: Głupy nje wuknjo se.
+    Translation: Stupid people do not learn.
+  - Phrase: Lěny nje kśě nic cyniś.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Šćery gronjo což mysli.
+    Translation: A sincere person says what they think.
+  - Phrase: Mudry mlcy gaž trěba.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Kak ja był by wusudny, to ja był by se nje bojoł.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: and
+    - ale: but
+    - bojoł: feared
+    - bola: hurts
+    - by: by
+    - byli: were
+    - byliby: would be
+    - był: was
+    - casom: time
+    - což: which
+    - cynił: did
+    - cyniś: to do
+    - cłowjek: human
+    - dobra: good
+    - drogi: roads
+    - duch: spirit
+    - gaž: when
+    - gronjo: says
+    - głuposći: stupidity
+    - ja: I
+    - jich: their
+    - jim: them
+    - jo: yes
+    - kak: how
+    - kśě: wants
+    - lěne: lazy
+    - lěto: summer
+    - mlcy: silent
+    - mlčaś: to be silent
+    - mudre: wise
+    - my: we
+    - mysli: thinks
+    - nic: nothing
+    - nje: no
+    - pomagali: helped
+    - powěda: tells
+    - pśijaśel: friend
+    - pšawdu: truth
+    - se: himself, herself, itself, themselves
+    - sporśe: sport
+    - su: are
+    - słabe: weak
+    - słowa: word
+    - słysał: heard
+    - to: this
+    - trěba: need
+    - ty: you
+    - ważny: important
+    - we: in
+    - wjele: many
+    - wuknjo: learns
+    - wy: you
+    - wón: he
+    - wóna: she
+    - wóni: they
+    - wě: knows
+    - za: for
+    - zła: bad
+    - złe: bad
+    - śiche: quiet
+    - šćera: yesterday
+    - źiśe: child
+    - źěłali: worked
+  English:
+    - a: jedin/один
+    - afraid: se bojaś
+    - age: staroba
+    - and: a
+    - anything: nic
+    - are: byti/быти
+    - bad: zły
+    - be: byś
+    - brave: wjasoły
+    - but: ale
+    - children: źiśi
+    - do: cyniś
+    - foolish: durny
+    - for: za
+    - friend: pśijaśel
+    - good: dobry
+    - he: wón
+    - he/she/it: wón/wóna/wóno
+    - hear: słyšaś
+    - help: pomagaś
+    - hurt: raniś
+    - i: ja
+    - if: jolic
+    - important: wažny
+    - in: w
+    - is: jo
+    - knows: wě
+    - lazy: liny
+    - learn: wuknuś
+    - much: wjele
+    - needed: trjebany
+    - not: nic
+    - people: luźe
+    - person: wósoba
+    - quiet: śichy
+    - says: groni
+    - she: wóna
+    - silent: śichy
+    - sincere: wukšasa
+    - smart: śpěšny
+    - sometimes: někótare
+    - speak: rěcaś
+    - spirit: duch
+    - sports: sporty
+    - stays: wóstajo
+    - strong: mócny
+    - stupid: durny
+    - the: to
+    - their: jich
+    - them: jim
+    - they: wóni
+    - things: wěcy
+    - think: mysliś
+    - to: do
+    - truth: pšawda
+    - valuable: gódny
+    - want: kśěś
+    - we: my
+    - weak: słaby
+    - were: byl/был
+    - what: což
+    - when: ga
+    - wise: mudry
+    - wiser: mudryjši
+    - words: słowa
+    - work: źěłaś
+    - would: by
+    - you: ty

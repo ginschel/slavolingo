@@ -1,0 +1,199 @@
+Skill:
+  Name: Pronouns revision
+  Id: 20
+
+New words:
+  - Word: "знати"
+    Translation: to know
+  - Word: "ведети (ве)"
+    Translation: to know
+  - Word: "сен"
+    Translation: dream
+  - Word: "веч"
+    Translation: thing
+
+Phrases:
+  - Phrase: Тога не знам.
+    Translation: I don't know that.
+  - Phrase: О том уже долго вае вем.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Кога ти видиш?.
+    Translation: Who do you see?.
+  - Phrase: Тим ктори лежет се спати спокојнога сна.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: О тој вечи ја ничто не знам.
+    Translation: I know nothing about that thing.
+  - Phrase: Говорим с тобоју.
+    Translation: I am talking with you.
+  - Phrase: Ја видим вас.
+    Translation: I see you.
+  - Phrase: Он љуби бити сам с собоју.
+    Translation: He likes to be alone with himself.
+  - Phrase: Дај мени воду.
+    Translation: Give me water.
+  - Phrase: С нами всегда все весело.
+    Translation: With us everything is always cheerful.
+  - Phrase: Мене не видиш.
+    Translation: You don't see me.
+  - Phrase: Кому даш дар?
+    Translation: Who do you give a gift to?
+  - Phrase: О мене говориш?
+    Translation: Are you talking about me?
+  - Phrase: Не, ја не говорим о теби.
+    Translation: No, I don't talt about you.
+  - Phrase: О чем ти говориш?
+    Translation: What are you talking about?
+  - Phrase: Те жени сут красне.
+    Translation: These women are beautiful.
+  - Phrase: Ти пријатеља не имаш.
+    Translation: You do not have those friends.
+  - Phrase: Он даје себе спокој.
+    Translation: He stops troubling others.
+  - Phrase: Чега ту нема в дому?
+    Translation: What isn't at this house here?
+  - Phrase: Том псу ти дајеш кости.
+    Translation: You give to this dog bones.
+  - Phrase: То ваша кава или њеј?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Serbian:
+    - бити: be
+    - в: in
+    - вае: oh
+    - вас: you
+    - ваша: your
+    - ве: you
+    - ведети: lead
+    - вем: i know
+    - весело: cheerfully
+    - веч: already
+    - вечи: eternal
+    - видим: i see
+    - видиш: you see
+    - воду: water
+    - все: all
+    - всегда: always
+    - говорим: i speak
+    - говориш: you speak
+    - дар: gift
+    - даш: you will give
+    - дај: give
+    - даје: gives
+    - дајеш: you give
+    - долго: long
+    - дому: home
+    - жени: woman
+    - знам: i know
+    - знати: know
+    - или: or
+    - имаш: you have
+    - кава: coffee
+    - кога: whom
+    - кому: whom
+    - кости: bones
+    - красне: beautiful
+    - ктори: who
+    - лежет: lies
+    - мене: me
+    - мени: me
+    - нами: us
+    - не: no
+    - нема: no
+    - ничто: nothing
+    - о: about
+    - он: he
+    - пријатеља: friend
+    - псу: dog
+    - с: with
+    - сам: alone
+    - се: himself
+    - себе: oneself
+    - сен: shadow
+    - сна: dream
+    - собоју: with oneself
+    - спати: sleep
+    - спокој: peace
+    - спокојнога: peaceful
+    - сут: essence
+    - те: you
+    - теби: you
+    - ти: you
+    - тим: team
+    - то: that
+    - тобоју: you
+    - тога: that
+    - том: volume
+    - тој: that
+    - ту: here
+    - уже: already
+    - чега: what
+    - чем: what
+    - ја: i
+    - љуби: loves
+    - њеј: her
+  English:
+    - a: jedin/один
+    - about: о
+    - alone: сам
+    - always: всегда
+    - am: јем
+    - are: byti/быти
+    - at: при
+    - be: бити
+    - beautiful: красни
+    - bones: кости
+    - cheerful: весели
+    - coffee: кава
+    - do: делати
+    - dog: пес
+    - don't: не
+    - dream: сна
+    - everything: све
+    - for: за
+    - friends: пријатељами
+    - gift: дар
+    - give: давати
+    - going: иде
+    - have: имати
+    - he: он
+    - her: њеј
+    - here: ту
+    - himself: себе
+    - house: кућа
+    - i: ја
+    - is: је
+    - isn't: није
+    - it: оно
+    - know: знати
+    - known: познат
+    - likes: воли
+    - long: долга
+    - me: мене
+    - no: не
+    - not: не
+    - nothing: ништо
+    - or: или
+    - others: други
+    - peaceful: спокојни
+    - see: видети
+    - sleep: спати
+    - stops: зауставља
+    - talking: разговор
+    - talt: висок
+    - that: тај
+    - these: ови
+    - thing: ствар
+    - this: тај
+    - those: они
+    - time: време
+    - to: до
+    - troubling: узнемирујући
+    - us: нас
+    - water: вода
+    - what: что
+    - who: кто
+    - with: с
+    - women: жен
+    - you: ти
+    - your: твој

@@ -1,0 +1,232 @@
+Skill:
+  Name: Physical Appearance
+  Id: 38
+
+New words:
+  - Word: vysoký
+    Translation: tall
+  - Word: nízky
+    Translation: short
+  - Word: tučný
+    Translation: fat
+  - Word: chudý
+    Translation: thin
+  - Word: malý
+    Translation: small
+  - Word: krásny
+    Translation: beautiful
+  - Word: škaredý
+    Translation: ugly
+  - Word: starý
+    Translation: old
+  - Word: mladý
+    Translation: young
+  - Word: vlasy
+    Translation: hair
+  - Word: oči
+    Translation: eyes
+  - Word: než
+    Translation: than
+  - Word: viac
+    Translation: taller/higher
+  - Word: koža
+    Translation: skin
+  - Word: menej
+    Translation: less
+  - Word: smiať sa (smeje sa)
+    Translation: to laugh
+  - Word: bliskať sa
+    Translation: to shine
+  - Word: hviezda
+    Translation: star
+  - Word: svetlý
+    Translation: light
+  - Word: tmavý
+    Translation: dark
+
+Phrases:
+  - Phrase: On je viac vysoký a silný než on.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Ona je nízka a chudá ako on.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Tučný muž ide po ulici.
+    Translation: The fat man is walking down the street.
+  - Phrase: Chudý má menej telesnej hmotnosti než tučný.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: To je viac krásny človek než ten.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Starí ľudia sú viac múdri než my.
+    Translation: Old people are wiser than us.
+  - Phrase: Mladá má veľa energie.
+    Translation: The young one has a lot of energy.
+  - Phrase: Jeho vlasy sú plavé.
+    Translation: His hair is blonde.
+  - Phrase: Oči sú viac zelené než u neho.
+    Translation: Her eyes are greener than his.
+  - Phrase: Jeho koža je biela.
+    Translation: His skin is white.
+  - Phrase: On má dlhé vlasy.
+    Translation: He has long hair.
+  - Phrase: Ona má zelené oči.
+    Translation: She has green eyes.
+  - Phrase: Koža je hladká.
+    Translation: Her skin is smooth.
+  - Phrase: Stará žena nosí čiapku.
+    Translation: The old woman wears a hat.
+  - Phrase: Mladí ľudia často športujú.
+    Translation: Young people often play sports.
+  - Phrase: Tučný muž sa smeje viac než ten škaredý muž.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Nízke dievča ide domov.
+    Translation: The short girl is going home.
+  - Phrase: Krásne oči sa bliskajú ako hviezdy na nebi.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Chudý nosí viac veľkú košeľu než ja.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Jej vlasy sú svetlé a dlhé.
+    Translation: Her hair is light and long.
+  - Phrase: A jeho krásne vlasy sú tmavé ako noc.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Slovak:
+    - a: and
+    - ako: as
+    - biela: white
+    - bliskajú: they flash
+    - bliskať: to flash
+    - chudá: thin
+    - dievča: girl
+    - dlhé: long
+    - domov: home
+    - energie: energy
+    - hladká: smooth
+    - hmotnosti: weight
+    - hviezdy: stars
+    - ide: goes
+    - ja: I
+    - je: is
+    - jeho: his
+    - jej: her
+    - košeľu: shirt
+    - krásne: beautiful
+    - mladá: young
+    - mladí: young
+    - muž: man
+    - my: we
+    - má: has
+    - múdri: wise
+    - na: on
+    - nebi: sky
+    - neho: him
+    - noc: night
+    - nosí: wears
+    - nízka: low
+    - nízke: low
+    - on: he
+    - ona: she
+    - plavé: fair
+    - po: after
+    - sa: oneself
+    - silný: strong
+    - smeje: laughs
+    - smiať: to laugh
+    - stará: old
+    - starí: old
+    - svetlé: light
+    - sú: are
+    - telesnej: physical
+    - ten: that
+    - tmavé: dark
+    - to: it
+    - u: at
+    - ulici: street
+    - veľa: many
+    - veľkú: big
+    - zelené: green
+    - často: often
+    - čiapku: cap
+    - človek: person
+    - ľudia: people
+    - športujú: they play sports
+    - žena: woman
+  English:
+    - a: jedin/один
+    - and: a
+    - are: byti/быти
+    - as: ako
+    - beautiful: krásny
+    - blonde: plavé
+    - body: telo
+    - dark: tmavý
+    - do: robiť
+    - down: dole
+    - energy: energie
+    - eyes: oči
+    - fat: tučný
+    - girl: dievča
+    - going: idúci
+    - green: zelený
+    - greener: zelenšie
+    - hair: vlasy
+    - has: má
+    - hat: čiapka
+    - he: on
+    - her: jej
+    - him: mu
+    - his: jeho
+    - home: domov
+    - i: ja
+    - in: v
+    - is: je
+    - larger: väčší
+    - laugh: smiať
+    - laughs: smeje
+    - less: menej
+    - light: svetlo
+    - like: rád
+    - long: dlho
+    - lot: veľa
+    - louder: hlasnejšie
+    - man: muž
+    - mass: hmota
+    - more: viac
+    - night: noc
+    - of: z
+    - often: často
+    - old: starý
+    - one: jeden
+    - people: ľudia
+    - person: človek
+    - play: hrať
+    - she: ona
+    - shine: svietiť
+    - shirt: košeľa
+    - short: krátka
+    - shorter: kratší
+    - skin: koža
+    - sky: nebo
+    - small: malý
+    - smooth: hladká
+    - sports: športovcov
+    - star: hviezda
+    - stars: hviezd
+    - street: ulica
+    - stronger: silnejší
+    - tall: vysoký
+    - taller: vyšší
+    - taller/higher: vyššie
+    - than: než
+    - that: ten
+    - the: to
+    - thin: chudý
+    - thinner: tenší
+    - to: do
+    - ugly: škaredý
+    - us: nás
+    - walking: chôdza
+    - wears: nosí
+    - white: biely
+    - wiser: múdrejší
+    - woman: žena
+    - young: mladý

@@ -1,0 +1,185 @@
+Skill:
+  Name: Food
+  Id: 6
+
+New words:
+  - Word: chléb
+    Translation: bread
+  - Word: gotowac
+    Translation: to prepare
+  - Word: nesc
+    Translation: to carry
+  - Word: jesc (je)
+    Translation: to eat
+  - Word: masło
+    Translation: butter
+  - Word: mlékò
+    Translation: milk
+  - Word: miãso
+    Translation: meat
+  - Word: jajkò
+    Translation: egg
+  - Word: sniôdanié
+    Translation: breakfast
+  - Word: òbiôd
+    Translation: lunch
+  - Word: kùpic
+    Translation: to buy
+  - Word: wieczérzô
+    Translation: dinner
+  - Word: spôdk
+    Translation: dish
+  - Word: knéga
+    Translation: book
+  - Word: słodczi
+    Translation: sweet
+  - Word: jiedzô
+    Translation: food
+
+Phrases:
+  - Phrase: Ja jem chléb.
+    Translation: I am eating bread.
+  - Phrase: Òna je miãso.
+    Translation: She is eating meat.
+  - Phrase: On miłuje mlékò.
+    Translation: He likes milk.
+  - Phrase: Ja widzyjã Vlada z jiedzojã
+    Translation: I see Vlad with food
+  - Phrase: Të jesz jajkò?
+    Translation: Are you eating an egg?
+  - Phrase: Më jemë wieczérzã.
+    Translation: We are eating dinner.
+  - Phrase: Òni mają sniôdanié.
+    Translation: They are having breakfast.
+  - Phrase: Ja kùpim masło.
+    Translation: I will buy butter.
+  - Phrase: On gotuje òbiôd.
+    Translation: He is preparing lunch.
+  - Phrase: Òna niese spôdk.
+    Translation: She is carrying a dish.
+  - Phrase: Òni kùpùją masło i chléb.
+    Translation: They are buying butter and bread.
+  - Phrase: On pije mlékò i je miãso.
+    Translation: He is drinking milk and eating meat.
+  - Phrase: Czëtôsz të knégã i jesz sniôdanié?
+    Translation: Are you reading a book and eating breakfast?
+  - Phrase: Ja widzyjã òbiôd na stole.
+    Translation: I see lunch on the table.
+  - Phrase: Të mësz masło?
+    Translation: Do you have butter?
+  - Phrase: Më gotujemë wieczérzã czéżdë dzéń.
+    Translation: We prepare dinner every day.
+  - Phrase: Ja wiém, co të miłujesz jajka.
+    Translation: I know that you like eggs.
+  - Phrase: On je słodcą jiedzã.
+    Translation: He eats sweet food.
+  - Phrase: Òna miłuje gotowac wieczérzã.
+    Translation: She likes to prepare dinner.
+  - Phrase: Më widzymë twòją picã na stole.
+    Translation: We see your pizza on the table.
+  - Phrase: Òni wiedzą, co ja wszëtkã jem chléb z masłã.
+    Translation: They know that I always eat bread with butter.
+
+Mini-dictionary:
+  Kashubian:
+    - co: what
+    - czéżdë: what
+    - czëtôsz: you read
+    - dzéń: day
+    - gotuje: cooks
+    - gotujemë: we cook
+    - i: and
+    - ja: yes
+    - jajka: eggs
+    - je: is
+    - jem: I eat
+    - jemë: we eat
+    - jesc: to eat
+    - jesz: you are
+    - jiedzojã: food
+    - jiedzã: food
+    - knégã: book
+    - kùpim: I will buy
+    - kùpùją: they buy
+    - mają: they have
+    - masłã: butter
+    - miłuje: loves
+    - miłujesz: you love
+    - më: we
+    - mësz: mouse
+    - na: on
+    - niese: carries
+    - on: he
+    - picã: drink
+    - pije: drinks
+    - stole: table
+    - słodcą: sweet
+    - twòją: your
+    - të: you
+    - vlada: government
+    - widzyjã: I see
+    - widzymë: we see
+    - wieczérzã: supper
+    - wiedzą: they know
+    - wiém: I know
+    - wszëtkã: all
+    - z: with
+    - òna: she
+    - òni: they
+  English:
+    - a: jedin/один
+    - always: zawże
+    - am: jem
+    - an: jeden
+    - and: ë
+    - are: byti/быти
+    - book: knéga
+    - bread: chléb
+    - breakfast: sniôdanié
+    - butter: masło
+    - buy: kùpic
+    - buying: kùpòwac
+    - carry: niésc
+    - carrying: niesen
+    - day: dzéń
+    - dinner: jôda
+    - dish: tôlerz
+    - do: robic
+    - drinking: picé
+    - eat: jesc
+    - eating: jedzenié
+    - eats: jé
+    - egg: jajkò
+    - eggs: jajka
+    - every: kòżdi
+    - food: jestk
+    - have: miec
+    - having: miéni
+    - he: on
+    - i: jô
+    - is: je
+    - know: znac
+    - like: lubic
+    - likes: lubi
+    - lunch: òbiôd
+    - meat: miãso
+    - milk: mleko
+    - on: na
+    - pizza: pizza
+    - prepare: ùrzadzëc
+    - preparing: ùrzadzëc
+    - reading: czëtanié
+    - see: widzec
+    - she: òna
+    - sweet: słodczi
+    - table: stół
+    - that: to
+    - the: to
+    - they: òni
+    - to: do
+    - vlad: vlad
+    - we: më
+    - will: bãdzë
+    - with: z
+    - you: të
+    - your: twòje

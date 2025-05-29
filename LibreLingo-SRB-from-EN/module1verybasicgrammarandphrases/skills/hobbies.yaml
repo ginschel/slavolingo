@@ -1,0 +1,187 @@
+Skill:
+  Name: Hobbies
+  Id: 4
+
+New words:
+  - Word: читати
+    Translation: to read
+  - Word: писати(пише)
+    Translation: to write
+  - Word: играти
+    Translation: to play
+  - Word: гледети
+    Translation: to watch
+  - Word: слушати
+    Translation: to listen
+  - Word: малјовати
+    Translation: to paint
+  - Word: певати
+    Translation: to sing
+  - Word: учити се
+    Translation: to learn
+  - Word: седети(седи)
+    Translation: to sit
+  - Word: шити (шије)
+    Translation: to sew
+  - Word: танцевати
+    Translation: to dance
+
+Phrases:
+  - Phrase: Ја читам книгу.
+    Translation: I am reading a book.
+  - Phrase: Она пише писма.
+    Translation: She is writing letters.
+  - Phrase: Он игра в фудбал.
+    Translation: He is playing football.
+  - Phrase: Ми гледемо филм.
+    Translation: We are watching a film.
+  - Phrase: Они слушају музику.
+    Translation: They are listening to music.
+  - Phrase: Она седи и чита.
+    Translation: She is sitting and reading.
+  - Phrase: Ја малјујем образ.
+    Translation: I am painting a picture.
+  - Phrase: Он пева пешње.
+    Translation: He is singing songs.
+  - Phrase: Ви учите се језика.
+    Translation: You are learning a language.
+  - Phrase: Ја шијем одежду.
+    Translation: I am sewing clothes.
+  - Phrase: Ти гледеш серију?
+    Translation: Are you watching a series?
+  - Phrase: Ми играмо в шах.
+    Translation: We are playing chess.
+  - Phrase: Они слушају радио.
+    Translation: They are listening to the radio.
+  - Phrase: Читаш ти романе?
+    Translation: Do you read novels?
+  - Phrase: Он пише дневник.
+    Translation: He is writing a diary.
+  - Phrase: Учимо се ту.
+    Translation: We are learning here.
+  - Phrase: Малјујемо с пријатељами образи.
+    Translation: We are painting pictures with friends.
+  - Phrase: Ти шијеш?
+    Translation: Are you sewing?
+  - Phrase: Ја певам с групоју.
+    Translation: I am singing with a group.
+  - Phrase: Ја танцујем много
+    Translation: I dance a lot
+  - Phrase: Она игра на гитару.
+    Translation: She is playing the guitar.
+
+Mini-dictionary:
+  Serbian:
+    - в: in
+    - ви: you
+    - гитару: guitar
+    - гледемо: we look
+    - гледеш: you look
+    - групоју: group
+    - дневник: diary
+    - и: and
+    - игра: plays
+    - играмо: we play
+    - книгу: book
+    - малјујем: i paint
+    - малјујемо: we paint
+    - ми: we
+    - много: many
+    - музику: music
+    - на: on
+    - образ: face
+    - образи: faces
+    - одежду: clothes
+    - он: he
+    - она: she
+    - они: they
+    - пева: sings
+    - певам: i sing
+    - пешње: pedestrian
+    - писати: write
+    - писма: letters
+    - пише: writes
+    - пријатељами: friends
+    - радио: radio
+    - романе: novel
+    - с: with
+    - се: himself
+    - седети: sit
+    - седи: sits
+    - серију: series
+    - слушају: listen
+    - танцујем: i dance
+    - ти: you
+    - ту: here
+    - учимо: we learn
+    - учите: you learn
+    - учити: learn
+    - филм: film
+    - фудбал: football
+    - чита: reads
+    - читам: i read
+    - читаш: you read
+    - шах: chess
+    - шити: sew
+    - шије: sews
+    - шијем: i sew
+    - шијеш: you sew
+    - ја: i
+    - језика: language
+  English:
+    - a: jedin/один
+    - am: јем
+    - and: и
+    - are: byti/быти
+    - book: книга
+    - chess: шах
+    - clothes: одеж
+    - dance: танцевати
+    - diary: дневник
+    - do: делати
+    - film: филм
+    - football: фудбал
+    - friends: пријатељами
+    - group: групоју
+    - guitar: гитару
+    - he: он
+    - here: ту
+    - i: ја
+    - is: је
+    - language: језик
+    - learn: учити
+    - learning: учење
+    - letters: писма
+    - listen: слушати
+    - listening: слушање
+    - lot: много
+    - music: музика
+    - novels: романе
+    - paint: малјовати
+    - painting: сликање
+    - picture: слика
+    - pictures: слике
+    - play: играти
+    - playing: играње
+    - radio: радио
+    - read: читати
+    - reading: читање
+    - series: серију
+    - sew: шити
+    - sewing: шивење
+    - she: она
+    - sing: певати
+    - singing: певање
+    - sit: седети
+    - sitting: седење
+    - songs: песме
+    - the: to
+    - they: они
+    - to: до
+    - watch: гледати
+    - watching: гледање
+    - we: ми
+    - with: с
+    - write: писати
+    - writing: писање
+    - you: ти

@@ -1,0 +1,189 @@
+Skill:
+  Name: Drinks
+  Id: 7
+
+New words:
+  - Word: вада
+    Translation: water
+  - Word: піва
+    Translation: beer
+  - Word: піць
+    Translation: to drink
+  - Word: віно
+    Translation: wine
+  - Word: кава
+    Translation: coffee
+  - Word: сок
+    Translation: juice
+  - Word: хацець (хоча)
+    Translation: to want
+  - Word: фляжка
+    Translation: bottle
+  - Word: спрабаваць знайсці
+    Translation: to try to find
+  - Word: кубак
+    Translation: glass
+  - Word: бутэлька
+    Translation: bottle
+  - Word: чай
+    Translation: tea
+  - Word: малако
+    Translation: milk
+  - Word: без
+    Translation: without
+  - Word: за
+    Translation: for
+  - Word: з/із (паходжанне)
+    Translation: from
+  - Word: у
+    Translation: at/by
+
+Phrases:
+  - Phrase: Я не маю вады.
+    Translation: I do not have water.
+  - Phrase: Яна не п'е віна.
+    Translation: She does not drink wine.
+  - Phrase: Мы не п'ем піва.
+    Translation: We do not drink beer.
+  - Phrase: Ты маеш фляжку соку?
+    Translation: Do you have a bottle of juice?
+  - Phrase: Яны не купляюць бутэлек піва.
+    Translation: They are not buying bottles of beer.
+  - Phrase: Ён не мае кавы.
+    Translation: He does not have coffee.
+  - Phrase: П'еш без малака?
+    Translation: Do you drink without milk?
+  - Phrase: Яна не п'е чаю.
+    Translation: She does not drink tea.
+  - Phrase: Кубак віна для мяне, калі ласка.
+    Translation: A glass of wine for me, please.
+  - Phrase: Бутэлька вады ляжыць на стале.
+    Translation: A bottle of water is lying on the table.
+  - Phrase: Я люблю сок без цукру.
+    Translation: I like juice without sugar.
+  - Phrase: Ён не любіць кавы без малака.
+    Translation: He does not like coffee without milk.
+  - Phrase: Ты ёсць без фляжкі?
+    Translation: Are you without a bottle?
+  - Phrase: Яна спрабуе знайсці кубак без віна.
+    Translation: She is trying to find a glass without wine.
+  - Phrase: Ён не хоча піць соку.
+    Translation: He does not want to drink juice.
+  - Phrase: Ты п'еш віно?
+    Translation: Do you drink wine?
+  - Phrase: Гэта віно з Польшчы.
+    Translation: This wine is from Poland.
+  - Phrase: У Франка гарэлкі няма.
+    Translation: Frank has no vodka.
+  - Phrase: Мы п'ем з бутэлькі піва.
+    Translation: We are drinking beer from the bottle.
+  - Phrase: Дайце мне кубак віна, калі ласка.
+    Translation: Give me a glass of wine, please.
+  - Phrase: Ён п'е за цябе
+    Translation: He is drinking for you
+
+Mini-dictionary:
+  Belarusian:
+    - бутэлек: bottles
+    - бутэлькі: bottles
+    - вады: water
+    - віна: wine
+    - гарэлкі: vodka
+    - гэта: this
+    - дайце: give
+    - для: for
+    - з: from
+    - з/із: from
+    - знайсці: find
+    - кавы: coffee
+    - калі: when
+    - купляюць: buying
+    - ласка: please
+    - люблю: love
+    - любіць: love/like
+    - ляжыць: lies
+    - мае: has
+    - маеш: have
+    - малака: milk
+    - маю: have
+    - мне: me
+    - мы: we
+    - мяне: me
+    - на: on
+    - не: no
+    - няма: no
+    - п'е: drinks
+    - п'ем: drink
+    - п'еш: drink
+    - паходжанне: origin
+    - польшчы: poland
+    - соку: juice
+    - спрабаваць: try
+    - спрабуе: trying
+    - стале: table
+    - ты: you
+    - фляжку: bottle
+    - фляжкі: bottles
+    - франка: frank
+    - хацець: want
+    - хоча: wants
+    - цукру: sugar
+    - цябе: you
+    - чаю: tea
+    - я: i
+    - яна: she
+    - яны: they
+    - ён: he
+    - ёсць: is
+  English:
+    - a: jedin/один
+    - are: byti/быти
+    - at/by: у/ля
+    - beer: піва
+    - bottle: бутэлька
+    - bottles: бутэлькі
+    - buying: купляе
+    - coffee: кава
+    - do: рабіць
+    - does: робіць
+    - drink: піць
+    - drinking: п'е
+    - find: знаходзіць
+    - for: для
+    - frank: франк
+    - from: з
+    - give: даваць
+    - glass: шклянка
+    - has: мае
+    - have: мець
+    - he: ён
+    - i: я
+    - is: ёсць
+    - juice: сок
+    - like: падабацца
+    - lying: ляжаць
+    - me: мне
+    - milk: малако
+    - no: не
+    - not: не
+    - of: з
+    - on: на
+    - please: калі ласка
+    - poland: польшча
+    - she: яна
+    - sugar: цукар
+    - table: стол
+    - tea: чай
+    - the: to
+    - they: яны
+    - this: гэты
+    - to: да
+    - try: спрабаваць
+    - trying: спрабуе
+    - vodka: гарэлка
+    - want: хацець
+    - water: вада
+    - we: мы
+    - wine: віно
+    - without: без
+    - you: ты

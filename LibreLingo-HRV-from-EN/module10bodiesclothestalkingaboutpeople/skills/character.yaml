@@ -1,0 +1,213 @@
+Skill:
+  Name: Character
+  Id: 36
+
+New words:
+  - Word: dobar
+    Translation: good
+  - Word: zao
+    Translation: bad
+  - Word: snažan/jak
+    Translation: strong
+  - Word: slab
+    Translation: weak
+  - Word: hrabar
+    Translation: brave
+  - Word: tih
+    Translation: quiet
+  - Word: mudar
+    Translation: wise
+  - Word: glup
+    Translation: stupid
+  - Word: iskren
+    Translation: sincere
+  - Word: lijen
+    Translation: lazy
+  - Word: bio bih
+    Translation: I would be
+  - Word: bio bi
+    Translation: you would be
+  - Word: bio bi
+    Translation: he/she/it would be
+  - Word: bili bismo
+    Translation: we would be
+  - Word: bili biste
+    Translation: you would be
+  - Word: bili bi
+    Translation: they would be
+  - Word: šutjeti (šuti)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: On je dobar čovjek.
+    Translation: He is a good person.
+  - Phrase: Ona je ponekad zla.
+    Translation: She is sometimes bad.
+  - Phrase: Snažan duh je važan.
+    Translation: A strong spirit is important.
+  - Phrase: On je slab u sportu.
+    Translation: He is weak in sports.
+  - Phrase: Hrabar govori istinu.
+    Translation: Brave people speak the truth.
+  - Phrase: Kao što bi čuo, oni bi bili tihi.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Mudar zna mnogo.
+    Translation: A smart person knows much.
+  - Phrase: Kad ne bi bio glup, ne bi činio gluposti.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Iskren prijatelj je dragocjen.
+    Translation: A sincere friend is valuable.
+  - Phrase: Kad ne bi bili lijeni, pomogli bismo im.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Ona je dobra i iskrena.
+    Translation: She is good and sincere.
+  - Phrase: On je snažan, ali hrabar.
+    Translation: He is strong but brave.
+  - Phrase: Djeca su mudra za svoju dob.
+    Translation: Children are wiser for their age.
+  - Phrase: Kad ne biste bili slabi, radili biste.
+    Translation: If you were not weak, you would work.
+  - Phrase: Zle riječi bole.
+    Translation: Bad words hurt.
+  - Phrase: Glup se ne uči.
+    Translation: Stupid people do not learn.
+  - Phrase: Lijen ne želi ništa raditi.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Iskren govori što misli.
+    Translation: A sincere person says what they think.
+  - Phrase: Mudar šuti kad treba.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Kad bih bio hrabar, ne bih se bojao.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Croatian:
+    - ali: but
+    - bi: would
+    - bih: would
+    - bili: were
+    - bio: was
+    - bismo: we would
+    - biste: you would
+    - bojao: feared
+    - bole: hurt
+    - djeca: children
+    - dob: age
+    - dobra: good
+    - dragocjen: precious
+    - duh: spirit
+    - gluposti: nonsense
+    - govori: speaks
+    - i: and
+    - im: them
+    - iskrena: sincere
+    - istinu: truth
+    - je: is
+    - kad: when
+    - kao: as
+    - lijeni: lazy
+    - misli: thinks
+    - mnogo: many
+    - mudra: wise
+    - ne: no
+    - ništa: nothing
+    - on: he
+    - ona: she
+    - oni: they
+    - pomogli: helped
+    - ponekad: sometimes
+    - prijatelj: friend
+    - radili: worked
+    - raditi: to work
+    - riječi: words
+    - se: oneself
+    - slabi: weak
+    - snažan: strong
+    - sportu: sport
+    - su: are
+    - svoju: his/her/its
+    - tihi: quiet
+    - treba: needs
+    - u: in
+    - uči: learns
+    - važan: important
+    - za: for
+    - zla: evil
+    - zle: evil
+    - zna: knows
+    - činio: did
+    - čovjek: man
+    - čuo: heard
+    - što: what
+    - šuti: shuts up
+    - šutjeti: to be silent
+    - želi: wants
+  English:
+    - a: jedin/один
+    - afraid: bojao
+    - age: dob
+    - and: i
+    - anything: išta
+    - are: byti/быти
+    - bad: loša
+    - be: biti
+    - brave: hrabar
+    - but: ali
+    - children: djeca
+    - do: činiti/raditi
+    - foolish: glup
+    - for: za
+    - friend: prijatelj
+    - good: dobar
+    - he: on
+    - he/she/it: on/ona/ono
+    - hear: čuti
+    - help: pomagati
+    - hurt: boljeti
+    - i: ja
+    - if: ako
+    - important: važan
+    - in: u
+    - is: je
+    - knows: zna
+    - lazy: lijen
+    - learn: učiti
+    - much: koliko
+    - needed: trebalo
+    - not: ne
+    - people: ljudi
+    - person: osoba
+    - quiet: tih
+    - says: kaže
+    - she: ona
+    - silent: šutjeti
+    - sincere: iskren
+    - smart: pametan
+    - sometimes: ponekad
+    - speak: govoriti
+    - spirit: duh
+    - sports: sportaše
+    - stays: ostaje
+    - strong: snažan
+    - stupid: glup
+    - the: to
+    - their: njihov
+    - them: ih
+    - they: oni
+    - things: stvari
+    - think: misli
+    - to: do
+    - truth: istinu
+    - valuable: dragocjen
+    - want: htjeti
+    - we: mi
+    - weak: slab
+    - were: byl/был
+    - what: što
+    - when: kad
+    - wise: mudar
+    - wiser: mudriji
+    - words: riječi
+    - work: rad
+    - would: bi
+    - you: ti

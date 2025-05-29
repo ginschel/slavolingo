@@ -1,0 +1,196 @@
+Skill:
+  Name: Conjugation of to be
+  Id: 1
+
+New words:
+  - Word: to
+    Translation: this (m)
+  - Word: ta
+    Translation: this (f)
+  - Word: ten
+    Translation: that (m)
+  - Word: tamten
+    Translation: that over there (f)
+  - Word: tamta
+    Translation: that over there (n)
+  - Word: jsem
+    Translation: i am
+  - Word: jsi
+    Translation: you are (sg)
+  - Word: je
+    Translation: he is
+  - Word: jsme
+    Translation: we are
+  - Word: jste
+    Translation: you are (pl)
+  - Word: jsou
+    Translation: they are
+  - Word: já
+    Translation: I
+  - Word: ty
+    Translation: you
+  - Word: on
+    Translation: he
+  - Word: ona
+    Translation: she
+  - Word: ono
+    Translation: it
+  - Word: my
+    Translation: we
+  - Word: vy
+    Translation: you
+  - Word: oni
+    Translation: they
+  - Word: one
+    Translation: they
+  - Word: člověk
+    Translation: person
+  - Word: žena
+    Translation: woman
+  - Word: muž
+    Translation: man
+  - Word: dítě
+    Translation: child
+  - Word: přítel
+    Translation: friend
+  - Word: sestra
+    Translation: sister
+  - Word: rodič
+    Translation: parent
+  - Word: dům
+    Translation: house
+  - Word: město
+    Translation: city
+  - Word: den
+    Translation: day
+  - Word: také
+    Translation: also
+  - Word: kdo
+    Translation: who
+
+Phrases:
+  - Phrase: Já jsem moudrý.
+    Translation: I am wise.
+  - Phrase: To je moje sestra.
+    Translation: This is my sister.
+  - Phrase: Ona je velmi moudrá
+    Translation: She is very wise
+  - Phrase: My jsme velmi moudří
+    Translation: We are very wise
+  - Phrase: Jste také moudří?
+    Translation: Are you also wise?
+  - Phrase: To je dobrý člověk.
+    Translation: This is a good person.
+  - Phrase: Ta žena je dobrá.
+    Translation: This woman is good.
+  - Phrase: To je můj dům.
+    Translation: This is my house.
+  - Phrase: On je také dobrý přítel
+    Translation: He is a good friend
+  - Phrase: Vy jste dobří.
+    Translation: You are good.
+  - Phrase: To jsou přátelé.
+    Translation: These are friends.
+  - Phrase: Kdo jsi ty?
+    Translation: Who are you?
+  - Phrase: Ten muž je milý.
+    Translation: That man is kind.
+  - Phrase: To je příjemné město.
+    Translation: This is a pleasant city.
+  - Phrase: Ta žena je vysoká.
+    Translation: That woman is tall.
+  - Phrase: Ten den je chladný.
+    Translation: That day is cold.
+  - Phrase: Tamten dům je krásný.
+    Translation: That house over there is beautiful.
+  - Phrase: To moje dítě.
+    Translation: This is my child.
+  - Phrase: Tamto ráno je chladné.
+    Translation: That morning over there is cold.
+  - Phrase: To není moje sestra.
+    Translation: This is not my sister.
+  - Phrase: To není tvůj dům.
+    Translation: This is not your house.
+  - Phrase: To dobré auto?
+    Translation: Is this a good car?
+  - Phrase: To dobří přátelé?
+    Translation: Are these good friends?
+  - Phrase: One jsou velmi milé.
+    Translation: They are very kind.
+  - Phrase: Oni jsou velmi milí
+    Translation: They are very kind
+
+Mini-dictionary:
+  Czech:
+    - auto: car
+    - chladné: cold
+    - chladný: cold
+    - dobrá: good
+    - dobré: good
+    - dobrý: good
+    - dobří: good
+    - krásný: beautiful
+    - milé: dear
+    - milí: dear
+    - milý: dear
+    - moje: my
+    - moudrá: wise
+    - moudrý: wise
+    - moudří: wise
+    - můj: my
+    - není: isn't
+    - přátelé: friends
+    - příjemné: pleasant
+    - ráno: morning
+    - tamto: that
+    - tvůj: your
+    - velmi: very
+    - vysoká: high/tall
+  English:
+    - a: jedin/один
+    - also: také
+    - am: jsem
+    - are: byti/быти
+    - beautiful: krásný
+    - car: auto
+    - child: dítě
+    - city: město
+    - cold: studený
+    - day: den
+    - f: undef
+    - friend: přítel
+    - friends: přátelé
+    - good: dobrý
+    - he: on
+    - house: dům
+    - i: já
+    - is: je
+    - it: to
+    - kind: druh
+    - m: undef
+    - man: muž
+    - morning: ráno
+    - my: můj
+    - n: undef
+    - not: ne
+    - over: přes
+    - parent: rodič
+    - person: osoba
+    - pl: undef
+    - pleasant: příjemný
+    - sg: undef
+    - she: ona
+    - sister: sestra
+    - tall: vysoký
+    - that: to
+    - there: tam
+    - these: tyto
+    - they: oni
+    - this: toto
+    - very: velmi
+    - we: my
+    - who: kdo
+    - wise: moudrý
+    - woman: žena
+    - you: ty/vy
+    - your: tvůj/váš

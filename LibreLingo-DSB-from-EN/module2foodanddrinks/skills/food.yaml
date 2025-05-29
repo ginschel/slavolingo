@@ -1,0 +1,183 @@
+Skill:
+  Name: Food
+  Id: 6
+
+New words:
+  - Word: klěb
+    Translation: bread
+  - Word: wariś
+    Translation: to prepare
+  - Word: njasć
+    Translation: to carry
+  - Word: jěsć (jě)
+    Translation: to eat
+  - Word: masło
+    Translation: butter
+  - Word: mloko
+    Translation: milk
+  - Word: měso
+    Translation: meat
+  - Word: jajco
+    Translation: egg
+  - Word: zjutšnu
+    Translation: breakfast
+  - Word: wobjed
+    Translation: lunch
+  - Word: kupiś
+    Translation: to buy
+  - Word: wjacorju
+    Translation: dinner
+  - Word: blido
+    Translation: dish
+  - Word: knigła
+    Translation: book
+  - Word: słodki
+    Translation: sweet
+  - Word: jědł
+    Translation: food
+
+Phrases:
+  - Phrase: Ja jěm klěb.
+    Translation: I am eating bread.
+  - Phrase: Wóna jě měso.
+    Translation: She is eating meat.
+  - Phrase: Wón lubi mloko.
+    Translation: He likes milk.
+  - Phrase: Ja wiźim Wlada z jědłom
+    Translation: I see Vlad with food
+  - Phrase: Ty jěš jajco?
+    Translation: Are you eating an egg?
+  - Phrase: My jědmy wjacorju.
+    Translation: We are eating dinner.
+  - Phrase: Wóni maju zjutšnu.
+    Translation: They are having breakfast.
+  - Phrase: Ja kupujom masło.
+    Translation: I will buy butter.
+  - Phrase: Wón wari wobjed.
+    Translation: He is preparing lunch.
+  - Phrase: Wóna njaso blido.
+    Translation: She is carrying a dish.
+  - Phrase: Wóni kupuju masło a klěb.
+    Translation: They are buying butter and bread.
+  - Phrase: Wón pijo mloko a jě měso.
+    Translation: He is drinking milk and eating meat.
+  - Phrase: Cytaš ty knigłu a jěš zjutšnu?
+    Translation: Are you reading a book and eating breakfast?
+  - Phrase: Ja wiźim wobjed na blidźe.
+    Translation: I see lunch on the table.
+  - Phrase: Ty maš masło?
+    Translation: Do you have butter?
+  - Phrase: My warimy wjacorju kuždy źeń.
+    Translation: We prepare dinner every day.
+  - Phrase: Ja wěm, až ty lubiš jajca.
+    Translation: I know that you like eggs.
+  - Phrase: Wón jě słodke jědł.
+    Translation: He eats sweet food.
+  - Phrase: Wóna lubi wariś wjacorju.
+    Translation: She likes to prepare dinner.
+  - Phrase: My wiźimy twóju picu na blidźe.
+    Translation: We see your pizza on the table.
+  - Phrase: Wóni wědźa, až ja zawšu jěm klěb z masłom.
+    Translation: They know that I always eat bread with butter.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: and
+    - až: until
+    - blidźe: on the table
+    - cytaš: you read
+    - ja: I
+    - jajca: eggs
+    - jě: eats
+    - jědmy: seventh
+    - jědłom: food
+    - jěm: I eat
+    - jěsć: to eat
+    - jěš: you eat
+    - knigłu: book
+    - kupujom: I buy
+    - kupuju: buy
+    - kuždy: every
+    - lubi: loves
+    - lubiš: you love
+    - maju: have
+    - masłom: butter
+    - maš: you have
+    - my: we
+    - na: on
+    - njaso: carries
+    - picu: drink
+    - pijo: drinks
+    - słodke: sweet
+    - twóju: your
+    - ty: you
+    - wari: cooks
+    - warimy: we cook
+    - wiźim: I see
+    - wiźimy: we see
+    - wlada: rules
+    - wón: he
+    - wóna: she
+    - wóni: they
+    - wědźa: know
+    - wěm: I know
+    - z: with
+    - zawšu: always
+    - źeń: day
+  English:
+    - a: jedin/один
+    - always: wžedno
+    - am: som
+    - an: jaden
+    - and: a
+    - are: byti/быти
+    - book: knigły
+    - bread: klěb
+    - breakfast: ranjajšne jědźeńske
+    - butter: masło
+    - buy: kupowaś
+    - buying: kupujucy
+    - carry: nosyś
+    - carrying: nosucy
+    - day: źeń
+    - dinner: wjacorne jědźeńske
+    - dish: jědź
+    - do: cyniś
+    - drinking: pijućy
+    - eat: jěś
+    - eating: jěźecy
+    - eats: jě
+    - egg: jajko
+    - eggs: jajka
+    - every: kuždy
+    - food: jědźeńske
+    - have: měś
+    - having: majućy
+    - he: wón
+    - i: ja
+    - is: jo
+    - know: wěźeś
+    - like: lubowaś
+    - likes: lubujo
+    - lunch: wótpołdnjowe jědźeńske
+    - meat: měso
+    - milk: mloko
+    - on: na
+    - pizza: pizza
+    - prepare: pśigotowaś
+    - preparing: pśigotujucy
+    - reading: cytajucy
+    - see: wiźeś
+    - she: wóna
+    - sweet: słodki
+    - table: blido
+    - that: to
+    - the: to
+    - they: wóni
+    - to: do
+    - vlad: vlad
+    - we: my
+    - will: buźo
+    - with: z
+    - you: ty
+    - your: twój

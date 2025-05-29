@@ -1,0 +1,190 @@
+Skill:
+  Name: Seasons of the year
+  Id: 33
+
+New words:
+  - Word: лїто
+    Translation: summer
+  - Word: ясень
+    Translation: autumn
+  - Word: зима
+    Translation: winter
+  - Word: ярь
+    Translation: spring
+  - Word: час року
+    Translation: season
+  - Word: быти
+    Translation: to be
+  - Word: буду
+    Translation: I will be
+  - Word: будеш
+    Translation: you will be
+  - Word: буде
+    Translation: he/she/it will be
+  - Word: будеме
+    Translation: we will be
+  - Word: будете
+    Translation: you will be
+  - Word: будуть
+    Translation: they will be
+
+Phrases:
+  - Phrase: В лїті буде тепло.
+    Translation: In the summer it will be warm.
+  - Phrase: В яснї будеме видіти падаючі листя.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: В зимї будете грати зі снїгом.
+    Translation: In the winter you will play with snow.
+  - Phrase: Ярь принесе цвїты.
+    Translation: Spring will bring flowers.
+  - Phrase: Час року ся буде змінювати штири разы.
+    Translation: The season will change four times.
+  - Phrase: В зимї буде падати снїг.
+    Translation: In the winter it will snow.
+  - Phrase: На ярї ростуть цвїты.
+    Translation: In spring, flowers grow.
+  - Phrase: В лїті є много сонця.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: В яснї будеш много терпіти через дождь.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Воздух в зимї буде хладный.
+    Translation: The air in winter will be cold.
+  - Phrase: Лїто є час року одпочінку при озері.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Ясень має много кольорів.
+    Translation: Autumn has many colors.
+  - Phrase: Зима не є добра за шпортовцїв.
+    Translation: Winter is not good for sports.
+  - Phrase: Ярь є нудна.
+    Translation: Spring is boring.
+  - Phrase: Часы року ся міняють штири разы в роцї.
+    Translation: The seasons change four times a year.
+  - Phrase: Скоро кончить ся лїто.
+    Translation: Summer will soon end.
+  - Phrase: В яснї тыж падає дождь.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Зима має много снїга.
+    Translation: Winter has a lot of snow.
+  - Phrase: Они будуть видіти зеленый краєвид.
+    Translation: They will see a green landscape.
+  - Phrase: Сонце буде світити сильно в лїті.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Rusin:
+    - в: in
+    - видіти: see
+    - воздух: air
+    - грати: play
+    - добра: good
+    - дождь: rain
+    - за: behind
+    - зеленый: green
+    - зимї: winter
+    - змінювати: change
+    - зі: of
+    - кольорів: colors
+    - кончить: end
+    - краєвид: landscape
+    - листя: leaves
+    - лїті: summer
+    - має: has
+    - много: many
+    - міняють: change
+    - на: on
+    - не: not
+    - нудна: boring
+    - одпочінку: rest
+    - озері: lake
+    - они: they
+    - падати: fall
+    - падаючі: falling
+    - падає: falls
+    - при: at/by
+    - принесе: bring
+    - разы: times
+    - року: year
+    - ростуть: grow
+    - роцї: year
+    - світити: shine
+    - сильно: strongly
+    - скоро: soon
+    - снїг: snow
+    - снїга: snow
+    - снїгом: snow
+    - сонце: sun
+    - сонця: suns
+    - ся: itself
+    - тепло: heat
+    - терпіти: suffer
+    - тыж: also
+    - хладный: cold
+    - цвїты: flowers
+    - час: time
+    - часы: clock/watch
+    - через: through
+    - шпортовцїв: sportspeople
+    - штири: four
+    - ярї: spring
+    - яснї: clearly
+    - є: is
+  English:
+    - a: jedin/один
+    - air: воздух
+    - autumn: осїнь
+    - be: быти
+    - because: бо
+    - boring: нудный
+    - bring: принести
+    - by: при
+    - change: змінити
+    - cold: зима
+    - colors: фарбы
+    - end: конець
+    - falling: паде
+    - flowers: квіты
+    - for: за
+    - four: штири
+    - good: добрый
+    - green: зеленый
+    - grow: рости
+    - has: мать
+    - he/she/it: він/она/оно
+    - i: я
+    - in: в
+    - is: є
+    - it: то
+    - lake: озеро
+    - landscape: krajina
+    - leaves: листя
+    - lot: много
+    - many: много
+    - not: не
+    - of: з
+    - play: грати
+    - rain: додждь
+    - rest: одпочинок
+    - season: пора
+    - seasons: поры
+    - see: видіти
+    - shine: світити
+    - snow: сніг
+    - soon: скоро
+    - sports: шпорты
+    - spring: ярь
+    - strongly: силнo
+    - suffer: терпіти
+    - summer: лїто
+    - sun: сонце
+    - the: to
+    - there: там
+    - they: они
+    - times: разы
+    - to: до
+    - warm: теплый
+    - we: мы
+    - will: буде
+    - winter: зима
+    - with: з
+    - year: рік
+    - you: ты

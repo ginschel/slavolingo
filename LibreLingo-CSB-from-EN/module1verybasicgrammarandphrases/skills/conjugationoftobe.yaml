@@ -1,0 +1,199 @@
+Skill:
+  Name: Conjugation of to be
+  Id: 1
+
+New words:
+  - Word: to
+    Translation: this (m)
+  - Word: ta
+    Translation: this (f)
+  - Word: ten
+    Translation: that (m)
+  - Word: tamten
+    Translation: that over there (f)
+  - Word: tamta
+    Translation: that over there (n)
+  - Word: jem
+    Translation: i am
+  - Word: jes
+    Translation: you are (sg)
+  - Word: je
+    Translation: he is
+  - Word: jesmë
+    Translation: we are
+  - Word: jeste
+    Translation: you are (pl)
+  - Word: są
+    Translation: they are
+  - Word: ja
+    Translation: I
+  - Word: ti
+    Translation: you
+  - Word: on
+    Translation: he
+  - Word: ona
+    Translation: she
+  - Word: ono
+    Translation: it
+  - Word: më
+    Translation: we
+  - Word: wë
+    Translation: you
+  - Word: oni
+    Translation: they
+  - Word: one
+    Translation: they
+  - Word: człowiek
+    Translation: person
+  - Word: białka
+    Translation: woman
+  - Word: chłop
+    Translation: man
+  - Word: dzéckò
+    Translation: child
+  - Word: przëjacel
+    Translation: friend
+  - Word: sostra
+    Translation: sister
+  - Word: starszi
+    Translation: parent
+  - Word: dom
+    Translation: house
+  - Word: gard
+    Translation: city
+  - Word: dzéń
+    Translation: day
+  - Word: téż
+    Translation: also
+  - Word: chto
+    Translation: who
+
+Phrases:
+  - Phrase: Jô jem mądri.
+    Translation: I am wise.
+  - Phrase: To je mòja sostra.
+    Translation: This is my sister.
+  - Phrase: Òna wiele mądra
+    Translation: She is very wise
+  - Phrase: Më wiele mądri
+    Translation: We are very wise
+  - Phrase: Wë téż mądri?
+    Translation: Are you also wise?
+  - Phrase: To je dobri człowiek.
+    Translation: This is a good person.
+  - Phrase: Ta białka je dobrô.
+    Translation: This woman is good.
+  - Phrase: To je mój dom.
+    Translation: This is my house.
+  - Phrase: Ten je dobri przëjacel
+    Translation: He is a good friend
+  - Phrase: Wë jeste dobri.
+    Translation: You are good.
+  - Phrase: To są przëjacelé.
+    Translation: These are friends.
+  - Phrase: Chto të jes?
+    Translation: Who are you?
+  - Phrase: Ten chłop je miłi.
+    Translation: That man is kind.
+  - Phrase: To je przëjãmni gard.
+    Translation: This is a pleasant city.
+  - Phrase: Ta białka je wësokô.
+    Translation: That woman is tall.
+  - Phrase: Ten dzéń je zëmny.
+    Translation: That day is cold.
+  - Phrase: Tamten dom je snôżi.
+    Translation: That house over there is beautiful.
+  - Phrase: To je mòje dzéckò.
+    Translation: This is my child.
+  - Phrase: Tamto zô ranô je zëmné.
+    Translation: That morning over there is cold.
+  - Phrase: To nie je mòja sostra.
+    Translation: This is not my sister.
+  - Phrase: To nie je twój dom.
+    Translation: This is not your house.
+  - Phrase: To je dobré aùto?
+    Translation: Is this a good car?
+  - Phrase: To są dobrë przëjacelé?
+    Translation: Are these good friends?
+  - Phrase: One są wiele miłé.
+    Translation: They are very kind.
+  - Phrase: Oni są wiele miłi
+    Translation: They are very kind
+
+Mini-dictionary:
+  Kashubian:
+    - aùto: car
+    - dobri: good
+    - dobré: good
+    - dobrë: good
+    - dobrô: good
+    - jô: I
+    - miłi: dear
+    - miłé: dear
+    - mòja: my
+    - mòje: my
+    - mój: my
+    - mądra: wise
+    - mądri: wise
+    - nie: no
+    - przëjacelé: friends
+    - przëjãmni: pleasant
+    - ranô: early
+    - snôżi: beautiful
+    - tamto: that
+    - twój: your
+    - të: you
+    - wiele: many
+    - wësokô: high
+    - zëmny: cold
+    - zëmné: cold
+    - zô: for
+    - òna: she
+  English:
+    - a: jedin/один
+    - also: téż
+    - am: jem
+    - are: byti/быти
+    - beautiful: piãkny
+    - car: auto
+    - child: dzecë
+    - city: gard
+    - cold: zëmny
+    - day: dzéń
+    - f: undef
+    - friend: kamrad
+    - friends: kamradë
+    - good: dobri
+    - he: on
+    - house: dodóm
+    - i: jô
+    - is: je
+    - it: to
+    - kind: zort
+    - m: undef
+    - man: chłopa
+    - morning: ranié
+    - my: mój
+    - n: undef
+    - not: nié
+    - over: nad
+    - parent: starëc
+    - person: persòna
+    - pl: undef
+    - pleasant: przëjemni
+    - sg: undef
+    - she: òna
+    - sister: sostra
+    - tall: wësoczi
+    - that: to
+    - there: tam
+    - these: te
+    - they: òni
+    - this: to
+    - very: baro
+    - we: më
+    - who: chto
+    - wise: mądri
+    - woman: białka
+    - you: të
+    - your: twòje

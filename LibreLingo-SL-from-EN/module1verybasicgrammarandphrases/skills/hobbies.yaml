@@ -1,0 +1,185 @@
+Skill:
+  Name: Hobbies
+  Id: 4
+
+New words:
+  - Word: brati
+    Translation: to read
+  - Word: pisati(piše)
+    Translation: to write
+  - Word: igrati
+    Translation: to play
+  - Word: gledati
+    Translation: to watch
+  - Word: poslušati
+    Translation: to listen
+  - Word: slikati
+    Translation: to paint
+  - Word: peti
+    Translation: to sing
+  - Word: učiti se
+    Translation: to learn
+  - Word: sedeti(sedi)
+    Translation: to sit
+  - Word: šivati (šije)
+    Translation: to sew
+  - Word: plesati
+    Translation: to dance
+
+Phrases:
+  - Phrase: Jaz berem knjigo.
+    Translation: I am reading a book.
+  - Phrase: Ona piše pisma.
+    Translation: She is writing letters.
+  - Phrase: On igra nogomet.
+    Translation: He is playing football.
+  - Phrase: Mi gledamo film.
+    Translation: We are watching a film.
+  - Phrase: Oni poslušajo glasbo.
+    Translation: They are listening to music.
+  - Phrase: Ona sedi in bere.
+    Translation: She is sitting and reading.
+  - Phrase: Jaz slikam sliko.
+    Translation: I am painting a picture.
+  - Phrase: On poje pesmi.
+    Translation: He is singing songs.
+  - Phrase: Vi se učite jezika.
+    Translation: You are learning a language.
+  - Phrase: Jaz šivam obleko.
+    Translation: I am sewing clothes.
+  - Phrase: Ti gledaš serijo?
+    Translation: Are you watching a series?
+  - Phrase: Mi igramo šah.
+    Translation: We are playing chess.
+  - Phrase: Oni poslušajo radio.
+    Translation: They are listening to the radio.
+  - Phrase: Bereš ti romane?
+    Translation: Do you read novels?
+  - Phrase: On piše dnevnik.
+    Translation: He is writing a diary.
+  - Phrase: Učimo se tukaj.
+    Translation: We are learning here.
+  - Phrase: Slikamo s prijatelji slike.
+    Translation: We are painting pictures with friends.
+  - Phrase: Ti šivaš?
+    Translation: Are you sewing?
+  - Phrase: Jaz pojem s skupino.
+    Translation: I am singing with a group.
+  - Phrase: Jaz plešem veliko
+    Translation: I dance a lot
+  - Phrase: Ona igra kitaro.
+    Translation: She is playing the guitar.
+
+Mini-dictionary:
+  Slovenian:
+    - bere: reads
+    - berem: I read
+    - bereš: you read
+    - dnevnik: diary
+    - film: film
+    - glasbo: music
+    - gledamo: we look
+    - gledaš: you look
+    - igra: plays
+    - igramo: we play
+    - in: and
+    - jaz: I
+    - jezika: language
+    - kitaro: guitar
+    - knjigo: book
+    - mi: we
+    - nogomet: football
+    - obleko: dress
+    - on: he
+    - ona: she
+    - oni: they
+    - pesmi: songs / poems
+    - pisati: to write
+    - pisma: letters
+    - piše: writes
+    - plešem: I dance
+    - poje: sings / eats
+    - pojem: I sing / I eat
+    - poslušajo: they listen
+    - prijatelji: friends
+    - radio: radio
+    - romane: novels
+    - s: with
+    - se: oneself / itself
+    - sedeti: to sit
+    - sedi: sits
+    - serijo: series
+    - skupino: group
+    - slikam: I paint / I take a picture
+    - slikamo: we paint / we take pictures
+    - slike: pictures
+    - sliko: picture
+    - ti: you (singular informal)
+    - tukaj: here
+    - učimo: we learn / we teach
+    - učite: you learn / you teach
+    - učiti: to learn / to teach
+    - veliko: much / many
+    - vi: you (plural formal)
+    - šah: chess
+    - šije: sews
+    - šivam: I sew
+    - šivati: to sew
+    - šivaš: you sew
+  English:
+    - a: jedin/один
+    - am: sem
+    - and: in
+    - are: byti/быти
+    - book: knjiga
+    - chess: šah
+    - clothes: obleke
+    - dance: plesati
+    - diary: dnevnik
+    - do: delati
+    - film: film
+    - football: nogomet
+    - friends: prijatelji
+    - group: skupino
+    - guitar: kitaro
+    - he: on
+    - here: tukaj
+    - i: jaz
+    - is: je
+    - language: jezik
+    - learn: učiti
+    - learning: uči
+    - letters: pisma
+    - listen: poslušati
+    - listening: poslušajo
+    - lot: veliko
+    - music: glasba
+    - novels: romane
+    - paint: malujem
+    - painting: slikanje
+    - picture: slika
+    - pictures: slike
+    - play: igrati
+    - playing: igrali
+    - radio: radio
+    - read: brati
+    - reading: bere
+    - series: serijo
+    - sew: šivati
+    - sewing: šivanje
+    - she: ona
+    - sing: poje
+    - singing: pojem
+    - sit: sedeti
+    - sitting: sedenje
+    - songs: pesmi
+    - the: to
+    - they: oni
+    - to: do
+    - watch: gledati
+    - watching: gledamo
+    - we: mi
+    - with: z
+    - write: pisati
+    - writing: pisanje
+    - you: ti

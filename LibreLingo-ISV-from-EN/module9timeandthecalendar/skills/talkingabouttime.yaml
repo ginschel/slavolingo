@@ -1,0 +1,225 @@
+Skill:
+  Name: Talking about Time
+  Id: 31
+
+New words:
+  - Word: čas
+    Translation: time
+  - Word: minuta
+    Translation: minute
+  - Word: sekunda
+    Translation: second
+  - Word: časina
+    Translation: hour
+  - Word: tutdenj
+    Translation: today
+  - Word: byl
+    Translation: was
+  - Word: byla
+    Translation: was
+  - Word: bylo
+    Translation: was
+  - Word: byli
+    Translation: were
+  - Word: sěl
+    Translation: went/walked
+  - Word: šla
+    Translation: went/walked
+  - Word: šlo
+    Translation: went/walked
+  - Word: šli
+    Translation: went/walked
+  - Word: včera
+    Translation: yesterday
+  - Word: zautra
+    Translation: tomorrow
+  - Word: večer
+    Translation: evening
+  - Word: polnoč
+    Translation: midnight
+  - Word: koliko
+    Translation: how much
+  - Word: spati (spi)
+    Translation: to sleep
+  - Word: trvati
+    Translation: to last
+
+Phrases:
+  - Phrase: Koliko jest časa?
+    Translation: What time is it?
+  - Phrase: On imal jednu časinu.
+    Translation: He had one hour.
+  - Phrase: Zautra jest za pozdno.
+    Translation: Tomorrow is too late.
+  - Phrase: Včera byl ponedělok.
+    Translation: Yesterday was Monday.
+  - Phrase: Včera ona byla v domu o osmoj časině.
+    Translation: Yesterday she was at home at the eighth hour.
+  - Phrase: Utrom ne bylo mnogo teplo.
+    Translation: In the morning it was not very warm.
+  - Phrase: O tretjem časině dvadeset bylo hladno.
+    Translation: At twenty past the third hour it was cold.
+  - Phrase: Polnoč jest tiha.
+    Translation: Midnight is quiet.
+  - Phrase: On šel do doma.
+    Translation: He went home.
+  - Phrase: Vy jeste šli do kina?
+    Translation: Have you gone to the cinema?
+  - Phrase: Oni ničto ne dělali.
+    Translation: They did nothing.
+  - Phrase: Minuta jest mala jedinica časa.
+    Translation: A minute is a small unit of time.
+  - Phrase: Sekunda jest kratka.
+    Translation: A second is short.
+  - Phrase: Tutdenj ty jesi ne imal časiny za to.
+    Translation: Today you did not have an hour for that.
+  - Phrase: Vidimo se večerom o devetoj časině.
+    Translation: We will see each other in the evening at the ninth hour.
+  - Phrase: Včera o prvom časině bylo lěpje.
+    Translation: Yesterday at the first hour it was better.
+  - Phrase: Koliko minut trva film?
+    Translation: How many minutes does the film last?
+  - Phrase: Ja jesm byl v domu utrom.
+    Translation: I was at home in the morning.
+  - Phrase: On spi do polnoči.
+    Translation: He sleeps until midnight.
+  - Phrase: Koliko sekund ima minuta?
+    Translation: How many seconds are in a minute?
+  - Phrase: Večerom my šli v restoran.
+    Translation: In the evening we went to the restaurant.
+
+Mini-dictionary:
+  Interslavic:
+    - devetoj: ninth
+    - do: to
+    - doma: home
+    - domu: house
+    - dvadeset: twenty
+    - dělali: did
+    - film: film
+    - hladno: cold
+    - ima: has
+    - imal: had
+    - ja: i
+    - jedinica: unit
+    - jednu: one
+    - jesi: you are
+    - jesm: i am
+    - jest: is
+    - jeste: you are
+    - kina: cinema
+    - kratka: short
+    - lěpje: better
+    - mala: small
+    - minut: minutes
+    - mnogo: many
+    - my: we
+    - ne: no
+    - ničto: nothing
+    - o: about
+    - on: he
+    - ona: she
+    - oni: they
+    - osmoj: eighth
+    - polnoči: midnight
+    - ponedělok: monday
+    - pozdno: late
+    - prvom: first
+    - restoran: restaurant
+    - se: himself
+    - sekund: seconds
+    - spati: to sleep
+    - spi: sleeps
+    - teplo: warm
+    - tiha: quiet
+    - to: this
+    - tretjem: third
+    - trva: lasts
+    - ty: you
+    - utrom: morning
+    - v: in
+    - večerom: evening
+    - vidimo: we see
+    - vy: you
+    - za: behind
+    - časa: time
+    - časinu: hour
+    - časiny: hours
+    - časině: hour
+    - šel: went
+  English:
+    - a: jedin/один
+    - an: edin
+    - are: byti/быти
+    - at: u
+    - better: lěpše
+    - cinema: kina
+    - cold: hladny
+    - did: dělal
+    - does: děla
+    - each: každy
+    - eighth: osmy
+    - evening: večer
+    - film: film
+    - first: prvy
+    - for: dlja
+    - gone: pošl
+    - had: imal
+    - have: imam
+    - he: on
+    - home: doma
+    - hour: časina
+    - how: kak
+    - i: ja
+    - in: v
+    - is: jest
+    - it: ono
+    - last: poslědny
+    - late: pozdno
+    - many: mnogo
+    - midnight: polnoč
+    - minute: minuta
+    - minutes: minut
+    - monday: ponedělok
+    - morning: jutro
+    - much: koliko
+    - ninth: devetoj
+    - not: ne
+    - nothing: ničto
+    - of: iz
+    - one: edin
+    - other: iny
+    - past: prošl
+    - quiet: tiha
+    - restaurant: restoran
+    - second: vtory
+    - seconds: sekund
+    - see: viděti
+    - she: ona
+    - short: kratki
+    - sleep: spati
+    - sleeps: spi
+    - small: maly
+    - that: toj
+    - the: to
+    - they: oni
+    - third: tretij
+    - time: čas
+    - to: do
+    - today: dnes
+    - tomorrow: zautra
+    - too: takože
+    - twenty: dvadeset
+    - unit: jedinica
+    - until: do
+    - very: barzo
+    - warm: teply
+    - was: byl
+    - we: my
+    - went: šel
+    - went/walked: šel
+    - were: byl/был
+    - what: čto
+    - will: bude
+    - yesterday: včera
+    - you: ty

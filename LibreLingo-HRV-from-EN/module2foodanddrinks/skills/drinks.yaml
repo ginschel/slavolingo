@@ -1,0 +1,187 @@
+Skill:
+  Name: Drinks
+  Id: 7
+
+New words:
+  - Word: voda
+    Translation: water
+  - Word: pivo
+    Translation: beer
+  - Word: piti
+    Translation: to drink
+  - Word: vino
+    Translation: wine
+  - Word: kava
+    Translation: coffee
+  - Word: sok
+    Translation: juice
+  - Word: htjeti (hoće)
+    Translation: to want
+  - Word: ploska
+    Translation: bottle
+  - Word: probati naći
+    Translation: to try to find
+  - Word: šalica
+    Translation: glass
+  - Word: boca
+    Translation: bottle
+  - Word: čaj
+    Translation: tea
+  - Word: mlijeko
+    Translation: milk
+  - Word: bez
+    Translation: without
+  - Word: za
+    Translation: for
+  - Word: iz
+    Translation: from
+  - Word: kod
+    Translation: at/by
+
+Phrases:
+  - Phrase: Ja nemam vode.
+    Translation: I do not have water.
+  - Phrase: Ona ne pije vina.
+    Translation: She does not drink wine.
+  - Phrase: Mi ne pijemo piva.
+    Translation: We do not drink beer.
+  - Phrase: Ti imaš plosku soka?
+    Translation: Do you have a bottle of juice?
+  - Phrase: Oni ne kupuju boca piva.
+    Translation: They are not buying bottles of beer.
+  - Phrase: On nema kave.
+    Translation: He does not have coffee.
+  - Phrase: Piješ li bez mlijeka?
+    Translation: Do you drink without milk?
+  - Phrase: Ona ne pije čaja.
+    Translation: She does not drink tea.
+  - Phrase: Šalica vina za mene, molim.
+    Translation: A glass of wine for me, please.
+  - Phrase: Boca vode leži na stolu.
+    Translation: A bottle of water is lying on the table.
+  - Phrase: Ja volim sok bez šećera.
+    Translation: I like juice without sugar.
+  - Phrase: On ne voli kavu bez mlijeka.
+    Translation: He does not like coffee without milk.
+  - Phrase: Jesi li ti bez ploske?
+    Translation: Are you without a bottle?
+  - Phrase: Ona probava naći šalicu bez vina.
+    Translation: She is trying to find a glass without wine.
+  - Phrase: On ne želi piti soka.
+    Translation: He does not want to drink juice.
+  - Phrase: Ti piješ vino?
+    Translation: Do you drink wine?
+  - Phrase: To vino je iz Poljske.
+    Translation: This wine is from Poland.
+  - Phrase: Kod Franka nema votke.
+    Translation: Frank has no vodka.
+  - Phrase: Mi pijemo iz boce pivo.
+    Translation: We are drinking beer from the bottle.
+  - Phrase: Dajte mi šalicu vina, molim.
+    Translation: Give me a glass of wine, please.
+  - Phrase: On pije za tebe
+    Translation: He is drinking for you
+
+Mini-dictionary:
+  Croatian:
+    - boce: bottles
+    - dajte: give
+    - franka: franc
+    - hoće: wants
+    - htjeti: to want
+    - imaš: you have
+    - ja: I
+    - je: is
+    - jesi: are
+    - kave: coffee
+    - kavu: coffee
+    - kupuju: they buy
+    - leži: lies
+    - li: whether
+    - mene: me
+    - mi: we
+    - mlijeka: milk
+    - molim: please
+    - na: on
+    - naći: to find
+    - ne: no
+    - nema: no
+    - nemam: I don't have
+    - on: he
+    - ona: she
+    - oni: they
+    - pije: drinks
+    - pijemo: we drink
+    - piješ: you drink
+    - piva: beer
+    - ploske: flask
+    - plosku: flask
+    - poljske: Polish
+    - probati: to try
+    - probava: digestion
+    - soka: juice
+    - stolu: table
+    - tebe: you
+    - ti: you
+    - to: that
+    - vina: wine
+    - vode: water
+    - voli: loves
+    - volim: I love
+    - votke: vodka
+    - čaja: tea
+    - šalicu: cup
+    - šećera: sugar
+    - želi: wants
+  English:
+    - a: jedin/один
+    - are: byti/быти
+    - at/by: kod
+    - beer: pivo
+    - bottle: boca
+    - bottles: boce
+    - buying: kupuje
+    - coffee: kava
+    - do: činiti/raditi
+    - does: radi
+    - drink: piti
+    - drinking: pije
+    - find: naći
+    - for: za
+    - frank: franak
+    - from: iz
+    - give: dati
+    - glass: staklo
+    - has: ima
+    - have: imati
+    - he: on
+    - i: ja
+    - is: je
+    - juice: sok
+    - like: voljeti/sviđati
+    - lying: leži
+    - me: mene
+    - milk: mlijeko
+    - no: ne
+    - not: ne
+    - of: od
+    - on: na
+    - please: molim
+    - poland: Poljska
+    - she: ona
+    - sugar: šećer
+    - table: stol
+    - tea: čaj
+    - the: to
+    - they: oni
+    - this: ovaj
+    - to: do
+    - try: probati
+    - trying: probava
+    - vodka: votke
+    - want: htjeti
+    - water: voda
+    - we: mi
+    - wine: vino
+    - without: bez
+    - you: ti

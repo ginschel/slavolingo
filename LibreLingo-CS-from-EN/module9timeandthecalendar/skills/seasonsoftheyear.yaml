@@ -1,0 +1,188 @@
+Skill:
+  Name: Seasons of the year
+  Id: 33
+
+New words:
+  - Word: léto
+    Translation: summer
+  - Word: podzim
+    Translation: autumn
+  - Word: zima
+    Translation: winter
+  - Word: jaro
+    Translation: spring
+  - Word: sezóna
+    Translation: season
+  - Word: být
+    Translation: to be
+  - Word: budu
+    Translation: I will be
+  - Word: budeš
+    Translation: you will be
+  - Word: bude
+    Translation: he/she/it will be
+  - Word: budeme
+    Translation: we will be
+  - Word: budete
+    Translation: you will be
+  - Word: budou
+    Translation: they will be
+
+Phrases:
+  - Phrase: V létě bude teplo.
+    Translation: In the summer it will be warm.
+  - Phrase: Na podzim budeme vidět padající listí.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: V zimě budete hrát se sněhem.
+    Translation: In the winter you will play with snow.
+  - Phrase: Jaro přinese květy.
+    Translation: Spring will bring flowers.
+  - Phrase: Sezóna se bude měnit čtyři krát.
+    Translation: The season will change four times.
+  - Phrase: V zimě bude padat sníh.
+    Translation: In the winter it will snow.
+  - Phrase: Na jaře rostou květy.
+    Translation: In spring, flowers grow.
+  - Phrase: V létě je mnoho slunce.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: Na podzim budeš mnoho trpět kvůli dešti.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Vzduch v zimě bude chladný.
+    Translation: The air in winter will be cold.
+  - Phrase: Léto je sezónou odpočinku u jezera.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Podzim má mnoho barev.
+    Translation: Autumn has many colors.
+  - Phrase: Zima není dobrá pro sportovce.
+    Translation: Winter is not good for sports.
+  - Phrase: Jaro je nudné.
+    Translation: Spring is boring.
+  - Phrase: Sezóny se mění čtyři krát za rok.
+    Translation: The seasons change four times a year.
+  - Phrase: Brzy končí léto.
+    Translation: Summer will soon end.
+  - Phrase: Na podzim pouze padá déšť.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Zima má mnoho sněhu.
+    Translation: Winter has a lot of snow.
+  - Phrase: Oni budou vidět zelenou krajinu.
+    Translation: They will see a green landscape.
+  - Phrase: Slunce bude svítit silně v létě.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Czech:
+    - barev: colors
+    - brzy: soon
+    - chladný: cold
+    - dešti: rain
+    - dobrá: good
+    - déšť: rain
+    - hrát: play
+    - jaře: spring
+    - je: is
+    - jezera: lake
+    - končí: ends
+    - krajinu: landscape
+    - krát: times
+    - květy: flowers
+    - kvůli: because of
+    - listí: leaves
+    - létě: summer
+    - mnoho: many/much
+    - má: has
+    - měnit: change
+    - mění: changes
+    - na: on
+    - není: isn't
+    - nudné: boring
+    - odpočinku: rest
+    - oni: they
+    - padající: falling
+    - padat: fall
+    - padá: falls
+    - pouze: only
+    - pro: for
+    - přinese: brings
+    - rok: year
+    - rostou: grow
+    - se: oneself
+    - sezónou: season
+    - sezóny: seasons
+    - silně: strongly
+    - slunce: sun
+    - sníh: snow
+    - sněhem: snow
+    - sněhu: snow
+    - sportovce: athlete
+    - svítit: shine
+    - teplo: heat/warmth
+    - trpět: suffer
+    - u: at/by
+    - v: in
+    - vidět: see
+    - vzduch: air
+    - za: behind
+    - zelenou: green
+    - zimě: winter
+    - čtyři: four
+  English:
+    - a: jedin/один
+    - air: vzduch
+    - autumn: podzim
+    - be: být
+    - because: protože
+    - boring: nudný
+    - bring: přinést
+    - by: u
+    - change: změna
+    - cold: studený
+    - colors: barvy
+    - end: konec
+    - falling: padající
+    - flowers: květiny
+    - for: pro
+    - four: čtyři
+    - good: dobrý
+    - green: zelená
+    - grow: růst
+    - has: má
+    - he/she/it: on/ona/ono
+    - i: já
+    - in: v
+    - is: je
+    - it: to
+    - lake: jezero
+    - landscape: krajina
+    - leaves: listy
+    - lot: hodně
+    - many: mnoho
+    - not: ne
+    - of: z
+    - play: hrát
+    - rain: déšť
+    - rest: zbytek
+    - season: roční období
+    - seasons: roční období
+    - see: vidět
+    - shine: svítit
+    - snow: sníh
+    - soon: brzy
+    - sports: sporty
+    - spring: jaro
+    - strongly: silně
+    - suffer: trpět
+    - summer: léto
+    - sun: slunce
+    - the: to
+    - there: tam
+    - they: oni
+    - times: časy
+    - to: do
+    - warm: teplý
+    - we: my
+    - will: bude
+    - winter: zima
+    - with: s
+    - year: rok
+    - you: ty/vy

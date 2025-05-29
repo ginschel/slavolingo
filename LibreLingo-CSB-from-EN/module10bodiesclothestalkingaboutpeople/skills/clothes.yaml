@@ -1,0 +1,230 @@
+Skill:
+  Name: Clothes
+  Id: 34
+
+New words:
+  - Word: kòszëla
+    Translation: shirt
+  - Word: nosëc
+    Translation: to wear
+  - Word: bùksë
+    Translation: trousers
+  - Word: tričkò
+    Translation: t-shirt
+  - Word: szal
+    Translation: scarf
+  - Word: czapka
+    Translation: hat
+  - Word: płôszcz
+    Translation: coat
+  - Word: rãkawica
+    Translation: glove
+  - Word: slipë
+    Translation: underwear
+  - Word: skarpétka
+    Translation: sock
+  - Word: òbùwié
+    Translation: footwear
+  - Word: òdzenié
+    Translation: clothes
+  - Word: brzëtczi
+    Translation: ugly
+  - Word: òblékac
+    Translation: to dress
+  - Word: piżama
+    Translation: pajamas
+
+Phrases:
+  - Phrase: On nosy mòdrą kòszëlã.
+    Translation: He wears a blue shirt.
+  - Phrase: Òna mô czôrné bùksë, a on biôłé.
+    Translation: She has black trousers, and he has white.
+  - Phrase: Òbùwié i płôszcz leżą przë dzwierzach.
+    Translation: Shoes and the coat are lying by the door.
+  - Phrase: Szal je cãżczi i ciepłi.
+    Translation: The scarf is heavy and warm.
+  - Phrase: W zëmie nosã wszëtkã czapkã, a w lece nie.
+    Translation: In winter, I always wear a hat, but not in summer.
+  - Phrase: Slipë są snôżé czë brzëtczi?
+    Translation: Are the shorts beautiful or ugly?
+  - Phrase: Nosã rãkawice w zëmie.
+    Translation: We wear gloves in winter.
+  - Phrase: Tamta piżama je zielenô.
+    Translation: That pajama is green.
+  - Phrase: Nowé slipë są wëgodné.
+    Translation: New shorts are comfortable.
+  - Phrase: Nowé òdzenié je drodżé.
+    Translation: New clothes are expensive.
+  - Phrase: Kòszëla je w szôfie.
+    Translation: The shirt is in the drawer.
+  - Phrase: Czapka wisy na scanie.
+    Translation: The hat hangs on the wall.
+  - Phrase: On òblékôł sã i nosëł wczora ò drëdżi gòdzënie zielené tričkò czë kòszëlã. Ja nie jem wëstôrczôjąco jistô dzysô.
+    Translation: He wore and put on a green tennis shoe or shirt yesterday at two AM. I'm not sure right now.
+  - Phrase: Të chòcesz szal czë kòszëlã.
+    Translation: You want a scarf or a shirt.
+  - Phrase: Brzëtczi rãkawice leżą na stole, a snôżi płôszcz nosã.
+    Translation: The ugly gloves are lying on the table, and I wear the red coat.
+  - Phrase: Òna kùpiła ciepłé òbùwié.
+    Translation: She bought warm shoes.
+  - Phrase: On òblékô nową kòszëlã.
+    Translation: He is putting on a new shirt.
+  - Phrase: Mòje skarpétczi są krótké.
+    Translation: My socks are short.
+  - Phrase: W zëmie bãdã pòtrzebòwac czapczi i rãkawic.
+    Translation: In winter I will need a hat and gloves.
+  - Phrase: Òdzenié je czëstô i blós ju biôłô.
+    Translation: The clothes are clean and only the underwear is white.
+
+Mini-dictionary:
+  Kashubian:
+    - a: and
+    - biôłé: white
+    - biôłô: white
+    - blós: only
+    - bãdã: I will be
+    - chòcesz: you want
+    - ciepłi: warm
+    - ciepłé: warm
+    - czapczi: cap
+    - czapkã: cap
+    - czë: whether
+    - czëstô: clean
+    - czôrné: black
+    - cãżczi: heavy
+    - drodżé: expensive
+    - drëdżi: second
+    - dzwierzach: doors
+    - dzysô: today
+    - gòdzënie: hour
+    - i: and
+    - ja: yes
+    - je: is
+    - jem: I eat
+    - jistô: certain
+    - ju: already
+    - krótké: short
+    - kòszëlã: shirt
+    - kùpiła: bought
+    - lece: flies
+    - leżą: they lie
+    - mòdrą: blue
+    - mòje: my
+    - mô: has
+    - na: on
+    - nie: no
+    - nosy: nose
+    - nosã: nose
+    - nosëł: carried
+    - nowé: new
+    - nową: new
+    - on: he
+    - przë: by
+    - pòtrzebòwac: to need
+    - rãkawic: glove
+    - rãkawice: gloves
+    - scanie: wall
+    - skarpétczi: sock
+    - snôżi: beautiful
+    - snôżé: beautiful
+    - stole: table
+    - szôfie: cupboard
+    - sã: yourself
+    - są: they are
+    - tamta: that
+    - të: you
+    - w: in
+    - wczora: yesterday
+    - wisy: hangs
+    - wszëtkã: all
+    - wëgodné: comfortable
+    - wëstôrczôjąco: enough
+    - zielené: green
+    - zielenô: green
+    - zëmie: winter
+    - ò: about
+    - òblékô: dresses
+    - òblékôł: dressed
+    - òna: she
+  English:
+    - a: jedin/один
+    - always: zawże
+    - am: jem
+    - and: ë
+    - are: byti/быти
+    - at: przë
+    - beautiful: piãkny
+    - black: czôrnô
+    - blue: mòdrô
+    - bought: kùpił
+    - but: ale
+    - by: przë
+    - clean: czësti
+    - clothes: òblaczenié
+    - coat: palt
+    - comfortable: wësmodny
+    - door: dzwi
+    - drawer: szuflada
+    - dress: sukienka
+    - expensive: drodżi
+    - footwear: òbùwie
+    - glove: rãkawica
+    - gloves: rãkawicë
+    - green: zelonô
+    - hangs: wiszi
+    - has: mô
+    - hat: czapka
+    - he: on
+    - heavy: cãżczi
+    - i: jô
+    - i'm: jô jem
+    - in: w
+    - is: je
+    - lying: kłamac
+    - my: mój
+    - need: pòtrzeba
+    - new: nowi
+    - not: nié
+    - now: terô
+    - on: na
+    - only: blós
+    - or: abò
+    - pajama: piżama
+    - pajamas: piżamë
+    - put: pòłożëc
+    - putting: kłasc
+    - red: czerwionô
+    - right: prawô
+    - scarf: szalik
+    - she: òna
+    - shirt: kòszëla
+    - shoe: bùt
+    - shoes: bùtë
+    - short: krótczi
+    - shorts: szortë
+    - sock: skarpeta
+    - socks: skarpetë
+    - summer: latkò
+    - sure: gwësny
+    - t-shirt: kòszëla
+    - table: stół
+    - tennis: tenis
+    - that: to
+    - the: to
+    - to: do
+    - trousers: bëlice
+    - two: dwa
+    - ugly: brzëdczi
+    - underwear: spiżizna
+    - wall: scana
+    - want: chciec
+    - warm: ciepłi
+    - we: më
+    - wear: nosëc
+    - wears: nosy
+    - white: biôłi
+    - will: bãdzë
+    - winter: zëma
+    - wore: nosëł
+    - yesterday: wczoraj
+    - you: të

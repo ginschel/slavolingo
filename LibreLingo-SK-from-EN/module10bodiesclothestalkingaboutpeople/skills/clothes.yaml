@@ -1,0 +1,229 @@
+Skill:
+  Name: Clothes
+  Id: 34
+
+New words:
+  - Word: košeľa
+    Translation: shirt
+  - Word: nosiť
+    Translation: to wear
+  - Word: nohavice
+    Translation: trousers
+  - Word: tričko
+    Translation: t-shirt
+  - Word: šál
+    Translation: scarf
+  - Word: čiapka
+    Translation: hat
+  - Word: kabát
+    Translation: coat
+  - Word: rukavica
+    Translation: glove
+  - Word: nohavičky
+    Translation: underwear
+  - Word: ponožka
+    Translation: sock
+  - Word: obuv
+    Translation: footwear
+  - Word: oblečenie
+    Translation: clothes
+  - Word: škaredý
+    Translation: ugly
+  - Word: obliekať sa
+    Translation: to dress
+  - Word: pyžamo
+    Translation: pajamas
+
+Phrases:
+  - Phrase: On nosí modrú košeľu.
+    Translation: He wears a blue shirt.
+  - Phrase: Ona má čierne nohavice, a on biele.
+    Translation: She has black trousers, and he has white.
+  - Phrase: Obuv a kabát ležia pri dverách.
+    Translation: Shoes and the coat are lying by the door.
+  - Phrase: Šál je ťažký a teplý.
+    Translation: The scarf is heavy and warm.
+  - Phrase: V zime nosím vždy čiapku, a v lete nie.
+    Translation: In winter, I always wear a hat, but not in summer.
+  - Phrase: Nohavičky sú krásne alebo škaredé?
+    Translation: Are the shorts beautiful or ugly?
+  - Phrase: Nosím rukavice v zime.
+    Translation: We wear gloves in winter.
+  - Phrase: Tamtá pyžama je zelená.
+    Translation: That pajama is green.
+  - Phrase: Nové nohavičky sú pohodlné.
+    Translation: New shorts are comfortable.
+  - Phrase: Nové oblečenie je drahé.
+    Translation: New clothes are expensive.
+  - Phrase: Košeľa je v skrini.
+    Translation: The shirt is in the drawer.
+  - Phrase: Čiapka visí na stene.
+    Translation: The hat hangs on the wall.
+  - Phrase: On sa obliekal a nosil včera o druhej hodine zelené tričko alebo košeľu. Ja si nie som istý teraz.
+    Translation: He wore and put on a green tennis shoe or shirt yesterday at two AM. I'm not sure right now.
+  - Phrase: Ty chceš šál alebo košeľu.
+    Translation: You want a scarf or a shirt.
+  - Phrase: Škaredé rukavice ležia na stole, a krásny kabát nosím.
+    Translation: The ugly gloves are lying on the table, and I wear the red coat.
+  - Phrase: Ona kúpila teplú obuv.
+    Translation: She bought warm shoes.
+  - Phrase: On si oblieka novú košeľu.
+    Translation: He is putting on a new shirt.
+  - Phrase: Moje ponožky sú krátke.
+    Translation: My socks are short.
+  - Phrase: V zime budem potrebovať čiapku a rukavice.
+    Translation: In winter I will need a hat and gloves.
+  - Phrase: Oblečenie je čisté a už len biele.
+    Translation: The clothes are clean and only the underwear is white.
+
+Mini-dictionary:
+  Slovak:
+    - a: and
+    - alebo: or
+    - biele: white
+    - budem: I will be
+    - chceš: you want
+    - drahé: expensive
+    - druhej: second
+    - dverách: door
+    - hodine: hour
+    - istý: certain
+    - ja: I
+    - je: is
+    - košeľu: shirt
+    - krásne: beautiful
+    - krásny: beautiful
+    - krátke: short
+    - kúpila: bought
+    - len: only
+    - lete: summer
+    - ležia: they lie
+    - modrú: blue
+    - moje: my
+    - má: has
+    - na: on
+    - nie: no
+    - nosil: wore
+    - nosí: wears
+    - nosím: I wear
+    - nové: new
+    - novú: new
+    - o: about
+    - oblieka: dresses
+    - obliekal: dressed
+    - obliekať: to dress
+    - on: he
+    - ona: she
+    - pohodlné: comfortable
+    - ponožky: socks
+    - potrebovať: to need
+    - pri: at
+    - pyžama: pajamas
+    - rukavice: gloves
+    - sa: oneself
+    - si: are
+    - skrini: closet
+    - som: am
+    - stene: wall
+    - stole: table
+    - sú: are
+    - tamtá: that (feminine)
+    - teplú: warm
+    - teplý: warm
+    - teraz: now
+    - ty: you
+    - už: already
+    - v: in
+    - visí: hangs
+    - včera: yesterday
+    - vždy: always
+    - zelená: green
+    - zelené: green
+    - zime: winter
+    - čiapku: cap
+    - čierne: black
+    - čisté: clean
+    - škaredé: ugly
+    - ťažký: heavy
+  English:
+    - a: jedin/один
+    - always: vždy
+    - am: som
+    - and: a
+    - are: byti/быти
+    - at: pri
+    - beautiful: krásny
+    - black: čierny
+    - blue: modrý
+    - bought: kúpila
+    - but: ale
+    - by: by
+    - clean: čistý
+    - clothes: oblečenie
+    - coat: kabát
+    - comfortable: pohodlné
+    - door: dvere
+    - drawer: zásuvka
+    - dress: šaty
+    - expensive: drahé
+    - footwear: obuv
+    - glove: rukavica
+    - gloves: rukavice
+    - green: zelený
+    - hangs: visí
+    - has: má
+    - hat: čiapka
+    - he: on
+    - heavy: ťažký
+    - i: ja
+    - i'm: som
+    - in: v
+    - is: je
+    - lying: ležiaci
+    - my: môj
+    - need: potrebovať
+    - new: nový
+    - not: nie
+    - now: teraz
+    - on: na
+    - only: len
+    - or: alebo
+    - pajama: pyžamo
+    - pajamas: pyžama
+    - put: dať
+    - putting: dáva
+    - red: červený
+    - right: vpravo
+    - scarf: šál
+    - she: ona
+    - shirt: košeľa
+    - shoe: topánka
+    - shoes: topánky
+    - short: krátka
+    - shorts: kraťasy
+    - sock: ponožka
+    - socks: ponožky
+    - summer: leto
+    - sure: istý
+    - t-shirt: tričko
+    - table: stôl
+    - tennis: tenis
+    - that: ten
+    - the: to
+    - to: do
+    - trousers: nohavice
+    - two: dva
+    - ugly: škaredý
+    - underwear: nohavičky
+    - wall: stena
+    - want: chcieť
+    - warm: teplý
+    - we: my
+    - wear: nosiť
+    - wears: nosí
+    - white: biely
+    - will: bude
+    - winter: zima
+    - wore: nosil
+    - yesterday: včera
+    - you: ty

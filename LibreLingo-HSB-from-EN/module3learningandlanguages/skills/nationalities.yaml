@@ -1,0 +1,167 @@
+Skill:
+  Name: Nationalities
+  Id: 11
+
+New words:
+  - Word: Słowjan
+    Translation: Slav
+  - Word: rěč
+    Translation: language
+  - Word: stat
+    Translation: country
+  - Word: lud
+    Translation: nation
+  - Word: mjeno
+    Translation: name
+  - Word: Chorwatka
+    Translation: Croat
+  - Word: Rus
+    Translation: Russian
+  - Word: Pólak
+    Translation: Pole
+  - Word: Němc
+    Translation: German
+  - Word: Angličan
+    Translation: Englishman
+
+Phrases:
+  - Phrase: Wón je Słowjan.
+    Translation: He is a Slav.
+  - Phrase: Wona rěči w słowjanskej rěči.
+    Translation: She speaks the Slavic language.
+  - Phrase: To je moja rěč.
+    Translation: This is my language.
+  - Phrase: Stat je Pólska.
+    Translation: The country is Poland.
+  - Phrase: Ja sym Pólak.
+    Translation: I am a Pole.
+  - Phrase: Wona je Chorwatka.
+    Translation: She is a Croat.
+  - Phrase: Wón je Rus.
+    Translation: He is a Russian.
+  - Phrase: Rěčiš němsku rěč?
+    Translation: Do you speak the German language?
+  - Phrase: Angličan rěči jendźelsku rěč.
+    Translation: An Englishman speaks the English language.
+  - Phrase: My lubimy swój lud.
+    Translation: We love our nation.
+  - Phrase: To je mjeno mojeho stata.
+    Translation: This is the name of my country.
+  - Phrase: Wón wě tři rěče.
+    Translation: He knows three languages.
+  - Phrase: Chorwat rěči chorwatsku rěč.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Němc bydli w Němskej.
+    Translation: A German lives in Germany.
+  - Phrase: Wona znaje rusce a słowjansce.
+    Translation: She knows Russian and Slavic.
+  - Phrase: To je lud z bohatu kulturu.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Sy ty Angličan?
+    Translation: Are you an Englishman?
+  - Phrase: Wón rěči kóždu rěč derje.
+    Translation: He speaks every language well.
+  - Phrase: My so wuknjemy ruskeje rěče.
+    Translation: We are learning the Russian language.
+  - Phrase: Wona znaje mnoho ludow.
+    Translation: She knows many nations.
+
+Mini-dictionary:
+  Upper Sorbian:
+    - a: and
+    - angličan: Englishman
+    - bohatu: rich
+    - bydli: lives
+    - chorwat: croat
+    - chorwatka: croatian woman
+    - chorwatsku: croatian
+    - derje: well
+    - ja: i
+    - je: is
+    - jendźelsku: english
+    - kulturu: culture
+    - kóždu: every
+    - lubimy: we love
+    - ludow: people
+    - mnoho: much
+    - moja: my
+    - mojeho: my
+    - my: we
+    - němc: german
+    - němskej: german
+    - němsku: german
+    - pólak: pole
+    - pólska: poland
+    - rus: russian
+    - rusce: in russian
+    - ruskeje: russian
+    - rěče: speaks
+    - rěči: speaks
+    - rěčiš: you speak
+    - so: oneself
+    - stata: state
+    - swój: his
+    - sy: are
+    - sym: i am
+    - słowjan: slav
+    - słowjansce: slavic
+    - słowjanskej: slavic
+    - to: this
+    - ty: you
+    - tři: three
+    - w: in
+    - wona: she
+    - wuknjemy: we learn
+    - wón: he
+    - wě: knows
+    - z: with
+    - znaje: knows
+  English:
+    - a: jedin/один
+    - am: sym
+    - an: jedyn
+    - and: a
+    - are: byti/быти
+    - country: kraj
+    - croat: chorwat
+    - croatian: chorwatsku
+    - culture: kulturu
+    - do: činić
+    - english: jendźelsku
+    - englishman: angličan
+    - every: kóždy
+    - german: němc
+    - germany: němska
+    - he: wón
+    - i: ja
+    - in: w
+    - is: je
+    - knows: wě
+    - language: rěč
+    - languages: rěče
+    - learning: wuknje
+    - lives: bydli
+    - love: lubosć
+    - many: mnoho
+    - my: mój
+    - name: mjeno
+    - nation: narod
+    - nations: narody
+    - of: wot
+    - our: našimi
+    - poland: pólska
+    - pole: pólak
+    - rich: bohatu
+    - russian: ruski
+    - she: wona
+    - slav: słowjan
+    - slavic: słowjanskej
+    - speak: rěčeć
+    - speaks: rěči
+    - the: to
+    - this: to
+    - three: tři
+    - we: my
+    - well: derje
+    - with: z
+    - you: ty

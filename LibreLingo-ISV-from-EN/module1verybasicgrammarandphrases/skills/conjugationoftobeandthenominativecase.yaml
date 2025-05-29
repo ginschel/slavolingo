@@ -4,27 +4,27 @@ Skill:
 
 New words:
   - Word: to
-    Translation: this
+    Translation: this (m)
   - Word: ta
-    Translation: this
+    Translation: this (f)
   - Word: toj
-    Translation: that
+    Translation: that (m)
   - Word: tamtoj
-    Translation: that over there
+    Translation: that over there (f)
   - Word: tamta
-    Translation: that over there
+    Translation: that over there (n)
   - Word: jesm
-    Translation: am
+    Translation: i am
   - Word: jesi
-    Translation: are
+    Translation: you are (sg)
   - Word: jest
-    Translation: is
+    Translation: he is
   - Word: jesmo
-    Translation: are
+    Translation: we are
   - Word: jeste
-    Translation: are
+    Translation: you are (pl)
   - Word: sut
-    Translation: are
+    Translation: they are
   - Word: ja
     Translation: I
   - Word: ty
@@ -159,6 +159,7 @@ Mini-dictionary:
     - city: grad
     - cold: hladny
     - day: denj
+    - f: undef
     - friend: prijatelj
     - friends: prijatelje
     - good: dobry
@@ -168,14 +169,18 @@ Mini-dictionary:
     - is: jest
     - it: ono
     - kind: vid
+    - m: undef
     - man: muž
     - morning: jutro
     - my: moj
+    - n: undef
     - not: ne
     - over: nad
     - parent: roditelj
     - person: člověk
+    - pl: undef
     - pleasant: prijemne
+    - sg: undef
     - she: ona
     - sister: sestra
     - tall: vysoky

@@ -1,0 +1,170 @@
+Skill:
+  Name: Studying & Writing
+  Id: 9
+
+New words:
+  - Word: šula
+    Translation: school
+  - Word: wučerka
+    Translation: female teacher
+  - Word: wučer
+    Translation: male teacher
+  - Word: zapisk
+    Translation: note
+  - Word: šuler
+    Translation: student
+  - Word: kniha
+    Translation: book
+  - Word: nadawk
+    Translation: assignment
+  - Word: stół
+    Translation: table
+  - Word: tuš
+    Translation: ink
+  - Word: papjer
+    Translation: paper
+  - Word: předmjet
+    Translation: subject
+  - Word: metoda
+    Translation: method
+  - Word: pjero
+    Translation: pen
+  - Word: zapisnik
+    Translation: notebook
+  - Word: na
+    Translation: on
+
+Phrases:
+  - Phrase: To je moja šula.
+    Translation: This is my school.
+  - Phrase: Wona je wučerka.
+    Translation: She is a teacher.
+  - Phrase: Wón je šuler.
+    Translation: He is a student.
+  - Phrase: Kniha je na stole.
+    Translation: The book is on the table.
+  - Phrase: Ja mam nadawk.
+    Translation: I have an assignment.
+  - Phrase: Tuš je hišće mokry.
+    Translation: The ink is still wet.
+  - Phrase: Papjer je běły.
+    Translation: The paper is white.
+  - Phrase: Tón předmjet je matematika.
+    Translation: This subject is mathematics.
+  - Phrase: Ta metoda je dobra.
+    Translation: This method is good.
+  - Phrase: Šuler ma knihu.
+    Translation: The student has a book.
+  - Phrase: To je mój stół.
+    Translation: This is my desk.
+  - Phrase: Mój zapisnik je połny zapiskow z pjerom
+    Translation: My notebook is full of notes with a pen
+  - Phrase: Pisaju na papjer z pjerom.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Šula je w centru.
+    Translation: The school is in the center.
+  - Phrase: My pisamy nadawk.
+    Translation: We are writing the assignment.
+  - Phrase: Wučer rěči ze studentami.
+    Translation: The teacher is talking with students.
+  - Phrase: Wona ma mnoho nadawkow.
+    Translation: She has many assignments.
+  - Phrase: Ja spěšnje pisam z tym pjerom.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Předmjet je ćežki.
+    Translation: The subject is complex.
+  - Phrase: Kniha je nowa.
+    Translation: The book is new.
+  - Phrase: Wón je mój wučer.
+    Translation: He is my teacher.
+
+Mini-dictionary:
+  Upper Sorbian:
+    - běły: white
+    - centru: center
+    - dobra: good
+    - hišće: still
+    - ja: i
+    - je: is
+    - knihu: book
+    - ma: has
+    - mam: i have
+    - matematika: mathematics
+    - mnoho: much
+    - moja: my
+    - mokry: wet
+    - my: we
+    - mój: my
+    - nadawkow: tasks
+    - nowa: new
+    - pisaju: they write
+    - pisam: i write
+    - pisamy: we write
+    - pjerom: feather
+    - połny: full
+    - rěči: speaks
+    - spěšnje: quickly
+    - stole: table
+    - studentami: with students
+    - ta: that
+    - to: this
+    - tym: them
+    - tón: that
+    - w: in
+    - wona: she
+    - wón: he
+    - z: with
+    - zapiskow: notes
+    - ze: from
+    - ćežki: heavy
+  English:
+    - a: jedin/один
+    - am: sym
+    - an: jedyn
+    - are: byti/быти
+    - assignment: nadawk
+    - assignments: nadawkow
+    - book: kniha
+    - center: centrum
+    - complex: kompleksna
+    - desk: stół
+    - female: žona
+    - full: połny
+    - good: dobry
+    - has: ma
+    - have: měć
+    - he: wón
+    - i: ja
+    - in: w
+    - ink: ćernidło
+    - is: je
+    - male: muž
+    - many: mnoho
+    - mathematics: matematika
+    - method: metoda
+    - my: mój
+    - new: nowy
+    - note: zapisk
+    - notebook: zapisnik
+    - notes: zapiskow
+    - of: wot
+    - on: na
+    - paper: papjer
+    - pen: pjero
+    - quickly: spěšnje
+    - school: šula
+    - she: wona
+    - still: hišće
+    - student: šuler
+    - students: šuleram
+    - subject: předmjet
+    - table: stół
+    - talking: rěči
+    - teacher: wučer
+    - the: to
+    - this: to
+    - we: my
+    - wet: mokry
+    - white: běły
+    - with: z
+    - writing: pisaju

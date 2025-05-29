@@ -1,0 +1,191 @@
+Skill:
+  Name: Drinks
+  Id: 7
+
+New words:
+  - Word: voda
+    Translation: water
+  - Word: pivo
+    Translation: beer
+  - Word: pít
+    Translation: to drink
+  - Word: víno
+    Translation: wine
+  - Word: káva
+    Translation: coffee
+  - Word: džus
+    Translation: juice
+  - Word: chtít (chce)
+    Translation: to want
+  - Word: láhev
+    Translation: bottle
+  - Word: zkusit najít
+    Translation: to try to find
+  - Word: šálek/hrnek
+    Translation: glass
+  - Word: láhev
+    Translation: bottle
+  - Word: čaj
+    Translation: tea
+  - Word: mléko
+    Translation: milk
+  - Word: bez
+    Translation: without
+  - Word: za
+    Translation: for
+  - Word: z (původ)
+    Translation: from
+  - Word: u
+    Translation: at/by
+
+Phrases:
+  - Phrase: Já nemám vody.
+    Translation: I do not have water.
+  - Phrase: Ona nepije vína.
+    Translation: She does not drink wine.
+  - Phrase: My nepijeme piva.
+    Translation: We do not drink beer.
+  - Phrase: Ty máš láhev džusu?
+    Translation: Do you have a bottle of juice?
+  - Phrase: Oni nekupují láhví piva.
+    Translation: They are not buying bottles of beer.
+  - Phrase: On nemá kávy.
+    Translation: He does not have coffee.
+  - Phrase: Piješ bez mléka?
+    Translation: Do you drink without milk?
+  - Phrase: Ona nepije čaje.
+    Translation: She does not drink tea.
+  - Phrase: Šálek vína pro mě, prosím.
+    Translation: A glass of wine for me, please.
+  - Phrase: Láhev vody leží na stole.
+    Translation: A bottle of water is lying on the table.
+  - Phrase: Já miluji džus bez cukru.
+    Translation: I like juice without sugar.
+  - Phrase: On nemá rád kávu bez mléka.
+    Translation: He does not like coffee without milk.
+  - Phrase: Jsi ty bez láhve?
+    Translation: Are you without a bottle?
+  - Phrase: Ona zkouší najít šálek bez vína.
+    Translation: She is trying to find a glass without wine.
+  - Phrase: On nechce pít džusu.
+    Translation: He does not want to drink juice.
+  - Phrase: Ty piješ víno?
+    Translation: Do you drink wine?
+  - Phrase: To víno je z Polska.
+    Translation: This wine is from Poland.
+  - Phrase: U Franka není vodky.
+    Translation: Frank has no vodka.
+  - Phrase: My pijeme z láhve pivo.
+    Translation: We are drinking beer from the bottle.
+  - Phrase: Dejte mi šálek vína, prosím.
+    Translation: Give me a glass of wine, please.
+  - Phrase: On pije za tebe
+    Translation: He is drinking for you
+
+Mini-dictionary:
+  Czech:
+    - chce: wants
+    - chtít: want
+    - cukru: sugar
+    - dejte: give
+    - džusu: juice
+    - franka: Frank
+    - je: is
+    - jsi: you are
+    - já: I
+    - kávu: coffee
+    - kávy: coffee
+    - leží: lies
+    - láhve: bottles
+    - láhví: bottles
+    - mi: me
+    - miluji: I love
+    - mléka: milk
+    - my: we
+    - máš: you have
+    - mě: me
+    - na: on
+    - najít: find
+    - nechce: doesn't want
+    - nekupují: they don't buy
+    - nemá: doesn't have
+    - nemám: I don't have
+    - není: isn't
+    - nepije: doesn't drink
+    - nepijeme: we don't drink
+    - on: he
+    - ona: she
+    - oni: they
+    - pije: drinks
+    - pijeme: we drink
+    - piješ: you drink
+    - piva: beer
+    - polska: Poland
+    - pro: for
+    - prosím: please
+    - původ: origin
+    - rád: likes
+    - stole: table
+    - tebe: you
+    - to: it/that
+    - ty: you
+    - vodky: vodka
+    - vody: water
+    - vína: wine
+    - z: from/out of
+    - zkouší: tries
+    - zkusit: try
+    - čaje: tea
+    - šálek: cup
+  English:
+    - a: jedin/один
+    - are: byti/быти
+    - at/by: u
+    - beer: pivo
+    - bottle: láhev
+    - bottles: lahve
+    - buying: nakupování
+    - coffee: káva
+    - do: dělat
+    - does: dělá
+    - drink: pít
+    - drinking: pití
+    - find: najít
+    - for: pro
+    - frank: upřímný
+    - from: od
+    - give: dát
+    - glass: sklenice
+    - has: má
+    - have: mít
+    - he: on
+    - i: já
+    - is: je
+    - juice: šťáva
+    - like: rád
+    - lying: ležící
+    - me: mě
+    - milk: mléko
+    - no: ne
+    - not: ne
+    - of: z
+    - on: na
+    - please: prosím
+    - poland: Polsko
+    - she: ona
+    - sugar: cukr
+    - table: stůl
+    - tea: čaj
+    - the: to
+    - they: oni
+    - this: toto
+    - to: do
+    - try: zkusit
+    - trying: zkoušení
+    - vodka: vodka
+    - want: chtít
+    - water: voda
+    - we: my
+    - wine: víno
+    - without: bez
+    - you: ty/vy

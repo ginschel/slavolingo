@@ -1,0 +1,238 @@
+Skill:
+  Name: Greetings & Phrases
+  Id: 2
+
+New words:
+  - Word: привітання
+    Translation: greeting
+  - Word: здоровий/привіт
+    Translation: healthy/hello
+  - Word: бесіда/розмова
+    Translation: conversation
+  - Word: ранок
+    Translation: morning
+  - Word: вечір
+    Translation: evening
+  - Word: день
+    Translation: day
+  - Word: ніч
+    Translation: night
+  - Word: дякую
+    Translation: thanks
+  - Word: перепрошую
+    Translation: pardon
+  - Word: вибач
+    Translation: excuse me
+  - Word: добрий
+    Translation: good
+  - Word: краще
+    Translation: better
+  - Word: можливо
+    Translation: possible
+  - Word: шкода
+    Translation: pity
+  - Word: так/отже
+    Translation: so
+  - Word: що
+    Translation: what
+  - Word: ні
+    Translation: no
+  - Word: так (ствердно)
+    Translation: yes
+  - Word: може
+    Translation: maybe/can
+  - Word: давай
+    Translation: let's go
+
+Phrases:
+  - Phrase: Доброго ранку!
+    Translation: Good morning!
+  - Phrase: Добрий вечір!
+    Translation: Good evening!
+  - Phrase: Добрий день!
+    Translation: Good day!
+  - Phrase: Добра ніч!
+    Translation: Good night!
+  - Phrase: Як справи?
+    Translation: How are you?
+  - Phrase: Я добрий, дякую!
+    Translation: I am well, thank you!
+  - Phrase: А ти?
+    Translation: And you?
+  - Phrase: Дякую тобі дуже.
+    Translation: Thank you very much.
+  - Phrase: Перепрошую, не розумію.
+    Translation: Excuse me, I don't understand.
+  - Phrase: Привіт!
+    Translation: Greetings!
+  - Phrase: Ало!
+    Translation: Hello!
+  - Phrase: Добрий день, як справи?
+    Translation: Good day, how are you?
+  - Phrase: Ти здоровий?
+    Translation: Are you healthy?
+  - Phrase: Ласкаво просимо!
+    Translation: Welcome!
+  - Phrase: На здоров'я!
+    Translation: To your health!
+  - Phrase: Привітай твою сестру.
+    Translation: Greet your sister.
+  - Phrase: Як тебе звуть?
+    Translation: What is your name?
+  - Phrase: Мене звуть Бартек.
+    Translation: My name is Bartek.
+  - Phrase: Дякую за бесіду.
+    Translation: Thank you for the conversation.
+  - Phrase: Так є.
+    Translation: That is so.
+  - Phrase: Не так.
+    Translation: Not so.
+  - Phrase: Може бути.
+    Translation: Maybe.
+  - Phrase: Не можливо.
+    Translation: Not possible.
+  - Phrase: Шкода!
+    Translation: What a pity!
+  - Phrase: Добре!
+    Translation: Good!
+  - Phrase: Недобре.
+    Translation: Not good.
+  - Phrase: Це краще.
+    Translation: This is better.
+  - Phrase: Це не краще.
+    Translation: This is not better.
+  - Phrase: Так, може.
+    Translation: Yes, it is possible.
+  - Phrase: Ні, не можливо.
+    Translation: No, it is not possible.
+  - Phrase: Чи це можливо?
+    Translation: Is this possible?
+  - Phrase: Що це означає?
+    Translation: What does this mean?
+  - Phrase: Також я.
+    Translation: Me too.
+  - Phrase: З Богом!
+    Translation: Go with God!
+  - Phrase: Не знаю.
+    Translation: I don't know.
+  - Phrase: Може.
+    Translation: Perhaps.
+  - Phrase: Повтори. Не зрозумів.
+    Translation: Repeat. I didn't understand.
+  - Phrase: Ти готовий?
+    Translation: Are you ready?
+  - Phrase: Давай!
+    Translation: Let's go!
+
+Mini-dictionary:
+  Ukrainian:
+    - а: and
+    - ало: hello
+    - бартек: Bartek
+    - бесіду: conversation (accusative)
+    - богом: with God
+    - бути: to be
+    - готовий: ready
+    - добра: good (feminine)
+    - добре: good, well
+    - доброго: of good
+    - дуже: very
+    - з: with, from
+    - за: for, behind
+    - звуть: they call
+    - здоров'я: health
+    - здоровий: healthy (masculine)
+    - знаю: I know
+    - зрозумів: understood
+    - ласкаво: welcome
+    - мене: me
+    - на: on, at
+    - не: not
+    - недобре: not good
+    - означає: means
+    - повтори: repeat
+    - привіт: hello
+    - привітай: greet
+    - просимо: we ask, please
+    - ранку: of the morning
+    - розумію: I understand
+    - сестру: sister (accusative)
+    - справи: matters, affairs
+    - ствердно: affirmatively
+    - так: yes
+    - також: also
+    - твою: your (accusative)
+    - тебе: you
+    - ти: you (singular)
+    - тобі: to you
+    - це: this is, it is
+    - чи: if, whether
+    - я: I
+    - як: how, as
+    - є: is, are
+  English:
+    - a: jedin/один
+    - am: є
+    - and: і
+    - are: byti/быти
+    - bartek: бартек
+    - better: краще
+    - conversation: розмова
+    - day: день
+    - didn't: не зробив
+    - does: робить
+    - don't: не роблять
+    - evening: вечір
+    - excuse: вибачте
+    - for: для
+    - go: йти
+    - god: бог
+    - good: добрий
+    - greet: вітати
+    - greeting: вітання
+    - greetings: вітання
+    - health: здоров'я
+    - healthy: здоровий
+    - healthy/hello: здоровий/привіт
+    - hello: привіт
+    - how: як
+    - i: я
+    - is: є
+    - it: це
+    - know: знати
+    - let's: давай
+    - maybe: можливо
+    - maybe/can: можливо/може
+    - me: мене
+    - mean: означає
+    - morning: ранок
+    - much: багато
+    - my: мій
+    - name: ім'я
+    - night: ніч
+    - no: ні
+    - not: не
+    - pardon: вибачте
+    - perhaps: можливо
+    - pity: жалість
+    - possible: можливий
+    - ready: готовий
+    - repeat: повторити
+    - sister: сестра
+    - so: так
+    - thank: дякую
+    - thanks: дякую
+    - that: той
+    - the: to
+    - this: це
+    - to: до
+    - too: теж
+    - understand: розуміти
+    - very: дуже
+    - welcome: ласкаво просимо
+    - well: добре
+    - what: що
+    - with: з
+    - yes: так
+    - you: ви
+    - your: ваш

@@ -1,0 +1,187 @@
+Skill:
+  Name: Hobbies
+  Id: 4
+
+New words:
+  - Word: czytać
+    Translation: to read
+  - Word: pisać (pisze)
+    Translation: to write
+  - Word: grać
+    Translation: to play
+  - Word: ôglōndać
+    Translation: to watch
+  - Word: suchać
+    Translation: to listen
+  - Word: malować
+    Translation: to paint
+  - Word: śpiywać
+    Translation: to sing
+  - Word: uczyć sie
+    Translation: to learn
+  - Word: siedzieć (siedzi)
+    Translation: to sit
+  - Word: szyć (szyje)
+    Translation: to sew
+  - Word: tańczyć
+    Translation: to dance
+
+Phrases:
+  - Phrase: Jo czytōm ksiónżka.
+    Translation: I am reading a book.
+  - Phrase: Ôna pisze listy.
+    Translation: She is writing letters.
+  - Phrase: Ôn gro we fusbal.
+    Translation: He is playing football.
+  - Phrase: My ôglōndōmy film.
+    Translation: We are watching a film.
+  - Phrase: Ôni suchajōm muzyka.
+    Translation: They are listening to music.
+  - Phrase: Ôna siedzi a czytōm.
+    Translation: She is sitting and reading.
+  - Phrase: Jo maluja ôbraz.
+    Translation: I am painting a picture.
+  - Phrase: Ôn śpiywo śpiywki.
+    Translation: He is singing songs.
+  - Phrase: Wy uczycie sie gŏdka.
+    Translation: You are learning a language.
+  - Phrase: Jo szyja ôblyczynia.
+    Translation: I am sewing clothes.
+  - Phrase: Ty ôglōndosz serijo?
+    Translation: Are you watching a series?
+  - Phrase: My gramy we szach.
+    Translation: We are playing chess.
+  - Phrase: Ôni suchajōm radijo.
+    Translation: They are listening to the radio.
+  - Phrase: Czytosz ty romany?
+    Translation: Do you read novels?
+  - Phrase: Ôn pisze dziynnik.
+    Translation: He is writing a diary.
+  - Phrase: Uczymy sie sam.
+    Translation: We are learning here.
+  - Phrase: Malujymy ze kamratami ôbrazy.
+    Translation: We are painting pictures with friends.
+  - Phrase: Ty szyjesz?
+    Translation: Are you sewing?
+  - Phrase: Jo śpiywōm z grupōm.
+    Translation: I am singing with a group.
+  - Phrase: Jo tańcuja fest
+    Translation: I dance a lot
+  - Phrase: Ôna gro na gitara.
+    Translation: She is playing the guitar.
+
+Mini-dictionary:
+  Silesian:
+    - a: a
+    - czytosz: reads
+    - czytōm: reading
+    - dziynnik: diary
+    - fest: very
+    - film: film
+    - fusbal: football
+    - gitara: guitar
+    - gramy: play
+    - gro: plays
+    - grupōm: group
+    - gŏdka: language
+    - jo: I
+    - kamratami: friends
+    - ksiónżka: book
+    - listy: letters
+    - maluja: paint
+    - malujymy: paint
+    - muzyka: music
+    - my: we
+    - na: on
+    - pisać: write
+    - pisze: writes
+    - radijo: radio
+    - romany: novels
+    - sam: himself
+    - serijo: series
+    - sie: herself
+    - siedzi: sits
+    - siedzieć: sit
+    - suchajōm: listening
+    - szach: chess
+    - szyja: neck
+    - szyje: sews
+    - szyjesz: sew
+    - szyć: sew
+    - tańcuja: dance
+    - ty: you
+    - uczycie: teach
+    - uczymy: teach
+    - uczyć: teach
+    - we: in
+    - wy: you
+    - z: from
+    - ze: from
+    - ôblyczynia: clothes
+    - ôbraz: picture
+    - ôbrazy: pictures
+    - ôglōndosz: watch
+    - ôglōndōmy: watch
+    - ôn: he
+    - ôna: she
+    - ôni: they
+    - śpiywki: songs
+    - śpiywo: sings
+    - śpiywōm: sings
+  English:
+    - a: jedin/один
+    - am: jeżech
+    - and: a
+    - are: byti/быти
+    - book: kńiżka
+    - chess: szach
+    - clothes: ôblyczynia
+    - dance: tańcować
+    - diary: dziynńik
+    - do: robić
+    - film: film
+    - football: fusbal
+    - friends: kamraty
+    - group: grupa
+    - guitar: gitara
+    - he: ôn
+    - here: sam
+    - i: jŏ
+    - is: je
+    - language: godka
+    - learn: uczyć sie
+    - learning: uczynie sie
+    - letters: bōjki
+    - listen: słuchać
+    - listening: słuchanie
+    - lot: kupa
+    - music: muzyka
+    - novels: rōmany
+    - paint: molować
+    - painting: molowanie
+    - picture: bilt
+    - pictures: bildy
+    - play: grać
+    - playing: granie
+    - radio: radijo
+    - read: czytać
+    - reading: czytanie
+    - series: seryjo
+    - sew: szyć
+    - sewing: szycie
+    - she: ôna
+    - sing: śpiywać
+    - singing: śpiywanie
+    - sit: siedzieć
+    - sitting: siedzynie
+    - songs: pieśniczki
+    - the: to
+    - they: ôni
+    - to: do
+    - watch: ôbziyrka
+    - watching: ôbziyranie
+    - we: my
+    - with: z
+    - write: pisać
+    - writing: pisanie
+    - you: ty

@@ -1,0 +1,215 @@
+Skill:
+  Name: Character
+  Id: 36
+
+New words:
+  - Word: dobri
+    Translation: good
+  - Word: zli
+    Translation: bad
+  - Word: sëlni
+    Translation: strong
+  - Word: słabi
+    Translation: weak
+  - Word: òdwôżni
+    Translation: brave
+  - Word: cëchi
+    Translation: quiet
+  - Word: mądri
+    Translation: wise
+  - Word: głëpi
+    Translation: stupid
+  - Word: sczérzi
+    Translation: sincere
+  - Word: leniwi
+    Translation: lazy
+  - Word: béł jem
+    Translation: I would be
+  - Word: béł jes
+    Translation: you would be
+  - Word: béł je
+    Translation: he/she/it would be
+  - Word: bëlë jesmë
+    Translation: we would be
+  - Word: bëlë jeste
+    Translation: you would be
+  - Word: bëlë są
+    Translation: they would be
+  - Word: mlëczec (mlëczi)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: On to je dobri człowiek.
+    Translation: He is a good person.
+  - Phrase: Òna je złô czãstã.
+    Translation: She is sometimes bad.
+  - Phrase: Sëlni dëch je wôżni.
+    Translation: A strong spirit is important.
+  - Phrase: On je słabi w sporce.
+    Translation: He is weak in sports.
+  - Phrase: Òdwôżni gôdô prôwdã.
+    Translation: Brave people speak the truth.
+  - Phrase: Jak të bëł jes słëszôł, to òni bë bëlë cëchi.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Mądri wie wiele.
+    Translation: A smart person knows much.
+  - Phrase: Jak të bëł jes nie béł głëpi, to bëł jes nie robił głëpòtów.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Sczérzi przëjacel je drëdżi.
+    Translation: A sincere friend is valuable.
+  - Phrase: Jak òni bë bëlë nie bëlë leniwi, to më bë bëlë jesmë jim pòmôgalë.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Òna je dobrô i sczérô.
+    Translation: She is good and sincere.
+  - Phrase: On je sëlni le òdwôżni.
+    Translation: He is strong but brave.
+  - Phrase: Dzëcë są mądri jak na swòj wiek.
+    Translation: Children are wiser for their age.
+  - Phrase: Jak wë bë bëlë jeste nie bëlë słabi, to wë bë bëlë jeste robòtalë.
+    Translation: If you were not weak, you would work.
+  - Phrase: Złé słowa bólą.
+    Translation: Bad words hurt.
+  - Phrase: Głëpi sã nie ùczi.
+    Translation: Stupid people do not learn.
+  - Phrase: Leniwi nie chce nic robic.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Sczérzi gôdô co mëslë.
+    Translation: A sincere person says what they think.
+  - Phrase: Mądri mlëczi czej trzéba.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Jak ja bëł jem béł òdwôżni, to ja bëł jem sã nie bòjôł.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Kashubian:
+    - béł: was
+    - bë: to be
+    - bëlë: they were
+    - bëł: he was
+    - bòjôł: feared
+    - bólą: hurt
+    - chce: wants
+    - co: what
+    - czej: when
+    - czãstã: often
+    - człowiek: human
+    - dobrô: good
+    - drëdżi: second
+    - dzëcë: children
+    - dëch: spirit
+    - gôdô: speaks
+    - głëpòtów: stupidity
+    - i: and
+    - ja: yes
+    - jak: how
+    - je: is
+    - jem: I eat
+    - jes: you are
+    - jesmë: we are
+    - jeste: you are
+    - jim: them
+    - le: but
+    - mlëczec: to be silent
+    - mlëczi: silent
+    - më: we
+    - mëslë: thoughts
+    - na: on
+    - nic: nothing
+    - nie: no
+    - on: he
+    - przëjacel: friend
+    - prôwdã: truth
+    - pòmôgalë: they helped
+    - robic: to do
+    - robił: did
+    - robòtalë: they worked
+    - sczérô: wipes
+    - sporce: sport
+    - swòj: his
+    - sã: yourself
+    - są: they are
+    - słowa: words
+    - słëszôł: heard
+    - to: this
+    - trzéba: necessary
+    - të: you
+    - w: in
+    - wie: knows
+    - wiek: age
+    - wiele: many
+    - wë: you
+    - wôżni: important
+    - złé: bad
+    - złô: bad
+    - òna: she
+    - òni: they
+    - ùczi: learns
+  English:
+    - a: jedin/один
+    - afraid: przestraszóny
+    - age: wiek
+    - and: ë
+    - anything: wszëtkò
+    - are: byti/быти
+    - bad: złi
+    - be: bëc
+    - brave: dëlni
+    - but: ale
+    - children: dzecë
+    - do: robic
+    - foolish: głëpi
+    - for: dlô
+    - friend: kamrad
+    - good: dobri
+    - he: on
+    - he/she/it: on/òna/òno
+    - hear: słëszëc
+    - help: pòmòc
+    - hurt: bólëc
+    - i: jô
+    - if: jesli
+    - important: wôżny
+    - in: w
+    - is: je
+    - knows: znaje
+    - lazy: leniwi
+    - learn: ùczëc
+    - much: wiele
+    - needed: pòtrzebny
+    - not: nié
+    - people: lëdze
+    - person: persòna
+    - quiet: cëchi
+    - says: gôdô
+    - she: òna
+    - silent: cëchi
+    - sincere: szczërze
+    - smart: mądri
+    - sometimes: czasã
+    - speak: gôdac
+    - spirit: dëch
+    - sports: sportë
+    - stays: òstôwô
+    - strong: môcny
+    - stupid: głëpi
+    - the: to
+    - their: jich
+    - them: jima
+    - they: òni
+    - things: rzeczi
+    - think: dëmac
+    - to: do
+    - truth: prawda
+    - valuable: cãżôrowi
+    - want: chciec
+    - we: më
+    - weak: snôdzni
+    - were: byl/был
+    - what: co
+    - when: czedë
+    - wise: mądri
+    - wiser: mądriészë
+    - words: słowa
+    - work: robota
+    - would: chcemë
+    - you: të

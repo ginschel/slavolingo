@@ -1,0 +1,169 @@
+Skill:
+  Name: Sports
+  Id: 5
+
+New words:
+  - Word: koparska
+    Translation: football
+  - Word: kósna
+    Translation: basketball
+  - Word: tenis
+    Translation: tennis
+  - Word: plawanja
+    Translation: swimming
+  - Word: plawać
+    Translation: to swim
+  - Word: běh
+    Translation: running
+  - Word: běhać
+    Translation: to run
+  - Word: zaranja
+    Translation: in the morning
+  - Word: lubić
+    Translation: to love/like
+  - Word: hokej
+    Translation: hockey
+  - Word: sport
+    Translation: sport
+  - Word: hra
+    Translation: game
+  - Word: trenować
+    Translation: to train
+  - Word: stadion
+    Translation: stadium
+  - Word: spěšnje
+    Translation: fast
+  - Word: ćežki
+    Translation: difficult
+
+Phrases:
+  - Phrase: Hram koparsku.
+    Translation: I play football.
+  - Phrase: Wona hra kósnu.
+    Translation: She plays basketball.
+  - Phrase: Wón hra tenis.
+    Translation: He plays tennis.
+  - Phrase: My plawamy w rěce.
+    Translation: We swim in the river.
+  - Phrase: Woni běhaja zaranja.
+    Translation: They run in the morning.
+  - Phrase: Wón trenuje kóždy dźeń.
+    Translation: He trains every day.
+  - Phrase: Sport je wažny.
+    Translation: Sport is important.
+  - Phrase: Wona hra na stadionje.
+    Translation: She plays at the stadium.
+  - Phrase: Trjeba trenować.
+    Translation: It is necessary to train.
+  - Phrase: Woni lubja sport.
+    Translation: They love sport.
+  - Phrase: Ja njezgram hokej.
+    Translation: I do not play hockey.
+  - Phrase: Stadion je w měsće.
+    Translation: The stadium is in the city.
+  - Phrase: Kósna to je zajimawy sport.
+    Translation: Basketball is an interesting sport.
+  - Phrase: Plawanja je dobre za strowosć.
+    Translation: Swimming is good for health.
+  - Phrase: Štó hra tenis?
+    Translation: Who plays tennis?
+  - Phrase: Wón běha spěšnje.
+    Translation: He runs fast.
+  - Phrase: My plawamy často.
+    Translation: We swim often.
+  - Phrase: Wón trenuje z přećelom.
+    Translation: He trains with a friend.
+  - Phrase: Ja hram z bratrami.
+    Translation: I play with my brothers.
+  - Phrase: Hokej je ćežki.
+    Translation: Hockey is difficult.
+
+Mini-dictionary:
+  Upper Sorbian:
+    - bratrami: with brothers
+    - běha: runs
+    - běhaja: they run
+    - dobre: good
+    - dźeń: day
+    - hram: i play
+    - ja: i
+    - je: is
+    - koparsku: football
+    - kósnu: bite
+    - kóždy: every
+    - lubja: they love
+    - my: we
+    - měsće: city
+    - na: on
+    - njezgram: i do not play
+    - plawamy: we swim
+    - přećelom: friend
+    - rěce: river
+    - stadionje: stadium
+    - strowosć: health
+    - to: this
+    - trenuje: trains
+    - trjeba: needs
+    - w: in
+    - wažny: important
+    - wona: she
+    - woni: they
+    - wón: he
+    - z: with
+    - za: for
+    - zajimawy: interesting
+    - často: often
+    - štó: who
+  English:
+    - a: jedin/один
+    - an: jedyn
+    - at: pola
+    - basketball: basketball
+    - brothers: bratrach
+    - city: město
+    - day: dźeń
+    - difficult: ćežki
+    - do: činić
+    - every: kóždy
+    - fast: spěšne
+    - football: koparska
+    - for: za
+    - friend: přećel
+    - game: hra
+    - good: dobry
+    - he: wón
+    - health: strowosć
+    - hockey: hokej
+    - i: ja
+    - important: wažny
+    - in: w
+    - interesting: zajimawy
+    - is: je
+    - it: wone
+    - love: lubosć
+    - love/like: lubić
+    - morning: ranjo
+    - my: mój
+    - necessary: trjeba
+    - not: nje
+    - often: často
+    - play: hrać
+    - plays: hra
+    - river: rěka
+    - run: běhać
+    - running: běha
+    - runs: biha
+    - she: wona
+    - sport: sport
+    - stadium: stadion
+    - swim: plawać
+    - swimming: plawanja
+    - tennis: tenis
+    - the: to
+    - they: woni
+    - to: k
+    - train: ćah
+    - trains: ćahow
+    - we: my
+    - who: štó
+    - with: z

@@ -1,0 +1,189 @@
+Skill:
+  Name: Cardinal points
+  Id: 18
+
+New words:
+  - Word: сївер
+    Translation: north
+  - Word: юг
+    Translation: south
+  - Word: запад
+    Translation: west
+  - Word: выход
+    Translation: east
+  - Word: сїверный
+    Translation: northern
+  - Word: южный
+    Translation: southern
+  - Word: западный
+    Translation: western
+  - Word: выходный
+    Translation: eastern
+  - Word: компас
+    Translation: compass
+  - Word: сторона
+    Translation: side
+  - Word: де
+    Translation: where
+  - Word: встати (встане)
+    Translation: to rise
+  - Word: показовати
+    Translation: to show
+  - Word: мапа
+    Translation: map
+  - Word: путовати
+    Translation: to travel
+  - Word: вправо
+    Translation: right
+  - Word: влїво
+    Translation: left
+  - Word: прямо
+    Translation: straight
+
+Phrases:
+  - Phrase: Сївер є хладный.
+    Translation: The north is cold.
+  - Phrase: Юг є теплый.
+    Translation: The south is warm.
+  - Phrase: Сонце встане на выходї.
+    Translation: The sun rises in the east.
+  - Phrase: Оно западає на западї.
+    Translation: It sets in the west.
+  - Phrase: Тото є сїверна сторона.
+    Translation: This is the northern side.
+  - Phrase: Жиєме на югу.
+    Translation: We live in the south.
+  - Phrase: Компас показує сївер.
+    Translation: The compass shows north.
+  - Phrase: Выход є там.
+    Translation: The east is there.
+  - Phrase: Западный вїтер дує.
+    Translation: A western wind is blowing.
+  - Phrase: Ідеме до юго-запада.
+    Translation: We are going to the southwest.
+  - Phrase: Тото є сїверо-западный реґіон.
+    Translation: This is the northwestern region.
+  - Phrase: Сторона на мапі показує запад.
+    Translation: The side on the map shows west.
+  - Phrase: Юго-выход є там, де грїє сонце.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Ідеме до южної стороны.
+    Translation: We are going to the southern side.
+  - Phrase: Он путує выходно.
+    Translation: He travels eastward.
+  - Phrase: На сївері є снїг.
+    Translation: In the north there is snow.
+  - Phrase: Южны краі суть теплы.
+    Translation: The southern regions are warm.
+  - Phrase: Запад є влїво на мапі.
+    Translation: West is left on the map.
+  - Phrase: Выходна музика є інтересна.
+    Translation: Eastern music is interesting.
+  - Phrase: Позераєме на сївер.
+    Translation: We are looking to the north.
+  - Phrase: Ідеме тотчас вправо і потом прямо.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Rusin:
+    - встане: rise
+    - встати: rise
+    - выходна: outlet
+    - выходно: weekend
+    - выходї: weekend
+    - вїтер: wind
+    - грїє: warms
+    - до: to
+    - дує: blows
+    - жиєме: live
+    - западає: sets
+    - западї: west
+    - краі: country
+    - мапі: map
+    - музика: music
+    - на: on
+    - он: he
+    - оно: it
+    - позераєме: look
+    - показує: shows
+    - потом: then
+    - путує: travels
+    - реґіон: region
+    - снїг: snow
+    - сонце: sun
+    - стороны: sides
+    - суть: are
+    - сїверна: northern
+    - сїверо-западный: northwestern
+    - сївері: north
+    - там: there
+    - теплы: warm
+    - теплый: warm
+    - тото: this
+    - тотчас: immediately
+    - хладный: cold
+    - юго-выход: southeast
+    - юго-запада: southwest
+    - югу: south
+    - южної: southern
+    - южны: southern
+    - є: is
+    - і: and
+    - ідеме: go
+    - інтересна: interesting
+  English:
+    - a: jedin/один
+    - and: и
+    - are: byti/быти
+    - blowing: фукать
+    - cold: зима
+    - compass: компас
+    - east: восток
+    - eastern: восточный
+    - eastward: восточно
+    - going: йде
+    - he: він
+    - in: в
+    - interesting: інтересный
+    - is: є
+    - it: то
+    - left: лїво
+    - live: жыти
+    - looking: позерать
+    - map: мапа
+    - music: музика
+    - north: сївер
+    - northern: сїверный
+    - northwestern: сїверозападный
+    - now: тепер
+    - on: на
+    - region: область
+    - regions: области
+    - right: право
+    - rise: поднимати ся
+    - rises: поднимать ся
+    - sets: ставить
+    - show: указати
+    - shows: указує
+    - side: бік
+    - snow: сніг
+    - south: юг
+    - southeast: юговыход
+    - southern: южный
+    - southwest: югозапад
+    - straight: просто
+    - sun: сонце
+    - the: to
+    - then: потім
+    - there: там
+    - this: тот
+    - to: до
+    - travel: путовати
+    - travels: путує
+    - warm: теплый
+    - warms: грїє
+    - we: мы
+    - west: запад
+    - western: западный
+    - where: де
+    - wind: вітер

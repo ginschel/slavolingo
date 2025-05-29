@@ -1,0 +1,168 @@
+Skill:
+  Name: Nationalities
+  Id: 11
+
+New words:
+  - Word: Slovan
+    Translation: Slav
+  - Word: jezik
+    Translation: language
+  - Word: država
+    Translation: country
+  - Word: narod
+    Translation: nation
+  - Word: ime
+    Translation: name
+  - Word: Hrvatica
+    Translation: Croat
+  - Word: Rus
+    Translation: Russian
+  - Word: Poljak
+    Translation: Pole
+  - Word: Nemec
+    Translation: German
+  - Word: Anglež
+    Translation: Englishman
+
+Phrases:
+  - Phrase: On je Slovan.
+    Translation: He is a Slav.
+  - Phrase: Ona govori slovanski jezik.
+    Translation: She speaks the Slavic language.
+  - Phrase: To je moj jezik.
+    Translation: This is my language.
+  - Phrase: Država je Poljska.
+    Translation: The country is Poland.
+  - Phrase: Jaz sem Poljak.
+    Translation: I am a Pole.
+  - Phrase: Ona je Hrvatica.
+    Translation: She is a Croat.
+  - Phrase: On je Rus.
+    Translation: He is a Russian.
+  - Phrase: Govoriš nemški jezik?
+    Translation: Do you speak the German language?
+  - Phrase: Anglež govori angleški jezik.
+    Translation: An Englishman speaks the English language.
+  - Phrase: Mi ljubimo svoj narod.
+    Translation: We love our nation.
+  - Phrase: To je ime moje države.
+    Translation: This is the name of my country.
+  - Phrase: On zna tri jezike.
+    Translation: He knows three languages.
+  - Phrase: Hrvat govori hrvaški jezik.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Nemec živi v Nemčiji.
+    Translation: A German lives in Germany.
+  - Phrase: Ona zna rusko in slovansko.
+    Translation: She knows Russian and Slavic.
+  - Phrase: To je narod z bogato kulturo.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Si ti Anglež?
+    Translation: Are you an Englishman?
+  - Phrase: On govori vsak jezik dobro.
+    Translation: He speaks every language well.
+  - Phrase: Mi se učimo ruskega jezika.
+    Translation: We are learning the Russian language.
+  - Phrase: Ona pozna veliko narodov.
+    Translation: She knows many nations.
+
+Mini-dictionary:
+  Slovenian:
+    - angleški: English
+    - anglež: Englishman
+    - bogato: richly
+    - dobro: good
+    - države: country
+    - govori: speaks
+    - govoriš: you speak
+    - hrvat: Croat
+    - hrvatica: Croatian woman
+    - hrvaški: Croatian
+    - in: and
+    - jaz: I
+    - je: is
+    - jezika: language
+    - jezike: languages
+    - kulturo: culture
+    - ljubimo: we love
+    - mi: we
+    - moj: my
+    - moje: my
+    - narodov: nations
+    - nemec: German
+    - nemčiji: Germany
+    - nemški: German
+    - on: he
+    - ona: she
+    - poljak: Pole
+    - poljska: Poland
+    - pozna: knows / late
+    - rus: Russian
+    - ruskega: Russian
+    - rusko: Russian
+    - se: oneself / itself
+    - sem: I am
+    - si: you are
+    - slovan: Slav
+    - slovanski: Slavic
+    - slovansko: Slavic
+    - svoj: his/her/its/their own
+    - ti: you (singular informal)
+    - to: this
+    - tri: three
+    - učimo: we learn / we teach
+    - v: in
+    - veliko: much / many
+    - vsak: every
+    - z: with
+    - zna: knows (how to)
+    - živi: lives
+  English:
+    - a: jedin/один
+    - am: sem
+    - an: en
+    - and: in
+    - are: byti/быти
+    - country: država
+    - croat: hrvat
+    - croatian: hrvaški
+    - culture: kulturo
+    - do: delati
+    - english: angleški
+    - englishman: anglež
+    - every: vsak
+    - german: nemški
+    - germany: nemčija
+    - he: on
+    - i: jaz
+    - in: v
+    - is: je
+    - knows: ve
+    - language: jezik
+    - languages: jeziki
+    - learning: uči
+    - lives: živi
+    - love: ljubezen
+    - many: veliko
+    - my: moj
+    - name: ime
+    - nation: narod
+    - nations: narodov
+    - of: od
+    - our: naš
+    - poland: poljska
+    - pole: poljak
+    - rich: bogat
+    - russian: ruski
+    - she: ona
+    - slav: slovan
+    - slavic: slovanski
+    - speak: govoriti
+    - speaks: govori
+    - the: to
+    - this: ta
+    - three: tri
+    - we: mi
+    - well: dobro
+    - with: z
+    - you: ti

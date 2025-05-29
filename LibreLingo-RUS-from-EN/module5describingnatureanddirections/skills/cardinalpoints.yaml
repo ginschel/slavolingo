@@ -1,0 +1,191 @@
+Skill:
+  Name: Cardinal points
+  Id: 18
+
+New words:
+  - Word: север
+    Translation: north
+  - Word: юг
+    Translation: south
+  - Word: запад
+    Translation: west
+  - Word: восток
+    Translation: east
+  - Word: северный
+    Translation: northern
+  - Word: южный
+    Translation: southern
+  - Word: западный
+    Translation: western
+  - Word: восточный
+    Translation: eastern
+  - Word: компас
+    Translation: compass
+  - Word: сторона
+    Translation: side
+  - Word: где
+    Translation: where
+  - Word: встать (встаёт)
+    Translation: to rise
+  - Word: показывать
+    Translation: to show
+  - Word: карта
+    Translation: map
+  - Word: путешествовать
+    Translation: to travel
+  - Word: право
+    Translation: right
+  - Word: лево
+    Translation: left
+  - Word: прямо
+    Translation: straight
+
+Phrases:
+  - Phrase: Север есть холодный.
+    Translation: The north is cold.
+  - Phrase: Юг есть тёплый.
+    Translation: The south is warm.
+  - Phrase: Солнце встаёт на востоке.
+    Translation: The sun rises in the east.
+  - Phrase: Оно западает на западе.
+    Translation: It sets in the west.
+  - Phrase: Это есть северная сторона.
+    Translation: This is the northern side.
+  - Phrase: Живём на юге.
+    Translation: We live in the south.
+  - Phrase: Компас показывает север.
+    Translation: The compass shows north.
+  - Phrase: Восток есть там.
+    Translation: The east is there.
+  - Phrase: Западный ветер дует.
+    Translation: A western wind is blowing.
+  - Phrase: Идём к юго-западу.
+    Translation: We are going to the southwest.
+  - Phrase: Это есть северо-западный регион.
+    Translation: This is the northwestern region.
+  - Phrase: Сторона на карте показывает запад.
+    Translation: The side on the map shows west.
+  - Phrase: Юго-восток есть там, где греет солнце.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Идём до южной стороны.
+    Translation: We are going to the southern side.
+  - Phrase: Он путешествует восточно.
+    Translation: He travels eastward.
+  - Phrase: На севере есть снег.
+    Translation: In the north there is snow.
+  - Phrase: Южные края тёплые.
+    Translation: The southern regions are warm.
+  - Phrase: Запад есть лево на карте.
+    Translation: West is left on the map.
+  - Phrase: Восточная музыка есть интересная.
+    Translation: Eastern music is interesting.
+  - Phrase: Смотрим к северу.
+    Translation: We are looking to the north.
+  - Phrase: Идём сейчас вправо и потом прямо.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Russian:
+    - ветер: wind
+    - востоке: east
+    - восточная: eastern
+    - восточно: eastern
+    - вправо: right
+    - встать: rise
+    - встаёт: rises
+    - греет: warms
+    - до: to
+    - дует: blowing
+    - есть: is
+    - живём: live
+    - западает: sets
+    - западе: west
+    - и: and
+    - идём: go
+    - интересная: interesting
+    - к: to
+    - карте: map
+    - края: regions
+    - музыка: music
+    - на: on
+    - он: he
+    - оно: it
+    - показывает: shows
+    - потом: then
+    - путешествует: travels
+    - регион: region
+    - севере: north
+    - северная: northern
+    - северо-западный: northwest
+    - северу: north
+    - сейчас: now
+    - смотрим: look
+    - снег: snow
+    - солнце: sun
+    - стороны: side
+    - там: there
+    - тёплые: warm
+    - тёплый: warm
+    - холодный: cold
+    - это: it
+    - юге: south
+    - юго-восток: southeast
+    - юго-западу: southwest
+    - южной: southern
+    - южные: southern
+  English:
+    - a: jedin/один
+    - and: и
+    - are: byti/быти
+    - blowing: дует
+    - cold: холодный
+    - compass: компас
+    - east: восток
+    - eastern: восточный
+    - eastward: на восток
+    - going: идет
+    - he: он
+    - in: в
+    - interesting: интересный
+    - is: есть
+    - it: это
+    - left: левый
+    - live: жить
+    - looking: смотрит
+    - map: карта
+    - music: музыка
+    - north: север
+    - northern: северный
+    - northwestern: северо-западный
+    - now: сейчас
+    - on: на
+    - region: регион
+    - regions: регионы
+    - right: правый
+    - rise: подниматься
+    - rises: поднимается
+    - sets: устанавливает
+    - show: показывать
+    - shows: показывает
+    - side: сторона
+    - snow: снег
+    - south: юг
+    - southeast: юго-восток
+    - southern: южный
+    - southwest: юго-запад
+    - straight: прямо
+    - sun: солнце
+    - the: to
+    - then: тогда
+    - there: там
+    - this: это
+    - to: к
+    - travel: путешествовать
+    - travels: путешествует
+    - warm: теплый
+    - warms: греет
+    - we: мы
+    - west: запад
+    - western: западный
+    - where: где
+    - wind: ветер

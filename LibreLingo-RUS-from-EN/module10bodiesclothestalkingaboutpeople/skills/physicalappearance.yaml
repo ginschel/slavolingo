@@ -1,0 +1,231 @@
+Skill:
+  Name: Physical Appearance
+  Id: 38
+
+New words:
+  - Word: высокий
+    Translation: tall
+  - Word: низкий
+    Translation: short
+  - Word: толстый
+    Translation: fat
+  - Word: худой
+    Translation: thin
+  - Word: малый
+    Translation: small
+  - Word: красивый
+    Translation: beautiful
+  - Word: некрасивый
+    Translation: ugly
+  - Word: старый
+    Translation: old
+  - Word: молодой
+    Translation: young
+  - Word: волосы
+    Translation: hair
+  - Word: глаза
+    Translation: eyes
+  - Word: чем
+    Translation: than
+  - Word: выше
+    Translation: taller/higher
+  - Word: кожа
+    Translation: skin
+  - Word: меньше
+    Translation: less
+  - Word: смеяться (смеётся)
+    Translation: to laugh
+  - Word: блестеть
+    Translation: to shine
+  - Word: звезда
+    Translation: star
+  - Word: светлый
+    Translation: light
+  - Word: тёмный
+    Translation: dark
+
+Phrases:
+  - Phrase: Он есть выше высокий и сильный чем он.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Она есть низкая и худая как он.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Толстый мужчина идёт по улице.
+    Translation: The fat man is walking down the street.
+  - Phrase: Худой имеет меньше телесной массы чем толстый.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: Это есть выше красивый человек чем тот.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Старые люди выше мудрые чем мы.
+    Translation: Old people are wiser than us.
+  - Phrase: Молодая имеет много энергии.
+    Translation: The young one has a lot of energy.
+  - Phrase: Его волосы светлые.
+    Translation: His hair is blonde.
+  - Phrase: Те глаза выше зелёные чем у него.
+    Translation: Her eyes are greener than his.
+  - Phrase: Кожа его есть белая.
+    Translation: His skin is white.
+  - Phrase: Он имеет долгие волосы.
+    Translation: He has long hair.
+  - Phrase: Она имеет зелёные глаза.
+    Translation: She has green eyes.
+  - Phrase: Кожа есть гладкая.
+    Translation: Her skin is smooth.
+  - Phrase: Старая женщина носит шапку.
+    Translation: The old woman wears a hat.
+  - Phrase: Молодые люди часто занимаются спортом.
+    Translation: Young people often play sports.
+  - Phrase: Толстый мужчина смеётся выше чем тот некрасивый мужчина.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Низкая девушка идёт до дома.
+    Translation: The short girl is going home.
+  - Phrase: Красивые глаза блестят как звёзды на небе.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Худой носит выше большую рубашку чем я.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Её волосы светлые и долгие.
+    Translation: Her hair is light and long.
+  - Phrase: А его красивые волосы тёмные как ночь.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Russian:
+    - а: a
+    - белая: white
+    - блестят: shines
+    - большую: big
+    - гладкая: smooth
+    - девушка: girl
+    - до: to
+    - долгие: long
+    - дома: at home
+    - его: his
+    - есть: is
+    - её: her
+    - женщина: woman
+    - занимаются: engaged
+    - звёзды: stars
+    - зелёные: green
+    - и: and
+    - идёт: goes
+    - имеет: has
+    - как: as
+    - красивые: beautiful
+    - люди: people
+    - массы: mass
+    - много: many
+    - молодая: young
+    - молодые: young
+    - мудрые: wise
+    - мужчина: man
+    - мы: we
+    - на: on
+    - небе: sky
+    - него: him
+    - низкая: low
+    - носит: wears
+    - ночь: night
+    - он: he
+    - она: she
+    - по: after
+    - рубашку: shirt
+    - светлые: light
+    - сильный: strong
+    - смеяться: laugh
+    - смеётся: laughs
+    - спортом: sport
+    - старая: old
+    - старые: old
+    - те: those
+    - телесной: physical
+    - тот: that
+    - тёмные: dark
+    - у: at
+    - улице: street
+    - худая: thin
+    - часто: often
+    - человек: person
+    - шапку: cap
+    - энергии: energy
+    - это: it
+    - я: i
+  English:
+    - a: jedin/один
+    - and: и
+    - are: byti/быти
+    - as: как
+    - beautiful: красивый
+    - blonde: блондинка
+    - body: тело
+    - dark: темный
+    - do: делать
+    - down: вниз
+    - energy: энергия
+    - eyes: глаза
+    - fat: толстый
+    - girl: девочка
+    - going: идет
+    - green: зеленый
+    - greener: зеленее
+    - hair: волосы
+    - has: имеет
+    - hat: шляпа
+    - he: он
+    - her: ее
+    - him: его
+    - his: его
+    - home: дом
+    - i: я
+    - in: в
+    - is: есть
+    - larger: больше
+    - laugh: смеяться
+    - laughs: смеется
+    - less: меньше
+    - light: свет
+    - like: как
+    - long: длинный
+    - lot: много
+    - louder: громче
+    - man: мужчина
+    - mass: масса
+    - more: больше
+    - night: ночь
+    - of: из
+    - often: часто
+    - old: старый
+    - one: один
+    - people: люди
+    - person: человек
+    - play: играть
+    - she: она
+    - shine: светить
+    - shirt: рубашка
+    - short: короткий
+    - shorter: короче
+    - skin: кожа
+    - sky: небо
+    - small: маленький
+    - smooth: гладкий
+    - sports: спорт
+    - star: звезда
+    - stars: звезды
+    - street: улица
+    - stronger: сильнее
+    - tall: высокий
+    - taller: выше
+    - taller/higher: выше
+    - than: чем
+    - that: что
+    - the: to
+    - thin: тонкий
+    - thinner: тоньше
+    - to: к
+    - ugly: уродливый
+    - us: нас
+    - walking: гуляет
+    - wears: носит
+    - white: белый
+    - wiser: мудрее
+    - woman: женщина
+    - young: молодой

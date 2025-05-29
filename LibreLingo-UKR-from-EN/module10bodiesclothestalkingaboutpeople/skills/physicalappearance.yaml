@@ -1,0 +1,235 @@
+Skill:
+  Name: Physical Appearance
+  Id: 38
+
+New words:
+  - Word: високий
+    Translation: tall
+  - Word: низький
+    Translation: short
+  - Word: товстий
+    Translation: fat
+  - Word: худий
+    Translation: thin
+  - Word: малий
+    Translation: small
+  - Word: красивий
+    Translation: beautiful
+  - Word: бридкий/поганий
+    Translation: ugly
+  - Word: старий
+    Translation: old
+  - Word: молодий
+    Translation: young
+  - Word: волосся
+    Translation: hair
+  - Word: очі
+    Translation: eyes
+  - Word: ніж
+    Translation: than
+  - Word: вище
+    Translation: taller/higher
+  - Word: шкіра
+    Translation: skin
+  - Word: менше
+    Translation: less
+  - Word: сміятися (сміється)
+    Translation: to laugh
+  - Word: блищати
+    Translation: to shine
+  - Word: зірка
+    Translation: star
+  - Word: світлий
+    Translation: light
+  - Word: темний
+    Translation: dark
+
+Phrases:
+  - Phrase: Він є більше високий і сильний ніж він.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Вона низька і худа як він.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Товстий чоловік йде по вулиці.
+    Translation: The fat man is walking down the street.
+  - Phrase: Худий має менше тілесної маси ніж товстий.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: Це є більше красива людина ніж та.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Старі люди є вище/більш мудрі ніж ми.
+    Translation: Old people are wiser than us.
+  - Phrase: Молода має багато енергії.
+    Translation: The young one has a lot of energy.
+  - Phrase: Його волосся є світле.
+    Translation: His hair is blonde.
+  - Phrase: Очі є більше зелені ніж у нього.
+    Translation: Her eyes are greener than his.
+  - Phrase: Шкіра його є біла.
+    Translation: His skin is white.
+  - Phrase: Він має довге волосся.
+    Translation: He has long hair.
+  - Phrase: Вона має зелені очі.
+    Translation: She has green eyes.
+  - Phrase: Шкіра є гладка.
+    Translation: Her skin is smooth.
+  - Phrase: Стара жінка носить шапку.
+    Translation: The old woman wears a hat.
+  - Phrase: Молоді люди часто займаються спортом.
+    Translation: Young people often play sports.
+  - Phrase: Товстий чоловік сміється більше ніж той бридкий/поганий чоловік.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Низька дівчина йде додому.
+    Translation: The short girl is going home.
+  - Phrase: Красиві очі блищать як зірки на небі.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Худий носить більшу велику сорочку ніж я.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Її волосся є світле і довге.
+    Translation: Her hair is light and long.
+  - Phrase: А його красиве волосся є темне як ніч.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Ukrainian:
+    - а: and
+    - багато: a lot, many, much
+    - блищать: they shine
+    - біла: white (feminine)
+    - більше: more
+    - більшу: bigger (accusative)
+    - велику: big (accusative)
+    - вище/більш: higher/more
+    - вона: she
+    - вулиці: on the street
+    - він: he
+    - гладка: smooth
+    - довге: long (neuter)
+    - додому: home (to home)
+    - дівчина: girl
+    - енергії: of energy
+    - жінка: woman
+    - займаються: they are engaged in
+    - зелені: green (plural)
+    - зірки: stars
+    - йде: goes
+    - його: his, him
+    - красива: beautiful (feminine)
+    - красиве: beautiful (neuter)
+    - красиві: beautiful (plural)
+    - люди: people
+    - людина: person
+    - маси: of mass
+    - має: has
+    - ми: we
+    - молода: young (feminine)
+    - молоді: young (plural)
+    - мудрі: wise (plural)
+    - на: on, at
+    - небі: in the sky
+    - низька: low (feminine)
+    - носить: wears, carries
+    - нього: him
+    - ніч: night
+    - по: along
+    - світле: light (adjective, neuter)
+    - сильний: strong (masculine)
+    - сміятися: to laugh
+    - сміється: laughs
+    - сорочку: shirt (accusative)
+    - спортом: with sport
+    - стара: old (feminine)
+    - старі: old (plural)
+    - та: and, so
+    - темне: dark (neuter)
+    - той: that (masculine)
+    - тілесної: of the body
+    - у: in, at
+    - худа: thin (feminine)
+    - це: this is, it is
+    - часто: often
+    - чоловік: man, husband
+    - шапку: hat (accusative)
+    - я: I
+    - як: how, as
+    - є: is, are
+    - і: and
+    - її: her
+  English:
+    - a: jedin/один
+    - and: і
+    - are: byti/быти
+    - as: як
+    - beautiful: красивий
+    - blonde: блондин
+    - body: тіло
+    - dark: темний
+    - do: робити
+    - down: вниз
+    - energy: енергія
+    - eyes: очі
+    - fat: товстий
+    - girl: дівчинка
+    - going: йде
+    - green: зелений
+    - greener: зеленіший
+    - hair: волосся
+    - has: має
+    - hat: капелюх
+    - he: він
+    - her: її
+    - him: його
+    - his: його
+    - home: дім
+    - i: я
+    - in: в
+    - is: є
+    - larger: більший
+    - laugh: сміх
+    - laughs: сміється
+    - less: менше
+    - light: світло
+    - like: як
+    - long: довгий
+    - lot: багато
+    - louder: голосніше
+    - man: чоловік
+    - mass: маса
+    - more: більше
+    - night: ніч
+    - of: з
+    - often: часто
+    - old: старий
+    - one: один
+    - people: люди
+    - person: людина
+    - play: грати
+    - she: вона
+    - shine: сяяти
+    - shirt: сорочка
+    - short: короткий
+    - shorter: коротший
+    - skin: шкіра
+    - sky: небо
+    - small: малий
+    - smooth: гладкий
+    - sports: види спорту
+    - star: зірка
+    - stars: зірки
+    - street: вулиця
+    - stronger: сильніший
+    - tall: високий
+    - taller: вищий
+    - taller/higher: вищий/вищий
+    - than: ніж
+    - that: той
+    - the: to
+    - thin: тонкий
+    - thinner: тонший
+    - to: до
+    - ugly: потворний
+    - us: нас
+    - walking: прогулянка
+    - wears: носить
+    - white: білий
+    - wiser: мудріший
+    - woman: жінка
+    - young: молодий

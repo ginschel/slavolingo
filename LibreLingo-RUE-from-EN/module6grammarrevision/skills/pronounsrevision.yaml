@@ -1,0 +1,196 @@
+Skill:
+  Name: Pronouns revision
+  Id: 20
+
+New words:
+  - Word: "знати"
+    Translation: to know
+  - Word: "відїти (видить)"
+    Translation: to know
+  - Word: "сон"
+    Translation: dream
+  - Word: "рїч"
+    Translation: thing
+
+Phrases:
+  - Phrase: Тото не знам.
+    Translation: I don't know that.
+  - Phrase: О том уж довго видить.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Кого ты видиш?.
+    Translation: Who do you see?.
+  - Phrase: Тым хторі лежать спати спокойного сна.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: О той рїчи я нич не знам.
+    Translation: I know nothing about that thing.
+  - Phrase: Говориме з тобов.
+    Translation: I am talking with you.
+  - Phrase: Я вижу вас.
+    Translation: I see you.
+  - Phrase: Он любить быти сам з собов.
+    Translation: He likes to be alone with himself.
+  - Phrase: Дай мі воду.
+    Translation: Give me water.
+  - Phrase: З нами все весело.
+    Translation: With us everything is always cheerful.
+  - Phrase: Мене не видиш.
+    Translation: You don't see me.
+  - Phrase: Кому даси дар?
+    Translation: Who do you give a gift to?
+  - Phrase: О мене говориш?
+    Translation: Are you talking about me?
+  - Phrase: Не, я не говорю о тобі.
+    Translation: No, I don't talt about you.
+  - Phrase: О чім ты говориш?
+    Translation: What are you talking about?
+  - Phrase: Ты жены суть красны.
+    Translation: These women are beautiful.
+  - Phrase: Тых приятелїв не маєш.
+    Translation: You do not have those friends.
+  - Phrase: Он дає собі спокой.
+    Translation: He stops troubling others.
+  - Phrase: Чого ту не є в домї?
+    Translation: What isn't at this house here?
+  - Phrase: Тому псови ты даєш кістї.
+    Translation: You give to this dog bones.
+  - Phrase: Тото ваша кава ці єї?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Rusin:
+    - быти: be
+    - в: in
+    - вас: us
+    - ваша: your
+    - весело: cheerful
+    - видить: sees
+    - видиш: see
+    - вижу: see
+    - воду: water
+    - все: everything
+    - відїти: see
+    - говориме: speak
+    - говориш: speak
+    - говорю: speak
+    - дай: give
+    - дар: gift
+    - даси: maybe
+    - дає: gives
+    - даєш: give
+    - довго: long
+    - домї: house
+    - жены: wife
+    - з: from
+    - знам: know
+    - знати: know
+    - кава: coffee
+    - кого: who
+    - кому: whom
+    - красны: beautiful
+    - кістї: bones
+    - лежать: lie
+    - любить: loves
+    - маєш: have
+    - мене: me
+    - мі: me
+    - нами: us
+    - не: not
+    - нич: nothing
+    - о: about
+    - он: he
+    - приятелїв: friends
+    - псови: dog
+    - рїч: thing
+    - рїчи: things
+    - сам: himself
+    - сна: dream
+    - собов: with
+    - собі: himself
+    - сон: dream
+    - спати: sleep
+    - спокой: peace
+    - спокойного: peaceful
+    - суть: are
+    - тобов: with
+    - тобі: you
+    - той: that
+    - том: that
+    - тому: that
+    - тото: this
+    - ту: here
+    - ты: you
+    - тым: that
+    - тых: those
+    - уж: already
+    - хторі: which
+    - ці: whether
+    - чого: what
+    - чім: what
+    - я: I
+    - є: is
+    - єї: her
+  English:
+    - a: jedin/один
+    - about: о
+    - alone: сам
+    - always: все
+    - am: єм
+    - are: byti/быти
+    - at: при
+    - be: быти
+    - beautiful: файный
+    - bones: кости
+    - cheerful: веселый
+    - coffee: кава
+    - do: робити
+    - dog: пес
+    - don't: не
+    - dream: сон
+    - everything: вшытко
+    - for: за
+    - friends: камараты
+    - gift: дар
+    - give: дати
+    - going: йде
+    - have: мати
+    - he: він
+    - her: єй
+    - here: ту
+    - himself: сам
+    - house: хыжа
+    - i: я
+    - is: є
+    - isn't: не є
+    - it: то
+    - know: знати
+    - known: знамый
+    - likes: любить
+    - long: довгый
+    - me: мі
+    - no: нї
+    - not: не
+    - nothing: нич
+    - or: або
+    - others: іншы
+    - peaceful: мирный
+    - see: видіти
+    - sleep: спати
+    - stops: заставать
+    - talking: говорить
+    - talt: тал
+    - that: тот
+    - these: тоты
+    - thing: річ
+    - this: тот
+    - those: тоты
+    - time: час
+    - to: до
+    - troubling: турбуючій
+    - us: нас
+    - water: вода
+    - what: што
+    - who: хто
+    - with: з
+    - women: жены
+    - you: ты
+    - your: твій

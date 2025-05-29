@@ -1,0 +1,186 @@
+Skill:
+  Name: Hobbies
+  Id: 4
+
+New words:
+  - Word: читати
+    Translation: to read
+  - Word: писати (пише)
+    Translation: to write
+  - Word: грати
+    Translation: to play
+  - Word: дивитись
+    Translation: to watch
+  - Word: слухати
+    Translation: to listen
+  - Word: малювати
+    Translation: to paint
+  - Word: співати
+    Translation: to sing
+  - Word: вчитися
+    Translation: to learn
+  - Word: сидіти (сидить)
+    Translation: to sit
+  - Word: шити (шиє)
+    Translation: to sew
+  - Word: танцювати
+    Translation: to dance
+
+Phrases:
+  - Phrase: Я читаю книжку.
+    Translation: I am reading a book.
+  - Phrase: Вона пише листи.
+    Translation: She is writing letters.
+  - Phrase: Він грає в футбол.
+    Translation: He is playing football.
+  - Phrase: Ми дивимось фільм.
+    Translation: We are watching a film.
+  - Phrase: Вони слухають музику.
+    Translation: They are listening to music.
+  - Phrase: Вона сидить і читає.
+    Translation: She is sitting and reading.
+  - Phrase: Я малюю картину.
+    Translation: I am painting a picture.
+  - Phrase: Він співає пісні.
+    Translation: He is singing songs.
+  - Phrase: Ви вчитесь мови.
+    Translation: You are learning a language.
+  - Phrase: Я шию одяг.
+    Translation: I am sewing clothes.
+  - Phrase: Ти дивишся серіал?
+    Translation: Are you watching a series?
+  - Phrase: Ми граємо в шахи.
+    Translation: We are playing chess.
+  - Phrase: Вони слухають радіо.
+    Translation: They are listening to the radio.
+  - Phrase: Чи читаєш романи?
+    Translation: Do you read novels?
+  - Phrase: Він пише щоденник.
+    Translation: He is writing a diary.
+  - Phrase: Вчимося тут.
+    Translation: We are learning here.
+  - Phrase: Малюємо з друзями картини.
+    Translation: We are painting pictures with friends.
+  - Phrase: Ти шиєш?
+    Translation: Are you sewing?
+  - Phrase: Я співаю з групою.
+    Translation: I am singing with a group.
+  - Phrase: Я танцюю багато
+    Translation: I dance a lot
+  - Phrase: Вона грає на гітарі.
+    Translation: She is playing the guitar.
+
+Mini-dictionary:
+  Ukrainian:
+    - багато: a lot, many, much
+    - в: in, at
+    - ви: you (plural)
+    - вона: she
+    - вони: they
+    - вчимося: we learn
+    - вчитесь: you learn
+    - він: he
+    - грає: plays
+    - граємо: we play
+    - групою: with a group
+    - гітарі: on the guitar
+    - дивимось: we watch
+    - дивишся: you watch
+    - друзями: with friends
+    - з: with, from
+    - картини: pictures
+    - картину: picture (accusative)
+    - книжку: book (accusative)
+    - листи: letters
+    - малюю: I draw
+    - малюємо: we draw
+    - ми: we
+    - мови: of the language
+    - музику: music (accusative)
+    - на: on, at
+    - одяг: clothes
+    - писати: to write
+    - пише: writes
+    - пісні: songs
+    - радіо: radio
+    - романи: novels
+    - серіал: series
+    - сидить: sits
+    - сидіти: to sit
+    - слухають: they listen
+    - співаю: I sing
+    - співає: sings
+    - танцюю: I dance
+    - ти: you (singular)
+    - тут: here
+    - футбол: football
+    - фільм: film, movie
+    - чи: if, whether
+    - читаю: I read
+    - читає: reads
+    - читаєш: you read
+    - шахи: chess
+    - шити: to sew
+    - шию: I sew
+    - шиє: sews
+    - шиєш: you sew
+    - щоденник: diary
+    - я: I
+    - і: and
+  English:
+    - a: jedin/один
+    - am: є
+    - and: і
+    - are: byti/быти
+    - book: книга
+    - chess: шахи
+    - clothes: одяг
+    - dance: танець
+    - diary: щоденник
+    - do: робити
+    - film: фільм
+    - football: футбол
+    - friends: друзі
+    - group: група
+    - guitar: гітара
+    - he: він
+    - here: тут
+    - i: я
+    - is: є
+    - language: мова
+    - learn: вчитися
+    - learning: навчання
+    - letters: листи
+    - listen: слухати
+    - listening: слухає
+    - lot: багато
+    - music: музика
+    - novels: романи
+    - paint: фарба
+    - painting: живопис
+    - picture: картина
+    - pictures: картини
+    - play: грати
+    - playing: грає
+    - radio: радіо
+    - read: читати
+    - reading: читання
+    - series: серія
+    - sew: шити
+    - sewing: шиття
+    - she: вона
+    - sing: співати
+    - singing: співає
+    - sit: сидіти
+    - sitting: сидить
+    - songs: пісні
+    - the: to
+    - they: вони
+    - to: до
+    - watch: дивитися
+    - watching: дивиться
+    - we: ми
+    - with: з
+    - write: писати
+    - writing: написання
+    - you: ви

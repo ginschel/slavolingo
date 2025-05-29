@@ -1,0 +1,172 @@
+Skill:
+  Name: Animals
+  Id: 14
+
+New words:
+  - Word: котъ
+    Translation: cat
+  - Word: пєсъ
+    Translation: dog
+  - Word: птица
+    Translation: bird
+  - Word: помагати
+    Translation: to help
+  - Word: казати (кажєтъ)
+    Translation: to show
+  - Word: конь
+    Translation: horse
+  - Word: дати (даѥтъ)
+    Translation: to give
+  - Word: рꙑба
+    Translation: fish
+  - Word: жаба
+    Translation: frog
+  - Word: мєдъвѣдь
+    Translation: bear
+  - Word: вълкъ
+    Translation: wolf
+  - Word: мꙑшь
+    Translation: mouse
+  - Word: звѣрь
+    Translation: animal
+
+Phrases:
+  - Phrase: Азъ дамъ котꙋ рꙑбѫ.
+    Translation: I give the cat a fish.
+  - Phrase: Она кажєтъ пьсꙋ.
+    Translation: She says to the dog.
+  - Phrase: Онъ помагаѥтъ птици.
+    Translation: He helps the bird.
+  - Phrase: Даѥмъ конѭ водѫ.
+    Translation: We give the horse water.
+  - Phrase: Она нєсєтъ мꙑши сꙑръ.
+    Translation: She carries cheese to the mouse.
+  - Phrase: Онъ помагаѥтъ мєдъвѣдꙋ.
+    Translation: He helps the bear.
+  - Phrase: Мꙑ даѥмъ жабѣ хлѣбъ.
+    Translation: We give bread to the frog.
+  - Phrase: Они даѭтъ звѣри рѫкѫ.
+    Translation: They give their hand to the animal.
+  - Phrase: Помагаѥмъ вълкꙋ.
+    Translation: We help the wolf.
+  - Phrase: Тꙑ даси мьнѣ рꙑбѫ?
+    Translation: Will you give me a fish?
+  - Phrase: Азъ дамъ котꙋ имѧ.
+    Translation: I give the cat a name.
+  - Phrase: Онъ даѥтъ мꙑши сꙑръ.
+    Translation: On da myši syr.
+  - Phrase: Мꙑ помагаѥмъ птицамъ.
+    Translation: We help the birds.
+  - Phrase: Даѥмъ жабѣ водѫ.
+    Translation: We give the frog water.
+  - Phrase: Они нєсѫтъ мєдъвѣдꙋ ѥдѫ.
+    Translation: They are carrying food to the bear.
+  - Phrase: Она даѥтъ пьсꙋ добро имѧ.
+    Translation: She gives the dog a good name.
+  - Phrase: Вꙑ даитє конѭ.
+    Translation: You will give the horse.
+  - Phrase: Азъ дамъ рꙑбѣ водѫ.
+    Translation: I give the fish water.
+  - Phrase: Она помогла ѥмꙋ съ звѣромъ.
+    Translation: She helped him with the animal.
+  - Phrase: Даси ли пьсꙋ вкꙋсьнѫ кость?
+    Translation: Will you give the dog a tasty bone?
+
+Mini-dictionary:
+  Church Slavonic:
+    - азъ: I
+    - вкꙋсьнѫ: tasty
+    - водѫ: water
+    - вълкꙋ: wolf
+    - вꙑ: you
+    - даитє: give
+    - дамъ: I will give
+    - даси: you will give
+    - дати: to give
+    - даѥмъ: we give
+    - даѥтъ: gives
+    - даѭтъ: they give
+    - добро: good
+    - жабѣ: frog
+    - звѣри: beasts
+    - звѣромъ: beast
+    - имѧ: name
+    - кажєтъ: says
+    - казати: to say
+    - конѭ: horse
+    - кость: bone
+    - котꙋ: cat
+    - ли: whether
+    - мьнѣ: to me
+    - мєдъвѣдꙋ: bear
+    - мꙑ: we
+    - мꙑши: mouse
+    - нєсєтъ: carries
+    - нєсѫтъ: they carry
+    - она: she
+    - они: they
+    - онъ: he
+    - помагаѥмъ: we help
+    - помагаѥтъ: helps
+    - помогла: helped
+    - птицамъ: birds
+    - птици: birds
+    - пьсꙋ: dog
+    - рѫкѫ: hand
+    - рꙑбѣ: fish
+    - рꙑбѫ: fish
+    - съ: with
+    - сꙑръ: cheese
+    - тꙑ: you
+    - хлѣбъ: bread
+    - ѥдѫ: I eat
+    - ѥмꙋ: him
+  English:
+    - a: jedin/один
+    - animal: животъ
+    - are: byti/быти
+    - bear: медвѣдь
+    - bird: птица
+    - birds: птицы
+    - bone: кость
+    - bread: хлѣбъ
+    - carries: носитъ
+    - carrying: носѧщи
+    - cat: котка
+    - cheese: сыръ
+    - da: да
+    - dog: пьсъ
+    - fish: рыба
+    - food: пища
+    - frog: жаба
+    - give: дати
+    - gives: даѥтъ
+    - good: добръ
+    - hand: рꙋка
+    - he: онъ
+    - help: помози
+    - helped: помоглъ
+    - helps: помогꙋѭтъ
+    - him: ємꙋ
+    - horse: конь
+    - i: азъ
+    - me: мѧ
+    - mouse: мышь
+    - myši: мыши
+    - name: имѧ
+    - on: на
+    - says: гл҃аѥтъ
+    - she: она
+    - show: показати
+    - syr: сыръ
+    - tasty: вкꙋсьнъ
+    - the: to
+    - their: ихъ
+    - they: они
+    - to: къ
+    - water: вода
+    - we: мы
+    - will: бꙋдєтъ
+    - with: съ
+    - wolf: влькъ
+    - you: ты

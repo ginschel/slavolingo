@@ -1,0 +1,183 @@
+Skill:
+  Name: Food
+  Id: 6
+
+New words:
+  - Word: chlěb
+    Translation: bread
+  - Word: warić
+    Translation: to prepare
+  - Word: njesć
+    Translation: to carry
+  - Word: jěsć (jě)
+    Translation: to eat
+  - Word: masło
+    Translation: butter
+  - Word: mloko
+    Translation: milk
+  - Word: mjaso
+    Translation: meat
+  - Word: jejo
+    Translation: egg
+  - Word: snědanje
+    Translation: breakfast
+  - Word: wobjed
+    Translation: lunch
+  - Word: kupić
+    Translation: to buy
+  - Word: wječerja
+    Translation: dinner
+  - Word: jědź
+    Translation: dish
+  - Word: kniha
+    Translation: book
+  - Word: słódki
+    Translation: sweet
+  - Word: jědź
+    Translation: food
+
+Phrases:
+  - Phrase: Ja jem chlěb.
+    Translation: I am eating bread.
+  - Phrase: Wona jě mjaso.
+    Translation: She is eating meat.
+  - Phrase: Wón lubi mloko.
+    Translation: He likes milk.
+  - Phrase: Ja widźu Wlada z jědźu
+    Translation: I see Vlad with food
+  - Phrase: Ty jěš jejo?
+    Translation: Are you eating an egg?
+  - Phrase: My jemy wječerju.
+    Translation: We are eating dinner.
+  - Phrase: Woni maja snědanje.
+    Translation: They are having breakfast.
+  - Phrase: Ja kupim masło.
+    Translation: I will buy butter.
+  - Phrase: Wón wari wobjed.
+    Translation: He is preparing lunch.
+  - Phrase: Wona njesy jědź.
+    Translation: She is carrying a dish.
+  - Phrase: Woni kupuja masło a chlěb.
+    Translation: They are buying butter and bread.
+  - Phrase: Wón pije mloko a jě mjaso.
+    Translation: He is drinking milk and eating meat.
+  - Phrase: Čitaš ty knihu a jěš snědanje?
+    Translation: Are you reading a book and eating breakfast?
+  - Phrase: Ja widźu wobjed na stole.
+    Translation: I see lunch on the table.
+  - Phrase: Ty maš masło?
+    Translation: Do you have butter?
+  - Phrase: My warimy wječerju kóždy dźeń.
+    Translation: We prepare dinner every day.
+  - Phrase: Ja wěm, štož ty lubiš jejo.
+    Translation: I know that you like eggs.
+  - Phrase: Wón jě słódku jědź.
+    Translation: He eats sweet food.
+  - Phrase: Wona lubi warić wječerju.
+    Translation: She likes to prepare dinner.
+  - Phrase: My widźimy twoju picu na stole.
+    Translation: We see your pizza on the table.
+  - Phrase: Woni wědźa, štož ja přeco jem chlěb z masłom.
+    Translation: They know that I always eat bread with butter.
+
+Mini-dictionary:
+  Upper Sorbian:
+    - a: and
+    - dźeń: day
+    - ja: i
+    - jem: i eat
+    - jemy: we eat
+    - jě: eats
+    - jědźu: i eat
+    - jěsć: to eat
+    - jěš: you eat
+    - knihu: book
+    - kupim: i will buy
+    - kupuja: they buy
+    - kóždy: every
+    - lubi: loves
+    - lubiš: you love
+    - maja: they have
+    - masłom: butter
+    - maš: you have
+    - my: we
+    - na: on
+    - njesy: you do not carry
+    - picu: pizza
+    - pije: drinks
+    - přeco: always
+    - stole: table
+    - słódku: sweet
+    - twoju: your
+    - ty: you
+    - wari: cooks
+    - warimy: we cook
+    - widźimy: we see
+    - widźu: i see
+    - wječerju: dinner
+    - wlada: rules
+    - wona: she
+    - woni: they
+    - wón: he
+    - wědźa: they know
+    - wěm: i know
+    - z: with
+    - čitaš: you read
+    - štož: what
+  English:
+    - a: jedin/один
+    - always: přeco
+    - am: sym
+    - an: jedyn
+    - and: a
+    - are: byti/быти
+    - book: kniha
+    - bread: chlěb
+    - breakfast: snědanje
+    - butter: masło
+    - buy: kupić
+    - buying: kupuje
+    - carry: nosyć
+    - carrying: nosym
+    - day: dźeń
+    - dinner: wječerja
+    - dish: jědź
+    - do: činić
+    - drinking: pije
+    - eat: jěsć
+    - eating: jě
+    - eats: jědźe
+    - egg: jejko
+    - eggs: jejka
+    - every: kóždy
+    - food: jědź
+    - have: měć
+    - having: ma
+    - he: wón
+    - i: ja
+    - is: je
+    - know: wědźeć
+    - like: lubić
+    - likes: lubi
+    - lunch: wobjed
+    - meat: mjaso
+    - milk: mloko
+    - on: na
+    - pizza: picu
+    - prepare: přihotować
+    - preparing: přihotuje
+    - reading: čita
+    - see: widźeć
+    - she: wona
+    - sweet: słódki
+    - table: stół
+    - that: to
+    - the: to
+    - they: woni
+    - to: k
+    - vlad: wład
+    - we: my
+    - will: budu
+    - with: z
+    - you: ty
+    - your: twój

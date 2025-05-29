@@ -1,0 +1,226 @@
+Skill:
+  Name: Physical Appearance
+  Id: 38
+
+New words:
+  - Word: высокі
+    Translation: tall
+  - Word: нізкі
+    Translation: short
+  - Word: тоўсты
+    Translation: fat
+  - Word: худы
+    Translation: thin
+  - Word: малы
+    Translation: small
+  - Word: прыгожы
+    Translation: beautiful
+  - Word: брыдкі
+    Translation: ugly
+  - Word: стары
+    Translation: old
+  - Word: малады
+    Translation: young
+  - Word: валасы
+    Translation: hair
+  - Word: вочы
+    Translation: eyes
+  - Word: чым
+    Translation: than
+  - Word: вышэй
+    Translation: taller/higher
+  - Word: скура
+    Translation: skin
+  - Word: менш
+    Translation: less
+  - Word: смяяцца (смяецца)
+    Translation: to laugh
+  - Word: блішчаць
+    Translation: to shine
+  - Word: зорка
+    Translation: star
+  - Word: светлы
+    Translation: light
+  - Word: цёмны
+    Translation: dark
+
+Phrases:
+  - Phrase: Ён ёсць вышэй высокі і моцны, чым ён.
+    Translation: He is taller and stronger than he is.
+  - Phrase: Яна ёсць нізкая і худая, як ён.
+    Translation: She is shorter and thinner like him.
+  - Phrase: Тоўсты мужчына ідзе па вуліцы.
+    Translation: The fat man is walking down the street.
+  - Phrase: Худы мае менш цялеснага масы, чым тоўсты.
+    Translation: The thin person has less body mass than the fat one.
+  - Phrase: Гэта ёсць вышэй прыгожы чалавек, чым той.
+    Translation: He is a more beautiful person than that one.
+  - Phrase: Старыя людзі ёсць вышэй мудрыя, чым мы.
+    Translation: Old people are wiser than us.
+  - Phrase: Малады мае шмат энергіі.
+    Translation: The young one has a lot of energy.
+  - Phrase: Яго валасы ёсць светлыя.
+    Translation: His hair is blonde.
+  - Phrase: Вочы ёсць вышэй зялёныя, чым у яго.
+    Translation: Her eyes are greener than his.
+  - Phrase: Скура яго ёсць белая.
+    Translation: His skin is white.
+  - Phrase: Ён мае доўгія валасы.
+    Translation: He has long hair.
+  - Phrase: Яна мае зялёныя вочы.
+    Translation: She has green eyes.
+  - Phrase: Скура ёсць гладкая.
+    Translation: Her skin is smooth.
+  - Phrase: Старая жанчына носіць шапку.
+    Translation: The old woman wears a hat.
+  - Phrase: Маладыя людзі часта займаюцца спортам.
+    Translation: Young people often play sports.
+  - Phrase: Тоўсты мужчына смяецца вышэй, чым той брыдкі мужчына.
+    Translation: The fat man laughs louder than that ugly man.
+  - Phrase: Нізкая дзяўчына ідзе дадому.
+    Translation: The short girl is going home.
+  - Phrase: Прыгожыя вочы блішчаць, як зоркі на небе.
+    Translation: Beautiful eyes shine like stars in the sky.
+  - Phrase: Худы носіць вышэй вялікую кашулю, чым я.
+    Translation: The thin one wears a larger shirt than I do.
+  - Phrase: Яе валасы ёсць светлыя і доўгія.
+    Translation: Her hair is light and long.
+  - Phrase: А яго прыгожыя валасы ёсць цёмныя, як ноч.
+    Translation: And his beautiful hair is as dark as the night.
+
+Mini-dictionary:
+  Belarusian:
+    - а: a
+    - белая: white
+    - вуліцы: street
+    - вялікую: big
+    - гладкая: smooth
+    - гэта: this
+    - дадому: home
+    - дзяўчына: girl
+    - доўгія: long
+    - жанчына: woman
+    - займаюцца: work
+    - зоркі: stars
+    - зялёныя: green
+    - кашулю: shirt
+    - людзі: people
+    - мае: has
+    - маладыя: young
+    - масы: mass
+    - моцны: strong
+    - мудрыя: wise
+    - мужчына: man
+    - мы: we
+    - на: on
+    - небе: sky
+    - носіць: wears
+    - ноч: night
+    - нізкая: low
+    - па: by
+    - прыгожыя: beautiful
+    - светлыя: light
+    - смяецца: laughs
+    - смяяцца: laugh
+    - спортам: sport
+    - старая: old
+    - старыя: old
+    - той: that
+    - у: in
+    - худая: thin
+    - цялеснага: body
+    - цёмныя: dark
+    - чалавек: person
+    - часта: often
+    - шапку: hat
+    - шмат: much
+    - энергіі: energy
+    - я: i
+    - яго: him
+    - яе: her
+    - як: as
+    - яна: she
+    - ён: he
+    - ёсць: is
+    - і: and
+    - ідзе: goes
+  English:
+    - a: jedin/один
+    - and: і
+    - are: byti/быти
+    - as: як
+    - beautiful: прыгожы
+    - blonde: бландзінка
+    - body: цела
+    - dark: цёмны
+    - do: рабіць
+    - down: уніз
+    - energy: энергія
+    - eyes: вочы
+    - fat: тоўсты
+    - girl: дзяўчынка
+    - going: ідзе
+    - green: зялёны
+    - greener: зелянейшы
+    - hair: валасы
+    - has: мае
+    - hat: капялюш
+    - he: ён
+    - her: яе
+    - him: яго
+    - his: яго
+    - home: дом
+    - i: я
+    - in: у
+    - is: ёсць
+    - larger: большы
+    - laugh: смяяцца
+    - laughs: смяецца
+    - less: менш
+    - light: святло
+    - like: падабацца
+    - long: доўгі
+    - lot: шмат
+    - louder: гучней
+    - man: мужчына
+    - mass: маса
+    - more: больш
+    - night: ноч
+    - of: з
+    - often: часта
+    - old: стары
+    - one: адзін
+    - people: людзі
+    - person: чалавек
+    - play: гуляць
+    - she: яна
+    - shine: свяціць
+    - shirt: кашуля
+    - short: кароткі
+    - shorter: карацейшы
+    - skin: скура
+    - sky: неба
+    - small: маленькі
+    - smooth: гладкі
+    - sports: спорт
+    - star: зорка
+    - stars: зоркі
+    - street: вуліца
+    - stronger: мацнейшы
+    - tall: высокі
+    - taller: вышэйшы
+    - taller/higher: вышэйшы/вышэй
+    - than: чым
+    - that: што
+    - the: to
+    - thin: тонкі
+    - thinner: танчэйшы
+    - to: да
+    - ugly: непрыгожы
+    - us: нас
+    - walking: ходзіць
+    - wears: носіць
+    - white: белы
+    - wiser: мудрэйшы
+    - woman: жанчына
+    - young: малады

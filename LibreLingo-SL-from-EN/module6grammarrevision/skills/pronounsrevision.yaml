@@ -1,0 +1,200 @@
+Skill:
+  Name: Pronouns revision
+  Id: 20
+
+New words:
+  - Word: "vedeti"
+    Translation: to know
+  - Word: "vedeti (ve)"
+    Translation: to know
+  - Word: "sanje"
+    Translation: dream
+  - Word: "stvar"
+    Translation: thing
+
+Phrases:
+  - Phrase: Tega ne vem.
+    Translation: I don't know that.
+  - Phrase: O tem že dolgo ve.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Koga ti vidiš?.
+    Translation: Who do you see?.
+  - Phrase: Tistim, ki ležijo spat, mirne sanje.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: O tej stvari jaz nič ne vem.
+    Translation: I know nothing about that thing.
+  - Phrase: Govorim s teboj.
+    Translation: I am talking with you.
+  - Phrase: Jaz vidim vas.
+    Translation: I see you.
+  - Phrase: On rad biti sam s seboj.
+    Translation: He likes to be alone with himself.
+  - Phrase: Daj mi vodo.
+    Translation: Give me water.
+  - Phrase: Z nami je vedno vse veselo.
+    Translation: With us everything is always cheerful.
+  - Phrase: Mene ne vidiš.
+    Translation: You don't see me.
+  - Phrase: Komu boš dal darilo?
+    Translation: Who do you give a gift to?
+  - Phrase: O meni govoriš?
+    Translation: Are you talking about me?
+  - Phrase: Ne, jaz ne govorim o tebi.
+    Translation: No, I don't talt about you.
+  - Phrase: O čem ti govoriš?
+    Translation: What are you talking about?
+  - Phrase: Te ženske so lepe.
+    Translation: These women are beautiful.
+  - Phrase: Teh prijateljev nimaš.
+    Translation: You do not have those friends.
+  - Phrase: On daje sebi mir.
+    Translation: He stops troubling others.
+  - Phrase: Česa tu ni v hiši?
+    Translation: What isn't at this house here?
+  - Phrase: Temu psu ti daješ kosti.
+    Translation: You give to this dog bones.
+  - Phrase: To je vaša kava ali njena?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Slovenian:
+    - ali: or
+    - biti: to be
+    - boš: you will
+    - daj: give
+    - daje: gives
+    - daješ: you give
+    - dal: gave
+    - darilo: gift
+    - dolgo: long
+    - govorim: I speak
+    - govoriš: you speak
+    - hiši: house
+    - jaz: I
+    - je: is
+    - kava: coffee
+    - ki: who / which
+    - koga: whom
+    - komu: to whom
+    - kosti: bones
+    - lepe: beautiful
+    - ležijo: lie
+    - mene: me
+    - meni: me / thinks
+    - mi: we
+    - mir: peace
+    - mirne: peaceful
+    - nami: us
+    - ne: no
+    - ni: is not
+    - nimaš: you do not have
+    - nič: nothing
+    - njena: her
+    - o: about
+    - on: he
+    - prijateljev: friends
+    - psu: dog
+    - rad: gladly / like
+    - s: with
+    - sam: alone / self
+    - sanje: dreams
+    - sebi: oneself
+    - seboj: oneself
+    - so: they are
+    - spat: to sleep
+    - stvar: thing
+    - stvari: things
+    - te: you (accusative)
+    - tebi: you (dative)
+    - teboj: you (instrumental)
+    - tega: this
+    - teh: these
+    - tej: this
+    - tem: this
+    - temu: this
+    - ti: you (singular informal)
+    - tistim: those
+    - to: this
+    - tu: here
+    - v: in
+    - vas: you (plural)
+    - vaša: your (plural)
+    - ve: knows
+    - vedeti: to know
+    - vedno: always
+    - vem: I know
+    - veselo: happily
+    - vidim: I see
+    - vidiš: you see
+    - vodo: water
+    - vse: all
+    - z: with
+    - čem: what (locative)
+    - česa: what (genitive)
+    - že: already
+    - ženske: women
+  English:
+    - a: jedin/один
+    - about: o
+    - alone: sam
+    - always: vedno
+    - am: sem
+    - are: byti/быти
+    - at: pri
+    - be: biti
+    - beautiful: lep
+    - bones: kosti
+    - cheerful: vesel
+    - coffee: kava
+    - do: delati
+    - dog: pes
+    - don't: nimam
+    - dream: sanje
+    - everything: vse
+    - for: za
+    - friends: prijatelji
+    - gift: darilo
+    - give: dati
+    - going: gremo
+    - have: imam
+    - he: on
+    - her: njen
+    - here: tukaj
+    - himself: se
+    - house: hiša
+    - i: jaz
+    - is: je
+    - isn't: ni
+    - it: ono
+    - know: vedeti
+    - known: znan
+    - likes: ima rad
+    - long: dolg
+    - me: me
+    - no: ne
+    - not: ne
+    - nothing: nič
+    - or: ali
+    - others: drugi
+    - peaceful: mirne
+    - see: videti
+    - sleep: spati
+    - stops: ustavi
+    - talking: govori
+    - talt: visok
+    - that: da
+    - these: te
+    - thing: stvar
+    - this: ta
+    - those: tisti
+    - time: čas
+    - to: do
+    - troubling: težavno
+    - us: nas
+    - water: voda
+    - what: kaj
+    - who: kdo
+    - with: z
+    - women: ženske
+    - you: ti
+    - your: tvoj

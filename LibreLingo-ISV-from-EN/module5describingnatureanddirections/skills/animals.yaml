@@ -1,0 +1,172 @@
+Skill:
+  Name: Animals
+  Id: 14
+
+New words:
+  - Word: kot
+    Translation: cat
+  - Word: pes
+    Translation: dog
+  - Word: ptica
+    Translation: bird
+  - Word: pomagati
+    Translation: to help
+  - Word: kazati (kaže)
+    Translation: to show
+  - Word: konj
+    Translation: horse
+  - Word: dati (da)
+    Translation: to give
+  - Word: ryba
+    Translation: fish
+  - Word: žaba
+    Translation: frog
+  - Word: medvěd
+    Translation: bear
+  - Word: volk
+    Translation: wolf
+  - Word: myš
+    Translation: mouse
+  - Word: zvěr
+    Translation: animal
+
+Phrases:
+  - Phrase: Ja dam kotu rybu.
+    Translation: I give the cat a fish.
+  - Phrase: Ona kaže psu.
+    Translation: She says to the dog.
+  - Phrase: On pomaga ptici.
+    Translation: He helps the bird.
+  - Phrase: Dajemo konju vodu.
+    Translation: We give the horse water.
+  - Phrase: Ona nese myši syr.
+    Translation: She carries cheese to the mouse.
+  - Phrase: On pomaga medvědu.
+    Translation: He helps the bear.
+  - Phrase: My dajemo žabě hlěb.
+    Translation: We give bread to the frog.
+  - Phrase: Oni dajut zvěri ruku.
+    Translation: They give their hand to the animal.
+  - Phrase: Pomagamo volku.
+    Translation: We help the wolf.
+  - Phrase: Ty daš mně rybu?
+    Translation: Will you give me a fish?
+  - Phrase: Ja dam kotu ime.
+    Translation: I give the cat a name.
+  - Phrase: On da myši syr.
+    Translation: On da myši syr.
+  - Phrase: My pomagamo pticam.
+    Translation: We help the birds.
+  - Phrase: Dajemo žabě vodu.
+    Translation: We give the frog water.
+  - Phrase: Oni nesut medvědu jedu.
+    Translation: They are carrying food to the bear.
+  - Phrase: Ona da psu dobro ime.
+    Translation: She gives the dog a good name.
+  - Phrase: Vy date konju.
+    Translation: You will give the horse.
+  - Phrase: Ja dam rybě vodu.
+    Translation: I give the fish water.
+  - Phrase: Ona pomogla jemu s zvěrom.
+    Translation: She helped him with the animal.
+  - Phrase: Daš li psu vkusnu kost?
+    Translation: Will you give the dog a tasty bone?
+
+Mini-dictionary:
+  Interslavic:
+    - da: yes
+    - dajemo: we give
+    - dajut: they give
+    - dam: i will give
+    - date: you will give
+    - dati: to give
+    - daš: you will give
+    - dobro: good
+    - hlěb: bread
+    - ime: name
+    - ja: i
+    - jedu: i eat
+    - jemu: to him
+    - kazati: to show
+    - kaže: says
+    - konju: horse
+    - kost: bone
+    - kotu: cat
+    - li: whether
+    - medvědu: bear
+    - mně: me
+    - my: we
+    - myši: mouse
+    - nese: carries
+    - nesut: they carry
+    - on: he
+    - ona: she
+    - oni: they
+    - pomaga: helps
+    - pomagamo: we help
+    - pomogla: helped
+    - psu: dog
+    - pticam: birds
+    - ptici: birds
+    - ruku: hand
+    - rybu: fish
+    - rybě: fish
+    - s: with
+    - syr: cheese
+    - ty: you
+    - vkusnu: tasty
+    - vodu: water
+    - volku: wolf
+    - vy: you
+    - zvěri: animals
+    - zvěrom: animal
+    - žabě: frog
+  English:
+    - a: jedin/один
+    - animal: zvěr
+    - are: byti/быти
+    - bear: medvěd
+    - bird: ptica
+    - birds: ptici
+    - bone: kost
+    - bread: hlěb
+    - carries: nese
+    - carrying: nosim
+    - cat: kot
+    - cheese: syr
+    - da: da
+    - dog: pes
+    - fish: ryba
+    - food: jedy
+    - frog: žaba
+    - give: dati
+    - gives: daje
+    - good: dobry
+    - hand: ruka
+    - he: on
+    - help: pomagati
+    - helped: pomogla
+    - helps: pomaga
+    - him: njego
+    - horse: konj
+    - i: ja
+    - me: mene
+    - mouse: myš
+    - myši: myši
+    - name: ime
+    - on: na
+    - says: kaže
+    - she: ona
+    - show: pokazati
+    - syr: syr
+    - tasty: vkusny
+    - the: to
+    - their: ih
+    - they: oni
+    - to: do
+    - water: voda
+    - we: my
+    - will: bude
+    - with: s
+    - wolf: volk
+    - you: ty

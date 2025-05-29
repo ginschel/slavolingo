@@ -1,0 +1,184 @@
+Skill:
+  Name: Food
+  Id: 6
+
+New words:
+  - Word: chleb
+    Translation: bread
+  - Word: gotować
+    Translation: to prepare
+  - Word: nieść
+    Translation: to carry
+  - Word: jeść (je)
+    Translation: to eat
+  - Word: masło
+    Translation: butter
+  - Word: mleko
+    Translation: milk
+  - Word: mięso
+    Translation: meat
+  - Word: jajko
+    Translation: egg
+  - Word: śniadanie
+    Translation: breakfast
+  - Word: obiad
+    Translation: lunch
+  - Word: kupić
+    Translation: to buy
+  - Word: kolacja
+    Translation: dinner
+  - Word: danie
+    Translation: dish
+  - Word: książka
+    Translation: book
+  - Word: słodki
+    Translation: sweet
+  - Word: jedzenie
+    Translation: food
+
+Phrases:
+  - Phrase: Ja jem chleb.
+    Translation: I am eating bread.
+  - Phrase: Ona je mięso.
+    Translation: She is eating meat.
+  - Phrase: On lubi mleko.
+    Translation: He likes milk.
+  - Phrase: Widzę Vlada z jedzeniem
+    Translation: I see Vlad with food
+  - Phrase: Ty jesz jajko?
+    Translation: Are you eating an egg?
+  - Phrase: My jemy kolację.
+    Translation: We are eating dinner.
+  - Phrase: Oni mają śniadanie.
+    Translation: They are having breakfast.
+  - Phrase: Ja kupię masło.
+    Translation: I will buy butter.
+  - Phrase: On gotuje obiad.
+    Translation: He is preparing lunch.
+  - Phrase: Ona niesie danie.
+    Translation: She is carrying a dish.
+  - Phrase: Oni kupują masło i chleb.
+    Translation: They are buying butter and bread.
+  - Phrase: On pije mleko i je mięso.
+    Translation: He is drinking milk and eating meat.
+  - Phrase: Czy czytasz książkę i jesz śniadanie?
+    Translation: Are you reading a book and eating breakfast?
+  - Phrase: Widzę obiad na stole.
+    Translation: I see lunch on the table.
+  - Phrase: Ty masz masło?
+    Translation: Do you have butter?
+  - Phrase: My gotujemy kolację codziennie.
+    Translation: We prepare dinner every day.
+  - Phrase: Ja wiem, że ty lubisz jajka.
+    Translation: I know that you like eggs.
+  - Phrase: On je słodkie jedzenie.
+    Translation: He eats sweet food.
+  - Phrase: Ona lubi gotować kolację.
+    Translation: She likes to prepare dinner.
+  - Phrase: Widzimy twoją pizzę na stole.
+    Translation: We see your pizza on the table.
+  - Phrase: Oni wiedzą, że ja zawsze jem chleb z masłem.
+    Translation: They know that I always eat bread with butter.
+
+Mini-dictionary:
+  Polish:
+    - codziennie: daily
+    - czy: whether
+    - czytasz: you read
+    - gotuje: cooks
+    - gotujemy: we cook
+    - i: and
+    - ja: I
+    - jajka: eggs
+    - je: them
+    - jedzeniem: food
+    - jem: I eat
+    - jemy: we eat
+    - jesz: you eat
+    - jeść: eat
+    - kolację: supper
+    - książkę: book
+    - kupię: I will buy
+    - kupują: they buy
+    - lubi: likes
+    - lubisz: you like
+    - mają: they have
+    - masz: you have
+    - masłem: butter
+    - my: we
+    - na: on
+    - niesie: carries
+    - on: he
+    - ona: she
+    - oni: they
+    - pije: drinks
+    - pizzę: pizza
+    - stole: table
+    - słodkie: sweet
+    - twoją: your
+    - ty: you
+    - vlada: Vlada
+    - widzimy: we see
+    - widzę: I see
+    - wiedzą: they know
+    - wiem: I know
+    - z: with
+    - zawsze: always
+    - że: that
+  English:
+    - a: jedin/один
+    - always: zawsze
+    - am: jestem
+    - an: pewien
+    - and: i
+    - are: byti/быти
+    - book: książka
+    - bread: chleb
+    - breakfast: śniadanie
+    - butter: masło
+    - buy: kupić
+    - buying: kupowanie
+    - carry: nieść
+    - carrying: noszenie
+    - day: dzień
+    - dinner: obiad
+    - dish: danie
+    - do: robić
+    - drinking: picie
+    - eat: jeść
+    - eating: jedzenie
+    - eats: je
+    - egg: jajko
+    - eggs: jajka
+    - every: każdy
+    - food: jedzenie
+    - have: mieć
+    - having: mając
+    - he: on
+    - i: ja
+    - is: jest
+    - know: znać
+    - like: lubić
+    - likes: lubi
+    - lunch: obiad
+    - meat: mięso
+    - milk: mleko
+    - on: na
+    - pizza: pizza
+    - prepare: przygotować
+    - preparing: przygotowywanie
+    - reading: czytanie
+    - see: widzieć
+    - she: ona
+    - sweet: słodki
+    - table: stół
+    - that: że
+    - the: to
+    - they: oni
+    - to: do
+    - vlad: Włada
+    - we: my
+    - will: będzie
+    - with: z
+    - you: ty
+    - your: twój

@@ -1,0 +1,197 @@
+Skill:
+  Name: Cases revision
+  Id: 19
+
+New words:
+  - Word: "резать (режет)"
+    Translation: to cut
+  - Word: "дар"
+    Translation: gift
+  - Word: "вселенная"
+    Translation: universe
+  - Word: "зеркало"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Кости тут нет.
+    Translation: There is no bone here.
+  - Phrase: Дам жене.
+    Translation: I give to the woman.
+  - Phrase: Она есть в городе.
+    Translation: She is in the city.
+  - Phrase: Говорим с приятелями.
+    Translation: I talk with friends.
+  - Phrase: Имени он не имеет.
+    Translation: He has no name.
+  - Phrase: Ты души не имеешь?!
+    Translation: You don't have a soul?!
+  - Phrase: Он видит свою жену.
+    Translation: He sees his wife.
+  - Phrase: Брата тут нет.
+    Translation: There is no brother here.
+  - Phrase: Это можно резать ножом.
+    Translation: This can be cut with a knife.
+  - Phrase: Она с мужем говорит.
+    Translation: She talks with her husband.
+  - Phrase: Она говорит о братах.
+    Translation: She talks about brothers.
+  - Phrase: Она даёт дар братам.
+    Translation: She gives a gift to the brothers.
+  - Phrase: На поле много работаем.
+    Translation: I work a lot in the field.
+  - Phrase: Есть много солнц во вселенной.
+    Translation: There are many suns in the universe.
+  - Phrase: И тоже есть много звёзд.
+    Translation: And there are also many stars.
+  - Phrase: Он любит говорить с своею женою.
+    Translation: He likes to talk with his wife.
+  - Phrase: Уже нет бананов в доме.
+    Translation: There are no more bananas in the house.
+  - Phrase: В очах вижу душу твою.
+    Translation: In the eyes I see your soul.
+  - Phrase: Очи суть зеркалом души.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Мужчин тут не вижу.
+    Translation: I do not see men here.
+  - Phrase: В городах увидишь много людей.
+    Translation: In the cities you will see many people.
+  - Phrase: Спокойной ночи!
+    Translation: Good night!
+
+Mini-dictionary:
+  Russian:
+    - бананов: bananas
+    - брата: brother
+    - братам: brothers
+    - братах: brothers
+    - в: in
+    - видит: sees
+    - вижу: see
+    - во: in
+    - вселенная: universe
+    - вселенной: universe
+    - говорим: talk
+    - говорит: says
+    - говорить: speak
+    - городах: cities
+    - городе: city
+    - дам: give
+    - дар: gift
+    - даёт: gives
+    - доме: home
+    - души: soul
+    - душу: soul
+    - есть: is
+    - жене: woman
+    - женою: woman
+    - жену: woman
+    - звёзд: stars
+    - зеркало: mirror
+    - зеркалом: mirror
+    - и: and
+    - имеет: has
+    - имеешь: have
+    - имени: name
+    - кости: bones
+    - любит: loves
+    - людей: people
+    - много: many
+    - можно: possible
+    - мужем: man
+    - мужчин: men
+    - на: on
+    - не: no
+    - нет: no
+    - ножом: knife
+    - ночи: night
+    - о: about
+    - он: he
+    - она: she
+    - очах: eyes
+    - очи: eyes
+    - поле: field
+    - приятелями: friends
+    - работаем: work
+    - режет: cuts
+    - резать: cut
+    - с: with
+    - своею: his/her/its own
+    - свою: his/her/its own
+    - солнц: suns
+    - спокойной: peaceful
+    - суть: are
+    - твою: your
+    - тоже: also
+    - тут: here
+    - ты: you
+    - увидишь: see
+    - уже: already
+    - это: it
+  English:
+    - a: jedin/один
+    - about: о
+    - also: также
+    - and: и
+    - are: byti/быти
+    - bananas: бананы
+    - be: быть
+    - bone: кость
+    - brother: брат
+    - brothers: братья
+    - can: может
+    - cities: города
+    - city: город
+    - cut: резать
+    - do: делать
+    - don't: не
+    - eyes: глаза
+    - field: поле
+    - friends: друзья
+    - gift: подарок
+    - give: давать
+    - gives: дает
+    - good: хороший
+    - has: имеет
+    - have: иметь
+    - he: он
+    - her: ее
+    - here: здесь
+    - his: его
+    - house: дом
+    - husband: муж
+    - i: я
+    - in: в
+    - is: есть
+    - knife: нож
+    - likes: нравится
+    - lot: много
+    - many: много
+    - men: мужчины
+    - mirror: зеркало
+    - more: больше
+    - name: имя
+    - night: ночь
+    - no: нет
+    - not: не
+    - of: из
+    - people: люди
+    - see: видеть
+    - sees: видит
+    - she: она
+    - soul: душа
+    - stars: звезды
+    - suns: солнца
+    - talk: говорить
+    - talks: говорит
+    - the: to
+    - there: там
+    - this: это
+    - to: к
+    - universe: вселенная
+    - wife: жена
+    - will: будет
+    - with: с
+    - woman: женщина
+    - work: работа
+    - you: ты
+    - your: твой

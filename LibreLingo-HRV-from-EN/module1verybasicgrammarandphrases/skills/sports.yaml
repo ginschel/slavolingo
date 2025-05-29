@@ -1,0 +1,169 @@
+Skill:
+  Name: Sports
+  Id: 5
+
+New words:
+  - Word: nogomet
+    Translation: football
+  - Word: košarka
+    Translation: basketball
+  - Word: tenis
+    Translation: tennis
+  - Word: plivanje
+    Translation: swimming
+  - Word: plivati
+    Translation: to swim
+  - Word: trčanje
+    Translation: running
+  - Word: trčati
+    Translation: to run
+  - Word: ujutro
+    Translation: in the morning
+  - Word: voljeti/sviđati se
+    Translation: to love/like
+  - Word: hokej
+    Translation: hockey
+  - Word: sport
+    Translation: sport
+  - Word: igra
+    Translation: game
+  - Word: trenirati
+    Translation: to train
+  - Word: stadion
+    Translation: stadium
+  - Word: brzo
+    Translation: fast
+  - Word: težak
+    Translation: difficult
+
+Phrases:
+  - Phrase: Igram nogomet.
+    Translation: I play football.
+  - Phrase: Ona igra košarku.
+    Translation: She plays basketball.
+  - Phrase: On igra tenis.
+    Translation: He plays tennis.
+  - Phrase: Mi plivamo u rijeci.
+    Translation: We swim in the river.
+  - Phrase: Oni trče ujutro.
+    Translation: They run in the morning.
+  - Phrase: On trenira svaki dan.
+    Translation: He trains every day.
+  - Phrase: Sport je važan.
+    Translation: Sport is important.
+  - Phrase: Ona igra na stadionu.
+    Translation: She plays at the stadium.
+  - Phrase: Treba trenirati.
+    Translation: It is necessary to train.
+  - Phrase: Oni vole sport.
+    Translation: They love sport.
+  - Phrase: Ja ne igram hokej.
+    Translation: I do not play hockey.
+  - Phrase: Stadion je u gradu.
+    Translation: The stadium is in the city.
+  - Phrase: Košarka je zanimljiv sport.
+    Translation: Basketball is an interesting sport.
+  - Phrase: Plivanje je dobro za zdravlje.
+    Translation: Swimming is good for health.
+  - Phrase: Tko igra tenis?
+    Translation: Who plays tennis?
+  - Phrase: On trči brzo.
+    Translation: He runs fast.
+  - Phrase: Mi plivamo često.
+    Translation: We swim often.
+  - Phrase: On trenira s prijateljem.
+    Translation: He trains with a friend.
+  - Phrase: Ja igram s braćom.
+    Translation: I play with my brothers.
+  - Phrase: Hokej je težak.
+    Translation: Hockey is difficult.
+
+Mini-dictionary:
+  Croatian:
+    - braćom: brothers
+    - dan: day
+    - dobro: good
+    - gradu: city
+    - igram: I play
+    - ja: I
+    - je: is
+    - košarku: basketball
+    - mi: we
+    - na: on
+    - ne: no
+    - on: he
+    - ona: she
+    - oni: they
+    - plivamo: we swim
+    - prijateljem: friend
+    - rijeci: river
+    - s: with
+    - se: oneself
+    - stadionu: stadium
+    - svaki: every
+    - tko: who
+    - treba: needs
+    - trenira: trains
+    - trče: they run
+    - trči: runs
+    - u: in
+    - važan: important
+    - vole: they love
+    - voljeti/sviđati: to love/to like
+    - za: for
+    - zanimljiv: interesting
+    - zdravlje: health
+    - često: often
+  English:
+    - a: jedin/один
+    - an: an
+    - at: kod
+    - basketball: košarka
+    - brothers: braća
+    - city: grad
+    - day: dan
+    - difficult: teško
+    - do: činiti/raditi
+    - every: svaki
+    - fast: brz
+    - football: nogomet
+    - for: za
+    - friend: prijatelj
+    - game: igra
+    - good: dobar
+    - he: on
+    - health: zdravlje
+    - hockey: hokej
+    - i: ja
+    - important: važan
+    - in: u
+    - interesting: zanimljiv
+    - is: je
+    - it: to
+    - love: ljubav
+    - love/like: voljeti/sviđati
+    - morning: jutro
+    - my: moj
+    - necessary: treba
+    - not: ne
+    - often: često
+    - play: igrati
+    - plays: igra
+    - river: rijeka
+    - run: trčati
+    - running: trčanje
+    - runs: trči
+    - she: ona
+    - sport: sport
+    - stadium: stadion
+    - swim: plivati
+    - swimming: plivanje
+    - tennis: tenis
+    - the: to
+    - they: oni
+    - to: do
+    - train: vlak
+    - trains: vlakova
+    - we: mi
+    - who: tko
+    - with: sa

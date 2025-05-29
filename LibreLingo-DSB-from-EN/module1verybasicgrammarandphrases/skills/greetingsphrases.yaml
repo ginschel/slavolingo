@@ -1,0 +1,229 @@
+Skill:
+  Name: Greetings & Phrases
+  Id: 2
+
+New words:
+  - Word: pózdraw
+    Translation: greeting
+  - Word: zdråw
+    Translation: healthy/hello
+  - Word: powěźeńka
+    Translation: conversation
+  - Word: ranjo
+    Translation: morning
+  - Word: wjacor
+    Translation: evening
+  - Word: źeń
+    Translation: day
+  - Word: noc
+    Translation: night
+  - Word: źěkuju
+    Translation: thanks
+  - Word: pardón
+    Translation: pardon
+  - Word: wódaj
+    Translation: excuse me
+  - Word: dobry
+    Translation: good
+  - Word: lěpšy
+    Translation: better
+  - Word: móžno
+    Translation: possible
+  - Word: škoda
+    Translation: pity
+  - Word: tak
+    Translation: so
+  - Word: což
+    Translation: what
+  - Word: nje
+    Translation: no
+  - Word: jo
+    Translation: yes
+  - Word: snano
+    Translation: maybe/can
+  - Word: daj
+    Translation: let's go
+
+Phrases:
+  - Phrase: Dobro ranjo!
+    Translation: Good morning!
+  - Phrase: Dobry wjacor!
+    Translation: Good evening!
+  - Phrase: Dobry źeń!
+    Translation: Good day!
+  - Phrase: Dobra noc!
+    Translation: Good night!
+  - Phrase: Kak sy?
+    Translation: How are you?
+  - Phrase: Som dobry, źěkuju!
+    Translation: I am well, thank you!
+  - Phrase: A ty?
+    Translation: And you?
+  - Phrase: Źěkuju śi wjele.
+    Translation: Thank you very much.
+  - Phrase: Pardón, nje rozmějom.
+    Translation: Excuse me, I don't understand.
+  - Phrase: Pózdraw!
+    Translation: Greetings!
+  - Phrase: Zdråw!
+    Translation: Hello!
+  - Phrase: Dobry źeń, kak sy?
+    Translation: Good day, how are you?
+  - Phrase: Sy lě ty zdråw?
+    Translation: Are you healthy?
+  - Phrase: Witajśo!
+    Translation: Welcome!
+  - Phrase: Na zdråwje!
+    Translation: To your health!
+  - Phrase: Pózdraw twóju sotšu.
+    Translation: Greet your sister.
+  - Phrase: Kak se gronjo?
+    Translation: What is your name?
+  - Phrase: Mójo mě jo Bartek.
+    Translation: My name is Bartek.
+  - Phrase: Źěkuju za powěźeńku.
+    Translation: Thank you for the conversation.
+  - Phrase: Tak jo.
+    Translation: That is so.
+  - Phrase: Nje tak.
+    Translation: Not so.
+  - Phrase: Snano.
+    Translation: Maybe.
+  - Phrase: Nje móžno.
+    Translation: Not possible.
+  - Phrase: Škoda!
+    Translation: What a pity!
+  - Phrase: Dobro!
+    Translation: Good!
+  - Phrase: Nje dobro.
+    Translation: Not good.
+  - Phrase: To jo lěpšy.
+    Translation: This is better.
+  - Phrase: To nje jo lěpšy.
+    Translation: This is not better.
+  - Phrase: Jo, móžno.
+    Translation: Yes, it is possible.
+  - Phrase: Nje, nje móžno.
+    Translation: No, it is not possible.
+  - Phrase: Jo to móžno?
+    Translation: Is this possible?
+  - Phrase: Což to wóznamjenja?
+    Translation: What does this mean?
+  - Phrase: Teke ja.
+    Translation: Me too.
+  - Phrase: Z Bogom!
+    Translation: Go with God!
+  - Phrase: Nje wěm.
+    Translation: I don't know.
+  - Phrase: Chiba.
+    Translation: Perhaps.
+  - Phrase: Hyšći raz! Ja som něrozměł.
+    Translation: Repeat. I didn't understand.
+  - Phrase: Sy lě gotowy?
+    Translation: Are you ready?
+  - Phrase: Daj!
+    Translation: Let's go!
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: and
+    - bartek: Bartek
+    - bogom: rich
+    - chiba: perhaps
+    - dobra: good
+    - dobro: good
+    - gotowy: ready
+    - gronjo: says
+    - hyšći: still
+    - ja: I
+    - kak: how
+    - lě: is
+    - mójo: my
+    - mě: me
+    - na: on
+    - něrozměł: didn't understand
+    - powěźeńku: story
+    - raz: time (instance)
+    - rozmějom: I understand
+    - se: himself, herself, itself, themselves
+    - som: I am
+    - sotšu: sister
+    - sy: are
+    - teke: also
+    - to: this
+    - twóju: your
+    - ty: you
+    - witajśo: welcome
+    - wjele: many
+    - wóznamjenja: means
+    - wěm: I know
+    - z: with
+    - za: for
+    - zdråwje: health
+    - śi: you
+  English:
+    - a: jedin/один
+    - am: som
+    - and: a
+    - are: byti/быти
+    - bartek: bartek
+    - better: lěpjej
+    - conversation: rozgrono
+    - day: źeń
+    - didn't: njej
+    - does: cyni
+    - don't: njej
+    - evening: wjacor
+    - excuse: wobłukowaś
+    - for: za
+    - go: hyś
+    - god: bog
+    - good: dobry
+    - greet: póstrowiś
+    - greeting: póstrow
+    - greetings: póstrowy
+    - health: stawizna
+    - healthy: rědny
+    - healthy/hello: rědny
+    - hello: witaś
+    - how: kak
+    - i: ja
+    - is: jo
+    - it: wóno
+    - know: wěźeś
+    - let's: dajmy
+    - maybe: snaź
+    - maybe/can: snaź/móžo
+    - me: mě
+    - mean: wóznamjeniś
+    - morning: ranje
+    - much: wjele
+    - my: mój
+    - name: mjeno
+    - night: noc
+    - no: nic
+    - not: nic
+    - pardon: wobdźěłaś
+    - perhaps: snaź
+    - pity: žałosć
+    - possible: móžno
+    - ready: gótowy
+    - repeat: wóspjetowaś
+    - sister: sotša
+    - so: tak
+    - thank: źěkowaś
+    - thanks: źěk
+    - that: to
+    - the: to
+    - this: toś
+    - to: do
+    - too: teke
+    - understand: rozměś
+    - very: wjele
+    - welcome: witaś
+    - well: derje
+    - what: což
+    - with: z
+    - yes: jo
+    - you: ty
+    - your: twój

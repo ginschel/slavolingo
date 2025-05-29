@@ -1,0 +1,224 @@
+Skill:
+  Name: Talking about Time
+  Id: 31
+
+New words:
+  - Word: час
+    Translation: time
+  - Word: хвилина
+    Translation: minute
+  - Word: секунда
+    Translation: second
+  - Word: година (тривалість)
+    Translation: hour
+  - Word: сьогодні
+    Translation: today
+  - Word: був
+    Translation: was
+  - Word: була
+    Translation: was
+  - Word: було
+    Translation: was
+  - Word: були
+    Translation: were
+  - Word: йшов
+    Translation: went/walked
+  - Word: йшла
+    Translation: went/walked
+  - Word: йшло
+    Translation: went/walked
+  - Word: йшли
+    Translation: went/walked
+  - Word: вчора
+    Translation: yesterday
+  - Word: завтра
+    Translation: tomorrow
+  - Word: вечір
+    Translation: evening
+  - Word: північ
+    Translation: midnight
+  - Word: скільки
+    Translation: how much
+  - Word: спати (спить)
+    Translation: to sleep
+  - Word: тривати
+    Translation: to last
+
+Phrases:
+  - Phrase: Скільки є часу?
+    Translation: What time is it?
+  - Phrase: Він мав одну годину.
+    Translation: He had one hour.
+  - Phrase: Завтра є запізно.
+    Translation: Tomorrow is too late.
+  - Phrase: Вчора був понеділок.
+    Translation: Yesterday was Monday.
+  - Phrase: Вчора вона була вдома о восьмій годині.
+    Translation: Yesterday she was at home at the eighth hour.
+  - Phrase: Вранці не було дуже тепло.
+    Translation: In the morning it was not very warm.
+  - Phrase: О третій годині двадцять було холодно.
+    Translation: At twenty past the third hour it was cold.
+  - Phrase: Північ є тиха.
+    Translation: Midnight is quiet.
+  - Phrase: Він пішов додому.
+    Translation: He went home.
+  - Phrase: Ви йшли до кінотеатру?
+    Translation: Have you gone to the cinema?
+  - Phrase: Вони нічого не робили.
+    Translation: They did nothing.
+  - Phrase: Хвилина є маленькою одиницею часу.
+    Translation: A minute is a small unit of time.
+  - Phrase: Секунда є коротка.
+    Translation: A second is short.
+  - Phrase: Сьогодні ти не мав часу на те.
+    Translation: Today you did not have an hour for that.
+  - Phrase: Бачимось ввечері о девятій годині.
+    Translation: We will see each other in the evening at the ninth hour.
+  - Phrase: Вчора о першій годині було краще.
+    Translation: Yesterday at the first hour it was better.
+  - Phrase: Скільки хвилин триває фільм?
+    Translation: How many minutes does the film last?
+  - Phrase: Я був удома вранці.
+    Translation: I was at home in the morning.
+  - Phrase: Він спить до півночі.
+    Translation: He sleeps until midnight.
+  - Phrase: Скільки секунд має хвилина?
+    Translation: How many seconds are in a minute?
+  - Phrase: Ввечері ми пішли в ресторан.
+    Translation: In the evening we went to the restaurant.
+
+Mini-dictionary:
+  Ukrainian:
+    - бачимось: we see each other
+    - в: in, at
+    - ввечері: in the evening
+    - вдома: at home
+    - ви: you (plural)
+    - вона: she
+    - вони: they
+    - восьмій: at eight (o'clock)
+    - вранці: in the morning
+    - він: he
+    - година: hour
+    - годину: hour (accusative)
+    - годині: at (o'clock)
+    - двадцять: twenty
+    - девятій: at nine (o'clock)
+    - до: to, until
+    - додому: home (to home)
+    - дуже: very
+    - запізно: too late
+    - коротка: short (feminine)
+    - краще: better
+    - кінотеатру: of the cinema
+    - мав: had
+    - маленькою: with a small one
+    - має: has
+    - ми: we
+    - на: on, at
+    - не: not
+    - нічого: nothing
+    - о: about
+    - одиницею: with a unit
+    - одну: one (accusative)
+    - першій: at one (o'clock)
+    - понеділок: Monday
+    - півночі: in the north
+    - пішли: they went
+    - пішов: he went
+    - ресторан: restaurant
+    - робили: they did, they made
+    - секунд: of seconds
+    - спати: to sleep
+    - спить: sleeps
+    - те: that (neuter)
+    - тепло: warm, warmly
+    - ти: you (singular)
+    - тиха: quiet (feminine)
+    - третій: third
+    - тривалість: duration
+    - триває: lasts
+    - удома: at home
+    - фільм: film, movie
+    - хвилин: of minutes
+    - холодно: cold (adverb)
+    - часу: of time
+    - я: I
+    - є: is, are
+  English:
+    - a: jedin/один
+    - an: ан
+    - are: byti/быти
+    - at: в
+    - better: краще
+    - cinema: кіно
+    - cold: холодний
+    - did: зробив
+    - does: робить
+    - each: кожен
+    - eighth: восьмий
+    - evening: вечір
+    - film: фільм
+    - first: перший
+    - for: для
+    - gone: пішов
+    - had: мав
+    - have: мати
+    - he: він
+    - home: дім
+    - hour: година
+    - how: як
+    - i: я
+    - in: в
+    - is: є
+    - it: це
+    - last: останній
+    - late: пізній
+    - many: багато
+    - midnight: північ
+    - minute: хвилина
+    - minutes: хвилини
+    - monday: понеділок
+    - morning: ранок
+    - much: багато
+    - ninth: дев'ятий
+    - not: не
+    - nothing: нічого
+    - of: з
+    - one: один
+    - other: інший
+    - past: минуле
+    - quiet: тихий
+    - restaurant: ресторан
+    - second: другий
+    - seconds: секунди
+    - see: бачити
+    - she: вона
+    - short: короткий
+    - sleep: спати
+    - sleeps: спить
+    - small: малий
+    - that: той
+    - the: to
+    - they: вони
+    - third: третій
+    - time: час
+    - to: до
+    - today: сьогодні
+    - tomorrow: завтра
+    - too: теж
+    - twenty: двадцять
+    - unit: одиниця
+    - until: доки
+    - very: дуже
+    - warm: теплий
+    - was: був
+    - we: ми
+    - went: пішов
+    - went/walked: пішов/гуляв
+    - were: byl/был
+    - what: що
+    - will: буде
+    - yesterday: вчора
+    - you: ви

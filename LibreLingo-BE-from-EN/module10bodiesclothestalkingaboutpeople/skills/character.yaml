@@ -1,0 +1,214 @@
+Skill:
+  Name: Character
+  Id: 36
+
+New words:
+  - Word: добры
+    Translation: good
+  - Word: злы
+    Translation: bad
+  - Word: моцны
+    Translation: strong
+  - Word: слабы
+    Translation: weak
+  - Word: смелы
+    Translation: brave
+  - Word: ціхі
+    Translation: quiet
+  - Word: мудры
+    Translation: wise
+  - Word: дурны
+    Translation: stupid
+  - Word: шчыры
+    Translation: sincere
+  - Word: лянівы
+    Translation: lazy
+  - Word: быў бы
+    Translation: I would be
+  - Word: быў бы
+    Translation: you would be
+  - Word: быў бы
+    Translation: he/she/it would be
+  - Word: былі б
+    Translation: we would be
+  - Word: былі б
+    Translation: you would be
+  - Word: былі б
+    Translation: they would be
+  - Word: маўчаць (маўчыць)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: Ён то добры чалавек.
+    Translation: He is a good person.
+  - Phrase: Яна ёсць злая часам.
+    Translation: She is sometimes bad.
+  - Phrase: Моцны дух ёсць важны.
+    Translation: A strong spirit is important.
+  - Phrase: Ён ёсць слабы ў спорце.
+    Translation: He is weak in sports.
+  - Phrase: Смелы гаворыць праўду.
+    Translation: Brave people speak the truth.
+  - Phrase: Як бы ты быў пачуў, то яны былі б ціхія.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Мудры ведае многа.
+    Translation: A smart person knows much.
+  - Phrase: Як бы ты не быў дурны, то ты б не рабіў дурасцяў.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Шчыры сябар ёсць каштоўны.
+    Translation: A sincere friend is valuable.
+  - Phrase: Якбы яны не былі лянівыя, то мы былі б ім дапамагалі.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Яна ёсць добрая і шчырая.
+    Translation: She is good and sincere.
+  - Phrase: Ён ёсць моцны, але смелы.
+    Translation: He is strong but brave.
+  - Phrase: Дзеці ёсць мудрыя для іхняга веку.
+    Translation: Children are wiser for their age.
+  - Phrase: Як бы вы не былі слабыя, то вы б працавалі.
+    Translation: If you were not weak, you would work.
+  - Phrase: Злыя словы баляць.
+    Translation: Bad words hurt.
+  - Phrase: Дурны не вучыцца.
+    Translation: Stupid people do not learn.
+  - Phrase: Лянівы не хоча нічога рабіць.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Шчыры гаворыць што думае.
+    Translation: A sincere person says what they think.
+  - Phrase: Мудры маўчыць, калі трэба.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Як бы я быў смелы, то я б не баяўся.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Belarusian:
+    - але: but
+    - б: be
+    - баляць: hurts
+    - баяўся: afraid
+    - бы: would
+    - былі: were
+    - быў: was
+    - важны: important
+    - ведае: knows
+    - веку: age
+    - вучыцца: learn
+    - вы: you
+    - гаворыць: speaks
+    - дапамагалі: helped
+    - дзеці: children
+    - для: for
+    - добрая: good
+    - думае: think
+    - дурасцяў: foolish
+    - дух: spirit
+    - злая: angry
+    - злыя: angry
+    - калі: when
+    - каштоўны: valuable
+    - лянівыя: lazy
+    - маўчаць: silent
+    - маўчыць: silent
+    - многа: many
+    - мудрыя: wise
+    - мы: we
+    - не: no
+    - нічога: nothing
+    - пачуў: heard
+    - працавалі: worked
+    - праўду: truth
+    - рабіць: do/make
+    - рабіў: did
+    - слабыя: weak
+    - словы: words
+    - спорце: sports
+    - сябар: friend
+    - то: that
+    - трэба: need
+    - ты: you
+    - хоча: wants
+    - ціхія: quiet
+    - чалавек: person
+    - часам: sometimes
+    - што: what
+    - шчырая: sincere
+    - я: i
+    - як: as
+    - якбы: as if
+    - яна: she
+    - яны: they
+    - ён: he
+    - ёсць: is
+    - і: and
+    - ім: them
+    - іхняга: their
+    - ў: in
+  English:
+    - a: jedin/один
+    - afraid: напалоханы
+    - age: узрост
+    - and: і
+    - anything: што-небудзь
+    - are: byti/быти
+    - bad: дрэнны
+    - be: быць
+    - brave: адважны
+    - but: але
+    - children: дзеці
+    - do: рабіць
+    - foolish: дурны
+    - for: для
+    - friend: сябар
+    - good: добры
+    - he: ён
+    - he/she/it: ён/яна/яно
+    - hear: чуць
+    - help: дапамагчы
+    - hurt: балюча
+    - i: я
+    - if: калі
+    - important: важны
+    - in: у
+    - is: ёсць
+    - knows: ведае
+    - lazy: лянівы
+    - learn: вучыцца
+    - much: шмат
+    - needed: патрэбны
+    - not: не
+    - people: людзі
+    - person: чалавек
+    - quiet: ціхі
+    - says: кажа
+    - she: яна
+    - silent: маўклівы
+    - sincere: шчыры
+    - smart: разумны
+    - sometimes: часам
+    - speak: размаўляць
+    - spirit: дух
+    - sports: спорт
+    - stays: застаецца
+    - strong: моцны
+    - stupid: дурны
+    - the: to
+    - their: іх
+    - them: іх
+    - they: яны
+    - things: рэчы
+    - think: думаць
+    - to: да
+    - truth: праўда
+    - valuable: каштоўны
+    - want: хацець
+    - we: мы
+    - weak: слабы
+    - were: byl/был
+    - what: што
+    - when: калі
+    - wise: мудры
+    - wiser: мудрэйшы
+    - words: словы
+    - work: праца
+    - would: будзе
+    - you: ты

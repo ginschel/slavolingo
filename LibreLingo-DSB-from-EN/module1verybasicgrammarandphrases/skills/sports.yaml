@@ -1,0 +1,168 @@
+Skill:
+  Name: Sports
+  Id: 5
+
+New words:
+  - Word: football
+    Translation: football
+  - Word: basketball
+    Translation: basketball
+  - Word: tennis
+    Translation: tennis
+  - Word: plawanja
+    Translation: swimming
+  - Word: plowaś
+    Translation: to swim
+  - Word: běg
+    Translation: running
+  - Word: běgaś
+    Translation: to run
+  - Word: ranim
+    Translation: in the morning
+  - Word: luściś
+    Translation: to love/like
+  - Word: hockey
+    Translation: hockey
+  - Word: sport
+    Translation: sport
+  - Word: gra
+    Translation: game
+  - Word: trenowaś
+    Translation: to train
+  - Word: stadion
+    Translation: stadium
+  - Word: snadny
+    Translation: fast
+  - Word: śěžki
+    Translation: difficult
+
+Phrases:
+  - Phrase: Gram we football.
+    Translation: I play football.
+  - Phrase: Wóna gra we basketball.
+    Translation: She plays basketball.
+  - Phrase: Wón gra we tennis.
+    Translation: He plays tennis.
+  - Phrase: My plowamy we rěce.
+    Translation: We swim in the river.
+  - Phrase: Wóni běgaju ranim.
+    Translation: They run in the morning.
+  - Phrase: Wón trenujo kuždy źeń.
+    Translation: He trains every day.
+  - Phrase: Sport jo ważny.
+    Translation: Sport is important.
+  - Phrase: Wóna gra na stadionje.
+    Translation: She plays at the stadium.
+  - Phrase: Musy se trenowaś.
+    Translation: It is necessary to train.
+  - Phrase: Wóni lušćijo sport.
+    Translation: They love sport.
+  - Phrase: Ja nje gram we hockey.
+    Translation: I do not play hockey.
+  - Phrase: Stadion jo we měsće.
+    Translation: The stadium is in the city.
+  - Phrase: Basketball jo zajmny sport.
+    Translation: Basketball is an interesting sport.
+  - Phrase: Plawanja jo dobre za zdråwje.
+    Translation: Swimming is good for health.
+  - Phrase: Chto gra we tennis?
+    Translation: Who plays tennis?
+  - Phrase: Wón běga snadnje.
+    Translation: He runs fast.
+  - Phrase: My plowamy cesto.
+    Translation: We swim often.
+  - Phrase: Wón trenujo z pśijaśelom.
+    Translation: He trains with a friend.
+  - Phrase: Ja gram z bratšami.
+    Translation: I play with my brothers.
+  - Phrase: Hockey jo śěžki.
+    Translation: Hockey is difficult.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - bratšami: brothers
+    - běga: runs
+    - běgaju: run
+    - cesto: often
+    - chto: who
+    - dobre: good
+    - gram: gram
+    - ja: I
+    - jo: yes
+    - kuždy: every
+    - lušćijo: peels
+    - musy: must
+    - my: we
+    - měsće: city
+    - na: on
+    - nje: no
+    - plowamy: we swim
+    - pśijaśelom: friend
+    - rěce: language
+    - se: himself, herself, itself, themselves
+    - snadnje: easily
+    - stadionje: stadium
+    - trenujo: trains
+    - ważny: important
+    - we: in
+    - wón: he
+    - wóna: she
+    - wóni: they
+    - z: with
+    - za: for
+    - zajmny: interesting
+    - zdråwje: health
+    - źeń: day
+  English:
+    - a: jedin/один
+    - an: jaden
+    - at: pśi
+    - basketball: basketball
+    - brothers: bratšy
+    - city: město
+    - day: źeń
+    - difficult: śěžki
+    - do: cyniś
+    - every: kuždy
+    - fast: malsnje
+    - football: kopańca
+    - for: za
+    - friend: pśijaśel
+    - game: gra
+    - good: dobry
+    - he: wón
+    - health: stawizna
+    - hockey: hokej
+    - i: ja
+    - important: wažny
+    - in: w
+    - interesting: zajmny
+    - is: jo
+    - it: wóno
+    - love: lubowaś
+    - love/like: lubowaś
+    - morning: ranje
+    - my: mój
+    - necessary: trěbny
+    - not: nic
+    - often: cesćej
+    - play: graś
+    - plays: grajo
+    - river: rěka
+    - run: běžasć
+    - running: běžecy
+    - runs: běžy
+    - she: wóna
+    - sport: sport
+    - stadium: stadion
+    - swim: płuwaś
+    - swimming: płuwaś
+    - tennis: tennis
+    - the: to
+    - they: wóni
+    - to: do
+    - train: śěg
+    - trains: śěgi
+    - we: my
+    - who: chto
+    - with: z

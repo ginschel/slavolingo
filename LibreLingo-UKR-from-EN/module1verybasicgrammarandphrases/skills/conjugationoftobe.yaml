@@ -1,0 +1,212 @@
+Skill:
+  Name: Conjugation of to be
+  Id: 1
+
+New words:
+  - Word: це (середній рід)
+    Translation: this (m)
+  - Word: ця (жіночий рід)
+    Translation: this (f)
+  - Word: цей (чоловічий рід)
+    Translation: that (m)
+  - Word: тамтой (чоловічий рід)
+    Translation: that over there (f)
+  - Word: тамта (жіночий рід)
+    Translation: that over there (n)
+  - Word: я є
+    Translation: i am
+  - Word: ти є
+    Translation: you are (sg)
+  - Word: він/вона/воно є
+    Translation: he is
+  - Word: ми є
+    Translation: we are
+  - Word: ви є
+    Translation: you are (pl)
+  - Word: вони є
+    Translation: they are
+  - Word: я
+    Translation: I
+  - Word: ти
+    Translation: you
+  - Word: він
+    Translation: he
+  - Word: вона
+    Translation: she
+  - Word: воно
+    Translation: it
+  - Word: ми
+    Translation: we
+  - Word: ви
+    Translation: you
+  - Word: вони (чол. р.)
+    Translation: they
+  - Word: вони (жін. р.)
+    Translation: they
+  - Word: людина
+    Translation: person
+  - Word: жінка
+    Translation: woman
+  - Word: чоловік
+    Translation: man
+  - Word: дитина
+    Translation: child
+  - Word: друг
+    Translation: friend
+  - Word: сестра
+    Translation: sister
+  - Word: батькі
+    Translation: parent
+  - Word: дім
+    Translation: house
+  - Word: місто
+    Translation: city
+  - Word: день
+    Translation: day
+  - Word: також
+    Translation: also
+  - Word: хто
+    Translation: who
+
+Phrases:
+  - Phrase: Я мудрий.
+    Translation: I am wise.
+  - Phrase: Це моя сестра.
+    Translation: This is my sister.
+  - Phrase: Вона дуже мудра
+    Translation: She is very wise
+  - Phrase: Ми дуже мудрі
+    Translation: We are very wise
+  - Phrase: Ви також мудрі?
+    Translation: Are you also wise?
+  - Phrase: Це добра людина.
+    Translation: This is a good person.
+  - Phrase: Та жінка є добра.
+    Translation: This woman is good.
+  - Phrase: Це мій дім.
+    Translation: This is my house.
+  - Phrase: Він також добрий друг
+    Translation: He is a good friend
+  - Phrase: Ви добрі.
+    Translation: You are good.
+  - Phrase: Це друзі.
+    Translation: These are friends.
+  - Phrase: Хто ти?
+    Translation: Who are you?
+  - Phrase: Той чоловік милий.
+    Translation: That man is kind.
+  - Phrase: Це приємне місто.
+    Translation: This is a pleasant city.
+  - Phrase: Та жінка є висока.
+    Translation: That woman is tall.
+  - Phrase: Той день є холодний.
+    Translation: That day is cold.
+  - Phrase: Тамтой дім є красивий.
+    Translation: That house over there is beautiful.
+  - Phrase: Це моє дитя.
+    Translation: This is my child.
+  - Phrase: Тамтой ранок є холодний.
+    Translation: That morning over there is cold.
+  - Phrase: Це не моя сестра.
+    Translation: This is not my sister.
+  - Phrase: Це не твій дім.
+    Translation: This is not your house.
+  - Phrase: Це добре авто?
+    Translation: Is this a good car?
+  - Phrase: Це добрі друзі?
+    Translation: Are these good friends?
+  - Phrase: Вони є дуже милі.
+    Translation: They are very kind.
+  - Phrase: Вони є дуже милі.
+    Translation: They are very kind
+
+Mini-dictionary:
+  Ukrainian:
+    - авто: car
+    - висока: tall (feminine)
+    - вони: they
+    - він/вона/воно: he/she/it
+    - дитя: child
+    - добра: good (feminine)
+    - добре: good, well
+    - добрий: good (masculine)
+    - добрі: good (plural)
+    - друзі: friends
+    - дуже: very
+    - жін: women
+    - жіночий: female
+    - красивий: beautiful (masculine)
+    - милий: dear, nice
+    - милі: dear, nice (plural)
+    - моя: my (feminine)
+    - моє: my (neuter)
+    - мудра: wise (feminine)
+    - мудрий: wise (masculine)
+    - мудрі: wise (plural)
+    - мій: my (masculine)
+    - не: not
+    - приємне: pleasant
+    - р: r
+    - ранок: morning
+    - рід: kind, family
+    - середній: middle
+    - та: and, so
+    - тамта: that one (feminine)
+    - тамтой: that one (masculine)
+    - твій: your
+    - той: that (masculine)
+    - холодний: cold (masculine)
+    - це: this is, it is
+    - цей: this (masculine)
+    - ця: this (feminine)
+    - чол: male
+    - чоловічий: male
+    - є: is, are
+  English:
+    - a: jedin/один
+    - also: також
+    - am: є
+    - are: byti/быти
+    - beautiful: красивий
+    - car: автомобіль
+    - child: дитина
+    - city: місто
+    - cold: холодний
+    - day: день
+    - f: undef
+    - friend: друг
+    - friends: друзі
+    - good: добрий
+    - he: він
+    - house: будинок
+    - i: я
+    - is: є
+    - it: це
+    - kind: добрий
+    - m: undef
+    - man: чоловік
+    - morning: ранок
+    - my: мій
+    - n: undef
+    - not: не
+    - over: над
+    - parent: батько
+    - person: людина
+    - pl: undef
+    - pleasant: приємний
+    - sg: undef
+    - she: вона
+    - sister: сестра
+    - tall: високий
+    - that: той
+    - there: там
+    - these: ці
+    - they: вони
+    - this: це
+    - very: дуже
+    - we: ми
+    - who: хто
+    - wise: мудрий
+    - woman: жінка
+    - you: ви
+    - your: ваш

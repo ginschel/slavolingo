@@ -1,0 +1,234 @@
+Skill:
+  Name: Clothes
+  Id: 34
+
+New words:
+  - Word: košula
+    Translation: shirt
+  - Word: nosyć
+    Translation: to wear
+  - Word: kałsony
+    Translation: trousers
+  - Word: tričko
+    Translation: t-shirt
+  - Word: šalik
+    Translation: scarf
+  - Word: čapka
+    Translation: hat
+  - Word: płasć
+    Translation: coat
+  - Word: rukajca
+    Translation: glove
+  - Word: spodnje košulki
+    Translation: underwear
+  - Word: natahny
+    Translation: sock
+  - Word: wobuća
+    Translation: footwear
+  - Word: drasta
+    Translation: clothes
+  - Word: brudny
+    Translation: ugly
+  - Word: woblěkać so
+    Translation: to dress
+  - Word: pižama
+    Translation: pajamas
+
+Phrases:
+  - Phrase: Wón nosy módru košulu.
+    Translation: He wears a blue shirt.
+  - Phrase: Wona ma čorne kałsony, a wón běłe.
+    Translation: She has black trousers, and he has white.
+  - Phrase: Wobuća a płasć ležitej pola dźwidrow.
+    Translation: Shoes and the coat are lying by the door.
+  - Phrase: Šalik je ćežki a ćopły.
+    Translation: The scarf is heavy and warm.
+  - Phrase: W zymje nosym přeco čapku, a w lěće nic.
+    Translation: In winter, I always wear a hat, but not in summer.
+  - Phrase: Spodnje košulki su rjanej abo brudnej?
+    Translation: Are the shorts beautiful or ugly?
+  - Phrase: Nosym rukajcy w zymje.
+    Translation: We wear gloves in winter.
+  - Phrase: Tamta pižama je zelena.
+    Translation: That pajama is green.
+  - Phrase: Nowe spodnje košulki su komfortne.
+    Translation: New shorts are comfortable.
+  - Phrase: Nowa drasta je dróha.
+    Translation: New clothes are expensive.
+  - Phrase: Košula je w šafje.
+    Translation: The shirt is in the drawer.
+  - Phrase: Čapka wisi na stěnje.
+    Translation: The hat hangs on the wall.
+  - Phrase: Wón so woblěkaše a nosyše wčera wo druheje hodźinje zelene tričko abo košulu. Ja njejsym wěsty nětko.
+    Translation: He wore and put on a green tennis shoe or shirt yesterday at two AM. I'm not sure right now.
+  - Phrase: Ty chceš šalik abo košulu.
+    Translation: You want a scarf or a shirt.
+  - Phrase: Brudne rukajcy leža na stole, a rjany płasć nosym.
+    Translation: The ugly gloves are lying on the table, and I wear the red coat.
+  - Phrase: Wona je kupiła ćopłu wobuću.
+    Translation: She bought warm shoes.
+  - Phrase: Wón so woblěka nowu košulu.
+    Translation: He is putting on a new shirt.
+  - Phrase: Moje natahny su krótke.
+    Translation: My socks are short.
+  - Phrase: W zymje budu trjebać čapki a rukajcy.
+    Translation: In winter I will need a hat and gloves.
+  - Phrase: Drasta je čista a jenož hižo běła.
+    Translation: The clothes are clean and only the underwear is white.
+
+Mini-dictionary:
+  Upper Sorbian:
+    - a: and
+    - abo: or
+    - brudne: dirty
+    - brudnej: dirty
+    - budu: will be
+    - běła: white
+    - běłe: white
+    - chceš: you want
+    - druheje: second
+    - dróha: road
+    - dźwidrow: doors
+    - hižo: already
+    - hodźinje: in an hour
+    - ja: i
+    - je: is
+    - jenož: only
+    - komfortne: comfortable
+    - košulki: shirts
+    - košulu: shirt
+    - krótke: short
+    - kupiła: she bought
+    - leža: lie
+    - ležitej: lie
+    - lěće: year
+    - ma: has
+    - moje: my
+    - módru: blue
+    - na: on
+    - nic: nothing
+    - njejsym: i am not
+    - nosy: carries
+    - nosym: i carry
+    - nosyše: carried
+    - nowa: new
+    - nowe: new
+    - nowu: new
+    - nětko: now
+    - pola: field
+    - přeco: always
+    - rjanej: beautiful
+    - rjany: beautiful
+    - rukajcy: gloves
+    - so: oneself
+    - spodnje: lower
+    - stole: table
+    - stěnje: wall
+    - su: are
+    - tamta: that
+    - trjebać: to need
+    - ty: you
+    - w: in
+    - wisi: hangs
+    - wo: about
+    - woblěka: dresses
+    - woblěkać: to dress
+    - woblěkaše: dressed
+    - wobuću: shoes
+    - wona: she
+    - wón: he
+    - wčera: yesterday
+    - wěsty: certain
+    - zelena: green
+    - zelene: green
+    - zymje: in winter
+    - ćežki: heavy
+    - ćopłu: warm
+    - ćopły: warm
+    - čapki: caps
+    - čapku: cap
+    - čista: clean
+    - čorne: black
+    - šafje: cupboard
+  English:
+    - a: jedin/один
+    - always: přeco
+    - am: sym
+    - and: a
+    - are: byti/быти
+    - at: pola
+    - beautiful: rjana
+    - black: čorna
+    - blue: módry
+    - bought: kupiła
+    - but: ale
+    - by: přez
+    - clean: čista
+    - clothes: drasta
+    - coat: kožuch
+    - comfortable: komfortny
+    - door: dźwidr
+    - drawer: šafje
+    - dress: sukńu
+    - expensive: drohocenny
+    - footwear: wobuća
+    - glove: rukajca
+    - gloves: rukajcy
+    - green: zeleny
+    - hangs: wisi
+    - has: ma
+    - hat: čapka
+    - he: wón
+    - heavy: ćežki
+    - i: ja
+    - i'm: sym
+    - in: w
+    - is: je
+    - lying: leži
+    - my: mój
+    - need: trjebać
+    - new: nowy
+    - not: nje
+    - now: nědź
+    - on: na
+    - only: jenož
+    - or: abo
+    - pajama: pižama
+    - pajamas: pižama
+    - put: staji
+    - putting: staji
+    - red: čerwjeny
+    - right: naprawo
+    - scarf: šalik
+    - she: wona
+    - shirt: košula
+    - shoe: wobuća
+    - shoes: wobuća
+    - short: krótki
+    - shorts: krótke kałsony
+    - sock: noka
+    - socks: noki
+    - summer: nalěćo
+    - sure: wěsty
+    - t-shirt: tričko
+    - table: stół
+    - tennis: tenis
+    - that: to
+    - the: to
+    - to: k
+    - trousers: kałsony
+    - two: dwaj
+    - ugly: rjeńca
+    - underwear: spodnje
+    - wall: stěna
+    - want: chcyć
+    - warm: ćopły
+    - we: my
+    - wear: woblěkać
+    - wears: woblěka
+    - white: běły
+    - will: budu
+    - winter: zyma
+    - wore: woblěkaše
+    - yesterday: wčera
+    - you: ty

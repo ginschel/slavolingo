@@ -1,0 +1,170 @@
+Skill:
+  Name: Studying & Writing
+  Id: 9
+
+New words:
+  - Word: škola
+    Translation: school
+  - Word: učiteljica
+    Translation: female teacher
+  - Word: učitelj
+    Translation: male teacher
+  - Word: zapis
+    Translation: note
+  - Word: učenik
+    Translation: student
+  - Word: knjiga
+    Translation: book
+  - Word: zadatak
+    Translation: assignment
+  - Word: stol
+    Translation: table
+  - Word: tuš
+    Translation: ink
+  - Word: papir
+    Translation: paper
+  - Word: predmet
+    Translation: subject
+  - Word: metoda
+    Translation: method
+  - Word: pero
+    Translation: pen
+  - Word: bilježnica
+    Translation: notebook
+  - Word: na
+    Translation: on
+
+Phrases:
+  - Phrase: To je moja škola.
+    Translation: This is my school.
+  - Phrase: Ona je učiteljica.
+    Translation: She is a teacher.
+  - Phrase: On je učenik.
+    Translation: He is a student.
+  - Phrase: Knjiga je na stolu.
+    Translation: The book is on the table.
+  - Phrase: Ja imam zadatak.
+    Translation: I have an assignment.
+  - Phrase: Tuš je još mokar.
+    Translation: The ink is still wet.
+  - Phrase: Papir je bijel.
+    Translation: The paper is white.
+  - Phrase: Taj predmet je matematika.
+    Translation: This subject is mathematics.
+  - Phrase: Ta metoda je dobra.
+    Translation: This method is good.
+  - Phrase: Učenik ima knjigu.
+    Translation: The student has a book.
+  - Phrase: To je moj stol.
+    Translation: This is my desk.
+  - Phrase: Moja bilježnica je puna bilješki s perom
+    Translation: My notebook is full of notes with a pen
+  - Phrase: Pišem na papiru perom.
+    Translation: I am writing on paper with a pen.
+  - Phrase: Škola je u centru.
+    Translation: The school is in the center.
+  - Phrase: Mi pišemo zadatak.
+    Translation: We are writing the assignment.
+  - Phrase: Učitelj govori sa studentima.
+    Translation: The teacher is talking with students.
+  - Phrase: Ona ima mnogo zadataka.
+    Translation: She has many assignments.
+  - Phrase: Ja brzo pišem s ovim perom.
+    Translation: I am writing quickly with this pen.
+  - Phrase: Predmet je složen.
+    Translation: The subject is complex.
+  - Phrase: Knjiga je nova.
+    Translation: The book is new.
+  - Phrase: On je moj učitelj.
+    Translation: He is my teacher.
+
+Mini-dictionary:
+  Croatian:
+    - bijel: white
+    - bilješki: notes
+    - brzo: fast
+    - centru: center
+    - dobra: good
+    - govori: speaks
+    - ima: has
+    - imam: I have
+    - ja: I
+    - je: is
+    - još: still
+    - knjigu: book
+    - matematika: mathematics
+    - mi: we
+    - mnogo: many
+    - moj: my
+    - moja: my
+    - mokar: wet
+    - nova: new
+    - on: he
+    - ona: she
+    - ovim: this
+    - papiru: paper
+    - perom: feather
+    - pišem: I write
+    - pišemo: we write
+    - puna: full
+    - s: with
+    - sa: with
+    - složen: complex
+    - stolu: table
+    - studentima: students
+    - ta: that
+    - taj: that
+    - to: that
+    - u: in
+    - zadataka: tasks
+  English:
+    - a: jedin/один
+    - am: sam
+    - an: an
+    - are: byti/быти
+    - assignment: zadatak
+    - assignments: zadataka
+    - book: knjiga
+    - center: centra
+    - complex: složen
+    - desk: stol
+    - female: žen
+    - full: pun
+    - good: dobar
+    - has: ima
+    - have: imati
+    - he: on
+    - i: ja
+    - in: u
+    - ink: tinta
+    - is: je
+    - male: muš
+    - many: mnogo
+    - mathematics: matematika
+    - method: metoda
+    - my: moj
+    - new: nov
+    - note: bilješki
+    - notebook: bilježnica
+    - notes: bilješki
+    - of: od
+    - on: na
+    - paper: papir
+    - pen: pero
+    - quickly: brzo
+    - school: škola
+    - she: ona
+    - still: još
+    - student: učenik
+    - students: učenicima
+    - subject: predmet
+    - table: stol
+    - talking: razgovaram
+    - teacher: učitelj
+    - the: to
+    - this: ovaj
+    - we: mi
+    - wet: mokar
+    - white: bijel
+    - with: sa
+    - writing: piše

@@ -1,0 +1,224 @@
+Skill:
+  Name: Talking about Time
+  Id: 31
+
+New words:
+  - Word: czas
+    Translation: time
+  - Word: minuta
+    Translation: minute
+  - Word: sekùnda
+    Translation: second
+  - Word: gòdzëna
+    Translation: hour
+  - Word: dzysô
+    Translation: today
+  - Word: béł
+    Translation: was
+  - Word: bëła
+    Translation: was
+  - Word: bëło
+    Translation: was
+  - Word: bëlë
+    Translation: were
+  - Word: szedł
+    Translation: went/walked
+  - Word: szła
+    Translation: went/walked
+  - Word: szło
+    Translation: went/walked
+  - Word: szlë
+    Translation: went/walked
+  - Word: wczora
+    Translation: yesterday
+  - Word: jùtrô
+    Translation: tomorrow
+  - Word: wieczór
+    Translation: evening
+  - Word: pòłnoc
+    Translation: midnight
+  - Word: kòle
+    Translation: how much
+  - Word: spac (spi)
+    Translation: to sleep
+  - Word: trwac
+    Translation: to last
+
+Phrases:
+  - Phrase: Kòle je gòdzënów?
+    Translation: What time is it?
+  - Phrase: On miał jedną gòdzënã.
+    Translation: He had one hour.
+  - Phrase: Jùtrô je za pòzdno.
+    Translation: Tomorrow is too late.
+  - Phrase: Wczora béł pòlëdzôłk.
+    Translation: Yesterday was Monday.
+  - Phrase: Wczora òna bëła w dodomù ò òsmi gòdzënie.
+    Translation: Yesterday she was at home at the eighth hour.
+  - Phrase: Zôranô nie bëło wiele ciepło.
+    Translation: In the morning it was not very warm.
+  - Phrase: Ò trzeci gòdzënie dwadzescãt bëło zëmno.
+    Translation: At twenty past the third hour it was cold.
+  - Phrase: Pòłnoc je cëchô.
+    Translation: Midnight is quiet.
+  - Phrase: On szedł do dodomù.
+    Translation: He went home.
+  - Phrase: Wë jeste szlë do kina?
+    Translation: Have you gone to the cinema?
+  - Phrase: Òni nic nie robile.
+    Translation: They did nothing.
+  - Phrase: Minuta je môłô jednocô czasu.
+    Translation: A minute is a small unit of time.
+  - Phrase: Sekùnda je krótka.
+    Translation: A second is short.
+  - Phrase: Dzysô të jes nie miôł gòdzëne za to.
+    Translation: Today you did not have an hour for that.
+  - Phrase: Widzymë sã wieczór ò dzewiãti gòdzënie.
+    Translation: We will see each other in the evening at the ninth hour.
+  - Phrase: Wczora ò pierwszej gòdzënie bëło lëpszô.
+    Translation: Yesterday at the first hour it was better.
+  - Phrase: Kòle minut trwô film?
+    Translation: How many minutes does the film last?
+  - Phrase: Ja jem béł w dodomù zôranô.
+    Translation: I was at home in the morning.
+  - Phrase: On spi do pòłnocë.
+    Translation: He sleeps until midnight.
+  - Phrase: Kòle sekùnd mô minuta?
+    Translation: How many seconds are in a minute?
+  - Phrase: Wieczór më szlë do restaurantu.
+    Translation: In the evening we went to the restaurant.
+
+Mini-dictionary:
+  Kashubian:
+    - ciepło: warm
+    - czasu: time
+    - cëchô: quiet
+    - do: to
+    - dodomù: home
+    - dwadzescãt: twenty
+    - dzewiãti: ninth
+    - film: film
+    - gòdzëne: hours
+    - gòdzënie: hour
+    - gòdzënã: hour
+    - gòdzënów: hours
+    - ja: yes
+    - je: is
+    - jednocô: unites
+    - jedną: one
+    - jem: I eat
+    - jes: you are
+    - jeste: you are
+    - kina: cinema
+    - krótka: short
+    - lëpszô: better
+    - miał: had
+    - minut: minute
+    - miôł: had
+    - më: we
+    - mô: has
+    - môłô: small
+    - nic: nothing
+    - nie: no
+    - on: he
+    - pierwszej: first
+    - pòlëdzôłk: human
+    - pòzdno: late
+    - pòłnocë: midnight
+    - restaurantu: restaurant
+    - robile: they did
+    - sekùnd: second
+    - spac: to sleep
+    - spi: sleeps
+    - sã: yourself
+    - to: this
+    - trwô: lasts
+    - trzeci: third
+    - të: you
+    - w: in
+    - widzymë: we see
+    - wiele: many
+    - wë: you
+    - za: for
+    - zëmno: cold
+    - zôranô: early morning
+    - ò: about
+    - òna: she
+    - òni: they
+    - òsmi: eighth
+  English:
+    - a: jedin/один
+    - an: jeden
+    - are: byti/быти
+    - at: przë
+    - better: lepi
+    - cinema: kino
+    - cold: zëmny
+    - did: zrobiał
+    - does: robi
+    - each: kòżdi
+    - eighth: òsmë
+    - evening: wieczór
+    - film: film
+    - first: pierszi
+    - for: dlô
+    - gone: pòszłë
+    - had: miał
+    - have: miec
+    - he: on
+    - home: dodóm
+    - hour: gòdzëna
+    - how: jak
+    - i: jô
+    - in: w
+    - is: je
+    - it: to
+    - last: òstatni
+    - late: pózno
+    - many: wiele
+    - midnight: północ
+    - minute: minuta
+    - minutes: minutë
+    - monday: pòniédzałk
+    - morning: ranié
+    - much: wiele
+    - ninth: dzewiąti
+    - not: nié
+    - nothing: nic
+    - of: òd
+    - one: jeden
+    - other: jinszi
+    - past: przëszłosc
+    - quiet: cëchi
+    - restaurant: restauracjô
+    - second: drëdżi
+    - seconds: sekùndë
+    - see: widzec
+    - she: òna
+    - short: krótczi
+    - sleep: spac
+    - sleeps: spi
+    - small: môłi
+    - that: to
+    - the: to
+    - they: òni
+    - third: trzeci
+    - time: czas
+    - to: do
+    - today: dzys
+    - tomorrow: jutro
+    - too: téż
+    - twenty: dwadzését
+    - unit: jednôstka
+    - until: do
+    - very: baro
+    - warm: ciepłi
+    - was: béł
+    - we: më
+    - went: pòszëł
+    - went/walked: pòszëł
+    - were: byl/был
+    - what: co
+    - will: bãdzë
+    - yesterday: wczoraj
+    - you: të

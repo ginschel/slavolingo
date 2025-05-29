@@ -1,0 +1,185 @@
+Skill:
+  Name: Family
+  Id: 3
+
+New words:
+  - Word: brat
+    Translation: brother
+  - Word: starzik
+    Translation: grandfather
+  - Word: babka
+    Translation: grandmother
+  - Word: ciotka
+    Translation: aunt
+  - Word: wnuk
+    Translation: grandson
+  - Word: wnuczka
+    Translation: granddaughter
+  - Word: matka
+    Translation: mother
+  - Word: ôjc
+    Translation: father
+  - Word: familijo
+    Translation: family
+  - Word: syn
+    Translation: son
+  - Word: cōrka
+    Translation: daughter
+  - Word: stryk
+    Translation: uncle
+  - Word: godo
+    Translation: speaks
+  - Word: idzie
+    Translation: goes
+  - Word: idymy
+    Translation: we go
+  - Word: miyszko
+    Translation: lives
+
+Phrases:
+  - Phrase: Ôn je z moim bratym.
+    Translation: He is my brother.
+  - Phrase: Ôn je z twojim ôjcym
+    Translation: He is your father
+  - Phrase: Ôna idzie z matkōm.
+    Translation: She is going with her mother.
+  - Phrase: Ôn godo ze starzikym.
+    Translation: He is talking with his grandfather.
+  - Phrase: My gramy z naszymi dziyćmi.
+    Translation: We are playing with our children.
+  - Phrase: Ôni jadōm z ciotkōm.
+    Translation: They are going with their aunt.
+  - Phrase: Godōm z twojōm siostrōm.
+    Translation: I am talking with your sister.
+  - Phrase: Idymy do parku z familijōm.
+    Translation: We are going to the park with the family.
+  - Phrase: Ôn je z wnukym.
+    Translation: He is with his grandson.
+  - Phrase: Ôna gra z wnuczkōm.
+    Translation: She is playing with her granddaughter.
+  - Phrase: Piś piwo z matkōm je lepszy.
+    Translation: Drinking tea with mother is better.
+  - Phrase: Z kim ty idziesz?
+    Translation: Who are you going with?
+  - Phrase: Ôna godo z mojōm babkōm.
+    Translation: She is talking with my grandmother.
+  - Phrase: To je dōm z familijōm.
+    Translation: This is a house with a family.
+  - Phrase: Ôn miyszko z synym.
+    Translation: He lives with his son.
+  - Phrase: Idzymy na szpacer z bratami.
+    Translation: We are going for a walk with brothers.
+  - Phrase: Idzymy z cōrkōm.
+    Translation: We are going with our daughter.
+  - Phrase: Ôni sam som ze starzikym.
+    Translation: They are here with their grandfather.
+  - Phrase: Ôn miyszko z ciotkōm i ze strykiym.
+    Translation: He lives with his aunt and uncle.
+  - Phrase: Ôna godo z wnukym fest.
+    Translation: She talks with her grandson often.
+
+Mini-dictionary:
+  Silesian:
+    - babkōm: grandmother
+    - bratami: brothers
+    - bratym: brother
+    - ciotkōm: aunt
+    - cōrkōm: daughter
+    - do: to
+    - dziyćmi: children
+    - dōm: home
+    - familijōm: family
+    - fest: very
+    - godōm: speaking
+    - gra: game
+    - gramy: play
+    - i: and
+    - idziesz: go
+    - idzymy: go
+    - jadōm: eating
+    - je: is
+    - kim: who
+    - lepszy: better
+    - matkōm: mother
+    - moim: my
+    - mojōm: my
+    - my: we
+    - na: on
+    - naszymi: our
+    - parku: park
+    - piwo: beer
+    - piś: drink
+    - sam: himself
+    - siostrōm: sister
+    - som: am
+    - starzikym: grandfather
+    - strykiym: uncle
+    - synym: son
+    - szpacer: walk
+    - to: to
+    - twojim: your
+    - twojōm: your
+    - ty: you
+    - wnuczkōm: granddaughter
+    - wnukym: grandson
+    - z: from
+    - ze: from
+    - ôjcym: father
+    - ôn: he
+    - ôna: she
+    - ôni: they
+  English:
+    - a: jedin/один
+    - am: jeżech
+    - and: a
+    - are: byti/быти
+    - aunt: ciotka
+    - better: lepszy
+    - brother: brat
+    - brothers: braty
+    - children: bajtle
+    - daughter: cera
+    - drinking: picie
+    - family: familijo
+    - father: fatr
+    - for: dlo
+    - go: iś
+    - goes: idzie
+    - going: idōnc
+    - granddaughter: wnuczka
+    - grandfather: fatrzik
+    - grandmother: mutrzik
+    - grandson: wnuk
+    - he: ôn
+    - her: jeji
+    - here: sam
+    - his: jego
+    - house: chałpa
+    - i: jŏ
+    - is: je
+    - lives: miyszko
+    - mother: muter
+    - my: mōj
+    - often: czynsto
+    - our: nasz
+    - park: park
+    - playing: granie
+    - she: ôna
+    - sister: siostra
+    - son: syn
+    - speaks: gōdo
+    - talking: gōdanie
+    - talks: gōdo
+    - tea: tyj
+    - the: to
+    - their: jejich
+    - they: ôni
+    - this: tyn
+    - to: do
+    - uncle: ôjciec
+    - walk: iś
+    - we: my
+    - who: fto
+    - with: z
+    - you: ty
+    - your: twōj

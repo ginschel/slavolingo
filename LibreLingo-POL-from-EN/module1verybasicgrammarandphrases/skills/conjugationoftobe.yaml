@@ -1,0 +1,205 @@
+Skill:
+  Name: Conjugation of to be
+  Id: 1
+
+New words:
+  - Word: to (r. nijaki)
+    Translation: this (m)
+  - Word: ta (r. żeński)
+    Translation: this (f)
+  - Word: ten (r. męski)
+    Translation: that (m)
+  - Word: tamten (r. męski)
+    Translation: that over there (f)
+  - Word: tamta (r. żeński)
+    Translation: that over there (n)
+  - Word: jestem
+    Translation: i am
+  - Word: jesteś
+    Translation: you are (sg)
+  - Word: jest
+    Translation: he is
+  - Word: jesteśmy
+    Translation: we are
+  - Word: jesteście
+    Translation: you are (pl)
+  - Word: są
+    Translation: they are
+  - Word: ja
+    Translation: I
+  - Word: ty
+    Translation: you
+  - Word: on
+    Translation: he
+  - Word: ona
+    Translation: she
+  - Word: ono
+    Translation: it
+  - Word: my
+    Translation: we
+  - Word: wy
+    Translation: you
+  - Word: oni
+    Translation: they
+  - Word: one
+    Translation: they
+  - Word: człowiek
+    Translation: person
+  - Word: kobieta
+    Translation: woman
+  - Word: mąż
+    Translation: man
+  - Word: dziecko
+    Translation: child
+  - Word: przyjaciel
+    Translation: friend
+  - Word: siostra
+    Translation: sister
+  - Word: rodzic
+    Translation: parent
+  - Word: dom
+    Translation: house
+  - Word: miasto
+    Translation: city
+  - Word: dzień
+    Translation: day
+  - Word: też
+    Translation: also
+  - Word: kto
+    Translation: who
+
+Phrases:
+  - Phrase: Ja jestem mądry.
+    Translation: I am wise.
+  - Phrase: To moja siostra.
+    Translation: This is my sister.
+  - Phrase: Ona dużo mądra
+    Translation: She is very wise
+  - Phrase: My jesteśmy bardzo mądrzy
+    Translation: We are very wise
+  - Phrase: Wy też mądrzy?
+    Translation: Are you also wise?
+  - Phrase: To dobry człowiek.
+    Translation: This is a good person.
+  - Phrase: Ta kobieta jest dobra.
+    Translation: This woman is good.
+  - Phrase: To jest mój dom.
+    Translation: This is my house.
+  - Phrase: On to dobry przyjaciel
+    Translation: He is a good friend
+  - Phrase: Wy jesteście dobrzy.
+    Translation: You are good.
+  - Phrase: To są przyjaciele.
+    Translation: These are friends.
+  - Phrase: Kto ty jesteś?
+    Translation: Who are you?
+  - Phrase: Tamten mąż miły.
+    Translation: That man is kind.
+  - Phrase: To jest przyjemne miasto.
+    Translation: This is a pleasant city.
+  - Phrase: Ta kobieta jest wysoka.
+    Translation: That woman is tall.
+  - Phrase: Tamten dzień jest zimny.
+    Translation: That day is cold.
+  - Phrase: Tamten dom jest piękny.
+    Translation: That house over there is beautiful.
+  - Phrase: To moje dziecko.
+    Translation: This is my child.
+  - Phrase: Tamten ranek jest zimny.
+    Translation: That morning over there is cold.
+  - Phrase: To nie moja siostra.
+    Translation: This is not my sister.
+  - Phrase: To nie twój dom.
+    Translation: This is not your house.
+  - Phrase: To dobre auto?
+    Translation: Is this a good car?
+  - Phrase: To dobrzy przyjaciele?
+    Translation: Are these good friends?
+  - Phrase: One są bardzo miłe.
+    Translation: They are very kind.
+  - Phrase: Oni są bardzo mili
+    Translation: They are very kind
+
+Mini-dictionary:
+  Polish:
+    - auto: car
+    - bardzo: very
+    - dobra: good
+    - dobre: good
+    - dobry: good
+    - dobrzy: good
+    - dużo: much
+    - mili: kind
+    - miłe: nice
+    - miły: nice
+    - moja: my
+    - moje: my
+    - mój: my
+    - mądra: wise
+    - mądry: wise
+    - mądrzy: wise
+    - męski: male
+    - nie: no
+    - nijaki: neuter
+    - piękny: beautiful
+    - przyjaciele: friends
+    - przyjemne: pleasant
+    - r: r
+    - ranek: morning
+    - ta: this
+    - tamta: that
+    - tamten: that
+    - ten: this
+    - to: this
+    - twój: your
+    - wysoka: high
+    - zimny: cold
+    - żeński: female
+  English:
+    - a: jedin/один
+    - also: też
+    - am: jestem
+    - are: byti/быти
+    - beautiful: piękna
+    - car: auto
+    - child: dziecko
+    - city: miasto
+    - cold: zimno
+    - day: dzień
+    - f: undef
+    - friend: przyjaciel
+    - friends: przyjaciele
+    - good: dobry
+    - he: on
+    - house: dom
+    - i: ja
+    - is: jest
+    - it: to
+    - kind: miły
+    - m: undef
+    - man: mężczyzna
+    - morning: ranek
+    - my: mój
+    - n: undef
+    - not: nie
+    - over: nad
+    - parent: rodzic
+    - person: osoba
+    - pl: undef
+    - pleasant: przyjemny
+    - sg: undef
+    - she: ona
+    - sister: siostra
+    - tall: wysoki
+    - that: że
+    - there: tam
+    - these: te
+    - they: oni
+    - this: to
+    - very: bardzo
+    - we: my
+    - who: kto
+    - wise: mądry
+    - woman: kobieta
+    - you: ty
+    - your: twój

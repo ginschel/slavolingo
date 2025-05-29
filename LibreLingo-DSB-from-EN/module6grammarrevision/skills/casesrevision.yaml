@@ -1,0 +1,196 @@
+Skill:
+  Name: Cases revision
+  Id: 19
+
+New words:
+  - Word: "rězaś (rěžo)"
+    Translation: to cut
+  - Word: "dar"
+    Translation: gift
+  - Word: "univerzum"
+    Translation: universe
+  - Word: "zdrjadło"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Kóski how nje ma.
+    Translation: There is no bone here.
+  - Phrase: Dam žonje.
+    Translation: I give to the woman.
+  - Phrase: Wóna jo we městśe.
+    Translation: She is in the city.
+  - Phrase: Powědamy z pśijaśelami.
+    Translation: I talk with friends.
+  - Phrase: Měgo wón nje ma.
+    Translation: He has no name.
+  - Phrase: Ty dušy nje maš?!
+    Translation: You don't have a soul?!
+  - Phrase: Wón wiźi swóju žonu.
+    Translation: He sees his wife.
+  - Phrase: Brata how nje ma.
+    Translation: There is no brother here.
+  - Phrase: To móžno rězaś z nožom.
+    Translation: This can be cut with a knife.
+  - Phrase: Wóna z mužom powěda.
+    Translation: She talks with her husband.
+  - Phrase: Wóna powěda wó bratšach.
+    Translation: She talks about brothers.
+  - Phrase: Wóna dajo dar bratšam.
+    Translation: She gives a gift to the brothers.
+  - Phrase: Na pólu wjele źěłam.
+    Translation: I work a lot in the field.
+  - Phrase: Jo wjele słyńcow we uniwersumje.
+    Translation: There are many suns in the universe.
+  - Phrase: A teke jo wjele gwězdow.
+    Translation: And there are also many stars.
+  - Phrase: Wón lubi powědaś ze swójeju žonu.
+    Translation: He likes to talk with his wife.
+  - Phrase: Južo nje ma bananow we domje.
+    Translation: There are no more bananas in the house.
+  - Phrase: We wócyma wiźim dušu twóju.
+    Translation: In the eyes I see your soul.
+  - Phrase: Wocy su zdrjadłom duše.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Mužow how nje wiźim.
+    Translation: I do not see men here.
+  - Phrase: We městach wuwidźiš wjele luźi.
+    Translation: In the cities you will see many people.
+  - Phrase: Měrna noc!
+    Translation: Good night!
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: and
+    - bananow: bananas
+    - brata: brother
+    - bratšach: brothers
+    - bratšam: brothers
+    - dajo: gives
+    - dam: I will give
+    - dar: gift
+    - domje: at home
+    - duše: soul
+    - dušu: soul
+    - dušy: soul
+    - gwězdow: stars
+    - how: here
+    - jo: yes
+    - južo: already
+    - kóski: bones
+    - lubi: loves
+    - luźi: people
+    - ma: has
+    - maš: you have
+    - mužom: men
+    - mužow: men
+    - móžno: possible
+    - měgo: soft
+    - měrna: peaceful
+    - městach: cities
+    - městśe: city
+    - na: on
+    - nje: no
+    - noc: night
+    - nožom: knife
+    - powěda: tells
+    - powědamy: we tell
+    - powědaś: to tell
+    - pólu: field
+    - pśijaśelami: friends
+    - rězaś: to cut
+    - rěžo: cuts
+    - su: are
+    - swójeju: his, her, its, their (reflexive possessive)
+    - swóju: his, her, its, their (reflexive possessive)
+    - słyńcow: suns
+    - teke: also
+    - to: this
+    - twóju: your
+    - ty: you
+    - univerzum: universe
+    - uniwersumje: in the universe
+    - we: in
+    - wiźi: sees
+    - wiźim: I see
+    - wjele: many
+    - wocy: eyes
+    - wuwidźiš: you will see
+    - wó: about
+    - wócyma: eyes
+    - wón: he
+    - wóna: she
+    - z: with
+    - zdrjadło: mirror
+    - zdrjadłom: mirror
+    - ze: with
+    - źěłam: I work
+    - žonje: woman
+    - žonu: woman
+  English:
+    - a: jedin/один
+    - about: wó
+    - also: teke
+    - and: a
+    - are: byti/быти
+    - bananas: banany
+    - be: byś
+    - bone: kósć
+    - brother: bratš
+    - brothers: bratšy
+    - can: móžo
+    - cities: města
+    - city: město
+    - cut: rězaś
+    - do: cyniś
+    - don't: njej
+    - eyes: wócy
+    - field: pólo
+    - friends: pśijaśele
+    - gift: dar
+    - give: daś
+    - gives: dajo
+    - good: dobry
+    - has: ma
+    - have: měś
+    - he: wón
+    - her: ju
+    - here: how
+    - his: jogo
+    - house: dom
+    - husband: muž
+    - i: ja
+    - in: w
+    - is: jo
+    - knife: nož
+    - likes: lubujo
+    - lot: wjele
+    - many: wjele
+    - men: mužy
+    - mirror: zdrjadło
+    - more: wěcej
+    - name: mjeno
+    - night: noc
+    - no: nic
+    - not: nic
+    - of: wót
+    - people: luźe
+    - see: wiźeś
+    - sees: wiźi
+    - she: wóna
+    - soul: duša
+    - stars: gwězdki
+    - suns: słyńca
+    - talk: rozgroniś
+    - talks: rozgronjo
+    - the: to
+    - there: tam
+    - this: toś
+    - to: do
+    - universe: uniwersum
+    - wife: žona
+    - will: buźo
+    - with: z
+    - woman: žona
+    - work: źěłaś
+    - you: ty
+    - your: twój

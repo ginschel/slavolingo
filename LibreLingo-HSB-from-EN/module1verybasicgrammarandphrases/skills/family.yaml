@@ -1,0 +1,183 @@
+Skill:
+  Name: Family
+  Id: 3
+
+New words:
+  - Word: bratr
+    Translation: brother
+  - Word: dźěd
+    Translation: grandfather
+  - Word: babka
+    Translation: grandmother
+  - Word: ćota
+    Translation: aunt
+  - Word: wnuk
+    Translation: grandson
+  - Word: wnuknja
+    Translation: granddaughter
+  - Word: mać
+    Translation: mother
+  - Word: nan
+    Translation: father
+  - Word: swójba
+    Translation: family
+  - Word: syn
+    Translation: son
+  - Word: dźowka
+    Translation: daughter
+  - Word: stryc
+    Translation: uncle
+  - Word: rěči
+    Translation: speaks
+  - Word: dźe
+    Translation: goes
+  - Word: dźemy
+    Translation: we go
+  - Word: bydli
+    Translation: lives
+
+Phrases:
+  - Phrase: Wón je mój bratr.
+    Translation: He is my brother.
+  - Phrase: Wón je twój nan
+    Translation: He is your father
+  - Phrase: Wona dźe z maću.
+    Translation: She is going with her mother.
+  - Phrase: Wón rěči z dźědom.
+    Translation: He is talking with his grandfather.
+  - Phrase: My hrajemy z našimi dźěćimi.
+    Translation: We are playing with our children.
+  - Phrase: Woni jědźa z ćotu.
+    Translation: They are going with their aunt.
+  - Phrase: Rěčim z twojej sotru.
+    Translation: I am talking with your sister.
+  - Phrase: Dźem do parka z swójbu.
+    Translation: We are going to the park with the family.
+  - Phrase: Wón je z wnukom.
+    Translation: He is with his grandson.
+  - Phrase: Wona hra z wnuknju.
+    Translation: She is playing with her granddaughter.
+  - Phrase: Pić čaj z maću je lěpši.
+    Translation: Drinking tea with mother is better.
+  - Phrase: Z kim ty dźeš?
+    Translation: Who are you going with?
+  - Phrase: Wona rěči z mojeju babku.
+    Translation: She is talking with my grandmother.
+  - Phrase: To je dom z swójbu.
+    Translation: This is a house with a family.
+  - Phrase: Wón bydli ze synom.
+    Translation: He lives with his son.
+  - Phrase: Dźemy na pućowanje z bratrami.
+    Translation: We are going for a walk with brothers.
+  - Phrase: Dźemy z dźowku.
+    Translation: We are going with our daughter.
+  - Phrase: Woni su tule z dźědom.
+    Translation: They are here with their grandfather.
+  - Phrase: Wón bydli z ćotu a z strycom.
+    Translation: He lives with his aunt and uncle.
+  - Phrase: Wona rěči z wnukom často.
+    Translation: She talks with her grandson often.
+
+Mini-dictionary:
+  Upper Sorbian:
+    - a: and
+    - babku: grandmother
+    - bratrami: with brothers
+    - do: into
+    - dom: house
+    - dźem: i go
+    - dźeš: you go
+    - dźowku: daughter
+    - dźědom: grandfather
+    - dźěćimi: with children
+    - hra: plays
+    - hrajemy: we play
+    - je: is
+    - jědźa: they eat
+    - kim: whom
+    - lěpši: better
+    - maću: mother
+    - mojeju: my
+    - my: we
+    - mój: my
+    - na: on
+    - našimi: our
+    - parka: pair
+    - pić: to drink
+    - pućowanje: travel
+    - rěčim: i speak
+    - sotru: sister
+    - strycom: uncle
+    - su: are
+    - swójbu: family
+    - synom: son
+    - to: this
+    - tule: here
+    - twojej: your
+    - twój: your
+    - ty: you
+    - wnuknju: granddaughter
+    - wnukom: grandson
+    - wona: she
+    - woni: they
+    - wón: he
+    - z: with
+    - ze: from
+    - ćotu: aunt
+    - čaj: tea
+    - často: often
+  English:
+    - a: jedin/один
+    - am: sym
+    - and: a
+    - are: byti/быти
+    - aunt: ćota
+    - better: lěpši
+    - brother: bratr
+    - brothers: bratrach
+    - children: dźěći
+    - daughter: dźowka
+    - drinking: pije
+    - family: swójba
+    - father: nan
+    - for: za
+    - go: dźi
+    - goes: dźe
+    - going: dźeja
+    - granddaughter: wnuknja
+    - grandfather: dźěd
+    - grandmother: babka
+    - grandson: wnuk
+    - he: wón
+    - her: jeje
+    - here: tu
+    - his: jeho
+    - house: dom
+    - i: ja
+    - is: je
+    - lives: bydli
+    - mother: mać
+    - my: mój
+    - often: často
+    - our: našimi
+    - park: park
+    - playing: hra
+    - she: wona
+    - sister: sotra
+    - son: syn
+    - speaks: rěči
+    - talking: rěči
+    - talks: rěči
+    - tea: čaj
+    - the: to
+    - their: jich
+    - they: woni
+    - this: to
+    - to: k
+    - uncle: stryc
+    - walk: sochodźić
+    - we: my
+    - who: štó
+    - with: z
+    - you: ty
+    - your: twój

@@ -1,0 +1,206 @@
+Skill:
+  Name: Pronouns revision
+  Id: 20
+
+New words:
+  - Word: "znát (fakta)"
+    Translation: to know
+  - Word: "vědět (znát někoho/něco)"
+    Translation: to know
+  - Word: "sen"
+    Translation: dream
+  - Word: "věc"
+    Translation: thing
+
+Phrases:
+  - Phrase: Toho neznám.
+    Translation: I don't know that.
+  - Phrase: O tom už dlouho vím.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Koho ty vidíš?.
+    Translation: Who do you see?.
+  - Phrase: Těm, kteří leží spát, klidný sen.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: O té věci já nic nevím.
+    Translation: I know nothing about that thing.
+  - Phrase: Mluvím s tebou.
+    Translation: I am talking with you.
+  - Phrase: Já vidím vás.
+    Translation: I see you.
+  - Phrase: On má rád být sám se sebou.
+    Translation: He likes to be alone with himself.
+  - Phrase: Dej mi vodu.
+    Translation: Give me water.
+  - Phrase: S námi vždycky všechno veselé.
+    Translation: With us everything is always cheerful.
+  - Phrase: Mne nevidíš.
+    Translation: You don't see me.
+  - Phrase: Komu dáš dar?
+    Translation: Who do you give a gift to?
+  - Phrase: O mně mluvíš?
+    Translation: Are you talking about me?
+  - Phrase: Ne, já nemluvím o tobě.
+    Translation: No, I don't talt about you.
+  - Phrase: O čem ty mluvíš?
+    Translation: What are you talking about?
+  - Phrase: Tyto ženy jsou krásné.
+    Translation: These women are beautiful.
+  - Phrase: Těchto přátel nemáš.
+    Translation: You do not have those friends.
+  - Phrase: On dává sobě klid.
+    Translation: He stops troubling others.
+  - Phrase: Čeho tu není v domě?
+    Translation: What isn't at this house here?
+  - Phrase: Tomu psu ty dáváš kosti.
+    Translation: You give to this dog bones.
+  - Phrase: To je vaše káva nebo její?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Czech:
+    - být: be
+    - dar: gift
+    - dej: give
+    - dlouho: long
+    - domě: home
+    - dává: gives
+    - dáváš: you give
+    - dáš: you will give
+    - fakta: facts
+    - je: is
+    - její: her
+    - jsou: are
+    - já: I
+    - klid: peace
+    - klidný: peaceful
+    - koho: whom
+    - komu: to whom
+    - kosti: bones
+    - krásné: beautiful
+    - kteří: who
+    - káva: coffee
+    - leží: lies
+    - mi: me
+    - mluvím: I speak/talk
+    - mluvíš: you speak/talk
+    - mne: me
+    - mně: me
+    - má: has
+    - ne: no/not
+    - nebo: or
+    - nemluvím: I don't speak
+    - nemáš: you don't have
+    - není: isn't
+    - nevidíš: you don't see
+    - nevím: I don't know
+    - neznám: I don't know
+    - nic: nothing
+    - námi: us
+    - někoho/něco: someone/something
+    - o: about/of
+    - on: he
+    - psu: dog
+    - přátel: friends
+    - rád: likes
+    - s: with
+    - se: oneself
+    - sebou: with oneself
+    - sen: dream
+    - sobě: oneself
+    - spát: sleep
+    - sám: alone
+    - tebou: you
+    - to: it/that
+    - tobě: you
+    - toho: that
+    - tom: that
+    - tomu: that
+    - tu: here
+    - ty: you
+    - tyto: these
+    - té: that
+    - těchto: these
+    - těm: them
+    - už: already
+    - v: in
+    - vaše: your
+    - veselé: cheerful
+    - vidím: I see
+    - vidíš: you see
+    - vodu: water
+    - vás: you
+    - vím: I know
+    - věc: thing
+    - věci: things
+    - vědět: know
+    - všechno: everything
+    - vždycky: always
+    - znát: know
+    - čeho: what
+    - čem: what
+    - ženy: women
+  English:
+    - a: jedin/один
+    - about: o
+    - alone: sám
+    - always: vždy
+    - am: jsem
+    - are: byti/быти
+    - at: v
+    - be: být
+    - beautiful: krásný
+    - bones: kosti
+    - cheerful: veselý
+    - coffee: káva
+    - do: dělat
+    - dog: pes
+    - don't: nedělej
+    - dream: sen
+    - everything: všechno
+    - for: pro
+    - friends: přátelé
+    - gift: dárek
+    - give: dát
+    - going: jít
+    - have: mít
+    - he: on
+    - her: její
+    - here: zde
+    - himself: sám sebe
+    - house: dům
+    - i: já
+    - is: je
+    - isn't: není
+    - it: to
+    - know: vědět
+    - known: známý
+    - likes: má rád
+    - long: dlouhý
+    - me: mě
+    - no: ne
+    - not: ne
+    - nothing: nic
+    - or: nebo
+    - others: ostatní
+    - peaceful: mírový
+    - see: vidět
+    - sleep: spát
+    - stops: zastavuje
+    - talking: mluvení
+    - talt: talt
+    - that: to
+    - these: tyto
+    - thing: věc
+    - this: toto
+    - those: ty
+    - time: čas
+    - to: do
+    - troubling: znepokojující
+    - us: nás
+    - water: voda
+    - what: co
+    - who: kdo
+    - with: s
+    - women: ženy
+    - you: ty/vy
+    - your: tvůj/váš

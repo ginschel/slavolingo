@@ -1,0 +1,167 @@
+Skill:
+  Name: Nationalities
+  Id: 11
+
+New words:
+  - Word: slovan
+    Translation: Slav
+  - Word: jazyk
+    Translation: language
+  - Word: štát
+    Translation: country
+  - Word: národ
+    Translation: nation
+  - Word: meno
+    Translation: name
+  - Word: Chorvátka
+    Translation: Croat
+  - Word: Rus
+    Translation: Russian
+  - Word: Poliak
+    Translation: Pole
+  - Word: Nemec
+    Translation: German
+  - Word: Angličan
+    Translation: Englishman
+
+Phrases:
+  - Phrase: On je Slovan.
+    Translation: He is a Slav.
+  - Phrase: Ona hovorí slovanským jazykom.
+    Translation: She speaks the Slavic language.
+  - Phrase: To je môj jazyk.
+    Translation: This is my language.
+  - Phrase: Štát je Poľsko.
+    Translation: The country is Poland.
+  - Phrase: Ja som Poliak.
+    Translation: I am a Pole.
+  - Phrase: Ona je Chorvátka.
+    Translation: She is a Croat.
+  - Phrase: On je Rus.
+    Translation: He is a Russian.
+  - Phrase: Hovoríš nemeckým jazykom?
+    Translation: Do you speak the German language?
+  - Phrase: Angličan hovorí anglickým jazykom.
+    Translation: An Englishman speaks the English language.
+  - Phrase: My ľúbime svoj národ.
+    Translation: We love our nation.
+  - Phrase: To je meno môjho štátu.
+    Translation: This is the name of my country.
+  - Phrase: On vie tri jazyky.
+    Translation: He knows three languages.
+  - Phrase: Chorvát hovorí chorvátskym jazykom.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Nemec žije v Nemecku.
+    Translation: A German lives in Germany.
+  - Phrase: Ona vie rusky a slovansky.
+    Translation: She knows Russian and Slavic.
+  - Phrase: To je národ s bohatou kultúrou.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Si ty Angličan?
+    Translation: Are you an Englishman?
+  - Phrase: On hovorí každý jazyk dobre.
+    Translation: He speaks every language well.
+  - Phrase: My sa učíme ruský jazyk.
+    Translation: We are learning the Russian language.
+  - Phrase: Ona pozná veľa národov.
+    Translation: She knows many nations.
+
+Mini-dictionary:
+  Slovak:
+    - a: and
+    - anglickým: English
+    - angličan: Englishman
+    - bohatou: rich
+    - chorvát: Croat
+    - chorvátka: Croat (female)
+    - chorvátskym: Croatian
+    - dobre: good
+    - hovorí: says
+    - hovoríš: you say
+    - ja: I
+    - jazykom: language
+    - jazyky: languages
+    - je: is
+    - každý: every
+    - kultúrou: culture
+    - my: we
+    - môj: my
+    - môjho: my
+    - nemec: German
+    - nemecku: Germany
+    - nemeckým: German
+    - národov: nations
+    - on: he
+    - ona: she
+    - poliak: Pole
+    - pozná: knows
+    - poľsko: Poland
+    - rus: Russian
+    - rusky: Russian
+    - ruský: Russian
+    - s: with
+    - sa: oneself
+    - si: are
+    - slovansky: Slavic
+    - slovanským: Slavic
+    - som: am
+    - svoj: his/her/its own
+    - to: it
+    - tri: three
+    - ty: you
+    - učíme: we teach
+    - v: in
+    - veľa: many
+    - vie: knows
+    - ľúbime: we love
+    - štátu: state
+    - žije: lives
+  English:
+    - a: jedin/один
+    - am: som
+    - an: a
+    - and: a
+    - are: byti/быти
+    - country: krajina
+    - croat: chorvát
+    - croatian: chorvátskym
+    - culture: kultúra
+    - do: robiť
+    - english: anglický
+    - englishman: angličan
+    - every: každý
+    - german: nemec
+    - germany: nemecku
+    - he: on
+    - i: ja
+    - in: v
+    - is: je
+    - knows: pozná
+    - language: jazyk
+    - languages: jazyky
+    - learning: učenie
+    - lives: žije
+    - love: láska
+    - many: mnoho
+    - my: môj
+    - name: meno
+    - nation: národ
+    - nations: národov
+    - of: z
+    - our: náš
+    - poland: poľsko
+    - pole: poliak
+    - rich: bohatý
+    - russian: ruský
+    - she: ona
+    - slav: slovan
+    - slavic: slovanským
+    - speak: hovoriť
+    - speaks: hovorí
+    - the: to
+    - this: tento
+    - three: tri
+    - we: my
+    - well: dobre
+    - with: s
+    - you: ty

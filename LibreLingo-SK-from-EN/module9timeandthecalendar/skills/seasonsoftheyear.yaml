@@ -1,0 +1,188 @@
+Skill:
+  Name: Seasons of the year
+  Id: 33
+
+New words:
+  - Word: leto
+    Translation: summer
+  - Word: jeseň
+    Translation: autumn
+  - Word: zima
+    Translation: winter
+  - Word: jar
+    Translation: spring
+  - Word: ročné obdobie
+    Translation: season
+  - Word: byť
+    Translation: to be
+  - Word: budem
+    Translation: I will be
+  - Word: budeš
+    Translation: you will be
+  - Word: bude
+    Translation: he/she/it will be
+  - Word: budeme
+    Translation: we will be
+  - Word: budete
+    Translation: you will be
+  - Word: budú
+    Translation: they will be
+
+Phrases:
+  - Phrase: V lete bude teplo.
+    Translation: In the summer it will be warm.
+  - Phrase: Na jeseň budeme vidieť padať lístie.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: V zime budete hrať so snehom.
+    Translation: In the winter you will play with snow.
+  - Phrase: Jar prinesie kvety.
+    Translation: Spring will bring flowers.
+  - Phrase: Ročné obdobie sa bude meniť štyri razy.
+    Translation: The season will change four times.
+  - Phrase: V zime bude padať sneh.
+    Translation: In the winter it will snow.
+  - Phrase: Na jar rastú kvety.
+    Translation: In spring, flowers grow.
+  - Phrase: V lete je veľa slnka.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: Na jeseň budeš veľmi trpieť kvôli dažďu.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Vzduch v zime bude chladný.
+    Translation: The air in winter will be cold.
+  - Phrase: Leto je obdobie odpočinku pri jazere.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Jeseň má veľa farieb.
+    Translation: Autumn has many colors.
+  - Phrase: Zima nie je dobrá pre športovcov.
+    Translation: Winter is not good for sports.
+  - Phrase: Jar je nudná.
+    Translation: Spring is boring.
+  - Phrase: Ročné obdobia sa menia štyri razy v roku.
+    Translation: The seasons change four times a year.
+  - Phrase: Skoro končí sa leto.
+    Translation: Summer will soon end.
+  - Phrase: Na jeseň toľko prší.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Zima má veľa snehu.
+    Translation: Winter has a lot of snow.
+  - Phrase: Oni budú vidieť zelenú krajinu.
+    Translation: They will see a green landscape.
+  - Phrase: Slnko bude svietiť silno v lete.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Slovak:
+    - chladný: cold
+    - dažďu: rain
+    - dobrá: good
+    - farieb: colors
+    - hrať: to play
+    - jazere: lake
+    - je: is
+    - končí: ends
+    - krajinu: country
+    - kvety: flowers
+    - kvôli: because of
+    - lete: summer
+    - lístie: leaves
+    - menia: they change
+    - meniť: to change
+    - má: has
+    - na: on
+    - nie: no
+    - nudná: boring
+    - obdobia: period
+    - obdobie: period
+    - odpočinku: rest
+    - oni: they
+    - padať: to fall
+    - pre: for
+    - pri: at
+    - prinesie: brings
+    - prší: rains
+    - rastú: they grow
+    - razy: times
+    - roku: year
+    - ročné: annual
+    - sa: oneself
+    - silno: strongly
+    - skoro: almost
+    - slnka: sun
+    - slnko: sun
+    - sneh: snow
+    - snehom: snow
+    - snehu: snow
+    - so: with
+    - svietiť: to shine
+    - teplo: warmth
+    - toľko: so much
+    - trpieť: to suffer
+    - v: in
+    - veľa: many
+    - veľmi: very
+    - vidieť: to see
+    - vzduch: air
+    - zelenú: green
+    - zime: winter
+    - športovcov: athletes
+    - štyri: four
+  English:
+    - a: jedin/один
+    - air: vzduch
+    - autumn: jeseň
+    - be: byť
+    - because: pretože
+    - boring: nudná
+    - bring: priniesť
+    - by: by
+    - change: meniť
+    - cold: chladno
+    - colors: farieb
+    - end: koniec
+    - falling: padá
+    - flowers: kvety
+    - for: pre
+    - four: štyri
+    - good: dobrý
+    - green: zelený
+    - grow: rásť
+    - has: má
+    - he/she/it: ono
+    - i: ja
+    - in: v
+    - is: je
+    - it: to
+    - lake: jazero
+    - landscape: krajina
+    - leaves: lístie
+    - lot: veľa
+    - many: mnoho
+    - not: nie
+    - of: z
+    - play: hrať
+    - rain: dážď
+    - rest: odpočinok
+    - season: ročné obdobie
+    - seasons: ročné obdobia
+    - see: vidieť
+    - shine: svietiť
+    - snow: sneh
+    - soon: skoro
+    - sports: športovcov
+    - spring: jar
+    - strongly: silno
+    - suffer: trpieť
+    - summer: leto
+    - sun: slnko
+    - the: to
+    - there: tam
+    - they: oni
+    - times: razy
+    - to: do
+    - warm: teplý
+    - we: my
+    - will: bude
+    - winter: zima
+    - with: s
+    - year: rok
+    - you: ty

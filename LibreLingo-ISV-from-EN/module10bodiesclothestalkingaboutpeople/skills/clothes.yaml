@@ -1,0 +1,232 @@
+Skill:
+  Name: Clothes
+  Id: 34
+
+New words:
+  - Word: košulja
+    Translation: shirt
+  - Word: nositi
+    Translation: to wear
+  - Word: nogavice
+    Translation: trousers
+  - Word: teniska
+    Translation: t-shirt
+  - Word: šalik
+    Translation: scarf
+  - Word: šapka
+    Translation: hat
+  - Word: paljto
+    Translation: coat
+  - Word: rukavica
+    Translation: glove
+  - Word: gače
+    Translation: underwear
+  - Word: škarpetka
+    Translation: sock
+  - Word: obuvka
+    Translation: footwear
+  - Word: odež
+    Translation: clothes
+  - Word: bridky
+    Translation: ugly
+  - Word: oblěkati
+    Translation: to dress
+  - Word: pižama
+    Translation: pajamas
+
+Phrases:
+  - Phrase: On nosi modru košulju.
+    Translation: He wears a blue shirt.
+  - Phrase: Ona ima črne nogavice, a on běle.
+    Translation: She has black trousers, and he has white.
+  - Phrase: Obuvky i paljto ležet pri dvěrjah.
+    Translation: Shoes and the coat are lying by the door.
+  - Phrase: šalik jest težky i teply.
+    Translation: The scarf is heavy and warm.
+  - Phrase: Zimoju nosim vsegda šapku, a v lětu ne.
+    Translation: In winter, I always wear a hat, but not in summer.
+  - Phrase: Gače sut krasive ili bridke?
+    Translation: Are the shorts beautiful or ugly?
+  - Phrase: Nosim rukavice v zimě.
+    Translation: We wear gloves in winter.
+  - Phrase: Tamta pižama jest zelena.
+    Translation: That pajama is green.
+  - Phrase: Novi gače sut komfortne.
+    Translation: New shorts are comfortable.
+  - Phrase: Nova odež jest draga.
+    Translation: New clothes are expensive.
+  - Phrase: Košulja jest v skrinji.
+    Translation: The shirt is in the drawer.
+  - Phrase: šapka visi na stěně.
+    Translation: The hat hangs on the wall.
+  - Phrase: On oblěkal i nosil včera o vtoroj časině zelenu tenisku ili košulju. Ja ne uvěrjeny tutčas.
+    Translation: He wore and put on a green tennis shoe or shirt yesterday at two AM. I'm not sure right now.
+  - Phrase: Ty hčeš šalik ili košulju.
+    Translation: You want a scarf or a shirt.
+  - Phrase: Bridke rukavice ležet na stolu, a krasno paljto nosim.
+    Translation: The ugly gloves are lying on the table, and I wear the red coat.
+  - Phrase: Ona kupila teple obuvky.
+    Translation: She bought warm shoes.
+  - Phrase: On oblěka novu košulju.
+    Translation: He is putting on a new shirt.
+  - Phrase: škarpetki moje sut kratki.
+    Translation: My socks are short.
+  - Phrase: V zimě budu potrěbovati šapky i rukavic.
+    Translation: In winter I will need a hat and gloves.
+  - Phrase: Odež jest čistajai i toliko uže běla.
+    Translation: The clothes are clean and only the underwear is white.
+
+Mini-dictionary:
+  Interslavic:
+    - a: a
+    - bridke: ugly
+    - budu: i will be
+    - běla: white
+    - běle: white
+    - draga: expensive
+    - dvěrjah: doors
+    - hčeš: you want
+    - i: and
+    - ili: or
+    - ima: has
+    - ja: i
+    - jest: is
+    - komfortne: comfortable
+    - košulju: shirt
+    - krasive: beautiful
+    - krasno: beautiful
+    - kratki: short
+    - kupila: bought
+    - ležet: lies
+    - lětu: summer
+    - modru: blue
+    - moje: my
+    - na: on
+    - ne: no
+    - nosi: carries
+    - nosil: carried
+    - nosim: i carry
+    - nova: new
+    - novi: new
+    - novu: new
+    - o: about
+    - oblěka: dresses
+    - oblěkal: dressed
+    - obuvky: shoes
+    - on: he
+    - ona: she
+    - potrěbovati: to need
+    - pri: at
+    - rukavic: glove
+    - rukavice: gloves
+    - skrinji: cabinet
+    - stolu: table
+    - stěně: wall
+    - sut: they are
+    - tamta: that
+    - tenisku: tennis
+    - teple: warm
+    - teply: warm
+    - težky: difficult
+    - toliko: only
+    - tutčas: immediately
+    - ty: you
+    - uvěrjeny: confident
+    - uže: already
+    - v: in
+    - visi: hangs
+    - vsegda: always
+    - vtoroj: second
+    - včera: yesterday
+    - zelena: green
+    - zelenu: green
+    - zimoju: winter
+    - zimě: winter
+    - časině: hour
+    - čistajai: clean
+    - črne: black
+    - šapku: hat
+    - šapky: hats
+    - škarpetki: socks
+  English:
+    - a: jedin/один
+    - always: vsegda
+    - am: jesm
+    - and: i
+    - are: byti/быти
+    - at: u
+    - beautiful: krasivy
+    - black: črny
+    - blue: modry
+    - bought: kupila
+    - but: ale
+    - by: od
+    - clean: čisty
+    - clothes: odež
+    - coat: paljto
+    - comfortable: komfortna
+    - door: dveri
+    - drawer: šufljada
+    - dress: oblěkati
+    - expensive: draga
+    - footwear: obuvka
+    - glove: rukavica
+    - gloves: rukavice
+    - green: zeleny
+    - hangs: visi
+    - has: ima
+    - hat: šapka
+    - he: on
+    - heavy: težky
+    - i: ja
+    - i'm: jesm
+    - in: v
+    - is: jest
+    - lying: leži
+    - my: moj
+    - need: potrěbovati
+    - new: novy
+    - not: ne
+    - now: nyně
+    - on: na
+    - only: toliko
+    - or: ili
+    - pajama: pižama
+    - pajamas: pižama
+    - put: loži
+    - putting: loži
+    - red: črveny
+    - right: pravo
+    - scarf: šalik
+    - she: ona
+    - shirt: košulja
+    - shoe: obuvka
+    - shoes: obuvky
+    - short: kratki
+    - shorts: gače
+    - sock: škarpetka
+    - socks: škarpetki
+    - summer: lěto
+    - sure: uvěrjeny
+    - t-shirt: tenisku
+    - table: stol
+    - tennis: tenis
+    - that: toj
+    - the: to
+    - to: do
+    - trousers: gače
+    - two: dva
+    - ugly: bridky
+    - underwear: spodnje pradlo
+    - wall: stěna
+    - want: htěti
+    - warm: teply
+    - we: my
+    - wear: oblěkati
+    - wears: oblěka
+    - white: běly
+    - will: bude
+    - winter: zima
+    - wore: nosil
+    - yesterday: včera
+    - you: ty

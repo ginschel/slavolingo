@@ -1,0 +1,183 @@
+Skill:
+  Name: Family
+  Id: 3
+
+New words:
+  - Word: братъ
+    Translation: brother
+  - Word: дѣдъ
+    Translation: grandfather
+  - Word: бабка
+    Translation: grandmother
+  - Word: тєтка
+    Translation: aunt
+  - Word: внꙋкъ
+    Translation: grandson
+  - Word: внꙋчька
+    Translation: granddaughter
+  - Word: мати
+    Translation: mother
+  - Word: отєць
+    Translation: father
+  - Word: родъ
+    Translation: family
+  - Word: сꙑнъ
+    Translation: son
+  - Word: дошти
+    Translation: daughter
+  - Word: строи
+    Translation: uncle
+  - Word: глаголи
+    Translation: speaks
+  - Word: идєтъ
+    Translation: goes
+  - Word: идємъ
+    Translation: we go
+  - Word: живєтъ
+    Translation: lives
+
+Phrases:
+  - Phrase: Онъ ѥстъ моимъ братомъ.
+    Translation: He is my brother.
+  - Phrase: Онъ ѥстъ твоимъ отцомъ
+    Translation: He is your father
+  - Phrase: Она идєтъ съ материѭ.
+    Translation: She is going with her mother.
+  - Phrase: Онъ глаголи съ дѣдомъ.
+    Translation: He is talking with his grandfather.
+  - Phrase: Мꙑ играѥмъ съ нашеѭ дѣтми.
+    Translation: We are playing with our children.
+  - Phrase: Они ѥдѫтъ съ тєткоѭ.
+    Translation: They are going with their aunt.
+  - Phrase: Глаголѭ съ твоѥѭ сєстроѭ.
+    Translation: I am talking with your sister.
+  - Phrase: Идємъ въ паркъ съ родоѭ.
+    Translation: We are going to the park with the family.
+  - Phrase: Онъ ѥстъ съ внꙋкомъ.
+    Translation: He is with his grandson.
+  - Phrase: Она играѥтъ съ внꙋчкоѭ.
+    Translation: She is playing with her granddaughter.
+  - Phrase: Пити чаи съ материѭ ѥстъ лєпьшє.
+    Translation: Drinking tea with mother is better.
+  - Phrase: Съ кимь тꙑ идєши?
+    Translation: Who are you going with?
+  - Phrase: Она глаголи съ моѥѭ бабкоѭ.
+    Translation: She is talking with my grandmother.
+  - Phrase: Сь ѥстъ домомъ съ родоѭ.
+    Translation: This is a house with a family.
+  - Phrase: Онъ живєтъ съ сꙑномъ.
+    Translation: He lives with his son.
+  - Phrase: Идємъ на походъ съ братиѭ.
+    Translation: We are going for a walk with brothers.
+  - Phrase: Идємъ съ дощєриѭ.
+    Translation: We are going with our daughter.
+  - Phrase: Они тѫ сѫтъ съ дѣдомъ.
+    Translation: They are here with their grandfather.
+  - Phrase: Онъ живєтъ съ тєткоѭ и съ строѥмь.
+    Translation: He lives with his aunt and uncle.
+  - Phrase: Она глаголи съ внꙋкомъ часто.
+    Translation: She talks with her grandson often.
+
+Mini-dictionary:
+  Old Church Slavonic:
+    - бабкоѭ: with grandmother
+    - братиѭ: with the brother
+    - братомъ: with the brother
+    - внꙋкомъ: with a grandson
+    - внꙋчкоѭ: with a granddaughter
+    - въ: in, at
+    - глаголѭ: I speak
+    - домомъ: with a house
+    - дощєриѭ: with a daughter
+    - дѣдомъ: with a grandfather
+    - дѣтми: with children
+    - и: and
+    - играѥмъ: we play
+    - играѥтъ: he/she/it plays
+    - идєши: you (singular) go
+    - кимь: with whom
+    - лєпьшє: better
+    - материѭ: with mother
+    - моимъ: with my
+    - моѥѭ: with my (feminine)
+    - мꙑ: we
+    - на: on, to
+    - нашеѭ: with our
+    - она: she
+    - они: they (masculine)
+    - онъ: he
+    - отцомъ: with a father
+    - паркъ: park
+    - пити: to drink
+    - походъ: trip, hike
+    - родоѭ: with the family
+    - строѥмь: we build
+    - съ: with
+    - сь: this
+    - сєстроѭ: with a sister
+    - сѫтъ: they are
+    - сꙑномъ: with a son
+    - твоимъ: with your
+    - твоѥѭ: with your (feminine)
+    - тєткоѭ: with an aunt
+    - тѫ: that (accusative feminine)
+    - тꙑ: you (singular)
+    - чаи: tea
+    - часто: often
+    - ѥдѫтъ: they eat
+    - ѥстъ: he/she/it is
+  English:
+    - a: jedin/один
+    - am: ѥсмь
+    - and: и
+    - are: byti/быти
+    - aunt: тєтка
+    - better: лѣпьшє
+    - brother: братъ
+    - brothers: братиꙗ
+    - children: дѣти
+    - daughter: дъщи
+    - drinking: пиѥтъ
+    - family: родъ
+    - father: отєць
+    - for: за, на
+    - go: ити
+    - goes: идєтъ
+    - going: идєтъ
+    - granddaughter: внꙋчька
+    - grandfather: дѣдъ
+    - grandmother: бабка
+    - grandson: внꙋкъ
+    - he: онъ
+    - her: ѥѩ
+    - here: тꙋ
+    - his: ѥго
+    - house: домъ
+    - i: азъ, ꙗ
+    - is: ѥстъ
+    - lives: живєтъ
+    - mother: мати
+    - my: мои, моꙗ, моѥ
+    - often: часто
+    - our: нашь
+    - park: паркъ
+    - playing: играѥтъ
+    - she: она
+    - sister: сєстра
+    - son: сꙑнъ
+    - speaks: глаголѥтъ
+    - talking: бєсѣдꙋѥтъ
+    - talks: бєсѣдꙋѥтъ
+    - tea: чаи
+    - the: to
+    - their: ихъ
+    - they: они, онꙑ
+    - this: сь, сꙗ, сє
+    - to: къ, на
+    - uncle: (no direct equivalent)
+    - walk: ходити
+    - we: мꙑ
+    - who: къто
+    - with: съ
+    - you: тꙑ, вꙑ
+    - your: твои

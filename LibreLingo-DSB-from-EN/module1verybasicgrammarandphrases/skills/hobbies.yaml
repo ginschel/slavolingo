@@ -1,0 +1,188 @@
+Skill:
+  Name: Hobbies
+  Id: 4
+
+New words:
+  - Word: cytaś
+    Translation: to read
+  - Word: pisaś (pišo)
+    Translation: to write
+  - Word: graś
+    Translation: to play
+  - Word: glědaś
+    Translation: to watch
+  - Word: słuchaś
+    Translation: to listen
+  - Word: mólowaś
+    Translation: to paint
+  - Word: spiwaś
+    Translation: to sing
+  - Word: wuknuś se
+    Translation: to learn
+  - Word: sedźeś (sedźi)
+    Translation: to sit
+  - Word: šyś (šyjo)
+    Translation: to sew
+  - Word: tancyrowaś
+    Translation: to dance
+
+Phrases:
+  - Phrase: Ja cytam knigłu.
+    Translation: I am reading a book.
+  - Phrase: Wóna pišo listy.
+    Translation: She is writing letters.
+  - Phrase: Wón gra we football.
+    Translation: He is playing football.
+  - Phrase: My glědomy film.
+    Translation: We are watching a film.
+  - Phrase: Wóni słuchaju muziku.
+    Translation: They are listening to music.
+  - Phrase: Wóna sedźi a cyta.
+    Translation: She is sitting and reading.
+  - Phrase: Ja mólojom wobraz.
+    Translation: I am painting a picture.
+  - Phrase: Wón spiwa spiwnki.
+    Translation: He is singing songs.
+  - Phrase: Wy wuknuśo se rěcy.
+    Translation: You are learning a language.
+  - Phrase: Ja šyjom woblac.
+    Translation: I am sewing clothes.
+  - Phrase: Ty glědaš seriju?
+    Translation: Are you watching a series?
+  - Phrase: My gramy w šach.
+    Translation: We are playing chess.
+  - Phrase: Wóni słuchaju radio.
+    Translation: They are listening to the radio.
+  - Phrase: Cytaš ty romany?
+    Translation: Do you read novels?
+  - Phrase: Wón pišo źiśownick.
+    Translation: He is writing a diary.
+  - Phrase: Wuknomy se how.
+    Translation: We are learning here.
+  - Phrase: Mólojomy z pśijaśelami wobraze.
+    Translation: We are painting pictures with friends.
+  - Phrase: Ty šyješ?
+    Translation: Are you sewing?
+  - Phrase: Ja spiwyjom z grupu.
+    Translation: I am singing with a group.
+  - Phrase: Ja tancyrujom wjele
+    Translation: I dance a lot
+  - Phrase: Wóna gra na gitaru.
+    Translation: She is playing the guitar.
+
+Mini-dictionary:
+  Lower Sorbian:
+    - a: and
+    - cyta: reads
+    - cytam: I read
+    - cytaš: you read
+    - film: film
+    - football: football
+    - gitaru: guitar
+    - glědaš: you look
+    - glědomy: we look
+    - gra: plays
+    - gramy: grams
+    - grupu: group
+    - how: here
+    - ja: I
+    - knigłu: book
+    - listy: leaves
+    - muziku: music
+    - my: we
+    - mólojom: I paint
+    - mólojomy: we paint
+    - na: on
+    - pisaś: to write
+    - pišo: writes
+    - pśijaśelami: friends
+    - radio: radio
+    - romany: novels
+    - rěcy: languages
+    - se: himself, herself, itself, themselves
+    - sedźeś: to sit
+    - sedźi: sits
+    - seriju: series
+    - spiwa: sings
+    - spiwnki: songs
+    - spiwyjom: I sing
+    - słuchaju: listen
+    - tancyrujom: I dance
+    - ty: you
+    - w: in
+    - we: in
+    - wjele: many
+    - woblac: cloud
+    - wobraz: picture
+    - wobraze: picture
+    - wuknomy: we learn
+    - wuknuś: to learn
+    - wuknuśo: you learn
+    - wy: you
+    - wón: he
+    - wóna: she
+    - wóni: they
+    - z: with
+    - šach: chess
+    - šyješ: you sew
+    - šyjo: sews
+    - šyjom: I sew
+    - šyś: to sew
+    - źiśownick: kindergarten
+  English:
+    - a: jedin/один
+    - am: som
+    - and: a
+    - are: byti/быти
+    - book: knigły
+    - chess: šach
+    - clothes: drasta
+    - dance: rejowaś
+    - diary: źenik
+    - do: cyniś
+    - film: film
+    - football: kopańca
+    - friends: pśijaśele
+    - group: kupka
+    - guitar: gitara
+    - he: wón
+    - here: how
+    - i: ja
+    - is: jo
+    - language: rěc
+    - learn: wuknuś
+    - learning: wuknucy
+    - letters: lisćiny
+    - listen: słyšaś
+    - listening: słyšecy
+    - lot: wjele
+    - music: muzika
+    - novels: romany
+    - paint: mólowaś
+    - painting: mólowanje
+    - picture: wobraz
+    - pictures: wobrazy
+    - play: graś
+    - playing: grajucy
+    - radio: radio
+    - read: cytaś
+    - reading: cytajucy
+    - series: rěd
+    - sew: šyś
+    - sewing: šyjućy
+    - she: wóna
+    - sing: spiwaś
+    - singing: spiwaś
+    - sit: sedźeś
+    - sitting: sedźecy
+    - songs: spiwy
+    - the: to
+    - they: wóni
+    - to: do
+    - watch: glědaś
+    - watching: glědajucy
+    - we: my
+    - with: z
+    - write: pisaś
+    - writing: pisaś
+    - you: ty

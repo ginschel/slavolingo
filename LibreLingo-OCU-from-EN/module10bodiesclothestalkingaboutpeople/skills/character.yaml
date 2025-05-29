@@ -1,0 +1,216 @@
+Skill:
+  Name: Character
+  Id: 36
+
+New words:
+  - Word: добръ
+    Translation: good
+  - Word: зълъ
+    Translation: bad
+  - Word: силььнъ
+    Translation: strong
+  - Word: слабъ
+    Translation: weak
+  - Word: смѣлъ
+    Translation: brave
+  - Word: тихъ
+    Translation: quiet
+  - Word: мѫдръ
+    Translation: wise
+  - Word: глꙋпъ
+    Translation: stupid
+  - Word: искрєнъ
+    Translation: sincere
+  - Word: лѣнивъ
+    Translation: lazy
+  - Word: бꙑхъ
+    Translation: I would be
+  - Word: бꙑши
+    Translation: you would be
+  - Word: бꙑ
+    Translation: he/she/it would be
+  - Word: бꙑхомъ
+    Translation: we would be
+  - Word: бꙑстє
+    Translation: you would be
+  - Word: бꙑ
+    Translation: they would be
+  - Word: молъчати (молъчитъ)
+    Translation: to be silent
+
+Phrases:
+  - Phrase: Онъ тъ добръ чловѣкъ.
+    Translation: He is a good person.
+  - Phrase: Она ѥстъ зла часомъ.
+    Translation: She is sometimes bad.
+  - Phrase: Силььнъи дꙋхъ ѥстъ важьнъ.
+    Translation: A strong spirit is important.
+  - Phrase: Онъ ѥстъ слабъ въ спортꙋ.
+    Translation: He is weak in sports.
+  - Phrase: Смѣлъ глаголи правилѫ.
+    Translation: Brave people speak the truth.
+  - Phrase: Какъ тꙑ бꙑхъ слꙑшалъ, тъ они бꙑ бꙑли тихи.
+    Translation: If you would hear, they would be silent.
+  - Phrase: Мѫдръ знаѥтъ мьного.
+    Translation: A smart person knows much.
+  - Phrase: Какъ тꙑ бꙑши нє бꙑлъ глꙋпъ, тъ бꙑши нє дѣлалъ глꙋпостии.
+    Translation: If you were not stupid, you would not do foolish things.
+  - Phrase: Искрєнъи приꙗтєль ѥстъ драгоцѣньнъи.
+    Translation: A sincere friend is valuable.
+  - Phrase: ꙗко они бꙑ бꙑли нє лѣниви, тъ мꙑ бꙑхомъ имъ помагали.
+    Translation: If they were not lazy, we would help them.
+  - Phrase: Она ѥстъ добра и искрєна.
+    Translation: She is good and sincere.
+  - Phrase: Онъ ѥстъ силььнъ алє смѣлъ.
+    Translation: He is strong but brave.
+  - Phrase: Дѣтє сѫтъ мѫдрє за ихъ вѣкъ.
+    Translation: Children are wiser for their age.
+  - Phrase: Какъ вꙑ нє бꙑстє бꙑли слаби, тъ вꙑ бꙑстє работали.
+    Translation: If you were not weak, you would work.
+  - Phrase: Злє слова болѧтъ.
+    Translation: Bad words hurt.
+  - Phrase: Глꙋпъ нє оучитъ сѧ.
+    Translation: Stupid people do not learn.
+  - Phrase: Лѣнивъ нє хощєтъ ничєсого дѣлати.
+    Translation: Lazy people do not want to do anything.
+  - Phrase: Искрєнъи глаголи чьто мꙑслитъ.
+    Translation: A sincere person says what they think.
+  - Phrase: Мѫдръ молъчитъ къгда трѣба.
+    Translation: A wise person stays silent when needed.
+  - Phrase: Какъ ꙗ бꙑ бꙑлъ смѣлъ, тъ ꙗ бꙑ нє боꙗлъ сѧ.
+    Translation: If I were brave, I would not be afraid.
+
+Mini-dictionary:
+  Old Church Slavonic:
+    - алє: but, however
+    - болѧтъ: they hurt
+    - боꙗлъ: was afraid
+    - бꙑли: they were
+    - бꙑлъ: he was
+    - важьнъ: important (masculine)
+    - въ: in, at
+    - вѣкъ: century, age
+    - вꙑ: you (plural)
+    - глаголи: words, verbs
+    - глꙋпостии: of stupidity
+    - добра: good (feminine)
+    - драгоцѣньнъи: precious
+    - дѣлалъ: he did
+    - дѣлати: to do, to make
+    - дѣтє: child
+    - дꙋхъ: spirit
+    - за: for, behind
+    - зла: evil (feminine)
+    - злє: evilly
+    - знаѥтъ: he/she/it knows
+    - и: and
+    - имъ: to them
+    - искрєна: sincere (feminine)
+    - искрєнъи: sincere
+    - ихъ: their, them
+    - какъ: how
+    - къгда: when
+    - лѣниви: lazy (plural)
+    - молъчати: to be silent
+    - молъчитъ: he/she/it is silent
+    - мьного: much, many
+    - мѫдрє: wisely
+    - мꙑ: we
+    - мꙑслитъ: he/she/it thinks
+    - ничєсого: of nothing
+    - нє: no, not
+    - она: she
+    - они: they (masculine)
+    - онъ: he
+    - оучитъ: he/she/it learns/teaches
+    - помагали: they helped
+    - правилѫ: rule
+    - приꙗтєль: friend
+    - работали: they worked
+    - силььнъи: strong
+    - слаби: weak (plural)
+    - слова: words
+    - слꙑшалъ: he heard
+    - спортꙋ: to sport
+    - сѧ: oneself (reflexive pronoun)
+    - сѫтъ: they are
+    - тихи: quiet (plural)
+    - трѣба: need
+    - тъ: that, he
+    - тꙑ: you (singular)
+    - хощєтъ: he/she/it wants
+    - часомъ: with the hour
+    - чловѣкъ: person, man
+    - чьто: what
+    - ѥстъ: he/she/it is
+    - ꙗ: I
+    - ꙗко: as, like
+  English:
+    - a: jedin/один
+    - afraid: боꙗлъ сѧ
+    - age: вѣкъ
+    - and: и
+    - anything: ничьто
+    - are: byti/быти
+    - bad: хꙋдъ
+    - be: бꙑти
+    - brave: смѣлъ
+    - but: нъ, алє
+    - children: дѣти
+    - do: дѣлати
+    - foolish: глꙋпъ
+    - for: за, на
+    - friend: приꙗтєль
+    - good: добръ
+    - he: онъ
+    - he/she/it: онъ, она, оно
+    - hear: слꙑшати
+    - help: помагати
+    - hurt: болѣти
+    - i: азъ, ꙗ
+    - if: ли
+    - important: важьнъ
+    - in: въ
+    - is: ѥстъ
+    - knows: знаѥтъ
+    - lazy: лѣнивъ
+    - learn: оучити
+    - much: мьного
+    - needed: потрѣбовалъ
+    - not: нє
+    - people: людиѥ
+    - person: чловѣкъ
+    - quiet: тихъ
+    - says: глаголѥтъ
+    - she: она
+    - silent: молъчаливъ
+    - sincere: искрєнъ
+    - smart: мѫдръ
+    - sometimes: иногда
+    - speak: глаголити
+    - spirit: дꙋхъ
+    - sports: спортъ
+    - stays: остаѥтъ сѧ
+    - strong: силььнъ
+    - stupid: глꙋпъ
+    - the: to
+    - their: ихъ
+    - them: ихъ
+    - they: они, онꙑ
+    - things: вѣщи
+    - think: мꙑслити
+    - to: къ, на
+    - truth: истина
+    - valuable: драгоцѣньнъ
+    - want: хотѣти
+    - we: мꙑ
+    - weak: слабъ
+    - were: byl/был
+    - what: чьто
+    - when: къгда
+    - wise: мѫдръ
+    - wiser: мѫдрѣи
+    - words: слова
+    - work: работа
+    - would: бꙑ
+    - you: тꙑ, вꙑ

@@ -1,0 +1,221 @@
+Skill:
+  Name: Emotions
+  Id: 37
+
+New words:
+  - Word: radostný
+    Translation: joyful
+  - Word: žalostný
+    Translation: sad
+  - Word: hněvivý
+    Translation: angry
+  - Word: láska
+    Translation: love
+  - Word: vystrašený
+    Translation: frightened
+  - Word: klid
+    Translation: peace
+  - Word: závist
+    Translation: envy
+  - Word: stydlivý
+    Translation: ashamed
+  - Word: stud
+    Translation: shame
+  - Word: hrdý
+    Translation: proud
+  - Word: veselý
+    Translation: cheerful
+  - Word: třes/strach
+    Translation: tremor
+  - Word: cítit (cítí)
+    Translation: to feel
+  - Word: skrývat
+    Translation: to hide
+  - Word: utíkat
+    Translation: to run away
+
+Phrases:
+  - Phrase: Cítím se radostně dnes.
+    Translation: We feel joyful this week.
+  - Phrase: Žalostně mluvil.
+    Translation: He spoke sadly.
+  - Phrase: On hněvivě mu říká pracovat.
+    Translation: He angrily tells him to work.
+  - Phrase: Láska to silná emoce.
+    Translation: Love is a strong emotion.
+  - Phrase: Strach to přirozená reakce.
+    Translation: Fear is a natural reaction.
+  - Phrase: Klid je důležitý pro duši.
+    Translation: Peace is important for the soul.
+  - Phrase: Závist to černá emoce.
+    Translation: Envy is a dark emotion.
+  - Phrase: Stydlivě on cítí stud.
+    Translation: He feels ashamed.
+  - Phrase: Veselé jemu se naplnilo srdce.
+    Translation: His heart was filled with joy.
+  - Phrase: Závistivě on hledí na něho.
+    Translation: He is jealous of him.
+  - Phrase: Já mám žal v srdci.
+    Translation: I have sadness in my heart.
+  - Phrase: Ona ukazuje jim svou práci vesele.
+    Translation: She shows them her work joyfully.
+  - Phrase: On skrývá hrdě svůj hněv.
+    Translation: He hides his anger proudly.
+  - Phrase: My cítíme klid.
+    Translation: We feel peaceful.
+  - Phrase: Strach je v nás.
+    Translation: Fear is inside us.
+  - Phrase: Vystrašeně on utíkal.
+    Translation: He was frightened and ran away.
+  - Phrase: Stud je mnoho silný.
+    Translation: Shame is very strong.
+  - Phrase: Radostně šel domů.
+    Translation: He joyfully went home.
+  - Phrase: Radost jde zevnitř.
+    Translation: Joy comes from within.
+  - Phrase: Trpět pouze chceme, když milujeme.
+    Translation: We only suffer when we love.
+
+Mini-dictionary:
+  Czech:
+    - chceme: we want
+    - cítit: feel
+    - cítí: feels
+    - cítím: I feel
+    - cítíme: we feel
+    - dnes: today
+    - domů: home
+    - duši: soul
+    - důležitý: important
+    - emoce: emotion
+    - hledí: looks
+    - hněv: anger
+    - hněvivě: angrily
+    - hrdě: proudly
+    - jde: goes
+    - je: is
+    - jemu: him
+    - jim: them
+    - já: I
+    - když: when
+    - milujeme: we love
+    - mluvil: spoke
+    - mnoho: many/much
+    - mu: him
+    - my: we
+    - mám: I have
+    - na: on
+    - naplnilo: filled
+    - nás: us
+    - něho: him
+    - on: he
+    - ona: she
+    - pouze: only
+    - pracovat: work
+    - pro: for
+    - práci: work
+    - přirozená: natural
+    - radost: joy
+    - radostně: joyfully
+    - reakce: reaction
+    - se: oneself
+    - silná: strong
+    - silný: strong
+    - skrývá: hides
+    - srdce: heart
+    - srdci: heart
+    - strach: fear
+    - stydlivě: ashamed
+    - svou: own
+    - svůj: own
+    - to: it/that
+    - trpět: suffer
+    - ukazuje: shows
+    - utíkal: ran
+    - v: in
+    - vesele: cheerfully
+    - veselé: cheerful
+    - vystrašeně: frighteningly
+    - zevnitř: inside
+    - závistivě: enviously
+    - černá: black
+    - říká: says/tells
+    - šel: went/walked
+    - žal: sadness
+    - žalostně: sadly
+  English:
+    - a: jedin/один
+    - and: a
+    - anger: vztek
+    - angrily: zlostně
+    - angry: naštvaný
+    - ashamed: zahanbený
+    - away: pryč
+    - cheerful: veselý
+    - comes: přichází
+    - dark: tmavý
+    - emotion: emoce
+    - envy: závist
+    - fear: strach
+    - feel: cítit
+    - feels: cítí
+    - filled: naplněný
+    - for: pro
+    - frightened: vyděšený
+    - from: od
+    - have: mít
+    - he: on
+    - heart: srdce
+    - her: její
+    - hide: skrýt
+    - hides: skrývá
+    - him: jemu
+    - his: jeho
+    - home: domov
+    - i: já
+    - important: důležitý
+    - in: v
+    - inside: uvnitř
+    - is: je
+    - jealous: žárlivý
+    - joy: radost
+    - joyful: radostný
+    - joyfully: radostně
+    - love: láska
+    - my: můj
+    - natural: přírodní
+    - of: z
+    - only: pouze
+    - peace: mír
+    - peaceful: mírový
+    - proud: hrdý
+    - proudly: hrdě
+    - ran: běžel
+    - reaction: reakce
+    - run: běžet
+    - sad: smutný
+    - sadly: smutně
+    - sadness: smutek
+    - shame: hanba
+    - she: ona
+    - shows: ukazuje
+    - soul: duše
+    - spoke: mluvil
+    - strong: silný
+    - suffer: trpět
+    - tells: říká
+    - the: to
+    - them: je
+    - this: toto
+    - to: do
+    - tremor: otřes
+    - us: nás
+    - very: velmi
+    - was: byl
+    - we: my
+    - week: týden
+    - went: šel
+    - when: když
+    - with: s
+    - within: uvnitř
+    - work: práce

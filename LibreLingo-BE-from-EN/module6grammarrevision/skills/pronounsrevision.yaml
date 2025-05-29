@@ -1,0 +1,200 @@
+Skill:
+  Name: Pronouns revision
+  Id: 20
+
+New words:
+  - Word: "знаць (факты)"
+    Translation: to know
+  - Word: "ведаць (па знаёмстве)"
+    Translation: to know
+  - Word: "сон"
+    Translation: dream
+  - Word: "рэч"
+    Translation: thing
+
+Phrases:
+  - Phrase: Таго не знаю.
+    Translation: I don't know that.
+  - Phrase: Пра тое ўжо даўно ведаю.
+    Translation: I have known about that thing for a long time.
+  - Phrase: Каго ты бачыш?.
+    Translation: Who do you see?.
+  - Phrase: Тым, хто ляжыць спаць, спакойнага сну.
+    Translation: To those who are going to sleep, a peaceful dream.
+  - Phrase: Пра тую рэч я нічога не ведаю.
+    Translation: I know nothing about that thing.
+  - Phrase: Гавару з табой.
+    Translation: I am talking with you.
+  - Phrase: Я бачу вас.
+    Translation: I see you.
+  - Phrase: Ён любіць быць сам з сабой.
+    Translation: He likes to be alone with himself.
+  - Phrase: Дай мне ваду.
+    Translation: Give me water.
+  - Phrase: З намі заўсёды ўсё весела.
+    Translation: With us everything is always cheerful.
+  - Phrase: Мяне не бачыш.
+    Translation: You don't see me.
+  - Phrase: Каму дасі дар?
+    Translation: Who do you give a gift to?
+  - Phrase: Пра мяне гаворыш?
+    Translation: Are you talking about me?
+  - Phrase: Не, я не гавару пра цябе.
+    Translation: No, I don't talt about you.
+  - Phrase: Пра што ты гаворыш?
+    Translation: What are you talking about?
+  - Phrase: Гэтыя жанчыны ёсць прыгожыя.
+    Translation: These women are beautiful.
+  - Phrase: Гэтых сяброў не маеш.
+    Translation: You do not have those friends.
+  - Phrase: Ён дае сабе спакой.
+    Translation: He stops troubling others.
+  - Phrase: Чаго тут няма ў доме?
+    Translation: What isn't at this house here?
+  - Phrase: Таму сабаку ты даеш косткі.
+    Translation: You give to this dog bones.
+  - Phrase: Гэта ваша кава ці яе?
+    Translation: Is it your coffee or her?
+
+Mini-dictionary:
+  Belarusian:
+    - бачу: see
+    - бачыш: see
+    - быць: be
+    - ваду: water
+    - вас: you
+    - ваша: your
+    - ведаць: know
+    - ведаю: know
+    - весела: cheerfully
+    - гавару: speak
+    - гаворыш: speak
+    - гэта: this
+    - гэтых: those
+    - гэтыя: these
+    - дае: gives
+    - даеш: give
+    - дай: give
+    - дар: gift
+    - дасі: give
+    - даўно: already
+    - доме: home
+    - жанчыны: women
+    - з: from
+    - заўсёды: always
+    - знаць: know
+    - знаю: know
+    - знаёмстве: acquaintance
+    - кава: coffee
+    - каго: who
+    - каму: who
+    - косткі: bones
+    - любіць: love/like
+    - ляжыць: lies
+    - маеш: have
+    - мне: me
+    - мяне: me
+    - намі: us
+    - не: no
+    - няма: no
+    - нічога: nothing
+    - па: by
+    - пра: about
+    - прыгожыя: beautiful
+    - рэч: thing
+    - сабаку: dog
+    - сабе: himself
+    - сабой: himself
+    - сам: himself
+    - сну: sleep
+    - сон: dream
+    - спакой: peace
+    - спакойнага: peaceful
+    - спаць: sleep
+    - сяброў: friends
+    - табой: you
+    - таго: that
+    - таму: then
+    - тое: that
+    - тут: here
+    - тую: that
+    - ты: you
+    - тым: that
+    - факты: facts
+    - хто: who
+    - цябе: you
+    - ці: or
+    - чаго: what
+    - што: what
+    - я: i
+    - яе: her
+    - ён: he
+    - ёсць: is
+    - ў: in
+    - ўжо: already
+    - ўсё: everything
+  English:
+    - a: jedin/один
+    - about: пра
+    - alone: адзін
+    - always: заўсёды
+    - am: ёсць
+    - are: byti/быти
+    - at: у
+    - be: быць
+    - beautiful: прыгожы
+    - bones: косткі
+    - cheerful: вясёлы
+    - coffee: кава
+    - do: рабіць
+    - dog: сабака
+    - don't: не
+    - dream: мара
+    - everything: усё
+    - for: для
+    - friends: сябры
+    - gift: падарунак
+    - give: даваць
+    - going: ідзе
+    - have: мець
+    - he: ён
+    - her: яе
+    - here: тут
+    - himself: сам
+    - house: дом
+    - i: я
+    - is: ёсць
+    - isn't: не
+    - it: яно
+    - know: ведаць
+    - known: вядомы
+    - likes: падабаецца
+    - long: доўгі
+    - me: мне
+    - no: не
+    - not: не
+    - nothing: нічога
+    - or: ці
+    - others: іншыя
+    - peaceful: мірны
+    - see: бачыць
+    - sleep: спаць
+    - stops: спыняецца
+    - talking: размаўляе
+    - talt: тальт
+    - that: што
+    - these: гэтыя
+    - thing: рэч
+    - this: гэты
+    - those: тыя
+    - time: час
+    - to: да
+    - troubling: трывожны
+    - us: нас
+    - water: вада
+    - what: што
+    - who: хто
+    - with: з
+    - women: жанчыны
+    - you: ты
+    - your: твой

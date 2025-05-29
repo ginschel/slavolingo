@@ -1,0 +1,195 @@
+Skill:
+  Name: Cases revision
+  Id: 19
+
+New words:
+  - Word: "рѣзати (рѣжєтъ)"
+    Translation: to cut
+  - Word: "даръ"
+    Translation: gift
+  - Word: "вьсєсвѣтъ"
+    Translation: universe
+  - Word: "зьрцало"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Кости тѫ нємаѥтъ.
+    Translation: There is no bone here.
+  - Phrase: Дамъ женѣ.
+    Translation: I give to the woman.
+  - Phrase: Она ѥстъ въ градꙋ.
+    Translation: She is in the city.
+  - Phrase: Глаголимъ съ приꙗтєлꙗми.
+    Translation: I talk with friends.
+  - Phrase: Имєнє онъ нємаѥтъ.
+    Translation: He has no name.
+  - Phrase: Тꙑ дꙋшє нє имаши?!
+    Translation: You don't have a soul?!
+  - Phrase: Онъ видитъ своѭ женѫ.
+    Translation: He sees his wife.
+  - Phrase: Брата тѫ нємаѥтъ.
+    Translation: There is no brother here.
+  - Phrase: Сь можьно рѣзати ножомъ.
+    Translation: This can be cut with a knife.
+  - Phrase: Она съ мѫжємъ глаголи.
+    Translation: She talks with her husband.
+  - Phrase: Она глаголи о братахъ.
+    Translation: She talks about brothers.
+  - Phrase: Она даѥтъ даръ братамъ.
+    Translation: She gives a gift to the brothers.
+  - Phrase: На полиѭ мьного работаѭ.
+    Translation: I work a lot in the field.
+  - Phrase: Ѥстъ мьного слъньцъ въ вьсєсвѣтꙋ.
+    Translation: There are many suns in the universe.
+  - Phrase: И тъждє ѥстъ мьного звѣздъ.
+    Translation: And there are also many stars.
+  - Phrase: Онъ любитъ глаголити съ своѥѭ женоѭ.
+    Translation: He likes to talk with his wife.
+  - Phrase: Оужє нємаѥтъ банановъ въ домꙋ.
+    Translation: There are no more bananas in the house.
+  - Phrase: Въ очию видимъ дꙋшѫ твоѭ.
+    Translation: In the eyes I see your soul.
+  - Phrase: Очи сѫтъ зьрцаломъ дꙋшє.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Мѫжьѥвъ тѫ нє видимъ.
+    Translation: I do not see men here.
+  - Phrase: Въ градахъ оувидиши мьного людии.
+    Translation: In the cities you will see many people.
+  - Phrase: Спокоинои нощи!
+    Translation: Good night!
+
+Mini-dictionary:
+  Old Church Slavonic:
+    - банановъ: banana (adjective)
+    - брата: of the brother
+    - братамъ: to the brothers
+    - братахъ: about the brothers
+    - видимъ: we see
+    - видитъ: he/she/it sees
+    - въ: in, at
+    - вьсєсвѣтъ: universe
+    - вьсєсвѣтꙋ: to the universe
+    - глаголи: words, verbs
+    - глаголимъ: we speak
+    - глаголити: to speak
+    - градахъ: in the cities
+    - градꙋ: to the city
+    - дамъ: I will give
+    - даръ: gift
+    - даѥтъ: he/she/it gives
+    - домꙋ: to the house
+    - дꙋшє: soul
+    - дꙋшѫ: soul (accusative)
+    - женоѭ: with a wife
+    - женѣ: to the wife
+    - женѫ: wife (accusative)
+    - звѣздъ: of stars
+    - зьрцало: mirror
+    - зьрцаломъ: with a mirror
+    - и: and
+    - имаши: you (singular) have
+    - имєнє: of the name
+    - кости: bones
+    - любитъ: he/she/it loves
+    - людии: of people
+    - можьно: possible
+    - мьного: much, many
+    - мѫжьѥвъ: of the husband
+    - мѫжємъ: with a husband
+    - на: on, to
+    - ножомъ: with a knife
+    - нощи: of the night
+    - нє: no, not
+    - нємаѥтъ: he/she/it doesn't have
+    - о: about, on
+    - она: she
+    - онъ: he
+    - оувидиши: you will see
+    - оужє: already
+    - очи: eyes
+    - очию: of the eyes
+    - полиѭ: field (accusative)
+    - приꙗтєлꙗми: with friends
+    - работаѭ: I work
+    - рѣжєтъ: he/she/it cuts
+    - рѣзати: to cut
+    - своѥѭ: with his/her/its own
+    - своѭ: his/her/its own (accusative)
+    - слъньцъ: of the sun
+    - спокоинои: of peace
+    - съ: with
+    - сь: this
+    - сѫтъ: they are
+    - твоѭ: your (accusative)
+    - тъждє: also
+    - тѫ: that (accusative feminine)
+    - тꙑ: you (singular)
+    - ѥстъ: he/she/it is
+  English:
+    - a: jedin/один
+    - about: о
+    - also: тъждє
+    - and: и
+    - are: byti/быти
+    - bananas: банани
+    - be: бꙑти
+    - bone: кость
+    - brother: братъ
+    - brothers: братиꙗ
+    - can: мощи
+    - cities: градꙑ
+    - city: градъ
+    - cut: рѣзати
+    - do: дѣлати
+    - don't: (нє + verb)
+    - eyes: очи
+    - field: полиѥ
+    - friends: приꙗтєли
+    - gift: даръ
+    - give: дати
+    - gives: даѥтъ
+    - good: добръ
+    - has: имаѥтъ
+    - have: имати
+    - he: онъ
+    - her: ѥѩ
+    - here: тꙋ
+    - his: ѥго
+    - house: домъ
+    - husband: мѫжь
+    - i: азъ, ꙗ
+    - in: въ
+    - is: ѥстъ
+    - knife: ножь
+    - likes: любитъ
+    - lot: мьного
+    - many: мьного
+    - men: мѫжи
+    - mirror: зьрцало
+    - more: болѥ
+    - name: имѧ
+    - night: нощь
+    - no: нє
+    - not: нє
+    - of: (genitive case)
+    - people: людиѥ
+    - see: видѣти
+    - sees: видитъ
+    - she: она
+    - soul: дꙋша
+    - stars: звѣздꙑ
+    - suns: слъньца
+    - talk: бєсѣдовати
+    - talks: бєсѣдꙋѥтъ
+    - the: to
+    - there: тамъ
+    - this: сь, сꙗ, сє
+    - to: къ, на
+    - universe: вьсєсвѣтъ
+    - wife: жена
+    - will: (future tense expressed by verb form)
+    - with: съ
+    - woman: жена
+    - work: работа
+    - you: тꙑ, вꙑ
+    - your: твои

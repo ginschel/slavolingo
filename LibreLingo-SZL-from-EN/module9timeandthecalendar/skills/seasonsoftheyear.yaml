@@ -1,0 +1,186 @@
+Skill:
+  Name: Seasons of the year
+  Id: 33
+
+New words:
+  - Word: lato
+    Translation: summer
+  - Word: jesiyń
+    Translation: autumn
+  - Word: zima
+    Translation: winter
+  - Word: wiosna
+    Translation: spring
+  - Word: sezōn
+    Translation: season
+  - Word: być
+    Translation: to be
+  - Word: byda
+    Translation: I will be
+  - Word: bydźesz
+    Translation: you will be
+  - Word: bydźe
+    Translation: he/she/it will be
+  - Word: bydzymy
+    Translation: we will be
+  - Word: bydźecie
+    Translation: you will be
+  - Word: bydōm
+    Translation: they will be
+
+Phrases:
+  - Phrase: We lecie bydźe ciepło.
+    Translation: In the summer it will be warm.
+  - Phrase: We jesiyń bydzymy widzieć padajōnce liście.
+    Translation: In the autumn we will see falling leaves.
+  - Phrase: We zimie bydźecie grać ze śniygiem.
+    Translation: In the winter you will play with snow.
+  - Phrase: Wiosna prziniyśe blumy.
+    Translation: Spring will bring flowers.
+  - Phrase: Sezōn bydźe sie pomiynioć sztyry razy.
+    Translation: The season will change four times.
+  - Phrase: We zimie bydźe padać śniyg.
+    Translation: In the winter it will snow.
+  - Phrase: We wiosna rosnōm blumy.
+    Translation: In spring, flowers grow.
+  - Phrase: We lecie je moc słōńca.
+    Translation: In the summer, there is a lot of sun.
+  - Phrase: We jesiyń bydźesz moc cyrpieć bez dyszcz.
+    Translation: In the autumn, you will suffer a lot because of the rain.
+  - Phrase: Luft we zimie bydźe zimny.
+    Translation: The air in winter will be cold.
+  - Phrase: Lato je ze sezōnym ôdpočynku przi jeziorze.
+    Translation: Summer is the season of rest by the lake.
+  - Phrase: Jesiyń mo moc farbōw.
+    Translation: Autumn has many colors.
+  - Phrase: Zima niy je dobro dlo szportowcōw.
+    Translation: Winter is not good for sports.
+  - Phrase: Wiosna je nudnŏ.
+    Translation: Spring is boring.
+  - Phrase: Sezōny sie miyniajōm sztyry razy we roku.
+    Translation: The seasons change four times a year.
+  - Phrase: Wnet sie kōńczy lato.
+    Translation: Summer will soon end.
+  - Phrase: We jesiyń yno pado dyszcz.
+    Translation: In autumn, it will rain a lot.
+  - Phrase: Zima mo moc śniyga.
+    Translation: Winter has a lot of snow.
+  - Phrase: Ôni bydōm widzieć zielōny krajôbraz.
+    Translation: They will see a green landscape.
+  - Phrase: Słōńce bydźe świycić fest we lecie.
+    Translation: The sun will shine strongly in the summer.
+
+Mini-dictionary:
+  Silesian:
+    - bez: without
+    - blumy: flowers
+    - ciepło: warm
+    - cyrpieć: suffer
+    - dlo: for
+    - dobro: good
+    - dyszcz: rain
+    - farbōw: paint
+    - fest: very
+    - grać: play
+    - je: is
+    - jeziorze: lake
+    - krajôbraz: landscape
+    - kōńczy: ends
+    - lecie: summer
+    - liście: leaves
+    - luft: air
+    - miyniajōm: changing
+    - mo: has
+    - moc: much
+    - niy: not
+    - nudnŏ: boring
+    - padajōnce: falling
+    - padać: fall
+    - pado: rains
+    - pomiynioć: change
+    - przi: at/by
+    - prziniyśe: brings
+    - razy: times
+    - roku: year
+    - rosnōm: grow
+    - sezōny: seasons
+    - sezōnym: season
+    - sie: herself
+    - szportowcōw: sports
+    - sztyry: four
+    - słōńca: suns
+    - słōńce: sun
+    - we: in
+    - widzieć: see
+    - wnet: soon
+    - yno: only
+    - ze: from
+    - zielōny: green
+    - zimie: winter
+    - zimny: cold
+    - ôdpočynku: rest
+    - ôni: they
+    - śniyg: snow
+    - śniyga: snow
+    - śniygiem: snow
+    - świycić: shine
+  English:
+    - a: jedin/один
+    - air: luft
+    - autumn: jesiyń
+    - be: być
+    - because: bo
+    - boring: nudny
+    - bring: przińyś
+    - by: bez
+    - change: pōmian
+    - cold: zimny
+    - colors: farby
+    - end: kōniec
+    - falling: padanie
+    - flowers: kwiyci
+    - for: dlo
+    - four: sztyry
+    - good: dobry
+    - green: zielōny
+    - grow: rosnōńć
+    - has: mo
+    - he/she/it: ôn/ôna/ôno
+    - i: jŏ
+    - in: w
+    - is: je
+    - it: to
+    - lake: jezioro
+    - landscape: krajōbraz
+    - leaves: listki
+    - lot: kupa
+    - many: wiela
+    - not: niy
+    - of: ôd
+    - play: grać
+    - rain: deszcz
+    - rest: spoczynek
+    - season: pōra
+    - seasons: pōry
+    - see: widzieć
+    - shine: błyszczeć
+    - snow: śniyg
+    - soon: wnet
+    - sports: sporty
+    - spring: wiosna
+    - strongly: mocno
+    - suffer: cierpieć
+    - summer: lato
+    - sun: słōńce
+    - the: to
+    - there: tam
+    - they: ôni
+    - times: razy
+    - to: do
+    - warm: ciepły
+    - we: my
+    - will: bydź
+    - winter: zima
+    - with: z
+    - year: rok
+    - you: ty

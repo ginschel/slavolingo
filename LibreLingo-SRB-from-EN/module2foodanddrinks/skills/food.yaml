@@ -1,0 +1,186 @@
+Skill:
+  Name: Food
+  Id: 6
+
+New words:
+  - Word: хлеб
+    Translation: bread
+  - Word: готовити
+    Translation: to prepare
+  - Word: нести
+    Translation: to carry
+  - Word: јести (је)
+    Translation: to eat
+  - Word: масло
+    Translation: butter
+  - Word: млеко
+    Translation: milk
+  - Word: месо
+    Translation: meat
+  - Word: јајце
+    Translation: egg
+  - Word: завтрака
+    Translation: breakfast
+  - Word: обед
+    Translation: lunch
+  - Word: купити
+    Translation: to buy
+  - Word: вечерја
+    Translation: dinner
+  - Word: бљудо
+    Translation: dish
+  - Word: книга
+    Translation: book
+  - Word: солодкy
+    Translation: sweet
+  - Word: једа
+    Translation: food
+
+Phrases:
+  - Phrase: Ја јем хлеб.
+    Translation: I am eating bread.
+  - Phrase: Она је месо.
+    Translation: She is eating meat.
+  - Phrase: Он љуби млеко.
+    Translation: He likes milk.
+  - Phrase: Ја видим Влада с једоју
+    Translation: I see Vlad with food
+  - Phrase: Ти јеш јајце?
+    Translation: Are you eating an egg?
+  - Phrase: Ми јемо вечерју.
+    Translation: We are eating dinner.
+  - Phrase: Они имају завтраку.
+    Translation: They are having breakfast.
+  - Phrase: Ја купим масло.
+    Translation: I will buy butter.
+  - Phrase: Он готови обед.
+    Translation: He is preparing lunch.
+  - Phrase: Она несе бљудо.
+    Translation: She is carrying a dish.
+  - Phrase: Они купују масло и хлеб.
+    Translation: They are buying butter and bread.
+  - Phrase: Он пије млеко и је месо.
+    Translation: He is drinking milk and eating meat.
+  - Phrase: Читаш ти книгу и јеш завтраку?
+    Translation: Are you reading a book and eating breakfast?
+  - Phrase: Ја видим обед на столу.
+    Translation: I see lunch on the table.
+  - Phrase: Ти имаш масло?
+    Translation: Do you have butter?
+  - Phrase: Ми готовимо вечерју кажди дањ.
+    Translation: We prepare dinner every day.
+  - Phrase: Ја знам, что ти љубиш јајца.
+    Translation: I know that you like eggs.
+  - Phrase: Он је солодку једу.
+    Translation: He eats sweet food.
+  - Phrase: Она љуби готовити вечерју.
+    Translation: She likes to prepare dinner.
+  - Phrase: Ми видимо твоју пицу на столу.
+    Translation: We see your pizza on the table.
+  - Phrase: Они знају, что ја всегда јем хлеб с маслом.
+    Translation: They know that I always eat bread with butter.
+
+Mini-dictionary:
+  Serbian:
+    - вечерју: dinner
+    - видим: i see
+    - видимо: we see
+    - влада: government
+    - всегда: always
+    - готови: ready
+    - готовимо: we prepare
+    - дањ: day
+    - завтраку: breakfast
+    - знам: i know
+    - знају: know
+    - и: and
+    - имаш: you have
+    - имају: have
+    - кажди: every
+    - книгу: book
+    - купим: i will buy
+    - купују: buy
+    - маслом: butter
+    - ми: we
+    - на: on
+    - несе: carries
+    - он: he
+    - она: she
+    - они: they
+    - пицу: pizza
+    - пије: drinks
+    - с: with
+    - солодку: sweet
+    - столу: table
+    - твоју: your
+    - ти: you
+    - читаш: you read
+    - что: what
+    - ја: i
+    - јајца: eggs
+    - је: is
+    - једоју: food
+    - једу: eat
+    - јем: i am
+    - јемо: we are
+    - јести: eat
+    - јеш: you are
+    - љуби: loves
+    - љубиш: you love
+  English:
+    - a: jedin/один
+    - always: всегда
+    - am: јем
+    - an: а
+    - and: и
+    - are: byti/быти
+    - book: книга
+    - bread: хлеб
+    - breakfast: завтрак
+    - butter: масло
+    - buy: купити
+    - buying: купује
+    - carry: носити
+    - carrying: носење
+    - day: дан
+    - dinner: вечерја
+    - dish: бљудо
+    - do: делати
+    - drinking: пијење
+    - eat: јести
+    - eating: једење
+    - eats: једе
+    - egg: јајце
+    - eggs: јајца
+    - every: всяки
+    - food: једоју
+    - have: имати
+    - having: имајући
+    - he: он
+    - i: ја
+    - is: је
+    - know: знати
+    - like: као
+    - likes: воли
+    - lunch: обед
+    - meat: месо
+    - milk: млеко
+    - on: на
+    - pizza: пицу
+    - prepare: готовити
+    - preparing: припремање
+    - reading: читање
+    - see: видети
+    - she: она
+    - sweet: сладки
+    - table: стол
+    - that: тај
+    - the: to
+    - they: они
+    - to: до
+    - vlad: влад
+    - we: ми
+    - will: ће
+    - with: с
+    - you: ти
+    - your: твој

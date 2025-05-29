@@ -1,0 +1,176 @@
+Skill:
+  Name: Animals
+  Id: 14
+
+New words:
+  - Word: кіт
+    Translation: cat
+  - Word: пес
+    Translation: dog
+  - Word: птах
+    Translation: bird
+  - Word: помагати
+    Translation: to help
+  - Word: казати/показувати (каже/показує)
+    Translation: to show
+  - Word: кінь
+    Translation: horse
+  - Word: дати (дає)
+    Translation: to give
+  - Word: риба
+    Translation: fish
+  - Word: жаба
+    Translation: frog
+  - Word: медвідь
+    Translation: bear
+  - Word: вовк
+    Translation: wolf
+  - Word: миша
+    Translation: mouse
+  - Word: звір
+    Translation: animal
+
+Phrases:
+  - Phrase: Я дам котові рибу.
+    Translation: I give the cat a fish.
+  - Phrase: Вона каже псу.
+    Translation: She says to the dog.
+  - Phrase: Він помагає птахові.
+    Translation: He helps the bird.
+  - Phrase: Даємо коню воду.
+    Translation: We give the horse water.
+  - Phrase: Вона несе миші сир.
+    Translation: She carries cheese to the mouse.
+  - Phrase: Він помагає медведеві.
+    Translation: He helps the bear.
+  - Phrase: Ми даємо жабі хліб.
+    Translation: We give bread to the frog.
+  - Phrase: Вони дають звіру руку.
+    Translation: They give their hand to the animal.
+  - Phrase: Помагаємо вовкові.
+    Translation: We help the wolf.
+  - Phrase: Ти даси мені рибу?
+    Translation: Will you give me a fish?
+  - Phrase: Я дам котові ім'я.
+    Translation: I give the cat a name.
+  - Phrase: Він дасть миші сир.
+    Translation: On da myši syr.
+  - Phrase: Ми помагаємо птахам.
+    Translation: We help the birds.
+  - Phrase: Даємо жабам воду.
+    Translation: We give the frog water.
+  - Phrase: Вони несуть медведям їжу.
+    Translation: They are carrying food to the bear.
+  - Phrase: Вона дасть псу добре ім'я.
+    Translation: She gives the dog a good name.
+  - Phrase: Ви дасте коню.
+    Translation: You will give the horse.
+  - Phrase: Я дам рибі воду.
+    Translation: I give the fish water.
+  - Phrase: Вона помогла йому зі звіром.
+    Translation: She helped him with the animal.
+  - Phrase: Чи даси псу смачну кістку?
+    Translation: Will you give the dog a tasty bone?
+
+Mini-dictionary:
+  Ukrainian:
+    - ви: you (plural)
+    - вовкові: to the wolf
+    - воду: water (accusative)
+    - вона: she
+    - вони: they
+    - він: he
+    - дам: I will give
+    - даси: you will give
+    - дасте: you (plural) will give
+    - дасть: will give
+    - дати: to give
+    - дають: they give
+    - дає: gives
+    - даємо: we give
+    - добре: good, well
+    - жабам: to the frogs
+    - жабі: to the frog
+    - звіром: with a beast
+    - звіру: to the beast
+    - зі: with
+    - йому: to him
+    - каже: says
+    - каже/показує: says/shows
+    - казати/показувати: to say/to show
+    - коню: to the horse
+    - котові: to the cat
+    - кістку: bone (accusative)
+    - медведеві: to the bear
+    - медведям: to the bears
+    - мені: to me
+    - ми: we
+    - миші: mice
+    - несе: carries
+    - несуть: they carry
+    - помагає: helps
+    - помагаємо: we help
+    - помогла: she helped
+    - псу: to the dog
+    - птахам: to the birds
+    - птахові: to the bird
+    - рибу: fish (accusative)
+    - рибі: to the fish
+    - руку: hand, arm (accusative)
+    - сир: cheese
+    - смачну: tasty (accusative)
+    - ти: you (singular)
+    - хліб: bread
+    - чи: if, whether
+    - я: I
+    - ім'я: name
+    - їжу: food (accusative)
+  English:
+    - a: jedin/один
+    - animal: тварина
+    - are: byti/быти
+    - bear: ведмідь
+    - bird: птах
+    - birds: птахи
+    - bone: кістка
+    - bread: хліб
+    - carries: несе
+    - carrying: несе
+    - cat: кіт
+    - cheese: сир
+    - da: да
+    - dog: собака
+    - fish: риба
+    - food: їжа
+    - frog: жаба
+    - give: дати
+    - gives: дає
+    - good: добрий
+    - hand: рука
+    - he: він
+    - help: допомога
+    - helped: допоміг
+    - helps: допомагає
+    - him: його
+    - horse: кінь
+    - i: я
+    - me: мене
+    - mouse: миша
+    - myši: миші
+    - name: ім'я
+    - on: на
+    - says: каже
+    - she: вона
+    - show: показати
+    - syr: сир
+    - tasty: смачний
+    - the: to
+    - their: їхній
+    - they: вони
+    - to: до
+    - water: вода
+    - we: ми
+    - will: буде
+    - with: з
+    - wolf: вовк
+    - you: ви

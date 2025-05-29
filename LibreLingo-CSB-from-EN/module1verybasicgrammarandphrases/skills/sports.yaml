@@ -1,0 +1,168 @@
+Skill:
+  Name: Sports
+  Id: 5
+
+New words:
+  - Word: bal
+    Translation: football
+  - Word: kòszôrtã
+    Translation: basketball
+  - Word: tenis
+    Translation: tennis
+  - Word: pławanié
+    Translation: swimming
+  - Word: pławac
+    Translation: to swim
+  - Word: bieg
+    Translation: running
+  - Word: biedz
+    Translation: to run
+  - Word: zôranô
+    Translation: in the morning
+  - Word: miłowac
+    Translation: to love/like
+  - Word: hokej
+    Translation: hockey
+  - Word: sport
+    Translation: sport
+  - Word: gra
+    Translation: game
+  - Word: trenowac
+    Translation: to train
+  - Word: stadion
+    Translation: stadium
+  - Word: chùtczi
+    Translation: fast
+  - Word: cãżczi
+    Translation: difficult
+
+Phrases:
+  - Phrase: Gróm w bal.
+    Translation: I play football.
+  - Phrase: Òna grô w kòszôrtã.
+    Translation: She plays basketball.
+  - Phrase: On grô w tenis.
+    Translation: He plays tennis.
+  - Phrase: Më pławómë w rzékã.
+    Translation: We swim in the river.
+  - Phrase: Òni biégają zôranô.
+    Translation: They run in the morning.
+  - Phrase: On trenuje czéżdë dzéń.
+    Translation: He trains every day.
+  - Phrase: Sport je wôżny.
+    Translation: Sport is important.
+  - Phrase: Òna grô na stadiónie.
+    Translation: She plays at the stadium.
+  - Phrase: Trzeba trenowac.
+    Translation: It is necessary to train.
+  - Phrase: Òni miłują sport.
+    Translation: They love sport.
+  - Phrase: Ja nie gróm w hokej.
+    Translation: I do not play hockey.
+  - Phrase: Stadion je w gardze.
+    Translation: The stadium is in the city.
+  - Phrase: Kòszôrtã to je jinteresanti sport.
+    Translation: Basketball is an interesting sport.
+  - Phrase: Pławanié je dobré dlô zdrowiô.
+    Translation: Swimming is good for health.
+  - Phrase: Chto grô w tenis?
+    Translation: Who plays tennis?
+  - Phrase: On biégô chùtczi.
+    Translation: He runs fast.
+  - Phrase: Më pławómë czãsto.
+    Translation: We swim often.
+  - Phrase: On trenuje z przëjacelã.
+    Translation: He trains with a friend.
+  - Phrase: Ja gróm z bratama.
+    Translation: I play with my brothers.
+  - Phrase: Hokej je cãżczi.
+    Translation: Hockey is difficult.
+
+Mini-dictionary:
+  Kashubian:
+    - biégają: they run
+    - biégô: runs
+    - bratama: brothers
+    - chto: who
+    - czãsto: often
+    - czéżdë: what
+    - dlô: for
+    - dobré: good
+    - dzéń: day
+    - gardze: city
+    - gróm: thunder
+    - grô: plays
+    - ja: yes
+    - je: is
+    - jinteresanti: interesting
+    - miłują: they love
+    - më: we
+    - na: on
+    - nie: no
+    - on: he
+    - przëjacelã: friend
+    - pławómë: we swim
+    - rzékã: river
+    - stadiónie: stadium
+    - to: this
+    - trenuje: trains
+    - trzeba: necessary
+    - w: in
+    - wôżny: important
+    - z: with
+    - zdrowiô: health
+    - òna: she
+    - òni: they
+  English:
+    - a: jedin/один
+    - an: jeden
+    - at: przë
+    - basketball: kòszëkówka
+    - brothers: brałtë
+    - city: gard
+    - day: dzéń
+    - difficult: tëdżi
+    - do: robic
+    - every: kòżdi
+    - fast: chùtczi
+    - football: futbal
+    - for: dlô
+    - friend: kamrad
+    - game: grë
+    - good: dobri
+    - he: on
+    - health: zdrowie
+    - hockey: hokej
+    - i: jô
+    - important: wôżny
+    - in: w
+    - interesting: jinteresëjący
+    - is: je
+    - it: to
+    - love: miłosc
+    - love/like: lubic
+    - morning: ranié
+    - my: mój
+    - necessary: pòtrzebny
+    - not: nié
+    - often: czãsto
+    - play: grac
+    - plays: grô
+    - river: rzéka
+    - run: bieżec
+    - running: bieganie
+    - runs: bieżi
+    - she: òna
+    - sport: sport
+    - stadium: stadion
+    - swim: pławic
+    - swimming: pławienié
+    - tennis: tenis
+    - the: to
+    - they: òni
+    - to: do
+    - train: ban
+    - trains: banë
+    - we: më
+    - who: chto
+    - with: z

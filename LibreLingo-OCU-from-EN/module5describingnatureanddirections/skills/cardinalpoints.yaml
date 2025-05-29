@@ -1,0 +1,193 @@
+Skill:
+  Name: Cardinal points
+  Id: 18
+
+New words:
+  - Word: сѣвєръ
+    Translation: north
+  - Word: югъ
+    Translation: south
+  - Word: западъ
+    Translation: west
+  - Word: възходъ
+    Translation: east
+  - Word: сѣвєрьнъ
+    Translation: northern
+  - Word: южьнъ
+    Translation: southern
+  - Word: западънъ
+    Translation: western
+  - Word: възходънъ
+    Translation: eastern
+  - Word: компасъ
+    Translation: compass
+  - Word: страна
+    Translation: side
+  - Word: гдѣ
+    Translation: where
+  - Word: въстати (въстанєтъ)
+    Translation: to rise
+  - Word: показовати
+    Translation: to show
+  - Word: мапа
+    Translation: map
+  - Word: пꙋтьствовати
+    Translation: to travel
+  - Word: право
+    Translation: right
+  - Word: лѣво
+    Translation: left
+  - Word: прємо
+    Translation: straight
+
+Phrases:
+  - Phrase: Сѣвєръ ѥстъ хладьнъ.
+    Translation: The north is cold.
+  - Phrase: Югъ ѥстъ тєплъи.
+    Translation: The south is warm.
+  - Phrase: Слъньцє въстанєтъ на възходꙋ.
+    Translation: The sun rises in the east.
+  - Phrase: Оно западаѥтъ на западꙋ.
+    Translation: It sets in the west.
+  - Phrase: Сь ѥстъ сѣвєрьна страна.
+    Translation: This is the northern side.
+  - Phrase: Жинємъ на югꙋ.
+    Translation: We live in the south.
+  - Phrase: Компасъ показоваѥтъ сѣвєръ.
+    Translation: The compass shows north.
+  - Phrase: Възходъ ѥстъ тамъ.
+    Translation: The east is there.
+  - Phrase: Западънъи вѣтръ дꙋѥтъ.
+    Translation: A western wind is blowing.
+  - Phrase: Идємъ къ югъ-западꙋ.
+    Translation: We are going to the southwest.
+  - Phrase: Сь ѥстъ сѣвєро-западънъи рєгионъ.
+    Translation: This is the northwestern region.
+  - Phrase: Страна на мапѣ показоваѥтъ западъ.
+    Translation: The side on the map shows west.
+  - Phrase: Юго-възходъ ѥстъ тамъ, гдѣ грѣѥтъ слъньцє.
+    Translation: The southeast is where the sun warms.
+  - Phrase: Идємъ до южьноѩ странꙑ.
+    Translation: We are going to the southern side.
+  - Phrase: Онъ пꙋтьствоѥтъ възходъно.
+    Translation: He travels eastward.
+  - Phrase: На сѣвєрꙋ ѥстъ снѣгъ.
+    Translation: In the north there is snow.
+  - Phrase: Южьни краѥ сѫтъ тєплє.
+    Translation: The southern regions are warm.
+  - Phrase: Западъ ѥстъ лѣво на мапѣ.
+    Translation: West is left on the map.
+  - Phrase: Възходъна мꙋзика ѥстъ интєрєсьна.
+    Translation: Eastern music is interesting.
+  - Phrase: Глѧдаѥмъ къ сѣвєрꙋ.
+    Translation: We are looking to the north.
+  - Phrase: Идємъ тꙋ часъ въ право и потомъ прємо.
+    Translation: We are going right now and then straight.
+
+Mini-dictionary:
+  Old Church Slavonic:
+    - въ: in, at
+    - възходъна: eastern (feminine)
+    - възходъно: eastern (neuter)
+    - възходꙋ: to the east
+    - въстанєтъ: he/she/it will get up
+    - въстати: to get up
+    - вѣтръ: wind
+    - глѧдаѥмъ: we watch
+    - грѣѥтъ: it warms
+    - до: to, until
+    - дꙋѥтъ: it blows
+    - жинємъ: we live
+    - западаѥтъ: it sets (sun)
+    - западънъи: western
+    - западꙋ: to the west
+    - и: and
+    - идємъ: we go
+    - интєрєсьна: interesting (feminine)
+    - краѥ: at the end
+    - къ: to, towards
+    - мапѣ: on the map
+    - мꙋзика: music
+    - на: on, to
+    - оно: it
+    - онъ: he
+    - показоваѥтъ: he/she/it shows
+    - потомъ: then, after
+    - пꙋтьствоѥтъ: he/she/it travels
+    - рєгионъ: region
+    - слъньцє: sun
+    - снѣгъ: snow
+    - странꙑ: of the country
+    - сь: this
+    - сѣвєро-западънъи: north-western
+    - сѣвєрьна: northern (feminine)
+    - сѣвєрꙋ: to the north
+    - сѫтъ: they are
+    - тамъ: there
+    - тєплъи: warm
+    - тєплє: warmly
+    - тꙋ: here
+    - хладьнъ: cold
+    - часъ: hour
+    - юго-възходъ: southeast
+    - югъ-западꙋ: to the southwest
+    - югꙋ: to the south
+    - южьни: southern (plural)
+    - южьноѩ: of the south
+    - ѥстъ: he/she/it is
+  English:
+    - a: jedin/один
+    - and: и
+    - are: byti/быти
+    - blowing: дꙋѥтъ
+    - cold: хладънъ
+    - compass: компасъ
+    - east: възходъ
+    - eastern: възходънъ
+    - eastward: на възходъ
+    - going: идєтъ
+    - he: онъ
+    - in: въ
+    - interesting: интєрєсьнъ
+    - is: ѥстъ
+    - it: ono
+    - left: лѣвъ
+    - live: жити
+    - looking: глѧдаѥтъ
+    - map: мапа
+    - music: мꙋзика
+    - north: сѣвєръ
+    - northern: сѣвєрьнъ
+    - northwestern: сѣвєро-западънъ
+    - now: сєичасъ
+    - on: на
+    - region: рєгионъ
+    - regions: рєгионꙑ
+    - right: правъ, направо
+    - rise: въстати
+    - rises: въстаѥтъ
+    - sets: западаѥтъ
+    - show: показати
+    - shows: показоваѥтъ
+    - side: страна
+    - snow: снѣгъ
+    - south: югъ
+    - southeast: юго-възходъ
+    - southern: южьнъ
+    - southwest: юго-западъ
+    - straight: прѣмо
+    - sun: слъньцє
+    - the: to
+    - then: потомъ
+    - there: тамъ
+    - this: сь, сꙗ, сє
+    - to: къ, на
+    - travel: пꙋтьствовати
+    - travels: пꙋтьствоѥтъ
+    - warm: тєплъ
+    - warms: грѣѥтъ
+    - we: мꙑ
+    - west: западъ
+    - western: западънъ
+    - where: гдѣ
+    - wind: вѣтръ

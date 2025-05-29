@@ -1,0 +1,198 @@
+Skill:
+  Name: Conjugation of to be
+  Id: 1
+
+New words:
+  - Word: тото
+    Translation: this (m)
+  - Word: тота
+    Translation: this (f)
+  - Word: тотот
+    Translation: that (m)
+  - Word: тамтотот
+    Translation: that over there (f)
+  - Word: тамтота
+    Translation: that over there (n)
+  - Word: єм
+    Translation: i am
+  - Word: єс
+    Translation: you are (sg)
+  - Word: є
+    Translation: he is
+  - Word: сме
+    Translation: we are
+  - Word: сьте
+    Translation: you are (pl)
+  - Word: суть
+    Translation: they are
+  - Word: я
+    Translation: I
+  - Word: ты
+    Translation: you
+  - Word: он
+    Translation: he
+  - Word: она
+    Translation: she
+  - Word: оно
+    Translation: it
+  - Word: мы
+    Translation: we
+  - Word: вы
+    Translation: you
+  - Word: они
+    Translation: they
+  - Word: они
+    Translation: they
+  - Word: чоловік
+    Translation: person
+  - Word: жена
+    Translation: woman
+  - Word: муж
+    Translation: man
+  - Word: дїтя
+    Translation: child
+  - Word: приятель
+    Translation: friend
+  - Word: сестра
+    Translation: sister
+  - Word: родитель
+    Translation: parent
+  - Word: дом
+    Translation: house
+  - Word: місто
+    Translation: city
+  - Word: дїнь
+    Translation: day
+  - Word: тоже
+    Translation: also
+  - Word: хто
+    Translation: who
+
+Phrases:
+  - Phrase: Я єм мудрый.
+    Translation: I am wise.
+  - Phrase: Тото моя сестра.
+    Translation: This is my sister.
+  - Phrase: Она много мудра
+    Translation: She is very wise
+  - Phrase: Мы много мудры
+    Translation: We are very wise
+  - Phrase: Вы тоже мудры?
+    Translation: Are you also wise?
+  - Phrase: Тото добрый чоловік.
+    Translation: This is a good person.
+  - Phrase: Тота жена є добра.
+    Translation: This woman is good.
+  - Phrase: Тото є мой дом.
+    Translation: This is my house.
+  - Phrase: Тотот є добрый приятель
+    Translation: He is a good friend
+  - Phrase: Вы єсьте добры.
+    Translation: You are good.
+  - Phrase: Тото суть приятелї.
+    Translation: These are friends.
+  - Phrase: Хто ты єси?
+    Translation: Who are you?
+  - Phrase: Тотот муж є милый.
+    Translation: That man is kind.
+  - Phrase: Тото є приємне місто.
+    Translation: This is a pleasant city.
+  - Phrase: Тота жена є высока.
+    Translation: That woman is tall.
+  - Phrase: Тотот дїнь є хладный.
+    Translation: That day is cold.
+  - Phrase: Тамтотот дом є красный.
+    Translation: That house over there is beautiful.
+  - Phrase: Тото моє дїтя.
+    Translation: This is my child.
+  - Phrase: Тамто утро є хладноє.
+    Translation: That morning over there is cold.
+  - Phrase: Тото не моя сестра.
+    Translation: This is not my sister.
+  - Phrase: Тото не твой дом.
+    Translation: This is not your house.
+  - Phrase: Тото добре авто?
+    Translation: Is this a good car?
+  - Phrase: Тото добры приятелї?
+    Translation: Are these good friends?
+  - Phrase: Они суть много милы.
+    Translation: They are very kind.
+  - Phrase: Они суть много милы
+    Translation: They are very kind
+
+Mini-dictionary:
+  Rusin:
+    - авто: car
+    - высока: high
+    - добра: good
+    - добре: good
+    - добры: good
+    - добрый: good
+    - красный: beautiful
+    - милы: kind
+    - милый: kind
+    - много: many
+    - мой: my
+    - моя: my
+    - моє: my
+    - мудра: wise
+    - мудры: wise
+    - мудрый: wise
+    - не: not
+    - приятелї: friends
+    - приємне: pleasant
+    - тамто: that
+    - твой: your
+    - утро: morning
+    - хладноє: cold
+    - хладный: cold
+    - єси: are
+    - єсьте: are
+  English:
+    - a: jedin/один
+    - also: також
+    - am: єм
+    - are: byti/быти
+    - beautiful: файный
+    - car: авто
+    - child: дїтина
+    - city: місто
+    - cold: зима
+    - day: день
+    - f: undef
+    - friend: камарат
+    - friends: камараты
+    - good: добрый
+    - he: він
+    - house: хыжа
+    - i: я
+    - is: є
+    - it: то
+    - kind: добрый
+    - m: undef
+    - man: чоловік
+    - morning: рано
+    - my: мій
+    - n: undef
+    - not: не
+    - over: над
+    - parent: родитель
+    - person: особа
+    - pl: undef
+    - pleasant: приємный
+    - sg: undef
+    - she: она
+    - sister: сестра
+    - tall: высокый
+    - that: тот
+    - there: там
+    - these: тоты
+    - they: они
+    - this: тот
+    - very: дуже
+    - we: мы
+    - who: хто
+    - wise: мудрый
+    - woman: жона
+    - you: ты
+    - your: твій

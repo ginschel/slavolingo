@@ -1,0 +1,198 @@
+Skill:
+  Name: Cases revision
+  Id: 19
+
+New words:
+  - Word: "řezat (řeže)"
+    Translation: to cut
+  - Word: "dar"
+    Translation: gift
+  - Word: "vesmír"
+    Translation: universe
+  - Word: "zrcadlo"
+    Translation: mirror
+
+Phrases:
+  - Phrase: Kostí tu není.
+    Translation: There is no bone here.
+  - Phrase: Dám ženě.
+    Translation: I give to the woman.
+  - Phrase: Ona je ve městě.
+    Translation: She is in the city.
+  - Phrase: Mluvíme s přáteli.
+    Translation: I talk with friends.
+  - Phrase: Jméno on nemá.
+    Translation: He has no name.
+  - Phrase: Ty duši nemáš?!
+    Translation: You don't have a soul?!
+  - Phrase: On vidí svou ženu.
+    Translation: He sees his wife.
+  - Phrase: Bratra tu není.
+    Translation: There is no brother here.
+  - Phrase: To se může řezat nožem.
+    Translation: This can be cut with a knife.
+  - Phrase: Ona s mužem mluví.
+    Translation: She talks with her husband.
+  - Phrase: Ona mluví o bratrech.
+    Translation: She talks about brothers.
+  - Phrase: Ona dává dar bratrům.
+    Translation: She gives a gift to the brothers.
+  - Phrase: Na poli mnoho pracuji.
+    Translation: I work a lot in the field.
+  - Phrase: Je mnoho sluncí ve vesmíru.
+    Translation: There are many suns in the universe.
+  - Phrase: A také je mnoho hvězd.
+    Translation: And there are also many stars.
+  - Phrase: On má rád mluvit se svou ženou.
+    Translation: He likes to talk with his wife.
+  - Phrase: Už není banánů v domě.
+    Translation: There are no more bananas in the house.
+  - Phrase: V očích vidím duši tvou.
+    Translation: In the eyes I see your soul.
+  - Phrase: Oči jsou zrcadlem duše.
+    Translation: Eyes are the mirror of the soul.
+  - Phrase: Mužů tu nevidím.
+    Translation: I do not see men here.
+  - Phrase: V městech uvidíš mnoho lidí.
+    Translation: In the cities you will see many people.
+  - Phrase: Dobrou noc!
+    Translation: Good night!
+
+Mini-dictionary:
+  Czech:
+    - a: a
+    - banánů: bananas
+    - bratra: brother
+    - bratrech: brothers
+    - bratrům: brothers
+    - dar: gift
+    - dobrou: good
+    - domě: home
+    - duše: soul
+    - duši: soul
+    - dám: I will give
+    - dává: gives
+    - hvězd: stars
+    - je: is
+    - jméno: name
+    - jsou: are
+    - kostí: bones
+    - lidí: people
+    - mluvit: speak/talk
+    - mluví: speaks/talks
+    - mluvíme: we speak/talk
+    - mnoho: many/much
+    - mužem: man
+    - mužů: men
+    - má: has
+    - městech: cities
+    - městě: city
+    - může: can
+    - na: on
+    - nemá: doesn't have
+    - nemáš: you don't have
+    - není: isn't
+    - nevidím: I don't see
+    - noc: night
+    - nožem: knife
+    - o: about/of
+    - on: he
+    - ona: she
+    - oči: eyes
+    - očích: eyes
+    - poli: field
+    - pracuji: I work
+    - přáteli: friends
+    - rád: likes
+    - s: with
+    - se: oneself
+    - sluncí: suns
+    - svou: own
+    - také: also
+    - to: it/that
+    - tu: here
+    - tvou: your
+    - ty: you
+    - uvidíš: you will see
+    - už: already
+    - v: in
+    - ve: in
+    - vesmír: universe
+    - vesmíru: universe
+    - vidí: sees
+    - vidím: I see
+    - zrcadlem: mirror
+    - zrcadlo: mirror
+    - řezat: cut
+    - řeže: cuts
+    - ženou: woman
+    - ženu: woman
+    - ženě: woman
+  English:
+    - a: jedin/один
+    - about: o
+    - also: také
+    - and: a
+    - are: byti/быти
+    - bananas: banány
+    - be: být
+    - bone: kost
+    - brother: bratr
+    - brothers: bratři
+    - can: může
+    - cities: města
+    - city: město
+    - cut: řezat
+    - do: dělat
+    - don't: nedělej
+    - eyes: oči
+    - field: pole
+    - friends: přátelé
+    - gift: dárek
+    - give: dát
+    - gives: dává
+    - good: dobrý
+    - has: má
+    - have: mít
+    - he: on
+    - her: její
+    - here: zde
+    - his: jeho
+    - house: dům
+    - husband: manžel
+    - i: já
+    - in: v
+    - is: je
+    - knife: nůž
+    - likes: má rád
+    - lot: hodně
+    - many: mnoho
+    - men: muži
+    - mirror: zrcadlo
+    - more: více
+    - name: jméno
+    - night: noc
+    - no: ne
+    - not: ne
+    - of: z
+    - people: lidé
+    - see: vidět
+    - sees: vidí
+    - she: ona
+    - soul: duše
+    - stars: hvězdy
+    - suns: slunce
+    - talk: mluvit
+    - talks: mluví
+    - the: to
+    - there: tam
+    - this: toto
+    - to: do
+    - universe: vesmír
+    - wife: manželka
+    - will: bude
+    - with: s
+    - woman: žena
+    - work: práce
+    - you: ty/vy
+    - your: tvůj/váš

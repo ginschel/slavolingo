@@ -1,0 +1,176 @@
+Skill:
+  Name: Nationalities
+  Id: 11
+
+New words:
+  - Word: słowianin
+    Translation: Slav
+  - Word: język
+    Translation: language
+  - Word: państwo
+    Translation: country
+  - Word: naród
+    Translation: nation
+  - Word: imię
+    Translation: name
+  - Word: Chorwatka
+    Translation: Croat
+  - Word: Rosjanin
+    Translation: Russian
+  - Word: Polak
+    Translation: Pole
+  - Word: Niemiec
+    Translation: German
+  - Word: Anglik
+    Translation: Englishman
+
+Phrases:
+  - Phrase: On jest Słowianinem.
+    Translation: He is a Slav.
+  - Phrase: Ona mówi w języku słowiańskim.
+    Translation: She speaks the Slavic language.
+  - Phrase: To jest mój język.
+    Translation: This is my language.
+  - Phrase: Państwem jest Polska.
+    Translation: The country is Poland.
+  - Phrase: Ja jestem Polakiem.
+    Translation: I am a Pole.
+  - Phrase: Ona jest Chorwatką.
+    Translation: She is a Croat.
+  - Phrase: On jest Rosjaninem.
+    Translation: He is a Russian.
+  - Phrase: Czy mówisz w języku niemieckim?
+    Translation: Do you speak the German language?
+  - Phrase: Anglik mówi w języku angielskim.
+    Translation: An Englishman speaks the English language.
+  - Phrase: My kochamy swój naród.
+    Translation: We love our nation.
+  - Phrase: To jest nazwa mojego państwa.
+    Translation: This is the name of my country.
+  - Phrase: On zna trzy języki.
+    Translation: He knows three languages.
+  - Phrase: Chorwat mówi w języku chorwackim.
+    Translation: A Croat speaks the Croatian language.
+  - Phrase: Niemiec żyje w Niemczech.
+    Translation: A German lives in Germany.
+  - Phrase: Ona zna rosyjski i słowiański.
+    Translation: She knows Russian and Slavic.
+  - Phrase: To jest naród z bogatą kulturą.
+    Translation: This is a nation with a rich culture.
+  - Phrase: Ty jesteś Anglikiem?
+    Translation: Are you an Englishman?
+  - Phrase: On mówi każdym językiem dobrze.
+    Translation: He speaks every language well.
+  - Phrase: My uczymy się języka rosyjskiego.
+    Translation: We are learning the Russian language.
+  - Phrase: Ona zna dużo narodów.
+    Translation: She knows many nations.
+
+Mini-dictionary:
+  Polish:
+    - angielskim: English
+    - anglik: Englishman
+    - anglikiem: Englishman
+    - bogatą: rich
+    - chorwackim: Croatian
+    - chorwat: Croat
+    - chorwatka: Croat (female)
+    - chorwatką: Croat (female)
+    - czy: whether
+    - dobrze: good
+    - dużo: much
+    - i: and
+    - ja: I
+    - jest: is
+    - jestem: I am
+    - jesteś: you are
+    - języka: language
+    - języki: languages
+    - językiem: language
+    - języku: language
+    - każdym: every
+    - kochamy: we love
+    - kulturą: culture
+    - mojego: my
+    - my: we
+    - mój: my
+    - mówi: says
+    - mówisz: you say
+    - narodów: nations
+    - nazwa: name
+    - niemczech: Germany
+    - niemiec: German
+    - niemieckim: German
+    - on: he
+    - ona: she
+    - państwa: state
+    - państwem: state
+    - polak: Pole
+    - polakiem: Pole
+    - polska: Poland
+    - rosjanin: Russian
+    - rosjaninem: Russian
+    - rosyjski: Russian
+    - rosyjskiego: Russian
+    - się: oneself
+    - swój: one's own
+    - słowianinem: Slav
+    - słowiański: Slavic
+    - słowiańskim: Slavic
+    - to: this
+    - trzy: three
+    - ty: you
+    - uczymy: we teach
+    - w: in
+    - z: with
+    - zna: knows
+    - żyje: lives
+  English:
+    - a: jedin/один
+    - am: jestem
+    - an: pewien
+    - and: i
+    - are: byti/быти
+    - country: kraj
+    - croat: chorwat
+    - croatian: chorwackim
+    - culture: kultura
+    - do: robić
+    - english: angielskim
+    - englishman: Anglik
+    - every: każdy
+    - german: Niemiec
+    - germany: Niemcy
+    - he: on
+    - i: ja
+    - in: w
+    - is: jest
+    - knows: zna
+    - language: język
+    - languages: języki
+    - learning: uczenie się
+    - lives: żyje
+    - love: miłość
+    - many: wiele
+    - my: mój
+    - name: nazwa
+    - nation: naród
+    - nations: narodów
+    - of: z
+    - our: nasz
+    - poland: Polska
+    - pole: Polak
+    - rich: bogaty
+    - russian: rosyjski
+    - she: ona
+    - slav: słowianin
+    - slavic: słowiański
+    - speak: mówić
+    - speaks: mówi
+    - the: to
+    - this: to
+    - three: trzy
+    - we: my
+    - well: dobrze
+    - with: z
+    - you: ty
